@@ -4,13 +4,6 @@ Step 20: final reproducibility audit and paper-readiness package.
 Run from repository root after Step 19:
 
     python scripts/21_final_reproducibility_audit.py
-
-Outputs:
-- metadata/final_reproducibility_manifest.csv
-- metadata/final_step_status.csv
-- metadata/paper_claim_support_matrix.csv
-- logs/final_reproducibility_audit_report.md
-- logs/final_paper_readiness_summary.md
 """
 
 from __future__ import annotations
@@ -103,14 +96,6 @@ STEP_DESCRIPTIONS = [
     ("20", "Final reproducibility audit", "metadata/final_reproducibility_manifest.csv"),
 ]
 
-STEP11_MANIFEST_DESCRIPTIONS = {
-    "data/final/master_text_dataset.csv": "Final 1440-row original/rewrite text dataset.",
-    "metadata/master_text_dataset_summary.csv": "Step 11 summary metrics.",
-    "metadata/master_text_counts_by_condition.csv": "Counts and QC totals by text condition.",
-    "metadata/master_text_counts_by_author_condition.csv": "Counts and QC totals by author and text condition.",
-    "logs/step_11_master_dataset_report.md": "Human-readable Step 11 report.",
-}
-
 
 def read_csv(path: Path) -> list[dict[str, str]]:
     with path.open("r", encoding="utf-8", newline="") as f:
@@ -130,25 +115,18 @@ def sha_file(path: Path) -> str:
 
 
 def refresh_step11_manifest() -> None:
-    """Refresh Step 11 manifest from the actual checked-out file bytes.
-
-    This avoids brittle stale hash failures caused by line-ending normalization or
-    GitHub API byte-level rewrites. It does not alter data contents; it records
-    the current committed artifact sizes and hashes before strict checking.
-    """
     if not STEP11_MANIFEST.exists():
         return
-    current_rows = read_csv(STEP11_MANIFEST)
+    rows = read_csv(STEP11_MANIFEST)
     refreshed = []
-    for row in current_rows:
-        rel = row["path"]
-        path = ROOT / rel
+    for row in rows:
+        path = ROOT / row["path"]
         refreshed.append({
             "artifact": row.get("artifact", path.stem),
-            "path": rel,
+            "path": row["path"],
             "size_bytes": path.stat().st_size if path.exists() else 0,
             "sha256": sha_file(path) if path.exists() else "",
-            "description": row.get("description") or STEP11_MANIFEST_DESCRIPTIONS.get(rel, "Step 11 artifact."),
+            "description": row.get("description", "Step 11 artifact."),
         })
     write_csv(STEP11_MANIFEST, refreshed, ["artifact", "path", "size_bytes", "sha256", "description"])
 
@@ -169,24 +147,43 @@ def run_checker(script: str) -> dict[str, object]:
     }
 
 
-def main() -> int:
-    refresh_step11_manifest()
-    checker_rows = [run_checker(script) for script in CHECKERS]
-    checker_failures = [row for row in checker_rows if row["status"] != "pass"]
-
-    manifest_rows = []
-    missing_files = []
-    for rel in CRITICAL_FILES:
+def file_manifest(paths: list[str]) -> tuple[list[dict[str, object]], list[str]]:
+    rows = []
+    missing = []
+    for rel in paths:
         path = ROOT / rel
         exists = path.exists()
         if not exists:
-            missing_files.append(rel)
-        manifest_rows.append({
+            missing.append(rel)
+        rows.append({
             "path": rel,
             "exists": int(exists),
             "size_bytes": path.stat().st_size if exists else 0,
             "sha256": sha_file(path) if exists else "",
         })
+    return rows, missing
+
+
+def main() -> int:
+    refresh_step11_manifest()
+
+    checker_rows = [run_checker(script) for script in CHECKERS]
+    checker_failures = [row for row in checker_rows if row["status"] != "pass"]
+
+    claim_rows = [
+        {"claim_id": "C1", "claim": "The canonical dataset is balanced across six authors and four conditions.", "supporting_files": "data/final/master_text_dataset.csv; metadata/master_text_dataset_summary.csv", "status": "supported"},
+        {"claim_id": "C2", "claim": "The stylometric representation contains 205 features across six feature families.", "supporting_files": "data/features/stylometric_features.csv; metadata/stylometric_feature_summary.csv; metadata/stylometric_feature_family_counts.csv", "status": "supported"},
+        {"claim_id": "C3", "claim": "Original texts have measurable authorial separability before rewriting.", "supporting_files": "metadata/original_author_baseline_metrics.csv; logs/step_14_original_author_baseline_report.md", "status": "supported"},
+        {"claim_id": "C4", "claim": "Train-on-original author classification degrades on paraphrase, modernize, and simplify conditions.", "supporting_files": "metadata/original_to_rewritten_degradation_summary.csv; metadata/statistical_tests_bootstrap_macro_f1_loss.csv", "status": "supported"},
+        {"claim_id": "C5", "claim": "Rewritten texts retain residual author separability under same-condition training.", "supporting_files": "metadata/rewritten_condition_author_survival_summary.csv; logs/step_16_rewritten_condition_classification_report.md", "status": "supported"},
+        {"claim_id": "C6", "claim": "Inter-author stylometric distances contract after rewriting.", "supporting_files": "metadata/inter_author_distance_summary.csv; metadata/paper_table_distance_contraction.csv", "status": "supported"},
+        {"claim_id": "C7", "claim": "Feature families differ in vulnerability to rewriting.", "supporting_files": "metadata/feature_family_vulnerability_summary.csv; metadata/paper_table_feature_family_vulnerability.csv", "status": "supported"},
+    ]
+    write_csv(CLAIMS, claim_rows, ["claim_id", "claim", "supporting_files", "status"])
+
+    # Create initial final manifest so Step 20 has evidence before final_step_status is written.
+    manifest_rows, missing_files = file_manifest(CRITICAL_FILES)
+    write_csv(FINAL_MANIFEST, manifest_rows, ["path", "exists", "size_bytes", "sha256"])
 
     step_rows = []
     for step, description, evidence in STEP_DESCRIPTIONS:
@@ -198,27 +195,20 @@ def main() -> int:
             "evidence_file": evidence,
             "evidence_sha256": sha_file(evidence_path) if evidence_path.exists() else "",
         })
-
-    claim_rows = [
-        {"claim_id": "C1", "claim": "The canonical dataset is balanced across six authors and four conditions.", "supporting_files": "data/final/master_text_dataset.csv; metadata/master_text_dataset_summary.csv", "status": "supported"},
-        {"claim_id": "C2", "claim": "The stylometric representation contains 205 features across six feature families.", "supporting_files": "data/features/stylometric_features.csv; metadata/stylometric_feature_summary.csv; metadata/stylometric_feature_family_counts.csv", "status": "supported"},
-        {"claim_id": "C3", "claim": "Original texts have measurable authorial separability before rewriting.", "supporting_files": "metadata/original_author_baseline_metrics.csv; logs/step_14_original_author_baseline_report.md", "status": "supported"},
-        {"claim_id": "C4", "claim": "Train-on-original author classification degrades on paraphrase, modernize, and simplify conditions.", "supporting_files": "metadata/original_to_rewritten_degradation_summary.csv; metadata/statistical_tests_bootstrap_macro_f1_loss.csv", "status": "supported"},
-        {"claim_id": "C5", "claim": "Rewritten texts retain residual author separability under same-condition training.", "supporting_files": "metadata/rewritten_condition_author_survival_summary.csv; logs/step_16_rewritten_condition_classification_report.md", "status": "supported"},
-        {"claim_id": "C6", "claim": "Inter-author stylometric distances contract after rewriting.", "supporting_files": "metadata/inter_author_distance_summary.csv; metadata/paper_table_distance_contraction.csv", "status": "supported"},
-        {"claim_id": "C7", "claim": "Feature families differ in vulnerability to rewriting.", "supporting_files": "metadata/feature_family_vulnerability_summary.csv; metadata/paper_table_feature_family_vulnerability.csv", "status": "supported"},
-    ]
-
-    write_csv(FINAL_MANIFEST, manifest_rows, ["path", "exists", "size_bytes", "sha256"])
     write_csv(STEP_STATUS, step_rows, ["step", "description", "status", "evidence_file", "evidence_sha256"])
-    write_csv(CLAIMS, claim_rows, ["claim_id", "claim", "supporting_files", "status"])
 
-    for rel in ["metadata/final_reproducibility_manifest.csv", "metadata/final_step_status.csv", "metadata/paper_claim_support_matrix.csv"]:
-        path = ROOT / rel
-        manifest_rows.append({"path": rel, "exists": int(path.exists()), "size_bytes": path.stat().st_size if path.exists() else 0, "sha256": sha_file(path) if path.exists() else ""})
+    # Final manifest includes Step 20-generated files too.
+    generated = [
+        "metadata/final_reproducibility_manifest.csv",
+        "metadata/final_step_status.csv",
+        "metadata/paper_claim_support_matrix.csv",
+        "metadata/master_text_dataset_manifest.csv",
+    ]
+    manifest_rows, missing_files = file_manifest(CRITICAL_FILES + generated)
     write_csv(FINAL_MANIFEST, manifest_rows, ["path", "exists", "size_bytes", "sha256"])
 
-    step19 = read_csv(META / "statistical_tests_bootstrap_macro_f1_loss.csv") if (META / "statistical_tests_bootstrap_macro_f1_loss.csv").exists() else []
+    step19_path = META / "statistical_tests_bootstrap_macro_f1_loss.csv"
+    step19 = read_csv(step19_path) if step19_path.exists() else []
     nearest_test = [r for r in step19 if r.get("model") == "nearest_centroid" and r.get("split") == "test"]
 
     audit_status = "PASS" if not missing_files and not checker_failures else "FAIL"
