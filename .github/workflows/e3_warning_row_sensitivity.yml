@@ -1,0 +1,45 @@
+name: E3 Warning-Row Sensitivity
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  e3-warning-row-sensitivity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run E3 warning-row sensitivity analysis
+        run: python scripts/22_run_warning_row_sensitivity.py
+
+      - name: Check E3 outputs
+        run: python scripts/check_e3_warning_row_sensitivity.py
+
+      - name: Commit E3 outputs if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/results/warning_row_sensitivity_transfer_predictions.csv \
+                  metadata/warning_row_sensitivity_transfer_summary.csv \
+                  metadata/warning_row_sensitivity_same_condition_summary.csv \
+                  metadata/warning_row_sensitivity_distance_summary.csv \
+                  metadata/warning_row_sensitivity_feature_family_summary.csv \
+                  metadata/warning_row_sensitivity_bootstrap_macro_f1_loss.csv \
+                  metadata/warning_row_sensitivity_subset_counts.csv \
+                  metadata/warning_row_sensitivity_manifest.csv \
+                  logs/warning_row_sensitivity_report.md
+          if git diff --cached --quiet; then
+            echo "No E3 output changes to commit."
+          else
+            git commit -m "Generate E3 warning-row sensitivity outputs"
+            git push
+          fi
