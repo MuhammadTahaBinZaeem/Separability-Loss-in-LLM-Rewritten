@@ -1,0 +1,8 @@
+claim_id,claim,supporting_files,status
+C1,The canonical dataset is balanced across six authors and four conditions.,data/final/master_text_dataset.csv; metadata/master_text_dataset_summary.csv,supported
+C2,The stylometric representation contains 205 features across six feature families.,data/features/stylometric_features.csv; metadata/stylometric_feature_summary.csv; metadata/stylometric_feature_family_counts.csv,supported
+C3,Original texts have measurable authorial separability before rewriting.,metadata/original_author_baseline_metrics.csv; logs/step_14_original_author_baseline_report.md,supported
+C4,"Train-on-original author classification degrades on paraphrase, modernize, and simplify conditions.",metadata/original_to_rewritten_degradation_summary.csv; metadata/statistical_tests_bootstrap_macro_f1_loss.csv,supported
+C5,Rewritten texts retain residual author separability under same-condition training.,metadata/rewritten_condition_author_survival_summary.csv; logs/step_16_rewritten_condition_classification_report.md,supported
+C6,Inter-author stylometric distances contract after rewriting.,metadata/inter_author_distance_summary.csv; metadata/paper_table_distance_contraction.csv,supported
+C7,Feature families differ in vulnerability to rewriting.,metadata/feature_family_vulnerability_summary.csv; metadata/paper_table_feature_family_vulnerability.csv,supported
