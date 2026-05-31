@@ -44,6 +44,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add \
+            metadata/master_text_dataset_manifest.csv \
             metadata/final_reproducibility_manifest.csv \
             metadata/final_step_status.csv \
             metadata/paper_claim_support_matrix.csv \
