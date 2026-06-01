@@ -1,0 +1,1 @@
+request_id,replication_model_id,provider,provider_label,provider_model_name,provider_model_version,run_id,passage_id,condition,rewritten_text,temperature,top_p,source_text_sha256,rewritten_text_sha256,original_word_count,rewritten_word_count,length_ratio,qc_status,qc_flags,parse_status,created_utc
