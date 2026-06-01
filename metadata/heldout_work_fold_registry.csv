@@ -1,0 +1,13 @@
+fold_id,author_id,train_work_id,train_work_title,test_work_id,test_work_title,train_selected_passages,test_selected_passages
+work_fold_1,austen,emma,Emma,pride_and_prejudice,Pride and Prejudice,30,30
+work_fold_1,dickens,great_expectations,Great Expectations,oliver_twist,Oliver Twist,30,30
+work_fold_1,poe,works_volume_1,The Works of Edgar Allan Poe Volume 1,works_volume_2,The Works of Edgar Allan Poe Volume 2,30,30
+work_fold_1,shelley,frankenstein,Frankenstein or The Modern Prometheus,the_last_man,The Last Man,30,30
+work_fold_1,twain,huckleberry_finn,Adventures of Huckleberry Finn,tom_sawyer,The Adventures of Tom Sawyer,30,30
+work_fold_1,wilde,dorian_gray,The Picture of Dorian Gray,lord_arthur_stories,Lord Arthur Savile's Crime and Other Stories,30,30
+work_fold_2,austen,pride_and_prejudice,Pride and Prejudice,emma,Emma,30,30
+work_fold_2,dickens,oliver_twist,Oliver Twist,great_expectations,Great Expectations,30,30
+work_fold_2,poe,works_volume_2,The Works of Edgar Allan Poe Volume 2,works_volume_1,The Works of Edgar Allan Poe Volume 1,30,30
+work_fold_2,shelley,the_last_man,The Last Man,frankenstein,Frankenstein or The Modern Prometheus,30,30
+work_fold_2,twain,tom_sawyer,The Adventures of Tom Sawyer,huckleberry_finn,Adventures of Huckleberry Finn,30,30
+work_fold_2,wilde,lord_arthur_stories,Lord Arthur Savile's Crime and Other Stories,dorian_gray,The Picture of Dorian Gray,30,30
