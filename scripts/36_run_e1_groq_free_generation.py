@@ -5,9 +5,16 @@ This script runs one Groq-hosted model at a time using an API key supplied via
 GitHub Actions secrets or local environment variables. It keeps outputs separate
 from the frozen Gemini Flash core dataset.
 
+It is designed for free/limited Groq plans:
+- resumes from existing successful raw responses;
+- handles 429 rate limits using retry-after / x-ratelimit-reset headers;
+- waits for short token-window resets;
+- exits cleanly before the GitHub Actions job timeout when a reset is too long,
+  so partial outputs can be committed and the next run can resume.
+
 Run locally, for example:
 
-    GROQ_LLAMA_API_KEY=... python scripts/36_run_e1_groq_free_generation.py --target llama --passages-per-author 3 --resume
+    GROQ_LLAMA_API_KEY=... python scripts/36_run_e1_groq_free_generation.py --target llama --passages-per-author 55 --resume
 
 Targets:
 
@@ -31,7 +38,7 @@ import sys
 import time
 import urllib.error
 import urllib.request
-from collections import defaultdict
+from collections import Counter, defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -43,7 +50,6 @@ helper = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(helper)  # type: ignore[union-attr]
 
 OUT_ROOT = ROOT / "data" / "interim" / "e1_free_model_replication" / "groq_generation"
-META = ROOT / "metadata"
 LOGS = ROOT / "logs"
 
 TARGETS = {
@@ -52,23 +58,36 @@ TARGETS = {
         "provider_model_name": "llama-3.3-70b-versatile",
         "provider_label": "Groq Llama 3.3 70B free-tier run",
         "api_key_env": "GROQ_LLAMA_API_KEY",
+        "recommended_sleep_seconds": 8.0,
     },
     "qwen": {
         "replication_model_id": "groq_qwen_32b_free",
         "provider_model_name": "qwen/qwen3-32b",
         "provider_label": "Groq Qwen 32B free-tier run",
         "api_key_env": "GROQ_QWEN_API_KEY",
+        "recommended_sleep_seconds": 15.0,
     },
     "gptoss": {
         "replication_model_id": "groq_gpt_oss_120b_free",
         "provider_model_name": "openai/gpt-oss-120b",
         "provider_label": "Groq GPT-OSS 120B free-tier run",
         "api_key_env": "GROQ_GPTOSS_API_KEY",
+        "recommended_sleep_seconds": 12.0,
     },
 }
 
 CONDITIONS = ["paraphrase", "modernize", "simplify"]
 API_URL = "https://api.groq.com/openai/v1/chat/completions"
+DEFAULT_MAX_RUNTIME_MINUTES = 320
+SAFETY_SHUTDOWN_SECONDS = 240
+MAX_SINGLE_WAIT_SECONDS = 1800
+
+
+class RateLimitWait(Exception):
+    def __init__(self, wait_seconds: float, reason: str):
+        super().__init__(reason)
+        self.wait_seconds = wait_seconds
+        self.reason = reason
 
 
 def utc_now() -> str:
@@ -152,6 +171,60 @@ def completed_ids(raw_path: Path) -> set[str]:
     return {row.get("request_id", "") for row in read_jsonl(raw_path) if row.get("status") == "ok"}
 
 
+def parse_duration_seconds(value: str | None) -> float | None:
+    if not value:
+        return None
+    value = str(value).strip().lower()
+    if not value:
+        return None
+    try:
+        return float(value)
+    except ValueError:
+        pass
+    total = 0.0
+    # Supports strings such as 7.66s, 2m59.56s, 1h2m3s.
+    matches = re.findall(r"([0-9]+(?:\.[0-9]+)?)(ms|s|m|h)", value)
+    if not matches:
+        return None
+    for amount, unit in matches:
+        num = float(amount)
+        if unit == "ms":
+            total += num / 1000.0
+        elif unit == "s":
+            total += num
+        elif unit == "m":
+            total += num * 60.0
+        elif unit == "h":
+            total += num * 3600.0
+    return total if total > 0 else None
+
+
+def header_wait_seconds(headers: Any, body: str) -> tuple[float, str]:
+    retry_after = parse_duration_seconds(headers.get("retry-after") if headers else None)
+    reset_tokens = parse_duration_seconds(headers.get("x-ratelimit-reset-tokens") if headers else None)
+    reset_requests = parse_duration_seconds(headers.get("x-ratelimit-reset-requests") if headers else None)
+
+    candidates = []
+    if retry_after is not None:
+        candidates.append((retry_after, "retry-after"))
+    if reset_tokens is not None:
+        candidates.append((reset_tokens, "x-ratelimit-reset-tokens"))
+    if reset_requests is not None:
+        candidates.append((reset_requests, "x-ratelimit-reset-requests"))
+
+    # Groq error bodies often include phrasing like "try again in 1m23.4s".
+    match = re.search(r"try again in\s+([0-9hms\. ]+)", body.lower())
+    if match:
+        parsed = parse_duration_seconds(match.group(1).replace(" ", ""))
+        if parsed is not None:
+            candidates.append((parsed, "body_try_again_in"))
+
+    if not candidates:
+        return 65.0, "fallback_65s"
+    wait, reason = max(candidates, key=lambda item: item[0])
+    return max(wait + 3.0, 1.0), reason
+
+
 def call_groq(api_key: str, req: dict[str, Any], provider_model_name: str, timeout: int = 180) -> dict[str, Any]:
     payload = {
         "model": provider_model_name,
@@ -172,9 +245,16 @@ def call_groq(api_key: str, req: dict[str, Any], provider_model_name: str, timeo
             "Content-Type": "application/json",
         },
     )
-    with urllib.request.urlopen(request, timeout=timeout) as response:
-        body = response.read().decode("utf-8")
-    return json.loads(body)
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            body = response.read().decode("utf-8")
+        return json.loads(body)
+    except urllib.error.HTTPError as exc:
+        body = exc.read().decode("utf-8", errors="replace") if hasattr(exc, "read") else ""
+        if exc.code == 429:
+            wait_seconds, reason = header_wait_seconds(exc.headers, body)
+            raise RateLimitWait(wait_seconds, f"429 rate limit via {reason}: {body[:300]}") from exc
+        raise
 
 
 def extract_response_text(response: dict[str, Any]) -> str:
@@ -223,19 +303,72 @@ def parse_and_qc(raw_rows: list[dict[str, Any]], request_map: dict[str, dict[str
     return parsed_rows
 
 
+def write_outputs(
+    target: str,
+    cfg: dict[str, Any],
+    provider_model_name: str,
+    args: argparse.Namespace,
+    raw_path: Path,
+    parsed_path: Path,
+    request_path: Path,
+    proof_path: Path,
+    requests: list[dict[str, Any]],
+    completed_this_run: int,
+    exit_reason: str,
+) -> None:
+    raw_rows = read_jsonl(raw_path)
+    request_map = {req["request_id"]: req for req in requests}
+    parsed_rows = parse_and_qc(raw_rows, request_map)
+    write_csv(parsed_path, parsed_rows, [
+        "request_id", "replication_model_id", "provider", "provider_label", "provider_model_name",
+        "provider_model_version", "run_id", "passage_id", "condition", "rewritten_text",
+        "temperature", "top_p", "source_text_sha256", "rewritten_text_sha256", "original_word_count",
+        "rewritten_word_count", "length_ratio", "qc_status", "qc_flags", "parse_status", "created_utc",
+    ])
+
+    counts = Counter(r["qc_status"] for r in parsed_rows)
+    remaining = len(requests) - len(completed_ids(raw_path))
+    proof_path.parent.mkdir(parents=True, exist_ok=True)
+    proof_path.write_text(
+        "# E1 Groq Free-Model Generation Report\n\n"
+        f"Generated UTC: {utc_now()}\n\n"
+        f"- target: {target}\n"
+        f"- replication_model_id: {cfg['replication_model_id']}\n"
+        f"- provider_model_name: {provider_model_name}\n"
+        f"- passages_per_author: {args.passages_per_author}\n"
+        f"- planned_requests_this_scope: {len(requests)}\n"
+        f"- completed_this_run: {completed_this_run}\n"
+        f"- raw_ok_rows_total: {len(completed_ids(raw_path))}\n"
+        f"- remaining_requests: {remaining}\n"
+        f"- parsed_rows_total: {len(parsed_rows)}\n"
+        f"- qc_pass_rows: {counts.get('pass', 0)}\n"
+        f"- qc_warning_rows: {counts.get('warning', 0)}\n"
+        f"- qc_fail_rows: {counts.get('fail', 0)}\n"
+        f"- exit_reason: {exit_reason}\n"
+        f"- raw_path: {raw_path.relative_to(ROOT)}\n"
+        f"- parsed_path: {parsed_path.relative_to(ROOT)}\n"
+        f"- request_path: {request_path.relative_to(ROOT)}\n",
+        encoding="utf-8",
+    )
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--target", choices=sorted(TARGETS), required=True)
     parser.add_argument("--provider-model-name", default=None)
-    parser.add_argument("--passages-per-author", type=int, default=3)
+    parser.add_argument("--passages-per-author", type=int, default=55)
     parser.add_argument("--max-requests", type=int, default=None)
-    parser.add_argument("--sleep-seconds", type=float, default=15.0)
+    parser.add_argument("--sleep-seconds", type=float, default=None)
     parser.add_argument("--resume", action="store_true")
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--max-runtime-minutes", type=int, default=DEFAULT_MAX_RUNTIME_MINUTES)
+    parser.add_argument("--max-single-wait-seconds", type=int, default=MAX_SINGLE_WAIT_SECONDS)
     args = parser.parse_args()
 
+    started = time.monotonic()
     cfg = TARGETS[args.target]
     provider_model_name = args.provider_model_name or cfg["provider_model_name"]
+    sleep_seconds = args.sleep_seconds if args.sleep_seconds is not None else float(cfg["recommended_sleep_seconds"])
     api_key = os.environ.get(cfg["api_key_env"], "")
     if not api_key and not args.dry_run:
         print(f"Missing required environment variable/secret: {cfg['api_key_env']}", file=sys.stderr)
@@ -259,7 +392,15 @@ def main() -> int:
             f.write(json.dumps(req, ensure_ascii=False, sort_keys=True) + "\n")
 
     completed_this_run = 0
+    exit_reason = "completed_all_pending_requests"
+
     for req in pending:
+        elapsed = time.monotonic() - started
+        remaining_runtime = args.max_runtime_minutes * 60 - elapsed
+        if remaining_runtime < SAFETY_SHUTDOWN_SECONDS:
+            exit_reason = "stopped_before_actions_timeout_resume_later"
+            break
+
         if args.dry_run:
             raw_record = {
                 "request_id": req["request_id"],
@@ -268,78 +409,106 @@ def main() -> int:
                 "created_utc": utc_now(),
                 "response": {},
             }
-        else:
-            status = "error"
-            error = ""
-            response = None
-            for attempt in range(1, 6):
-                try:
-                    response = call_groq(api_key, req, provider_model_name)
-                    status = "ok"
-                    break
-                except urllib.error.HTTPError as exc:
-                    body = exc.read().decode("utf-8", errors="replace") if hasattr(exc, "read") else ""
-                    error = f"HTTPError {exc.code}: {body[:800]}"
-                    if exc.code in {429, 500, 502, 503, 504}:
-                        time.sleep(max(args.sleep_seconds, 15.0) * attempt)
-                        continue
-                    break
-                except Exception as exc:  # noqa: BLE001
-                    error = repr(exc)
-                    time.sleep(max(args.sleep_seconds, 15.0) * attempt)
-            raw_record = {
-                "request_id": req["request_id"],
-                "status": status,
-                "error": error,
-                "provider_model_name": provider_model_name,
-                "created_utc": utc_now(),
-                "response": response,
-            }
-        append_jsonl(raw_path, raw_record)
-        completed_this_run += 1
-        if not args.dry_run:
-            time.sleep(args.sleep_seconds)
+            append_jsonl(raw_path, raw_record)
+            completed_this_run += 1
+            continue
 
-    raw_rows = read_jsonl(raw_path)
-    request_map = {req["request_id"]: req for req in requests}
-    parsed_rows = parse_and_qc(raw_rows, request_map)
-    write_csv(parsed_path, parsed_rows, [
-        "request_id", "replication_model_id", "provider", "provider_label", "provider_model_name",
-        "provider_model_version", "run_id", "passage_id", "condition", "rewritten_text",
-        "temperature", "top_p", "source_text_sha256", "rewritten_text_sha256", "original_word_count",
-        "rewritten_word_count", "length_ratio", "qc_status", "qc_flags", "parse_status", "created_utc",
-    ])
+        while True:
+            elapsed = time.monotonic() - started
+            remaining_runtime = args.max_runtime_minutes * 60 - elapsed
+            if remaining_runtime < SAFETY_SHUTDOWN_SECONDS:
+                exit_reason = "stopped_before_actions_timeout_resume_later"
+                break
+            try:
+                response = call_groq(api_key, req, provider_model_name)
+                raw_record = {
+                    "request_id": req["request_id"],
+                    "status": "ok",
+                    "error": "",
+                    "provider_model_name": provider_model_name,
+                    "created_utc": utc_now(),
+                    "response": response,
+                }
+                append_jsonl(raw_path, raw_record)
+                completed_this_run += 1
+                time.sleep(max(sleep_seconds, 0.0))
+                break
+            except RateLimitWait as exc:
+                wait_seconds = min(exc.wait_seconds, float(args.max_single_wait_seconds))
+                if exc.wait_seconds > remaining_runtime - SAFETY_SHUTDOWN_SECONDS:
+                    append_jsonl(raw_path, {
+                        "request_id": req["request_id"],
+                        "status": "paused_rate_limit_wait_exceeds_remaining_runtime",
+                        "error": exc.reason,
+                        "requested_wait_seconds": exc.wait_seconds,
+                        "created_utc": utc_now(),
+                    })
+                    exit_reason = "rate_limit_wait_exceeds_remaining_runtime_resume_later"
+                    pending = []
+                    break
+                if exc.wait_seconds > args.max_single_wait_seconds:
+                    append_jsonl(raw_path, {
+                        "request_id": req["request_id"],
+                        "status": "paused_rate_limit_wait_too_long",
+                        "error": exc.reason,
+                        "requested_wait_seconds": exc.wait_seconds,
+                        "created_utc": utc_now(),
+                    })
+                    exit_reason = "rate_limit_wait_too_long_resume_later"
+                    pending = []
+                    break
+                print(f"Rate limited; waiting {wait_seconds:.1f}s ({exc.reason})", flush=True)
+                time.sleep(wait_seconds)
+            except urllib.error.HTTPError as exc:
+                body = exc.read().decode("utf-8", errors="replace") if hasattr(exc, "read") else ""
+                append_jsonl(raw_path, {
+                    "request_id": req["request_id"],
+                    "status": "http_error",
+                    "error": f"HTTPError {exc.code}: {body[:800]}",
+                    "provider_model_name": provider_model_name,
+                    "created_utc": utc_now(),
+                })
+                exit_reason = f"stopped_on_http_error_{exc.code}"
+                break
+            except Exception as exc:  # noqa: BLE001
+                append_jsonl(raw_path, {
+                    "request_id": req["request_id"],
+                    "status": "error",
+                    "error": repr(exc),
+                    "provider_model_name": provider_model_name,
+                    "created_utc": utc_now(),
+                })
+                exit_reason = "stopped_on_unhandled_error"
+                break
 
-    pass_rows = sum(1 for r in parsed_rows if r["qc_status"] == "pass")
-    warning_rows = sum(1 for r in parsed_rows if r["qc_status"] == "warning")
-    fail_rows = sum(1 for r in parsed_rows if r["qc_status"] == "fail")
-    proof_path.parent.mkdir(parents=True, exist_ok=True)
-    proof_path.write_text(
-        "# E1 Groq Free-Model Generation Report\n\n"
-        f"Generated UTC: {utc_now()}\n\n"
-        f"- target: {args.target}\n"
-        f"- replication_model_id: {cfg['replication_model_id']}\n"
-        f"- provider_model_name: {provider_model_name}\n"
-        f"- passages_per_author: {args.passages_per_author}\n"
-        f"- planned_requests_this_scope: {len(requests)}\n"
-        f"- pending_at_start: {len(pending)}\n"
-        f"- completed_this_run: {completed_this_run}\n"
-        f"- raw_rows_total: {len(raw_rows)}\n"
-        f"- parsed_rows_total: {len(parsed_rows)}\n"
-        f"- qc_pass_rows: {pass_rows}\n"
-        f"- qc_warning_rows: {warning_rows}\n"
-        f"- qc_fail_rows: {fail_rows}\n"
-        f"- raw_path: {raw_path.relative_to(ROOT)}\n"
-        f"- parsed_path: {parsed_path.relative_to(ROOT)}\n"
-        f"- request_path: {request_path.relative_to(ROOT)}\n",
-        encoding="utf-8",
+        if exit_reason != "completed_all_pending_requests" and "resume_later" in exit_reason:
+            break
+        if exit_reason.startswith("stopped_on_"):
+            break
+
+    write_outputs(
+        args.target,
+        cfg,
+        provider_model_name,
+        args,
+        raw_path,
+        parsed_path,
+        request_path,
+        proof_path,
+        requests,
+        completed_this_run,
+        exit_reason,
     )
 
+    parsed_rows = parse_and_qc(read_jsonl(raw_path), {req["request_id"]: req for req in requests})
+    counts = Counter(r["qc_status"] for r in parsed_rows)
     print(f"Target: {args.target}")
     print(f"Provider model: {provider_model_name}")
     print(f"Completed this run: {completed_this_run}")
+    print(f"Raw OK rows total: {len(completed_ids(raw_path))}/{len(requests)}")
     print(f"Parsed rows total: {len(parsed_rows)}")
-    print(f"QC pass/warning/fail: {pass_rows}/{warning_rows}/{fail_rows}")
+    print(f"QC pass/warning/fail: {counts.get('pass', 0)}/{counts.get('warning', 0)}/{counts.get('fail', 0)}")
+    print(f"Exit reason: {exit_reason}")
     print(f"Report: {proof_path.relative_to(ROOT)}")
     return 0
 
