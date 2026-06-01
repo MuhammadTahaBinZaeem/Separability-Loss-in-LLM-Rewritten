@@ -1,1 +1,291 @@
 request_id,replication_model_id,provider,provider_label,provider_model_name,provider_model_version,run_id,passage_id,condition,rewritten_text,temperature,top_p,source_text_sha256,rewritten_text_sha256,original_word_count,rewritten_word_count,length_ratio,qc_status,qc_flags,parse_status,created_utc
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_001|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_001,paraphrase,"She spent the evening captivated by those gentle blue eyes, engaged in conversation, and devising plans in the intervals, so swiftly did the hours pass that she scarcely noticed the supper table being set. Usually accustomed to marking the time for such gatherings, she found it already arranged and drawn near the fire before she realized. With a lively eagerness—though not entirely indifferent to the praise that came from attentive service—and a genuine enthusiasm for her own ideas, she took charge of the meal, urging guests to partake of the minced chicken and scalloped oysters with a warmth she knew would align with their polite reluctance to refuse. 
+
+Mr. Woodhouse, on such evenings, wrestled with conflicting emotions. His attachment to the custom of a laid table, a relic of his youth, clashed with his firm belief that suppers were unhealthful. Though his hospitality urged him to offer his guests every delicacy, his concern for their well-being made him regret their indulgence. 
+
+A modest bowl of thin gruel, identical to his own, was the only dish he could recommend with full confidence; yet as the ladies enjoyed the richer fare, he might add, with careful restraint: 
+
+“Mrs. Bates, I dare say you might try one of these eggs. A softly boiled egg is not unwholesome. Serle knows how to boil an egg better than anyone. I would not suggest trusting another’s hand with it, but you need not fear—these are small, you see. One of our small eggs will do no harm. Miss Bates, let Emma assist you with a _tiny_ portion of tart—a _very_ tiny portion. They are all apple tarts; there’s no risk of unwholesome preserves here. I would not advise the custard. Mrs. Goddard, what say you to _half_ a glass of wine? A _small_ half-glass, diluted in a tumbler of water? I cannot imagine it troubling you.” 
+
+Emma let her father speak, but she ensured her guests were well attended to in a far more generous manner. On this evening, she took particular joy in sending them away content. Miss Smith’s delight matched her hopes. As a figure of considerable importance in Highbury, Miss Woodhouse’s presence had filled Miss Smith with equal parts anxiety and anticipation; yet the modest, grateful girl left with her spirits greatly elevated, charmed by Miss Woodhouse’s kindness throughout the evening and the final, unexpected honor of a handshake. 
+
+
+CHAPTER IV
+
+Harriet Smith’s closeness to Hartfield soon became a settled arrangement. Quick and decisive in her actions, Emma wasted no time in inviting and encouraging Harriet to visit frequently. As their acquaintance deepened, so did their mutual satisfaction. Emma had long recognized Harriet’s potential as a walking companion, a role that had grown more vital since Mrs. Weston’s absence. Her father rarely ventured beyond the shrubbery, where two circuits of the garden sufficed for his daily stroll, regardless of the season; and with Mrs.",0.2,1.0,e4c95d2824dba9a41b5db0df191b429c579f3553c4a2c8336931b03c0ebc16a6,cb33d753786e1a92c0a8e498c291e82173655d05913a2121c20031af017d4ff2,569,485,0.852373,warning,json_extracted,json_extracted,2026-06-01T19:55:00Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_001|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_001,modernize,"<think>
+Alright, let's tackle this. The user wants me to modernize the passage from Emma. First, I need to understand the original text. It's about Emma's evening with guests, her father's health concerns, and her friendship with Harriet. The key is to update the language without changing the meaning.
+
+Starting with the first paragraph: ""She was so busy in admiring those soft blue eyes..."" The archaic phrases here are ""soft blue eyes"" and ""forming all these schemes in the in-betweens."" Maybe ""soft blue eyes"" can stay, but ""forming schemes in the in-betweens"" could be rephrased to ""plotting in her head"" to sound more modern.
+
+Next, ""the evening flew away at a very unusual rate"" could become ""the evening passed by incredibly fast."" The part about the supper-table: ""which always closed such parties"" might be ""which usually ended these gatherings."" ""Used to sit and watch the due time"" could be ""used to keep track of the time.""
+
+Then, ""With an alacrity beyond the common impulse..."" is a bit wordy. Maybe ""She jumped in with more enthusiasm than usual..."" to keep the same meaning. ""The real good-will of a mind delighted with its own ideas"" could be ""her genuine enthusiasm for her own plans.""
+
+For Mr. Woodhouse's part: ""His conviction of suppers being very unwholesome..."" becomes ""He truly believed that late-night meals were unhealthy."" The dialogue needs to be more natural. Instead of ""let me propose your venturing on one of these eggs,"" maybe ""how about trying one of these eggs?""
+
+Emma's actions: ""supplied her visitors in a much more satisfactory style"" could be ""made sure her guests were well-fed."" The part about Miss Smith's feelings: ""humble, grateful little girl"" might be ""modest and appreciative young woman.""
+
+I need to check the word count to stay close to the original. Also, ensure that the characters' relationships and events remain the same. Avoid any summaries and keep the structure similar. Let me go through each sentence again to make sure I didn't miss any archaic terms and that the modernized version flows naturally.
+</think>
+
+{
+  ""passage_id"": ""AUSTEN_EMMA_001"",
+  ""condition"": ""modernize"",
+  ""rewritten_text"": ""She was so distracted by admiring those soft blue eyes, chatting, and plotting in her head that the evening passed by incredibly fast. The supper table—usually the signal for these gatherings to wrap up—was already set and moved to the fire before she noticed. With more enthusiasm than usual, driven by her genuine excitement about her own plans, she took charge of the meal, enthusiastically serving and praising the minced chicken and scalloped oysters, knowing her guests would appreciate the effort.  
+
+Mr. Woodhouse always struggled on these occasions. He liked the tradition of laying out the table, a habit from his youth, but his strong belief that late-night meals were unhealthy made him uneasy about the food. While his hospitality urged him to offer everything, his concern for his guests’ well-being made him quietly regret they’d eat anything at all.  
+
+The only thing he could recommend with full confidence was a small bowl of thin gruel like his own. Still, he might add, while the others were happily finishing the richer dishes:  
+
+“Mrs. Bates, how about trying one of these eggs? A soft-boiled egg isn’t bad for you. Serle boils eggs better than anyone. I wouldn’t trust anyone else to do it, but you see—they’re tiny, so one won’t hurt. Miss Bates, let Emma give you a little piece of tart—a very small piece. They’re all apple tarts. You don’t need to worry about fancy preserves here. I wouldn’t suggest the custard. Mrs. Goddard, would you like half a glass of wine? A small half-glass mixed with water? I don’t think it’d upset you.”  
+
+Emma let her father talk, but she made sure her guests were well-fed. Tonight, she especially enjoyed sending them off happy. Miss Smith’s joy matched her hopes. Miss Woodhouse was such a prominent figure in Highbury that the idea of meeting her had filled Miss Smith with equal parts nerves and excitement. But the modest, grateful young woman left deeply satisfied, thrilled by how warmly Miss Woodhouse had treated her all evening—and even more so when they finally shook hands.  
+
+CHAPTER IV  
+
+Harriet Smith’s friendship with Emma at Hartfield quickly became a settled routine. Quick and decisive, Emma wasted no time inviting Harriet, encouraging her, and telling her to visit often. As their friendship grew, so did their mutual satisfaction. As a walking companion, Emma had long seen Harriet’s value. Mrs. Weston’s absence had been a loss in that regard. Her father never ventured beyond the shrubbery, where two loops around the garden were enough for his walks, long or short depending on the season. And since Mrs.""
+}",0.2,1.0,e4c95d2824dba9a41b5db0df191b429c579f3553c4a2c8336931b03c0ebc16a6,f527ecc46807c407f7719d939d0cedd381a36761f22aef859ee344496335a04c,569,783,1.376098,warning,json_parse_failed_used_raw_content;length_hard_warning,json_parse_failed_used_raw_content,2026-06-01T19:55:20Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_001|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_001,simplify,"She spent so much time admiring his gentle blue eyes, chatting, and planning in her head that the evening passed unusually quickly. The supper table—usually the end of these gatherings—was already set and brought to the fire before she noticed. With more energy than usual, driven by her desire to do things well and be attentive, and with genuine enthusiasm for her own plans, she handled the meal’s duties cheerfully. She urged everyone to try the minced chicken and scalloped oysters with a warmth she knew her guests, who were mindful of the late hour and polite, would appreciate.
+
+Poor Mr. Woodhouse was torn inside. He liked having a table set because it was how things were done in his youth, but he believed suppers were unhealthy and felt uneasy about serving food. While his hospitality wanted to welcome guests to everything, his concern for their health made him sad they would eat. The only thing he could recommend with full confidence was a small bowl of thin gruel like his own. Still, he might add, while the others enjoyed the richer dishes: “Mrs. Bates, try one of these eggs. A soft-boiled egg isn’t bad for you. Serle knows how to boil eggs better than anyone. I wouldn’t suggest trusting anyone else, but they’re small—see? One of our small eggs won’t hurt you. Miss Bates, let Emma give you a tiny piece of tart—a very tiny piece. They’re all apple tarts. You don’t need to worry about bad preserves here. I don’t recommend the custard. Mrs. Goddard, would you try half a glass of wine? A small half-glass mixed into a tumbler of water? I don’t think it would upset you.”
+
+Emma let her father speak, but she served the guests in a much more generous way. That evening, she especially enjoyed seeing them leave happy. Miss Smith’s joy matched Emma’s hopes. Miss Woodhouse was such an important figure in Highbury that the idea of meeting her had caused as much anxiety as excitement for the young girl. But the humble, grateful girl left with her feelings deeply satisfied, delighted by how kindly Miss Woodhouse had treated her all evening and by the final handshake they shared.
+
+
+CHAPTER IV
+
+Harriet Smith’s friendship at Hartfield quickly became a regular thing. Quick and decisive, Emma wasted no time inviting and encouraging her to visit often. As their friendship grew, so did their mutual enjoyment. As a walking companion, Emma had long seen Harriet’s usefulness. Mrs. Weston’s absence had been a loss in that regard. Her father never walked beyond the shrubbery, where two paths were enough for his daily stroll, long or short depending on the season. Since Mrs.",0.2,1.0,e4c95d2824dba9a41b5db0df191b429c579f3553c4a2c8336931b03c0ebc16a6,640c886eb7f4fbaeb6d90e14f0c8bd207050e4ae9c1b33e10caa2b0e1aeacd83,569,451,0.792619,warning,json_extracted;length_hard_warning,json_extracted,2026-06-01T19:55:38Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_002|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_002,paraphrase,"The list she compiled at fourteen—I recall how impressed I was by her discernment, so much so that I kept it for a while; I imagine she’s compiled an even better one by now. But I’ve given up expecting Emma to maintain any steady reading habit. She’ll never endure anything demanding effort and patience, or subjugating imagination to reason. Where Miss Taylor failed to inspire, I can safely say Harriet Smith will achieve nothing.—You never could persuade her to read half as much as you wished.—You know you couldn’t.”
+
+“I suppose,” replied Mrs. Weston with a smile, “that I thought so then;—but since we parted, I can’t recall Emma ever neglecting to do what I wished.”
+
+“There’s little need to revive such a memory,” said Mr. Knightley with feeling, pausing briefly before continuing. “But I, who lack the benefit of such enchantment, must still see, hear, and remember. Emma is indulged by being the sharpest in her family. At ten, she had the misfortune of answering questions that baffled her sister at seventeen. She was always quick and confident; Isabella slow and uncertain. Since she was twelve, Emma has ruled the household and all of you. In her mother, she lost the only one capable of managing her. She inherits her mother’s talents and must have been under her authority.”
+
+“I should have been sorry, Mr. Knightley, to rely on your endorsement had I left Mr. Woodhouse’s household and needed another position; I doubt you’d have spoken kindly of me to anyone. I’m certain you always deemed me unfit for the role I held.”
+
+“Yes,” he said, smiling. “You’re better suited here; an excellent wife, but not a governess. Yet while at Hartfield, you were preparing to be an exemplary wife all along. You may not have given Emma the thorough education your abilities promised; but she was educating you thoroughly on the essential marital art of yielding to another’s will and obeying orders. If Weston had asked me to recommend a wife, I’d have surely named Miss Taylor.”
+
+“Thank you. There’s little virtue in being a good match for a man like Mr. Weston.”
+
+“Why, to be honest, I fear you’re somewhat wasted, and though you have the patience to endure, there’s little to bear. Let’s not lose hope, however. Weston might grow irritable from excess comfort, or his son might torment him.”
+
+“I hope not. That seems unlikely. No, Mr. Knightley, don’t predict trouble from that quarter.”
+
+“Not I, indeed. I merely mention possibilities. I lack Emma’s gift for prophecy and intuition. I hope, with all my heart, the young man proves a Weston in merit and a Churchill in fortune.—But Harriet Smith—I haven’t finished speaking of Harriet Smith. I believe her the most ill-suited companion Emma could possibly choose.",0.2,1.0,0a68282ae8074b9732a14796b9f3619b68daba8d95c9b7e0a7dd7417bd5bc10f,a4ce7242afe2a20519d18861395cd51f6aca4b196804ca54ab145955901c895d,562,468,0.83274,warning,json_extracted;length_soft_warning,json_extracted,2026-06-01T19:55:59Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_002|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_002,modernize,"The reading list she made at fourteen—back when I thought it showed such impressive maturity that I kept it for a while—probably looks much better now. But I’ve given up expecting Emma to stick with any serious reading habit. She just doesn’t have the patience or discipline to focus on something that demands effort and logical thinking over imagination. If even clever Miss Taylor couldn’t motivate her, Harriet Smith definitely won’t. You always struggled to get her to read as much as you wanted, didn’t you? You know you did.”
+
+“I suppose I did think that at the time,” Mrs. Weston replied with a smile. “But since we moved out, I can’t recall a single thing Emma didn’t do exactly as I asked.”
+
+“No need to dredge up memories like that,” Mr. Knightley muttered, clearly uncomfortable. After a pause, he added, “But I’ve never been under any romantic illusions. Emma’s been spoiled by being the smartest in her family since childhood. At ten, she could answer questions that baffled her sister Isabella at seventeen. She’s always been quick and confident; Isabella, slow and unsure. Since she was twelve, Emma’s run the household and everyone in it. Her mother was the only one who could keep her in check—and she inherited those same sharp talents.”
+
+“I’d have been worried about relying on your approval if I’d ever needed a new job after leaving the Woodhouses,” Mrs. Weston said dryly. “I doubt you’d have said a kind word for me. You always thought I was unfit for the role I had.”
+
+“You were,” he admitted with a smile. “You’re far better suited to being a wife than a governess. While you were at Hartfield, you might not have given Emma the intellectual polish your skills suggested—but she gave you a masterclass in the essential marital skill of bending your will to someone else. If Weston had asked me to recommend a wife, I’d have picked Miss Taylor in a heartbeat.”
+
+“Thanks. Being a good match for someone as easygoing as Mr. Weston isn’t exactly a challenge.”
+
+“Truth is, I worry you’re wasting your tolerance on a man who’ll never give you anything to tolerate,” Mr. Knightley said. “But let’s stay hopeful. Maybe Weston will get grumpy from too much comfort, or his son will drive him crazy.”
+
+“I hope not. That seems unlikely,” Mrs. Weston said. “No, Mr. Knightley, don’t predict trouble from that side.”
+
+“Of course not. I’m just throwing out hypotheticals. I don’t claim to have Emma’s gift for predicting the future. I sincerely hope the young man turns out as capable as Weston and as wealthy as Churchill. But let me finish about Harriet Smith—she’s the worst possible influence Emma could have chosen.",0.2,1.0,0a68282ae8074b9732a14796b9f3619b68daba8d95c9b7e0a7dd7417bd5bc10f,b5a2caa887d8d3674738b483327ebf572687be767a24a6f93787d25175738120,562,459,0.816726,warning,json_extracted;length_soft_warning,json_extracted,2026-06-01T19:56:17Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_002|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_002,simplify,"The list she made at fourteen—I remember thinking it showed good judgment, so I kept it for a while. She probably made a good list now. But I’ve stopped expecting Emma to do any serious reading. She won’t put in the effort or patience needed to focus her imagination on learning. If Miss Taylor couldn’t motivate her, Harriet Smith definitely won’t. You never could get Emma to read as much as you wanted. You know you couldn’t.”
+
+“I suppose,” replied Mrs. Weston, smiling, “I felt that way then—but since we separated, I can’t recall Emma ever refusing to do what I wanted.”
+
+“Who wants to remind someone like you of the past?” said Mr. Knightley, feelingly. After a pause, he added, “But I, who haven’t been charmed into forgetting, still see and remember. Emma was spoiled by being the smartest in her family. At ten, she could answer questions that confused her sister at seventeen. She was always quick and confident, while Isabella was slow and unsure. Since she was twelve, Emma has run the household and everyone in it. Her mother was the only one who could manage her. She has her mother’s talents, and her mother was the only one who could keep her in check.
+
+“I’d have been unhappy, Mr. Knightley, if I’d needed your recommendation after leaving Mr. Woodhouse’s family. I don’t think you’d have said nice things about me. You always thought I was unfit for the job I had.”
+
+“Yes,” he said, smiling. “You’re better suited here—as a wife, not a governess. While you were at Hartfield, you weren’t teaching Emma as well as your abilities suggested. But Emma was teaching you the most important lesson for marriage: giving in and obeying. If Weston had asked me to recommend a wife, I’d have suggested Miss Taylor.”
+
+“Thank you. Being a good wife to someone like Mr. Weston wouldn’t take much merit.”
+
+“Well, to be honest, I’m afraid you’re wasted on him. Even if you want to be patient, there’s probably nothing to endure. Let’s hope not. Weston might get grumpy from too much comfort, or his son might annoy him.”
+
+“I hope not. That’s unlikely. No, Mr. Knightley, don’t predict trouble from that side.”
+
+“I wouldn’t dream of it. I only mention possibilities. I don’t claim Emma’s talent for guessing the future. I hope from the bottom of my heart the young man turns out as good as Weston and as wealthy as Churchill. But Harriet Smith—let me finish about Harriet Smith. I think she’s the worst kind of companion Emma could have.",0.2,1.0,0a68282ae8074b9732a14796b9f3619b68daba8d95c9b7e0a7dd7417bd5bc10f,bf17d532de6a77f7be4073ee4c745d35c208c5acc6878e67b5827a06c37f474a,562,433,0.770463,warning,json_extracted;length_hard_warning,json_extracted,2026-06-01T19:56:36Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_003|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_003,paraphrase,"You don't need to be reminded to express regret for his disappointment.'
+
+'You believe I should decline him, then,' said Harriet, lowering her eyes.
+
+'Should decline him! My dear Harriet, what are you suggesting? Are you uncertain about this? I assumed—but please forgive me, I may have misjudged. If you're questioning the _intent_ of your response, I clearly misunderstood your position.
+
+Harriet said nothing. Emma, with measured composure, continued:
+
+'I gather you intend to accept his proposal.'
+
+'No, I don't; that is, I don't intend—What should I do? What would you recommend, Miss Woodhouse? Please, tell me what I ought to decide.'
+
+'I will offer no guidance, Harriet. I refuse to interfere. This is a matter you must resolve within yourself.'
+
+'I never realized he felt so strongly about me,' said Harriet, studying the letter. Emma remained quiet for a moment, then, fearing the letter's persuasive charm might overwhelm Harriet, added:
+
+'I hold this principle, Harriet: when a woman hesitates about accepting a proposal, she must decline. If she wavers between 'yes' and 'no,' she should answer 'no' immediately. Marriage is not a choice to make with divided emotions or half-hearted resolve. I mention this only as a duty of friendship and experience, but please don't think I seek to sway you.'
+
+'Oh, no—I know you're far too generous to—but if you could just suggest what I should do—No, no, I agree with you, one must decide firmly—Hesitation is dangerous—It might be wiser to refuse—Do you think I should say 'no'?' 
+
+'Not for a moment,' said Emma, with a gracious smile, 'would I direct you either way. You must judge your own happiness. If Mr. Martin surpasses all others in your estimation, if you find him the most agreeable man you've ever met, why hesitate? You're blushing, Harriet.—Does another name come to mind under such a description? Harriet, Harriet, don't mislead yourself; don't let gratitude or pity cloud your judgment. At this moment, whom does your mind turn to?'
+
+The signs were encouraging.—Harriet did not reply, instead turning away in confusion and standing thoughtfully near the fire. Though the letter remained in her hand, she now twisted it absentmindedly. Emma awaited her decision with anticipation, though confident in her hopes. At last, after some hesitation, Harriet murmured:
+
+'Miss Woodhouse, since you'll not share your view, I must rely on myself; and I have now resolved, and nearly decided—to refuse Mr.'",0.2,1.0,7b09549d883d3f1ad8a5c3a41367996c90b6d8b6e34a9ca16c0969e8fee33e03,751d02c3568f5c2e13b794a80e7970447fa40aa87be07afa4c6b6bfefccf02e5,555,411,0.740541,warning,json_extracted;length_hard_warning,json_extracted,2026-06-01T19:56:58Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_003|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_003,modernize,"You don't need to pretend to be sad about his disappointment when you write.
+
+""You think I should say no to him, then,"" said Harriet, lowering her eyes.
+
+""Should say no? My dear Harriet, what are you talking about? Are you unsure about that? I thought—but I'm sorry, maybe I misunderstood. If you're confused about what your answer means, I clearly got the wrong idea about where we were with this.""
+
+Harriet stayed quiet. Emma, with a measured tone, continued:
+
+""I assume you're planning to say yes, then.""
+
+""No, I'm not. That is, I don't know—What should I do? What would you suggest? Please, Miss Woodhouse, tell me what I should do.""
+
+""I won't give you any advice, Harriet. I'm not getting involved. This is something you need to decide for yourself.""
+
+""I didn't realize he liked me that much,"" Harriet said, staring at the letter. Emma stayed silent for a moment, but as she worried the letter's flattery might overwhelm Harriet, she added,
+
+""Here's my rule: if a woman is even a little unsure about accepting a proposal, she should say no. If you're hesitating between yes and no, say no right away. Marriage isn't something to enter with half your heart. I thought it was my duty as a friend and older person to mention this, but don't think I'm trying to push you toward a decision.""
+
+""Oh, no—I know you're too kind to—but if you could just tell me what I should do—No, no, I suppose you're right, one should be certain—It's such a big decision.—Maybe it's safer to say no.—Do you think I should say no?""
+
+""Not for a second would I tell you what to do,"" said Emma with a warm smile. ""You're the only one who can decide what's best for you. If you prefer Mr. Martin over everyone else, if you find him the most pleasant person you've ever met, why hesitate? You're blushing, Harriet.—Is someone else on your mind right now? Harriet, don't fool yourself into thinking it's just gratitude or pity. Who's the person you're really thinking about?""
+
+The signs were encouraging.—Harriet didn't answer, instead turning away awkwardly and standing by the fire, deep in thought. Though she still held the letter, she wasn't even reading it anymore. Emma waited anxiously, hopeful. Finally, after some hesitation, Harriet said:
+
+""Miss Woodhouse, since you won't give me your opinion, I'll have to decide for myself. I've made up my mind—to refuse Mr.""",0.2,1.0,7b09549d883d3f1ad8a5c3a41367996c90b6d8b6e34a9ca16c0969e8fee33e03,06682dfb669736e5018ddf42e1eb4ed60ad4eb28383623f675d3e99167e8d186,555,420,0.756757,warning,json_extracted;length_hard_warning,json_extracted,2026-06-01T19:57:18Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_003|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_003,simplify,"You don’t need to pretend to be sad about his disappointment.”
+
+“You think I should say no to him, then,” said Harriet, looking down.
+
+“Should say no! My dear Harriet, what are you thinking? Are you unsure about that? I thought—but please forgive me, maybe I misunderstood. I definitely got the wrong idea if you’re still confused about what your answer should mean. I assumed you were just asking me about how to phrase it.”
+
+Harriet stayed quiet. Emma spoke again, keeping some distance in her tone:
+
+“I guess you plan to say yes, then.”
+
+“No, I don’t; that is, I don’t plan to—What should I do? What would you suggest I do? Please, dear Miss Woodhouse, tell me what I should do.”
+
+“I won’t give you any advice, Harriet. I won’t get involved. This is something you need to decide for yourself.”
+
+“I didn’t realize he liked me that much,” said Harriet, staring at the letter. Emma stayed quiet for a while; but as she began to worry the flattering words in the letter might overwhelm Harriet, she added,
+
+“I believe a woman should always say no if she’s unsure whether to accept a man’s proposal. If she hesitates about saying yes, she should say no right away. Marriage isn’t something to enter into with mixed feelings or half a heart. I thought it was my duty as a friend and older person to say this. But don’t think I’m trying to push you toward a choice.”
+
+“Oh! No, I know you’re far too kind to—but if you could just tell me what I should do—No, no, I don’t mean that—As you said, one’s mind should be made up—One shouldn’t hesitate—It’s a serious decision.—Maybe it’s safer to say no.—Do you think I should say no?”
+
+“Not for the world,” said Emma, smiling kindly, “would I tell you what to do. You’re the only one who can decide what’s best for you. If you prefer Mr. Martin above everyone else; if you think he’s the most pleasant person you’ve ever met, why hesitate? You’re blushing, Harriet.—Is anyone else coming to mind right now? Harriet, Harriet, don’t fool yourself; don’t let gratitude and pity cloud your judgment. Right now, who are you thinking about?”
+
+The signs were promising.—Instead of answering, Harriet turned away, embarrassed, and stood thoughtfully by the fire; and though the letter was still in her hand, she now fidgeted with it absentmindedly. Emma waited anxiously, though feeling hopeful. Finally, after some hesitation, Harriet said—
+
+“Miss Woodhouse, since you won’t give me your opinion, I’ll have to decide for myself; and I’ve now made up my mind, and I really almost decided—to refuse Mr.",0.2,1.0,7b09549d883d3f1ad8a5c3a41367996c90b6d8b6e34a9ca16c0969e8fee33e03,7c6c5e7747b7a4d17dfafa52b51b24cedb777eb7c6a0cb7a4607bcdc0c6099e2,555,457,0.823423,warning,json_extracted;length_soft_warning,json_extracted,2026-06-01T19:57:39Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_004|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_004,paraphrase,"And must she, at seventeen, newly stepping into society, already draw attention for rejecting the first proposal she receives? No—grant her time to consider her options.""
+
+""I’ve always considered this a misguided attachment,"" Mr. Knightley remarked after a pause, ""though I’ve kept my thoughts private; but now I see it will harm Harriet. You’ll inflate her sense of worth, convincing her she deserves more than mere adequacy. Pride in a fragile mind breeds chaos. It’s effortless for a young woman to overreach in expectations. Miss Harriet Smith may not find suitors flocking, despite her charm. Rational men, regardless of your opinions, avoid foolish spouses. Those of standing would hesitate to link their name to a girl of unknown origins—and sensible men would dread the scandal when her parentage becomes known. Let her wed Robert Martin, and she secures safety, respect, and joy forever; but if you push her to demand grandeur, to accept nothing less than wealth and rank, she might end her days as Mrs. Goddard’s boarder—or, at minimum (for Harriet Smith will marry eventually), until desperation drives her to settle for the elderly writing-master’s son.""
+
+""Our views on this matter are so divided, Mr. Knightley, that debate is futile. We’ll only grow more vexed. As for my _allowing_ her to marry Robert Martin, it’s impossible; she refused him outright, decisively enough to deter any further pursuit. She must live with the consequences of her rejection, whatever they may be. And while I won’t deny I might have swayed her slightly, there was little for me—or anyone—to do. His appearance works against him, his manner awkward. Even if she once found him tolerable, she no longer does. I can see how, before encountering true gentility, she might have endured him. He was her friends’ brother, attentive to her needs, and with no better company at Abbey-Mill, she might not have found him distasteful. But circumstances have shifted. She now knows what true gentility entails; only a man of refined education and bearing stands a chance with Harriet.""
+
+""Foolish, utterly foolish!"" Mr. Knightley exclaimed. ""Robert Martin’s manner carries sincerity, warmth, and wit; his character holds more nobility than Harriet Smith could comprehend.""
+
+Emma said nothing, feigning calm detachment, though she felt unease and wished him gone.",0.2,1.0,118a28d2cf4a75afda519e7999198213815ab2c511008e4e60cced7793fa46c8,498288fee150c62e22b830def34931eccc6fe1f72c66cc4f33a4e10e6d9f1756,560,382,0.682143,warning,json_extracted;length_hard_warning,json_extracted,2026-06-01T19:57:58Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_004|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_004,modernize,"And is she, at seventeen, just starting out in life, just beginning to be noticed, supposed to jump at the first person who shows interest? No—please let her take time to explore her options.
+
+""I’ve always thought this was a foolish friendship,"" Mr. Knightley said after a pause, ""though I’ve kept my opinions to myself. But now I see it’s going to be a disaster for Harriet. You’re inflating her ego with ideas about her looks and what she deserves. Soon, no one within her reach will seem good enough. Vanity combined with a weak mind can lead to all sorts of trouble. It’s easy for young women to expect too much. Miss Harriet Smith might not get marriage proposals pouring in, even though she’s attractive. Smart men, no matter what you say, don’t want foolish wives. Men with good family backgrounds wouldn’t be eager to marry into a girl with such uncertain origins—and sensible men would worry about the trouble and embarrassment when her parentage mystery finally comes out. If she marries Robert Martin, she’ll be secure, respected, and content for life. But if you push her to aim for someone wealthy and important, she might end up stuck living in a boarding house forever—or at least (because Harriet Smith is the kind of girl who will marry someone eventually) until she’s so desperate she grabs the first available option, like the old writing teacher’s son.
+
+""We see this so differently, Mr. Knightley, that arguing is pointless. We’ll just make each other more upset. As for me letting her marry Robert Martin, it’s impossible—he’s been rejected, and firmly enough that he won’t propose again. She’ll have to live with the consequences of that. And while I won’t deny I might have nudged her a bit, there wasn’t much for me or anyone else to do. His looks are so unimpressive, and his manner so awkward, that even if she’d liked him before, she doesn’t now. I suppose when she hadn’t met anyone better, she could’ve tolerated him. He’s the brother of her friends, and he made an effort to please her. With no one else to compare him to, she might not have minded him at all while she was at Abbey-Mill. But things have changed. She knows what real gentlemen are like now. Only someone with proper education and refined manners stands a chance with Harriet.""
+
+""Ridiculous nonsense, as always!"" Mr. Knightley exclaimed. ""Robert Martin’s got sense, sincerity, and charm. His character has more true class than Harriet Smith could recognize.""
+
+Emma didn’t respond, trying to appear cheerful and unbothered, but she was actually uneasy and wished he’d leave.",0.2,1.0,118a28d2cf4a75afda519e7999198213815ab2c511008e4e60cced7793fa46c8,018ae6b88a5a25e442552d0bfeca8bd3b415e3a15935267d4f232f3ab99447fb,560,445,0.794643,warning,json_extracted;length_hard_warning,json_extracted,2026-06-01T19:58:18Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_004|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_004,simplify,"And at seventeen, just starting out in life and beginning to attract attention for refusing her first proposal? No—please let her have time to explore her options.""
+
+""I’ve always thought her friendship with Harriet was foolish,"" Mr. Knightley said after a moment, ""though I’ve kept my opinions to myself. But now I see it will end badly for Harriet. You’ll make her too proud of her own beauty and convince her she deserves more than most people can offer. Vanity combined with a weak mind causes all sorts of problems. It’s easy for young women to expect too much. Miss Harriet Smith might not get as many marriage proposals as she hopes, even though she’s attractive. Intelligent men don’t want silly wives. Families with status wouldn’t want to marry into someone with such uncertain origins—and sensible men would worry about the trouble Harriet’s mysterious background might cause later. If Harriet married Robert Martin, she’d be safe, respected, and happy forever. But if you push her to expect someone wealthy and important, she might end up living with Mrs. Goddard for the rest of her life—or, at least (since Harriet will marry eventually), she might end up marrying the old writing-master’s son out of desperation.""
+
+""We disagree so strongly on this, Mr. Knightley, that arguing won’t help. We’ll only get more frustrated. As for me 'letting' her marry Robert Martin—it’s impossible. She already refused him, and firmly enough that he won’t propose again. She must live with the consequences of her refusal. And while I might have influenced her a little, there wasn’t much I could do. Robert’s appearance and awkward manner work against him. I suppose Harriet might have tolerated him when she was at Abbey-Mill, since he was her friend’s brother and tried to please her. With no one better to compare him to, she might not have minded him. But things have changed. Now she knows what real gentlemen are like—and only someone with true gentility in education and manners stands a chance with Harriet.""
+
+""Ridiculous nonsense!"" Mr. Knightley exclaimed. ""Robert Martin has intelligence, sincerity, and kindness. His mind has more true refinement than Harriet could recognize.""
+
+Emma said nothing, trying to look cheerful and unbothered, though she felt uneasy and wished he would leave.",0.2,1.0,118a28d2cf4a75afda519e7999198213815ab2c511008e4e60cced7793fa46c8,7624e8136ad7c14177831fe6634ed217f498c26d7f2544772f09bbca02a6aa6c,560,383,0.683929,warning,json_extracted;length_hard_warning,json_extracted,2026-06-01T20:02:11Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_005|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_005,paraphrase,"And he is a most intelligent child. They are all exceptionally bright and have such charming mannerisms. They often approach my chair and say, ‘Grandpapa, might you spare a scrap of string?’ Once Henry asked for a knife, but I told him such tools were reserved for grandpapas. I believe their father is too severe with them at times. 
+
+‘He seems stern to you,’ said Emma, ‘because your own nature is so gentle. Yet if you measured him against other fathers, you’d find him reasonable. He seeks to raise strong, spirited boys, and if they misbehave, he may reprimand them sharply. But he is a loving parent—Mr. John Knightley is undeniably affectionate. The children adore him.’ 
+
+‘And then their uncle hoists them skyward in such a terrifying manner!’ 
+
+‘But they relish it, papa. Nothing delights them more. If their uncle hadn’t decreed they must take turns, one child would monopolize the fun forever.’ 
+
+‘Well, I cannot fathom it.’ 
+
+‘That is the case with us all, papa. Half the world will never grasp the joys of the other half.’ 
+
+Later that morning, as the young ladies prepared to part before the customary four o’clock meal, the central figure of this unmatched charade reappeared. Harriet averted her gaze, but Emma greeted him with her usual smile, her sharp eyes noting his awareness of having taken a gamble—of having cast a die—and suspecting he had come to see the outcome. His stated purpose, however, was to inquire whether Mr. Woodhouse’s evening gathering could proceed without him, or if his presence at Hartfield was indispensable. If not, his friend Cole had pressed so insistently for his company that he had conditionally pledged to attend. 
+
+Emma thanked him but refused to let him disappoint his friend; her father’s card game was assured. He pressed the matter—she refused again—and as he seemed to prepare to depart, she handed him the paper from the table. 
+
+‘Ah, here is the charade you so kindly left with us. Thank you for sharing it. We admired it so greatly that I’ve taken the liberty of adding the first eight lines to Miss Smith’s collection. I trust your friend will not mind. Of course, I’ve not copied beyond that.’ 
+
+Mr. Elton appeared uncertain, his expression clouded. He muttered something about ‘honour,’ glanced between Emma and Harriet, then lifted the open book from the table and scrutinized it intently. To ease the awkwardness, Emma smiled and said, 
+
+‘Please convey my regrets to your friend. Such a splendid charade deserves more than a few eyes. He may rest assured every lady will admire it while he writes with such flair.’",0.2,1.0,c8f61b1b468be98729ba9897f2c0497d6c0bb10418eaee04f714a469caef77dd,a6a7987b7a7ccaa1d9a7adc3613f3c40a0612b853306440bee398fed7c169fc5,563,442,0.78508,warning,json_extracted;length_hard_warning,json_extracted,2026-06-01T20:02:37Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_005|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_005,modernize,"And he's really smart. They're all brilliant kids, with such cute little habits. They'll come stand by my chair and say, 'Grandpa, can you hand me a piece of string?' Once Henry asked for a knife, but I told him knives are only for grandpas. I think their dad is too rough with them sometimes.
+
+'You think he's rough,' said Emma, 'because you're so gentle yourself. But if you compared him to other dads, you wouldn't see him as harsh. He wants his boys to be active and tough. If they misbehave, he'll give them a stern talking-to now and then. But he's a caring father—Mr. John Knightley is a caring father. The kids all love him.'
+
+'And then their uncle tosses them up in the air in this terrifying way!'
+
+'But they love it, Dad. There's nothing they like more. It's such a thrill for them that their uncle had to set a rule about taking turns. Whoever starts would never let go otherwise.'
+
+'Well, I just don't get it.'
+
+'Same with all of us, Dad. Half the world never understands what makes the other half happy.'
+
+Later that morning, just as the girls were about to split up before the four o'clock dinner, the star of this unforgettable charade walked in again. Harriet turned away, but Emma greeted him with her usual smile. Her sharp eyes quickly noticed his awareness of having taken a gamble—of having rolled the dice—and she thought he was here to see how it would turn out. His stated reason, though, was to ask if Mr. Woodhouse's dinner party that evening could manage without him, or if he'd be needed at Hartfield. If he was, everything else would have to wait; but if not, his friend Cole had been so insistent about having dinner with him that he'd promised to go under certain conditions.
+
+Emma thanked him but refused to let him disappoint his friend for their sake. Her father was definitely counting on his card game. He pressed the issue again—she refused again—and as he seemed ready to leave, she handed him the paper from the table.
+
+'Oh! Here's the charade you left with us. Thank you for letting us see it. We loved it so much, I took the liberty of adding it to Miss Smith's collection. I hope your friend doesn't mind. Of course, I only copied the first eight lines.'
+
+Mr. Elton clearly didn't know how to respond. He looked uncertain, a bit flustered, and muttered something about 'honor' before glancing at Emma and Harriet. Then, seeing the book open on the table, he picked it up and examined it closely. To ease the awkward moment, Emma smiled and said,
+
+'You'll have to apologize to your friend for me. But such a great charade shouldn't be kept to just a few people. He can count on every woman's approval as long as he writes with such flair.'",0.2,1.0,c8f61b1b468be98729ba9897f2c0497d6c0bb10418eaee04f714a469caef77dd,f4a60d502335e47ed22451e13e2ba0de6dfab0da2aa14c31e1edfd8a69452138,563,492,0.87389,warning,json_extracted,json_extracted,2026-06-01T20:03:01Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_005|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_005,simplify,"He's a very smart boy. All the children are unusually clever and have such sweet ways. They come to stand by my chair and ask, 'Grandpapa, can you give me a bit of string?' Once Henry asked for a knife, but I told him knives are only for grandpas. I think their father is too strict with them sometimes.
+
+'He seems strict to you,' said Emma, 'because you're so gentle yourself. But if you compared him to other fathers, you wouldn't think he's harsh. He wants his boys to be active and strong, and if they misbehave, he gives them a firm word now and then. But he's a loving father—Mr. John Knightley is a loving father. The children all like him.'
+
+'And then their uncle tosses them up into the air in a scary way!'
+
+'But they love it, papa. Nothing delights them more. They'd fight to be first if their uncle didn't insist on taking turns.'
+
+'Well, I don't understand it.'
+
+'That's true for all of us, papa. One half of the world never understands the other's pleasures.'
+
+Later that morning, just as the girls were about to go their separate ways before the usual four o'clock dinner, the main character of this unique charade walked in again. Harriet turned away, but Emma greeted him with her usual smile. Her sharp eyes noticed he seemed aware he'd taken a gamble—like rolling dice—and she thought he'd come to see the result. His stated reason, however, was to ask if Mr. Woodhouse's evening card game could proceed without him, or if he'd be needed at Hartfield. If not, he'd promised a friend named Cole he'd join him for dinner.
+
+Emma thanked him but refused to let him disappoint his friend for them. Their father was certain to have his card game. He insisted again—she refused again—and as he seemed ready to leave, she handed him a paper from the table.
+
+'Oh! Here's the charade you left with us. Thank you for sharing it. We loved it so much I've copied it into Miss Smith's collection. I hope your friend doesn't mind. Of course I only copied the first eight lines.'
+
+Mr. Elton looked uncertain and confused. He mumbled something about 'honor,' glanced at Emma and Harriet, then picked up the open book on the table to examine it closely. To ease the awkward moment, Emma smiled and said, 'You'll have to apologize for me. Such a good charade shouldn't be kept from everyone. Your friend can count on all the ladies' approval when he writes with such charm.'",0.2,1.0,c8f61b1b468be98729ba9897f2c0497d6c0bb10418eaee04f714a469caef77dd,e5d02eaf004b1558132b5ee3d17c617df79ca637a5725f6f51ade6ac057fe710,563,433,0.769094,warning,json_extracted;length_hard_warning,json_extracted,2026-06-01T20:03:21Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_006|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_006,paraphrase,"Father is merely expressing his own sorrow.
+
+""That is a credit to both of you,"" came the gracious response.
+
+""And do you see her frequently, sir?"" asked Isabella with a sorrowful tone that perfectly matched her father's.
+
+Mr. Woodhouse hesitated. ""Not nearly as often, my dear, as I would desire.""
+
+""Oh papa, we've only missed one full day since their marriage. On every other day, we've seen either Mr. Weston or Mrs. Weston, usually both, at Randalls or here—most often here. Their visits are most generous. Mr. Weston is as kind as his wife. If you speak so gloomily, father, you'll lead Isabella to misunderstand us all. Everyone knows Miss Taylor's absence is felt, but everyone must also recognize that Mr. and Mrs. Weston have lessened that loss far more than we expected. That is the truth of it.""
+
+""Precisely as it should be,"" said Mr. John Knightley. ""And exactly as I hoped from your letters. Mrs. Weston's desire to attend to you was never in question, and Mr. Weston's amiable nature makes it all the more natural. I've always told you, my dear, that Hartfield's loss wasn't as great as you feared. Now that you've heard Emma's account, I trust you're convinced.""
+
+""Well, of course,"" said Mr. Woodhouse. ""Yes, I cannot deny that poor Mrs. Weston visits us often enough—but she must always leave again.""
+
+""It would be cruel to Mr. Weston if she didn't, father. You're forgetting poor Mr. Weston entirely.""
+
+""I believe,"" said John Knightley with a smile, ""Mr. Weston has some claim to consideration. You and I, Emma, might fairly take the husband's side. Being a husband myself, and you not being a wife, we might both appreciate the man's perspective equally. As for Isabella, she's been married long enough to understand the value of setting aside all Mr. Westons when possible.""
+
+""Me?"" cried his wife, misunderstanding. ""Are you speaking of me? I assure you, no one values marriage more than I do. If it weren't for the pain of Miss Taylor leaving Hartfield, I'd consider her the happiest woman alive. As for slighting Mr. Weston—such a noble man! I believe he deserves all good things. I've never met a man with such a temper as he, except perhaps yourself and your brother. I'll never forget how he flew Henry's kite that windy Easter day, or how he wrote that note last September to reassure me there was no scarlet fever at Cobham. Since then, I've known there's no finer heart or better man in existence.""",0.2,1.0,8afe066b6564a8c56ba47b88bb9710975918f796dbc5c0da1a81e0cc3f99a62f,0271f03f50b7d6fc689d3c20ffe3030ca0c75175f46bb0890500ccc68b6ec537,563,423,0.751332,warning,json_extracted;length_hard_warning,json_extracted,2026-06-01T20:03:39Z
