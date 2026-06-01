@@ -34,6 +34,7 @@ import importlib.util
 import json
 import os
 import re
+import socket
 import sys
 import time
 import urllib.error
@@ -473,6 +474,27 @@ def main() -> int:
                     "created_utc": utc_now(),
                 })
                 exit_reason = f"stopped_on_http_error_{exc.code}"
+                break
+            except (TimeoutError, socket.timeout) as exc:
+                wait_seconds = max(min(sleep_seconds, 30.0), 5.0)
+                print(f"Transient timeout; retrying in {wait_seconds:.1f}s ({exc})", flush=True)
+                time.sleep(wait_seconds)
+                continue
+            except urllib.error.URLError as exc:
+                reason_text = str(getattr(exc, "reason", exc))
+                if "timed out" in reason_text.lower():
+                    wait_seconds = max(min(sleep_seconds, 30.0), 5.0)
+                    print(f"Transient URL timeout; retrying in {wait_seconds:.1f}s ({reason_text})", flush=True)
+                    time.sleep(wait_seconds)
+                    continue
+                append_jsonl(raw_path, {
+                    "request_id": req["request_id"],
+                    "status": "url_error",
+                    "error": repr(exc),
+                    "provider_model_name": provider_model_name,
+                    "created_utc": utc_now(),
+                })
+                exit_reason = "stopped_on_url_error"
                 break
             except Exception as exc:  # noqa: BLE001
                 append_jsonl(raw_path, {
