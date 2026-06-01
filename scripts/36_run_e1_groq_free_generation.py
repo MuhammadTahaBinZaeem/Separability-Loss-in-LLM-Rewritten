@@ -243,6 +243,7 @@ def call_groq(api_key: str, req: dict[str, Any], provider_model_name: str, timeo
         headers={
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
+            "User-Agent": "litpaper-e1-groq-generation/1.0",
         },
     )
     try:
