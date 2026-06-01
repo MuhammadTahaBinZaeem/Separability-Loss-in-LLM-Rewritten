@@ -1,0 +1,74 @@
+name: E1 Groq Llama Generation
+
+on:
+  workflow_dispatch:
+    inputs:
+      passages_per_author:
+        description: 'Balanced original passages per author. 3 = 54 requests; 10 = 180 requests; 55 = 990 requests.'
+        required: true
+        default: '3'
+      max_requests:
+        description: 'Optional cap for this run. Leave blank for all requests in scope.'
+        required: false
+        default: ''
+      sleep_seconds:
+        description: 'Sleep between requests. Use >=15 for long-passage safety.'
+        required: true
+        default: '15'
+      provider_model_name:
+        description: 'Groq model name override.'
+        required: true
+        default: 'llama-3.3-70b-versatile'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: e1-groq-llama-generation-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  e1-groq-llama-generation:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Groq Llama generation
+        env:
+          GROQ_LLAMA_API_KEY: ${{ secrets.GROQ_LLAMA_API_KEY }}
+        run: |
+          EXTRA=""
+          if [ -n "${{ github.event.inputs.max_requests }}" ]; then
+            EXTRA="--max-requests ${{ github.event.inputs.max_requests }}"
+          fi
+          python scripts/36_run_e1_groq_free_generation.py \
+            --target llama \
+            --provider-model-name "${{ github.event.inputs.provider_model_name }}" \
+            --passages-per-author "${{ github.event.inputs.passages_per_author }}" \
+            --sleep-seconds "${{ github.event.inputs.sleep_seconds }}" \
+            --resume \
+            $EXTRA
+
+      - name: Commit generated Llama outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/interim/e1_free_model_replication/groq_generation/groq_llama_3_3_70b_free/ \
+                  logs/e1_groq_llama_generation_report.md
+          if git diff --cached --quiet; then
+            echo "No Llama output changes to commit."
+          else
+            git commit -m "Generate E1 Groq Llama free-model outputs"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
