@@ -254,6 +254,7 @@ def call_groq(api_key: str, req: dict[str, Any], provider_model_name: str, timeo
         if exc.code == 429:
             wait_seconds, reason = header_wait_seconds(exc.headers, body)
             raise RateLimitWait(wait_seconds, f"429 rate limit via {reason}: {body[:300]}") from exc
+        exc.body_text = body  # type: ignore[attr-defined]
         raise
 
 
@@ -460,7 +461,9 @@ def main() -> int:
                 print(f"Rate limited; waiting {wait_seconds:.1f}s ({exc.reason})", flush=True)
                 time.sleep(wait_seconds)
             except urllib.error.HTTPError as exc:
-                body = exc.read().decode("utf-8", errors="replace") if hasattr(exc, "read") else ""
+                body = getattr(exc, "body_text", None)
+                if body is None:
+                    body = exc.read().decode("utf-8", errors="replace") if hasattr(exc, "read") else ""
                 append_jsonl(raw_path, {
                     "request_id": req["request_id"],
                     "status": "http_error",
