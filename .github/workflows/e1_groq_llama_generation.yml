@@ -4,17 +4,17 @@ on:
   workflow_dispatch:
     inputs:
       passages_per_author:
-        description: 'Balanced original passages per author. 3 = 54 requests; 10 = 180 requests; 55 = 990 requests.'
+        description: 'Balanced original passages per author. 55 = 990 requests.'
         required: true
-        default: '3'
+        default: '55'
       max_requests:
         description: 'Optional cap for this run. Leave blank for all requests in scope.'
         required: false
         default: ''
       sleep_seconds:
-        description: 'Sleep between requests. Use >=15 for long-passage safety.'
+        description: 'Sleep between requests. Runner also waits on 429 reset hints.'
         required: true
-        default: '15'
+        default: '8'
       provider_model_name:
         description: 'Groq model name override.'
         required: true
@@ -56,10 +56,13 @@ jobs:
             --provider-model-name "${{ github.event.inputs.provider_model_name }}" \
             --passages-per-author "${{ github.event.inputs.passages_per_author }}" \
             --sleep-seconds "${{ github.event.inputs.sleep_seconds }}" \
+            --max-runtime-minutes 320 \
+            --max-single-wait-seconds 1800 \
             --resume \
             $EXTRA
 
       - name: Commit generated Llama outputs
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
