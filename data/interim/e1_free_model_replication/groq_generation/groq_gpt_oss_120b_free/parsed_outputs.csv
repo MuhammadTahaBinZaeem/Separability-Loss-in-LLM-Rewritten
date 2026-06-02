@@ -1868,3 +1868,34 @@ Mr. Jaggers watched this, as one who recognized in Joe the village simpleton and
 “Now, Joseph Gargery, I warn you this is your last chance. No half‑measures with me. If you intend to take a present that I am authorized to give you, speak, and you shall have it. If, on the contrary, you mean to say—”
 
 Here, to his great astonishment, he was halted by Joe’s sudden advance, every movement displaying a fierce pugilistic purpose.",0.2,1.0,aecd0dbd5d803d112e64f4ad8667e5bcdd70e1354d200d46f541ed7305af6126,27f0af51d2150fb5de992f9877d359dffebe76b3649c799a1d237ae9e5a3c878,556,538,0.967626,pass,,json_ok,2026-06-02T13:25:56Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_009|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_009,modernize,"""Good. You’d better try him at his own house. The way will be prepared for you, and you can see his son first, who is in London. When will you come to London?""
+
+I said (glancing at Joe, who stood watching, motionless) that I thought I could come straight away.
+
+""First,"" said Mr. Jaggers, ""you should have some decent clothes to wear, not work clothes. Give yourself a week. You’ll need some money. Shall I give you twenty guineas?""
+
+He pulled out a long purse, with great calm, counted the money on the table and pushed it toward me. This was the first time he had taken his leg from the chair. He sat astride the chair after pushing the money, swinging his purse and looking at Joe.
+
+""Well, Joseph Gargery? You look stunned?""
+
+""I am!"" said Joe, very firmly.
+
+""It was understood that you wanted nothing for yourself, remember?""
+
+""It was understood,"" said Joe. ""And it is understood. And it always will be the same.""
+
+""But what,"" said Mr. Jaggers, still swinging his purse, ""what if my instructions were to give you a gift as compensation?""
+
+""As compensation for what?"" Joe asked.
+
+""For the loss of his services.""
+
+Joe placed his hand on my shoulder with a gentle touch. I have often thought of him since, like a steam‑hammer that can crush a man or tap an eggshell, combining strength with tenderness. ""Pip, that’s a warm welcome,"" said Joe, ""to go free with his services, to honor and fortune, as words can’t describe. But if you think money can compensate me for the loss of the little child—what comes to the forge—and ever the best of friends!""
+
+Oh dear good Joe, whom I was ready to leave and was ungrateful to, I see you again, with your muscular blacksmith’s arm before my eyes, your broad chest rising, and your voice fading. Oh dear faithful tender Joe, I feel the loving tremor of your hand on my arm, as solemn today as if it were the rustle of an angel’s wing!
+
+But I encouraged Joe then. I was lost in the maze of my future fortunes and could not retrace the side paths we had walked together. I begged Joe to be comforted, because (as he said) we had always been the best of friends, and (as I said) we always would be. Joe wiped his eyes with his free wrist, as if he wanted to gouge himself, but said nothing more.
+
+Mr. Jaggers watched this, seeing in Joe the village simpleton and in me his charge. When it was over, he said, weighing the purse he had stopped swinging:
+
+""Now, Joseph Gargery, I warn you this is your last chance. No half‑measures with me. If you want to take the gift I’m authorized to give you, speak up and you’ll have it. If, on the contrary, you intend to—"" At that moment, to his great surprise, Joe suddenly lunged at him with a fierce, pugilistic intent.",0.2,1.0,aecd0dbd5d803d112e64f4ad8667e5bcdd70e1354d200d46f541ed7305af6126,ab47e33f32bba8c73abcb9b6acc1e9d8afd2bcd047d554a8e266a495fb754e27,556,501,0.901079,pass,,json_ok,2026-06-02T13:43:59Z
