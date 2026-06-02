@@ -3102,3 +3102,206 @@ I need to check for consistency in terms of character names and specific terms l
   ""passage_id"": ""POE_WORKS_VOLUME_1_008"",
   ""condition"": ""modernize"",
   ""rewritten_text"": ""I knocked on the hut as usual, but got no response. I found the key where I knew it was hidden, unlocked the door, and stepped inside. A fire was roaring in the fireplace, a welcome change. I took off my coat, sat in an armchair by the crackling logs, and waited for my hosts to arrive.\n\nThey showed up soon after dark and gave me a warm greeting. Jupiter, grinning widely, bustled around preparing some marsh hens for dinner. Legrand was in one of his excited moods—how else to describe them?—over a new",0.2,1.0,c4ae597e7d68f1d2d42644bdf82027705f67a7be4828866481926770792bb431,ea6c328e37b3a145235544873d1d2e1e7f9e858e39b2c47abfa94c06080e43c4,570,1402,2.459649,warning,json_parse_failed_used_raw_content;length_hard_warning,json_parse_failed_used_raw_content,2026-06-02T13:58:20Z
+groq_qwen_32b_free|run_1|POE_WORKS_VOLUME_1_008|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,POE_WORKS_VOLUME_1_008,simplify,"I knocked on the cabin door as usual but got no answer. I found the hidden key, unlocked the door, and went inside. A fire was burning in the hearth—a pleasant surprise. I took off my coat, sat in an armchair by the fire, and waited for my hosts to arrive.
+
+They came soon after dark and greeted me warmly. Jupiter, grinning broadly, hurried about preparing supper with some marsh hens. Legrand was unusually excited. He had discovered an unknown type of mollusk that formed a new genus. With Jupiter's help, he had also caught a rare scarab beetle he believed to be entirely new, and he wanted my opinion on it the next day.
+
+""Why not tonight?"" I asked, warming my hands by the fire and wishing all beetles to the devil.
+
+""If only I'd known you were coming!"" Legrand said. ""It's been ages since we last met. When I came home, I lent the beetle to Lieutenant G—— from the fort. You'll have to wait until morning to see it. Stay here tonight, and I'll send Jupiter to retrieve it at sunrise. It's the most beautiful creature you've ever seen!""
+
+""What? Sunrise?""
+
+""No! The beetle. It's golden, about the size of a large hickory nut, with two black spots on one end and a longer one on the other. The antennae are—""
+
+""It ain't no tin, Massa Will,"" Jupiter interrupted. ""It's solid gold, every bit of it inside except the wings. I never felt a heavier beetle in my life.""
+
+""Well, suppose it is,"" Legrand replied, more urgently than I expected. ""Does that mean you'll let the birds burn?"" He turned to me. ""The color is almost as brilliant as Jupiter says. You've never seen such a metallic shine on an insect—but you'll have to wait until tomorrow. For now, I can sketch its shape."" He pulled out a pen and paper but couldn't find any clean sheets. ""This will work,"" he said, using a crumpled scrap from his coat pocket. As he drew, I stayed by the fire, still cold. When he finished, he handed me the sketch without standing. As I looked at it, a loud growl came from outside. Jupiter opened the door, and Legrand's large Newfoundland dog bounded in, leaping onto my shoulders. The dog had grown fond of me during previous visits.",0.2,1.0,c4ae597e7d68f1d2d42644bdf82027705f67a7be4828866481926770792bb431,92cc7fc6e89e517664456f56e84337fef795f31bf28835f16b9620a87c6b2984,570,391,0.685965,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T22:54:48Z
+groq_qwen_32b_free|run_1|POE_WORKS_VOLUME_1_009|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,POE_WORKS_VOLUME_1_009,paraphrase,"I feared that the ongoing weight of misfortune had finally unhinged my friend's mind. Without hesitation, I resolved to follow the negro to the wharf. There, I observed a scythe and three new spades resting in the boat we were to use for our journey. 'What do these signify, Jup?' I asked. 'Him de syfe and de spade, massa,' he replied. 'True, but why are they here?' 'Him de syfe and de spade what Massa Will told me to buy in town, and I paid a fortune for 'em,' Jupiter muttered. 'And what, by all that's strange, does Massa Will need scythes and spades for?' 'Dat’s more dan _I_ know,' he said, 'and debbil take me if I don’t think it’s more dan he knows too. But it’s all cum ob do bug.' Since Jupiter’s thoughts were entirely consumed by 'de bug,' I stepped into the boat and set sail. A brisk wind carried us swiftly to the cove north of Fort Moultrie, followed by a two-mile trek to the hut. We arrived at three in the afternoon. Legrand awaited us, his grip on my hand trembling with urgency that unsettled me further. His face was deathly pale, his eyes gleaming unnaturally. After inquiring about his health, I asked if he had yet acquired the _scarabæus_ from Lieutenant G——. 'Oh, yes,' he said, flushing, 'I took it from him the next morning. Nothing would make me part with that _scarabæus_. Do you know Jupiter is right about it?' 'In what way?' I asked, dreading the answer. 'In supposing it is a bug of _real gold_,' he said solemnly, shocking me. 'This bug will restore my family’s fortune,' he continued, grinning. 'How could I not value it? If I follow its guidance, I shall find the gold it points to. Jupiter, bring me that _scarabæus!_' 'What! De bug, massa? I’d rudder not touch dat bug—youse mus’ fetch him yerself.' Legrand then solemnly retrieved the beetle from a glass case. The insect was a rare scarabæus, unknown to scientists, its golden sheen and heavy weight lending credence to Jupiter’s belief. Though I could not fathom Legrand’s agreement with this, I could not blame Jupiter for his conviction.",0.2,1.0,782cf703586ede1041c809de3610e826bcdb7b82cfba1a4ae8947c24f94fb2cc,35454928d9974453d47debdda6c44b2d1c37c6f8f1c9b9b2e7142e3b7452baa9,567,367,0.647266,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T22:55:06Z
+groq_qwen_32b_free|run_1|POE_WORKS_VOLUME_1_009|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,POE_WORKS_VOLUME_1_009,modernize,"I feared that the ongoing pressure of bad luck had finally driven my friend out of his mind. Without hesitation, I decided to go with the Black man. When we reached the dock, I noticed a scythe and three spades, all brand new, lying in the bottom of the boat we were using.
+
+""What's this about, Jup?"" I asked.
+
+""Him syfe, massa, and spade.""
+
+""True enough, but why are they here?""
+
+""Him de syfe and de spade what Massa Will told me to buy for him in town, and I had to pay the devil's own amount for 'em.""
+
+""But what in the world is your 'Massa Will' going to do with scythes and spades?""
+
+""Dat's more dan _I_ know, and the devil take me if I don't believe it's more dan he knows too. But it's all cum ob do bug.""
+
+Since Jupiter wouldn't explain anything beyond his obsession with 'the bug,' I stepped into the boat and we set sail. With a strong wind behind us, we quickly reached the cove north of Fort Moultrie. A two-mile walk brought us to the hut. It was around three in the afternoon when we arrived. Legrand had been waiting anxiously. He grabbed my hand with nervous excitement that unsettled me and confirmed my suspicions. His face was deathly pale, and his eyes glowed with unnatural intensity. After asking about his health, I mentioned, not knowing what else to say, if he'd yet obtained the scarab beetle from Lieutenant G——.
+
+""Oh, yes,"" he replied, flushing, ""I got it from him the next morning. Nothing would make me part with that beetle. You know Jupiter's right about it?""
+
+""In what way?"" I asked, dreading the answer.
+
+""In thinking it's a bug made of real gold."" He said this with dead seriousness, and I was shocked.
+
+""This bug will make my fortune,"" he continued, grinning triumphantly, ""and restore my family's wealth. Should I not value it? If Fortune chose to give it to me, all I need to do is use it properly to find the gold it points to. Jupiter, bring me that beetle!""
+
+""What! De bug, massa? I'd rather not touch dat bug—you better get him yourself."" Legrand stood up solemnly and retrieved the beetle from a glass case. It was a stunning scarab beetle, unknown to scientists at the time. There were two round black spots near one end of its back and a long one near the other. The shell was extremely hard and shiny, looking like polished gold. The insect's weight was remarkable, and honestly, I couldn't blame Jupiter for thinking it was valuable. But trying to understand why Legrand agreed with him was beyond me.",0.2,1.0,782cf703586ede1041c809de3610e826bcdb7b82cfba1a4ae8947c24f94fb2cc,3cabfc07badb226d380c939beff0449b4c72364b07da2144495f4de0555af4d9,567,449,0.791887,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T22:55:27Z
+groq_qwen_32b_free|run_1|POE_WORKS_VOLUME_1_009|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,POE_WORKS_VOLUME_1_009,simplify,"I was worried that his ongoing bad luck had finally driven him mad. Without hesitation, I decided to go with the black man. When we reached the dock, I saw a new scythe and three new spades in the boat we were using. 'What are these for, Jup?' I asked. 'Him syfe, massa, and spade,' he said. 'Yes, but why are they here?' 'Him de syfe and de spade what Massa Will told me to buy for him in town, and I had to pay a fortune for them.' 'But what in the world is your Massa Will going to do with scythes and spades?' 'Dat’s more dan I know, and debbil take me if I don’t b’lieve ’tis more dan he know, too. But it’s all cum ob do bug.' Since Jupiter wouldn’t explain anything beyond his obsession with 'de bug,' I stepped into the boat and we set sail. With a strong wind, we reached the cove north of Fort Moultrie quickly. After a two-mile walk, we arrived at the hut around three in the afternoon. Legrand was waiting anxiously. He grabbed my hand with nervous excitement that worried me. His face was pale, almost ghostly, and his eyes glowed unnaturally. After asking about his health, I mentioned not knowing what to say, if he’d gotten the scarab beetle from Lieutenant G—. 'Oh, yes,' he said, turning red, 'I got it from him the next morning. Nothing would make me give up that scarab. Do you know Jupiter is right about it?' 'In what way?' I asked, feeling uneasy. 'In thinking it’s a real gold bug.' He said this seriously, and I was shocked. 'This bug will make my fortune,' he continued, smiling triumphantly, 'and restore my family’s wealth. Shouldn’t I treasure it? Since Fortune gave it to me, I just need to use it properly to find the gold it points to. Jupiter, bring me that scarab!' 'What! De bug, massa? I’d rather not touch dat bug—you mus’ get him for your own self.' Legrand then solemnly brought the beetle from a glass case. It was a beautiful, unknown scarab to scientists—scientifically valuable. Two black spots were near one end of its back, and a long one near the other. The shell was hard, shiny, and looked like polished gold. The insect was unusually heavy. Considering all this, I couldn’t blame Jupiter for thinking it was gold. But I couldn’t understand why Legrand agreed with him.",0.2,1.0,782cf703586ede1041c809de3610e826bcdb7b82cfba1a4ae8947c24f94fb2cc,275346da14410b337743c7a1d9a4faf5aa2472ba3a668feb0da4c92e0422e929,567,411,0.724868,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T22:55:45Z
+groq_qwen_32b_free|run_1|POE_WORKS_VOLUME_1_010|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,POE_WORKS_VOLUME_1_010,paraphrase,"This thought hinted at a significance—a connection—in the death’s-head. I took note, too, of the parchment’s shape. Though one corner had been damaged by some mishap, its original form was clearly oblong. It resembled precisely the sort of strip one might use for a memorandum—a note meant to be remembered for years and safeguarded carefully.
+
+“But,” I interrupted, “you claim the skull wasn’t on the parchment when you sketched the beetle. How then do you link the boat to the skull, which you admit must have been added—by God alone knows what means—after you drew the _scarabæus?_”
+
+“Ah, this is where the riddle hinges; though at this point, solving it posed little challenge. My reasoning was firm, leading to only one conclusion. For instance: When I sketched the _scarabæus_, no skull was visible. After finishing the drawing, I handed it to you and watched closely until you returned it. You did not add the skull, and no one else was present. Therefore, no human hand did it. And yet it was done.
+
+“In reflecting further, I recalled with perfect clarity every detail from that time. The air was cold (what a fortunate coincidence!), and the fireplace roared. I sat near the table, flushed from exertion, while you had drawn your chair close to the hearth. Just as I gave you the parchment and you began examining it, Wolf, the Newfoundland, bounded in and leaped onto your shoulders. You used your left hand to shoo him away while letting your right hand, still clutching the parchment, dangle loosely between your knees, near the fire. For a moment, I feared the flames had touched it and was about to warn you—but you pulled it back just in time and resumed inspecting it. Considering all this, I had no doubt that heat revealed the skull on the parchment. You know well that certain chemical mixtures, known since ancient times, allow writing on paper or vellum to appear only when exposed to fire. Zaffre dissolved in aqua regia and diluted with four parts water sometimes produces a green hue. Cobalt regulus dissolved in nitric spirit yields red. These colors fade after some time once the material cools but reappear when heat is applied again.
+
+“I now examined the death’s-head closely. Its outer edges—the parts of the drawing nearest the parchment’s border—were far sharper than the rest. Clearly, the heat’s effect had been uneven or incomplete.",0.2,1.0,22d8f6cc110c829668475e1cdfa4dbc59828ca3b01000ca62d766f5566397dfa,2031cc41aef86cf62b52244b11e07dd665c240c0f99ee7571e7528f464ce6609,557,412,0.739677,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T22:56:04Z
+groq_qwen_32b_free|run_1|POE_WORKS_VOLUME_1_010|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,POE_WORKS_VOLUME_1_010,modernize,"This thought suggested some meaning—some relevance—in the death’s-head. I noticed, too, the shape of the parchment. Though one corner had been damaged in an accident, it was clear the original shape was rectangular. It looked exactly like a slip someone might choose for a note—for recording something meant to be remembered for a long time and kept safe.
+
+“But,” I interrupted, “you said the skull wasn’t on the parchment when you sketched the beetle. How then do you connect the boat to the skull? According to your own account, the skull must have been added—no idea how or by whom—after you drew the _scarabæus_?”
+
+“Ah, this is the crux of the mystery. At this point, solving it became straightforward. My reasoning was solid, leaving only one possible conclusion. For example: When I sketched the _scarabæus_, there was no skull on the parchment. After finishing the drawing, I gave it to you and watched closely until you returned it. You didn’t add the skull, and no one else was present. So it wasn’t done by a person. And yet, it happened.
+
+“While thinking this through, I recalled every detail from that time with perfect clarity. The weather was cold—a lucky break—and the fireplace was lit. I was sweaty from exercise and sat near the table. You, however, had pulled a chair close to the fire. Just as I handed you the parchment and you began examining it, Wolf, the Newfoundland dog, bounded in and jumped onto your shoulders. You used your left hand to pat him and push him away, while your right hand, holding the parchment, dangled limply between your legs near the fire. For a moment, I thought the flames had caught it and was about to warn you, but you pulled it back just in time and resumed inspecting it. When I considered all this, I had no doubt that heat revealed the skull on the parchment. You know chemicals exist—have existed for centuries—that let you write on paper or vellum so the text only appears when exposed to heat. Zaffre dissolved in aqua regia, diluted with four parts water, sometimes works; it creates a green color. Cobalt regulus dissolved in nitric acid produces red. These colors fade after the material cools, but reappear when heat is applied again.
+
+“I examined the death’s-head closely. Its outer edges—the parts closest to the vellum’s edge—were far clearer than the rest. Clearly, the heat’s effect had been uneven or incomplete.",0.2,1.0,22d8f6cc110c829668475e1cdfa4dbc59828ca3b01000ca62d766f5566397dfa,435a58da3aaf6eee37d9e37c634bd2b374497b2d267c626852b70a7b3e07bcee,557,422,0.75763,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T22:56:22Z
+groq_qwen_32b_free|run_1|POE_WORKS_VOLUME_1_010|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,POE_WORKS_VOLUME_1_010,simplify,"This thought made me wonder if the skull symbol had some hidden meaning. I also noticed the parchment’s shape—it was originally rectangular, though one corner was damaged. It looked like the kind of paper someone might use to write down something important to remember.
+
+“But,” I asked, “you said the skull wasn’t on the parchment when you drew the beetle. How can you connect the boat to the skull, since you admit the skull must have been added later—somehow and by someone unknown?”
+
+“This is the key to the mystery,” I replied. “At this point, solving it became easier. My reasoning was straightforward. For example: When I drew the beetle, there was no skull on the parchment. After finishing, I gave it to you and watched closely until you returned it. You didn’t draw the skull, and no one else was present. So it wasn’t done by a person. And yet it was done.
+
+“I tried to recall every detail from that time. It was chilly, and a fire burned in the hearth. I was sweaty from exercise and sat near the table. You, however, had pulled a chair close to the fireplace. Just as I handed you the parchment, your dog Wolf jumped onto your shoulders. You used your left hand to push him away and let your right hand holding the parchment fall limply between your knees, near the fire. For a moment, I thought the fire had caught the paper, but you quickly moved it and began examining it. When I considered all this, I realized heat must have revealed the skull on the parchment. You know that old chemical tricks let people write on paper or vellum so the ink only appears when exposed to heat. For example, blue powder mixed with strong acid and water creates a green color that shows up when heated. A red color comes from cobalt mixed with nitric acid. These colors fade over time but reappear when heat is applied again.
+
+“I examined the skull carefully. Its edges closest to the parchment’s edge were much clearer than the rest. Clearly, the heat had unevenly activated the chemical reaction.",0.2,1.0,22d8f6cc110c829668475e1cdfa4dbc59828ca3b01000ca62d766f5566397dfa,1f1bbc47dc6793cb709e17e13c52e855eefa4fe7c0ee7d2fc9bf273c757ee5c7,557,360,0.64632,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T22:56:40Z
+groq_qwen_32b_free|run_1|POE_WORKS_VOLUME_1_011|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,POE_WORKS_VOLUME_1_011,paraphrase,"My first attempt was to separate the sentence into the segments the cryptographist originally intended.
+
+""You mean, to add punctuation?""
+
+""Something along those lines.""
+
+""But how could you accomplish that?""
+
+""I reasoned that the writer deliberately merged words without spaces to complicate the solution. A person lacking sharp insight would likely overdo this. When composing, they might cluster characters especially tightly at natural pauses. Examine the manuscript—five such tight clusters are obvious here. Using this clue, I split it like this: ‘A good glass in the Bishop’s hostel in the Devil’s seat—forty-one degrees and thirteen minutes—northeast and by north—main branch seventh limb east side—shoot from the left eye of the death’s-head—a bee-line from the tree through the shot fifty feet out.’""
+
+""This still puzzles me,"" I said.
+
+""It confused me for days,"" Legrand replied. ""I searched Sullivan’s Island for a ‘Bishop’s Hotel,’ dropping the old term ‘hostel.’ Finding nothing, I nearly expanded my search when suddenly I wondered if it referenced the Bessop family, who owned an old manor four miles north. I visited their plantation and asked elderly locals. An aged woman recalled ‘Bessop’s Castle’ as a high rock, not a fortress or inn.
+
+""I paid her well, and after hesitation, she led me there. The site was easy to find. The ‘castle’ was a jumble of cliffs, one tower-like rock standing out. I climbed it but hesitated on next steps.
+
+""While pondering, I noticed a narrow ledge on the east face, about a yard below the peak. It jutted eighteen inches, a foot wide, with a niche above resembling an old hollow-backed chair. I concluded this was the ‘Devil’s seat’ mentioned in the text.""",0.2,1.0,806f21d59c402f0de11e509e9a70aed6e35703b4bee5ac39476d3fa63b13fa3d,2033d7e589e43422f8af94406898ddbff49061b16960a7125c5ba698f12d0981,552,283,0.512681,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T22:56:58Z
+groq_qwen_32b_free|run_1|POE_WORKS_VOLUME_1_011|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,POE_WORKS_VOLUME_1_011,modernize,"My first step was to break the sentence into the natural divisions the code creator had intended.
+
+""You mean, to add punctuation?""
+
+""Something like that.""
+
+""But how could you do that?""
+
+""I realized the writer deliberately ran words together without spaces to make solving harder. Someone not especially sharp trying to do this would probably overdo it. When they reached a natural pause in their writing, they’d likely cram the letters even tighter at that spot. If you look at the manuscript, you’ll see five obvious clusters of letters squeezed closer than usual. Using this clue, I split it like this: ‘A good glass in the Bishop’s hotel in the Devil’s seat—forty-one degrees and thirteen minutes—northeast and by north—main branch seventh limb east side—shoot from the left eye of the death’s-head—a bee-line from the tree through the shot fifty feet out.’""
+
+""This still doesn’t make sense to me,"" I said.
+
+""It confused me too for days,"" Legrand replied. ""I checked Sullivan’s Island for any place called the ‘Bishop’s Hotel,’ dropping the old-fashioned ‘hostel’ term. Finding nothing, I planned to expand my search when suddenly I wondered if ‘Bishop’s Hostel’ might reference the Bessop family, who’ve owned an old manor house four miles north of the island for generations. I visited their plantation and asked older locals. An elderly Black woman finally mentioned hearing of Bessop’s Castle, saying it was actually a tall rock formation, not a real castle or tavern.""
+
+""I offered to pay her well, and after some hesitation, she led me there. We found it easily. After she left, I examined the site. The ‘castle’ was just jagged cliffs and rocks, one tower-like formation standing out for its height and artificial-looking shape. I climbed to the top, unsure what to do next.
+
+While thinking, I noticed a narrow ledge on the rock’s eastern side, about a yard below where I stood. It jutted out eighteen inches, was a foot wide, and a hollow in the cliff above gave it the rough shape of an old-fashioned chair. I was certain this was the ‘Devil’s seat’ mentioned in the manuscript.""",0.2,1.0,806f21d59c402f0de11e509e9a70aed6e35703b4bee5ac39476d3fa63b13fa3d,823373ab9cc9b164ec26a861e6989d5f8e94f79c5e49b397de89b68d5b602bb0,552,356,0.644928,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T22:57:15Z
+groq_qwen_32b_free|run_1|POE_WORKS_VOLUME_1_011|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,POE_WORKS_VOLUME_1_011,simplify,"My first step was to split the sentence into the natural parts the cryptographer intended.
+
+""You mean, to add punctuation?""
+
+""Something like that.""
+
+""But how could you do that?""
+
+""I realized the writer intentionally merged words without spaces to make solving harder. A less sharp person trying this would likely overdo it. When they reached a natural pause in their writing, they probably squished the letters together more than usual. If you look at the manuscript, you'll see five spots where the letters are especially tight. Using that clue, I divided it like this: 'A good glass in the Bishop’s hostel in the Devil’s seat—forty-one degrees and thirteen minutes—northeast and by north—main branch seventh limb east side—shoot from the left eye of the death’s-head—a bee-line from the tree through the shot fifty feet out.'""
+
+""This still doesn't make sense to me,"" I said.
+
+""It confused me too for days,"" Legrand replied. ""I asked everywhere near Sullivan’s Island about a 'Bishop’s Hotel,' dropping the old word 'hostel.' Finding nothing, I planned to search more systematically when suddenly I thought the 'Bishop’s Hostel' might refer to an old Bessop family who lived in a manor house four miles north of the island. I visited their plantation and asked older Black residents. An elderly woman finally mentioned Bessop’s Castle, saying it was actually a tall rock, not a building.
+
+I offered to pay her well, and after some hesitation, she led me there. We found it easily. She left, and I examined the site. The 'castle' was a jumble of cliffs and rocks, one standing out for its height and artificial-looking shape. I climbed to the top and pondered next steps.
+
+As I thought, I noticed a narrow ledge on the rock's eastern side, about a yard below the summit. It jutted out eighteen inches, was a foot wide, and a niche above it made it look like an old hollow-backed chair. I was certain this was the 'Devil’s seat' mentioned in the manuscript.""",0.2,1.0,806f21d59c402f0de11e509e9a70aed6e35703b4bee5ac39476d3fa63b13fa3d,5495f3afe99d3e301b7255286ee7d4ae527bd0e3ee4f92e63dacede81b247f73,552,337,0.610507,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T22:57:33Z
+groq_qwen_32b_free|run_1|POE_WORKS_VOLUME_1_012|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,POE_WORKS_VOLUME_1_012,paraphrase,"—
+
+Forgive me; I neglected to remember that Shakespeare has yet to emerge in seventeen hundred and fifty years. But doesn't the sight of Epidaphne warrant me labeling it grotesque?
+
+""It is strongly fortified, relying equally on nature and craftsmanship.""
+
+Precisely.
+
+""There are numerous stately palaces.""
+
+Indeed.
+
+""And the many temples, lavish and grand, rival the most celebrated of antiquity.""
+
+I concede all this. Yet there are countless mud huts and wretched hovels. We cannot overlook the filth in every gutter, and if not for the overpowering fumes of idolatrous incense, I suspect we'd encounter a most unbearable stench. Have you ever witnessed streets so unbearably narrow or buildings so impossibly tall? What shadows they cast upon the ground! Fortunately, the swinging lamps in those endless colonnades burn all day; otherwise, we'd face Egypt's darkness in her time of ruin.
+
+""This is certainly an odd place! What is that peculiar structure? Observe—it rises above all others, lying east of what I assume is the royal palace!""
+
+That is the new Temple of the Sun, venerated in Syria as Elah Gabalah. Soon a notorious Roman emperor will establish this worship in Rome, adopting the name Heliogabalus. I daresay you'd enjoy glimpsing the temple's deity. There's no need to gaze upward; his Solar Majesty isn't there—at least, not the deity the Syrians revere. That god resides within that edifice, worshipped as a tall stone pillar crowned with a cone or pyramid symbolizing Fire.
+
+""Hark—look! Who are those absurd figures, half-naked, faces painted, shouting and gesticulating to the crowd?""
+
+Some are charlatans. Others belong to the philosopher class. Most, however—those particularly wielding clubs against the people—are the palace's chief courtiers, dutifully carrying out the king's whimsical commands.
+
+""But what is this? Heaven's! The town teems with wild beasts! How horrifying a sight—how perilous a trait!""
+
+Horrible, if you insist; but in no way perilous. Each creature, if you care to notice, walks calmly behind its master. A few are tethered by the neck, mostly smaller or timid species. Lions, tigers, and leopards roam free. They've been trained effortlessly for this role, serving as valets to their owners. True, Nature occasionally reclaims her dominion—but the consumption of a soldier or the strangling of a sacred bull is too trivial to mention openly in Epidaphne.
+
+""But what extraordinary commotion do I hear? Surely this is a clamor even Antioch would find excessive! It suggests some unusual disturbance.""",0.2,1.0,0bb47281116bddcc40487a3f4960c3d58c7faafd702b936d03e2369534b315b6,dfee2e5e0fcdb0489135d9a60cdcf0f78b2cc6f14d87705b950027fe8afb2d97,553,408,0.737794,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T22:57:51Z
+groq_qwen_32b_free|run_1|POE_WORKS_VOLUME_1_012|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,POE_WORKS_VOLUME_1_012,modernize,"Excuse me—I forgot Shakespeare won’t exist for another 1750 years. But doesn’t Epidaphne’s appearance justify calling it bizarre?
+
+“It’s well fortified, relying as much on natural defenses as human design.”
+
+True enough.
+
+“There are an enormous number of grand palaces.”
+
+There are.
+
+“And the temples—lavish and grand—could rival the most celebrated ancient ones.”
+
+I’ll admit all that. Still, there are endless shacks and disgusting hovels. You can’t miss the filth in every gutter, and if it weren’t for the overwhelming stench of incense, I’d swear the air reeks of rot. Have you ever seen streets this narrow or buildings this absurdly tall? Their shadows cast a gloom over everything. It’s lucky those endless colonnades have lamps burning all day—otherwise, it’d be like Egypt during its darkest days.
+
+“This is an odd place! What’s that strange structure over there? It towers above everything else, east of what I assume is the royal palace!”
+
+That’s the new Temple of the Sun, which Syrians worship as Elah Gabalah. A future Roman emperor will later adopt this worship in Rome and take the name Heliogabalus. I bet you’d like to see the temple’s deity. Don’t look up at the sky—it’s not there, at least not the Syrian version. The god lives inside that building, represented by a large stone pillar ending in a cone or pyramid to symbolize fire.
+
+“Listen—look! Who are those ridiculous half-naked figures with painted faces shouting at the crowd?”
+
+Some are charlatans. Others are philosophers. Most of them—the ones clubbing people with sticks—are palace courtiers following orders from the king.
+
+“What’s this? The town’s crawling with wild animals! How horrifying—how dangerous!”
+
+Horrible, yes, but not dangerous. Watch closely: every animal is quietly following its owner. A few are leashed, mostly the timid ones. Lions, tigers, and leopards roam free. They’ve been trained effortlessly to act as personal attendants. True, sometimes Nature reclaims her territory—but eating a soldier or choking a sacred bull is too minor to mention in Epidaphne.
+
+“What’s that incredible noise? This is louder than even Antioch usually gets! Something unusual must be happening.”",0.2,1.0,0bb47281116bddcc40487a3f4960c3d58c7faafd702b936d03e2369534b315b6,9e6002125011cc8a441f6cca5fd147cf358bc0e21662a2732d29720a2b53167d,553,356,0.643761,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T22:58:10Z
+groq_qwen_32b_free|run_1|POE_WORKS_VOLUME_1_012|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,POE_WORKS_VOLUME_1_012,simplify,"I apologize—I forgot Shakespeare hasn’t been born yet. But doesn’t the city of Epidaphne support my claim that it looks strange?
+
+'It has strong defenses, shaped more by nature than human effort.'
+
+True.
+
+'There are many grand palaces.'
+
+Correct.
+
+'Its temples are grand and beautiful, rivaling the best of ancient times.'
+
+I agree. But there are also countless shacks and filthy huts. The streets stink of mud and waste, though the heavy smoke from temple incense hides the worst smells. Have you ever seen streets this narrow or buildings this tall? Their shadows make the ground feel like night. I’m glad the long colonnades have lamps lit all day—without them, it would feel like Egypt during its darkest days.
+
+'This place is odd! What is that strange building over there? It’s taller than everything else, east of what I think is the royal palace!'
+
+That’s the new Temple of the Sun, worshipped in Syria as Elah Gabalah. A future Roman emperor will later adopt this religion in Rome and be called Heliogabalus. You’d like to see the temple’s god. Don’t look up at the sky—their Sun god isn’t there. The Syrian deity is inside that building, represented by a large stone pillar ending in a cone or pyramid to symbolize fire.
+
+'Listen! Look! Who are those strange half-naked people with painted faces shouting at the crowd?'
+
+Some are performers. Others are philosophers. Most of the ones beating people with clubs are palace officials following the king’s orders.
+
+'What is this? The city is full of wild animals! How terrifying—and dangerous!'
+
+Terrible, yes, but not dangerous. Watch closely: each animal walks calmly behind its owner. A few are tied by ropes, mostly smaller or timid ones. Lions, tigers, and leopards roam free. They’ve been trained to follow their masters like personal attendants. Sometimes nature rebels—when a soldier gets eaten or a sacred bull is strangled—but such incidents are minor and rarely mentioned in Epidaphne.
+
+'What’s that loud noise? Even for Antioch, this sounds like a big commotion!'",0.2,1.0,0bb47281116bddcc40487a3f4960c3d58c7faafd702b936d03e2369534b315b6,bc426bc82949ce1e508f68ada1c9412cd09ae7a9feda19c526e282bfa7aa7974,553,342,0.618445,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T22:58:28Z
