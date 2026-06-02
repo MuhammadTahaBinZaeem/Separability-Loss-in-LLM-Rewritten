@@ -1974,3 +1974,954 @@ After that, he sat down again and toasted my sister. “Let us never be blind,�
 Around then I noticed his face turning red; I felt my own face burning, soaked in wine and a little sore.
 
 I told Mr. Pumblechook I wanted my new clothes sent to his house, and he was thrilled at the distinction. I explained that I wanted to avoid being seen in the village, and he praised the idea to the heavens. He hinted that no one but himself was worthy of my confidence, and—briefly—asked if he might. Then, gently, he asked if I remembered our childhood games with numbers, how we had gone together to bind me as an apprentice, and how he had always been my favorite companion and chosen friend. If I had drunk ten times as much wine as I did, I would have realized he never truly saw me that way and would have rejected the notion in my heart. Yet, despite all that, I felt convinced I had been very wrong about him and that he was actually a sensible, practical, good‑hearted fellow.",0.2,1.0,ca3825f8a12f94f0830973b8191cce3bf2b55f1aecc35cb58ca851a7315ebc41,a577db25a69cdf6ffe981fc2e9217dc4e5516f6cb8fccb58ad8a7c9d8c96c4d4,568,520,0.915493,pass,,json_ok,2026-06-02T14:07:02Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_010|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_010,simplify,"Mr. Pumblechook rose again and said, ""I cannot look at One and drink to One without asking—may I?"" I told him he could, and we shook hands, emptied our glasses, and turned them upside down. I did the same; if I had turned myself upside down before drinking, the wine would have gone straight to my head.
+
+He helped me onto the liver wing and the best slice of tongue, taking no care of himself at all. ""Ah, poultry!"" he said, addressing the bird on the plate. ""When you were a young chick, you never imagined you'd end up as food under this humble roof for someone weak. May I?"" He repeated the request immediately, as if it were a habit, and I wondered how he could do it so often without hurting himself with my knife.
+
+After a few bites, he turned to my sister, who had raised me. ""It's sad,"" he said, ""that she can no longer fully understand the honor she gave you. May—"" I saw he was about to say more and stopped him. ""We'll drink to her health,"" I said.
+
+Mr. Pumblechook leaned back, admiringly flattered, and exclaimed, ""That's the way you know them, sir!"" He set his untouched glass down quickly, rose again, and repeated his polite request, ""May I?"" He then sat down, raised his glass to my sister, and said, ""Let us never be blind to her temper, but hope she meant well.""
+
+At that moment I noticed his face flushing, and I felt my own cheeks burn from the wine. I told Mr. Pumblechook that I wanted my new clothes sent to his house. He was delighted at the thought of being trusted with them. I explained that I wished to avoid being seen in the village, and he praised the idea, saying that no one but himself was worthy of my confidence. He asked me tenderly if I remembered our boyhood games, how we had gone together to arrange my apprenticeship, and how he had always been my favorite friend. If I had drunk ten more glasses, I might have realized that he never truly saw me that way and would have rejected the notion. Yet, despite all that, I felt convinced that I had been wrong about him and that he was a sensible, practical, good‑hearted man.",0.2,1.0,ca3825f8a12f94f0830973b8191cce3bf2b55f1aecc35cb58ca851a7315ebc41,36bd7e67794583cc06107fffc0ab4f7b888c9d8c718c18db6915effdc6cfd5bd,568,390,0.68662,warning,length_hard_warning,json_ok,2026-06-02T22:58:58Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_011|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_011,paraphrase,"I discovered that Wemmick was the clerk in the adjoining room. A different clerk was summoned from the floor above to replace him while he was away, and after parting with my guardian I walked with him into the street. A fresh group of people lingered outside, but Wemmick pushed through them, stating calmly but firmly, “I tell you it’s no use; he won’t have a word to say to any of you;” and we soon cleared them and continued side by side.
+
+Chapter XXI.
+
+Looking at Mr. Wemmick as we walked, to judge his appearance in daylight, I saw a rather dry, short‑statured man with a square, wooden‑like face, as if his features had been roughly carved with a blunt chisel. Small indentations suggested what might have been dimples on softer material, but here they were merely shallow dents. The chisel had attempted a few embellishments around his nose before abandoning the effort, leaving the marks unsoftened. From the ragged state of his linen I guessed he was a bachelor, and the many mourning rings he wore—four at least—along with a brooch depicting a lady and a weeping‑willow tomb, told me he had suffered several losses. Several rings and seals dangled from his watch‑chain, as if he carried many mementos of departed friends. His eyes glittered—small, sharp, black—and his thin, wide, mottled lips seemed to have been there for perhaps forty to fifty years.
+
+“So you were never in London before?” said Mr. Wemmick to me.
+
+“No,” I replied.
+
+“I was new here once myself,” he answered. “Rum to think of now!”
+
+“You are well acquainted with it now?”
+
+“Yes,” he said. “I know the moves of it.”
+
+“Is it a very wicked place?” I asked, more to fill the silence than for any real answer.
+
+“You may be cheated, robbed, even murdered in London. Yet there are plenty of people everywhere who will do it for you.”
+
+“If there is bad blood between you and them,” I added, trying to soften the tone.
+
+“Oh! I don’t know about bad blood,” returned Mr. Wemmick. “There’s not much of it. They’ll do it if there’s anything to gain.”
+
+“That makes it worse.”
+
+“You think so?” he replied. “Much the same, I should say.”
+
+He wore his hat tipped back on his head and stared straight ahead, walking as if nothing in the street could draw his attention. His mouth had the fixed look of a post‑office, a mechanical smile. We had reached the top of Holborn Hill before I realized that the smile was only a façade and that he was not truly smiling at all.
+
+“Do you know where Mr. Matthew Pocket lives?” I asked Mr. Wemmick.
+
+“Yes,” he said, nodding toward the direction. “At Hammersmith, west of London.”
+
+“Is that far?”",0.2,1.0,49d0ce45531f3b7d1343590542c4133f1cf2368fdec9dcaaa6d3ca41dab27069,70ddbf10eaf64cb9f5fbc22e0a382faed0e17aaa097c3ebbfc430ce775b7736e,550,472,0.858182,pass,,json_ok,2026-06-02T22:59:15Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_011|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_011,modernize,"I then discovered that Wemmick was the clerk in the next room. Another clerk was called down from upstairs to take his place while he was out, and I walked with him onto the street after shaking hands with my guardian. We found a new group of people lingering outside, but Wemmick pushed his way through them, saying coolly yet firmly, “I’m telling you it’s no use; he won’t have a word to say to any of you,” and we soon got past them and continued side by side.
+
+Chapter XXI.
+
+Looking at Mr. Wemmick as we walked, to see what he was like in daylight, I saw a dry, rather short man with a square, wooden‑like face, as if it had been roughly carved with a dull chisel. There were a few indentations that might have been dimples if the material were softer and the tool finer, but as they were, they were just small dents. The chisel had tried three or four times to add detail around his nose, then gave up without smoothing them out. I guessed he was a bachelor from the worn state of his linen, and he seemed to have suffered many losses; he wore at least four mourning rings, plus a brooch showing a lady and a weeping willow beside a tomb with an urn. I also noticed several rings and seals hanging from his watch chain, as if he were carrying a lot of reminders of departed friends. His eyes were bright—small, sharp, and black—and his thin, wide lips were mottled. I believed he had had them for about forty to fifty years.
+
+“So you’ve never been to London before?” Mr. Wemmick asked me.
+
+“No,” I replied.
+
+""I was new here once, too,"" he said. ""Hard to think about now!""
+
+""Are you familiar with it now?""
+
+""Why, yes,"" he answered. ""I know how it works.""
+
+""Is it a very wicked place?"" I asked, more to keep the conversation going than out of genuine curiosity.
+
+""You can get cheated, robbed, even murdered in London. But there are plenty of people everywhere who will do that for you.""
+
+""What if there’s bad blood between you and them?"" I tried to soften the question.
+
+""Oh! I don’t know about bad blood,"" Wemmick replied. ""There isn’t much of that. They’ll do it if there’s something to gain.""
+
+""That makes it worse.""
+
+""You think so?"" he responded. ""I’d say it’s about the same.""
+
+He wore his hat pushed back on his head and stared straight ahead, walking as if nothing in the street could distract him. His mouth was like a post‑office box—mechanically set in a smile. We reached the top of Holborn Hill before I realized that his smile was only a mechanical gesture and that he wasn’t actually smiling.
+
+""Do you know where Mr. Matthew Pocket lives?"" I asked.
+
+""Yes,"" he said, nodding in the direction. ""In Hammersmith, west of London.""
+
+""Is that far?""",0.2,1.0,49d0ce45531f3b7d1343590542c4133f1cf2368fdec9dcaaa6d3ca41dab27069,50b983597ee7ab0993ddc6999319f027f8fc252d5f88d27e56ae7b6e44d8e50f,550,494,0.898182,pass,,json_ok,2026-06-02T22:59:30Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_011|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_011,simplify,"I then learned that Wemmick was the clerk in the next room. While he was away, another clerk was called down from upstairs to take his place, and after shaking hands with my guardian I went with him onto the street. A new crowd was lingering outside, but Wemmick pushed through them, saying coolly but firmly, ""I tell you it’s no use; he won’t have a word to say to any of you,"" and we soon got past them and walked side by side.
+
+Chapter XXI.
+
+Looking at Mr. Wemmick as we walked, I saw what he looked like in daylight. He was a short, dry‑looking man with a square, wooden‑like face that seemed carved with a blunt chisel. The chisel had left a few shallow dents where it tried to make dimples, especially around his nose, but never smoothed them out. His linen was frayed, so I guessed he was a bachelor, and he wore at least four mourning rings, a brooch shaped like a lady, and a small weeping‑willow tomb with an urn. Several rings and seals hung from his watch chain, as if he carried many reminders of dead friends. His eyes were small, sharp, and black; his lips were thin, wide, and mottled. I thought he must have been in his forties or fifties.
+
+""So you’ve never been to London before?"" Mr. Wemmick asked.
+
+""No,"" I replied.
+
+""I was new here once, too,"" he said. ""Hard to think about now!""
+
+""Do you know it well now?""
+
+""Yes,"" he answered. ""I know the ways of it.""
+
+""Is it a very wicked place?"" I asked, more to keep the conversation going than out of real curiosity.
+
+""You can be cheated, robbed, even murdered in London. But there are plenty of people everywhere who will do those things for you.""
+
+""What if you have a bad feeling about them?"" I tried to soften the question.
+
+""Oh, I don’t know about bad feelings,"" he said. ""There isn’t much of that. They’ll do it if there’s something to gain.""
+
+""That makes it worse,"" I said.
+
+""You think so?"" he replied. ""It’s about the same, I’d say.""
+
+He wore his hat pushed back on his head and stared straight ahead, walking as if nothing in the street could distract him. His mouth looked like a post‑office box, giving a mechanical smile. When we reached the top of Holborn Hill I realized his smile was only a habit; he wasn’t really smiling at all.
+
+""Do you know where Mr. Matthew Pocket lives?"" I asked.
+
+""Yes,"" he said, nodding toward the direction. ""In Hammersmith, west of London.""
+
+""Is that far?""",0.2,1.0,49d0ce45531f3b7d1343590542c4133f1cf2368fdec9dcaaa6d3ca41dab27069,ed1081c413f2e8b40f87f1d49b5d70ff5079bb568c9e157c89999623ecdf7017,550,440,0.8,warning,length_soft_warning,json_ok,2026-06-02T22:59:45Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_012|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_012,paraphrase,"Also to Ceylon, especially for elephants’ tusks.
+
+“You will want a good many ships,” I said.
+
+“A perfect fleet,” he replied.
+
+Overwhelmed by the grandeur of these dealings, I asked him where the vessels he insured were chiefly trading at present.
+
+“I have not yet begun insuring,” he answered. “I am merely looking about me.”
+
+That pursuit seemed more fitting to Barnard’s Inn. I said, with a tone of conviction, “Ah‑h!”
+
+“Yes. I am in a counting‑house, and I am looking about me.”
+
+“Is a counting‑house profitable?” I inquired.
+
+“To—do you mean to the young fellow who is in it?” he returned.
+
+“Yes; to you.”
+
+“Why, no; not to me.” He said it with the air of one carefully balancing his books. “Not directly profitable. That is, it does not pay me anything, and I must—keep myself.”
+
+This certainly did not look profitable, and I shook my head as if to suggest that it would be difficult to lay aside much capital from such a source of income.
+
+“But the point,” said Herbert Pocket, “is that you look about you. _That’s_ the grand thing. You are in a counting‑house, you know, and you look about you.”
+
+It struck me as a singular implication that one could not be out of a counting‑house and still look about you; yet I silently deferred to his experience.
+
+“Then the time comes,” continued Herbert, “when you see your opening. And you go in, and you swoop upon it and you make your capital, and then there you are! Once you have made your capital, you have nothing to do but employ it.”
+
+This was very like his manner of conducting that encounter in the garden; very like. His bearing of his poverty corresponded exactly to his bearing of that defeat. It seemed to me that he took all blows and buffets now with the same air as he had taken mine then. It was evident that he possessed nothing beyond the simplest necessities, for everything I remarked upon turned out to have been sent in on my account from the coffee‑house or elsewhere.
+
+Yet, having already made his fortune in his own mind, he was so unassuming with it that I felt quite grateful to him for not being puffed up. It was a pleasant addition to his naturally pleasant ways, and we got on famously. In the evening we walked in the streets, and went half‑price to the Theatre; the next day we attended church at Westminster Abbey, and in the afternoon we strolled in the Parks; I wondered who shod all the horses there, and wished Joe did.
+
+On a moderate calculation, it had been many months, that Sunday, since I had left Joe and Biddy. The space between myself and them had expanded, and our marshes lay a great distance off. That I could have been at our old church in my old church‑going clothes, on the very last Sunday that ever was, seemed a combination of impossibilities, geographical and social, solar and lunar. Yet in the London streets, so crowded with people and so brilliantly lit in the dusk of evening, there were depressing hints of reproach for having put the poor old kitchen at home so far away; and in the dead of night, the footsteps of some incapable impostor of a porter prowling about Barnard’s Inn, under pretence of watching it, fell hollow on my heart.",0.2,1.0,9db0757c51b0f209a40599e17787db71a8cdd618ada332fd4ae1e45bbef6c348,38d8e859364c7fcb8e108ab37f7b8b20604c8256a78268dacf7ce9a341bed0d8,594,578,0.973064,pass,,json_ok,2026-06-02T23:00:00Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_012|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_012,modernize,"“Also to Ceylon, especially for elephant tusks.”
+
+“You’ll need a lot of ships,” I said.
+
+“A whole fleet,” he replied.
+
+Overwhelmed by the grandeur of the deal, I asked him where the ships he planned to insure would mostly be trading now.
+
+“I haven’t started insuring yet,” he said. “I’m just looking around.”
+
+That answer felt more like something you’d hear at Barnard’s Inn. I said, with conviction, “Ah‑ha!”
+
+“Yes. I’m in a counting‑house, and I’m looking around.”
+
+“Is a counting‑house profitable?” I asked.
+
+“To—do you mean for the young man who works there?” he asked back.
+
+“Yes, for you.”
+
+“Why, no; not for me.” He said it with the careful air of someone balancing a ledger. “It’s not directly profitable. It doesn’t pay me anything, and I have to—support myself.”
+
+That didn’t sound like a money‑making venture, and I shook my head as if to say it would be hard to save any capital from such a source of income.
+
+“But the point,” said Herbert Pocket, “is that you keep looking around. That’s the big thing. You’re in a counting‑house, you know, and you keep looking around.”
+
+It struck me as odd that you couldn’t be out of a counting‑house and still look around, but I let his experience speak for itself.
+
+“Then the time comes,” Herbert continued, “when you see your opening. You go in, you seize it, you make your capital, and then that’s it! Once you’ve made your capital, all you have to do is use it.”
+
+His description reminded me of the way he handled our conversation in the garden—very similar. The way he carried his poverty matched the way he carried his defeat. He seemed to take every setback now with the same calm as he had taken mine before. It was clear he owned only the basics; everything I noticed had been sent to me from the coffee‑house or elsewhere.
+
+Yet, having already imagined his fortune in his mind, he was so modest about it that I felt grateful he wasn’t arrogant. It added to his naturally pleasant manners, and we got along famously. In the evening we walked the streets, got half‑price tickets to the theatre; the next day we went to Westminster Abbey, and in the afternoon we strolled through the parks. I wondered who shod all the horses there and hoped Joe did.
+
+By a rough count, it had been many months since that Sunday when I left Joe and Biddy. The distance between me and them had grown, and our old marshes seemed far away. The idea of being back at our old church in my old Sunday clothes on the very last Sunday ever felt like a mix of impossible geography and social awkwardness, like the sun and moon colliding. Yet in the crowded, brightly lit London streets at dusk, I felt a faint sting of guilt for having left the poor old kitchen so far behind; and in the dead of night, the footsteps of some clueless porter prowling around Barnard’s Inn under the pretense of watching it echoed hollowly in my heart.",0.2,1.0,9db0757c51b0f209a40599e17787db71a8cdd618ada332fd4ae1e45bbef6c348,1888df3d2688101613e5cd03b9d137483e80baf7386fba32ba0e9192d2987411,594,527,0.887205,pass,,json_ok,2026-06-02T23:00:14Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_012|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_012,simplify,"“Also to Ceylon, especially for elephant tusks.”
+
+“You’ll need a lot of ships,” I said.
+
+“A whole fleet,” he answered.
+
+Impressed by the scale of his plans, I asked where the ships he intended to insure would be sailing now.
+
+“I haven’t started insuring yet,” he said. “I’m just looking around.”
+
+That answer sounded more like something you’d hear at Barnard’s Inn. I replied confidently, “Ah‑h!”
+
+“Yes. I work in a counting‑house and I’m watching what’s happening.”
+
+“Is a counting‑house a good way to make money?” I asked.
+
+“To—do you mean the young man who works there?” he asked back.
+
+“Yes, to you.”
+
+“Not really. It doesn’t pay me directly, and I have to support myself.” He said it as if he were carefully adding up numbers on a ledger.
+
+It didn’t sound profitable, and I shook my head, thinking it would be hard to save any capital from such a job.
+
+“But the point,” said Herbert Pocket, “is that you keep looking around. That’s the important part. You’re in a counting‑house, you know, and you keep observing.”
+
+It seemed odd to me that you could not leave a counting‑house and still look around, but I trusted his experience.
+
+“Then the time will come,” Herbert continued, “when you see an opening. You jump on it, make your capital, and that’s it. Once you have your capital, all you have to do is use it.”
+
+His words reminded me of the way he behaved in the garden—calm and steady. The way he carried his poverty matched the way he handled defeat. He took every setback with the same calm attitude I had seen before. It was clear he owned only the basics; everything else I noticed had been sent to him from the coffee‑house or elsewhere.
+
+Even though he imagined himself already rich, he stayed modest, and I was grateful he didn’t become arrogant. His natural kindness made our friendship easy. In the evening we walked through the streets, got half‑price tickets to the theatre, and the next day we went to Westminster Abbey for service. In the afternoon we strolled in the parks, and I wondered who shod all the horses there, hoping it was Joe.
+
+It had been many months—several Sundays—since I left Joe and Biddy. The distance between us grew, and the marshes where we lived seemed far away. The thought of returning to our old church in my old Sunday clothes on the very last Sunday ever felt impossible, both geographically and socially, like the sun and moon could not meet. Yet the crowded London streets, bright in the dusk, reminded me of the guilt I felt for leaving the poor kitchen at home. In the dead of night, the footsteps of some useless porter pretending to watch Barnard’s Inn echoed hollowly in my heart.",0.2,1.0,9db0757c51b0f209a40599e17787db71a8cdd618ada332fd4ae1e45bbef6c348,9546ac2b581b41f14f1d21219eb0dfba8312bdb4caaf471896fcffc62638a9b3,594,479,0.806397,warning,length_soft_warning,json_ok,2026-06-02T23:00:28Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_013|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_013,paraphrase,"Then I inquired whether there were many clerks, and he answered:
+
+""We seldom meet clerks, for there is only one Jaggers, and nobody wants him second‑hand. There are merely four of us. Would you care to see them? You are, as I might say, one of us.""
+
+I accepted his invitation. After Mr. Wemmick had placed all the biscuits in the post and handed me my money from a cash‑box locked in a safe—whose key he kept somewhere on his back and produced from his coat‑collar like an iron‑pigtail—we went upstairs. The house was dim and dilapidated, and the greasy footprints that had marked Mr. Jaggers’s room seemed to have been scurrying up and down the staircase for years. On the front first floor a clerk, looking somewhere between a publican and a rat‑catcher—a large, pale, puffed, swollen man—was busily attending to three or four shabby‑looking people, treating them as unceremoniously as anyone who contributed to Mr. Jaggers’s coffers. ""Gathering evidence,"" said Mr. Wemmick as we emerged, ""for the Bailey."" In the room above, a little, flabby, terrier‑like clerk with hair hanging loose—his cropping apparently forgotten when he was a puppy—was similarly engaged with a man of weak eyes, whom Mr. Wemmick introduced to me as a smelter who kept his pot ever boiling and would melt anything I desired, and who was drenched in white sweat, as if he were testing his art upon himself. In a back room a high‑shouldered man with a face wrapped in dirty flannel, dressed in old black garments that seemed waxed, was stooping over his work of making clean copies of the notes of the other two gentlemen for Mr. Jaggers’s own use.
+
+That was the whole establishment. When we went downstairs again, Wemmick led me into my guardian’s room and said, ""You've already seen this.""
+
+""Pray,"" I said, as the two odious casts with their twitching leer caught my eye once more, ""whose likenesses are those?""
+
+""These?"" replied Wemmick, climbing onto a chair, brushing the dust from the dreadful heads before lowering them. ""These are two celebrated ones—famous clients of ours who brought us a great deal of credit. This fellow (why you must have come down at night and been peeping into the inkstand, to get this blot upon your eyebrow, you old rascal!) murdered his master, and, considering he was not trained for evidence, did not plan it badly.""
+
+""Is it like him?"" I asked, recoiling from the brute, as Wemmick spat on his eyebrow and rubbed it with his sleeve.
+
+""Like him? It's actually him, you know. The cast was made in Newgate right after he was taken down. You had a particular fancy for me, hadn't you, Old Artful?"" said Wemmick. He then explained this affectionate address by touching his brooch—a lady and a weeping willow at a tomb with an urn upon it—and saying, ""Had it made for me, express!""
+
+""Is the lady anyone?"" I asked.
+
+""No,"" answered Wemmick. ""Only his game. (You liked your bit of game, didn't you?)""",0.2,1.0,f00e6691333b74ea030e1ac75697bdf5b9193e56e0a6b269f7434c94676e1704,d48f8c6911e5d9ce0123c64a444fb83d53629441bcda6ce03eb5bdc4a7b45ec4,554,520,0.938628,pass,,json_ok,2026-06-02T23:00:43Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_013|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_013,modernize,"Then I asked if there were many clerks, and he answered:
+
+""We don't see many clerks, because there's only one Jaggers, and people don't want a second‑hand Jaggers. There are only four of us. Would you like to meet them? You're one of us, as I might say.""
+
+I accepted the offer. After Mr. Wemmick had put all the biscuits in the post and paid me from a cash‑box in a safe—whose key he kept somewhere on his back and produced from his coat collar like an iron tail—we went upstairs. The house was dark and shabby, and the greasy footprints that had marked Mr. Jaggers's room seemed to have been shuffling up and down the staircase for years. On the front first floor, a clerk who looked somewhere between a publican and a rat‑catcher—a large, pale, puffed, swollen man—was busy with three or four shabby‑looking people, treating them as casually as anyone who contributed to Mr. Jaggers's coffers. ""Gathering evidence,"" said Mr. Wemmick as we left, ""for the Bailey."" In the room above, a little, flabby clerk with hair hanging down—his haircut apparently forgotten when he was a puppy—was similarly occupied with a man with weak eyes, whom Mr. Wemmick introduced to me as a smelter who kept his pot always boiling and would melt anything I wanted, and who was sweating profusely, as if he were testing his craft on himself. In a back room, a high‑shouldered man with a face wrapped in dirty flannel, dressed in old black clothes that looked waxed, was bent over making clean copies of the notes of the other two gentlemen for Mr. Jaggers's own use.
+
+That was the whole establishment. When we went downstairs again, Wemmick led me into my guardian's room and said, ""You've already seen this.""
+
+""Please,"" I said, as the two disgusting casts with their twitchy leers caught my eye again, ""whose likenesses are those?""
+
+""These?"" Wemmick said, climbing onto a chair, blowing the dust off the horrible heads before bringing them down. ""These are two famous ones. Notable clients of ours who brought us a lot of credit. This fellow (why you had to come down at night and peek into the inkstand, getting that blot on your eyebrow, you old rascal!) murdered his master, and, since he wasn't trained in evidence, didn't plan it very well.""
+
+""Is it like him?"" I asked, recoiling from the brute, as Wemmick spat on his eyebrow and rubbed it with his sleeve.
+
+""Like him? It's actually him, you know. The cast was made in Newgate right after he was caught. You had a particular fancy for me, didn't you, Old Artful?"" said Wemmick. He then explained the affectionate nickname by touching his brooch—a lady with a weeping willow at a tomb, an urn on top—and saying, ""Had it made for me, express!""
+
+""Is the lady anyone?"" I asked.
+
+""No,"" Wemmick replied. ""Only his game. (You liked your bit of game, didn't you?)""",0.2,1.0,f00e6691333b74ea030e1ac75697bdf5b9193e56e0a6b269f7434c94676e1704,e53d83fa7b07c7a38ca1d28b7879857794a91b7f4d2faf0b4ff36fbed4e8968c,554,505,0.911552,pass,,json_ok,2026-06-02T23:00:57Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_013|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_013,simplify,"Then I asked if there were many clerks, and he answered, “We don’t have many clerks because there is only one Jaggers, and people don’t want a second‑hand Jaggers. There are only four of us. Would you like to see them? You’re one of us, as I can say.”
+
+I agreed. After Mr. Wemmick had put all the biscuits into the post and paid me from a cash‑box in a safe—he kept the key hidden in his coat and pulled it out like an iron tail—we went upstairs. The house was dark and shabby, and the greasy footprints that had marked Mr. Jaggers’s room seemed to have been walking up and down the stairs for years. On the first floor, a clerk who looked part publican, part rat‑catcher—a large, pale, puffed‑up man—was busy with three or four shabby‑looking people, treating them as casually as anyone who gave money to Mr. Jaggers. “Getting evidence together for the Bailey,” said Mr. Wemmick as we left. In the room above, a small, flabby clerk with hair hanging down—his haircut looked as if it had been forgotten since he was a boy—was also talking to a man with weak eyes. Wemmick introduced him as a smelter who always kept his pot boiling and would melt anything I wanted, and the man was sweating heavily, as if he were testing his own craft. In a back room, a tall man with a sore face wrapped in dirty flannel, dressed in old black clothes that looked waxed, was bent over copying the notes of the other two gentlemen for Mr. Jaggers’s own use.
+
+That was the whole office. When we went downstairs again, Wemmick led me into my guardian’s room and said, “You’ve already seen this.”
+
+“Please,” I said, as the two ugly plaster casts with twitchy grins caught my eye again, “who are they?”
+
+“These?” Wemmick climbed onto a chair, brushed the dust off the terrible heads, and set them down. “These are two famous clients of ours who gave us a lot of credit. This fellow (why you had to come down at night and peek at the inkstand, getting that blot on your brow, you rascal!) murdered his master, and because he wasn’t trained in law, he didn’t plan it very well.”
+
+“Is he like this?” I asked, stepping back from the brute, as Wemmick spat on the brow and rubbed it with his sleeve.
+
+“Like him? It’s actually him. The casts were made in Newgate right after he was caught. You had a special interest in me, didn’t you, Old Artful?” said Wemmick. He then touched the brooch on his lapel—a lady with a weeping willow and an urn— and said, “Make it for me, quickly!”
+
+“Is the lady anyone?” I asked.
+
+“No,” Wemmick replied. “Just part of his game. (You liked your bit of game, didn’t you?)""",0.2,1.0,f00e6691333b74ea030e1ac75697bdf5b9193e56e0a6b269f7434c94676e1704,f998903671df29742b8aa583e6887cde15b75aa7dad27f0741d3b9d89c97d3c8,554,488,0.880866,pass,,json_ok,2026-06-02T23:01:12Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_014|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_014,paraphrase,"“Who’s the Spider?”
+
+“The spider?” I answered.
+
+“The blotchy, sprawling, sulky fellow.”
+
+“That’s Bentley Drummle,” I said; “the one with the delicate face is Startop.”
+
+Without giving any heed to “the one with the delicate face,” he replied, “Bentley Drummle is his name, is it? I like the look of that fellow.”
+
+He instantly turned his attention to Drummle, undeterred by my terse reply, and seemed to press him into conversation. I was watching the two when the housekeeper entered, bearing the first dish for the table.
+
+She seemed about forty, though I may have thought her younger. She was rather tall, lithe and nimble, extremely pale, with large faded eyes and a mass of streaming hair. I could not tell whether some heart ailment made her lips perpetually slightly open, as if she were breathing hard, and gave her face a strange, sudden, fluttering expression; but I remembered having seen Macbeth at the theatre a night or two before, and her face struck me as if it were all disturbed by a fiery wind, like the faces that rise from the witches’ cauldron.
+
+She placed the dish down, lightly touched my guardian’s arm with a finger to signal that dinner was ready, and slipped away. We took our places at the round table, my guardian keeping Drummle at one side and Startop at the other. The housekeeper had set a noble dish of fish before us, followed by a joint of choice mutton and then a fine bird. Sauces, wines, and all the necessary accompaniments were supplied by our host from his dumb-waiter; after each round he collected them again. Likewise he provided clean plates, knives and forks for each course, and dropped the used ones into two baskets on the floor by his chair. No other servant appeared. She set each dish, and I always saw in her face the same uncanny expression as if it had risen from the cauldron. Years later I fashioned a dreadful likeness of that woman, creating a face that bore no natural resemblance save for the flowing hair, and placed it behind a bowl of flaming spirits in a dark room.
+
+Prompted by Wemmick’s preparation to notice the housekeeper, I observed that whenever she was in the room she kept her eyes fixed on my guardian, and that she would withdraw her hands from any dish she set before him, hesitating as if fearing his summons, waiting for him to speak if he had anything to say. I fancied I could perceive in his manner a consciousness of this, a habit of keeping her in suspense.
+
+Dinner proceeded cheerfully, and although my guardian seemed more to follow than to originate topics, I sensed that he drew out the most delicate threads of our temperaments.",0.2,1.0,db0f6e9482429d8e4f32eb38aee208a81be016099bd3bf247a9c3b8aebcb4629,bcd468e0e72e934f719c8e4ff299ee536493fdfbcff813c76af206634d39065c,554,462,0.833935,warning,prompt_or_source_leakage_warning;length_soft_warning,json_ok,2026-06-02T23:01:27Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_014|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_014,modernize,"“Who’s the spider?”
+
+“The spider?” I asked.
+
+“The blotchy, lanky, sulky guy.”
+
+“That’s Bentley Drummle,” I said. “The one with the delicate face is Startop.”
+
+He didn’t bother with “the one with the delicate face.” He replied, “Bentley Drummle is his name, right? I like the look of that fellow.”
+
+He immediately started talking to Drummle, not at all put off by his slow, reticent replies, but apparently encouraged by them to keep the conversation going. I was watching the two of them when the housekeeper came between us with the first dish for the table.
+
+She seemed to be about forty, though I might have thought she was younger. She was fairly tall, lithe and agile, extremely pale, with large faded eyes and a lot of streaming hair. I couldn’t tell whether some heart condition made her lips part as if she were panting, giving her face a strange, sudden, fluttery expression; but I remembered having seen Macbeth at the theatre a night or two earlier, and her face reminded me of a face disturbed by fiery air, like the ones I’d seen rise out of the witches’ cauldron.
+
+She set the dish down, lightly touched my guardian’s arm with a finger to signal that dinner was ready, and vanished. We took our seats at the round table, and my guardian kept Drummle on one side of him while Startop sat on the other. The housekeeper had placed a fine fish dish on the table, followed by a joint of choice mutton and then a fine bird. All the sauces, wines, and other accompaniments we wanted were provided by our host from his dumbwaiter; after each round he took the dishes back. He also gave us clean plates, knives, and forks for each course, and dropped the used ones into two baskets on the floor by his chair. No other servant appeared. She set each dish, and I always saw in her face a look like something rising out of a cauldron. Years later, I created a dreadful likeness of that woman by making a face—one that only resembled hers because of the flowing hair—appear behind a bowl of flaming spirits in a dark room.
+
+Because of her striking appearance and Wemmick’s preparation, I paid particular attention to the housekeeper. I noticed that whenever she was in the room she kept her eyes fixed on my guardian, and she would remove her hands from any dish she placed before him hesitantly, as if she feared he would call her back, waiting for him to speak if he had anything to say. I imagined that I could sense his awareness of this and his habit of keeping her in suspense.
+
+Dinner proceeded cheerfully, and although my guardian seemed to follow rather than start topics, I knew he was pulling the weakest threads of our dispositions out of us.",0.2,1.0,db0f6e9482429d8e4f32eb38aee208a81be016099bd3bf247a9c3b8aebcb4629,72753149ed4b46f9dfe2129ad7a18c208649c5e31be37b4db150b652b426021c,554,480,0.866426,pass,,json_ok,2026-06-02T23:01:41Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_014|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_014,simplify,"“Who’s the Spider?”
+
+“The spider?” I asked.
+
+“The blotchy, sprawling, sulky fellow.”
+
+“That’s Bentley Drummle,” I said. “The one with the delicate face is Startop.”
+
+He ignored the “delicate‑faced” comment and replied, “Bentley Drummle is his name, is it? I like the look of that fellow.”
+
+He immediately started talking to Drummle, not bothered by my slow answer, but seeming to use it to draw Drummle into conversation. I was watching the two of them when the housekeeper came in with the first dish for the table.
+
+She seemed to be about forty, though I thought she might be younger. She was fairly tall, thin and agile, very pale, with large faded eyes and a lot of streaming hair. I could not tell if a heart problem made her lips look as if she were panting, or gave her face a strange, sudden, fluttering expression. I remembered having seen *Macbeth* at the theatre a night or two earlier, and her face reminded me of the fiery faces that rise from the witches’ cauldron.
+
+She set the dish down, lightly touched my guardian’s arm with a finger to signal that dinner was ready, and disappeared. We all took our places at the round table. My guardian kept Drummle on one side of him and Startop on the other. The housekeeper had placed a fine fish dish on the table, followed by a choice joint of mutton and then a fine bird. All the sauces, wines, and other accompaniments we wanted were brought out by our host from his dumb‑waiter; after each round he took the dishes back. He also gave us clean plates, knives and forks for each course, and dropped the used ones into two baskets on the floor by his chair. No one else served us. She set each dish, and I always saw in her face the same strange, cauldron‑like look.
+
+Years later I made a terrible portrait of that woman, using a face that only resembled hers because of the flowing hair, and placed it behind a bowl of flaming spirits in a dark room.
+
+Because of her striking appearance and Wemmick’s prompting, I paid close attention to the housekeeper. I noticed that whenever she was in the room she kept her eyes fixed on my guardian, and that she would pull her hands away from any dish she set before him, as if she feared he might call her back, waiting for him to speak if he had anything to say. I thought I could see in his behavior that he was aware of this and seemed to enjoy keeping her waiting.
+
+Dinner proceeded cheerfully. Although my guardian tended to follow the conversation rather than start new topics, I could tell he was pulling out the most sensitive parts of our personalities.",0.2,1.0,db0f6e9482429d8e4f32eb38aee208a81be016099bd3bf247a9c3b8aebcb4629,93c5f651105e1aebd7693f9ca207705556b8d32c9e98189bab3bc45126ddddf9,554,469,0.84657,warning,prompt_or_source_leakage_warning;length_soft_warning,json_ok,2026-06-02T23:01:55Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_015|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_015,paraphrase,"One of the two men was taller and broader than the other, and, as the strange workings of fate would have it, both prisoner and free man seemed destined to wear the smaller set of clothes. His limbs were like great pincushions of odd shape, and his garb made him look absurd, yet I recognized his half‑closed eye at a glance. There stood the fellow I had seen on the settle at the Three Jolly Bargemen on a Saturday night, the one who had seemed to bring me down with his invisible gun!
+
+It was easy to see that he knew me no better than if we had never met. He glanced at me, his eye lingering on my watch‑chain, then spat casually and said something to the other convict. They laughed, clanged their shackles together, and turned their attention elsewhere. Their backs were marked with numbers as if they were street doors; their rough, mangy, ungainly outer surfaces suggested lower animals; their iron‑clad legs were apologetically adorned with pocket‑handkerchiefs; and the way everyone else looked at them and kept their distance made them, as Herbert had remarked, a most disagreeable and degraded spectacle.
+
+But that was not the worst of it. It turned out that the entire rear of the coach had been taken up by a family moving out of London, leaving no room for the two prisoners except the seat directly in front of the coachman. At that moment a choleric gentleman, who had claimed the fourth spot on that seat, erupted in a violent outburst, declaring that it was a breach of contract to be mixed with such villainous company, calling it poisonous, pernicious, infamous, shameful, and whatever other curses he could think of. The coach was ready, the coachman impatient, and we were all preparing to rise when the prisoners arrived with their keeper, bringing with them that curious mixture of bread‑poultice, baize, rope‑yarn, and hearthstone that always accompanies a convict presence.
+
+""Do not take it so badly, sir,"" the keeper pleaded to the irate passenger. ""I will sit beside you myself. I will place them on the outer side of the row. They will not disturb you, sir. You need not be aware of their presence.""
+
+""And do not blame _me_,"" growled the convict I recognized. ""_I_ do not wish to go. _I_ am quite ready to stay behind. As far as I am concerned, anyone is welcome to _my_ place.""
+
+""Or mine,"" said the other gruffly. ""_I_ would not have inconvenienced any of you, if I had my way."" Then they both laughed, began cracking nuts, and flung the shells about. — I really think I would have liked to do the same, had I been in their place and so despised.
+
+At last it was decided that there was no remedy for the angry gentleman; he must either travel with his unwanted companions or stay behind. So he took his seat, still complaining, the keeper settled in the spot next to him, and the convicts hauled themselves up as best they could. The convict I had recognized sat behind me, his breath warm upon the hair on my head.",0.2,1.0,ffdaf7d870a7523b23dab92f97d2209b8d3ab57d7f4f3a60b7449f2efe8e8818,57432a657a9ee9bc49c8231c43cf1c513fde9e4cc32f7ed45b4111dfe6926f40,564,532,0.943262,pass,,json_ok,2026-06-02T23:02:09Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_015|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_015,modernize,"One was taller and stouter than the other, and, as fate would have it, both convict and free, he seemed to have been given the smaller set of clothes. His arms and legs were like big pincushions, and his outfit made him look ridiculous; but I recognized his half‑closed eye at a glance. There stood the man I had seen on the bench at the Three Jolly Bargemen on a Saturday night, the one who had threatened me with his invisible gun!
+
+It was easy to see that he still didn't know me any more than if he had never seen me before. He looked at me, his eye flicking to my watch chain, then he spat and said something to the other convict; they laughed, clanged their shackles together, and turned their attention elsewhere. The huge numbers on their backs, like street doors; their rough, mangy, ungainly outer surface, like lower animals; their iron‑clad legs, apologetically adorned with pocket handkerchiefs; and the way everyone else stared at them and kept their distance made them, as Herbert had said, a most disagreeable and degraded sight.
+
+But that wasn't the worst part. It turned out that the whole rear of the coach had been taken up by a family moving out of London, so there was no room for the two prisoners except the seat in front of the coachman. A hot‑tempered gentleman, who had taken the fourth spot on that seat, erupted in a violent outburst, declaring that it was a breach of contract to be mixed with such villainous company, calling it poisonous, pernicious, infamous, shameful, and whatever else he could think of. At that moment the coach was ready, the coachman impatient, and we were all about to get up, when the prisoners arrived with their keeper—bringing with them that familiar mix of bread‑poultice, baize, rope‑yarn, and hearthstone that always comes with a convict presence.
+
+‘Don’t take it so badly, sir,’ the keeper pleaded to the angry passenger. ‘I’ll sit next to you myself. I’ll put them on the outside of the row. They won’t bother you, sir. You don’t need to know they’re there.’
+
+‘And don’t blame me,’ growled the convict I recognized. ‘I don’t want to go. I’m perfectly fine staying where I am. As far as I’m concerned, anyone’s welcome in my place.’
+
+‘Or mine,’ said the other gruffly. ‘I wouldn’t have inconvenienced any of you if I’d had my way.’ Then they both laughed, started cracking nuts and spitting the shells around—something I really think I would have liked to do myself if I’d been in their shoes and so despised.
+
+Finally, it was decided there was nothing to be done for the angry gentleman; he had to either travel with his unwanted companions or stay behind. So he took his seat, still complaining, the keeper sat next to him, and the convicts hauled themselves up as best they could, and the convict I recognized sat behind me, breathing on the hair of my head.",0.2,1.0,ffdaf7d870a7523b23dab92f97d2209b8d3ab57d7f4f3a60b7449f2efe8e8818,38fb55acd8ac372b849e365df67c45d8dea64c73b36596ed8bb208910368c94f,564,508,0.900709,pass,,json_ok,2026-06-02T23:02:25Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_015|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_015,simplify,"One of the men was taller and broader than the other, and, as fate would have it, he was the one wearing the smaller set of clothes. His arms and legs were thick, and his clothing made him look ridiculous, but I recognized his half‑closed eye at once. He was the man I had seen sitting on the bench at the Three Jolly Bargemen on a Saturday night, the man who had seemed to shoot me with an invisible gun!
+
+It was clear that he did not know me any better than if we had never met. He glanced at my watch‑chain, spat, and said something to the other prisoner; they laughed, clanged their shackles together, and turned their attention elsewhere. Their backs were covered with numbers like street doors, their rough, mangy appearance was animal‑like, their iron legs were oddly decorated with pocket handkerchiefs, and everyone kept their distance. As Herbert had said, they were a most unpleasant and degraded sight.
+
+The worst part was that the whole back of the coach had been taken by a family leaving London, so there was no room for the two prisoners except the seat in front of the coachman. A hot‑tempered gentleman, who had taken the fourth spot on that seat, erupted in fury, calling it a breach of contract to be forced to travel with such villainous company, calling it poisonous, pernicious, infamous, shameful, and so on. The coach was ready, the coachman impatient, and we were all about to get up when the prisoners arrived with their keeper, bringing with them the familiar smell of bread‑poultice, baize, rope‑yarn, and hearthstone that always accompanies convicts.
+
+“Don’t take it so badly, sir,” the keeper begged the angry passenger. “I’ll sit next to you myself. I’ll put them on the outer side of the row. They won’t bother you, sir. You needn’t even notice they’re there.”
+
+“And don’t blame me,” growled the convict I recognized. “I don’t want to go. I’m perfectly willing to stay behind. As far as I’m concerned, anyone is welcome to my place.”
+
+“Or mine,” said the other gruffly. “I wouldn’t have troubled any of you if I could have had my way.” Then they both laughed, cracked nuts, and spat the shells around. I thought I would have liked to do the same if I were in their position and so despised.
+
+Finally it was decided that nothing could be done for the angry gentleman; he would either travel with his unwanted companions or stay behind. He took his seat, still complaining, the keeper sat next to him, and the prisoners lifted themselves as best they could. The convict I had recognized sat behind me, breathing on the hair of my head.",0.2,1.0,ffdaf7d870a7523b23dab92f97d2209b8d3ab57d7f4f3a60b7449f2efe8e8818,735389523d0a274ddd6bac102c9c070e3aec6d8d8744a0671f44bd8c7a7acd69,564,461,0.817376,warning,length_soft_warning,json_ok,2026-06-02T23:02:41Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_016|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_016,paraphrase,"“You have combined your devotion and your baggage here,” you said. “You’ve been telling me that all day long. When you recounted your own tale, you said plainly that you first fell in love with her the moment you saw her, when you were still a child.”
+
+“Very well,” I replied, feeling a fresh, welcome light, “I have never stopped loving her. She has returned, a most beautiful and graceful being. I saw her just yesterday. If I loved her before, now my love is doubled.”
+
+“Lucky for you, Handel,” Herbert observed, “that you have been chosen for her and set aside for her. Without stepping onto forbidden ground, we may safely say there is no doubt about that. Do you have any notion of Estella’s feelings on the matter of devotion?”
+
+I shook my head gloomily. “She is thousands of miles away from me,” I said.
+
+“Patience, my dear Handel: there is plenty of time. But you have something else to add?”
+
+“I am ashamed to admit it,” I answered, “yet it is no worse to speak it than to keep it inside. You call me a lucky fellow. Of course I am. Yesterday I was a blacksmith’s apprentice; what shall I say I am today?”
+
+“Call yourself a good fellow, if you prefer a phrase,” Herbert replied, smiling and patting my back—“a good fellow, full of impetuosity and hesitation, boldness and shyness, action and dreaming, all oddly mixed within him.”
+
+I paused to consider whether such a mixture truly described me. In general I did not recognize the analysis, but I saw no point in arguing.
+
+“When you ask what I should call myself today, Herbert,” I continued, “I will speak what is in my mind. You say I am lucky. I know I have done nothing to lift myself up; Fortune alone has raised me—that is true luck. Yet, when I think of Estella—”
+
+(“And when don’t you, you know?” Herbert interjected, his eyes on the fire; I thought his tone kind and sympathetic.)
+
+“—then, my dear Herbert, I cannot tell you how dependent and uncertain I feel, how exposed I am to countless possibilities. Avoiding the forbidden ground as you just did, I may still say that all my hopes rest on the constancy of one person (I will not name anyone). At best, it is vague and unsatisfying, only a faint idea of what they are!” By saying this I eased the weight that had lingered in my mind, more or less, certainly since yesterday.
+
+“Now, Handel,” Herbert replied in his cheerful, hopeful manner, “it seems to me that in the gloom of tender passion we are peering into our gift horse’s mouth with a magnifying glass. Likewise, by focusing so closely on that examination we overlook one of the animal’s finest points. Didn’t your guardian, Mr. Jaggers, tell you at the outset that you were not endowed solely with expectations? And even if he had not said so—though that is a very large ‘if,’ I admit—could you imagine that among all the men in London, Mr.",0.2,1.0,94fac8bede7adb1cd18b1582760320953a411e70533a91152bfdcdb857444a84,ea3528ce7a62aab0be17969f5692ffc57756fb537b85622f1dc279290dc3f319,565,516,0.913274,pass,,json_ok,2026-06-02T23:02:55Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_016|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_016,modernize,"You brought your admiration and your suitcase together. You told me! Well, you’ve been telling me all day. When you told me your own story, you said plainly that you first fell in love with her the first time you saw her, when you were very young.
+
+""All right then,"" I said, feeling a fresh, welcome light, ""I’ve never stopped admiring her. And she’s returned, a truly beautiful and elegant woman. I saw her yesterday. If I loved her before, I love her even more now.""
+
+""Lucky for you, Handel,"" Herbert replied, ""that you’ve been chosen for her and assigned to her. Without stepping on any forbidden ground, we can safely say there’s no doubt about that. Do you have any idea what Estella thinks about this whole admiration thing?""
+
+I shook my head gloomily. ""Oh! She’s thousands of miles away from me,"" I said.
+
+""Patience, my dear Handel—there’s plenty of time. But do you have something else to say?""
+
+""I’m ashamed to admit it,"" I answered, ""but it’s no worse to say it than to keep it to myself. You call me a lucky fellow. Of course I am. I was a blacksmith’s boy yesterday; what should I say I am today?""
+
+""Say ‘a good fellow’ if you want a phrase,"" Herbert said, smiling and patting my back—""a good fellow, with impulsiveness and hesitation, boldness and shyness, action and dreaming, all oddly mixed together.""
+
+I paused to consider whether that mix really described me. Overall, I didn’t recognize the analysis, but I didn’t think it worth arguing.
+
+""When I ask what I should call myself today, Herbert,"" I continued, ""I’ll go with what’s on my mind. You say I’m lucky. I know I haven’t done anything to lift myself up; it’s only Fortune that has raised me—that’s what being lucky means. Yet, when I think of Estella—""
+
+(""And when don’t you, you know?"" Herbert interjected, his eyes on the fire; I thought that was kind and sympathetic of him.)
+
+""—then, my dear Herbert, I can’t tell you how dependent and uncertain I feel, how exposed I am to countless possibilities. Avoiding forbidden ground, as you just did, I can still say that all my hopes rest on the constancy of one person (I won’t name anyone). At best, it’s vague and unsatisfying, only a faint idea of what they are!"" Saying this, I let go of a thought that had been with me for a while, especially since yesterday.
+
+""Now, Handel,"" Herbert replied, in his upbeat, hopeful tone, ""it seems to me that in the gloom of tender passion we’re looking at our gift horse’s mouth with a magnifying glass. At the same time, by focusing so closely on that examination we completely miss one of the animal’s best features. Didn’t your guardian, Mr. Jaggers, tell you at the start that you weren’t given only expectations? And even if he hadn’t—though that’s a big if, I admit—could you believe that among all the men in London, Mr.",0.2,1.0,94fac8bede7adb1cd18b1582760320953a411e70533a91152bfdcdb857444a84,57ae8b75887afa7b31e1a832ba5a3da5282adae2c91ce9f939f6f92e5f07647b,565,503,0.890265,pass,,json_ok,2026-06-02T23:03:09Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_016|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_016,simplify,"You have mixed your love and your suitcase together. You told me! In fact, you have been telling me all day. When you told me your own story, you said plainly that you first fell in love with her the first time you saw her, when you were very young.
+
+""All right,"" I said, feeling a new and welcome light, ""I have never stopped loving her. She has returned, more beautiful and elegant than ever. I saw her yesterday. If I loved her before, now I love her even more.""
+
+""You're lucky then, Handel,"" Herbert said, ""that you have been chosen for her and assigned to her. Without stepping on forbidden ground, we can say there's no doubt about that. Do you have any idea what Estella thinks about love?""
+
+I shook my head sadly. ""She is thousands of miles away from me,"" I said. ""Patience, my dear Handel: there will be time. But do you have something else to say?""
+
+""I'm ashamed to admit it,"" I replied, ""but it's no worse to say it than to keep it inside. You call me lucky. Of course I am. I was a blacksmith's boy yesterday; what am I today?"" Herbert smiled, clapped my back, and said, ""Call yourself a good fellow, if you like—a good fellow with impulsiveness and hesitation, boldness and shyness, action and dreaming, all mixed together.""
+
+I paused to think whether that description fit me. Overall I didn't really recognize it, but I didn't argue. ""When I ask what to call myself today, Herbert,"" I continued, ""you say I'm lucky. I know I haven't done anything to lift myself up; only Fortune has raised me—that's luck. Yet when I think of Estella—"" Herbert interjected, eyes on the fire, ""and when don't you, you know?"" —""Then, dear Herbert, I can't tell you how dependent and uncertain I feel, how exposed to countless possibilities. Even without crossing forbidden lines, I can say that all my hopes rest on the constancy of one person (I won't name them). At best, it's vague and unsatisfying, only knowing them so faintly!"" Saying this lifted a weight that had been on my mind since yesterday.
+
+""Now, Handel,"" Herbert said cheerfully, ""it seems that in the gloom of tender passion we are looking at our horse's mouth with a magnifying glass. By focusing so closely, we miss the best part of the animal. Didn't your guardian, Mr. Jaggers, tell you at the start that you were not given only expectations? And even if he hadn't—though that's a big if—could you believe that among all men in London, Mr.",0.2,1.0,94fac8bede7adb1cd18b1582760320953a411e70533a91152bfdcdb857444a84,4a2f350277ce120a6763eb035b13e425287cff3b399f811333baffe095286c5b,565,437,0.773451,warning,length_hard_warning,json_ok,2026-06-02T23:03:25Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_017|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_017,paraphrase,"“Don’t bother with useless measures. Why would you? Now, who’s next?”
+
+So we walked through Wemmick’s greenhouse until he turned to me and said, “Watch the man I’m about to shake hands with.” I should have done it without any preamble, as he had not yet shaken anyone’s hand.
+
+Almost at once a stout, upright man—whom I can picture now as I write—appeared in a well‑worn olive‑coloured frock‑coat, his complexion a strange pallor over a reddish hue, his eyes flickering as he tried to focus. He moved to a corner of the bars, placed his hand on his hat—a greasy, fatty surface like cold broth—and gave a half‑serious, half‑jocular military salute.
+
+“Colonel, to you!” Wemmick called. “How are you, Colonel?”
+
+“Fine, Mr. Wemmick.”
+
+“Everything that could be done was done, but the evidence was too strong for us, Colonel.”
+
+“Yes, it was overwhelming, sir—yet I don’t care.”
+
+“No, no,” Wemmick replied calmly, “you don’t care.” He then turned to me. “He served His Majesty. He was a soldier in the line and bought his discharge.”
+
+I answered, “Indeed?” The man’s eyes met mine, then drifted over my head, then swept around me, and finally he drew his hand across his lips and laughed.
+
+“I think I’ll be out of this on Monday, sir,” he told Wemmick.
+
+“Perhaps,” my friend replied, “but who can say.”
+
+“I’m glad to have the chance to say goodbye, Mr. Wemmick,” the man said, extending his hand between the two bars.
+
+“Thank you,” Wemmick said, shaking it. “The same to you, Colonel.”
+
+“If what I had when I was taken had been genuine, Mr. Wemmick,” the man said, unwilling to release his grip, “I would have asked you to wear another ring in gratitude for your kindness.”
+
+“I’ll accept the will for the deed,” Wemmick replied. “By the way, you were quite a pigeon‑fancier.” The man looked up at the sky. “I hear you have a remarkable breed of tumblers. Could you ask any of your friends to bring me a pair, if you have no further use for them?”
+
+“It shall be done, sir.”
+
+“All right,” said Wemmick, “they’ll be taken care of. Good afternoon, Colonel. Goodbye!” They shook hands again, and as we walked away Wemmick said to me, “A coin‑forger, a very skilled workman. The Recorder’s report is filed today, and he’s sure to be executed on Monday. Still, you see, a pair of pigeons remains portable property nonetheless.” With that he glanced back, nodded at the dead plant, and scanned the yard as if pondering which other pot might best fill its place.
+
+When we emerged from the prison through the lodge, I noticed that the great importance of my guardian was recognized by the turnkeys as much as by those they supervised. “Well, Mr. Wemmick,” said the turnkey who kept us between the two studded, spiked lodge gates, carefully locking one before unlocking the other, “what’s Mr. Jaggers going to do about that waterside murder?”",0.2,1.0,c5076910ed36d981eeb69dc861a05064e99e46d6515c1b6e5037d4b0b1a74d7d,0fb76431b35063734980f5eec5db0f03922d33e34f96c66502788942fe83444f,553,506,0.915009,pass,,json_ok,2026-06-02T23:03:40Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_017|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_017,modernize,"“Don’t waste time on useless measures. Why would you? Now, who’s next?”
+
+So we walked through Wemmick’s greenhouse until he turned to me and said, “Watch the man I’m about to shake hands with.” I should have done it without any preparation, since he hadn’t shaken anyone’s hand yet.
+
+Almost as soon as he spoke, a stout, upright man—whom I can picture now as I write—wearing a well‑worn olive‑colored frock coat, with a strange pallor over the red in his skin and eyes that darted around when he tried to focus, stepped up to a corner of the bars and lifted his hand to his hat, which had a greasy, fatty surface like cold broth, giving a half‑serious, half‑joking military salute.
+
+“Colonel, that’s you!” said Wemmick. “How are you, Colonel?”
+
+“Fine, Mr. Wemmick.”
+
+“Everything that could be done was done, but the evidence was too strong for us, Colonel.”
+
+“Yes, it was too strong, sir—but I don’t care.”
+
+“No, no,” Wemmick said calmly, “you don’t care.” Then, turning to me, “He served His Majesty. He was a line soldier and bought his discharge.”
+
+I replied, “Really?” The man’s eyes looked at me, then over my head, then all around me. He drew his hand across his lips and laughed.
+
+“I think I’ll be out of here on Monday, sir,” he told Wemmick.
+
+“Maybe,” my friend answered, “but you never know.”
+
+“I’m glad I get the chance to say goodbye, Mr. Wemmick,” the man said, extending his hand between the bars.
+
+“Thank you,” Wemmick said, shaking his hand. “Same to you, Colonel.”
+
+“If what I had when I was taken had been real, Mr. Wemmick,” the man said, unwilling to let go, “I would have asked you to wear another ring—as a token of your kindness.”
+
+“I’ll accept the will for the deed,” Wemmick replied. “By the way, you were quite a pigeon‑fancier.” The man looked up at the sky. “I hear you have a remarkable breed of tumblers. Could you ask a friend to bring me a pair, if you have no further use for them?”
+
+“It will be done, sir.”
+
+“All right,” Wemmick said, “they’ll be taken care of. Good afternoon, Colonel. Goodbye!” They shook hands again, and as we walked away Wemmick said to me, “A coin‑forger, a very skilled worker. The Recorder’s report is out today, and he’s sure to be executed on Monday. Still, you see, a pair of pigeons is still personal property.” With that, he looked back, nodded at the dead plant, and scanned the yard as he left, as if thinking about which other pot would fit best in its place.
+
+When we left the prison through the gatehouse, I noticed that the great importance of my guardian was recognized by the turnkeys as much as by the prisoners they supervised. “Well, Mr. Wemmick,” said the turnkey, who kept us between the two iron‑spiked gates and carefully locked one before unlocking the other, “what’s Mr. Jaggers going to do about that waterside murder?”",0.2,1.0,c5076910ed36d981eeb69dc861a05064e99e46d6515c1b6e5037d4b0b1a74d7d,af4298156ad7aa4603765aee0fcfbb4a27165ae192bd8d52515ea38b02ebfb66,553,511,0.924051,pass,,json_ok,2026-06-02T23:03:55Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_017|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_017,simplify,"“Don’t waste time on useless tricks. Why would you? Who’s next?”
+
+So we walked through Wemmick’s greenhouse until he turned to me and said, “Watch the man I’m about to shake hands with.” I should have shaken his hand right away, because he hadn’t shaken anyone’s yet.
+
+Almost at once a stout, upright man appeared. He wore an old olive‑coloured frock coat, his skin was oddly pale over a reddish hue, and his eyes kept moving as if he couldn’t focus. He came to a corner of the bars, lifted his hand to his hat – which felt greasy and fatty, like cold broth – and gave a half‑serious, half‑joking military salute.
+
+“Colonel, to you! How are you, Colonel?” Wemmick called.
+
+“All right, Mr. Wemmick,” the man replied.
+
+“Everything that could be done was done, but the evidence was too strong for us, Colonel.”
+
+“Yes, it was too strong, sir – but I don’t care.”
+
+“No, no,” Wemmick said calmly, “you don’t care.” Then he turned to me. “He served His Majesty. He was a soldier in the line and bought his discharge.”
+
+I answered, “Indeed?” The colonel’s eyes looked at me, then over my head, then all around me. He drew his hand across his lips and laughed.
+
+“I think I’ll be out of this on Monday, sir,” he told Wemmick.
+
+“Perhaps,” Wemmick replied, “but we can’t be sure.”
+
+“I’m glad I get a chance to say goodbye, Mr. Wemmick,” the colonel said, stretching his hand between the bars.
+
+“Thank you,” Wemmick said, shaking it. “Same to you, Colonel.”
+
+“If what I had when I was taken had been real, Mr. Wemmick,” the colonel said, not letting go of the hand, “I would have asked you to wear another ring as a thank‑you for your help.”
+
+“I’ll accept the favour,” Wemmick answered. “By the way, you were quite a pigeon‑fancier.” The colonel looked up at the sky. “I hear you have an excellent breed of tumblers. Could you ask a friend to bring me a pair, if you don’t need them any more?”
+
+“It will be done, sir.”
+
+“All right,” said the colonel. “They’ll be taken care of. Good afternoon, Colonel. Goodbye!” They shook hands again, and as we walked away Wemmick said, “A coin‑forger, a very skilled worker. The Recorder’s report is out today, and he will be executed on Monday. Still, a pair of pigeons is still property you can move.” He looked back, nodded at a dead plant, and scanned the yard as if thinking about which pot would fit best in its place.
+
+When we left the prison through the gatehouse, I saw that the turnkeys respected my guardian as much as the prisoners did. “Well, Mr. Wemmick,” said the turnkey, who kept us between the two spiked, studded gates and locked one before unlocking the other, “what is Mr. Jaggers going to do about that murder by the water?”",0.2,1.0,c5076910ed36d981eeb69dc861a05064e99e46d6515c1b6e5037d4b0b1a74d7d,acac23c5fbc7d1d09f64b83ca246848e985f0c7671687c0233ecb3597f35cee2,553,488,0.882459,pass,,json_ok,2026-06-02T23:04:14Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_018|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_018,paraphrase,"When the matter seemed especially grave and he was convinced an opening must be found, he would go to the Change at the busiest hour, drifting in and out like a somber country‑dance figure among the gathered magnates. ""For,"" Herbert told me one evening as we returned home for dinner on a particularly notable night, ""the truth is, Handel, that an opening does not come to a man; he must go to it—so that is what I have done.""
+
+Had we been less bound to each other, I think we would have found ourselves hating one another each morning. I loathed the chambers beyond expression during that period of repentance and could not bear the sight of the Avenger’s livery, which seemed more costly and less profitable than at any other time in the twenty‑four hours. As our debts grew, breakfast became an ever more hollow affair, and on one occasion, threatened at breakfast time by a letter warning of legal action—""not wholly unconnected,"" as the local paper might have phrased it, ""with jewellery""—I even seized the Avenger by his blue collar and shook him off his feet, sending him airborne like a booted Cupid, for daring to presume we wanted a roll.
+
+At times—meaning at uncertain moments, for they depended on our moods—I would turn to Herbert as if making a startling discovery, ""My dear Herbert, we are getting on badly.""
+
+""My dear Handel,"" Herbert would answer earnestly, ""if you will believe me, those very words were on my lips, by a strange coincidence.""
+
+""Then, Herbert,"" I would reply, ""let us examine our affairs.""
+
+We always took great pleasure in arranging a meeting for that purpose. I always thought it proper business, the way to confront the problem, the way to seize the foe by the throat. I know Herbert felt the same.
+
+We ordered something rather special for dinner, with a bottle of an equally uncommon drink, hoping our minds would be fortified for the task and we might rise to the occasion. After the meal we produced a bundle of pens, a plentiful supply of ink, and a respectable stack of writing and blotting paper. There was something comforting in having ample stationery.
+
+I would then take a sheet of paper and, in a neat hand, write at the top the heading, ""Memorandum of Pip’s Debts,"" carefully adding Barnard’s Inn and the date. Herbert would do likewise, inscribing ""Memorandum of Herbert’s Debts"" with similar formality.
+
+Each of us would then turn to a chaotic pile of papers at our side—documents tossed into drawers, worn into pockets, half‑burned by candlelight, stuck for weeks to the looking‑glass, and otherwise damaged. The sound of our pens refreshed us so much that I sometimes found it hard to tell whether we were engaged in this edifying business or actually paying the money. In terms of merit, the two seemed about equal.
+
+After we had written for a while, I would ask Herbert how he was getting on.",0.2,1.0,ac1b5cb0e82e689be3d96a2300c5e53d372106ab1c50d6bf5430c626dd48d426,376bc124493310545c60ea64af3577271e68c293c9862135988b88349d3720dd,554,506,0.913357,pass,,json_ok,2026-06-02T23:04:29Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_018|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_018,modernize,"When he felt his case was especially serious and that he absolutely had to find an opening, he would go to the Change at a busy hour and wander in and out, moving like a gloomy country dance among the gathered magnates. ""For,"" Herbert told me one evening when we came home for dinner on one of those special nights, ""I’ve learned the truth, Handel, that an opening won’t come to you—you have to go to it—so that’s what I’ve been doing.""
+
+If we had been less attached to each other, I think we would have hated each other every morning. I loathed the rooms beyond description during that period of repentance and could not stand the sight of the Avenger’s uniform; it looked more expensive and less practical than at any other time in the twenty‑four hours. As our debts grew, breakfast became an increasingly hollow ritual, and once, at breakfast time, I was threatened (by letter) with legal action—""not entirely unrelated,"" as the local paper might have put it, ""to jewelry."" I even grabbed the Avenger by his blue collar and shook him off his feet—so he was actually airborne, like a booted Cupid—for daring to assume we wanted a roll.
+
+At certain moments—meaning uncertain moments, because they depended on our mood—I would say to Herbert, as if it were a startling discovery—
+
+""My dear Herbert, we’re doing badly.""
+
+""My dear Handel,"" Herbert would reply sincerely, ""if you’ll believe me, those exact words were on my lips, by a strange coincidence.""
+
+""Then, Herbert,"" I would answer, ""let’s look at our affairs.""
+
+We always took great satisfaction in setting a meeting for that purpose. I always thought this was business, the way to confront the problem, the way to take the enemy by the throat. And I know Herbert thought the same.
+
+We ordered something a bit special for dinner, with a bottle of an equally unusual drink, so our minds would be fortified for the occasion and we could meet the challenge. After dinner we brought out a bundle of pens, a generous supply of ink, and a good stack of writing and blotting paper. There was something very comforting about having plenty of stationery.
+
+I would take a sheet of paper and, in neat handwriting, write at the top, ""Memorandum of Pip’s debts,"" with Barnard’s Inn and the date carefully added. Herbert would also take a sheet and, with similar formality, write, ""Memorandum of Herbert’s debts.""
+
+Each of us would then refer to a chaotic pile of papers at our side—papers tossed into drawers, worn into holes in pockets, half‑burned by candlelight, stuck to the mirror for weeks, and otherwise damaged. The sound of our pens refreshed us so much that I sometimes found it hard to tell the difference between this productive business and actually paying the money. In terms of merit, the two seemed about equal.
+
+After we’d written for a while, I would ask Herbert how he was getting on?",0.2,1.0,ac1b5cb0e82e689be3d96a2300c5e53d372106ab1c50d6bf5430c626dd48d426,1c399872d1e80f4fcee1f693a96a5418ae717cab1c9c8f18bcce6c1d137e0593,554,506,0.913357,pass,,json_ok,2026-06-02T23:04:46Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_018|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_018,simplify,"When he felt his case was especially serious and that he absolutely had to find a chance, he would go to the market at a busy hour and wander in and out, moving like a slow country dance among the important people. ""For,"" Herbert told me one evening when we came home for dinner on one of those special nights, ""I have learned, Handel, that an opportunity won’t come to you—you have to go after it. That's what I've been doing.""
+
+If we had been less attached to each other, I think we would have found reasons to hate each other every morning. I loathed the rooms we were in at that time of repentance and could not stand the sight of the Avenger’s uniform, which looked more expensive and less useful than at any other time in the day. As our debts grew, breakfast became an ever emptier ritual, and once, just before breakfast, I received a threatening letter about legal action—""not entirely unrelated,"" as the local paper might have said, ""to jewelry."" I even grabbed the Avenger by his blue collar and shook him off his feet, sending him flying like a booted Cupid, because he dared to think we wanted a roll.
+
+At various moments—times that depended on our moods—I would tell Herbert, as if it were a great discovery, ""My dear Herbert, we are doing badly.""
+
+""My dear Handel,"" Herbert would answer sincerely, ""if you will believe me, those very words were on my lips, by a strange coincidence.""
+
+""Then, Herbert,"" I would reply, ""let's examine our affairs.""
+
+We always felt a deep satisfaction in setting a meeting for that purpose. I thought it was business, the way to face the problem, the way to take the enemy by the throat. I know Herbert felt the same.
+
+We ordered a special dinner, with an unusual bottle of drink, so that our minds would be strong for the task ahead. After the meal we laid out a bundle of pens, plenty of ink, and a good supply of writing and blotting paper. Having lots of stationery felt very comforting.
+
+I took a sheet of paper and, in neat handwriting, wrote at the top, ""Memorandum of Pip’s debts,"" adding Barnard’s Inn and the date carefully. Herbert did the same with his own sheet, titling it ""Memorandum of Herbert’s debts.""
+
+Each of us then turned to a chaotic pile of papers that had been tossed into drawers, torn in pockets, half‑burned by candlelight, stuck to a mirror for weeks, and otherwise damaged. The sound of our pens moving refreshed us so much that I sometimes could not tell whether we were doing useful business or actually paying the money. In terms of merit, the two seemed about equal.
+
+After we had written for a while, I would ask Herbert how he was getting on.",0.2,1.0,ac1b5cb0e82e689be3d96a2300c5e53d372106ab1c50d6bf5430c626dd48d426,d82931585207311e2b2e0f2cf5b59c825a7e1f4ed6d5fc9179259b3d16ac66a5,554,480,0.866426,pass,,json_ok,2026-06-02T23:05:01Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_019|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_019,paraphrase,"I ended up placing my hand on his shoulder and saying, “I can’t help opening up to you, even though I know it burdens you; but that’s your fault for ever bringing me here.”
+
+Wemmick was quiet for a moment, then, with a slight start, replied, “Well, you see, Mr. Pip, I must tell you something. This is devilishly kind of you.”
+
+“Then promise to help me become good,” I said.
+
+“Ecod,” Wemmick answered, shaking his head, “that isn’t my business.”
+
+“Nor is this your line of work,” I retorted.
+
+“You’re right,” he said. “You’ve hit the nail on the head. Mr. Pip, I’ll put on my thinking cap, and I think what you want can be done gradually. Skiffins—her brother—is an accountant and agent. I’ll track him down and put you in his employ.”
+
+“I thank you a thousand times over.”
+
+“On the contrary,” he replied, “I thank you, for even though we act only in our private capacities, it may be noted that there are Newgate cobwebs about, and you brush them away.”
+
+After a brief further exchange along the same lines, we went back into the Castle where we found Miss Skiffins preparing tea. The task of making the toast had been assigned to the Aged, and the old gentleman was so absorbed in it that it seemed he might melt his eyes. It was no modest repast we were about to make, but a hearty one. The Aged produced such a towering stack of buttered toast that I could barely see him over it as it warmed on an iron rack suspended from the top‑beam; meanwhile Miss Skiffins brewed a massive pot of tea that set the pig in the back quarters into a great agitation, repeatedly voicing its wish to join the merriment.
+
+The flag had been hoisted and the gun fired at the proper moment, and I felt as if a thirty‑foot‑deep moat cut me off from the rest of Walworth. Nothing disturbed the Castle’s peace except the occasional sudden opening of the doors by John and Miss Skiffins—those little doors seemed prone to a spasmodic weakness that made me uneasy until I grew accustomed to it. From the methodical way Miss Skiffins arranged everything I guessed she made tea there every Sunday night; and I suspected that a distinctive brooch she wore—a profile of an unappealing woman with a very straight nose and a new‑moon shape—was a portable trinket given to her by Wemmick.
+
+We ate all the toast and drank tea in equal measure, and it was delightful to feel how warm and greasy we became afterward. The Aged, especially, might have passed for a clean‑shaven chief of a savage tribe, freshly oiled. After a short pause, Miss Skiffins—now that the little servant, who seemed to retire to his family’s bosom on Sunday afternoons, was absent—washed the tea‑things in a modest, lady‑like amateur fashion that inconvenienced none of us. Then she slipped her gloves back on, we gathered around the fire, and Wemmick said, “Now, Aged Parent, hand us the paper.”",0.2,1.0,2263b5b73744173d343cda913211d0cee238fecd2c7013a6ae3d39a6c6bec02f,24851c60a9d2f4c29f58c110727b842d353e16057c448b467325abb734d1aecf,564,523,0.927305,pass,,json_ok,2026-06-02T23:05:15Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_019|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_019,modernize,"I ended up putting my hand on his shoulder and saying, “I can’t stop confiding in you, even though I know it must be a burden; but that’s your fault for ever bringing me here.”
+
+Wemmick was quiet for a moment, then, with a slight start, said, “You know, Mr. Pip, I have to tell you something. This is incredibly kind of you.”
+
+“Then promise you’ll help me be good,” I said.
+
+“No,” Wemmick replied, shaking his head, “that’s not my business.”
+
+“And this isn’t your line of work either,” I replied.
+
+“You’re right,” he said. “You hit the nail on the head. Mr. Pip, I’ll put on my thinking cap, and I think everything you want can be done gradually. Skiffins—her brother—is an accountant and agent. I’ll track him down and work for you.”
+
+“Thank you a thousand times.”
+
+“On the contrary,” he said, “I thank you, because even though we’re acting only in a private capacity, it’s worth noting that there are Newgate cobwebs around, and we’re sweeping them away.”
+
+After a bit more talk, we went back into the Castle and found Miss Skiffins making tea. The task of toasting the bread was given to the Aged, and that remarkable old gentleman was so focused that it looked like his eyes might melt. This wasn’t a token meal; it was a hearty one. The Aged piled a mountain of buttered toast on an iron rack so high I could barely see him, while Miss Skiffins brewed a huge pot of tea that even the pig in the back got excited and kept trying to join the fun.
+
+The flag was raised and the gun fired at exactly the right moment, and I felt completely cut off from the rest of Walworth, as if a thirty‑foot‑deep moat surrounded us. Nothing disturbed the Castle’s peace except the occasional sudden opening of John and Miss Skiffins’s little doors, which seemed to suffer from a spasmodic flaw that made me uneasy until I got used to it. From Miss Skiffins’s meticulous routine I guessed she brewed tea there every Sunday night; and I suspected the antique brooch she wore—a profile of a stern woman with a sharp nose and a crescent moon—was a piece of jewelry Wemmick had given her.
+
+We ate all the toast and drank tea in equal measure, and it was wonderful to feel how warm and greasy we became. The Aged, in particular, could have passed for a clean‑shaven chief of a primitive tribe, freshly oiled. After a short break, Miss Skiffins—while the little servant, who seemed to retire to his family on Sunday afternoons, was away—cleaned up the tea set in a modest, lady‑like way that didn’t inconvenience anyone. Then she slipped her gloves back on, we gathered around the fire, and Wemmick said, “Now, Aged Parent, hand us the paper.”",0.2,1.0,2263b5b73744173d343cda913211d0cee238fecd2c7013a6ae3d39a6c6bec02f,300b529acdbb5285edd519ae93cf7c1e8b212900c1df8e9b3738eada576b101c,564,485,0.859929,pass,,json_ok,2026-06-02T23:05:33Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_019|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_019,simplify,"I put my hand on Wemmick’s shoulder and said, “I can’t stop telling you things, even though I know it bothers you. That’s your fault for bringing me here.”
+
+Wemmick was quiet for a moment, then said, a little startled, “Well, Pip, I have to tell you something. You’re being devilishly kind.”
+
+“I’ll take your help to be good,” I replied.
+
+“Ecod,” Wemmick shook his head, “that’s not my business.”
+
+“You’re not a trader either,” I said.
+
+“You’re right,” he answered. “You’ve hit the nail on the head. I’ll think about it, and I think we can do what you want step by step. Skiffins—her brother—is an accountant and an agent. I’ll find him and work for you.”
+
+“I thank you a thousand times.”
+
+“Actually, I thank you,” he said. “Even though we’re acting only in our private capacity, it’s worth noting there are Newgate cobwebs around, and we’re brushing them away.”
+
+After a short further talk, we went back into the Castle and found Miss Skiffins making tea. The task of making toast was given to the Aged, who was so focused that his eyes seemed about to melt. It wasn’t a small snack; it was a real, hearty meal. The Aged piled a huge stack of buttered toast on an iron rack, and Miss Skiffins brewed a massive pot of tea that even made the pig in the back get excited and keep asking to join.
+
+The flag was raised and the gun fired at the right moment, and I felt completely cut off from Walworth, as if a thirty‑foot‑deep moat surrounded me. Nothing disturbed the Castle’s peace except the occasional sudden opening of doors by John and Miss Skiffins, which made me uneasy at first until I got used to it. From the careful way Miss Skiffins arranged everything, I guessed she makes tea every Sunday night. I also thought the strange brooch she wore—a profile of a woman with a very straight nose and a new‑moon shape—was a gift from Wemmick.
+
+We ate all the toast and drank the tea, getting warm and greasy. The Aged, especially, looked like a clean, oiled chief of a primitive tribe. After a short rest, Miss Skiffins—without the little servant who seemed to retire to her family on Sunday afternoons—washed the tea set in a modest, lady‑like way that didn’t bother any of us. Then she put her gloves back on, we gathered around the fire, and Wemmick said, “Now, Aged Parent, hand us the paper.”",0.2,1.0,2263b5b73744173d343cda913211d0cee238fecd2c7013a6ae3d39a6c6bec02f,284dc28de3918880c1a22349294f94a98171ed0a64aeb383e0fcc76e550b2795,564,426,0.755319,warning,length_hard_warning,json_ok,2026-06-02T23:05:47Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_020|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_020,paraphrase,"The gusts had been so violent that the lead was stripped from the roofs of the tall town buildings; in the countryside trees were uprooted and windmill sails were torn away, and bleak reports arrived from the coast of shipwrecks and loss of life. Heavy rain fell with these fierce winds, and the day that ended just as I settled to read had been the worst of all.
+
+Changes have since been made to that part of the Temple, and it no longer has the desolate character it once possessed, nor is it as exposed to the river. We lived at the very top of the last house, and the wind rushing up the river rattled the building that night like cannon fire or the breaking of a sea. When the rain struck the windows, I lifted my eyes to them as they shivered and thought I might imagine myself in a storm‑battered lighthouse. Occasionally the smoke drifted down the chimney as though it could not bear to leave on such a night; when I opened the doors and looked down the staircase, the stair‑lamps had been blown out; and, shading my face with my hands, I peered through the blackened panes (opening them even a crack was impossible in the teeth of that wind and rain) and saw the courtyard lamps extinguished, the lamps on the bridges and along the shore trembling, and the coal fires in the barges on the river being snatched away by the wind like red‑hot splashes in the rain.
+
+I read with my watch on the table, intending to close my book at eleven o’clock. As I shut it, Saint Paul’s and the many city church‑clocks—some leading, some following—struck the hour. The sound was oddly distorted by the wind; I listened, thinking of how the gale battered and tore at it, when a footstep sounded on the stairs.
+
+What nervous folly made me start and foolishly link it to the footstep of my dead sister matters not. It faded in an instant, and I listened again, hearing the footstep stumble as it came nearer. Remembering that the stair‑lamps were out, I took my reading lamp and went to the stair‑head. Whoever was below must have stopped on seeing my lamp, for all was silent.
+
+""Is there someone down there?"" I called, looking down.
+""Yes,"" a voice answered from the darkness.
+""Which floor?""
+""The top. Mr. Pip.""
+""That is my name—anything wrong?""
+""Nothing the matter,"" the voice replied, and the man continued upward.
+
+I held my lamp out over the rail, and he entered its light slowly. It was a shaded lamp, meant for reading, and its circle of illumination was very narrow; he was within it for only a moment before stepping out again. In that brief instant I saw a face unfamiliar to me, looking up with an incomprehensible expression of being touched and pleased to see me.",0.2,1.0,98bbcb7fc72ec80e73766622015b21f8a7e2f6cb5c2d97b9a5fdd3876cd030e5,4d1b940b7c4d61e4bf0ebe9029107a2df9598fd0a92e3fd5ef6bcb1e60bd441c,553,494,0.893309,pass,,json_ok,2026-06-02T23:06:02Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_020|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_020,modernize,"The gusts had been so fierce that the lead was stripped from the roofs of the tall city buildings; in the countryside, trees were uprooted and windmill sails were blown away, and grim reports came in from the coast about shipwrecks and deaths. Heavy rain fell along with the wind, and the day that ended just as I sat down to read was the worst of all.
+
+Changes have been made to that part of the Temple since then, and it no longer feels as isolated as it did, nor is it as exposed to the river. We lived at the top of the last house, and the wind rushing up the river shook the house that night like cannon fire or a breaking sea. When the rain hit the windows and rattled them, I looked up at the shaking panes and imagined I was in a storm‑battered lighthouse. Occasionally the smoke curled down the chimney as if it didn’t want to go out into such a night; when I opened the doors and looked down the staircase, the stair lamps were out. I shielded my face with my hands and peered through the dark windows—opening them even a crack was impossible in that wind and rain—and saw the courtyard lamps out, the lamps on the bridges and the shore flickering, and the coal fires in the barges on the river being blown out like red‑hot splashes in the rain.
+
+I read with my watch on the table, planning to close my book at eleven. As I shut it, Saint Paul’s and all the many church clocks in the city—some leading, some following—struck the hour. The sound was oddly distorted by the wind; I was listening, thinking about how the wind battered and tore at it, when I heard a footstep on the stairs.
+
+What nervous foolishness made me jump and instantly think of my dead sister’s footstep doesn’t matter. It was gone in an instant, and I listened again, hearing the footstep stumble as it came up. Remembering that the stair lights were out, I grabbed my reading lamp and went to the top of the stairs. Whoever was below must have stopped when they saw my lamp, because everything was quiet.
+
+""Is someone down there?"" I called, looking down.
+
+""Yes,"" a voice answered from the darkness.
+
+""Which floor?""
+
+""The top. Mr. Pip.""
+
+""That's my name—what's the problem?""
+
+""Nothing,"" the voice replied, and the man kept coming.
+
+I held my lamp out over the rail, and he stepped slowly into its light. It was a shaded lamp meant for reading, so the circle of light was very small; he was in it for just a moment before stepping out again. In that instant I saw a face that was unfamiliar to me, looking up with an incomprehensible expression of being touched and pleased to see me.",0.2,1.0,98bbcb7fc72ec80e73766622015b21f8a7e2f6cb5c2d97b9a5fdd3876cd030e5,8d9d6186164d95e5b37c20ec0b0d268f0520e19fb65dc4d9a33e518bfe3ec2aa,553,484,0.875226,pass,,json_ok,2026-06-02T23:06:16Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_020|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_020,simplify,"The wind had been so fierce that the lead was ripped off the roofs of tall city buildings. In the countryside, trees were uprooted, windmill sails were blown away, and reports from the coast spoke of shipwrecks and deaths. Heavy rain fell with the wind, and the day that ended as I sat down to read was the worst of all.
+
+Since then the Temple has been changed, and it is no longer as isolated or as close to the river as it once was. We lived at the top of the last house, and that night the wind rushing up the river shook the house like cannon fire or a breaking sea. When the rain hit the windows, I looked up at them as they rattled and imagined I was inside a storm‑battered lighthouse. Occasionally smoke curled down the chimney as if it could not leave in such a night. When I opened the doors and looked down the staircase, the stair lamps were out. I covered my face with my hands and peered through the dark windows—opening them even a little was impossible in that wind and rain—and saw that the courtyard lamps were out, the lamps on the bridges and shore were flickering, and the coal fires on barges in the river were being blown out like red‑hot splashes in the rain.
+
+I read with my watch on the table, planning to close my book at eleven o’clock. As I shut it, Saint Paul’s and the many church clocks in the city began to strike the hour. The wind made the sound sound strange, and I was listening, thinking about how the wind battered and tore at it, when I heard a footstep on the stairs.
+
+I don’t know why I jumped, thinking of my dead sister’s footstep, but the sound faded quickly. I listened again and heard the footstep coming up, stumbling. Remembering that the stair lamps were out, I took my reading lamp and went to the top of the stairs. Whoever was below stopped when they saw my lamp, and everything was quiet.
+
+""Is there someone down there?"" I called, looking down.
+
+""Yes,"" a voice answered from the darkness.
+
+""Which floor do you want?""
+
+""The top. Mr. Pip.""
+
+""That’s my name—what’s the matter?""
+
+""Nothing,"" the voice replied, and the man kept coming up.
+
+I held my lamp over the rail, and he stepped slowly into its light. My lamp was a small shaded one meant for reading, so the circle of light was narrow; he was in it for only a moment before stepping out again. In that brief instant I saw a face I didn’t recognize, looking up with a strange, pleased expression at seeing me.",0.2,1.0,98bbcb7fc72ec80e73766622015b21f8a7e2f6cb5c2d97b9a5fdd3876cd030e5,93d6aa0749592aede7e04bdf261a8dba59868f2e786c34c37e84b678a105e614,553,458,0.82821,warning,length_soft_warning,json_ok,2026-06-02T23:06:30Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_001|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_001,paraphrase,"When we judge an author's merit and assign him his place among our literary deities, we may view him through our own perspective and measure him by our own criteria. Yet, in assessing the power evident in his works, we must follow his own intentions, placing his creations beside his own ideal to see what is lacking. Our view of art differs from Mr. Poe's. He holds that art should be the production of Beauty, and perhaps we only disagree on the definition of that term. In evaluating his writings, however, we shall employ his own standard as our guide. The temple of the god of song is open on every side, and there is ample space within for all who bring offerings or seek an oracle.
+
+In his stories, Mr. Poe chooses to display his talent chiefly in that shadowy zone that stretches from the farthest reaches of the plausible into the strange realms of superstition and unreality. He unites, in a striking fashion, two faculties rarely found together: the ability to sway the reader's mind with the intangible shadows of mystery, and a meticulous attention to detail that spares no pin or button. Both arise, in truth, from the dominant quality of his mind, which we have earlier termed analysis. It is this that sets the artist apart. His mind simultaneously looks ahead to the effect he wishes to produce. Having decided which emotions to evoke, he makes every subordinate element march toward that single centre. Even his mystery is mathematically precise to his own intellect. To him, X is a known quantity from the start. In any picture he paints he knows the chemical properties of each colour. No matter how vague his figures may appear, no matter how formless the shadows, to him the outline is as clear as a geometric diagram. For this reason Mr. Poe has no sympathy for Mysticism. The Mystic lives within mystery, is wrapped in it; it colours all his thoughts, tinges his vision, and even the most ordinary things acquire a rainbow fringe. Mr. Poe, by contrast, is a spectator _ab extra_. He analyses, he dissects, he watches
+
+“with an eye serene,
+The very pulse of the machine,”
+
+for to him it is practically that—a mechanism of wheels, cogs, and piston‑rods, all working toward a definite end.
+
+This analytical bent balances his poetic side, and by granting him the patience for minutiae, it lets him cast a marvelous reality into his most unreal fantasies. He paints a monomania with great vigor. He delights in dissecting one of those mental cancers and tracing every subtle branch of its roots. In conjuring images of horror he also achieves a strange success, often delivering, through a dim hint, a terrible doubt that lies at the heart of all terror. He leaves the completion of the picture to imagination, a task to which only she is truly suited.
+
+“For much imaginary work was there;
+Conceit deceitful, so compact, so kind,
+That for Achilles’ image stood his spear
+Grasped in an armed hand; himself behind
+Was left unseen, save to the eye of mind.”",0.2,1.0,20428e7f38323e9a93790cb1520b051b350910d0c0c9ad98851a3775bf1fe231,1e5bbd9c39278fbe92e56cd298f49c31bc4d8428f7b3f39842caffaae507ed68,584,521,0.892123,pass,,json_ok,2026-06-02T23:06:44Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_001|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_001,modernize,"When we judge an author's merit and place him among the great writers we admire, we have the right to view him from our own perspective and measure him by our own standards. But when we assess the power shown in his works, we must follow his own intentions and, comparing them to his own ideal, see what is missing. We differ from Mr. Poe on what art should aim at. He believes the goal is the creation of Beauty, and perhaps we only disagree on how that word is defined. Yet in evaluating his writing we will use his own standard as our guide. The temple of the god of song is open from every side, and there is enough room in it for anyone who brings an offering or seeks an oracle.
+
+In his stories, Mr. Poe chooses to display his talent mainly in that vague zone that stretches from the far edge of the plausible into the strange realm of superstition and unreality. He combines, in a striking way, two abilities that are rarely found together: the power to affect the reader's mind with the intangible shadows of mystery, and a meticulous attention to detail that leaves no pin or button unnoticed. Both are, in fact, natural results of the dominant quality of his mind, which we have already mentioned—analysis. This is what sets the artist apart. His mind simultaneously looks ahead to the effect he wants to create. Having decided what emotions to evoke in the reader, he makes every subordinate element point directly toward that common center. Even his mystery is mathematical to him. For him, X is a known quantity from the start. In any picture he paints he understands the chemical properties of all his colors. No matter how vague some of his figures may appear, no matter how formless the shadows, to him the outline is as clear and distinct as a geometric diagram. For this reason Mr. Poe has no sympathy for mysticism. The mystic lives inside the mystery, is wrapped in it; it colors all his thoughts, affects his vision especially, and even the most ordinary things get a rainbow edge from it. Mr. Poe, on the other hand, is an observer _ab extra_. He analyzes, he dissects, he watches
+
+""with a calm eye,
+The very pulse of the machine,""
+
+for that is essentially what it is to him—gears, cogs, and piston‑rods all working toward a specific end.
+
+This analytical tendency balances his poetic side, and by giving him the patience to be precise, it lets him inject a vivid reality into his most unreal fantasies. He paints a monomania with great force. He loves to dissect one of those mental cancers and trace every subtle branch of its roots. When he creates images of horror, he also achieves a strange success, sometimes hinting at a terrible doubt that lies at the heart of all horror. He leaves the task of completing the picture to the imagination, a job only she can do.
+
+""For much imaginary work was there;
+Deceptive conceit, so compact, so kind,
+That for Achilles' image stood his spear
+Grasped in an armed hand; himself behind
+Was left unseen, save to the eye of mind.""",0.2,1.0,20428e7f38323e9a93790cb1520b051b350910d0c0c9ad98851a3775bf1fe231,32b2b7c908f64ba20567a884727ddded2ce99fc26f924eccefdf1e372b86f5c1,584,541,0.92637,pass,,json_ok,2026-06-02T23:06:57Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_001|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_001,simplify,"When we judge an author's worth and decide where he fits among the great writers we admire, we can look at him from our own point of view and use our own standards. But when we try to measure the power shown in his works, we must follow his own goals and compare his writing to his own ideals to see what is missing. We do not share all of Mr. Poe's ideas about what art should be. He thinks art should create Beauty, and perhaps we only disagree about how that word is defined. However, when we talk about his writing, we will use his own standards as a guide. The temple of the god of song can be entered from any side, and there is enough room for everyone who brings a gift or seeks an answer.
+
+In his stories, Mr. Poe mainly shows his skill in the dark area that stretches from the far edge of what seems possible into the strange world of superstition and unreality. He combines, in a striking way, two abilities that are rarely found together: the power to affect the reader's mind with vague, mysterious shadows, and a careful attention to detail that leaves no pin or button unnoticed. Both abilities come from the dominant quality of his mind, which we have already mentioned—analysis. This analytical mind sets the artist apart. He first decides what feeling he wants to create in the reader, and then makes every part of the story work toward that single goal. Even his mysteries are logical to him. To him, the unknown variable X is already known. In any picture he paints, he understands the chemical properties of all his colors. No matter how vague his figures may seem, or how formless the shadows, he sees the outline as clearly as a geometric diagram. Because of this, Mr. Poe does not sympathize with mysticism. The mystic lives inside the mystery, is wrapped in it, lets it color every thought, and even makes ordinary things look rainbow‑edged. Mr. Poe, on the other hand, watches from a distance. He analyzes, dissects, and observes ""with a calm eye, the very pulse of the machine,"" which to him is like a device of wheels, gears, and pistons all working toward a purpose.
+
+This analytical habit balances his poetic side, giving him the patience to be precise and allowing him to turn a vivid reality into his most unreal fantasies. He has a single‑minded passion that he paints with great force. He loves to dissect a mental illness and trace all the subtle branches of its cause. When he creates images of horror, he succeeds in a strange way, often giving us, through a faint hint, a terrible doubt that lies at the heart of all horror. He leaves the final details to the imagination, a job that only imagination can do.
+
+""For much imaginary work was there; 
+Conceit deceitful, so compact, so kind, 
+That for Achilles’ image stood his spear 
+Grasped in an armed hand; himself behind 
+Was left unseen, save to the eye of mind.""",0.2,1.0,20428e7f38323e9a93790cb1520b051b350910d0c0c9ad98851a3775bf1fe231,3758d5dc38286f2646f017dda79ff77af8e9e7fcbfb3b2166893335f0eb5d17e,584,518,0.886986,pass,,json_ok,2026-06-02T23:07:11Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_002|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_002,paraphrase,"My principal ambition is to launch a periodical to be titled “The Stylus,” yet it would be of no use to me—once established—if it were not wholly free from a publisher’s control. In other words, I intend to create a journal that will be entirely my own in every respect. To achieve this, I must first secure a list of at least five hundred subscribers; I already have nearly two hundred. I plan, however, to travel South and West among my personal and literary acquaintances—old college mates and West Point friends—and see what can be done. To raise the necessary funds for the initial step, I intend to give a lecture at the Society Library on Thursday, the 3rd of February, and, to avoid any quarrel, my topic will not be literary at all. I have selected a broad subject: “The Universe.”
+
+Having now presented you with the facts of the matter, I leave the remainder to the judgment of your own tact and generosity. With deepest gratitude,
+
+Your ever‑faithful friend,
+EDGAR A. POE.
+
+Although these letters are brief and written on a whim, we think they sufficiently demonstrate the very qualities that are denied to Mr. Poe—humility, perseverance, belief in another’s friendship, and the capacity for warm and grateful companionship. He possessed these traits when he was sane, and they are the only aspects we have consistently observed in the five or six years we have known him personally. It is far easier to trust what we have seen and experienced than what we hear from others; consequently we remember him with admiration and respect. The portrayals of him made during his periods of mental instability seem, to us, like portraits painted in sickness of a man we only ever knew in health.
+
+Yet there is another, more moving and far more compelling piece of evidence that genuine goodness existed in Edgar A. Poe. To reveal it we must lift the veil that solemnly covers grief and refinement in poverty; we believe this may be justified if it helps brighten the poet’s memory, even if it does not serve a more immediate purpose for those whose lives were broken by his death.
+
+Our first notice of Mr. Poe’s relocation to this city came via a call from a lady who introduced herself as his mother‑in‑law. She was seeking employment for him and justified her request by mentioning his illness, her daughter’s chronic invalidity, and the circumstances that forced her to intervene. The lady’s countenance, made beautiful and saintly by an evident surrender of her life to hardship and tender sorrow, her gentle, mournful voice pleading the case, her long‑forgotten yet instinctively refined manners, and her appealing yet appreciative reference to her son’s talents and claims, at once revealed the presence of one of those earthly angels that women in distress can become.
+
+It was a hard fate she was overseeing. Mr. Poe wrote with painstaking care, his style elevated far above popular taste, which made it difficult for him to earn a decent living.",0.2,1.0,d31010a0393813edbbc1ec0ffb357537e2c97209339203446021fbf6a99e7475,61921e40cb920f7243cefe6254acebad3a5f1b720b9d797aeb0e70871a9970b7,556,514,0.92446,pass,,json_ok,2026-06-02T23:07:25Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_002|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_002,modernize,"My main goal is to start a magazine called 'The Stylus,' but it would be useless to me, even once it’s established, if I don’t have complete control over it. So I intend to create a journal that is entirely my own. To do that, I need a list of at least five hundred subscribers to begin with; I already have nearly two hundred. I plan to travel south and west, visiting my personal and literary friends—old college and West Point acquaintances—to see what I can arrange. To raise the necessary funds for the first step, I will give a lecture at the Society Library on Thursday, February 3rd, and, to avoid any dispute, my topic will not be literary at all. I have chosen a broad subject: 'The Universe.'
+
+Having given you the facts, I leave the rest to your judgment and generosity. Most gratefully, your ever‑faithful friend, Edgar A. Poe.
+
+Even though these letters are brief and informal, we believe they clearly demonstrate the qualities often denied to Mr. Poe—humility, perseverance, belief in friendship, and the ability to be warm and grateful. He certainly possessed these traits when he was sane. In the five or six years we have known him personally, he has always seemed that way. It is far easier for us to trust what we have seen and experienced than what we have only heard, so we remember him with admiration and respect. The accounts of him made when he was mentally unstable appear to us like portraits painted in illness of a man we only knew in health.
+
+But there is another, more moving and compelling proof of Edgar A. Poe’s goodness. To show it, we must lift the veil that usually hides grief and dignity in poverty; we think this is justified if it helps honor the poet’s memory, even if it does not serve a more urgent purpose for those closest to him after his death.
+
+We first learned that Mr. Poe had moved to this city from a call we received from a woman who introduced herself as his mother‑in‑law. She was looking for work for him and explained that he was ill, her daughter was a chronic invalid, and their circumstances forced her to intervene. The woman's face, radiant and saintly from a life of hardship and tender sorrow, her gentle, mournful voice, her naturally refined manners, and her appreciative description of her son's talents all revealed her as one of those earthly angels that women become in adversity. She was overseeing a difficult fate. Mr. Poe wrote with painstaking difficulty, using a style far above popular taste, which made it hard for him to earn a good living.",0.2,1.0,d31010a0393813edbbc1ec0ffb357537e2c97209339203446021fbf6a99e7475,28d7feb8a687728de343af3fd63b04934400e8ce20a0aaf7dc2858f27bfbb314,556,455,0.818345,warning,length_soft_warning,json_ok,2026-06-02T23:07:42Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_002|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_002,simplify,"My main goal is to start a magazine called ""The Stylus."" It would be useless if a publisher controlled it, so I want it to be completely my own. To do that I need at least 500 subscribers; I already have about 200. I plan to travel south and west to ask my old college and West Point friends for support. To raise the money for the first issue, I will give a lecture at the Society Library on Thursday, February 3rd. To avoid any argument, the lecture will not be about literature; I have chosen a wide subject: ""The Universe.""
+
+Having told you these facts, I leave the rest to your kindness and generosity. With deep gratitude, your friend always, Edgar A. Poe.
+
+Even though these letters are brief and informal, we think they clearly show Poe's humility, perseverance, belief in friendship, and his warm, grateful nature. He certainly had these qualities when he was sane, as we have known him for five or six years. It is easier for us to trust what we have seen and experienced than what we only hear, so we remember him with admiration and respect. The accounts that portray him as morally insane seem to us like pictures drawn during his illness of a man we only knew when he was healthy.
+
+There is another, more moving and stronger proof of Poe's goodness. To show it we must look beyond the sorrow and dignity that poverty hides, but we think this is justified if it helps improve the poet's memory, even if it does not serve a more urgent purpose for those hurt by his death.
+
+We first learned that Mr. Poe had moved to this city when a woman called, introducing herself as his wife's mother. She was looking for a job for him and explained that he was ill, her daughter was a chronic invalid, and their situation forced her to act. Her face was beautiful and saintly, showing a life given to hardship and tender sorrow. Her gentle, mournful voice, her refined manners, and her respectful talk about her son's talents showed she was like an earthly angel for a woman in trouble. She was caring for a difficult fate. Poe wrote with great care, using a style that was too sophisticated for popular markets to pay well.",0.2,1.0,d31010a0393813edbbc1ec0ffb357537e2c97209339203446021fbf6a99e7475,d31b5ba69af7a1490bed0b305949c0990818b097b6188593de9af0a3bd12b330,556,389,0.69964,warning,length_hard_warning,json_ok,2026-06-02T23:07:57Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_003|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_003,paraphrase,"After about four and a half hours the balloon was sufficiently inflated, so I fastened the carriage to it and loaded all my gear—making sure not to omit the condensing apparatus, a generous supply of water, and a large stock of pemmican, which packs a great deal of nourishment into a small volume. I also placed a pair of pigeons and a cat in the carriage. Dawn was nearly upon us, and I felt it was the proper moment to depart. I pretended to drop a lit cigar on the ground, and while stooping to retrieve it I secretly ignited the slow‑match whose tip, as I have mentioned, projected only a little beyond the lower rim of one of the smaller casks. The three duns observed nothing, and as soon as I leapt into the carriage I cut the single cord that tethered me to the earth, delighted to find that I rose swiftly, bearing with ease one hundred and seventy‑five pounds of lead ballast, and capable of taking even more.
+
+ scarcely had I reached a height of fifty yards when a terrible, roaring hurricane of flame, smoke, sulphur, limbs, gravel, burning wood, and blazing metal surged after me in a most dreadful and tumultuous fashion. My heart sank, and I fell to the bottom of the carriage trembling with unmitigated terror. It became clear that I had greatly exceeded the limits of my experiment and that the worst of the shock was still to come. In an instant the blood rushed to my temples, and a concussion—one I shall never forget—burst through the night, seeming to tear the very firmament asunder. Later, when I could reflect, I saw that the ferocity of the explosion was due to my position directly above it, in the line of its greatest force. At that moment, however, I thought only of saving my life. The balloon first collapsed, then violently expanded, then spun round and round with dreadful speed, and finally, reeling like a drunkard, flung me with great force over the rim of the carriage. I was left hanging at a terrible height, head down and face outward, by a slender cord about three feet long that had slipped through a crack near the bottom of the wickerwork, and as I fell my left foot became providentially caught in it. No mind can form an adequate picture of the horror of my plight. I gasped convulsively for breath, a shudder like a fit of ague shaking every nerve and muscle, my eyes seemed to pop from their sockets, a horrible nausea overwhelmed me, and at last I fainted.
+
+How long I remained in that state I cannot say; it must have been a considerable interval, for when I began to regain a sense of being, I found day breaking, the balloon soaring at a prodigious altitude over a boundless ocean, with not a hint of land to be seen anywhere within the vast horizon.",0.2,1.0,c75248e67bdb2908871fcf3a05896a0ef81aba42a7449c24ff95d79c7577d985,ffc0a9d6a70319d924f320112a608466a2e723887a9e45e5f6285a06da6ae141,581,497,0.855422,warning,prompt_or_source_leakage_warning,json_ok,2026-06-02T23:08:12Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_003|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_003,modernize,"After about four and a half hours I found the balloon fully inflated. I attached the car, packed all my gear inside—making sure to include the condensing apparatus, a generous supply of water, and a large amount of provisions like pemmican, which packs a lot of nutrition into a small volume. I also placed a pair of pigeons and a cat in the car. It was nearly dawn, and I thought it was time to depart. I dropped a lit cigar on the ground, pretending it was an accident, and while bending to pick it up I secretly lit the slow match whose tip, as I mentioned before, barely stuck out beyond the lower rim of one of the smaller barrels. The three duns didn’t notice at all; I jumped into the car, cut the single cord that tethered me to the ground, and was pleased to see the balloon rise, easily lifting the 175 pounds of lead ballast I had on board, and it could have carried even more.
+
+But barely fifty yards up, a terrifying, roaring hurricane of fire, smoke, sulfur, limbs, gravel, burning wood, and blazing metal surged after me. My heart sank and I fell to the bottom of the car, trembling with sheer terror. I realized I had completely overreached, and that the worst of the shock was still to come. In an instant, all the blood rushed to my temples, and a concussion—one I’ll never forget—burst through the night, as if tearing the sky apart. Later, when I could think clearly, I blamed the extreme violence of the explosion on my position directly above it, right in the line of its greatest force. At the moment, I only cared about staying alive. The balloon first collapsed, then expanded violently, spun around at a frightening speed, and finally, staggering like a drunk, hurled me over the rim of the car. I was left hanging at a terrible height, head down and face outward, by a thin cord about three feet long that had slipped through a crack near the bottom of the wickerwork, and as I fell my left foot got caught in it. It’s impossible to fully convey the horror of that situation. I gasped for breath, my whole body shaking as if with a fever, my eyes felt like they were popping out, a horrible nausea overwhelmed me, and eventually I fainted.
+
+I can’t say how long I stayed unconscious. It must have been a considerable time, because when I finally regained some awareness, day was breaking. The balloon was at an enormous height over a vast ocean, and there was no land in sight anywhere on the endless horizon.",0.2,1.0,c75248e67bdb2908871fcf3a05896a0ef81aba42a7449c24ff95d79c7577d985,e776e707eebb5a59a60af5b4e3a111ff664dac7f1c5e5948234a31c4a4842221,581,450,0.774527,warning,length_hard_warning,json_ok,2026-06-02T23:08:25Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_003|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_003,simplify,"In about four and a half hours I had the balloon fully inflated. I attached the carriage, packed all my gear—especially the condensing apparatus, a large amount of water, and plenty of pemmican, which gives a lot of nutrition in a small package. I also put a pair of pigeons and a cat in the carriage. It was almost daybreak, and I thought it was time to go. I pretended to drop a lit cigar on the ground, and while bending to pick it up I secretly lit a slow‑match that stuck out just a little beyond the lower rim of one of the smaller barrels. The three duns didn’t notice anything. I jumped into the carriage, cut the single cord that held me to the ground, and was pleased to rise easily, carrying 175 pounds of lead ballast and able to lift even more.
+
+I had barely reached fifty yards in height when a massive, roaring hurricane of fire, smoke, sulphur, limbs, gravel, burning wood, and hot metal surged after me. My heart sank and I fell to the bottom of the carriage, trembling with pure terror. I realized I had gone too far and that the worst was still to come. In an instant all the blood rushed to my temples, and a concussion—one I will never forget—burst through the night like a crack in the sky. Later, when I could think clearly, I understood that the explosion’s extreme force was aimed right at me, directly in its line of greatest power. At the moment, I only thought of staying alive. The balloon first collapsed, then expanded violently, spun around at a frightening speed, and finally, like a drunk man stumbling, threw me over the rim of the carriage. I was left hanging at a great height, head down and face outward, by a thin cord about three feet long that had slipped through a crack near the bottom of the wicker. As I fell, my left foot got caught in the cord, which was a small mercy. It is impossible to describe fully the horror of that situation. I gasped for breath, my whole body shook as if I had a fever, my eyes felt like they were leaving their sockets, a terrible nausea overwhelmed me, and eventually I fainted.
+
+I cannot say how long I stayed unconscious. It must have been a considerable time, because when I began to regain awareness I saw the day breaking. The balloon was at an enormous height over a vast ocean, and there was no land in sight anywhere on the horizon.",0.2,1.0,c75248e67bdb2908871fcf3a05896a0ef81aba42a7449c24ff95d79c7577d985,37c6069521b8c54d8fa6590c487d04e3b6d9fe37fb57deeae6fcd9732bec4f0b,581,436,0.75043,warning,length_hard_warning,json_ok,2026-06-02T23:08:39Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_004|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_004,paraphrase,"“Having taken this attitude toward the matter, I felt little further hesitation. Assuming that, during my ascent, I would encounter an atmosphere essentially like that at the earth’s surface, I imagined that, by means of M. Grimm’s clever device, I could easily condense enough of it for breathing. This would eliminate the principal obstacle to a lunar voyage. I had indeed spent money and considerable effort adapting the apparatus for this purpose, and I looked forward with confidence to its successful use, provided I could complete the journey within a reasonable time. This brings me back to the question of how fast the travel might be.
+
+“It is true that balloons, in the early stages of their rise from the earth, are known to ascend at a comparatively moderate speed. The lifting power comes entirely from the great lightness of the gas in the balloon compared with the surrounding air; and at first glance it seems unlikely that, as the balloon climbs and enters layers of air whose density falls rapidly, the original speed would increase. Yet I was not aware of any recorded ascent in which the absolute rate of rise decreased; such a decline should have occurred, if only because of gas leakage from poorly constructed balloons varnished with ordinary varnish. It seemed, therefore, that the loss of gas merely offset whatever accelerating force might be present. I now thought that, if in my passage I found the medium I had imagined, and if it proved to be essentially what we call atmospheric air, the degree of rarefaction—no matter how extreme—would make little difference to my ascent. The gas in the balloon would itself become rarified in proportion, allowing enough escape to prevent explosion, yet it would remain lighter than any mixture of nitrogen and oxygen. Meanwhile, the pull of gravity would steadily lessen in proportion to the square of the distance, so with a rapidly increasing velocity I would eventually reach those remote zones where the earth’s attraction is outweighed by the moon’s. With these ideas, I saw no reason to burden myself with more provisions than would suffice for forty days.
+
+“There was, however, another difficulty that caused me some unease. It has been noted that, in balloon ascents to considerable heights, besides the difficulty of breathing, great discomfort is felt in the head and body, often accompanied by nosebleeds and other alarming symptoms, which become increasingly troublesome as altitude increases.”",0.2,1.0,90544b6af590f4a61cbdf830a5f5cc1f560db9c2344da15b516ba3ecb58e0579,3d135647f11f412dc112d995876240639a9a3cecefdd4bb323daa14348bb48c6,553,407,0.735986,warning,length_hard_warning,json_ok,2026-06-02T23:08:53Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_004|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_004,modernize,"""Having settled on this view, I hesitated no longer. Assuming that the atmosphere I would encounter on my journey would be essentially the same as at Earth's surface, I believed that, using M. Grimm's clever apparatus, I could easily compress enough of it for breathing. That would eliminate the main obstacle to a trip to the moon. I had already spent money and a great deal of effort adapting the device for this purpose, and I was confident it would work, provided I could complete the voyage in a reasonable time. That brings us back to how fast the travel might be.
+
+""It is true that balloons, in the early stages of their ascent from the ground, rise at a relatively modest speed. Their lift comes entirely from the gas in the balloon being lighter than the surrounding air; and at first glance it seems unlikely that, as the balloon climbs and enters layers of air that become rapidly thinner, its original speed would increase. On the other hand, I was not aware of any recorded ascent in which the absolute rate of climb decreased, even though it should have, if only because gas leaks from poorly built balloons coated with ordinary varnish. It seemed, then, that any loss of gas was just enough to offset any accelerating force. I now thought that, if on my journey I found the medium I imagined—and if it turned out to be what we call atmospheric air—it would make little difference how thin it became for my ascent. The gas in the balloon would also become rarified, but proportionally to its loss, enough to prevent an explosion, and it would still be lighter than any mixture of pure nitrogen and oxygen. Meanwhile, gravity’s pull would steadily weaken in proportion to the square of the distance, so with a rapidly increasing speed I would eventually reach the region where Earth's attraction is overtaken by the moon’s. With these ideas, I didn’t see any reason to carry more provisions than would last forty days.
+
+""There was, however, another problem that gave me some unease. It has been observed that, in balloon ascents to significant heights, besides the difficulty of breathing, people experience severe discomfort in the head and body, often accompanied by nosebleeds and other alarming symptoms, which become increasingly troublesome the higher they go.""",0.2,1.0,90544b6af590f4a61cbdf830a5f5cc1f560db9c2344da15b516ba3ecb58e0579,7b4a3f9d9f718c977ba4254ad6bedb7a54e364044c10ce470fb4880ff0599c9a,553,392,0.708861,warning,length_hard_warning,json_ok,2026-06-02T23:09:06Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_004|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_004,simplify,"Having decided on this plan, I hesitated little. I assumed that, even far from Earth, the air would be essentially the same as at the surface, and that with Mr. Grimm’s clever device I could compress enough of it for breathing. That would remove the biggest obstacle to a trip to the moon. I had already spent money and a great deal of effort adapting the device for this purpose, and I was confident it would work if I could finish the journey in a reasonable time. This brings me back to the question of how fast the travel might be.
+
+It is true that balloons, when they first rise from the ground, ascend at a fairly modest speed. Their lift comes entirely from the gas inside being lighter than the surrounding air, and at first glance it does not seem likely that the balloon would speed up as it climbs into thinner and thinner layers of atmosphere. Yet I have never seen any recorded ascent where the upward speed actually slowed down, even though one would expect it to, for example because poorly made balloons leak gas through ordinary varnish. It seemed that any loss of gas was just enough to cancel out any accelerating force. I now think that, if I find the medium I imagined on my journey, and if it turns out to be essentially what we call atmospheric air, the exact degree of thinness will not matter much for my ascent. The gas in the balloon will also become thinner, but it will still be lighter than any mixture of nitrogen and oxygen. Meanwhile, Earth’s gravity weakens with the square of the distance, so my speed would increase dramatically, and eventually I would reach a region where the moon’s pull outweighs Earth’s. With these ideas, I decided that I did not need to carry more supplies than would last forty days.
+
+There was, however, another problem that gave me some unease. It has been observed that, during balloon climbs to great heights, besides the difficulty of breathing, people feel great discomfort in the head and body, often with nosebleeds and other alarming symptoms that become more severe the higher they go.",0.2,1.0,90544b6af590f4a61cbdf830a5f5cc1f560db9c2344da15b516ba3ecb58e0579,6dcff9325f84bee6aeea289bfa0945a8651f174b47b53180b66a372dfdb3cf0c,553,366,0.661844,warning,length_hard_warning,json_ok,2026-06-02T23:09:21Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_005|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_005,paraphrase,"This process, repeated many times, eventually filled the chamber with an atmosphere suitable for breathing. Yet, in such a confined space the air would soon become foul and unsuitable for the lungs. It was then expelled through a small valve at the bottom of the car, the dense air sinking into the thinner atmosphere below. To avoid creating a complete vacuum at any instant, the purification was never done all at once; the valve was opened only a few seconds at a time, then shut again, until one or two strokes of the condenser’s pump had replaced the expelled air. For the experiment I placed the cat and its kittens in a small basket, hanging it outside the car by a button near the valve, through which I could feed them whenever necessary. I did this with some risk, and before sealing the chamber I reached beneath the car with one of the previously mentioned poles, to which a hook had been attached.
+
+""When I had finally finished these preparations and filled the chamber as described, only ten minutes remained until nine o’clock. Throughout the whole period I suffered the most terrible distress from difficulty of breathing, and I bitterly repented the negligence—or rather the foolish obstinacy—with which I had postponed such an important matter. Yet, after at last completing it, I soon began to enjoy the benefits of my invention. Once more I breathed freely and easily—and why should I not? I was also pleasantly surprised to find that, to a great extent, the violent pains that had hitherto tormented me were relieved. A slight headache, together with a feeling of fullness about the wrists, ankles, and throat, was nearly all I had left to complain of. It seemed clear, then, that most of the discomfort accompanying the loss of atmospheric pressure had indeed subsided, as I had expected, and that much of the pain endured during the previous two hours must have been due entirely to deficient respiration.
+
+""Twenty minutes before nine o’clock—that is, shortly before I sealed the chamber’s mouth—the mercury reached its limit, or fell, in the barometer, which, as I have noted, was of an extended design. It then indicated an altitude of 132,000 feet, or twenty‑five miles, and at that moment I could survey an area of the earth amounting to no less than three‑hundred‑and‑twentieth of its total surface. At nine o’clock I again lost sight of land to the east, but not before noticing that the balloon was rapidly drifting toward the north‑north‑west. The convex curve of the ocean beneath me was very evident, though my view was often broken by the masses of cloud that floated to and fro.",0.2,1.0,465fee6a1ea7b78dc4a17ff8e1feac5d7dd5bb9fd59f687ce14e1a0b1a48eb2c,32ec3cfcfc5747c182ae4de3fcca28d7e9ff983ebac07df92c81d2b2c42a793f,550,459,0.834545,warning,prompt_or_source_leakage_warning;length_soft_warning,json_ok,2026-06-02T23:09:35Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_005|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_005,modernize,"Repeating this process several times eventually filled the chamber with breathable air. However, in such a confined space it would quickly become stale and unsuitable for breathing. The excess air was then released through a small valve at the bottom of the car, the heavier air sinking into the thinner atmosphere below. To avoid creating a complete vacuum inside the chamber, the cleaning was done gradually—opening the valve for only a few seconds, then closing it again, until one or two strokes of the condenser pump replaced the expelled air. For the experiment I placed the cat and its kittens in a small basket and hung it outside the car near the valve, so I could feed them whenever needed. I did this with a little risk, and before sealing the chamber I reached under the car with one of the poles I had mentioned, which had a hook attached.
+
+By the time I had finished these preparations and filled the chamber as described, it was only ten minutes before nine o’clock. Throughout the whole period I was working, I suffered severe distress from difficulty breathing, and I bitterly regretted my careless, almost foolish, habit of postponing such an important task until the last minute. But once I finally completed it, I began to enjoy the benefits of my invention. I could breathe freely and easily again—why shouldn’t I? I was also pleasantly surprised to find that most of the sharp pains that had tormented me were largely gone. All I now complained about was a slight headache and a feeling of fullness or pressure around my wrists, ankles, and throat. This made it clear that most of the discomfort caused by the drop in atmospheric pressure had indeed faded, as I had expected, and that much of the pain I had endured during the previous two hours was due to inadequate respiration.
+
+About twenty minutes before nine o’clock—just before I sealed the chamber—the mercury in the barometer reached its limit and fell, as I noted earlier, the instrument being of an extended design. It then indicated that I was at an altitude of 132,000 feet, or twenty‑five miles, and at that moment I could see at least one three‑hundred‑and‑twentieth of the Earth’s surface. By nine o’clock I had lost sight of land to the east, but not before noticing that the balloon was drifting quickly toward the north‑northwest. The curvature of the ocean below was clearly visible, although my view was often interrupted by moving clouds.",0.2,1.0,465fee6a1ea7b78dc4a17ff8e1feac5d7dd5bb9fd59f687ce14e1a0b1a48eb2c,bea8537add346823cbd7c25517327b6bd457cecabe4ef1942e14bf24ab20f6e8,550,427,0.776364,warning,prompt_or_source_leakage_warning;length_hard_warning,json_ok,2026-06-02T23:09:51Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_005|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_005,simplify,"The pump was run many times, and eventually the chamber filled with air suitable for breathing. In such a small space the air would soon become stale and harmful to the lungs, so it was let out through a small valve at the bottom of the car. The heavy air sank down into the thinner atmosphere below. To avoid creating a complete vacuum, the air was not removed all at once; the valve was opened for a few seconds, then closed, and this was repeated until one or two strokes of the condenser’s pump had replaced the air that had been expelled. For the experiment I placed a cat and its kittens in a small basket and hung it outside the car, attached to a button near the valve, so I could feed them whenever needed. I did this with some risk, reaching under the car with one of the poles that had a hook on it before sealing the chamber.
+
+When I finally finished these preparations and filled the chamber as described, I only had ten minutes left before nine o’clock. During the whole time I suffered terrible difficulty breathing and deeply regretted my careless, almost foolish, habit of postponing something so important. But after I finally succeeded, I quickly felt the benefits of my invention. I could breathe freely and easily again—why shouldn’t I? I was also pleasantly surprised to find that most of the sharp pains that had tormented me were gone. All I now complained of was a slight headache and a feeling of fullness around my wrists, ankles, and throat. It seemed clear that most of the discomfort caused by the loss of atmospheric pressure had faded, just as I had expected, and that much of the pain I felt during the previous two hours had been due to poor breathing.
+
+Twenty minutes before nine o’clock—just before I sealed the chamber—the mercury in the long barometer fell to its limit, showing an altitude of 132,000 feet, or 25 miles. At that moment I could see at least one‑three‑hundred‑and‑twentieth of the Earth’s surface below. By nine o’clock I had lost sight of land to the east, but I noticed the balloon was moving quickly toward the north‑north‑west. The curve of the ocean beneath me was very clear, although clouds often blocked the view.",0.2,1.0,465fee6a1ea7b78dc4a17ff8e1feac5d7dd5bb9fd59f687ce14e1a0b1a48eb2c,ffceaa268d72f1ee4d69de5d0041391841085de4384cb0722422dac11c78ac90,550,397,0.721818,warning,prompt_or_source_leakage_warning;length_hard_warning,json_ok,2026-06-02T23:10:05Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_006|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_006,paraphrase,"I found myself more persuaded by the second view. The icy rim to the north grew ever more distinct, though the cold was not exceedingly severe. Nothing noteworthy transpired, and I spent the day in reading, having taken care to provision myself with books.
+
+""April 5th. Observed the curious spectacle of the sun's ascent while almost the whole visible face of the earth remained shrouded in darkness. In time the light spread over everything, and once more I discerned the line of ice to the north. It now stood very clear, of a darker shade than the ocean's waters. I was evidently drawing nearer, and with great speed. I fancied I could again make out a strip of land to the east, and another to the west, though I could not be certain. Weather moderate. No event of consequence occurred during the day. Retired early to bed.
+
+""April 6th. Was astonished to find the ice rim at a very moderate distance, and an immense expanse of the same substance stretching to the horizon in the north. It was clear that, should the balloon maintain its present course, it would soon pass over the Frozen Ocean, and I now had little doubt of eventually seeing the Pole. Throughout the day I continued to approach the ice. Toward evening the limits of my horizon suddenly and markedly expanded, undoubtedly due to the earth's shape as an oblate spheroid, and my ascent above the flattened region near the Arctic Circle. When darkness finally overtook me, I went to bed in great anxiety, fearing that I might cross the object of such curiosity without the chance to observe it.
+
+""April 7th. Rose early, and to my great delight at last beheld what could not be mistaken for anything but the northern Pole itself. It lay there, beyond doubt, directly beneath my feet; yet, alas, I had risen to such a height that nothing could be discerned with precision. Indeed, judging from the progression of the numbers indicating my various altitudes at different times—from six A.M. on the second of April to twenty minutes before nine A.M. of the same day, when the barometer fell—it may be fairly inferred that the balloon, at four o’clock in the morning of April the seventh, had reached a height of not less than 7,254 miles above sea level. This elevation may seem enormous, but the calculation on which it rests likely underestimates the true figure. In any case I unquestionably beheld the whole of the earth's major diameter; the entire northern hemisphere lay beneath me like an orthographic chart, and the great circle of the equator formed the boundary of my horizon. Your Excellencies may, however, readily imagine that the confined regions still unexplored within the Arctic Circle, though situated directly beneath me and thus seen without foreshortening, remained, in themselves, comparatively small and at too great a distance from the point of view to permit any very accurate examination.""",0.2,1.0,97dbc20e9d6eed9db2303a948baf3e813deabaf1aec54bbbccb175be5ecab420,7d10598efff985e9698b7a7e3d5c46cdaf78ad45e5c7e95cf1587aae6e941c07,555,497,0.895495,pass,,json_ok,2026-06-02T23:10:21Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_006|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_006,modernize,"I tended to agree with the second view. The edge of ice to the north was becoming more and more visible. The cold was not extremely intense. Nothing significant happened, and I spent the day reading, making sure I had enough books.
+
+April 5. I witnessed the odd phenomenon of the sun rising while most of the Earth's visible surface was still in darkness. Eventually the light spread everywhere, and I saw the line of ice to the north again. It was now very clear and looked much darker than the ocean water. I was clearly getting closer to it, and very quickly. I thought I could still see a strip of land to the east and one to the west, but I wasn't sure. Weather was moderate. Nothing of consequence occurred during the day. I went to bed early.
+
+April 6. I was surprised to find the ice edge at a fairly close distance, and an immense field of the same material stretching to the horizon in the north. It was clear that if the balloon kept its current course, it would soon be over the frozen ocean, and I was now confident I would eventually see the Pole. All day I continued toward the ice. Toward evening the limits of my horizon suddenly expanded considerably, undoubtedly because the Earth is an oblate spheroid and I was moving over the flattened region near the Arctic Circle. When darkness finally fell, I went to bed very anxious, fearing I would pass over the object of such curiosity without being able to observe it.
+
+April 7. I got up early and, to my great delight, finally saw what could only be the North Pole itself. It was there, beyond doubt, right beneath my feet; but, alas, I had risen to such a great height that nothing could be seen clearly. In fact, judging from the altitude readings taken at different times between 6 a.m. on April 2 and twenty minutes before 9 a.m. on the same day (when the barometer fell), one could infer that at 4 a.m. on April 7 the balloon was at least 7,254 miles above sea level. That altitude sounds enormous, but the calculation probably underestimates the true height. In any case I definitely saw the whole Earth's major diameter; the entire northern hemisphere lay beneath me like an orthographic map, and the great circle of the equator formed the edge of my horizon. Your Excellencies can imagine that the still-unexplored regions within the Arctic Circle, although directly below me and not foreshortened, were still too small and too far away for any detailed examination.",0.2,1.0,97dbc20e9d6eed9db2303a948baf3e813deabaf1aec54bbbccb175be5ecab420,ee548db8c79a0cece38e1c8d235747ad2dbc6fa81fa1f39bdc340ce694181d2b,555,442,0.796396,warning,length_hard_warning,json_ok,2026-06-02T23:10:36Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_006|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_006,simplify,"I agreed with the second view. The ice edge to the north was becoming more visible. The cold was not extremely intense. Nothing important happened, and I spent the day reading, making sure I had enough books.
+
+April 5. I saw the strange sight of the sun rise while most of the earth was still in darkness. Soon the light spread everywhere, and I saw the ice line to the north again. It was now very clear and looked much darker than the ocean water. I was clearly getting closer to it, and very quickly. I thought I could see a strip of land to the east and another to the west, but I wasn't sure. The weather was moderate. Nothing important happened during the day. I went to bed early.
+
+April 6. I was surprised to find the ice edge still at a moderate distance, and a huge field of ice stretching to the horizon in the north. It was clear that if the balloon kept its course, it would soon be over the Frozen Ocean, and I was confident I would eventually see the Pole. All day I kept moving toward the ice. Near night the horizon suddenly expanded a lot, probably because the earth is an oblate spheroid and I was moving over the flattened area near the Arctic Circle. When darkness finally came, I went to bed very anxious, fearing I would pass over the object of my great curiosity without being able to observe it.
+
+April 7. I got up early and, to my great joy, finally saw what could only be the North Pole itself. It was definitely there, right beneath my feet; but, alas, I had risen so high that I could not see any details clearly. From the numbers showing my altitude at different times—from 6 a.m. on April 2 to twenty minutes before 9 a.m. that same day when the barometer fell—I can estimate that at 4 a.m. on April 7 the balloon was at least 7,254 miles above sea level. That height sounds huge, and the calculation probably underestimates the true height. In any case I could see the whole diameter of the earth; the entire northern hemisphere lay below me like a flat map, and the equator formed the edge of my horizon. You can imagine that the still‑unexplored areas inside the Arctic Circle, although directly below me and not foreshortened, were still too small and too far away to examine closely.",0.2,1.0,97dbc20e9d6eed9db2303a948baf3e813deabaf1aec54bbbccb175be5ecab420,0ac93005521ded3370782d98927b39e7a4168870d060cb63d66d65c30150bddd,555,420,0.756757,warning,length_hard_warning,json_ok,2026-06-02T23:10:50Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_007|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_007,paraphrase,"This, indeed, is the case. I possess a great—indeed a very great—amount of information which I would take the utmost pleasure in conveying. I have much to report about the planet’s climate; its marvelous swings between heat and cold, the unrelenting, scorching sunshine that lasts a fortnight and then gives way to a chill far beyond polar frost; the continual movement of moisture, distilled as if in a vacuum, from the point directly under the sun to the point farthest from it; the shifting streams of water; the inhabitants themselves; their manners, customs, and political structures; their odd physical make‑up; their ugliness; their lack of ears—those useless appendages in an atmosphere so peculiarly altered; their resulting ignorance of speech’s use and properties; their replacement for speech in a singular mode of inter‑communication; the incomprehensible link between each individual on the moon and a particular individual on Earth—a connection analogous to, and dependent upon, that of the planet’s orbs and its satellites, by which the lives and destinies of one’s inhabitants are intertwined with those of the other; and above all, if it pleases your Excellencies—above all, those dark and hideous mysteries that lie in the moon’s outer regions—areas that, because of the almost miraculous synchrony of the satellite’s rotation on its axis with its sidereal revolution around Earth, have never been turned toward, and, by God’s mercy, never shall be turned toward, the scrutiny of man’s telescopes. All this, and far more—much more—I would gladly detail. Yet, to be concise, I must ask for my reward. I yearn to return to my family and my home; and as the price for any further communication on my part—considering the light I can shed on many crucial branches of physical and metaphysical science—I must, through the influence of your honorable body, request a pardon for the crime I committed in the death of the creditors when I left Rotterdam. This, then, is the purpose of the present paper. Its bearer, a moon inhabitant whom I have persuaded and properly instructed to act as my messenger to Earth, will await your Excellencies’ pleasure and return to me with the pardon, if it can in any way be obtained.
+
+“I have the honor to be, etc., your Excellencies’ very humble servant,
+
+“HANS PFAALL.”
+
+When Professor Rub‑a‑dub finished reading this most extraordinary document, it is said he dropped his pipe in astonishment, and Mynheer Superbus Von Underduk, having removed his spectacles, wiped them and slipped them into his pocket, so completely forgot himself and his dignity that he turned three times on his heel in sheer amazement and admiration. There was no doubt about the matter—the pardon must be secured. Thus, with a solemn oath, Professor Rub‑a‑dub swore, and the illustrious Von Underduk, taking his brother in science by the arm, said nothing further and set off for home to contemplate the measures to be taken.",0.2,1.0,da43a900462b97204eaa6c17900ea0bf9464c1d5a9e0bea7cf7f8566d1f495b4,1812916f54a9e4c6a1a3d4ea763675f0f1cfeafe9dc6911fd262182f68d2c279,573,498,0.86911,pass,,json_ok,2026-06-02T23:11:04Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_007|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_007,modernize,"This is indeed the case. I have a great deal—far more than I can express—that I would love to share. I have much to say about the planet’s climate; its astonishing swings between heat and cold, with relentless, scorching sunshine for a fortnight and then polar chill the next; about the constant movement of moisture, evaporating as if in a vacuum, from the point directly under the sun to the point farthest from it; about the ever‑changing streams of water; about the people themselves; their manners, customs, and political systems; their odd physical make‑up; their ugliness; their lack of ears—useless appendages in an atmosphere so uniquely altered; their resulting ignorance of speech and its properties; their substitute for speech in a singular method of communication; the incomprehensible link between each individual on the moon and a particular individual on Earth—a connection similar to, and dependent on, the relationship between a planet and its satellites, through which the lives and destinies of the inhabitants of one are intertwined with those of the other; and, above all, if it pleases your Excellencies—above all, the dark and hideous mysteries that lie in the moon’s outer regions—areas that, because of the almost miraculous synchrony of the moon’s rotation on its axis with its orbit around Earth, have never been, and by God’s mercy never will be, exposed to human telescopes. All this, and much more, I would gladly detail. But to be brief, I need my reward. I long to return to my family and home; and as the price for any further communication on my part—considering the light I can shed on many important branches of physical and metaphysical science—I must ask, through the influence of your honorable body, for a pardon for the crime I committed in the death of the creditors when I left Rotterdam. This is the purpose of this paper. Its bearer, a moon inhabitant whom I have persuaded and properly instructed to be my messenger to Earth, will await your Excellencies’ decision and return to me with the pardon, if it can be obtained in any way.
+
+“I have the honor to be, etc., your Excellencies’ very humble servant,
+
+“HANS PFAALL.”
+
+When Professor Rub‑a‑dub finished reading this extraordinary document, he supposedly dropped his pipe in astonishment, and Mynheer Superbus Von Underduk, after removing his spectacles, wiping them, and slipping them into his pocket, was so overwhelmed that he spun around three times on his heel in sheer amazement. There was no doubt—the pardon must be secured. So Professor Rub‑a‑dub swore a solemn oath, and the illustrious Von Underduk, taking his fellow scientist’s arm without a word, began his journey home to consider the steps that needed to be taken.",0.2,1.0,da43a900462b97204eaa6c17900ea0bf9464c1d5a9e0bea7cf7f8566d1f495b4,61d667686e019d7977cfabe8119072ae612bfea9a36d430e79b9f7d7642ff694,573,466,0.813264,warning,length_soft_warning,json_ok,2026-06-02T23:11:18Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_007|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_007,simplify,"This is really true. I have a great many things I would love to tell you. I could describe the moon’s weather—its wild swings from scorching heat to bitter cold, two weeks of blazing sun followed by two weeks of freezing frost; the way moisture moves from the side that faces the sun to the side that does not, as if it were being drawn out in a vacuum; the ever‑changing streams of water; the people who live there; their habits, customs, and governments; their strange bodies; their ugliness; the fact that they have no ears, those useless organs in an atmosphere that is so different; how this makes them ignorant of speech and its uses; the odd way they communicate without speaking; the mysterious link that ties each individual on the moon to a specific individual on Earth— a link that works like the relationship between a planet and its satellite, binding the lives and fates of the two peoples together; and, above all, if it pleases your Excellencies, the dark and terrible mysteries that lie on the far side of the moon—areas that, because the moon’s rotation matches its orbit around Earth, have never been turned toward human telescopes and, by God’s mercy, never will be. I could go on and on, but I must be brief because I am longing to return to my family and home. In exchange for any further information I might give—information that could illuminate many important areas of physical and metaphysical science—I must ask, through your respected body, for a pardon for the crime I committed when I caused the death of the creditors as I left Rotterdam. That is the purpose of this paper. Its messenger, a moon inhabitant whom I have persuaded and instructed to bring this to Earth, will wait for your decision and will bring back the pardon, if it can be obtained in any way.
+
+“I have the honor to be, etc., your Excellencies’ very humble servant,
+
+HANS PFAALL.”
+
+When Professor Rub‑a‑dub finished reading this astonishing document, he dropped his pipe in surprise. Mynheer Superbus Von Underduk took off his glasses, wiped them, and slipped them into his pocket, so astonished that he turned around three times on his heels, overwhelmed with amazement and admiration. There was no doubt about it—the pardon must be secured. Professor Rub‑a‑dub swore a solemn oath, and Von Underduk, taking his brother in science by the arm, said nothing and began the walk home, already thinking about the steps they should take next.",0.2,1.0,da43a900462b97204eaa6c17900ea0bf9464c1d5a9e0bea7cf7f8566d1f495b4,4efd9fc188649d9d86f4403c72f78c7125333d892c732389670f79ca952e296d,573,431,0.752182,warning,length_hard_warning,json_ok,2026-06-02T23:11:32Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_008|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_008,paraphrase,"When I reached the hut I knocked, as I always did, and, receiving no answer, I went looking for the hidden key, unlocked the door and entered. A bright fire burned in the hearth, a pleasant and not at all unwelcome sight. I shed my overcoat, settled into an arm‑chair beside the crackling logs, and waited patiently for my hosts to appear.
+
+Soon after night fell they came, greeting me with great warmth. Jupiter, smiling from ear to ear, bustled about preparing some marsh‑hens for supper. Legrand was in one of his fits—how else shall I call them?—of enthusiasm. He had discovered an unknown bivalve, a new genus, and, more importantly, he and Jupiter had captured a scarab he believed to be entirely new, for which he wanted my opinion the next day.
+
+""Why not tonight?"" I asked, rubbing my hands over the fire and cursing the whole tribe of scarabaeids.
+""Ah, if only I had known you were coming!"" Legrand replied. ""It has been ages since I saw you, and how could I have guessed you would visit on this very night? On my way home I met Lieutenant G—— from the fort and, foolishly, I lent him the bug; so you won’t be able to see it until morning. Stay here tonight, and I’ll have Jupiter fetch it at sunrise. It’s the loveliest thing in creation!""
+""What?—sunrise?""
+""Nonsense! No!—the bug. It’s a brilliant gold, about the size of a large hickory‑nut, with two jet‑black spots near one end of its back and another, a little longer, at the opposite end. The antennae are—""
+""Dey ain’t no tin in him, Massa Will, I keep a tellin’ on you,"" interrupted Jupiter. ""De bug is a good‑lookin’ bug, solid, every bit of him, inside and out, sep him wing—never felt half so heavy a bug in my life.""
+""Well, suppose it is, Jup,"" Legrand answered, a touch more earnestly than the matter required. ""Is that any reason for you letting the birds burn? The colour—"" he turned to me, ""—is almost enough to justify Jupiter’s idea. You have never seen a more brilliant metallic luster than the scales emit—but you can’t judge that until tomorrow. In the meantime I can give you an idea of its shape."" He sat at a small table that held a pen and ink but no paper. He searched a drawer, found none, and then said, ""Never mind, this will do;"" pulling from his waistcoat pocket a scrap of what seemed a very dirty foolscap, he sketched a rough picture with the pen. While he worked I stayed by the fire, still a little cold. When he finished, he handed the drawing to me without standing. As I took it, a loud growl sounded, followed by scratching at the door. Jupiter opened it, and a large Newfoundland belonging to Legrand burst in, leapt onto my shoulders, and showered me with affection, for I had shown him much kindness on earlier visits.",0.2,1.0,c4ae597e7d68f1d2d42644bdf82027705f67a7be4828866481926770792bb431,2e4f1fd0d08714c699220106ebd676bf0b7fb2bc6d32a951602d36079d6a84b4,570,506,0.887719,pass,,json_ok,2026-06-02T23:11:47Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_008|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_008,modernize,"Upon reaching the hut I knocked, as was my habit, and getting no reply, looked for the key where I knew it was hidden, unlocked the door and went in. A fine fire was blazing in the hearth. It was a novelty, and by no means an unwelcome one. I threw off my overcoat, took an arm‑chair by the crackling logs, and waited patiently for my hosts.
+
+Soon after dark they arrived and gave me a most cordial welcome. Jupiter, grinning from ear to ear, bustled about preparing some marsh hens for supper. Legrand was in one of his fits—what else can I call them?—of enthusiasm. He had found an unknown bivalve, forming a new genus, and, more than that, he had hunted down and secured, with Jupiter’s help, a scarab which he believed to be completely new, but he wanted my opinion on it the next day.
+
+""And why not tonight?"" I asked, rubbing my hands over the blaze, and wishing the whole tribe of scarabs to the devil.
+
+""Ah, if I had only known you were here!"" said Legrand, ""but it’s been so long since I saw you; and how could I have guessed you’d visit tonight of all nights? On my way home I met Lieutenant G—— from the fort, and, very foolishly, I lent him the bug; so it will be impossible for you to see it until morning. Stay here tonight, and I’ll send Jup down for it at sunrise. It’s the loveliest thing in creation!""
+
+""What?—sunrise?""
+
+""Nonsense! No!—the bug. It’s a brilliant gold color—about the size of a large hickory nut—with two jet‑black spots near one end of the back, and another, a bit longer, at the other. The antennae are—""
+
+""There’s nothing tinny about it, Mr. Will, I’m telling you,"" interrupted Jupiter, ""the bug is a solid gold bug, every bit of it, inside and out, except its wings—I've never felt such a heavy bug in my life.""
+
+""Well, suppose it is, Jup,"" replied Legrand, somewhat more earnestly than the situation demanded, ""does that give you any reason to let the birds burn? The color—"" he turned to me, ""—is really almost enough to justify Jupiter’s idea. You’ve never seen a more brilliant metallic luster than the scales emit—but you can’t judge that until tomorrow. In the meantime I can give you an idea of the shape."" Saying this, he sat at a small table that held a pen and ink but no paper. He looked in a drawer for some, but found none.
+
+""Never mind,"" he said after a pause, ""this will suffice;"" and he drew from his waistcoat pocket a scrap of what looked like a very dirty foolscap sheet, and made a rough sketch with the pen. While he did this, I stayed by the fire, still chilly. When the drawing was finished, he handed it to me without standing. As I took it, a loud growl was heard, followed by scratching at the door. Jupiter opened it, and a large Newfoundland belonging to Legrand rushed in, leapt onto my shoulders, and showered me with affection; I had shown him much attention on previous visits.",0.2,1.0,c4ae597e7d68f1d2d42644bdf82027705f67a7be4828866481926770792bb431,39b74a287391c9d3d6e0faf06cfa45bfc0a382d05bb9f77a844606e5868adeb2,570,535,0.938596,pass,,json_ok,2026-06-02T23:12:03Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_008|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_008,simplify,"When I reached the hut I knocked, as I always do. No one answered, so I looked for the hidden key, unlocked the door, and went inside. A bright fire was burning in the hearth. It was a pleasant surprise. I threw off my overcoat, took a chair by the crackling logs, and waited calmly for my hosts.
+
+Soon after dark they arrived and gave me a very warm welcome. Jupiter, smiling broadly, hurried about preparing some marsh‑hens for dinner. Legrand was in one of his fits of excitement. He had discovered an unknown bivalve that he thought formed a new genus, and, with Jupiter’s help, he had also captured a scarab he believed was completely new. He wanted my opinion on it the next day.
+
+""Why not tonight?"" I asked, rubbing my hands over the fire and cursing the whole tribe of scarabs.
+
+""Ah, if only I had known you were coming!"" Legrand replied. ""It’s been so long since I saw you, and I could not have guessed you would visit tonight. On my way home I met Lieutenant G—— from the fort and, foolishly, I lent him the bug. So you won’t be able to see it until morning. Stay here tonight, and I’ll send Jupiter to fetch it at sunrise. It’s the loveliest thing in creation!""
+
+""What? Sunrise?"" I said.
+
+""No, not the sunrise— the bug. It’s a brilliant gold color, about the size of a large hickory nut, with two jet‑black spots near one end of its back and a longer one at the other end. The antennae are—""
+
+""There’s no tin in it, Massa Will, I’m watching you,"" Jupiter interrupted. ""The bug is a solid gold bug, every bit of it, inside and out, except the wings—never felt so heavy a bug in my life.""
+
+""Well, suppose it is, Jup,"" Legrand answered, sounding more serious than the situation required. ""Is that any reason for you to let the birds burn? The color—"" he turned to me, ""—is almost enough to prove Jupiter’s idea. You have never seen a more brilliant metallic shine than the scales give—but you can’t judge that until tomorrow. In the meantime I can give you an idea of its shape.""
+
+He sat at a small table that held a pen and ink but no paper. He looked in a drawer, found none, and said, ""Never mind, this will do."" He pulled a dirty scrap of foolscap from his waistcoat pocket and sketched a rough picture with the pen. While he drew, I stayed by the fire because I was still cold. When he finished, he handed the drawing to me without standing up.
+
+Just then a loud growl sounded, followed by scratching at the door. Jupiter opened it, and a large Newfoundland belonging to Legrand rushed in, leapt onto my shoulders, and showered me with affection, because I had always been kind to it on previous visits.",0.2,1.0,c4ae597e7d68f1d2d42644bdf82027705f67a7be4828866481926770792bb431,9910cec965e87627409276590d2439e7435cff10491e9ac90f0a2854f597bfbb,570,490,0.859649,pass,,json_ok,2026-06-02T23:12:17Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_009|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_009,paraphrase,"I feared that the relentless weight of misfortune might finally have shaken my friend's mind. Without a second thought, I readied myself to go with the negro.
+
+When we reached the dock, I saw a scythe and three spades, all apparently brand‑new, lying at the bottom of the boat we were to board.
+
+""What’s the purpose of all this, Jup?"" I asked.
+
+""Him syfe, massa, and spade,"" he answered.
+
+""That’s right, but why are they here?""
+
+""Him de syfe and de spade what Massa Will sis pon my buying for him in de town, and de debbil’s own lot of money I had to gib for ’em.""
+
+""But what on earth is your ‘Massa Will’ going to do with a scythe and spades?""
+
+""Dat’s more dan _I_ know, and debbil take me if I don’t b’lieve ’tis more dan he know, too. But it’s all cum ob do bug.""
+
+Realizing that Jupiter could not give me a satisfactory answer—his mind seemed wholly occupied by ""de bug""—I stepped into the boat and set out. A strong, steady breeze carried us quickly to a small cove north of Fort Moultrie, and after a two‑mile walk we reached the hut. It was about three o’clock in the afternoon when we arrived. Legrand was waiting for us, his anticipation evident. He seized my hand with a nervous eagerness that both startled me and confirmed my growing suspicions. His face was pallid to the point of ghastliness, and his deep‑set eyes shone with an uncanny gleam. After asking after his health, I, at a loss for better words, inquired whether he had finally obtained the _scarabæus_ from Lieutenant G——.
+
+""Oh, yes,"" he replied, flushing fiercely, ""I got it from him the next morning. Nothing will make me part with that _scarabæus_. Do you know that Jupiter is quite right about it?""
+
+""In what way?"" I asked, a foreboding heaviness settling in my heart.
+
+""In thinking it to be a bug of _real gold_."" He said this with solemn gravity, and I was struck beyond words.
+
+""This bug will make my fortune,"" he continued, a triumphant smile spreading, ""restore me to my family’s estate. Is it any wonder I cherish it? Since Fortune has deemed me worthy of it, I need only use it wisely and I shall reach the gold of which it is a sign. Jupiter; bring me that _scarabæus_!""
+
+""What! the bug, massa? I’d not go after that trouble—you must get it for yourself."" At that moment Legrand rose, assuming a grave, dignified bearing, and produced the beetle from a glass case in which it had been kept. It was a splendid scarabæus, at that time unknown to naturalists—a true scientific treasure. Two round black spots marked one end of its back, and a long one marked the other. Its scales were extraordinarily hard and glossy, looking as if they were polished gold. The insect’s weight was striking, and, considering everything, I could hardly fault Jupiter’s high opinion of it; yet I could not for the life of me understand why Legrand so readily agreed with him.",0.2,1.0,782cf703586ede1041c809de3610e826bcdb7b82cfba1a4ae8947c24f94fb2cc,5377f8fea23bf64ccc5b4515f665d700209ab12269d16cda207a82bc8fbbdbf8,567,521,0.918871,pass,,json_ok,2026-06-02T23:12:31Z
