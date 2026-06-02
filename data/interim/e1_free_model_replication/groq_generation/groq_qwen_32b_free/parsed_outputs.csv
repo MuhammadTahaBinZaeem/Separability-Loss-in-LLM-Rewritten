@@ -554,3 +554,271 @@ groq_qwen_32b_free|run_1|AUSTEN_EMMA_010|paraphrase,groq_qwen_32b_free,groq,Groq
 This dislike, so unearned, magnified every perceived flaw until Emma’s first encounter with Jane after an absence always left her feeling she had wronged her. Now, upon resuming their acquaintance after two years, Emma was struck by the very qualities she had previously dismissed. Jane Fairfax was exquisitely refined, a standard Emma herself held in high regard. Her height, slightly above average yet never imposing, lent her a graceful bearing. Her proportions were balanced, neither too full nor too slender, though a faint pallor hinted at fragility. Emma could not ignore these observations. Jane’s face, though not classically symmetrical, possessed a charm that surpassed Emma’s memory. Her dark, expressive eyes had long been praised, but her complexion—once criticized for lacking warmth—now revealed a delicate translucence that required no further embellishment. This was a beauty defined by elegance, a quality Emma revered, especially in a world where Highbury’s standards of excellence were so low as to equate distinction with mere avoidance of vulgarity. 
 
 During their initial reunion, Emma observed Jane with dual satisfaction—pleased by her presence and reassured by her fairness. Reflecting on Jane’s circumstances, her refined nature, and the sacrifices she would soon endure, Emma found herself unable to sustain resentment. Compassion and respect took its place, deepened by the likely truth of Jane’s affection for Mr. Dixon, a connection Emma had instinctively recognized.",0.2,1.0,7c1ca25d7d301f8ca66658595fa86b053d4a322f8584b8c6920cbfff921f0c76,5bfe210a15a2b9e4d76da6d2a5821d24632181cf3f7e6e131c6c5f8019ba2961,558,330,0.591398,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:17:32Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_010|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_010,modernize,"Emma felt awful—having to be polite to someone she didn’t like for three long months!—always doing more than she wanted and less than she should! Explaining why she disliked Jane Fairfax might be tricky. Mr. Knightley once told her it was because Jane was the genuinely accomplished young woman Emma wanted to be seen as. Though she’d quickly denied this at the time, there were moments of self-reflection when her conscience wouldn’t let her off the hook. But ‘she could never connect with her: she didn’t know why, but there was so much coldness and reserve—so little concern about whether people liked her or not—and then, her aunt talked nonstop!—and everyone fawned over her!—and everyone assumed they’d be such close friends because they were the same age.’ These were her excuses—she had no better ones.
+
+Her dislike was so unfair—every perceived flaw magnified by imagination, that whenever she first saw Jane Fairfax after a long absence, she felt she’d wronged her. Now, when she paid her proper visit after a two-year gap, she was especially struck by Jane’s appearance and manners, which she’d spent those two years putting down. Jane Fairfax was very elegant, really elegant; and Emma valued elegance highly. Her height was striking—tall enough to impress almost everyone, but not so tall anyone would call it extreme; her figure was especially graceful; her build was perfectly balanced between slim and curvy, though a hint of poor health suggested the more likely problem of the two. Emma couldn’t ignore this; then there was her face—her features—there was more beauty there than she remembered; it wasn’t classically pretty, but it was very appealing. Her deep gray eyes with dark lashes and brows had always drawn praise; but the skin, which she’d once complained about as lacking color, had a clarity and delicacy that needed no extra flush. It was a kind of beauty defined by elegance, and as such, she had to admire it according to her values: elegance, which in Highbury, whether in looks or mind, was rare enough that avoiding vulgarity was considered special, and merit was a given.
+
+In short, during their first visit, she sat looking at Jane Fairfax with double satisfaction—the pleasure of seeing her and the satisfaction of being fair—and decided she’d stop disliking her. When she considered Jane’s background, her situation, as well as her beauty; when she thought about what all this elegance was leading to, what she was about to give up, how she’d live instead, it seemed impossible to feel anything but pity and respect; especially if to every known reason for sympathy was added the likely fact of an attachment to Mr. Dixon, which Emma had naturally assumed for herself.",0.2,1.0,7c1ca25d7d301f8ca66658595fa86b053d4a322f8584b8c6920cbfff921f0c76,56163115c94b3f71d3979530cc6de01a997ee6cb51a9345a4ef42cf9e1d26e27,558,464,0.831541,warning,json_extracted;length_soft_warning,json_extracted,2026-06-02T06:39:04Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_010|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_010,simplify,"Emma felt frustrated. She had to be polite to someone she disliked for three months—doing more than she wanted but less than she should. She couldn’t clearly explain why she disliked Jane Fairfax. Mr. Knightley once said it was because Jane was genuinely talented and accomplished, something Emma secretly wished to be. Though she denied this at the time, moments of reflection made her doubt herself. She couldn’t get close to Jane, finding her distant and indifferent to others’ opinions. Jane’s aunt talked endlessly, and everyone fussed over Jane. People assumed they’d be close friends because they were the same age. These were Emma’s excuses—she had no better ones.
+
+Her dislike was unfair. Every flaw she imagined in Jane grew worse in her mind. Every time they reunited after being apart, Emma felt guilty for judging her. Now, after two years, when Emma finally visited Jane, she noticed how much she’d underestimated her. Jane was elegant in a way Emma admired—graceful, with a height that seemed tall but not overly so. Her figure was balanced, neither too thin nor too full, though a hint of poor health made her look fragile. Emma couldn’t ignore this. Jane’s face had more beauty than Emma remembered—not perfectly symmetrical, but pleasant. Her dark, expressive eyes were praised, and her pale skin, once criticized for lacking color, had a soft, delicate quality. This was a kind of beauty Emma valued, especially since Highbury had little of it. There, standing out meant avoiding commonness.
+
+During their first visit, Emma watched Jane with both pleasure and a sense of fairness. She decided she would stop disliking her. Thinking about Jane’s life—her elegance, her future, how she would live—made Emma feel only pity and respect. Especially if, as Emma suspected, Jane loved Mr. Dixon.",0.2,1.0,7c1ca25d7d301f8ca66658595fa86b053d4a322f8584b8c6920cbfff921f0c76,7d56aaf2898f72bd9c90c9881d92944ce3c6ab9ba77159958ec71491a0d68fd2,558,302,0.541219,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:39:21Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_011|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_011,paraphrase,"Mr. Elton’s sense of authority over her began to resurface. Though the initial news did not strike her as strongly as it might have earlier that day or the day before, its significance grew steadily. By the time their first conversation concluded, Emma had convinced herself to feel all the appropriate mix of curiosity, astonishment, regret, and conflicting emotions about this fortunate Miss Hawkins that would allow the Martins to remain properly diminished in her imagination.
+
+Emma found herself quietly relieved that the encounter had occurred. It had softened the initial blow without leaving any lingering unease. Now that Harriet was secure, the Martins could not reach her without making an effort—something they had lacked either the courage or willingness to do since Harriet’s rejection of their brother. The sisters had not visited Mrs. Goddard’s for some time, and a full year might pass without any necessity for them to cross paths again, let alone exchange words.
+
+
+
+Human nature is so inclined to favor those in compelling circumstances that anyone who marries or suffers a tragic fate is certain to be spoken of kindly.
+
+Less than a week after Miss Hawkins’s name first surfaced in Highbury, she was somehow revealed to possess every desirable quality of appearance and character: beauty, elegance, refined accomplishments, and unimpeachable charm. When Mr. Elton himself arrived to boast of his promising future and spread tales of her virtues, there was little left for him to add beyond her first name and the name of her preferred pianist.
+
+Mr. Elton returned as a man deeply content. He had departed wounded and humiliated, his hopes dashed after what seemed to him encouraging signs. Not only had he lost the woman he desired, but he now found himself aligned with someone far more suitable, as any gain under such circumstances inevitably surpasses what was lost. He returned cheerful and self-assured, energetic and preoccupied, indifferent to Miss Woodhouse and defiant toward Miss Smith.
+
+The enchanting Augusta Hawkins, in addition to her perfect beauty and virtues, held an independent fortune—enough to be described as ten thousand pounds, a detail of both pride and practicality. The narrative pleased everyone: he had not squandered himself but secured a wife of substantial means. And he had done so with remarkable speed—the moment of introduction had scarcely passed before he was showering her with attention. The tale he recounted to Mrs. Cole of the affair’s swift progression was dazzling: from their chance meeting to the dinner at Mr. Green’s and the gathering at Mrs. Brown’s, where smiles and blushes grew increasingly meaningful. The lady had been so easily swayed, so sweetly receptive, that in plain terms, she had been so eager to accept him that both his vanity and his caution found satisfaction.",0.2,1.0,79253818657c94e8735c5e9a0fc7ce3319a2ced52265c0790fac74adfbbcb876,155df5c2ed6f721581b2eb59694d4b5d22260472498b02ecdd4e997f3a4d2318,553,462,0.835443,warning,json_extracted;length_soft_warning,json_extracted,2026-06-02T06:39:40Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_011|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_011,modernize,"Mr. Elton’s importance with her!
+
+Mr. Elton’s confidence gradually returned. Though she didn’t react to the initial news as strongly as she might have the day before or even an hour before, her interest grew quickly. By the time their first conversation ended, she had convinced herself she felt all the emotions—curiosity, wonder, regret, pain, and pleasure—that could help her relegate the Martins to their proper place in her mind.
+
+Emma found herself somewhat relieved that the meeting had happened. It softened the initial blow without leaving any lingering anxiety. With Harriet still alive, the Martins couldn’t reach her unless they actively sought her out, which they hadn’t done since Harriet rejected the brother. The sisters hadn’t visited Mrs. Goddard’s since then, and a year might pass without any reason for them to cross paths again, let alone exchange a word.
+
+
+CHAPTER IV
+
+People tend to be kind to those in interesting situations—whether they live or marry, they’re sure to be spoken of warmly.
+
+Less than a week after Miss Hawkins’s name first surfaced in Highbury, everyone had somehow discovered she possessed every desirable quality: beauty, elegance, talent, and charm. When Mr. Elton himself arrived to boast about his promising future and spread the word about her virtues, there wasn’t much left for him to add except her first name and which composer she preferred to play.
+
+Mr. Elton returned as a very happy man. He had left feeling rejected and humiliated, disappointed after what he believed were clear signs of encouragement. Not only had he lost the woman he wanted, but he’d also been reduced to pursuing someone he considered inferior. He had left deeply offended but came back engaged to someone better—obviously superior, since under such circumstances, what you gain always outweighs what you lose. He returned cheerful and self-assured, energetic and focused, no longer caring about Miss Woodhouse and openly ignoring Miss Smith.
+
+Charming Augusta Hawkins, in addition to her usual beauty and qualities, had an independent fortune worth around ten thousand pounds—a detail that added both dignity and practicality. The story was impressive; he hadn’t wasted his time—he’d secured a woman with a substantial fortune. And he’d done it quickly: the moment they met, he’d shown his interest so swiftly that the tale he told Mrs. Cole about their romance was thrilling. From their chance meeting to dinner at Mr. Green’s and the gathering at Mrs. Brown’s, the timeline was lightning fast. Her smiles and blushes grew more meaningful, her emotions more evident. She had been easy to impress, eager to accept him. In short, using a phrase everyone would understand, she had been very ready to marry him—so much so that both his pride and practicality were satisfied.",0.2,1.0,79253818657c94e8735c5e9a0fc7ce3319a2ced52265c0790fac74adfbbcb876,77a48ca007615f417f3c97752dfd114fd22182a1eeea276c5f65357bf149123b,553,460,0.831826,warning,json_extracted;length_soft_warning,json_extracted,2026-06-02T06:39:58Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_011|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_011,simplify,"Mr. Elton’s feelings for her!
+
+Mr. Elton’s sense of entitlement slowly returned. Though Emma didn’t react as strongly to the news as she might have earlier that day, her interest grew as they talked. By the end of their conversation, she had convinced herself to feel all the emotions—curiosity, regret, pain, and pleasure—that would help her mentally rank Miss Hawkins above the Martins.
+
+Emma felt relieved that the Martins and Harriet had met. It softened the initial shock without causing lasting worry. Now that Harriet lived separately, the Martins couldn’t reach her without making an effort, which they lacked either the courage or willingness to do. After Harriet rejected Mr. Elton’s brother, the sisters hadn’t visited Mrs. Goddard’s for months. A year might pass without them needing to interact again.
+
+
+
+People tend to be kind to those in exciting situations, whether they marry or die.
+
+Less than a week after Miss Hawkins’ name appeared in Highbury, she was discovered to have every desirable quality: beauty, grace, talent, and kindness. When Mr. Elton arrived to boast about his new prospects and praise her virtues, there was little left for him to add except her first name and which musician she admired most.
+
+Mr. Elton returned as a happy man. He had left feeling rejected and humiliated, disappointed after what he believed were encouraging signs. Not only had he lost Emma, but he now seemed to have settled for an inferior option. He had left angry but returned engaged to someone better—someone clearly superior to Emma, as any gain under such circumstances always outweighs a loss. He returned cheerful and confident, eager to share his news, indifferent to Miss Woodhouse, and dismissive of Miss Smith.
+
+Miss Hawkins, in addition to being beautiful and accomplished, had her own fortune—enough to be called ""ten thousand pounds"" in polite conversation. This added dignity and practical value to her. The story pleased everyone: Mr. Elton hadn’t wasted his time but had gained a wealthy wife. He had secured her quickly—within hours of meeting her. The tale he told Mrs. Cole about their whirlwind romance was thrilling: from their chance meeting to dinner at Mr. Green’s and a party at Mrs. Brown’s, each step filled with growing tension and emotion. Miss Hawkins had been easy to impress, sweetly eager, and, in plain terms, very happy to accept him. His pride and practicality were both satisfied.",0.2,1.0,79253818657c94e8735c5e9a0fc7ce3319a2ced52265c0790fac74adfbbcb876,bb1cdc277555a88ebc0e30416f8401254f649e1b328a18da5663fa73c4c6faaf,553,403,0.728752,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:40:16Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_012|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_012,paraphrase,"He spoke with the enthusiasm of a young man eager to dance; and Emma was surprised to see the vitality of the Westons overpowering the customs of the Churchills. He seemed to inherit all the liveliness, cheerfulness, and sociability of his father, without the hauteur or aloofness of Enscombe. Indeed, there was scarcely enough pride—his disregard for social distinctions leaned too far toward a lack of refinement. Yet he could not judge the harm he caused by undervaluing them. It was merely the overflow of his spirited nature.
+
+At last, he was convinced to move from the Crown’s front. Now nearly facing the Bateses’ lodgings, Emma recalled his planned visit and inquired if he had made it.
+
+“Yes, indeed!” he replied. “I was just about to mention it. A very successful visit—I met all three ladies and am deeply grateful for your warning. If the talkative aunt had caught me unawares, it would have been my undoing. As it was, I found myself trapped into an entirely unreasonable call. Ten minutes might have sufficed, perhaps even been proper; yet I had promised my father I’d return home before him. But there was no escape, no pause—and to my astonishment, when he finally joined me there after searching elsewhere, I realized I had spent nearly three-quarters of an hour with them. The kind lady offered me no chance to leave at all.”
+
+“And how did you find Miss Fairfax?”
+
+“Unwell, very unwell—that is, if a young lady can ever be said to look unwell. But the phrase is hardly acceptable, Mrs. Weston, is it? Ladies never look unwell. And truly, Miss Fairfax’s natural pallor often gives the impression of frailty—a most regrettable lack of color.”
+
+Emma disagreed and began a spirited defense of Miss Fairfax’s complexion. “It was never brilliant, but I don’t think it generally appears sickly; there’s a softness and delicacy in her skin that lends a particular grace to her face.” He listened attentively, acknowledging he had heard similar opinions—but still insisted that nothing could compensate for the absence of a healthy glow. When features were ordinary, a fine complexion could elevate them; when they were handsome, the effect was—fortunately, he need not elaborate.
+
+“Well,” said Emma, “taste is subjective, I suppose. At least you admire her beyond her complexion.”
+
+He shook his head and laughed. “I cannot separate Miss Fairfax from her complexion.”
+
+“Did you see her often at Weymouth? Were you frequently in the same company?”
+
+As they neared Ford’s, he exclaimed, “Ah! This must be the very shop everyone visits daily, as my father claims. He comes to Highbury six days a week, he says, and always has business at Ford’s.”",0.2,1.0,5943644ca82823e88169f8b8ad4cfb7d99db45c726ab09e0c71f475c326f509e,587321c083ab18995270e6888675b28ecd429596c5caa31b87482fce49e86e42,566,453,0.800353,warning,json_extracted;length_soft_warning,json_extracted,2026-06-02T06:40:35Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_012|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_012,modernize,"He argued like a young man eager to dance; and Emma was surprised to see the Westons' vitality so clearly outshine the Churchills' habits. He seemed to have all his father's energy and sociability, none of Enscombe's pride or formality. In fact, there might not have been enough pride—his disregard for social rank bordered on a lack of refinement. But he couldn't judge how undervalued he was being. It was just a burst of youthful enthusiasm.
+
+At last, he was convinced to move from the Crown's front. Now facing the Bateses' lodgings, Emma remembered his planned visit and asked if he'd made it.
+
+""Oh yes, definitely,"" he said. ""I was about to mention it. A total success—I met all three ladies, and I'm really grateful for your heads-up. If that talkative aunt had caught me by surprise, it would've killed me. As it was, I got stuck in an unreasonable visit. Ten minutes would've been enough, maybe even too long. I told my dad I'd be home before him—but there was no escape, no pause. And to my shock, when he finally found me there, I'd been sitting with them almost forty-five minutes. The nice lady never gave me a chance to leave.""
+
+""What did you think of Miss Fairfax?""
+
+""Terrible, very terrible—that is, if a young woman can ever look terrible. But the phrase is probably inappropriate, Mrs. Weston, isn't it? Ladies never look terrible. Honestly, Miss Fairfax is naturally so pale she always seems unwell. A real shame about her lack of color.""
+
+Emma disagreed and launched into a passionate defense. ""Her complexion isn't brilliant, but I don't think it's usually sickly. Her skin has a softness and delicacy that gives her face a special elegance.""
+
+He listened politely, acknowledging he'd heard similar opinions—but still insisted that nothing could compensate for the absence of healthy glow. When features were average, good skin made all the difference; when features were attractive, the effect was... well, he didn't need to describe it.
+
+""Well,"" Emma said, ""taste is subjective. At least you admire her besides her complexion.""
+
+He shook his head and laughed. ""I can't separate Miss Fairfax from her complexion.""
+
+""Did you see her often in Weymouth? Were you in the same circles much?""
+
+As they neared Ford's shop, he exclaimed, ""Hey, this must be the place everyone goes every day, like my dad says. He claims he comes to Highbury six days a week and always has business at Ford's.""",0.2,1.0,5943644ca82823e88169f8b8ad4cfb7d99db45c726ab09e0c71f475c326f509e,bef967441b3bd19bb03b1bcb16febd0c1168924612528f607b6242c8148ddf6a,566,416,0.734982,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:40:53Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_012|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_012,simplify,"He spoke with the enthusiasm of someone eager to dance, and Emma was surprised to see how much of Mr. Weston’s lively nature had survived his time at Churchill. He seemed to have inherited his father’s cheerful energy and sociable spirit, without any of the pride or formality associated with Enscombe. In fact, his lack of concern for social rank bordered on a lack of refinement. But he couldn’t truly grasp how his casual attitude might be seen as a flaw—it was just his natural, spirited way.
+
+Eventually, he moved from the front of the Crown Inn. As they passed the Bates family’s lodgings, Emma remembered his planned visit the previous day and asked if he’d gone.
+
+“Yes, of course!” he said. “I was about to tell you. It went well—I met all three ladies. I’m very grateful for your heads-up. If that talkative aunt had caught me unprepared, I might have panicked. As it was, I stayed far too long. Ten minutes would have been enough, maybe even excessive. I’d promised my father I’d be home before him—but there was no escape. When he finally found me there, I’d been sitting with them nearly forty-five minutes. The kind lady never gave me a chance to leave!”
+
+“How did you think Miss Fairfax looked?”
+
+“Ill, very ill—that is, if a young woman can ever be said to look unwell. But the phrase is improper, isn’t it? Mrs. Weston, ladies never look ill. Honestly, Miss Fairfax is naturally so pale that she often appears unwell. It’s a terrible lack of color.”
+
+Emma disagreed and began defending Miss Fairfax’s complexion. “It’s never been bright, but I don’t think it’s usually sickly. Her skin has a softness and delicacy that gives her face a refined elegance.” He listened politely, acknowledging that others had said the same—but he insisted that a healthy glow was irreplaceable. A good complexion could elevate ordinary features into beauty, or enhance already attractive ones in ways he couldn’t describe.
+
+“Well,” Emma said, “taste is subjective. At least you admire her besides her complexion.”
+
+He shook his head and laughed. “I can’t separate Miss Fairfax from her complexion.”
+
+“Did you see her often in Weymouth? Were you in the same circles?”
+
+As they neared Ford’s shop, he exclaimed, “Ah! This must be the place everyone visits daily, as my father says. He claims he comes to Highbury six days a week and always has business at Ford’s.”",0.2,1.0,5943644ca82823e88169f8b8ad4cfb7d99db45c726ab09e0c71f475c326f509e,8ca8f4f7f238546bed605f9ed7edc4c2665d558fb0a042c8f5ece2c6aa5c44a4,566,412,0.727915,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:41:12Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_013|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_013,paraphrase,"and I was only yesterday confiding to Mr. Cole that I truly felt embarrassed gazing at our new grand piano in the drawing-room, considering my ignorance of music and how I cannot distinguish one note from another. Our little girls, who have barely begun their lessons, may never achieve much either. And then there’s poor Jane Fairfax, who possesses such mastery of music yet owns no instrument at all—not even the most meager old spinet in existence to entertain herself with. I was expressing this to Mr. Cole just yesterday, and he concurred entirely. Though he has a particular fondness for music, he admitted he couldn’t resist indulging in the purchase, hoping some of our generous neighbors might occasionally use it more effectively than we could. That, in truth, is why the instrument was acquired—or else I daresay we’d have reason to feel ashamed. We’re greatly hoping Miss Woodhouse might be persuaded to try it this evening.”
+
+Miss Woodhouse responded with the appropriate nod of agreement; sensing no further revelations from Mrs. Cole’s remarks, she shifted her attention to Frank Churchill.
+
+“Why do you smile?” she inquired.
+
+“Nay, why do you?”
+
+“Me!—I imagine I smile with pleasure at Colonel Campbell’s wealth and generosity. It is a generous gift.”
+
+“Indeed.”
+
+“I find it somewhat surprising it was never given before.”
+
+“Perhaps Miss Fairfax has never resided here so long previously.”
+
+“Or that he didn’t offer her the use of their own instrument—which must now remain locked away in London, untouched.”
+
+“That is a grand piano, and he might have deemed it too large for Mrs. Bates’s home.”
+
+“You may say what you choose—but your expression betrays that your thoughts on this matter align closely with mine.”
+
+“I cannot say. I suspect you’re attributing more sharpness to me than I deserve. I smile because you smile, and I may likely suspect whatever you suspect; but at present, I see no mystery. If Colonel Campbell is not the giver, who else could it be?”
+
+“What of Mrs. Dixon?”
+
+“Mrs. Dixon! Of course. I hadn’t considered her. She would surely know as well as her father how valuable an instrument would be; and the secrecy, the surprise, seems more characteristic of a young woman’s plan than an elderly man’s. It must be Mrs. Dixon, I’m certain. I told you your suspicions would guide mine.”
+
+“If so, you must broaden your suspicions to include Mr. Dixon as well.”
+
+“Mr. Dixon.—Understood. Yes, I instantly recognize it must be the combined gift of Mr. and Mrs. Dixon. We discussed recently, you know, how fervently he admires her musical talents.”
+
+“Precisely. And what you shared on that subject confirmed a notion I’d long harbored. I mean no slight to either Mr. Dixon or Miss Fairfax’s intentions, but I cannot help wondering whether, after proposing to her friend, he不幸ly fell in love with her, or whether he became aware of a slight affection on her part.”",0.2,1.0,8fe43f101095139bb9d5d5e3409a0491dcf670753d0c20cd1d82913e3734e602,60a656f122a70007effcb0a15bd7ea5bcc8f69c9c9ad2b7947433981ae1b524b,563,493,0.875666,warning,json_extracted,json_extracted,2026-06-02T06:41:31Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_013|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_013,modernize,"and I was telling Mr. Cole just yesterday how I felt awful looking at our brand-new grand piano in the drawing room, since I can’t tell one note from another. Our little girls are just starting out and might never get good at it, and poor Jane Fairfax, who’s a musical prodigy, doesn’t even own an instrument—no cheap old upright to practice on, nothing. I mentioned this to Mr. Cole yesterday, and he agreed with me. Though he’s a music lover, he still bought it, hoping some of our neighbors might occasionally play it better than we can. That’s the real reason we got it—or else we’d feel terrible about it. We’re really hoping Miss Woodhouse will give it a try tonight.
+
+Miss Woodhouse nodded politely. Noticing there was nothing more to extract from Mrs. Cole’s chatter, she turned to Frank Churchill.
+
+""Why are you smirking?"" she asked.
+
+""Why are you?""
+
+""Me? I’m smiling because Colonel Campbell’s so generous and wealthy. It’s a generous gift.""
+
+""Certainly is.""
+
+""I’m surprised he didn’t give it to her earlier.""
+
+""Maybe Miss Fairfax hasn’t stayed here long enough before.""
+
+""Or he could’ve let her use his own piano, which is now gathering dust in London.""
+
+""That’s a grand piano. He might’ve thought it too big for Mrs. Bates’s house.""
+
+""You can say whatever you want—but your expression shows you’re thinking exactly what I am.""
+
+""Not sure. I think you’re giving me more credit than I deserve. I’m smiling because you are, and I’ll probably guess whatever you’re guessing. But right now I don’t see anything to question. If Colonel Campbell isn’t the one, who could it be?""
+
+""What about Mrs. Dixon?""
+
+""Mrs. Dixon? Of course! She’d know better than her father how much someone would appreciate an instrument. And the secrecy, the surprise—it sounds more like a young woman’s plan than an old man’s. It’s definitely Mrs. Dixon. I told you your hunches would lead mine.""
+
+""Then you’ll have to expand your hunches to include Mr. Dixon too.""
+
+""Mr. Dixon. Right. I instantly see it was a joint gift from both D Dixons. We were talking the other day about how he’s such a fan of her playing.""
+
+""Exactly. What you told me confirmed a suspicion I already had. I’m not saying either Mr. Dixon or Miss Fairfax have bad intentions, but I can’t help wondering if after he proposed to her friend, he ended up falling for her instead—or if he realized she had feelings for him.""",0.2,1.0,8fe43f101095139bb9d5d5e3409a0491dcf670753d0c20cd1d82913e3734e602,6d7545f3741fdc5b8711f15bcc4721e6df839a9de55f54d8bb7fd7f1879c3444,563,419,0.744227,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:41:49Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_013|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_013,simplify,"I told Mr. Cole yesterday how I felt ashamed looking at our new grand piano in the drawing-room when I can't tell one note from another. Our little girls are just starting to learn, but they might never get good at it. And poor Jane Fairfax, who's a master at music, doesn't even have a small old piano to practice on. I said this to Mr. Cole, and he agreed with me. But he loves music so much he bought the piano anyway, hoping our neighbors might play it sometimes. That's why we got it—or else we'd feel guilty having it. We hope Miss Woodhouse will try playing it tonight.
+
+Miss Woodhouse nodded in agreement. Seeing there was nothing more to learn from Mrs. Cole's conversation, she turned to Frank Churchill.
+
+""Why do you smile?""
+
+""Why do you?""
+
+""Me? I'm smiling because Colonel Campbell is so generous. It's a generous gift.""
+
+""Very generous.""
+
+""I wonder why he didn't give it earlier.""
+
+""Perhaps Miss Fairfax hasn't stayed here long enough before.""
+
+""Or why he didn't let her use their own piano in London.""
+
+""That piano is too big for Mrs. Bates's house.""
+
+""You can say what you want—but your expression shows you think the same as me.""
+
+""Maybe you're giving me more credit than I deserve. I smile because you smile, and I'll probably guess whatever you're thinking. But right now I don't see any mystery. If Colonel Campbell isn't the giver, who could be?""
+
+""What about Mrs. Dixon?""
+
+""Mrs. Dixon! Of course. I hadn't thought of her. She'd know how much a piano would mean to Miss Fairfax. And the secrecy, the surprise—it sounds more like a young woman's plan than an old man's. It must be Mrs. Dixon. I told you your suspicions would guide mine.""
+
+""Then you must also suspect Mr. Dixon.""
+
+""Mr. Dixon? Yes, I see it must be both of them. We were talking the other day about how he admires her music.""
+
+""Right. What you told me then confirmed what I already suspected. I don't question their good intentions, but I wonder if after proposing to Miss Fairfax's friend, Mr. Dixon fell in love with her instead—or if he realized she had feelings for him.""",0.2,1.0,8fe43f101095139bb9d5d5e3409a0491dcf670753d0c20cd1d82913e3734e602,eca5985a7eb1cefc6fce55a8f673a095060d5540a5cb2e25a1645bf5261ab351,563,374,0.664298,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:42:07Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_014|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_014,paraphrase,"No response came immediately. He remained engaged in conversation with Mrs. Cole, his demeanor indifferent. Jane was approached by another guest, yet he continued speaking to Mrs. Cole.
+
+Emma no longer worried for Henry; his regard remained secure. She danced with lively enthusiasm, partnered by a worthy match. Though only five pairs formed, the spontaneity and rarity of the event brought her joy.
+
+Unfortunately, only two dances were permitted. The hour grew late, and Miss Bates, concerned for her mother, insisted on departing. After several failed attempts to resume, they reluctantly thanked Mrs. Weston and ended the evening.
+
+""Perhaps this is for the best,"" Frank Churchill remarked as he escorted Emma to her carriage. ""I would have invited Miss Fairfax, but her lackluster dancing would not have suited me after experiencing yours.""
+
+
+CHAPTER IX
+
+Emma did not regret visiting the Coles. The next day, she cherished the memories, confident that the social acclaim outweighed any loss of dignity. The Coles, deserving of happiness, would surely have been delighted by her presence—and her name would linger in their minds.
+
+Yet even cherished recollections carry shadows. Two matters troubled her. She questioned whether sharing her suspicions about Jane Fairfax’s emotions with Frank Churchill had breached propriety between women. Though uneasy, she justified it as an honest intuition, and his deference to her insight flattered her discernment, leaving her uncertain if silence had been wiser.
+
+The second regret also concerned Jane Fairfax. Emma genuinely lamented her own lackluster musical performance. She mourned her childhood idleness and spent an hour and a half practicing with renewed vigor.
+
+Her resolve was interrupted by Harriet’s arrival. If Harriet’s praise could console her, Emma might soon recover.
+
+""Oh, if only I could play as well as you and Miss Fairfax!""
+
+""Don’t compare us, Harriet. My playing is as different from hers as a lamp is from sunlight.""
+
+""Oh dear—I think you play better. I’d rather hear you. Everyone last night praised your performance.""
+
+""Those with true discernment would have sensed the difference. The truth, Harriet, is my playing is merely adequate for praise, while Jane Fairfax’s surpasses it.""
+
+""I’ll always believe you play as well as she does, or that if there’s a difference, no one could detect it. Mr. Cole praised your taste last night, and Mr.""",0.2,1.0,24f10e1a7808601ade8265ee598ce376cf73446633a271fa473f3a2c5cbc2c32,30c8befd895e72758f918ee103725951e744ff91531bff8956cefa481550a0dd,552,383,0.693841,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:42:26Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_014|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_014,modernize,"There was no immediate sign. No—he was chatting with Mrs. Cole, looking unbothered. Jane was asked by someone else, and he kept talking to Mrs. Cole.
+
+Emma no longer worried about Henry. His interest was safe. She danced with real energy and enjoyment. No more than five couples showed up, but the rarity and spontaneity made it all the more fun. She found herself paired with a great partner—worth watching.
+
+Unfortunately, only two dances were possible. It was getting late, and Miss Bates grew worried about getting home for her mother’s sake. After a few failed attempts to keep going, they thanked Mrs. Weston, looked disappointed, and left.
+
+“Maybe it’s for the best,” Frank Churchill said as he walked Emma to her carriage. “I probably would’ve asked Miss Fairfax, but her lackluster dancing wouldn’t have compared to yours.”
+
+
+CHAPTER IX
+
+Emma didn’t regret visiting the Coles. The next day, she remembered the evening fondly. Any dignity she might have sacrificed was more than made up for by the popularity she’d earned. The Coles—deserving, kind people—must have been thrilled to have her there. Her name would linger in their memories for a while.
+
+Perfect happiness, even in memory, is rare. Two things still nagged at her. She wondered if she’d overstepped by sharing her suspicions about Jane Fairfax’s feelings with Frank Churchill. It wasn’t exactly right, but her certainty had been so strong it slipped out. His willingness to listen felt like a compliment to her insight, making it hard to decide if she should’ve stayed quiet.
+
+The other regret also involved Jane Fairfax—and here, she had no doubts. She genuinely and deeply regretted her own lackluster playing and singing. She mourned her childhood laziness and practiced intensely for an hour and a half.
+
+She was interrupted by Harriet’s arrival. If Harriet’s praise could satisfy her, she’d be comforted quickly.
+
+“Oh! If only I could play as well as you and Miss Fairfax!”
+
+“Don’t lump us together, Harriet. My playing isn’t even close to hers—more like a lamp next to sunlight.”
+
+“Oh, dear—I think you’re the better of the two. I’d rather hear you. Everyone last night said how great you were.”
+
+“Those who really know music would’ve noticed the difference. The truth is, Harriet, my playing is just good enough to earn praise, but Jane’s is way beyond that.”
+
+“Well, I’ll always think you play just as well as she does—or if there’s a difference, no one would ever spot it. Mr. Cole said how much taste you have; and Mr.",0.2,1.0,24f10e1a7808601ade8265ee598ce376cf73446633a271fa473f3a2c5cbc2c32,c9c5614cb9e90c26b0d71d94bc7d0e957b225f53f893e583beaeb07a64c15d14,552,429,0.777174,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:42:45Z
