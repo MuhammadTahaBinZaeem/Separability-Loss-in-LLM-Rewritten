@@ -2109,3 +2109,256 @@ I need to check that all events are preserved, the characters' actions and relat
   ""condition"": ""simplify"",
   ""rewritten_text"": ""And yet I cannot,"" said Mr. Pumblechook, rising again, ""see one person before me—and drink to one person—without saying—May I—may I—?""\n\nI told him he could, and we shook hands again. He emptied his glass and turned it upside down. I did the same; if I'd flipped myself upside down first, the wine wouldn't have hit me harder.\n\nMr. Pumblechook served me the liver wing and the best slice of tongue (no fancy cuts of pork now), and barely took care of himself. ""Ah! Poultry, poultry!"" he said, addressing the chicken on the plate. ""When you were young, you never imagined what awaited you. You never knew you'd be a treat here for someone who—"" ""Call it a weakness if you like,"" he added, rising again, ""but may I? May I—?""\n\nBy now, I didn't need to keep agreeing, so he just did it. I wonder how he managed to do this so often without cutting himself with my knife.\n\n""And your sister,"" he said after eating steadily, ""who raised you! It's sad to think she can't fully appreciate that honor now. May—"" I saw he was about to ask again and stopped him.\n\n""We'll drink to her health,"" I said.\n\n""Ah!"" cried Mr. Pumblechook, leaning back in his chair, clearly impressed. ""That's how you recognize people, sir!"" (I don't know who this ""sir"" was, but it certainly wasn't me, and no one else was there); ""that's how you recognize noble-minded people, always forgiving and always friendly. It might,"" he said, hastily setting down his untouched glass and rising again, ""seem like repetition to a common person—but may I—?""\n\nAfter doing this, he sat and drank to my sister. ""Let us never forget,"" he said, ""her temperamental flaws, but may we hope she meant well.""\n\nBy now, I noticed his face was flushed. My own face felt entirely burned by the wine.\n\nI told Mr. Pumblechook I wanted my new clothes sent to his house, and he was thrilled I trusted him. I explained why I wanted to avoid being seen in the village, and he praised me endlessly. He hinted no one else was worthy of my confidence, and—might he? Then he asked gently if I remembered our math games as kids, how we'd gone together to make me an apprentice, and how he'd always been my favorite companion? Even if I'd drunk ten times as much, I'd have known he'd never been my friend, and I'd have rejected the idea. Still, I remember thinking I'd misjudged him, that he was a sensible, practical, kind man.""
 }",0.2,1.0,ca3825f8a12f94f0830973b8191cce3bf2b55f1aecc35cb58ca851a7315ebc41,e374304361e2cec6a6089054186e585583a29381eef2100b0cfd9d2f3d946ccd,568,890,1.566901,warning,json_parse_failed_used_raw_content;length_hard_warning,json_parse_failed_used_raw_content,2026-06-02T09:44:21Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_011|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_011,paraphrase,"I discovered that Wemmick was the clerk in the adjacent room. A second clerk was summoned from above to replace him during his absence, and I walked with him into the street after exchanging a handshake with my guardian. A group of unfamiliar individuals loitered outside, but Wemmick navigated through them by declaring firmly yet calmly, 'I tell you it’s no use; he won’t speak to any of you,' and we quickly escaped their presence, proceeding alongside each other.
+
+Chapter XXI.
+
+Observing Mr. Wemmick as we walked, I noted his lean frame and modest height, his face resembling a block of wood with features roughly chiseled by a blunt tool. Certain indentations might have been intended as dimples had the material been pliable and the instrument sharper, but they remained mere dents. The chisel had attempted three or four such embellishments across his nose before abandoning them without effort to erase the flaws. His linen showed signs of wear, suggesting bachelorhood, and he bore multiple mourning rings—four at least—alongside a brooch depicting a woman, a willow tree, and an urn beside a tomb. Additional rings and seals dangled from his watch chain, as though burdened by memories of the departed. His eyes gleamed—small, sharp, and black—with thin, mottled lips that seemed to have persisted for four to five decades.
+
+'You were never in London before?'
+
+'No,' I replied.
+
+'I was a stranger here once,' said Wemmick. 'Strange to recall now!'
+
+'Are you well-acquainted with it now?'
+
+'Why, yes,' he said. 'I know its ways.'
+
+'Is it a wicked place?'
+
+'You might be cheated, robbed, or murdered here. But there are plenty willing to do that anywhere.'
+
+'If there’s ill will between you and them,' I added, seeking to soften the remark.
+
+'Oh, I don’t know about ill will,' he countered. 'There’s not much of that. They’ll do it if there’s profit.'
+
+'That makes it worse.'
+
+'You think so?' he replied. 'Much the same, I’d say.'
+
+He tilted his hat to the back of his head and gazed ahead, walking with a self-contained air as if the streets held no interest for him. His mouth, resembling a mechanical postbox, gave the illusion of a smile. It was not until we reached the summit of Holborn Hill that I realized the expression was entirely mechanical, devoid of genuine mirth.
+
+'Do you know where Mr. Matthew Pocket resides?'
+
+'Yes,' he said, gesturing in the direction. 'At Hammersmith, west of London.'
+
+'Is that far?'",0.2,1.0,49d0ce45531f3b7d1343590542c4133f1cf2368fdec9dcaaa6d3ca41dab27069,1e9b9fe55af624739ab4dad2db90e8c2d98473b19d9226faee231e820f6f8aa6,550,414,0.752727,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T13:14:33Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_011|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_011,modernize,"I discovered Wemmick was the clerk in the next office. Another clerk was called down from upstairs to cover his desk while he was away, and I walked out with him after saying goodbye to my guardian. We found a group of people hanging outside the door, but Wemmick pushed through them calmly yet firmly, declaring, 'I’m telling you, it’s pointless; he won’t speak to any of you,' and we quickly escaped them, walking side by side.
+
+As we walked, I studied Mr. Wemmick in the daylight. He was a thin, short man with a square, wooden face that looked chiseled with a dull tool. There were dents in his cheeks that might have been dimples if the material were softer and the chisel sharper. The tool had tried—unsuccessfully—to carve a few dents along his nose before giving up entirely. I guessed he was single from the worn state of his clothes, and he seemed to have lost many people in his life; he wore at least four mourning rings plus a brooch showing a woman and a weeping willow beside a tomb with an urn. I also noticed several rings and seals dangling from his watch chain, as if he carried heavy memories of those who’d passed. His eyes were sharp—small, dark, and glittering—with thin, mottled lips that looked like they’d been that way for decades.
+
+'You’ve never been to London before?' Mr. Wemmick asked me.
+
+'No,' I replied.
+
+'I was new here once,' he said. 'Strange to think about now!'
+
+'You know the city well now?'
+
+'Well enough,' he said. 'I know how it works.'
+
+'Is it a dangerous place?' I asked, more to keep talking than out of real concern.
+
+'You can get cheated, robbed, or even murdered here,' he said. 'But there are always people willing to do that—if there’s profit in it.'
+
+'I suppose that makes it worse,' I said.
+
+'You think so?' he countered. 'Seems much the same to me.'
+
+He wore his hat tilted back on his head, staring straight ahead as if the streets held nothing worth noticing. His mouth had a stiff, mechanical smile that I eventually realized was fake—until we reached the top of Holborn Hill, when I saw he wasn’t smiling at all.
+
+'Do you know where Mr. Matthew Pocket lives?' I asked.
+
+'Yes,' he said, pointing westward. 'In Hammersmith, outside London.'
+
+'Is that far?'",0.2,1.0,49d0ce45531f3b7d1343590542c4133f1cf2368fdec9dcaaa6d3ca41dab27069,f7625de83b39f6a6ca65a4d0b1898766b4242ce52dfc466fb72f37d0ff99f205,550,402,0.730909,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T13:14:51Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_011|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_011,simplify,"I discovered Wemmick worked as the clerk in the next office. When he left, another clerk came down from upstairs to replace him, and I walked out with him after saying goodbye to my guardian. We found a group of people waiting outside, but Wemmick pushed through them calmly yet firmly, saying, 'I tell you, it’s no use; he won’t speak to any of you,' and we quickly left them behind, walking side by side.
+
+As we walked, I studied Mr. Wemmick in daylight. He was a thin, short man with a square, wooden face that looked roughly carved with a dull chisel. Some parts might have been meant as dimples, but they looked more like shallow dents. The chisel had tried to shape a few of these over his nose but gave up without smoothing them out. His clothes showed he was a single man—his linen was worn—and he seemed to have lost many people in his life. He wore at least four mourning rings and a brooch depicting a lady, a weeping willow, and a tomb with an urn. I also noticed several rings and seals hanging from his watch chain, as if he carried many memories of friends who had died. His eyes were small, sharp, and black, and his thin, mottled lips gave him a mechanical smile that didn’t reach his face. I guessed he was between forty and fifty years old.
+
+'You were never in London before?'
+'No,' I said.
+'I was new here once,' he replied. 'Strange to think about now!'
+'You know the city well now?'
+'Well enough,' he said. 'I know how it works.'
+'Is it a dangerous place?'
+'You could get cheated, robbed, or even killed in London. But plenty of people would do that to you anywhere.'
+'If you had a grudge with them,' I added, trying to soften the conversation.
+'Oh, I don’t know about grudges,' he said. 'There aren’t many of those. They’ll do it if there’s something in it for them.'
+'That sounds worse.'
+'You think so?' he said. 'Seems much the same to me.'
+
+He wore his hat tilted backward, staring straight ahead as if nothing around him mattered. His smile looked automatic, like a machine. I didn’t realize it was just a fake smile until we reached the top of Holborn Hill.
+
+'Do you know where Mr. Matthew Pocket lives?'
+'Yes,' he said, pointing west. 'At Hammersmith, outside London.'
+'Is that far?'",0.2,1.0,49d0ce45531f3b7d1343590542c4133f1cf2368fdec9dcaaa6d3ca41dab27069,ebe3abb5c3b98f149a473c1ec1d43ec4fc1a21d7cffa2dbfbed04dd2e9c0cf3c,550,409,0.743636,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T13:15:10Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_012|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_012,paraphrase,"Also to Ceylon, particularly for elephant tusks."" ""You’ll require a great many vessels,"" I remarked. ""An entire fleet,"" he replied. Overwhelmed by the grandeur of these ventures, I inquired where the ships he insured primarily operated. ""I haven’t begun underwriting yet,"" he said. ""I’m surveying the field."" Somehow, this approach seemed more fitting for Barnard’s Inn. I declared (with conviction), ""Ah-h!"" ""Indeed,"" he said. ""I’m stationed in a counting-house, surveying the field."" ""Is a counting-house a profitable endeavor?"" I asked. ""To—do you mean for the young man inside it?"" he countered. ""Yes; for you."" ""Well, n-no; not for me,"" he said, calculating carefully. ""Not directly profitable. That is, it yields nothing, and I must—support myself."" This certainly lacked the appearance of profit, and I shook my head as if to suggest such earnings would scarcely allow savings. ""But the key is,"" said Herbert Pocket, ""that you observe your surroundings. That’s the vital step. You’re in a counting-house, you see, and you observe."" It struck me as odd that one couldn’t leave a counting-house and still observe; yet I quietly yielded to his experience. ""Then the moment arrives,"" Herbert continued, ""when you spot your opportunity. You seize it, you capitalize on it, and there you are! Once you’ve secured your capital, you simply deploy it."" This mirrored his strategy in that garden encounter; precisely so. His manner of enduring poverty aligned with how he bore that earlier defeat. It seemed he accepted all hardships now with the same composure he had shown then. Clearly, he possessed only the barest essentials, as everything I commented on had been sent from the coffee-house or elsewhere. Yet, despite his imagined fortune, his humility was striking. I felt grateful he bore no arrogance. It was a charming trait, and we grew quite close. That evening, we strolled the streets and attended the theatre at half-price; the next day, we visited Westminster Abbey and wandered the Parks, where I pondered who shod all the horses and wished Joe did. On a modest estimate, it had been months since I left Joe and Biddy. The time between us stretched vast, and our marshes felt distant. The notion of attending our old church in my former Sunday clothes on the final Sunday ever seemed an impossible convergence of geography and fate. Yet in London’s bustling, glow-lit streets at dusk, shadows of guilt lingered for having left the humble kitchen so far behind; and in the dead of night, the hollow tread of some inept porter wandering Barnard’s Inn, feigning vigilance, echoed in my chest.",0.2,1.0,9db0757c51b0f209a40599e17787db71a8cdd618ada332fd4ae1e45bbef6c348,b73663867879bc9b0de36c98f15e4779ae20dfbd74490263c8c6077c65208c42,594,428,0.720539,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T13:15:29Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_012|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_012,modernize,"Also to Sri Lanka, especially for elephant tusks."" ""You’ll need a lot of ships,"" I said. ""A whole fleet,"" he replied. I was completely overwhelmed by the grandeur of these deals, so I asked him where the ships he insured mainly traded to right now? ""I haven’t started insuring anything yet,"" he said. ""I’m just looking around."" For some reason, that activity seemed more typical of Barnard’s Inn. I said (with conviction), ""Ah-h!"" ""Right. I work in an office, and I’m looking around."" ""Is an office job profitable?"" I asked. ""Do you mean for the guy who works there?"" he asked in reply. ""Yeah. For you."" ""Well, no—not really. Not directly. It doesn’t pay me anything, and I have to cover my own expenses."" This definitely didn’t sound profitable, and I shook my head like it would be hard to save much money from such a job. ""But the thing is,"" said Herbert Pocket, ""you keep your eyes open. That’s the key. You work in an office, you know, and you keep your eyes open."" It struck me as odd that you couldn’t be outside an office and still look around, but I stayed quiet and trusted his experience. ""Then the time comes,"" said Herbert, ""when you spot your chance. You grab it, make your fortune, and there you are! Once you’ve made your money, you just invest it."" This sounded exactly like how he’d handled that fight in the garden; exactly the same approach. His attitude toward poverty matched his attitude toward that loss too. It seemed he took every hardship now with the same calm he’d shown when I’d wronged him. It was obvious he had only the bare essentials, since everything I noticed in his place turned out to have been sent over from the café or somewhere else. Yet, even though he’d already imagined himself rich, he was so humble about it that I actually appreciated him for not acting smug. It made his naturally friendly personality even more appealing, and we got along great. That evening we walked around the city, got half-price tickets to the theater, and the next day we visited Westminster Abbey and strolled through the parks. I wondered who took care of all the horses there and hoped Joe did. On a rough estimate, it had been months since I’d left Joe and Biddy. The time between us had stretched out, and our marshes felt far away. The idea that I could’ve been at our old church in my old church clothes on the last Sunday ever seemed impossible—geographically, socially, even cosmically. Yet in the London streets, packed with people and glowing under evening lights, there was a nagging guilt about how far I’d pushed that poor kitchen at home. And in the dead of night, the muffled footsteps of some lazy night guard pretending to guard Barnard’s Inn echoed emptily in my chest.",0.2,1.0,9db0757c51b0f209a40599e17787db71a8cdd618ada332fd4ae1e45bbef6c348,f02b87469419ddd7b87b00efc64253f9982642bcf8ecc974722243966dc07fb6,594,485,0.816498,warning,json_extracted;length_soft_warning,json_extracted,2026-06-02T13:15:47Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_012|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_012,simplify,"Also to Ceylon, especially for elephant tusks."" 
+
+""You’ll need a lot of ships,"" I said.
+
+""A whole fleet,"" he said.
+
+I was overwhelmed by how big these business deals were. I asked him where the ships he insured usually traded.
+
+""I haven’t started insuring yet,"" he replied. ""I’m still looking for opportunities.""
+
+Somehow, that sounded more like what people at Barnard’s Inn did. I said (with confidence), ""Ah-h!""
+
+""Yes. I work in an office, and I’m looking for opportunities.""
+
+""Is working in an office profitable?"" I asked.
+
+""Do you mean for the person working there?"" he asked in return.
+
+""Yes; for you.""
+
+""Well, no—not for me,"" he said, pausing to think carefully. ""Not directly profitable. That is, it doesn’t pay me anything, and I have to—cover my own expenses.""
+
+This didn’t sound profitable at all, and I shook my head as if to say it would be hard to save much money from such a job.
+
+""But the thing is,"" said Herbert Pocket, ""you keep looking for opportunities. That’s the important part. You’re in an office, you know, and you keep looking.""
+
+It struck me as odd that you couldn’t leave an office and look for opportunities, but I kept quiet and trusted his experience.
+
+""Then the time comes,"" said Herbert, ""when you spot your chance. You grab it, you make your fortune, and then there you are! Once you’ve made your money, you just use it.""
+
+This sounded exactly like how he handled that fight in the garden. His way of dealing with poverty matched how he handled that loss too. I could see he had only the bare essentials, since everything I noticed had been sent to him from a coffeehouse or somewhere else.
+
+Still, even though he’d already imagined himself rich, he was humble about it. I was grateful he wasn’t arrogant. It made his naturally friendly nature even more pleasant, and we got along well. In the evening we walked in the streets, saw a play at a discount price, and the next day visited Westminster Abbey and walked in the parks. I wondered who shoed all the horses there and wished Joe did.
+
+It had been months, at least, since I left Joe and Biddy. The time between us felt stretched out, and our marshes seemed far away. The idea of being back at our old church in my old Sunday clothes on the last possible Sunday seemed impossible—like a mix of impossible geography, social rules, and even the movement of the sun and moon. Yet in London’s crowded streets, lit up so brightly in the evening dusk, I felt guilty for leaving the simple kitchen at home so far behind. And in the middle of the night, the footsteps of some lazy porter pretending to guard Barnard’s Inn echoed emptily in my chest.",0.2,1.0,9db0757c51b0f209a40599e17787db71a8cdd618ada332fd4ae1e45bbef6c348,6ff45a41fde724a4c4c8f17d3e216a123bd6570f1883c97077ba86f6334d4c58,594,472,0.794613,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T13:16:05Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_013|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_013,paraphrase,"I inquired whether there were many clerks, and he responded, 'We don’t have many clerks since there’s only one Jaggers, and clients won’t settle for second-best. There are four of us total. Would you care to meet them? You’re one of us, in a sense.' I agreed. After Mr. Wemmick placed leftover biscuits in the post and handed me my wages from a cashbox secured in a safe—its key hidden down his back and retrieved like a metal pigtail from his coat collar—we ascended. The building was dim and worn, its greasy stains on the walls suggesting years of shuffling footsteps. On the first floor, a clerk resembling a publican crossed with a rat-catcher—a pale, puffy, bloated man—handled three or four disheveled clients with the same brusque efficiency shown to all who funded Mr. Jaggers’ work. 'Gathering evidence for the Bailey,' Wemmick remarked as we passed. In the room above, a small, flabby clerk with unkempt hair (clearly forgotten during his puppyhood grooming) dealt with a man whose weak eyes and sweat-dampened brow suggested he was a metalsmith perpetually at his forge. A back room housed a hunched figure in waxed black garments, his face wrapped in soiled flannel, copying notes from the others for Mr. Jaggers’ use. This completed the staff. Returning downstairs, Wemmick led me to my guardian’s office, saying, 'You’ve already seen this.' 'Pray,' I asked, as the two grotesque masks with their twitching expressions reappeared, 'whose faces are those?' 'These?' he said, climbing onto a chair to dust the heads before lowering them. 'Two famous clients who brought us great renown. This fellow (you must’ve crept in at night and dabbed ink on your brow, you old rogue!) killed his master and planned it quite well for someone untrained in evidence.' 'Does it resemble him?' I asked, recoiling as Wemmick spat on the mask’s eyebrow and rubbed it with his sleeve. 'Resemble? It’s him exactly, cast in Newgate shortly after his arrest. Had a particular fondness for me, didn’t you, Old Artful?' he added, tapping his brooch of a woman beside a weeping willow and urn. 'Had it made for me, express!' 'Is the woman someone?' I asked. 'No,' he replied. 'Just his game. (You enjoyed your little game, didn’t you?)'",0.2,1.0,f00e6691333b74ea030e1ac75697bdf5b9193e56e0a6b269f7434c94676e1704,5c06383c63f513d6cf9fe614faae562bc1d044910d15c5ff5002b65ef70bd2c4,554,379,0.684116,warning,json_extracted;passage_id_mismatch;length_hard_warning,json_extracted,2026-06-02T13:16:26Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_013|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_013,modernize,"I asked if there were many clerks. He responded, 'We don’t have a lot of them since there’s only one Jaggers, and clients won’t settle for second-best. There are just four of us. Want to meet the others? You could say you’re part of the team.'
+
+I agreed. After Mr. Wemmick stuffed the leftover biscuits into the postbox and paid me from a cashbox in a safe—its key hidden down his back and fished out like an iron pigtail from his coat collar—we went upstairs. The building looked dingy and run-down, and the greasy smudges on the walls suggested someone had been shuffling up and down those stairs for decades. On the first floor, a clerk resembling a pub owner crossed with a pest controller—a large, pale, puffy man—was hunched over three or four disheveled people he treated as rudely as everyone else who paid Mr. Jaggers. 'Gathering evidence for the Bailey,' Wemmick muttered as we passed. In the room above, a flabby, terrier-like clerk with lank hair (clearly forgotten to trim when he was a pup) was dealing with a man whose weak eyes made him squint. Wemmick introduced him as 'a smelter who keeps his pot boiling and can melt anything you want—though he’s sweating so hard he might’ve tried melting himself.' In the back room, a hunched man with high shoulders and a face wrapped in dirty flannel, dressed in wax-stained old suits, was copying notes from the other two clerks for Mr. Jaggers.
+
+That was the whole operation. When we returned downstairs, Wemmick led me into my guardian’s office and said, 'You’ve already seen this room.'
+
+'I mean,' I said, noticing the two grotesque heads with their creepy grins again, 'whose faces are those?'
+
+'These?' Wemmick climbed onto a chair, brushed dust off the heads before lowering them. 'Two famous clients who brought us tons of business. This guy—(you must’ve sneaked in at night and stuck your face in an inkwell to get that smudge here, you old creep!)—killed his boss. And considering he wasn’t trained for it, he did a decent job planning it.'
+
+'Is that really him?' I asked, backing away as Wemmick spat on the head and wiped it with his sleeve.
+
+'Real as can be,' he said. 'Cast made at Newgate right after they hanged him. You had a soft spot for me, didn’t you, Old Artful?' He pointed to his brooch—a woman and willow tree beside a tomb with an urn—and explained, 'He had this custom-made for me.'
+
+'Is the woman someone important?'
+
+'Nope,' Wemmick said. 'Just his little game. (You enjoyed your little game, didn’t you?)'",0.2,1.0,f00e6691333b74ea030e1ac75697bdf5b9193e56e0a6b269f7434c94676e1704,6b36db1e15a108a79db165e0d6b463b2c681070e07185c3ba80bc02366b1b1af,554,445,0.803249,warning,json_extracted;length_soft_warning,json_extracted,2026-06-02T13:16:48Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_013|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_013,simplify,"I asked if there were many clerks. He answered, 'We don't have many clerks because there's only one Jaggers, and people won't settle for a second-best version. There are only four of us. Would you like to meet them? You're one of us now, as it were.'
+
+I agreed. After Mr. Wemmick placed leftover biscuits in the postbox and paid me from a cashbox inside a locked safe (he kept the key hidden down his back and pulled it from his coat collar like a metal pigtail), we went upstairs. The building looked old and run-down. Greasy stains on the walls suggested people had been trudging up and down these stairs for years. 
+
+On the first floor, a clerk who looked like a mix between a pub owner and a rat catcher - a large, pale, puffy man - was rudely dealing with three or four shabby-looking people. 'Gathering evidence for the Bailey,' Mr. Wemmick explained as we passed. In the room above, a small, soft clerk with long, unkempt hair (clearly forgotten to clip as a puppy) worked with a man with weak eyes. 'He's a smelter who keeps his furnace burning,' Wemmick introduced, 'and will melt anything you want - though he looks like he tried melting himself.' In the back room, a man with high shoulders and a face wrapped in dirty flannel (wearing old black clothes that looked waxed) hunched over copying notes from the other clerks for Mr. Jaggers.
+
+That was the whole office. When we returned downstairs, Wemmick led me to my guardian's room and said, 'You've already seen this room.'
+
+'What about these two faces?' I asked, noticing the grotesque masks with their twitching expressions. 'These?' Wemmick climbed onto a chair, brushed dust off the heads before lowering them. 'Famous clients who brought us great business. This man (you must have sneaked in at night and smudged ink on your brow, you old villain!) killed his master. And planned it well for someone with no training.'
+
+'Does it look like him?' I asked, recoiling as Wemmick spat on the mask's brow and rubbed it with his sleeve.
+
+'It is him,' Wemmick said. 'The mold was made in Newgate right after his arrest. You had a soft spot for me, didn't you, Old Artful?' He pointed to his brooch of a woman and weeping willow over a tomb with an urn, 'He had this made just for me!'
+
+'Is the woman real?' I asked.
+
+'No,' Wemmick replied. 'Just his game. (You enjoyed your little game, didn't you?)'",0.2,1.0,f00e6691333b74ea030e1ac75697bdf5b9193e56e0a6b269f7434c94676e1704,3cca617bcb8276c7b9269964621f9c15bd4dca9277a5cb0d254e1e40c8f6be24,554,420,0.758123,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T13:17:15Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_014|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_014,paraphrase,"Who’s the Spider?""
+
+""The spider?"" I echoed.
+
+""The splotchy, sprawling, glum-looking man,"" he specified.
+
+""That’s Bentley Drummle,"" I answered. ""The one with the refined features is Startop.""
+
+Disregarding the mention of the delicate-faced man entirely, he remarked, ""Bentley Drummle is his name, is it? I find that fellow’s appearance agreeable.""
+
+He promptly engaged Drummle in conversation, undeterred by the man’s terse, unresponsive replies. If anything, Drummle’s silence seemed to embolden him, coaxing words from the reluctant speaker. As I observed them, the housekeeper arrived, bearing the first dish for the meal.
+
+I judged her to be approximately forty—though my estimation might have been off. Slender and agile, she stood tall with pallid skin, large faded eyes, and abundant flowing hair. I cannot confirm whether a cardiac ailment caused her lips to part as if gasping, or her face to wear an odd, flustered expression. Yet I recall attending Macbeth at the theater days prior, and her countenance seemed to me like those faces emerging from the witches’ cauldron, agitated by fiery air.
+
+She placed the dish on the table, lightly tapped my guardian’s arm to signal dinner was served, then vanished. We seated ourselves at the round table, with my guardian positioning Drummle to his left and Startop to his right. The housekeeper had presented a magnificent fish dish, followed by equally fine mutton and a choice fowl. Sauces, wines, and all accompaniments—each of the highest quality—were dispensed by our host from his dumbwaiter. After circulating the table, he returned them to storage. Likewise, he distributed fresh plates, knives, and forks for each course, discarding the used ones into baskets beneath his chair. No other servant appeared besides the housekeeper, who set each dish before us. Her face, I noted, continued to resemble one rising from a cauldron. Years later, I inadvertently replicated this woman’s visage by having another face—unrelated save for its flowing hair—emerge behind a bowl of flaming spirits in a dimly lit room.
+
+Drawn to observe the housekeeper closely by her striking appearance and Wemmick’s prior warning, I noticed her constant watchfulness over my guardian. When setting food before him, she hesitantly withdrew her hands, as if fearing he might summon her back. She seemed eager for him to speak if he had anything to say. I suspected he was aware of this and deliberately kept her in anticipation.
+
+The meal proceeded cheerfully, though my guardian appeared to follow rather than initiate conversation. Yet I recognized his skill in extracting our most vulnerable traits from us.",0.2,1.0,db0f6e9482429d8e4f32eb38aee208a81be016099bd3bf247a9c3b8aebcb4629,fffdf5bd4a2517f1b73979708159b0e4dfaf73876ffae1e43eee1d0e60d44635,554,424,0.765343,warning,json_extracted;passage_id_mismatch;prompt_or_source_leakage_warning;length_hard_warning,json_extracted,2026-06-02T13:17:33Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_014|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_014,modernize,"Who’s the Spider?""
+
+""The Spider?"" I asked.
+
+""The blotchy, lanky, sullen-looking guy,"" he said.
+
+""That’s Bentley Drummle,"" I replied. ""The one with the delicate face is Startop.""
+
+Not giving a second thought to ""the one with the delicate face,"" he said, ""Bentley Drummle, you say? I like the look of that guy.""
+
+He immediately started talking to Drummle, undeterred by Drummle’s terse, gruff responses. If anything, Drummle’s silence seemed to push him to pry more. I was watching them when the housekeeper appeared between us, carrying the first dish for dinner.
+
+She looked to be in her forties—though I might have guessed younger. Slim and agile, with a pale complexion, large tired eyes, and a cascade of loose hair. I can’t say for sure if a heart condition caused her lips to part as if she were gasping, or if her face had that odd, fluttering quality. But I’d seen Macbeth at the theater a couple nights earlier, and her face reminded me of the ones rising from the witches’ cauldron, all agitated by fire.
+
+She placed the dish down, tapped my guardian’s arm lightly to signal dinner was ready, then vanished. We sat at the round table, my guardian seating Drummle to his left and Startop to his right. The housekeeper had served an impressive fish dish, followed by equally fine mutton and a bird. Sauces, wines, and all the fixings came from the host’s dumbwaiter, each item passed around the table before being returned. He handed out clean plates, knives, and forks for each course, tossing the used ones into two baskets under his chair. No one else waited on us. The housekeeper brought every dish, and every time I saw her face—like a ghost emerging from a boiling cauldron. Years later, I’d accidentally recreate her image by having someone with similar flowing hair appear behind a bowl of flaming spirits in a dark room.
+
+Drawn to notice the housekeeper both because of her striking look and Wemmick’s warning, I noticed she always kept her eyes locked on my guardian. When setting a dish before him, she’d hesitate to remove her hands, as if afraid he’d call her back. She seemed to wait anxiously for him to speak if he had anything to say. I thought I could sense his awareness of this, a deliberate effort to keep her in suspense.
+
+Dinner was lively, though my guardian mostly followed conversations rather than leading them. Still, I knew he had a way of dragging out our worst tendencies.",0.2,1.0,db0f6e9482429d8e4f32eb38aee208a81be016099bd3bf247a9c3b8aebcb4629,0b5b23efd45fd8590c8b62806b9ced8601a67794502f0b709ab702ffc5d5c65b,554,421,0.759928,warning,json_extracted;passage_id_mismatch;length_hard_warning,json_extracted,2026-06-02T13:17:51Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_014|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_014,simplify,"Who’s the Spider?""
+
+""The spider?"" I asked.
+
+""The sullen, messy-looking man,"" he said.
+
+""That’s Bentley Drummle,"" I replied. ""The one with the delicate face is Startop.""
+
+He ignored the mention of Startop and said, ""Bentley Drummle, is it? I like the look of that man.""
+
+He immediately started talking to Drummle, not stopped by Drummle’s quiet, gruff replies. Instead, he seemed to use those replies to force conversation out of him. As I watched them, the housekeeper arrived with the first dish for dinner.
+
+She was about forty, maybe younger, I thought. Slim and agile, very pale, with large tired eyes and flowing hair. I’m not sure if her parted lips and startled expression came from a heart condition, but I’d seen Macbeth at the theater recently, and her face reminded me of those stirred by hot air in the witches’ cauldron.
+
+She placed the dish on the table, tapped my guardian’s arm to signal dinner was ready, and vanished. We sat at the round table, with my guardian keeping Drummle on one side and Startop on the other. The housekeeper served a generous fish dish, followed by equally fine mutton and a bird. Sauces, wines, and other fine things came from our host’s dumb-waiter, which he used to pass them around and return them. He gave us clean plates and utensils for each course, collecting the used ones into baskets beside his chair. No one else served except the housekeeper, who placed every dish. I always saw her face as if it rose from a cauldron. Years later, I unintentionally recreated her by having a face with flowing hair appear behind a bowl of flaming spirits in a dark room.
+
+Because of her striking look and Wemmick’s warnings, I noticed how she kept watching my guardian. She hesitated when placing dishes before him, as if afraid he might call her back, and seemed to wait for him to speak if he had something to say. I thought I could see him aware of this, deliberately keeping her in suspense.
+
+Dinner was lively. Though my guardian followed rather than led conversations, I knew he managed to draw out our weakest traits.",0.2,1.0,db0f6e9482429d8e4f32eb38aee208a81be016099bd3bf247a9c3b8aebcb4629,f271d2896b7db16ecd574acd0255bf3632d7e9100eaae426c0b7f37537f13f38,554,361,0.651625,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T13:18:10Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_015|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_015,paraphrase,"One was taller and broader than the other, and by some strange twist of fate, both as a prisoner and a free man, had been given the smaller set of garments. His limbs resembled oversized pincushions, and his clothes rendered him ludicrously unrecognizable—except for the half-shut eye that I instantly identified. There stood the man I had glimpsed slumped on the bench at the Three Jolly Bargemen on a Saturday evening, the one who had struck me down with his unseen weapon!
+
+It was simple to confirm that he still regarded me as a stranger, as though we had never crossed paths. He fixed his gaze on me, his eye lingering on my watch chain, before spitting and muttering to the other prisoner. They chuckled, adjusted their shackled wrists with a metallic clatter, and turned their attention elsewhere. The numbers etched onto their backs, like addresses on alleyways; their coarse, shaggy, awkward frames, as if they belonged to a lesser species; their ironed legs awkwardly wrapped in handkerchiefs; and the way everyone present eyed them while keeping their distance—all these made them (as Herbert had remarked) a profoundly unpleasant and humiliated sight.
+
+Yet this was not the most troubling aspect. It emerged that the entire rear of the carriage had been claimed by a family relocating from London, leaving no space for the two prisoners but the seat in front of the coachman. Upon this revelation, a fiery gentleman who had secured the fourth spot on that bench erupted into a furious tirade, declaring it a violation of contract to be grouped with such wicked company. He called it toxic, harmful, disgraceful, and a host of other epithets. At that moment, the carriage was ready, the driver impatient, and all of us preparing to board, while the prisoners arrived with their guard—carrying that peculiar scent of bread poultices, burlap, twine, and hearthstones that clung to convicts.
+
+“Please don’t take offense, sir,” the guard implored the irate passenger. “I’ll sit beside you myself. I’ll place them on the outer side of the row. They won’t trouble you, sir. You needn’t acknowledge their presence.”
+
+“And don’t hold it against me,” grumbled the prisoner I had recognized. “I’d be happy to stay behind. Anyone’s welcome to my seat.”
+
+“Or mine,” the other growled. “I wouldn’t have disturbed any of you if I’d had my way.” Then they both laughed, began cracking nuts, and flung the shells around. —A truth I suspect I’d share if I were in their position and treated with such disdain.
+
+Eventually, it was decided there was no remedy for the gentleman’s fury; he would either travel with his reluctant companions or remain stranded. He took his seat, still grumbling, the guard sat beside him, and the prisoners climbed aboard as best they could. The one I had recognized settled behind me, his breath brushing the hair on my head.",0.2,1.0,ffdaf7d870a7523b23dab92f97d2209b8d3ab57d7f4f3a60b7449f2efe8e8818,45d5ae04e2326dba53137b00de4f98fcef83bdc8b55ba394eb62cdd81d73ffcf,564,483,0.856383,warning,json_extracted,json_extracted,2026-06-02T13:18:30Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_015|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_015,modernize,"One was a taller, sturdier man than the other, and according to the strange logic of the world—both convicts and free men—he’d obviously been given the smaller set of clothes. His arms and legs looked like giant pincushions, and his outfit made him look ridiculous, but I recognized his half-closed eye instantly. There stood the man I’d seen slumped on the bench at the Three Jolly Bargemen on a Saturday night, the one who’d knocked me out with his invisible gun!
+
+It was easy to tell he didn’t recognize me at all. He glanced at me, checked out my watch chain, then spat and muttered something to the other convict. They laughed, clinked their linked manacles, and turned to look at something else. The big numbers on their backs, like apartment numbers; their rough, scruffy, awkward appearance, like they were lower animals; their ironed legs awkwardly wrapped in handkerchiefs; and the way everyone else stared at them and kept their distance—all of it made them (as Herbert had said) an ugly, degrading sight.
+
+But that wasn’t the worst part. It turned out the whole back of the coach had been taken over by a family moving from London, so there were no seats left for the two prisoners except on the front bench behind the driver. An angry man who’d already claimed the fourth spot on that bench exploded into a furious rant, calling it a betrayal to force him to ride with such a rotten crowd. He called it toxic, dangerous, disgraceful, and a bunch of other insults. The coach was ready, the driver was impatient, and we were all scrambling to board while the prisoners arrived with their guard—carrying that weird mix of bread poultices, burlap, rope scraps, and hearth dust that always clung to convicts.
+
+“Don’t take it so hard, sir,” the guard pleaded with the angry passenger. “I’ll sit next to you myself. I’ll put them on the outside. They won’t bother you. You don’t even have to notice them.”
+
+“And don’t blame me,” growled the convict I’d recognized. “I don’t want to go. I’d be happy to stay here. As far as I’m concerned, anyone can have my seat.”
+
+“Or mine,” the other convict grumbled. “I wouldn’t have messed with any of you if I’d had my way.” Then they both laughed, cracked open nuts, and tossed the shells around. Honestly, if I’d been in their shoes and treated like trash, I think I’d have done the same.
+
+Eventually, it was decided the angry man had no choice—he either rode with his new “company” or stayed behind. He grumbled all the way into his seat, the guard sat beside him, and the convicts hauled themselves up as best they could. The one I’d recognized ended up sitting right behind me, his breath on the back of my neck.",0.2,1.0,ffdaf7d870a7523b23dab92f97d2209b8d3ab57d7f4f3a60b7449f2efe8e8818,bc55543750815c19609c228e2ac70732256f1acd7cc654f02c19de14db6f3652,564,478,0.847518,warning,json_extracted;length_soft_warning,json_extracted,2026-06-02T13:18:48Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_015|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_015,simplify,"One man was taller and bigger than the other, but in the strange way the world works, he had been given the smaller set of clothes. His arms and legs looked like thick, bony pincushions, and the clothes made him look ridiculous. Still, I recognized him instantly by his half-closed eye. There stood the man I’d seen sitting at the Three Jolly Bargemen on a Saturday night—the one who had knocked me down with his invisible gun!
+
+It was clear he didn’t recognize me at all. He looked at me, studied my watch chain, then spat and muttered something to the other convict. They laughed, clinked their linked manacles, and turned to look at something else. The numbers stitched on their backs like street addresses, their rough, shabby appearance like animals, their ironed legs clumsily wrapped in handkerchiefs, and the way everyone avoided them made them (as Herbert had said) a deeply unpleasant sight.
+
+But it got worse. The whole back of the coach had been taken by a family moving from London, leaving no seats for the prisoners except the bench in front of the coachman. An angry man who had already claimed the fourth seat on that bench exploded into a furious rage. He shouted that it was a broken contract to force him to sit with such wicked company, calling it poisonous, harmful, disgraceful, and worse. The coach was ready, the driver impatient, and we all prepared to board as the prisoners arrived with their guard, bringing that strange smell of bread poultices, old cloth, rope fibers, and hearthstones that always follows convicts.
+
+“Don’t take it so hard, sir,” the guard pleaded with the angry man. “I’ll sit next to you myself. I’ll put them on the outside. They won’t bother you. You can pretend they’re not there.”
+
+“And don’t blame me,” growled the convict I recognized. “I’d be happy to stay here. Anyone’s welcome to my seat.”
+
+“My seat too,” the other grumbled. “I wouldn’t have bothered anyone if I’d had my way.” They both laughed, cracked nuts, and tossed shells around—something I’d have done myself if I’d been in their place and treated so badly.
+
+In the end, it was decided the angry man had no choice. He could either ride with the convicts or stay behind. He grumbled as he sat down, the guard took the seat beside him, and the convicts climbed up as best they could. The one I recognized ended up sitting right behind me, his breath on the back of my head.",0.2,1.0,ffdaf7d870a7523b23dab92f97d2209b8d3ab57d7f4f3a60b7449f2efe8e8818,d4a46ec98acb4152efc74dcf9b7a66bb14f97ba61660fc65c29d589b48667de3,564,424,0.751773,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T13:19:05Z
