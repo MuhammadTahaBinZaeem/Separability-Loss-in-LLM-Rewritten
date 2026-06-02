@@ -428,6 +428,7 @@ def main() -> int:
             completed_this_run += 1
             continue
 
+        server_error_attempts = 0
         while True:
             elapsed = time.monotonic() - started
             remaining_runtime = args.max_runtime_minutes * 60 - elapsed
@@ -478,6 +479,23 @@ def main() -> int:
                 body = getattr(exc, "body_text", None)
                 if body is None:
                     body = exc.read().decode("utf-8", errors="replace") if hasattr(exc, "read") else ""
+                if 500 <= exc.code < 600:
+                    wait_seconds = min(max(sleep_seconds, 15.0) * (2 ** server_error_attempts), 300.0)
+                    server_error_attempts += 1
+                    if wait_seconds > remaining_runtime - SAFETY_SHUTDOWN_SECONDS:
+                        append_jsonl(raw_path, {
+                            "request_id": req["request_id"],
+                            "status": "paused_server_error_wait_exceeds_remaining_runtime",
+                            "error": f"HTTPError {exc.code}: {body[:800]}",
+                            "requested_wait_seconds": wait_seconds,
+                            "provider_model_name": provider_model_name,
+                            "created_utc": utc_now(),
+                        })
+                        exit_reason = "server_error_wait_exceeds_remaining_runtime_resume_later"
+                        break
+                    print(f"Server error {exc.code}; retrying in {wait_seconds:.1f}s", flush=True)
+                    time.sleep(wait_seconds)
+                    continue
                 append_jsonl(raw_path, {
                     "request_id": req["request_id"],
                     "status": "http_error",
