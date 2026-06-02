@@ -172,6 +172,10 @@ def completed_ids(raw_path: Path) -> set[str]:
     return {row.get("request_id", "") for row in read_jsonl(raw_path) if row.get("status") == "ok"}
 
 
+def scoped_completed_ids(raw_path: Path, request_ids: set[str]) -> set[str]:
+    return completed_ids(raw_path) & request_ids
+
+
 def first_successful_rows(raw_rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
     seen: set[str] = set()
     deduped = []
@@ -342,7 +346,9 @@ def write_outputs(
     ])
 
     counts = Counter(r["qc_status"] for r in parsed_rows)
-    remaining = len(requests) - len(completed_ids(raw_path))
+    request_ids = {req["request_id"] for req in requests}
+    raw_ok_rows_total = len(scoped_completed_ids(raw_path, request_ids))
+    remaining = len(requests) - raw_ok_rows_total
     proof_path.parent.mkdir(parents=True, exist_ok=True)
     proof_path.write_text(
         "# E1 Groq Free-Model Generation Report\n\n"
@@ -353,7 +359,7 @@ def write_outputs(
         f"- passages_per_author: {args.passages_per_author}\n"
         f"- planned_requests_this_scope: {len(requests)}\n"
         f"- completed_this_run: {completed_this_run}\n"
-        f"- raw_ok_rows_total: {len(completed_ids(raw_path))}\n"
+        f"- raw_ok_rows_total: {raw_ok_rows_total}\n"
         f"- remaining_requests: {remaining}\n"
         f"- parsed_rows_total: {len(parsed_rows)}\n"
         f"- qc_pass_rows: {counts.get('pass', 0)}\n"
@@ -561,7 +567,8 @@ def main() -> int:
     print(f"Target: {args.target}")
     print(f"Provider model: {provider_model_name}")
     print(f"Completed this run: {completed_this_run}")
-    print(f"Raw OK rows total: {len(completed_ids(raw_path))}/{len(requests)}")
+    request_ids = {req["request_id"] for req in requests}
+    print(f"Raw OK rows total: {len(scoped_completed_ids(raw_path, request_ids))}/{len(requests)}")
     print(f"Parsed rows total: {len(parsed_rows)}")
     print(f"QC pass/warning/fail: {counts.get('pass', 0)}/{counts.get('warning', 0)}/{counts.get('fail', 0)}")
     print(f"Exit reason: {exit_reason}")
