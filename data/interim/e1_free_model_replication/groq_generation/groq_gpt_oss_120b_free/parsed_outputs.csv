@@ -1313,3 +1313,97 @@ I followed the candle down, just as I had followed it up, and she placed it wher
 Alone in the courtyard, I examined my rough hands and plain boots. I did not think kindly of those items. They had never bothered me before, but now they seemed vulgar appendages. I resolved to ask Joe why he ever taught me to call those picture cards Jacks, when they ought to be called knaves. I wished Joe had been brought up more genteel, so that I might have been, too.
 
 She returned with a bit of bread, some meat, and a small mug of beer. She set the mug on the stone floor and handed me the bread and meat without looking at me, as insolently as if I were a disgraced dog.",0.2,1.0,07a0ea30ecbd37cccdc1f8062c0971291bac65c7ef08ed20c59b398e289b2bba,1edfa191031a8025aadb2d71dac3b7c6d05e61f632eba832a8aa0278c6029a8e,579,505,0.872193,pass,,json_ok,2026-06-02T09:39:50Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_004|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_004,modernize,"“You never say anything about her,” Miss Havisham said, watching me. “She says a lot of harsh things about you, but you never say anything about her. What do you think of her?”
+
+“I don’t know how to say it,” I stammered.
+
+“Tell me quietly,” she said, leaning down.
+
+“I think she’s very proud,” I whispered.
+
+“Anything else?”
+
+“She’s very pretty.”
+
+“Anything else?”
+
+“She’s very insulting.” (She gave me a look of utter disgust.)
+
+“Anything else?”
+
+“I’d like to go home.”
+
+“And never see her again, even though she’s so pretty?”
+
+“I’m not sure I don’t want to see her again, but I do want to go home now.”
+
+“You’ll go soon,” Miss Havisham said aloud. “Play the game out.”
+
+Except for that odd smile at the start, I was almost certain Miss Havisham’s face could never really smile. It had settled into a watchful, brooding expression—probably because everything about her seemed frozen—and it looked as if nothing could ever lift it again. Her shoulders had slumped, making her stoop; her voice had dropped, so she spoke low, with a dead lull to it; overall, she seemed to have let both body and soul sink under the weight of a crushing blow.
+
+I played the game to the end with Estella, and she broke me. She threw the cards down on the table when she had won them all, as if she despised them for having been taken from me.
+
+“When will I see you again?” Miss Havisham asked. “Let me think.”
+
+I was about to remind her that today was Wednesday when she snapped at me with the impatient flick of her right hand.
+
+“There, there! I don’t keep track of days of the week; I don’t keep track of weeks of the year. Come back in six days. Got it?”
+
+“Yes, ma’am.”
+
+“Estella, bring him something to eat, and let him wander around while he eats. Go, Pip.”
+
+I followed the candle down, just as I had followed it up, and she placed it where we had found it. Until she opened the side door, I had imagined, without really thinking, that it must be night. The rush of daylight confused me, making me feel as if I had been in that strange candlelit room for hours.
+
+“You wait here, boy,” Estella said, then disappeared and shut the door.
+
+I used the moment alone in the courtyard to look at my rough hands and plain boots. I didn’t like how they looked. They had never bothered me before, but now they seemed like crude accessories. I decided I would ask Joe why he ever taught me to call those picture cards Jacks, when they should be called knaves. I wished Joe had been brought up a bit more genteel, so I might have been, too.
+
+She returned with some bread, meat, and a small mug of beer. She set the mug on the stone floor and handed me the bread and meat without looking at me, as insolently as if I were a disgraced dog.",0.2,1.0,07a0ea30ecbd37cccdc1f8062c0971291bac65c7ef08ed20c59b398e289b2bba,5bf7525960f8b73cb59b7cdc9617dc7b9d45594d84c50b702fbd4a277a3165b8,579,509,0.879102,pass,,json_ok,2026-06-02T09:47:31Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_004|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_004,simplify,"“You never say anything about her,” Miss Havisham said, watching me. “She says many harsh things about you, but you say nothing about her. What do you think of her?”
+
+“I don’t know how to say it,” I stammered.
+
+“Tell me quietly,” she said, leaning down.
+
+“I think she is very proud,” I whispered.
+
+“Anything else?”
+
+“She is very pretty.”
+
+“Anything else?”
+
+“She is very insulting.” (She looked at me with complete disgust.)
+
+“Anything else?”
+
+“I would like to go home.”
+
+“And never see her again, even though she’s so pretty?”
+
+“I’m not sure I don’t want to see her again, but I do want to go home now.”
+
+“You will go soon,” Miss Havisham said aloud. “Finish the game.”
+
+Except for the odd smile at the start, I was almost certain Miss Havisham could not smile at all. Her face was fixed in a watchful, brooding look, as if everything about her had become frozen, and nothing could lift it again. She hunched her shoulders, and her voice dropped low, sounding dead and lullaby‑like; she seemed to have both body and soul pressed down by a crushing weight.
+
+I played the game to the end with Estella, and she ruined me. She threw the cards down on the table when she had won them all, as if she despised the fact that she had taken them from me.
+
+“When shall I have you here again?” Miss Havisham asked. “Let me think.”
+
+I began to remind her that today was Wednesday, when she snapped at me with the impatient flick of her right hand.
+
+“There, there! I don’t know the days of the week; I don’t know the weeks of the year. Come back in six days. Understand?”
+
+“Yes, ma’am.”
+
+“Estella, take him down. Let him have something to eat, and let him walk around while he eats. Go, Pip.”
+
+I followed the candle down, just as I had followed it up, and she placed it where we had found it. Until she opened the side door, I had imagined, without thinking, that it must be night. The sudden rush of daylight confused me, making me feel as if I had been in that candle‑lit room for many hours.
+
+“You wait here, boy,” Estella said, then disappeared and closed the door.
+
+Alone in the courtyard, I looked at my rough hands and plain boots. I didn’t like how they looked now; they seemed vulgar. I thought about asking Joe why he ever taught me to call those picture cards Jacks, when they should be called knaves. I wished Joe had been brought up more genteel, so I might have been, too.
+
+She returned with some bread, meat, and a small mug of beer. She set the mug on the stone floor and handed me the bread and meat without looking at me, as insolently as if I were a disgraced dog.",0.2,1.0,07a0ea30ecbd37cccdc1f8062c0971291bac65c7ef08ed20c59b398e289b2bba,9cb2b0168e9e46e0a730208bdd773b9fc5c8920c26938068d0f443ca1ed3d837,579,483,0.834197,warning,length_soft_warning,json_ok,2026-06-02T09:55:09Z
