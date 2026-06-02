@@ -172,6 +172,20 @@ def completed_ids(raw_path: Path) -> set[str]:
     return {row.get("request_id", "") for row in read_jsonl(raw_path) if row.get("status") == "ok"}
 
 
+def first_successful_rows(raw_rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    seen: set[str] = set()
+    deduped = []
+    for row in raw_rows:
+        if row.get("status") != "ok":
+            continue
+        request_id = row.get("request_id", "")
+        if not request_id or request_id in seen:
+            continue
+        seen.add(request_id)
+        deduped.append(row)
+    return deduped
+
+
 def parse_duration_seconds(value: str | None) -> float | None:
     if not value:
         return None
@@ -271,9 +285,7 @@ def extract_response_text(response: dict[str, Any]) -> str:
 
 def parse_and_qc(raw_rows: list[dict[str, Any]], request_map: dict[str, dict[str, Any]]) -> list[dict[str, Any]]:
     parsed_rows = []
-    for raw in raw_rows:
-        if raw.get("status") != "ok":
-            continue
+    for raw in first_successful_rows(raw_rows):
         req = request_map.get(raw["request_id"])
         if not req:
             continue
