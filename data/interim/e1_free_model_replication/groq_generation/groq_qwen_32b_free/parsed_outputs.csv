@@ -289,3 +289,268 @@ Mr. Woodhouse hesitated. ""Not nearly as often, my dear, as I would desire.""
 ""I believe,"" said John Knightley with a smile, ""Mr. Weston has some claim to consideration. You and I, Emma, might fairly take the husband's side. Being a husband myself, and you not being a wife, we might both appreciate the man's perspective equally. As for Isabella, she's been married long enough to understand the value of setting aside all Mr. Westons when possible.""
 
 ""Me?"" cried his wife, misunderstanding. ""Are you speaking of me? I assure you, no one values marriage more than I do. If it weren't for the pain of Miss Taylor leaving Hartfield, I'd consider her the happiest woman alive. As for slighting Mr. Weston—such a noble man! I believe he deserves all good things. I've never met a man with such a temper as he, except perhaps yourself and your brother. I'll never forget how he flew Henry's kite that windy Easter day, or how he wrote that note last September to reassure me there was no scarlet fever at Cobham. Since then, I've known there's no finer heart or better man in existence.""",0.2,1.0,8afe066b6564a8c56ba47b88bb9710975918f796dbc5c0da1a81e0cc3f99a62f,0271f03f50b7d6fc689d3c20ffe3030ca0c75175f46bb0890500ccc68b6ec537,563,423,0.751332,warning,json_extracted;length_hard_warning,json_extracted,2026-06-01T20:03:39Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_006|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_006,modernize,"<think>
+Okay, let's tackle this modernization task. The user wants the passage rewritten in contemporary English while keeping the original structure and content intact. First, I need to identify archaic or old-fashioned phrases from the 19th century and replace them with modern equivalents.
+
+Starting with the first line: ""Papa is only speaking his own regret.” The word ""Papa"" is still okay, but maybe ""speaking his own regret"" could be more natural. Perhaps ""just expressing his own regret"" sounds more modern.
+
+Next, ""Very much to the honour of both,"" was the handsome reply. ""Handsome reply"" might be a bit old-fashioned. Maybe ""flattering response"" or ""complimentary reply"" would work better. Let's go with ""flattering response.""
+
+Moving on to Isabella's question: ""And do you see her, sir, tolerably often?"" ""Tolerably often"" is a bit archaic. Changing it to ""often enough"" makes it more contemporary.
+
+Mr. Woodhouse's hesitation: ""Not near so often, my dear, as I could wish."" ""My dear"" can be replaced with ""dear"" or just omitted. Maybe ""Not nearly as often as I'd like, dear.""
+
+The part about missing seeing them: ""we have missed seeing them but one entire day since they married."" ""But one entire day"" could be ""only one full day."" Also, ""have we seen either Mr. Weston or Mrs. Weston, and generally both"" might be rephrased to ""we've seen either Mr. Weston or Mrs. Weston, and usually both.""
+
+""Either in the morning or evening of every day, excepting one"" becomes ""either morning or evening of every day except one.""
+
+""Very, very kind in their visits. Mr. Weston is really as kind as herself."" ""Very, very kind"" can be ""extremely kind."" Also, ""as kind as herself"" might be ""as kind as she is.""
+
+""Papa, if you speak in that melancholy way, you will be giving Isabella a false idea of us all."" ""Melancholy way"" could be ""gloomy tone"" or ""sad tone."" Maybe ""if you speak in such a gloomy tone, you'll give Isabella the wrong impression.""
+
+""Every body must be aware that Miss Taylor must be missed"" becomes ""Everyone knows Miss Taylor is missed.""
+
+""Every body ought also to be assured that Mr. and Mrs. Weston do really prevent our missing her by any means to the extent we ourselves anticipated—which is the exact truth."" This is a bit wordy. Maybe ""Everyone should also realize that Mr. and Mrs. Weston have really helped us not miss her as much as we thought we would—that's the truth.""
+
+""Just as it should be,"" said Mr. John Knightley. That's fine, maybe ""That's exactly how it should be.""
+
+""Her wish of shewing you attention could not be doubted"" becomes ""Her desire to show you attention is clear.""
+
+""His being a disengaged and social man makes it all easy."" ""Disengaged"" here probably means single, so ""being a single and sociable man makes it all easy.""
+
+""I have been always telling you, my love, that I had no idea of the change being so very material to Hartfield as you apprehended."" ""Material"" here means significant, so ""I've always told you, my love, that I didn't think the change would be as significant to Hartfield as you feared.""
+
+""and now you have Emma’s account, I hope you will be satisfied."" Maybe ""and now that you've heard Emma's account, I hope you're satisfied.""
+
+""why, to be sure,"" said Mr. Woodhouse—“yes, certainly—I cannot deny that Mrs. Weston, poor Mrs. Weston, does come and see us pretty often—but then—she is always obliged to go away again."" ""To be sure"" can be ""Well, of course."" ""Poor Mrs. Weston"" might be ""poor Mrs. Weston"" is okay. ""Pretty often"" is modern. ""But then she always has to leave again.""
+
+""It would be very hard upon Mr. Weston if she did not, papa.—You quite forget poor Mr. Weston."" ""Very hard upon"" could be ""very hard on."" ""You quite forget"" might be ""You're forgetting.""
+
+""I think, indeed,"" said John Knightley pleasantly, “that Mr. Weston has some little claim."" ""Indeed"" can be ""Actually,"" and ""some little claim"" as ""some claim.""
+
+""You and I, Emma, will venture to take the part of the poor husband."" ""Take the part of"" could be ""support"" or ""stand up for."" Maybe ""We'll both stand up for the poor husband.""
+
+""I, being a husband, and you not being a wife, the claims of the man may very likely strike us with equal force."" ""Strike us with equal force"" is a bit archaic. Maybe ""we're likely to understand his situation just as well.""
+
+""As for Isabella, she has been married long enough to see the convenience of putting all the Mr. Westons aside as much as she can."" ""Putting all the Mr. Westons aside"" might be ""limiting her time with Mr. Weston as much as possible.""
+
+""Me, my love,"" cried his wife, hearing and understanding only in part.—“Are you talking about me?—I am sure nobody ought to be, or can be, a greater advocate for matrimony than I am; and if it had not been for the misery of her leaving Hartfield, I should never have thought of Miss Taylor but as the most fortunate woman in the world; and as to slighting Mr. Weston, that excellent Mr. Weston, I think there is nothing he does not deserve."" ""Cried his wife"" can be ""exclaimed his wife."" ""Ought to be, or can be"" becomes ""could possibly be."" ""As to slighting"" might be ""As for neglecting."" ""That excellent Mr. Weston"" is okay. ""I think there is nothing he doesn't deserve"" is modern.
+
+""I believe he is one of the very best-tempered men that ever existed."" ""Best-tempered"" could be ""most even-tempered."" ""That ever existed"" is a bit old-fashioned; maybe ""around today"" or ""in existence.""
+
+""Excepting yourself and your brother, I do not know his equal for temper."" ""Excepting"" becomes ""Besides."" ""His equal for temper"" is ""his equal in terms of temperament.""
+
+""I shall never forget his flying Henry’s kite for him that very windy day last Easter—and ever since his particular kindness last September twelvemonth in writing that note, at twelve o’clock at night, on purpose to assure me that there was no scarlet fever at Cobham, I have been convinced there could not be a more feeling heart nor a better man in existence."" ""Flying Henry’s kite for him"" is okay. ""Twelvemonth"" is ""twelve months ago,"" so ""last September."" ""On purpose to assure me"" becomes ""specifically to let me know."" ""More feeling heart"" could be ""more compassionate heart.""
+
+I need to check that all changes maintain the original meaning, tone, and structure. Also, ensure that the word count is similar. Let me count the original and the rewritten version. Original is 563 words. The rewritten should be close. Let me check the example response to see if it's in line. The example has 563 words, so I need to make sure the modernized version is similar in length. Also, keep paragraph breaks as in the original. Avoid any markdown, just plain JSON. Make sure the JSON is valid with proper quotes and commas. Alright, let's put it all together.
+</think>
+
+{
+  ""passage_id"": ""AUSTEN_EMMA_006"",
+  ""condition"": ""modernize"",
+  ""rewritten_text"": ""Papa is just expressing his own regret.\n\n\""That's a very flattering response,\"" came the reply.\n\n\""And do you see her, sir, often enough?\"" asked Isabella in a tone that matched her father's sadness.\n\nMr. Woodhouse hesitated. \""Not nearly as often as I'd like, dear.\""\n\n\""Oh, papa, we've missed seeing them only one full day since they married. Every morning or evening except that one, we've seen either Mr. Weston or Mrs. Weston—and usually both, here or at Randalls. And as you can imagine, Isabella, most of the time it's been here. They're extremely kind with their visits. Mr. Weston is just as kind as she is. If you keep speaking in such a gloomy tone, papa, you'll give Isabella the wrong impression of all of us. Everyone knows Miss Taylor is missed, but everyone should also realize that Mr. and Mrs. Weston have really helped us not miss her as much as we expected—that's the truth.\""\n\n\""Exactly as it should be,\"" said Mr. John Knightley. \""And just as I hoped from your letters. Her desire to show you attention is clear, and his being a single, sociable guy makes it all easy. I've always told you, my love, that I didn't think the change would be as big a deal for Hartfield as you feared. And now that you've heard Emma's account, I hope you're satisfied.\""\n\n\""Well, of course,\"" said Mr. Woodhouse. \""Yes, certainly—I can't deny that Mrs. Weston, poor Mrs. Weston, does come see us pretty often—but then she always has to leave again.\""\n\n\""It would be hard on Mr. Weston",0.2,1.0,8afe066b6564a8c56ba47b88bb9710975918f796dbc5c0da1a81e0cc3f99a62f,7d74962dfb16ab0f4e4e54086dad48a9761b6c8c87b5d52ad9dfa1ed1b15d2d6,563,1459,2.591474,warning,json_parse_failed_used_raw_content;length_hard_warning,json_parse_failed_used_raw_content,2026-06-02T06:02:27Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_006|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_006,simplify,"Father is just expressing his own regret.
+
+""That's a nice way to put it,"" was the kind reply.
+
+""And do you see her often enough, sir?"" asked Isabella with a sad tone that matched her father's mood.
+
+Mr. Woodhouse hesitated. ""Not nearly as often as I'd like, my dear.""
+
+""Oh papa, we've only missed one full day since their wedding. Every other day we've seen either Mr. Weston or Mrs. Weston, usually both, either at Randalls or here—and mostly here. They're really kind about visiting. Mr. Weston is just as kind as his wife. If you speak so sadly, father, you'll make Isabella think we're all neglecting her. Everyone knows Miss Taylor's absence is hard to bear, but everyone should also know that Mr. and Mrs. Weston have made it easier for us than we expected. That's the truth of it.""
+
+""Exactly right,"" said Mr. John Knightley. ""And just as I hoped from your letters. Mrs. Weston's desire to care for you was obvious, and Mr. Weston being a friendly, available man makes it all work. I've always told you, my dear, that I didn't think Hartfield's loss of Miss Taylor would be as big a change as you feared. Now that you've heard Emma's account, I hope you're convinced.""
+
+""Well, of course,"" said Mr. Woodhouse. ""Yes, I can't deny Mrs. Weston—unfortunate Mrs. Weston—does visit us often enough. But she always has to leave again.""
+
+""It would be cruel to Mr. Weston if she didn't, father. You're forgetting poor Mr. Weston entirely.""
+
+""I think,"" said John Knightley with a smile, ""Mr. Weston has earned some consideration. Emma and I, being husband and wife, understand how important it is for married people to spend time together. As for Isabella, she's been married long enough to know she should make room for other people's marriages.""
+
+""Me?"" cried his wife, misunderstanding. ""Are you talking about me? I'm sure no one should or can love marriage more than I do. If it weren't for the sadness of her leaving Hartfield, I'd see Miss Taylor as the luckiest woman alive. And as for neglecting Mr. Weston—such a wonderful Mr. Weston—I believe he deserves everything good. I'd say he's one of the kindest men I've ever met. Besides you and your brother, I don't know anyone with his gentle spirit. I'll never forget how he helped Henry fly his kite on that windy Easter day last year—or how thoughtful he was in September when he wrote me a note at midnight to confirm there was no scarlet fever in Cobham. Since then, I've known there's no kinder heart or better man alive.""",0.2,1.0,8afe066b6564a8c56ba47b88bb9710975918f796dbc5c0da1a81e0cc3f99a62f,1cdf6abc1901d35beebdd016def8da6edb4e941e2cc88117507a304176b926c3,563,442,0.78508,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:02:46Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_007|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_007,paraphrase,"“You are entirely correct,” she replied, “we shall convey your regrets to Mr. and Mrs. Weston.”
+
+Yet scarcely had she spoken when she noticed her brother politely extending an invitation to share his carriage, should the weather be Mr. Elton’s sole concern, and Mr. Elton promptly accepting with evident eagerness. The matter was settled; Mr. Elton would go, and never had his broad, handsome countenance shown greater delight than at this moment. Never had his smile been more pronounced, nor his gaze more triumphant as he turned to her next.
+
+“Well,” she mused to herself, “this is most peculiar!—Having just persuaded him to stay, he now chooses to attend a gathering and abandon Harriet in her illness!—How very odd indeed!—Yet I suppose many men, particularly those unattached, harbor such a fixation—such a fervor for dining out. A dinner engagement ranks so highly among their pleasures, their pursuits, their dignities, nearly their obligations, that all else yields to it—and this must apply to Mr. Elton. A most estimable, amiable, agreeable young man, to be sure, and deeply smitten with Harriet; yet still, he cannot decline an invitation, must dine wherever summoned. How curious love can be! He discerns wit in Harriet, yet refuses to dine alone for her.”
+
+Shortly thereafter, Mr. Elton departed, and she could not help but acknowledge the sincerity in his farewell. His mention of Harriet carried weight; the inflection in his voice as he promised to visit Mrs. Goddard for updates on his fair companion, the final errand before his joyous reunion with her, when he hoped to deliver better tidings—his sighs and smiles as he left left her favorably impressed.
+
+After a brief silence between them, John Knightley began,
+
+“I have never encountered a man more determined to be agreeable than Mr. Elton. It is sheer effort for him in the company of ladies. Among men, he is rational and unpretentious, but when seeking to please women, every feature animates.”
+
+“Mr. Elton’s manners are not flawless,” Emma responded, “but where there is a genuine desire to please, one must overlook much, and one does. A man striving earnestly with moderate talents holds an edge over careless superiority. Mr. Elton’s consistent kindness and goodwill are worth appreciating.”
+
+“Yes,” Mr. John Knightley added after a pause, with a hint of mischief, “he appears to harbor considerable goodwill toward you.”
+
+“Me!” she exclaimed, surprised, “do you suppose me to be Mr. Elton’s interest?”
+
+“Such a notion has crossed my mind, Emma; and if it never occurred to you before, consider it now.”
+
+“Mr. Elton in love with me!—How absurd!”
+
+“I do not claim it is so; but you would be wise to determine whether it is, and adjust your conduct accordingly. I believe your behavior toward him has been encouraging.”",0.2,1.0,094d74324f2404eedc9427255e9c7034eee31e6d0ae43a920a0042e2d435d470,90da6f45eccb11b7fb823fed012e936f4c343a5f9bcc0fa485bb4016fa3ae9bd,553,468,0.846293,warning,json_extracted;prompt_or_source_leakage_warning;length_soft_warning,json_extracted,2026-06-02T06:03:05Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_007|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_007,modernize,"<think>
+Okay, let's tackle this modernization task. First, I need to understand the original passage. It's a dialogue-heavy scene from Emma by Jane Austen. The main characters are Emma, her brother John Knightley, and Mr. Elton. The key points are Emma's internal thoughts about Mr. Elton's decision to go out to dinner despite Harriet being unwell, and the conversation between Emma and John about Mr. Elton's behavior.
+
+The user wants the passage updated to contemporary English while preserving all the content, events, characters, and structure. So I need to replace archaic phrases with modern equivalents. For example, ""You do quite right"" could become ""You're right"" or ""That's fine."" Also, terms like ""quitted them"" might be changed to ""left them.""
+
+I should check for any 19th-century expressions that don't fit modern speech. For instance, ""It is downright labour to him where ladies are concerned"" could be rephrased to ""It's a real effort for him when it comes to women."" Also, maintaining the tone is important—Emma's sarcasm and John's teasing should come through.
+
+I need to ensure that the narrative sequence and paragraph structure remain the same. Let me go through each paragraph and adjust the language. For example, ""we will make your apologies to Mr. and Mrs. Weston"" becomes ""we'll let them know you can't make it."" 
+
+Another point is to keep the same level of detail. The original mentions Mr. Elton's expressions and actions, so those should be retained but phrased in modern terms. For instance, ""broad handsome face expressed more pleasure"" could be ""handsome face showed more pleasure.""
+
+I also need to watch out for any idiomatic expressions or phrases that might not translate directly. For example, ""the balance of approbation much in his favor"" might become ""he came out looking pretty good.""
+
+Let me check the dialogue between Emma and John. Emma's response to John's sly comment should sound natural today. ""Me!"" she replied with a smile of astonishment, ""are you imagining me to be Mr. Elton’s object?"" could be ""Me?"" she said, surprised. ""Are you suggesting I'm the one he's interested in?""
+
+I should also ensure that the internal monologue of Emma is in modern English. Phrases like ""What a strange thing love is!"" might become ""Love is such a strange thing!""
+
+Finally, I'll review the entire rewritten passage to make sure it's consistent in tone, all events are preserved, and the word count is similar. Let me count the words in the original and the rewritten version to ensure it's close. The original is 553 words, so the modernized version should be around that number.
+
+I think that's it. Let me put it all together now, making sure each part is updated but stays true to the original content and structure.
+</think>
+
+{
+  ""passage_id"": ""AUSTEN_EMMA_007"",
+  ""condition"": ""modernize"",
+  ""rewritten_text"": ""You're right,"" she said. ""We'll let them know you can't make it to the Westons.\n\nBut barely had she said that when she noticed her brother was politely offering Mr. Elton a ride in his carriage if bad weather was his only problem—and Mr. Elton actually accepted with immediate enthusiasm. It was settled; Mr. Elton was going, and his handsome face had never shown more pleasure. His smile had never been wider, his eyes never more triumphant, when he looked at her next.\n\n\""Well,\"" she thought, \""this is odd. After I managed to get him to leave Harriet, he suddenly wants to go out and leave her sick? How strange. But I guess a lot of single men have this obsession with dining out. Eating at restaurants is such a big deal for them—part of their routine, their status, even their responsibilities—that they'll drop anything for it. That must be Mr. Elton's case. He's a genuinely nice, likable guy, clearly smitten with Harriet, but still can't pass up an invitation. How weird that love is—can see wit in Harriet but won't skip dinner for her?\""\n\nSoon after, Mr. Elton left. She couldn't help but notice how emotionally invested he was when he mentioned Harriet goodbye. The way he said he'd stop by Mrs. Goddard's to check on her before heading home, the hopeful tone when he promised to give an update next time they met—it all had a sighing, smirking charm that made her view him more favorably.\n\nAfter a few quiet minutes, John Knightley said,\n\n\""I've never seen anyone work so hard to be charming as Mr. Elton. It's exhausting for him around women. With men, he's relaxed and natural, but when he's trying to impress women, every muscle in his face is on display.\""\n\n\""Mr. Elton's not perfect,\"" Emma replied. \""But when someone makes an effort, you tend to overlook flaws. A guy who gives his all with average skills beats someone who's naturally talented but lazy. Mr. Elton has a genuine warmth that's hard to ignore.\""\n\n\""True,\"" John said with a sly grin. \""He seems to have a lot of warmth for you.\""\n\n\""Me?\"" she said, surprised. \""You think he's interested in me?\""\n\n\""The thought crossed my mind, Emma. If it's new to you, maybe you should think about it now.\""\n\n\""Mr. Elton liking me? That's ridiculous!\""\n\n\""I'm not saying he does. But you should decide if there's something there and act accordingly. I think your behavior toward him has been encouraging.\""""
+}",0.2,1.0,094d74324f2404eedc9427255e9c7034eee31e6d0ae43a920a0042e2d435d470,a6eaa36aa2b37ecd6509f4b2a6138388431f6ab60decb456c88c33b31fbf82de,553,901,1.629295,warning,json_parse_failed_used_raw_content;length_hard_warning,json_parse_failed_used_raw_content,2026-06-02T06:03:24Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_007|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_007,simplify,"“You’re doing the right thing,” she said. “We’ll apologize for you to Mr. and Mrs. Weston.”
+
+But before she finished speaking, she noticed her brother was politely offering Mr. Elton a ride in his carriage if bad weather was his only reason for staying home. To her surprise, Mr. Elton accepted immediately with obvious delight. It was settled—Mr. Elton would go. His wide, handsome face showed more happiness than ever, his smile was brighter, and his eyes gleamed with pride as he looked at her.
+
+“Well,” she thought, “this is odd! After I convinced him to stay home, he now wants to go out and leave Harriet sick? How strange! But I suppose many single men, especially, are obsessed with dining out. A dinner invitation feels like a duty, a privilege, even a necessity to them. Mr. Elton must be one of those. He’s kind, charming, and clearly loves Harriet, but he can’t resist an invitation. Love is strange, isn’t it? He sees Harriet’s wit but won’t stay home to eat with her.”
+
+Soon Mr. Elton left, and she couldn’t help noticing how tenderly he mentioned Harriet’s name as they parted. His voice softened when he promised to visit Mrs. Goddard for updates, and he sighed and smiled in a way that made her think he was sincere.
+
+After a few quiet moments, John Knightley said, “I’ve never seen anyone work so hard to be charming as Mr. Elton does around women. With men, he’s natural and relaxed, but with ladies, he’s all effort.”
+
+“Mr. Elton isn’t perfect,” Emma replied. “But when someone tries their best with limited talent, they often win over someone who’s too lazy to try. He’s warm and kind, which matters more than polish.”
+
+John paused, then added with a sly tone, “He seems especially kind toward you.”
+
+“Me?” Emma said, surprised. “You think he’s interested in me?”
+
+“I’ve wondered about that, Emma. If you’ve never considered it, maybe you should now.”
+
+“Mr. Elton loving me? That’s absurd!”
+
+“I’m not saying he does. But if he is, you should decide whether to act on it. I think your behavior toward him has been encouraging.”",0.2,1.0,094d74324f2404eedc9427255e9c7034eee31e6d0ae43a920a0042e2d435d470,9f5aef487dd01c041bc1449b5a8af868e16e9642cdacf9f9407062e3e65375aa,553,359,0.649186,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:03:44Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_008|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_008,paraphrase,"He had passed the sweep—traveling some distance along the Highbury road—the snow covered the ground in patches, never more than half an inch deep; in many places it barely touched the earth. A few flakes drifted down, but the clouds were thinning, and all signs pointed to the storm ending soon. He had consulted the coachmen, and both agreed with his assessment of no immediate threat.
+
+For Isabella, the news brought great relief, and Emma, too, welcomed it for her father’s sake. Mr. Woodhouse’s anxieties eased as much as his delicate constitution permitted, though the lingering unease from the earlier alarm made staying at Randalls unbearable. He insisted there was no danger in returning home, yet no reassurances could convince him to remain. As the others debated and offered advice, Mr. Knightley and Emma resolved the matter swiftly: 
+
+“Your father won’t feel at ease. Why not go yourself?”
+
+“I’m ready if the others are.”
+
+“Shall I summon the servants?”
+
+“Yes, do.”
+
+The bell rang, and carriages were arranged. Within minutes, Emma anticipated depositing one fretful guest into his own home to recover, while the other might regain composure once this ordeal concluded.
+
+The carriage arrived. Mr. Woodhouse, always the first priority in such situations, was escorted to his by Mr. Knightley and Mr. Weston. Yet even their reassurances could not prevent fresh worries at the sight of the fallen snow and the darker night than expected. “He feared they’d face a difficult journey. He feared poor Isabella would dislike it. And there would be poor Emma in the second carriage. He didn’t know what to do. They must stay as close as possible,” he insisted, instructing James to proceed slowly and await the other carriage.
+
+Isabella entered her father’s carriage. John Knightley, forgetting he wasn’t part of their group, followed his wife in without hesitation. Thus, when Emma was guided into the second carriage by Mr. Elton, she realized the door would close behind them, leaving them alone together. It would have been an awkward but tolerable moment before today’s suspicions arose—she might have discussed Harriet with him, and the short drive would have passed quickly. Now, however, she wished it had not happened. She suspected he had overindulged in Mr. Weston’s wine and knew he would likely speak foolishly.
+
+To discourage him as much as possible, she prepared to address the weather and night with calm seriousness. But scarcely had she begun, scarcely had they passed the sweep-gate and joined the other carriage, when she found her subject interrupted—her hand grasped—her attention claimed, and Mr.",0.2,1.0,599fbd379e6184ac2ec0dcbbd268977e4ebb098637b4e4fc19156ba02110c4b6,1b1664950969810e5950a100d85d8804e3bb6a0c1ddb3b674e61c82255adede7,574,431,0.750871,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:04:02Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_008|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_008,modernize,"He’d gone past the gate—some distance along the Highbury Road—the snow was barely half an inch deep in places, and in others, just enough to hint at a white layer on the ground. A few flakes were drifting down now, but the clouds were breaking up, and it looked like the weather would clear soon. He’d checked with the coachmen, and both agreed there was no reason to worry.
+
+For Isabella, the news was a huge relief, and Emma felt equally reassured for her father’s sake. Mr. Woodhouse immediately calmed down as much as his anxious nature allowed, but the earlier alarm made it impossible for him to feel at ease staying at Randalls. He insisted there was no danger in returning home, yet no amount of reassurance could convince him it was safe to remain. As the others debated and offered suggestions, Mr. Knightley and Emma quickly resolved the matter:
+
+""Your father won’t be comfortable. Why don’t you go?""
+
+""I’m ready if the others are.""
+
+""Shall I ring for the carriages?""
+
+""Yes, do.""
+
+The bell was rung, and carriages were arranged. Within minutes, Emma hoped to send one troubling guest home to sober up and cool off, while the other could regain his composure once this unpleasant visit ended.
+
+The carriage arrived, and Mr. Woodhouse—always the priority in such situations—was carefully escorted to his own by Mr. Knightley and Mr. Weston. But even their reassurances couldn’t stop him from growing anxious again at the sight of the snow already on the ground and the unexpectedly dark night. ""I’m afraid you’ll have a rough drive. Poor Isabella might not enjoy it. And poor Emma in the second carriage behind. I don’t know what to do. You must stay as close together as possible,"" he fretted, turning to James and instructing him to drive slowly and wait for the other carriage.
+
+Isabella climbed into her father’s carriage. John Knightley, forgetting he wasn’t part of their group, naturally followed his wife inside. That left Emma, accompanied by Mr. Elton, to step into the second carriage, where the door was shut behind them, sealing them into a private drive. It wouldn’t have been an awkward moment—it might have even been pleasant—before today’s suspicions arose. Earlier, she could have chatted with him about Harriet, and the three-quarter-mile ride would have flown by. Now, she wished it hadn’t happened. She suspected he’d had too much of Mr. Weston’s wine and was certain he’d try to make small talk.
+
+To keep him as quiet as possible, Emma prepared to speak calmly and seriously about the weather and the night. But barely had she started, barely had they passed the gate and joined the other carriage, when she realized her plans were ruined—her hand grabbed, her attention demanded, and Mr.",0.2,1.0,599fbd379e6184ac2ec0dcbbd268977e4ebb098637b4e4fc19156ba02110c4b6,03f94f5e783710326d5fa9aabe7ca6fa65706bb998fac0f1f62c42fb1e287740,574,471,0.820557,warning,json_extracted;length_soft_warning,json_extracted,2026-06-02T06:04:21Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_008|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_008,simplify,"He had walked past the garden area and was heading down Highbury Road. The snow was less than half an inch deep in most places, barely covering the ground in some spots. Only a few snowflakes were falling now, and the clouds were breaking up, showing signs the bad weather would soon pass. He had checked with the coachmen, and both agreed there was no real danger.
+
+For Isabella, the news was a huge relief. Emma also felt better knowing her father would be less worried, though his nervous nature kept him uneasy. The initial alarm couldn’t be calmed enough to make him comfortable staying at Randalls. He agreed there was no danger in returning home, but nothing could convince him staying was safe. While others debated what to do, Mr. Knightley and Emma quickly decided:
+
+“Your father won’t relax here. Why don’t you leave with him?”
+
+“I’m ready if you are.”
+
+“Shall I call for the carriages?”
+
+“Yes, please do.”
+
+The bell was rung, and carriages were arranged. Within minutes, Emma hoped to send one troubling guest home to rest and cool down, while the other could regain his composure once this difficult visit ended.
+
+The carriage arrived. Mr. Woodhouse, always the priority in such situations, was carefully helped into his carriage by Mr. Knightley and Mr. Weston. But even their reassurances couldn’t stop him from worrying again when he saw the snow on the ground and realized the night was darker than expected. “I’m afraid you’ll have a rough ride. Poor Isabella might not enjoy it. And poor Emma will be in the second carriage. I don’t know what to do. You must stay as close together as possible,” he said, giving strict instructions to James to drive slowly and wait for the other carriage.
+
+Isabella got into her father’s carriage. John Knightley, forgetting he wasn’t part of their group, naturally followed his wife inside. That left Emma, escorted by Mr. Elton into the second carriage, realizing they would be shut in alone together. Before today’s suspicions, this private time might have been pleasant—she could have talked to him about Harriet, and the short drive would have passed quickly. Now, she wished it hadn’t happened. She thought he’d had too much of Mr. Weston’s wine and was certain he’d try to say foolish things.
+
+To keep him from talking too much, she planned to respond calmly and seriously about the weather and night. But before she could start speaking, before they passed the garden gate and joined the other carriage, he grabbed her hand and demanded her attention, cutting off any chance for polite conversation.",0.2,1.0,599fbd379e6184ac2ec0dcbbd268977e4ebb098637b4e4fc19156ba02110c4b6,1f748f8a0b8a56f4eb1d3ef90089cfbc12e85961c42a0625f0b4f72a5b2348ed,574,438,0.763066,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:04:40Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_009|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_009,paraphrase,"As he grew more reasonable, he should have asserted himself and cast off anything dishonorable in their influence. He should have resisted their initial attempt to belittle his father. If he had acted properly from the start, there would be no conflict now. 
+
+'We will never see eye to eye about him,' Emma exclaimed. 'But that's nothing unusual. I don't consider him a weak man at all—I'm certain he isn't. Mr. Weston wouldn't ignore foolishness, even in his own son, though he likely has a gentler, more pliant nature than you'd expect from an ideal man. I daresay he does, and while this might cost him some benefits, it could grant him many others.' 
+
+'Indeed—all the benefits of idleness when he should act, of living in idle luxury and justifying it with clever excuses. He can sit and compose elegant, boastful letters full of false promises, convincing himself he's found the perfect way to maintain peace at home and shield his father from blame. His letters revolt me.' 
+
+'Your perspective is unusual. It seems to satisfy everyone else.' 
+
+'I suspect it doesn't satisfy Mrs. Weston. A woman of her intelligence and sensitivity, though not blinded by maternal affection, would find it hard to accept. As a stepmother, she has double reason to expect attention to Randalls, and double cause to feel its absence. If she were a woman of greater standing, he would have come, I daresay—and it wouldn't matter either way. Do you think your friend overlooks these matters? Does she not often reflect on this herself? No, Emma, your charming young man's charm is limited to French ideals, not English ones. He may be pleasant, well-mannered, and agreeable, but he lacks genuine English consideration for others' feelings—there's nothing truly admirable about him.' 
+
+'You seem determined to dislike him.' 
+
+'Me? Not at all,' Mr. Knightley replied, clearly annoyed. 'I have no desire to criticize him. I'd acknowledge his strengths as readily as anyone else; but all I hear are superficial traits—his good looks, his smooth, persuasive manner.' 
+
+'Well, if that's all he offers, he'll be a treasure at Highbury. We rarely encounter handsome, well-bred young men. We shouldn't demand all the virtues as well. Can't you imagine, Mr. Knightley, the excitement his arrival will create? The entire parishes of Donwell and Highbury will speak of nothing else—nothing will matter but Mr. Frank Churchill. We'll think and talk of no one else.' 
+
+'You'll forgive me for feeling overwhelmed. If he proves engaging, I'll welcome his company; but if he's merely a garrulous fool, he won't occupy much of my time or thoughts.'",0.2,1.0,4353e60e96a053a6cebf0c93533628a0325be637580edc5b43bdbfc91ccae56b,c164647d797364bc6478e32ac831f81fd6a3fab3b82268622a9357d4f52b2b89,562,438,0.779359,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:16:34Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_009|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_009,modernize,"<think>
+Alright, let's tackle this modernization task. The user wants the passage rewritten in contemporary English while keeping the original content, events, characters, and structure intact. First, I need to identify archaic or 19th-century phrasing. Words like ""rational,"" ""ought to have roused himself,"" ""slight his father,"" and ""flourishing letter"" might be candidates for modernization.
+
+I should start by replacing ""As he became rational"" with something like ""Once he started to think clearly."" Then, ""ought to have roused himself"" could become ""should have taken action."" The phrase ""shake off all that was unworthy in their authority"" might be rephrased to ""rejected any unworthy aspects of their authority.""
+
+Looking at Emma's dialogue, ""I have not the least idea of his being a weak young man"" can be ""I don’t think he’s a weak guy at all."" Also, ""Mr. Weston would not be blind to folly"" could be ""Mr. Weston wouldn’t ignore foolishness."" 
+
+Mr. Knightley's part has some strong opinions. ""He can sit down and write a fine flourishing letter"" might become ""He can sit down and write a fancy, flowery letter."" The term ""chattering coxcomb"" is a bit old-fashioned; ""chatty showoff"" sounds more modern.
+
+I need to maintain the characters' voices. Emma is more optimistic, while Mr. Knightley is critical. Ensuring their dialogue reflects that in modern terms is key. Also, check for any idioms or expressions that don't translate well. For example, ""sensation"" in the context of Mr. Frank Churchill's arrival could be ""big deal"" or ""huge event.""
+
+Paragraph structure should remain similar. Let me go through each sentence, replace archaic terms with modern equivalents, and ensure the flow is natural. Avoid changing the meaning or adding/removing information. Keep the same narrative sequence and approximate word count. Let me read through the original again to catch any nuances I might have missed. Once done, review the rewritten text to ensure it's in contemporary English without altering the original message.
+</think>
+
+{
+  ""passage_id"": ""AUSTEN_EMMA_009"",
+  ""condition"": ""modernize"",
+  ""rewritten_text"": ""Once he started to think clearly, he should have taken action and rejected any unworthy aspects of their authority. He should have pushed back against their first attempt to make him disrespect his father. If he’d handled things properly from the beginning, there wouldn’t be any issues now.”\n\n“We’ll never see eye to eye about him,” Emma said, “but that’s normal. I don’t think he’s a weak guy at all—I’m certain he isn’t. Mr. Weston wouldn’t ignore foolishness, even in his own son. But he probably has a more laid-back, agreeable, easygoing nature than you’d consider ideal for a man. I’d bet he does. And while that might cost him some opportunities, it’ll earn him others.”\n\n“Right—like staying glued to the couch when he should be doing something, living off idle fun, and convincing himself he’s a genius at making excuses. He can sit down and write a fancy, flowery letter full of empty promises and lies, then tell himself he’s found the perfect way to keep the peace at home and make sure his dad has no grounds to complain. His letters make me sick.”\n\n“You’ve got a weird take. Everyone else seems fine with them.”\n\n“I doubt Mrs. Weston is. A woman with her sharp mind and sensitivity wouldn’t be fooled by it, especially since she’s in a mother’s role without the same emotional blind spots. That’s why Randalls needs extra attention, and she has to feel that lack even more. If she were someone important in her own right, he’d probably show up, and it wouldn’t matter either way. Do you really think your friend is so clueless? That she doesn’t go through this same reasoning herself? No, Emma, your charming young man’s charm only works in French, not English. He might be ‘amiable,’ have good manners, and be pleasant—but he’s got no real English sensitivity for others’ feelings. Nothing genuinely kind about him.”\n\n“You’re determined to hate him.”\n\n“Me? Not at all,” Mr. Knightley replied, clearly annoyed. “I don’t want to hate him. I’d just as soon admit his strengths as anyone else. But I haven’t heard any beyond superficial stuff—like being good-looking, smooth, and convincing.”\n\n“Well, if that’s all he’s got, he’ll be a hit in Highbury. We don’t get many handsome, well-mannered young men. We shouldn’t be picky and demand all the virtues too. Can’t you picture, Mr. Knightley, what a big deal his arrival will be? The whole Donwell and Highbury parishes will talk about nothing else. One topic. One obsession. It’ll be all about Mr. Frank Churchill—we won’t think or talk about anyone else.”\n\n“You’ll forgive me for being overwhelmed. If he’s actually interesting in conversation, I’ll be glad to know him. But if he’s just a chatty showoff, he won’t take up much of my time or brain space.”
+}",0.2,1.0,4353e60e96a053a6cebf0c93533628a0325be637580edc5b43bdbfc91ccae56b,2f9808b42248dc1c70ffb0110258066dfb569a2d8566011820fa898cd6ab983e,562,814,1.448399,warning,json_parse_failed_used_raw_content;length_hard_warning,json_parse_failed_used_raw_content,2026-06-02T06:16:53Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_009|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_009,simplify,"If he had been reasonable, he should have stood up for himself and rejected any authority that treated him unfairly. He should have resisted their first attempts to make him disrespect his father. If he’d started doing the right thing from the beginning, there wouldn’t be any problems now.”
+
+“We’ll never agree about him,” Emma said, “but that’s normal. I don’t think he’s weak at all—I’m sure he isn’t. Mr. Weston wouldn’t ignore foolishness, even in his own son. But I imagine Frank has a gentle, easygoing nature that doesn’t match your idea of perfect manhood. I’d say he does, and while this might cost him some advantages, it could also give him others.”
+
+“Yes—like staying inactive when he should act, living only for idle pleasures, and convincing himself he’s brilliant at making excuses. He can sit down and write flowery letters full of promises and lies, then tell himself he’s found the perfect way to keep peace at home and stop his father from complaining. His letters make me sick.”
+
+“You have unusual feelings. They seem to satisfy everyone else.”
+
+“I doubt they satisfy Mrs. Weston. A woman with her intelligence and sensitivity—especially in a mother’s role without a mother’s blind affection—would feel this deeply. Mrs. Weston deserves extra consideration, and she must feel it even more. If she were someone important in her own right, Frank would have come, I suppose. It wouldn’t matter either way. Do you think your friend ignores these things? Does she never think this through herself? No, Emma, your kind young man is only kind in French, not English. He might be charming and polite, but he lacks true English consideration for others’ feelings—nothing genuinely kind about him.”
+
+“You’re set on disliking him.”
+
+“Me? Not at all,” Mr. Knightley replied, clearly annoyed. “I don’t want to dislike him. I’d acknowledge his good points as much as anyone else. But all I hear are superficial traits—handsome, well-mannered, and smooth-talking.”
+
+“Well, if that’s all he has going for him, he’ll still be a hit in Highbury. We don’t see many attractive, well-bred young men. We shouldn’t demand all the virtues too. Can’t you imagine, Mr. Knightley, the buzz his arrival will create? Every village from Donwell to Highbury will talk of nothing else—everyone will be curious about Mr. Frank Churchill. We’ll think and talk about no one else.”
+
+“You’ll forgive me for being overwhelmed. If he’s worth talking to, I’ll be glad to know him. But if he’s just a loud show-off, he won’t take up much of my time or thoughts.”",0.2,1.0,4353e60e96a053a6cebf0c93533628a0325be637580edc5b43bdbfc91ccae56b,8564b3ce5360ab90372fd027da765c97686b5ce4ab83035a598a454bd328b8b1,562,434,0.772242,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:17:11Z
+groq_qwen_32b_free|run_1|AUSTEN_EMMA_010|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_010,paraphrase,"Emma felt regret—being compelled to offer civility to someone she disliked for three tedious months—constantly overextending herself while falling short of what was expected. Explaining her aversion to Jane Fairfax proved elusive; Mr. Knightley had once suggested it stemmed from Jane’s genuine accomplishments, which Emma secretly wished to claim as her own. Though she had dismissed this idea at the time, moments of introspection left her uncertain. Her grievances included Jane’s aloofness, her aunt’s ceaseless chatter, the universal fuss surrounding Jane, and the unspoken assumption that their shared age would foster deep friendship. These were her justifications—no stronger than that. 
+
+This dislike, so unearned, magnified every perceived flaw until Emma’s first encounter with Jane after an absence always left her feeling she had wronged her. Now, upon resuming their acquaintance after two years, Emma was struck by the very qualities she had previously dismissed. Jane Fairfax was exquisitely refined, a standard Emma herself held in high regard. Her height, slightly above average yet never imposing, lent her a graceful bearing. Her proportions were balanced, neither too full nor too slender, though a faint pallor hinted at fragility. Emma could not ignore these observations. Jane’s face, though not classically symmetrical, possessed a charm that surpassed Emma’s memory. Her dark, expressive eyes had long been praised, but her complexion—once criticized for lacking warmth—now revealed a delicate translucence that required no further embellishment. This was a beauty defined by elegance, a quality Emma revered, especially in a world where Highbury’s standards of excellence were so low as to equate distinction with mere avoidance of vulgarity. 
+
+During their initial reunion, Emma observed Jane with dual satisfaction—pleased by her presence and reassured by her fairness. Reflecting on Jane’s circumstances, her refined nature, and the sacrifices she would soon endure, Emma found herself unable to sustain resentment. Compassion and respect took its place, deepened by the likely truth of Jane’s affection for Mr. Dixon, a connection Emma had instinctively recognized.",0.2,1.0,7c1ca25d7d301f8ca66658595fa86b053d4a322f8584b8c6920cbfff921f0c76,5bfe210a15a2b9e4d76da6d2a5821d24632181cf3f7e6e131c6c5f8019ba2961,558,330,0.591398,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T06:17:32Z
