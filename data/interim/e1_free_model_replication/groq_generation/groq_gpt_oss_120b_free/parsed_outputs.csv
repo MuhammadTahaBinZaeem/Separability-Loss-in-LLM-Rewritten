@@ -1407,3 +1407,464 @@ I followed the candle down, just as I had followed it up, and she placed it wher
 Alone in the courtyard, I looked at my rough hands and plain boots. I didn’t like how they looked now; they seemed vulgar. I thought about asking Joe why he ever taught me to call those picture cards Jacks, when they should be called knaves. I wished Joe had been brought up more genteel, so I might have been, too.
 
 She returned with some bread, meat, and a small mug of beer. She set the mug on the stone floor and handed me the bread and meat without looking at me, as insolently as if I were a disgraced dog.",0.2,1.0,07a0ea30ecbd37cccdc1f8062c0971291bac65c7ef08ed20c59b398e289b2bba,9cb2b0168e9e46e0a730208bdd773b9fc5c8920c26938068d0f443ca1ed3d837,579,483,0.834197,warning,length_soft_warning,json_ok,2026-06-02T09:55:09Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_005|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_005,paraphrase,"“Well, miss?” I replied, nearly toppling over her and steadying myself.
+
+She remained there, gazing at me, and I, of course, gazed back at her.
+
+“Am I pretty?”
+
+“Yes; I think you are very pretty.”
+
+“Am I insulting?”
+
+“Not as much as you were the last time,” I answered.
+
+“Not as much as?”
+
+“No.”
+
+She snapped when she asked the final question, and she struck my face with a force that matched the vigor of my reply.
+
+“Now?” she demanded. “You little coarse monster, what think you of me now?”
+
+“I shall not tell you.”
+
+“Because you’ll tell upstairs. Is that it?”
+
+“No,” I said, “that’s not it.”
+
+“Why don’t you weep again, you little wretch?”
+
+“Because I’ll never weep for you again,” I replied. That was, I suppose, as false a declaration as any ever made; for inside I was weeping for her then, and I knew the pain she would later cause me.
+
+We continued upward after this scene; and as we ascended we encountered a gentleman feeling his way down.
+
+“Whom have we here?” the gentleman asked, stopping and looking at me.
+
+“A boy,” Estella answered.
+
+He was a stout man of a very dark complexion, with a huge head and an equally large hand. He lifted my chin with that hand and turned my face toward the candlelight to examine me. He was prematurely bald on top, his thick black eyebrows stood up bristling, and his eyes were set deep, sharp, and distrustful. A massive watch‑chain hung from his wrist, and black spots marked where a beard might have been. He meant nothing to me then, and I could not have foreseen that he would ever become anything to me, yet I had the chance to observe him closely.
+
+“Neighbourhood boy? Hey?” he said.
+
+“Yes, sir,” I replied.
+
+“How did _you_ come here?”
+
+“Miss Havisham sent for me, sir,” I explained.
+
+“Well! Behave yourself. I have a great deal of experience with boys, and you’re a bad lot. Now mind!” he said, biting the side of his great forefinger and frowning, “you behave yourself!”
+
+With those words he let go of me—which I welcomed, for his hand smelled of scented soap—and he went his way downstairs. I wondered whether he might be a doctor; but no, I thought, he could not be, for a doctor would have a calmer, more persuasive manner. There was little time to ponder, for we soon entered Miss Havisham’s room, where she and everything else were exactly as I had left them. Estella left me standing near the door, and I remained there until Miss Havisham’s eyes fell upon me from the dressing‑table.
+
+“So!” she said, without surprise: “the days have worn away, have they?”
+
+“Yes, ma’am. Today is—”
+
+“There, there, there!” she snapped, her fingers moving impatiently. “I don’t want to know. Are you ready to play?”
+
+I was forced to answer, confused, “I don’t think I am, ma’am.”",0.2,1.0,ab84d5155f086e1178d9239452051cd1659f48d117abb2f28e699699042b7cdf,09e840a6e0d55b7e9ec190b2014d41f4c625f216a695c7562a58431c03da4f90,553,493,0.891501,pass,,json_ok,2026-06-02T13:19:37Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_005|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_005,modernize,"“Well, miss?” I answered, almost stumbling into her and catching myself.
+
+She stood looking at me, and, of course, I stared back.
+
+“Am I pretty?”
+
+“Yes; I think you’re very pretty.”
+
+“Am I insulting?”
+
+“Not as much as you were last time,” I said.
+
+“Not as much as?”
+
+“No.”
+
+She snapped when she asked the last question, and she slapped my face with as much force as she could when I answered.
+
+“Now?” she demanded. “You little coarse monster, what do you think of me now?”
+
+“I won’t tell you.”
+
+“Because you’re going to tell upstairs. Is that it?”
+
+“No,” I replied, “that’s not it.”
+
+“Why don’t you cry again, you little wretch?”
+
+“Because I’ll never cry for you again,” I said. That was, I suppose, as false a declaration as any; inside I was actually crying for her, and I knew the pain she would cause me later.
+
+We went upstairs after that episode; as we were climbing, we met a man feeling his way down.
+
+“Who do we have here?” the man asked, stopping and looking at me.
+
+“A boy,” Estella said.
+
+He was a burly man with a very dark complexion, a huge head, and an equally large hand. He lifted my chin with his hand and tilted my face toward the candlelight to get a better look. He was prematurely bald on top, with thick black eyebrows that stuck up like bristles. His eyes were set deep in his skull, sharp and suspicious. He wore a big watch chain and had dark spots where a beard would have been if he’d let it grow. He meant nothing to me then, and I had no idea he would ever matter, but I had the chance to observe him closely.
+
+“Neighborhood boy? Hey?” he said.
+
+“Yes, sir,” I replied.
+
+“How did you get here?”
+
+“Miss Havisham sent for me, sir,” I explained.
+
+“Well! Behave yourself. I’ve dealt with plenty of boys, and you’re a bad lot. Now listen!” he said, biting the side of his forefinger and frowning at me, “you behave yourself!”
+
+With that, he let go of me—something I appreciated, since his hand smelled of scented soap—and walked back downstairs. I wondered if he might be a doctor, but no; a doctor would have a calmer, more persuasive manner. There wasn’t much time to think about it, because we soon entered Miss Havisham’s room, where everything was just as I had left it. Estella left me standing near the door, and I waited until Miss Havisham’s eyes fell on me from the dressing table.
+
+“So!” she said, unstartled: “the days have worn away, haven’t they?”
+
+“Yes, ma’am. Today is—”
+
+“There, there, there!” she snapped, waving her fingers impatiently. “I don’t want to know. Are you ready to play?”
+
+I answered, a little confused, “I don’t think I am, ma’am.”",0.2,1.0,ab84d5155f086e1178d9239452051cd1659f48d117abb2f28e699699042b7cdf,2f092e4f96e8be312e4ec358efa0c8601a2860862c795a6b3ec2ed0b7aeacc69,553,475,0.858951,pass,,json_ok,2026-06-02T13:19:51Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_005|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_005,simplify,"“Well, miss?” I answered, almost tripping over her and catching myself.
+
+She stared at me, and I stared back.
+
+“Am I pretty?”
+
+“Yes; I think you are very pretty.”
+
+“Am I insulting?”
+
+“Not as much as you were last time,” I said.
+
+“Not as much as?”
+
+“No.”
+
+She snapped when I asked the last question, and she slapped my face hard as she answered.
+
+“Now?” she demanded. “You little coarse monster, what do you think of me now?”
+
+“I won’t tell you.”
+
+“Because you’ll tell upstairs. Is that it?”
+
+“No,” I replied, “that’s not it.”
+
+“Why don’t you cry again, you little wretch?”
+
+“Because I’ll never cry for you again,” I said. That was probably as false a promise as any; inside I was actually crying for her, and I knew the pain she would later cause me.
+
+We went upstairs after that argument, and while we were climbing we met a man feeling his way down.
+
+“Who have we here?” the man asked, stopping to look at me.
+
+“A boy,” Estella answered.
+
+He was a big, dark‑skinned man with a huge head and an equally large hand. He lifted my chin with that hand and looked at me in the candlelight. He was bald on top, had thick black eyebrows that stuck up, deep‑set sharp eyes, a big watch chain, and black spots where a beard would have been. He meant nothing to me then, and I had no idea he would ever matter, but I got a good look at him.
+
+“Neighbourhood boy? Hey?” he said.
+
+“Yes, sir,” I replied.
+
+“How did you get here?”
+
+“Miss Havisham sent for me, sir,” I explained.
+
+“Alright! Behave yourself. I’ve dealt with many boys, and you’re a bad lot. Now mind!” he said, biting his forefinger and frowning at me, “you behave yourself!”
+
+With that, he let go of me—his hand smelled of scented soap, which I welcomed—and walked down. I wondered if he might be a doctor, but no; a doctor would have been calmer and more persuasive. There was no time to think, because we soon entered Miss Havisham’s room, where everything was just as I had left it. Estella left me standing by the door, and I waited until Miss Havisham looked up from the dressing table.
+
+“So!” she said, without surprise: “the days have worn away, have they?”
+
+“Yes, ma’am. Today is—”
+
+“There, there, there!” she snapped, waving her fingers impatiently. “I don’t want to know. Are you ready to play?”
+
+I answered, a little confused, “I don’t think I am, ma’am.”",0.2,1.0,ab84d5155f086e1178d9239452051cd1659f48d117abb2f28e699699042b7cdf,13cbe678c643484384d5ebd96256e95807b5a75751051ed54869b73e3f75fbc5,553,429,0.775769,warning,length_hard_warning,json_ok,2026-06-02T13:20:05Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_006|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_006,paraphrase,"Then my sister and he would sit together in absurd conjectures about Miss Havisham—what she might do for me, what she might do to me—so that I often felt a painful urge to burst into spiteful tears, to fly at Pumblechook and beat him mercilessly. In those exchanges my sister addressed me as if each mention of Miss Havisham were a moral wrench pulling a tooth from my mouth; while Pumblechook, who had taken it upon himself to be my patron, watched me with a contemptuous eye, like a master of my fate who believed his work was unrewarding.
+
+Joe never entered those conversations. Yet he was frequently spoken of, because Mrs. Joe sensed that he opposed my removal from the forge. I was now old enough to be apprenticed to Joe; and when Joe sat with the poker on his knees, idly sifting the ashes from between the lower bars, my sister would read that innocent gesture as resistance, would leap at him, snatch the poker from his hands, shake him, and put the iron away. Each of these debates ended in the most irritating fashion. In an instant, without any prelude, my sister would yawn, glance at me as if by accident, and swoop down with, “Come! There’s enough of you! You go to bed; you’ve given us trouble enough for one night, I hope!” as though I had begged them to trouble my life.
+
+We continued in this manner for a long spell, and it seemed likely that it would go on for quite some time, when one day Miss Havisham halted as we walked, her arm resting on my shoulder, and said with a hint of displeasure—
+
+“You are growing tall, Pip!”
+
+I thought it best to hint, with a thoughtful look, that this might be due to circumstances beyond my control.
+
+She said nothing more at that moment; but she soon stopped, looked at me again, and again; then fixed a frowning, moody stare. The next day, after our usual walk, when I had escorted her to her dressing‑table, she held me with an impatient flick of her fingers and asked—
+
+“Tell me again the name of that blacksmith of yours.”
+
+“Joe Gargery, ma’am.”
+
+“Meaning the master to whom you are to be apprenticed?”
+
+“Yes, Miss Havisham.”
+
+“You had better be apprenticed at once. Do you think Gargery will come here with you and bring your indentures?”
+
+I indicated that I had no doubt he would consider it an honour to be asked.
+
+“Then let him come.”
+
+“At what time, Miss Havisham?”
+
+“There, there! I know nothing of times. Let him come soon, and come with you.”
+
+When I returned home that night and delivered the message to Joe, my sister “went on the rampage,” more violently than ever before. She demanded of Joe and me whether we thought of her as a doormat beneath our feet, how we dared to treat her so, and what sort of company we thought she was fit for.",0.2,1.0,b5a8b2276df04c21d75935c937b1a8dd8e6b662db2e61192b9ff70c06c9ea4e6,7a3200622f6c7085340282113977f358c7bb1f2a5b9e346addc3470bd28e0e5d,561,503,0.896613,pass,,json_ok,2026-06-02T13:20:19Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_006|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_006,modernize,"Then he and my sister would get into these ridiculous speculations about Miss Havisham and what she might do for me, that I often felt like bursting into angry tears and lashing out at Pumblechook. In those conversations my sister talked to me as if she were pulling a tooth out of my mouth with every mention, while Pumblechook—who had appointed himself my patron—watched me with a contemptuous eye, like a director of my fate who thought his job was unrewarding.
+
+Joe never took part in those talks. Still, they talked about him while they were going on, because Mrs. Joe sensed he wasn’t keen on me leaving the forge. I was old enough now to be Joe’s apprentice, and when Joe sat with the poker on his knees, carefully raking the ashes from the lower bars, my sister would twist that innocent action into opposition, jump at him, snatch the poker from his hands, shake him, and put it away. Each of those debates ended in the most irritating way. In an instant, with no warning, my sister would yawn, glance at me as if by accident, and say, “Come on! That’s enough of you! You go to bed; you’ve caused enough trouble for one night, I hope!” as if I had asked them as a favor to ruin my life.
+
+We kept going like that for a long time, and it seemed likely we’d keep it up for a while, when one day Miss Havisham stopped short while we were walking, leaning on my shoulder, and said, a little annoyed, “You’re getting tall, Pip!” I tried to hint with a thoughtful look that it was something beyond my control.
+
+She didn’t say anything else then, but she kept stopping, looking at me again, and again, then frowning. The next day, after our usual walk, when I had helped her to her dressing table, she held up her impatient fingers and said, “Tell me again the name of that blacksmith of yours.”
+
+“Joe Gargery, ma’am.”
+
+“Do you mean the master you’re supposed to be apprenticed to?”
+
+“Yes, Miss Havisham.”
+
+“You’d better start the apprenticeship right away. Do you think Gargery will come here with you and bring your indenture?”
+
+I indicated that I was sure he’d be honored to be asked.
+
+“Then let him come.”
+
+“At what time, Miss Havisham?”
+
+“There, there! I’m not worried about the timing. Let him come soon, and come with you.”
+
+When I got home that night and delivered the message to Joe, my sister “went on a rampage,” more dramatically than ever before. She asked Joe and me if we thought she was a doormat under our feet, how we could treat her that way, and what sort of company she was supposedly fit for.",0.2,1.0,b5a8b2276df04c21d75935c937b1a8dd8e6b662db2e61192b9ff70c06c9ea4e6,9f058c98781c5de9afc0d893944f072492c6df86d94071a3a7fe5de205fefd04,561,464,0.827094,warning,length_soft_warning,json_ok,2026-06-02T13:20:34Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_006|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_006,simplify,"Then my sister and I would sit and argue about Miss Havisham, guessing what she might do for me. I often felt like crying in spite, wanting to fly at Pumblechook and beat him. In those talks my sister seemed to pull at my heart like she was pulling a tooth out each time Miss Havisham was mentioned. Pumblechook, who thought of himself as my patron, watched me with a disapproving eye, as if he were the architect of my future on a very unrewarding job.
+
+Joe never joined those conversations, but they talked about him while they were going on because Mrs. Joe thought he didn’t want me taken away from the forge. I was old enough now to be Joe’s apprentice, and when Joe sat with a poker on his knees, slowly shoveling ash from the lower bars, my sister would twist that innocent act into opposition. She would rush over, snatch the poker from his hands, shake him, and put the poker away. Every debate ended the same way: without any warning my sister would yawn, glance at me, and say, “Come! That’s enough of you! You go to bed; you’ve caused enough trouble for one night, I hope!” as if I had asked them as a favor to bother my life.
+
+We kept doing this for a long time, and it seemed we would continue forever, when one day Miss Havisham stopped while we were walking, leaning on my shoulder, and said, a little annoyed, “You’re getting tall, Pip!” I tried to hint with a thoughtful look that this was something beyond my control.
+
+She said nothing more at the moment, but she kept looking at me, again and again, her face growing frowning and moody. The next day, after our usual walk, I helped her settle at her dressing table. She stopped me with an impatient finger and asked, “Tell me again the name of that blacksmith of yours.”
+
+“Joe Gargery, ma’am.”
+
+“Do you mean the master you’re supposed to be apprenticed to?”
+
+“Yes, Miss Havisham.”
+
+“You’d better start your apprenticeship at once. Do you think Gargery will come here with you and bring your indenture papers?”
+
+I indicated that I was sure he would be honored to be asked.
+
+“Then let him come.”
+
+“At what time, Miss Havisham?”
+
+“There, there! I don’t know about times. Let him come soon, and bring you along.”
+
+When I got home that night and gave Joe the message, my sister “went on the rampage,” more wildly than ever before. She shouted at both me and Joe, asking if we thought she was a doormat under our feet, how we could treat her that way, and what sort of company we thought she was fit for.",0.2,1.0,b5a8b2276df04c21d75935c937b1a8dd8e6b662db2e61192b9ff70c06c9ea4e6,b9f10adaddc92a8b2df59c3ab44b4a736bb579b158f8419bd972d602c0bed134,561,457,0.814617,warning,length_soft_warning,json_ok,2026-06-02T13:20:49Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_007|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_007,paraphrase,"He kept his quarters with a sluice‑keeper out on the marshes, and on the working days he would shuffle out of his solitary lodging, hands stuffed in his pockets, a loosely tied bundle of his dinner hanging round his neck and swinging on his back. On Sundays he would mostly lie all day upon the sluice‑gates, or lean against the ricks and barns. He always moved in a slouch, his eyes fixed on the ground; and when someone called to him or otherwise forced him to look up, he would raise his gaze in a half‑resentful, half‑confused manner, as if the only thought that ever crossed his mind was that it was a strange and harmful fact that he should never be thinking at all.
+
+This gloomy journeyman bore no affection for me. When I was a small, timid child he would tell me that the Devil dwelt in a black corner of the forge, that he knew the fiend well, and that the fire had to be replenished once in seven years with a living boy, and that I might consider myself fuel. When I later became Joe’s apprentice, Orlick perhaps grew more certain that I might replace him; yet he liked me still less. He never voiced his hostility openly, nor acted in an overtly aggressive way; I only observed that he constantly sent his sparks in my direction, and that whenever I sang Old Clem, he entered out of time.
+
+Dolge Orlick was at his work the next day when I reminded Joe of my half‑holiday. He said nothing at first, for he and Joe had just taken a piece of hot iron between them, and I was at the bellows; but after a while, leaning on his hammer, he said—
+
+""Now, master! Surely you won’t favour only one of us. If Young Pip gets a half‑holiday, do the same for Old Orlick."" I suppose he was about twenty‑five, though he liked to refer to himself as an ancient.
+
+""Why, what will you do with a half‑holiday, if you get one?"" asked Joe.
+
+""What will I do with it! What will he do with it! I’ll do as much with it as he,"" replied Orlick.
+
+""As for Pip, he’s going up town,"" said Joe.
+
+""Well then, as for Old Orlick, he’s going up town,"" retorted the man. ""Two can go up town. It isn’t only one that can go up town.""
+
+""Don’t lose your temper,"" warned Joe.
+
+""I shall if I please,"" growled Orlick. ""Some and their uptowning! Now, master! Come. No favouring in this shop. Be a man!""
+
+The master refused to entertain the matter until the journeyman had calmed, and Orlick lunged at the furnace, drew out a red‑hot bar, swung it at me as if to drive it through my body, whirled it about my head, set it on the anvil, and hammered it out—as if it were I, I thought, and the sparks were my own spattering blood—and finally, when he had heated himself and the iron had cooled, he again leaned on his hammer and said—
+
+""Now, master!""
+
+""Are you all right now?"" demanded Joe.
+
+""Ah! I am all right,"" grunted Old Orlick.
+
+""Then, as you generally keep to your work as well as most men, let it be a half‑holiday for all,"" said Joe.
+
+My sister had been standing silently in the yard within hearing—she was a most unscrupulous spy and listener—and she instantly peered in through one of the windows.",0.2,1.0,88c297d5c52992d952b2933a5dac696ee52307a7c326ae70270b22c6a59b0bf2,7f7b2a59cef2b8ca126f0007ed9c1d8a8b373fe0e7f8283b45d7ece85e0d4343,576,594,1.03125,pass,,json_ok,2026-06-02T13:21:05Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_007|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_007,modernize,"He stayed with a sluice‑keeper out on the marshes, and on workdays he would come slouching from his little hut, hands in his pockets, his dinner tied loosely around his neck and hanging on his back. On Sundays he mostly lay all day on the sluice‑gates or leaned against stacks of hay and barns. He always slouched, moving like a locomotive, eyes fixed on the ground; and when someone stopped him or he had to look up, he raised his eyes in a half‑resentful, half‑confused way, as if the only thought he ever had was that it was a strange and harmful fact that he should never be thinking.
+
+This gloomy journeyman didn’t like me. When I was very small and shy, he made me believe that the Devil lived in a black corner of the forge and that he knew the fiend well; he also said that the fire had to be fed once every seven years with a live boy, and that I might consider myself fuel. When I became Joe’s apprentice, Orlick perhaps became convinced that I would replace him; still, he liked me even less. He never said anything openly hostile, but I noticed he always threw his sparks in my direction, and whenever I sang Old Clem, he came in off‑beat.
+
+Dolge Orlick was at work the next day when I reminded Joe about my half‑day off. He said nothing at first, because he and Joe had just taken a piece of hot iron between them and I was at the bellows; but after a while he said, leaning on his hammer—
+
+""Now, master! Surely you’re not going to favor only one of us. If Young Pip gets a half‑day off, do the same for Old Orlick."" I think he was about twenty‑five, but he always talked about himself as if he were ancient.
+
+""What are you going to do with a half‑day off, if you get one?"" asked Joe.
+
+""What *I* will do with it! What *he* will do with it! I’ll do as much with it as *him*,"" said Orlick.
+
+""As for Pip, he’s going into town,"" said Joe.
+
+""Well then, as for Old Orlick, *he* is going into town too,"" replied the man. ""Two can go into town. It’s not just one who can go into town.""
+
+""Don’t lose your temper,"" said Joe.
+
+""I will if I want to,"" growled Orlick. ""Some people and their uptown‑ness! Now, master! Come on. No favoritism in this shop. Be a man!""
+
+The master refused to deal with the issue until the journeyman calmed down. Orlick lunged at the furnace, pulled out a red‑hot bar, swung it at me as if he were going to drive it through my body, whirled it around my head, laid it on the anvil, and hammered it out—as if it were me, I thought, and the sparks were my spilling blood—and finally said, when he had heated himself and the iron cooled, and he again leaned on his hammer—
+
+""Now, master!""
+
+""Are you all right now?"" demanded Joe.
+
+""Ah! I’m all right,"" said the gruff old Orlick.
+
+""Then, since you’re as steady at your work as most men, let it be a half‑day off for everyone,"" said Joe.
+
+My sister had been standing silently in the yard, within earshot—she was a most unscrupulous spy and listener—and she instantly looked in through one of the windows.",0.2,1.0,88c297d5c52992d952b2933a5dac696ee52307a7c326ae70270b22c6a59b0bf2,822fd750551fea6e4cd3e6b709069b4834a1d39eb749154f9212ad4b492d7a1f,576,581,1.008681,pass,,json_ok,2026-06-02T13:21:19Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_007|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_007,simplify,"He stayed at a sluice‑keeper’s house on the marshes. On work days he would come from his little hut, slouching, hands in his pockets, a bundle of food tied around his neck and hanging on his back. On Sundays he mostly lay on the sluice‑gates or leaned against stacks of hay and barns. He always moved with a slouch, eyes down on the ground; and when someone forced him to look up, he did so with a half‑annoyed, half‑confused expression, as if the only thought he ever had was that it was a strange and harmful fact that he should ever have to think.
+
+This gloomy journeyman did not like me. When I was very small and shy, he told me that the Devil lived in a black corner of the forge and that he knew the devil well; he also said that every seven years the fire had to be fed with a live boy, and that I might be used as fuel. When I became Joe’s apprentice, Orlick perhaps became more convinced that I might replace him; still, he liked me even less. He never said anything openly hostile, but I noticed he always threw his sparks toward me, and whenever I sang Old Clem, he would come in off‑beat.
+
+Orlick was at work the next day when I reminded Joe about my half‑day off. He said nothing at first, because he and Joe were holding a piece of hot iron and I was at the bellows, but after a while he leaned on his hammer and said, “Now, master! You’re not going to favor only one of us, are you? If young Pip gets a half‑day, give the same to old Orlick.” He was about twenty‑five, though he liked to call himself ancient.
+
+“Why, what will you do with a half‑day if you get one?” asked Joe.
+
+“What will I do with it! What will he do with it! I’ll use it just as much as he does,” replied Orlick.
+
+“As for Pip, he’s going into town,” said Joe.
+
+“Well then, as for old Orlick, he’s going into town too,” the journeyman shot back. “Two can go into town. It’s not only one who can go into town.
+
+“Don’t lose your temper,” said Joe.
+
+“I’ll lose it if I want,” growled Orlick. “Some people and their uptown ideas! Now, master! No favoritism in this shop. Be a man!”
+
+The master refused to discuss it until Orlick calmed down. Orlick then rushed to the furnace, pulled out a red‑hot bar of iron, swung it at me as if he were going to drive it through my body, whirled it around my head, set it on the anvil, and hammered it—like it were me, I thought, and the sparks were my own blood. Finally, after heating himself and cooling the iron, he leaned on his hammer again and said, “Now, master!”
+
+“Are you all right now?” asked Joe.
+
+“Yes, I’m all right,” said the gruff old Orlick.
+
+“Then, as you usually work as well as most men, let everyone have a half‑day,” said Joe.
+
+My sister had been standing silently in the yard, within earshot—she was a very nosy spy and listener—and she immediately looked in through one of the windows.",0.2,1.0,88c297d5c52992d952b2933a5dac696ee52307a7c326ae70270b22c6a59b0bf2,38856fd3bc19ae2fe66cbe320be00a71cec5c20c9adb7f651df40b6d353e06be,576,556,0.965278,pass,,json_ok,2026-06-02T13:24:58Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_008|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_008,paraphrase,"“Biddy,” I said, after urging her to keep my confidence, “I desire to become a gentleman.”
+
+“Ah, I would not advise it, if I were in your place!” she replied. “I doubt it would bring you any good.”
+
+“Biddy,” I said, a little sternly, “I have very particular motives for wishing to be a gentleman.”
+
+“You know best, Pip; but do you not think you are content as you are?”
+
+“Biddy,” I exclaimed impatiently, “I am far from content. I am disgusted with my station and with my life. Since I was bound, I have never taken to either. Do not be foolish.”
+
+“Was I foolish?” Biddy said, quietly raising her brows. “I am sorry if I was; I meant no harm. I only want you to prosper and to be at ease.”
+
+“Well then, understand once and for all that I shall never be at ease—or anything but miserable—here, Biddy, unless I can lead a life quite unlike the one I now lead.”
+
+“That is a pity!” Biddy said, shaking her head with a sorrowful expression.
+
+Now I, too, had often thought it a pity, and in the singular quarrel I constantly waged with myself I was half inclined to weep with vexation and distress when Biddy voiced her sentiment and my own. I told her she was right, and I knew it was much to be regretted, yet it could not be helped.
+
+“If I could have settled down,” I told Biddy, pulling up the short grass within reach, as once I had pulled my feelings from my hair and flung them against the brewery wall—“if I could have settled and been but half as fond of the forge as I was in my youth, I know it would have been far better for me. You, Joe, and I would have wanted nothing then, and perhaps Joe and I would have become partners when my time came, and I might even have grown up to keep company with you, and we might have sat on this very bank on a fine Sunday, very different people. I should have been good enough for you; should I not, Biddy?”
+
+Biddy sighed as she watched the ships sailing on, and answered, “Yes; I am not over‑particular.” It sounded scarcely flattering, but I knew she meant well.
+
+“Instead of that,” I said, plucking more grass and chewing a blade or two, “see how I fare. Dissatisfied, uncomfortable, and—what would it matter to me, being coarse and common, if no one had told me so!”
+
+Biddy turned her face suddenly toward mine, looking far more attentively at me than she had at the sailing ships.
+
+“It was neither very true nor very polite to say,” she remarked, directing her eyes again to the ships. “Who said it?”
+
+I was disconcerted, for I had spoken without quite seeing where I was going. It could not be brushed aside now, however, and I answered, “The beautiful young lady at Miss Havisham’s, and she is more beautiful than anyone ever was; I admire her dreadfully, and I want to be a gentleman on her account.”",0.2,1.0,0db03806a2ca8e5bd922bec328ccac74392eef314cb6a6362a40911b73a7fb9b,913eec9fae0060e45b6e2f97a76dbf1267334c8c188b76c78609604fff87339f,553,524,0.947559,pass,,json_ok,2026-06-02T13:25:12Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_008|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_008,modernize,"""Biddy,"" I said, after making her promise to keep it secret, ""I want to be a gentleman.""
+
+""Oh, I wouldn't if I were you!"" she replied. ""I don't think it would help.""
+
+""Biddy,"" I said more firmly, ""I have specific reasons for wanting to be a gentleman.""
+
+""You know best, Pip; but don't you think you're happier the way you are?""
+
+""Biddy,"" I snapped impatiently, ""I'm not happy at all the way things are. I'm disgusted with my job and my life. I've never liked either since I was bound. Don't be ridiculous.""
+
+""Was I ridiculous?"" Biddy said quietly, raising her eyebrows. ""I'm sorry if I was; I didn't mean to be. I just want you to do well and be comfortable.""
+
+""Well, then understand once and for all that I will never be comfortable—or anything but miserable—here, Biddy—unless I can lead a very different kind of life from the one I have now.""
+
+""That's a shame,"" Biddy said, shaking her head sadly.
+
+I had often thought it was a shame, and in the constant inner argument I kept having with myself, I was half inclined to tear up in frustration when Biddy voiced her feelings that matched my own. I told her she was right, and I knew it was a real regret, but there was nothing I could do about it.
+
+""If I could have settled down,"" I told Biddy, pulling up the short grass nearby—just as I had once pulled my feelings out of my hair and kicked them into the brewery wall—""if I could have settled down and been even half as fond of the forge as I was when I was a kid, I know it would have been much better for me. You, Joe, and I would have wanted nothing else, and Joe and I might have become partners when I was older, and I might even have grown up to keep company with you. We could have sat on this very bank on a fine Sunday, completely different people. I would have been good enough for you, wouldn't I, Biddy?""
+
+Biddy sighed, watching the ships sailing by, and answered, ""Yes; I'm not being overly picky."" It didn't sound flattering, but I knew she meant well.
+
+""Instead of that,"" I said, picking more grass and chewing a blade or two, ""look at how I'm doing. I'm dissatisfied, uncomfortable, and—what does it matter to me, being rough and ordinary, if nobody has told me so!""
+
+Biddy turned her face suddenly toward me and looked far more attentively at me than she had at the ships.
+
+""That wasn't very true or very polite,"" she remarked, glancing back at the ships. ""Who said it?""
+
+I was thrown off balance, because I had spoken without really thinking where I was going. I couldn't just brush it off, so I answered, ""The beautiful young lady at Miss Havisham's—she's more beautiful than anyone ever was, I admire her terribly, and I want to be a gentleman because of her.""",0.2,1.0,0db03806a2ca8e5bd922bec328ccac74392eef314cb6a6362a40911b73a7fb9b,ecef1b57492b12e2d42d4a5bb970ae3e624307626f781ad7e39d17b48873d149,553,506,0.915009,pass,,json_ok,2026-06-02T13:25:27Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_008|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_008,simplify,"“Biddy,” I said, after promising to keep her secret, “I want to be a gentleman.”
+
+“Oh, I wouldn’t do that if I were you!” she replied. “I don’t think it would help.”
+
+“Biddy,” I said a little sternly, “I have special reasons for wanting to be a gentleman.”
+
+“You know best, Pip; but don’t you think you’re happier the way you are?”
+
+“Biddy,” I snapped, impatiently, “I’m not happy at all the way things are. I’m disgusted with my job and my life. I’ve never liked either since I was bound. Don’t be ridiculous.”
+
+“Was I ridiculous?” Biddy said quietly, raising her eyebrows. “I’m sorry if I was; I didn’t mean to be. I only want you to do well and be comfortable.”
+
+“Well, then understand once and for all that I will never be comfortable—or anything but miserable—here, Biddy!—unless I can live a very different life from the one I have now.”
+
+“That’s a pity!” Biddy said, shaking her head sadly.
+
+I had often thought it a pity, and in the constant inner quarrel I kept having, I felt half ready to cry from frustration when Biddy voiced both her feelings and mine. I told her she was right, and I knew it was a great regret, but there was nothing I could change.
+
+“If I could have settled down,” I told Biddy, pulling up the short grass nearby, “if I could have settled down and liked the forge even a little as I did when I was a boy, I think things would have been much better for me. You, Joe, and I would have wanted nothing else, and maybe Joe and I would have become partners when I was older, and I might even have grown up to keep company with you. We could have sat on this very bank on a fine Sunday, very different people. I should have been good enough for you, shouldn’t I, Biddy?”
+
+Biddy sighed, watching the ships sailing, and answered, “Yes; I’m not being overly picky.” It didn’t sound very flattering, but I knew she meant well.
+
+“Instead of that,” I said, picking up more grass and chewing a blade or two, “look at how I am now. I’m dissatisfied, uncomfortable, and—what would it matter to me, being rough and common, if nobody told me so!”
+
+Biddy turned her face suddenly toward me and looked at me much more closely than she had looked at the ships.
+
+“That was neither very true nor very polite,” she remarked, glancing back at the ships. “Who said it?”
+
+I was taken aback, because I had spoken without really thinking where I was going. I couldn’t just brush it off, so I answered, “The beautiful young lady at Miss Havisham’s. She’s more beautiful than anyone I’ve ever seen, I admire her terribly, and I want to be a gentleman because of her.”",0.2,1.0,0db03806a2ca8e5bd922bec328ccac74392eef314cb6a6362a40911b73a7fb9b,a49a3dcad4ff6e29b9e2b58a24fafee8c610c7d39dbcc15f71de5e02f3a5d20e,553,481,0.869801,pass,,json_ok,2026-06-02T13:25:41Z
+groq_gpt_oss_120b_free|run_1|DICKENS_GREAT_EXPECTATIONS_009|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,DICKENS_GREAT_EXPECTATIONS_009,paraphrase,"“Very well. You would do better to confront him in his own home. The path will be laid out for you, and you may first meet his son, who is in London. When do you intend to go to London?”
+
+I answered, glancing at Joe who stood there, silent and still, that I thought I could come straight away.
+
+“First,” said Mr. Jaggers, “you ought to have some decent clothes for the occasion, not your work‑garments. Give yourself a week. You’ll also need money. Shall I give you twenty guineas?”
+
+With the utmost composure he produced a long purse, counted the coins on the table and pushed them toward me. It was the first time he had lifted his leg from the chair. After handing over the money he perched astride the chair, swinging his purse and watching Joe.
+
+“Well, Joseph Gargery? You look bewildered?”
+
+“I am!” declared Joe, in a very firm tone.
+
+“It was understood that you wanted nothing for yourself, remember?”
+
+“It was understood,” said Joe. “And it is understood. And it ever will be, accordingly.”
+
+“But what,” asked Mr. Jaggers, still swinging his purse, “if my instructions were to give you a present as compensation?”
+
+“As compensation for what?” Joe demanded.
+
+“For the loss of his services.”
+
+Joe placed his hand on my shoulder with a tenderness that reminded me of a woman’s touch. I have often thought of him since, like a steam‑hammer that can crush a man or pat an egg‑shell, a mixture of strength and gentleness. “Pip, that hearty welcome,” said Joe, “to go free with his services, to honor and fortune, as no words can tell him. But if you think money can make compensation to me for the loss of the little child—what comes to the forge—and ever the best of friends!”
+
+O dear good Joe, whom I was so ready to leave and so ungrateful to, I see you again, with your muscular blacksmith’s arm before my eyes, your broad chest heaving, your voice fading. O dear faithful tender Joe, I feel the loving tremor of your hand upon my arm, as solemn this day as if it were the rustle of an angel’s wing!
+
+Yet I encouraged Joe at the time. I was lost in the labyrinth of my future fortunes and could not retrace the by‑paths we had walked together. I begged Joe to be comforted, for (as he said) we had always been the best of friends, and (as I said) we ever would be so. Joe wiped his eyes with his free wrist, as if bent on gouging himself, but said nothing more.
+
+Mr. Jaggers watched this, as one who recognized in Joe the village simpleton and in me his charge. When it was over he said, weighing the purse he had ceased to swing:
+
+“Now, Joseph Gargery, I warn you this is your last chance. No half‑measures with me. If you intend to take a present that I am authorized to give you, speak, and you shall have it. If, on the contrary, you mean to say—”
+
+Here, to his great astonishment, he was halted by Joe’s sudden advance, every movement displaying a fierce pugilistic purpose.",0.2,1.0,aecd0dbd5d803d112e64f4ad8667e5bcdd70e1354d200d46f541ed7305af6126,27f0af51d2150fb5de992f9877d359dffebe76b3649c799a1d237ae9e5a3c878,556,538,0.967626,pass,,json_ok,2026-06-02T13:25:56Z
