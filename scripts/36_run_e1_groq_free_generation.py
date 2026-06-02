@@ -89,9 +89,11 @@ Do not output reasoning traces, hidden thoughts, analysis, or <think> blocks.
 Do not explain the rewrite.
 Return only the requested JSON object and nothing outside it.
 """
+QWEN_USER_PREFIX = """/no_think
+
+"""
 QWEN_USER_SUFFIX = """
 
-/no_think
 Return only a valid JSON object with passage_id, condition, and rewritten_text.
 Do not include <think>, analysis, markdown, commentary, or text before or after the JSON object.
 """
@@ -158,14 +160,17 @@ def build_requests(target: str, provider_model_name: str, passages_per_author: i
     system_prompt = helper.SYSTEM_PROMPT
     if target == "qwen":
         system_prompt += QWEN_SYSTEM_SUFFIX
-    prompt_hash = sha256_text(system_prompt + json.dumps(helper.CONDITION_INSTRUCTIONS, sort_keys=True))
+    prompt_material = system_prompt + json.dumps(helper.CONDITION_INSTRUCTIONS, sort_keys=True)
+    if target == "qwen":
+        prompt_material += QWEN_USER_PREFIX + QWEN_USER_SUFFIX
+    prompt_hash = sha256_text(prompt_material)
     requests = []
     for original in originals:
         original_wc = int(float(original["text_word_count"]))
         for condition in CONDITIONS:
             user_prompt = helper.user_prompt(original["passage_id"], condition, original["text"], original_wc)
             if target == "qwen":
-                user_prompt += QWEN_USER_SUFFIX
+                user_prompt = QWEN_USER_PREFIX + user_prompt + QWEN_USER_SUFFIX
             request_id = "|".join([target_cfg["replication_model_id"], "run_1", original["passage_id"], condition])
             requests.append({
                 "request_id": request_id,
@@ -274,7 +279,7 @@ def call_groq(api_key: str, req: dict[str, Any], provider_model_name: str, timeo
         "top_p": req["top_p"],
     }
     if req.get("replication_model_id") == TARGETS["qwen"]["replication_model_id"]:
-        payload["response_format"] = {"type": "json_object"}
+        payload["reasoning_format"] = "hidden"
     data = json.dumps(payload).encode("utf-8")
     request = urllib.request.Request(
         API_URL,
