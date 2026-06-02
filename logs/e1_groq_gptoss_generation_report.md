@@ -1,18 +1,18 @@
 # E1 Groq Free-Model Generation Report
 
-Generated UTC: 2026-06-02T23:12:43Z
+Generated UTC: 2026-06-02T23:18:47Z
 
 - target: gptoss
 - replication_model_id: groq_gpt_oss_120b_free
 - provider_model_name: openai/gpt-oss-120b
 - passages_per_author: 20
 - planned_requests_this_scope: 360
-- completed_this_run: 56
-- raw_ok_rows_total: 145
-- remaining_requests: 215
-- parsed_rows_total: 145
-- qc_pass_rows: 99
-- qc_warning_rows: 46
+- completed_this_run: 6
+- raw_ok_rows_total: 151
+- remaining_requests: 209
+- parsed_rows_total: 151
+- qc_pass_rows: 103
+- qc_warning_rows: 48
 - qc_fail_rows: 0
 - exit_reason: rate_limit_wait_exceeds_remaining_runtime_resume_later
 - raw_path: data\interim\e1_free_model_replication\groq_generation\groq_gpt_oss_120b_free\raw_responses.jsonl

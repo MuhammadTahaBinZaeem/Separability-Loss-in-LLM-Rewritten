@@ -2925,3 +2925,101 @@ Realizing that Jupiter could not give me a satisfactory answer—his mind seemed
 ""This bug will make my fortune,"" he continued, a triumphant smile spreading, ""restore me to my family’s estate. Is it any wonder I cherish it? Since Fortune has deemed me worthy of it, I need only use it wisely and I shall reach the gold of which it is a sign. Jupiter; bring me that _scarabæus_!""
 
 ""What! the bug, massa? I’d not go after that trouble—you must get it for yourself."" At that moment Legrand rose, assuming a grave, dignified bearing, and produced the beetle from a glass case in which it had been kept. It was a splendid scarabæus, at that time unknown to naturalists—a true scientific treasure. Two round black spots marked one end of its back, and a long one marked the other. Its scales were extraordinarily hard and glossy, looking as if they were polished gold. The insect’s weight was striking, and, considering everything, I could hardly fault Jupiter’s high opinion of it; yet I could not for the life of me understand why Legrand so readily agreed with him.",0.2,1.0,782cf703586ede1041c809de3610e826bcdb7b82cfba1a4ae8947c24f94fb2cc,5377f8fea23bf64ccc5b4515f665d700209ab12269d16cda207a82bc8fbbdbf8,567,521,0.918871,pass,,json_ok,2026-06-02T23:12:31Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_009|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_009,modernize,"I feared that the ongoing pressure of misfortune might finally have unsettled my friend's mind. Without hesitation, I prepared to accompany the negro.
+
+Upon reaching the wharf, I noticed a scythe and three spades, all apparently new, lying in the bottom of the boat we were about to board.
+
+“What’s the meaning of all this, Jup?” I asked.
+
+“Him syfe, massa, and spade.”
+
+“Very true; but what are they doing here?”
+
+“Him de syfe and de spade what Massa Will sis pon my buying for him in de town, and de debbil’s own lot of money I had to gib for ’em.”
+
+“But what, in the name of all that is mysterious, is your ‘Massa Will’ going to do with scythes and spades?”
+
+“That’s more than I know, and debbil take me if I don’t believe it’s more than he knows, too. But it’s all cum ob do bug.”
+
+Finding that no satisfaction could be obtained from Jupiter, whose whole mind seemed absorbed by “the bug,” I stepped into the boat and set sail. With a fair and strong breeze we soon reached the small cove north of Fort Moultrie, and a two‑mile walk brought us to the hut. It was about three in the afternoon when we arrived. Legrand had been waiting for us anxiously. He grasped my hand with a nervous eagerness that alarmed me and confirmed my suspicions. His face was pale to the point of looking ghastly, and his deep‑set eyes shone with an unnatural gleam. After asking about his health, I asked him, not knowing what else to say, whether he had finally obtained the scarab from Lieutenant G——.
+
+“Oh, yes,” he replied, flushing violently, “I got it from him the next morning. Nothing would make me give up that scarab. Do you know that Jupiter is absolutely right about it?”
+
+“In what way?” I asked, feeling a sad foreboding.
+
+“In thinking it’s a bug made of real gold.” He said this with great seriousness, and I was profoundly shocked.
+
+“This bug will make my fortune,” he continued with a triumphant smile, “restore my family’s property. Is it any wonder I value it? Since Fortune has decided to give it to me, I just have to use it properly and I’ll reach the gold it points to. Jupiter, bring me that scarab!”
+
+“What! the bug, master? I wouldn’t want any trouble with that bug—you must get it for yourself.” At that moment Legrand rose, with a solemn and dignified air, and brought me the beetle from a glass case where it was kept. It was a beautiful scarab, at that time unknown to naturalists—a great prize scientifically. There were two round black spots near one end of its back and a long one near the other. The scales were extremely hard and glossy, looking like polished gold. The insect’s weight was remarkable, and considering everything, I could hardly blame Jupiter for his opinion about it; but I couldn’t understand why Legrand agreed with him.",0.2,1.0,782cf703586ede1041c809de3610e826bcdb7b82cfba1a4ae8947c24f94fb2cc,e50136a077c3de75e5a3586c04814e92f604882225b1ad6acfbe5170279f5b44,567,503,0.887125,pass,,json_ok,2026-06-02T23:17:20Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_009|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_009,simplify,"I feared that the constant pressure of bad luck might finally drive my friend insane. Without hesitation I got ready to go with the black man.
+
+When we reached the dock I saw a new scythe and three new spades lying at the bottom of the boat we were to board.
+
+""What are those for, Jup?"" I asked.
+
+""Him syfe, massa, and spade,"" he answered.
+
+""Okay, but why are they here?""
+
+""Him de syfe and de spade what Massa Will sis pon my buying for him in de town, and de debbil’s own lot of money I had to gib for ’em.""
+
+""But what on earth is your 'Massa Will' going to do with a scythe and spades?""
+
+""Dat’s more dan I know, and debbil take me if I don’t b’lieve ’tis more dan he know, too. But it’s all cum ob do bug.""
+
+Realizing Jupiter could not give a clear answer—his mind seemed stuck on the ""bug""—I stepped into the boat and set sail. A strong wind carried us quickly to a small cove north of Fort Moultrie, and after a two‑mile walk we reached a hut about three in the afternoon. Legrand was waiting for us, his hand shaking as he grasped mine, which made me uneasy and confirmed my suspicions. His face was pale to the point of looking ghostly, and his deep eyes shone with an unnatural light. After asking about his health, I tried to change the subject and asked if he had finally obtained the scarab from Lieutenant G——.
+
+""Oh, yes,"" he said, his face flushing, ""I got it from him the next morning. Nothing will make me give up that scarab. Do you know that Jupiter is right about it?""
+
+""Right about what?"" I asked, feeling a dark foreboding.
+
+""He thinks it’s a bug made of real gold,"" he replied very seriously, and I was shocked.
+
+""This bug will make me rich,"" he continued with a triumphant smile, ""it will restore my family’s fortune. No wonder I value it so much. Since fate has given it to me, I only have to use it correctly and I will reach the gold it points to. Jupiter, bring me that scarab!""
+
+""What! The bug, master? I wouldn’t go looking for trouble over that bug—you must get it for yourself."" At that moment Legrand rose, looked dignified, and took the beetle from a glass case where it had been kept. It was a beautiful scarab, unknown to scientists at the time—a great scientific prize. It had two round black spots near one end of its back and a long one near the other. Its scales were extremely hard and glossy, looking like polished gold. The insect was surprisingly heavy, and considering everything, I could understand why Jupiter thought it was valuable; but I could not at all understand why Legrand agreed with him.",0.2,1.0,782cf703586ede1041c809de3610e826bcdb7b82cfba1a4ae8947c24f94fb2cc,bd64539c79762c1f9eacbc7ec1fb313c65e312f77a97523c2362dc07b6eef8da,567,482,0.850088,pass,,json_ok,2026-06-02T23:17:34Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_010|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_010,paraphrase,"This contemplation hinted at some significance—some relevance—in the death‑head. I also noted the shape of the parchment. Though one corner had been torn away by accident, it was evident that the original sheet was oblong. It was precisely the sort of slip that might be chosen for a memorandum—a record meant to be long remembered and carefully kept.
+
+""But,"" I interjected, ""you say the skull was not on the parchment when you made the beetle drawing. How then can you link the boat and the skull—since, as you admit, the skull must have been added (God only knows how or by whom) after you had sketched the scarab?""
+
+""Ah, that is where the whole mystery turns; yet the secret, at this point, was relatively easy for me to solve. My reasoning was straightforward and led to a single conclusion. I thought, for instance: when I drew the scarab, no skull was visible on the parchment. After I finished the drawing I handed it to you and watched you closely until you returned it. You, therefore, did not create the skull, and no one else was present to do so. So it was not the work of a human hand. Yet it was done.
+
+""At this stage of my reflections I tried to recall, and I did recall with perfect clarity, every incident that occurred around that time. The weather was chilly (a rare and fortunate circumstance!), and a fire burned brightly in the hearth. I was warm from exertion and sat near the table. You, however, had placed a chair close to the chimney. As I handed the parchment to you and you were examining it, Wolf, the Newfoundland, entered and leapt onto your shoulders. With your left hand you patted him and kept him at bay, while your right hand, still holding the parchment, allowed it to slip lazily between your knees, close to the fire. At one point I thought the flames were about to seize it and I was about to warn you, but before I could speak you had withdrawn it and were again studying it. When I considered all these details, I had no doubt that heat had been the agent that revealed the skull on the parchment. You know well that there are chemical preparations, known since antiquity, that allow writing on paper or vellum to become visible only when exposed to fire. Zaffre, dissolved in aqua regia and diluted with four times its weight in water, sometimes yields a green hue. The regulus of cobalt, dissolved in spirit of nitre, produces a red. These colors fade after a short or long period once the material cools, but reappear when heat is applied again.
+
+""I now examined the death‑head closely. Its outer edges—the parts of the drawing nearest the edge of the vellum—were far clearer than the others. It was evident that the action of the heat had been uneven or incomplete.",0.2,1.0,22d8f6cc110c829668475e1cdfa4dbc59828ca3b01000ca62d766f5566397dfa,f653b09a43f51f0e4108d1ba34c73c6c61c91117acebb563c6736fca22dbf137,557,496,0.890485,pass,,json_ok,2026-06-02T23:17:49Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_010|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_010,modernize,"This thought gave the death's-head some meaning, some relevance. I also noticed the shape of the parchment. Though one corner had been accidentally torn away, it was clear the original sheet was oblong. It was exactly the kind of slip one would use for a memorandum—a record meant to be remembered and carefully preserved.
+
+“But,” I interjected, “you say the skull wasn’t on the parchment when you drew the beetle. How can you link the boat and the skull—since, as you admit, the skull must have been added (who knows how or by whom) after you sketched the scarab?”
+
+“Ah, that’s where the whole mystery turns; but at this point the secret was relatively easy for me to solve. My reasoning was straightforward and led to only one conclusion. I thought, for example: when I drew the scarab, there was no skull on the parchment. After I finished the drawing I handed it to you and watched you closely until you gave it back. So you didn’t add the skull, and no one else was there to do it. It wasn’t done by any human hand—yet it was done.
+
+At this point I tried to recall everything that happened around that time, and I remembered it all clearly. The weather was cold (a rare and fortunate coincidence), and a fire burned in the hearth. I was warm from exertion and sat near the table. You, on the other hand, had placed a chair close to the chimney. As I handed the parchment to you and you began to examine it, Wolf, the Newfoundland, came in and jumped onto your shoulders. With your left hand you petted him and kept him off, while your right hand, holding the parchment, let it slip lazily between your knees, close to the fire. For a moment I thought the flames might catch it and I was about to warn you, but before I could speak you pulled it back and continued examining it. Considering all this, I had no doubt that the heat had caused the skull to appear on the parchment. You know that there are chemical preparations, known for ages, that allow writing on paper or vellum to become visible only when heated. Zaffre, dissolved in aqua regia and then diluted with four parts water, produces a green tint. Cobalt regulus, dissolved in spirit of nitre, yields a red. These colors fade after the material cools, but reappear when heat is applied again.
+
+I now examined the death’s-head closely. Its outer edges—the parts of the drawing nearest the edge of the vellum—were much clearer than the rest. It was obvious that the heat had been applied unevenly.",0.2,1.0,22d8f6cc110c829668475e1cdfa4dbc59828ca3b01000ca62d766f5566397dfa,9aa7418cf5b7788a041f7c77f5c6b467e5ab2a803bc9eddef9d8f10223071c01,557,452,0.81149,warning,length_soft_warning,json_ok,2026-06-02T23:18:05Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_010|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_010,simplify,"I thought the skull image might have some meaning. I also noticed the shape of the parchment. One corner was torn, but it was clear the sheet was originally oblong. It looked like a slip that could be used for a memo—a record meant to be kept and remembered.
+
+“But,” I said, “you say the skull wasn’t on the parchment when you drew the beetle. How can you link the boat and the skull, if, as you admit, the skull was added later, after you drew the scarab?”
+
+“Ah, that’s where the mystery lies, though I could solve it easily. My reasoning was simple: when I drew the scarab, there was no skull on the parchment. After I finished, I handed it to you and watched you closely until you gave it back. You didn’t add the skull, and no one else was there. So a human didn’t draw it, yet it appeared.
+
+Now I tried to recall everything that happened then, and I remembered it clearly. It was a cold night, and a fire burned in the hearth. I was warm from moving and sat near the table. You had placed a chair near the chimney. When I handed the parchment to you and you began to look at it, Wolf, the Newfoundland dog, came in and jumped onto your shoulders. You used your left hand to hold the dog and your right hand held the parchment, which slipped down between your knees, close to the fire. I thought the fire might burn it and was about to warn you, but before I could speak you lifted it and kept examining it. Considering all this, I was sure the heat had caused the skull image to appear on the parchment. You know that there are chemical inks that only show up when heated. For example, zaffre dissolved in aqua regia and diluted with water gives a green tint; cobalt dissolved in nitre spirit gives red. These colors fade when the paper cools but reappear when heated again.
+
+I examined the skull picture closely. The parts of the drawing near the edge of the vellum were much clearer than the rest. It was obvious that the heat had not been applied evenly.",0.2,1.0,22d8f6cc110c829668475e1cdfa4dbc59828ca3b01000ca62d766f5566397dfa,c0ecb25162fb1f0c03e0c36e721effd9d8346924d47d96ba7da84474eec45278,557,373,0.669659,warning,length_hard_warning,json_ok,2026-06-02T23:18:21Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_011|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_011,paraphrase,"My first attempt was to separate the sentence according to the natural division intended by the cryptographer.
+
+""You mean, to punctuate it?""
+
+""Something of that sort.""
+
+""But how could one accomplish that?""
+
+""I thought that the author had deliberately run his words together without any breaks to make the puzzle harder. Yet a man who is not overly sharp, while trying to achieve that aim, would almost certainly overdo it. When, during his writing, he reached a point where the subject naturally called for a pause or a period, he would be very likely to press his characters together more tightly than usual. If you examine the manuscript now, you will readily notice five instances of such unusual crowding. Using this clue, I divided the passage as follows: ‘A good glass in the Bishop’s hostel in the Devil’s seat—forty‑one degrees and thirteen minutes—northeast and by north—main branch seventh limb east side—shoot from the left eye of the death‑head—a bee‑line from the tree through the shot fifty feet out.’""
+
+""Even with that division,"" I said, ""I remain in the dark.""
+
+""It left me in the dark as well,"" Legrand replied, ""for several days; during that time I made careful inquiries around Sullivan’s Island for any building called the ‘Bishop’s Hotel,’ having, of course, dropped the archaic term ‘hostel.’ Finding no information, I was about to broaden my search and adopt a more systematic approach when, one morning, it suddenly occurred to me that this ‘Bishop’s Hostel’ might refer to an old family named Bessop, who for ages had owned an ancient manor about four miles north of the island. I therefore went to the plantation and resumed my questioning among the older negroes there. At last one of the eldest women said she had heard of a place called Bessop’s Castle and thought she could lead me to it, though it was neither a castle nor a tavern but a high rock.
+
+""I offered her a generous payment for her trouble, and after some hesitation she agreed to accompany me. We located it without much difficulty; after she left, I examined the spot. The ‘castle’ was an irregular grouping of cliffs and rocks—one of them striking for its height and its strangely artificial appearance. I climbed to its summit and then felt quite at a loss as to what to do next.
+
+""While I was pondering, my eyes fell on a narrow ledge on the eastern face of the rock, perhaps a yard below the top where I stood. The ledge jutted out about eighteen inches and was no wider than a foot, while a niche in the cliff just above gave it a crude likeness to one of the hollow‑backed chairs used by our ancestors. I had no doubt that this was the ‘devil’s seat’ mentioned in the manuscript.""",0.2,1.0,806f21d59c402f0de11e509e9a70aed6e35703b4bee5ac39476d3fa63b13fa3d,e918bdf525a41941a107ffe6afb4377cb80c420a87bc128e6e2594dc1c1a7ddb,552,479,0.867754,pass,,json_ok,2026-06-02T23:18:35Z
