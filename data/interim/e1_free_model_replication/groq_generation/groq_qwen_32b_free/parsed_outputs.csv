@@ -1862,3 +1862,250 @@ When Joe refused to discuss it while Orlick was so upset, Orlick grabbed a red-h
 “Then since you work as well as most men,” Joe said, “let everyone have a half-day off.”
 
 My sister had been standing quietly in the yard nearby—she was a terrible eavesdropper—and she immediately looked in through a window.",0.2,1.0,88c297d5c52992d952b2933a5dac696ee52307a7c326ae70270b22c6a59b0bf2,c2ca925307b8c3fa349264f1cbf99ce8979ecdae805db722caf38e473d553304,576,502,0.871528,warning,json_extracted,json_extracted,2026-06-02T09:23:35Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_008|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_008,paraphrase,"""Biddy,"" I said, after making her promise silence, ""I wish to become a gentleman."" 
+
+""Oh, I wouldn't do that if I were you!"" she replied. ""I don't believe it would work out."" 
+
+""Biddy,"" I said, my tone sharper, ""I have my own reasons for wanting this."" 
+
+""You know best, Pip; but don't you think you're content as you are?"" 
+
+""Biddy,"" I snapped, ""I'm far from content. I'm sick of my trade and my life. I've never adapted to either since my apprenticeship began. Don't be ridiculous."" 
+
+""Was I being foolish?"" Biddy asked, lifting her brows calmly. ""I apologize if so—I meant no harm. I only wish for you to prosper and find ease."" 
+
+""Then understand this once and for all: I'll never find ease—or anything but misery—there, Biddy! Unless I lead an entirely different life than the one I live now."" 
+
+""How unfortunate,"" Biddy murmured, shaking her head with a pained expression. 
+
+I had often shared that sentiment myself, and in my endless inner conflict, I nearly wept at her echoing my thoughts. I told her she was right, though I knew it was lamentable, and that it could not be undone. 
+
+""If only I could have settled,"" I confessed to Biddy, tearing at the short grass nearby, much as I once tore at my emotions and hurled them against the brewery wall—""if only I could have accepted the forge as I did in my youth, I know it would have been better. You, me, and Joe would have lacked for nothing, and Joe and I might have partnered when my term ended. I might even have grown up to court you, and we could have sat here on a fine Sunday, entirely different people. I'd have been worthy of you, wouldn't I, Biddy?"" 
+
+Biddy sighed, watching the ships pass, and answered, ""Certainly; I have no high demands."" It sounded less like praise than I wished, but I knew her intentions were kind. 
+
+""Instead,"" I muttered, plucking more grass and chewing a few blades, ""look at me now—restless, uneasy, and what good is it to be coarse and common if no one has ever told me so?"" 
+
+Biddy turned abruptly to face me, studying me more closely than she had the ships. 
+
+""That was neither truthful nor courteous to say,"" she observed, refocusing on the vessels. ""Who told you that?"" 
+
+I faltered, realizing I'd spoken without thinking. There was no evading it now, so I admitted, ""The lovely young woman at Miss Havisham's, and she's more beautiful than any I've ever seen. I'm utterly captivated by her, and I want to be a gentleman for her sake.""",0.2,1.0,0db03806a2ca8e5bd922bec328ccac74392eef314cb6a6362a40911b73a7fb9b,defb075c393aa60e65d06df0c81a3fe51f57497fe23224ecb391f4f3f7bd29ff,553,442,0.799277,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T09:41:44Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_008|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_008,modernize,"""Biddy,"" I said after making her promise to keep this between us, ""I want to become a gentleman."" 
+
+""Oh, I wouldn't do that if I were you,"" she replied. ""I don't think it would work out."" 
+
+""Biddy,"" I said in a stern tone, ""I have my reasons for wanting this."" 
+
+""You know best, Pip, but don't you think you're happier the way things are?""
+
+""Biddy,"" I snapped impatiently, ""I'm not happy at all. I'm disgusted with my job and my whole life. I've hated both since I started apprenticing. Don't be ridiculous.""
+
+""Was I being ridiculous?"" Biddy asked, raising her eyebrows. ""I'm sorry if I was. I just want you to succeed and be content.""
+
+""Well then, understand this once and for all — I'll never be content or anything but miserable here, Biddy, unless I can live a completely different life than the one I have now.""
+
+""That's unfortunate,"" Biddy said, shaking her head with a sad expression.
+
+I felt the same way so often that when she echoed my thoughts, I almost wanted to cry from frustration. I told her she was right and that I regretted it, but there was nothing we could do about it.
+
+""If I could have settled down,"" I said to Biddy, picking at the short grass like I used to tear at my emotions and kick them into the brewery wall, ""if I could have been half as happy at the forge as I was when I was a kid, I know things would have been better. You, me, and Joe would have had everything we needed. Joe and I might have gone into business together when my apprenticeship ended, and maybe I could have even dated you. We might have sat right here on a nice Sunday, completely different people. I'd have been good enough for you, wouldn't I, Biddy?""
+
+Biddy sighed as she watched the ships pass by, then replied, ""Probably. I don't have high standards."" It didn't sound like much of a compliment, but I knew she meant it kindly.
+
+""Instead,"" I said, pulling more grass and chewing a blade or two, ""look at me now — unhappy, restless, and what difference does it make that I'm rough and common if no one ever told me that!""
+
+Biddy turned to look at me more intently than she had at the ships.
+
+""That's not a true or very polite thing to say,"" she remarked, shifting her gaze back to the water. ""Who told you that?""
+
+I was caught off guard — I hadn't realized where my thoughts were going. But there was no backing out now, so I admitted, ""The beautiful young woman at Miss Havisham's. And she's more beautiful than anyone has ever been. I'm completely smitten with her, and that's why I want to be a gentleman.""",0.2,1.0,0db03806a2ca8e5bd922bec328ccac74392eef314cb6a6362a40911b73a7fb9b,88ddfe36d9266e28fc55577350be2f9d0baeedac6247507178b5c8fbc5b13034,553,466,0.842676,warning,json_extracted;length_soft_warning,json_extracted,2026-06-02T09:42:02Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_008|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_008,simplify,"""Biddy,"" I said after making her promise to keep it secret, ""I want to become a gentleman."" 
+
+""Oh, I wouldn’t do that if I were you!"" she replied. ""I don’t think it would work out."" 
+
+""Biddy,"" I said in a serious tone, ""I have my reasons for wanting this."" 
+
+""You know best, Pip, but don’t you think you’re happier the way you are?"" 
+
+""Biddy,"" I snapped impatiently, ""I’m not happy at all. I’m disgusted with my job and my life. I’ve never liked either since I became an apprentice. Don’t be ridiculous."" 
+
+""Was I being ridiculous?"" Biddy asked, raising her eyebrows. ""I’m sorry. I just want you to succeed and be happy."" 
+
+""Then understand this: I’ll never be happy—or anything but miserable—where I am now unless I live a completely different life."" 
+
+""That’s too bad,"" Biddy said, shaking her head sadly. 
+
+I felt the same way so often that I almost cried when she echoed my own thoughts. I told her she was right and that it was regrettable, but nothing could change it. 
+
+""If I could’ve stayed at the forge and loved it half as much as I did as a kid,"" I said, pulling at the grass like I once tore feelings from my hair and kicked them into the brewery wall, ""things would’ve been better. You, me, and Joe would’ve had everything we needed. Joe and I might’ve gone into business together, and maybe I’d have ended up with you. We could’ve sat here on a Sunday, different people. Would I have been good enough for you, Biddy?"" 
+
+Biddy watched the ships sailing by and sighed. ""Yes, I don’t have high standards,"" she said. It didn’t sound kind, but I knew she meant well. 
+
+""Instead, look at me now,"" I said, picking more grass and chewing it. ""Unhappy, restless—and what difference does it make if I’m coarse and common, if no one ever told me?"" 
+
+Biddy turned to look at me sharply. ""That was an untrue and rude thing to say,"" she remarked, eyes still on the ships. ""Who told you that?"" 
+
+I was caught off guard, but there was no backing down now. ""The beautiful girl at Miss Havisham’s house,"" I admitted. ""She’s the most beautiful person I’ve ever seen. I’m obsessed with her, and I want to be a gentleman because of her.""",0.2,1.0,0db03806a2ca8e5bd922bec328ccac74392eef314cb6a6362a40911b73a7fb9b,7c97edd04a257899fbb341f4400b048e107fcba5daaac448094ab34248e0492c,553,391,0.707052,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T09:42:21Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_009|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_009,paraphrase,"“Good. You had better test him in his own home. The path will be cleared for you, and you may meet his son first, who resides in London. When shall you arrive in London?”
+
+I replied (glancing at Joe, who remained standing motionless and watching), that I believed I could come immediately.
+
+“First,” said Mr. Jaggers, “you require new garments to present yourself, and they must not be laborer’s attire. Say next week. You’ll need funds. Shall I leave you twenty guineas?”
+
+He produced a long purse with complete composure, counted the coins onto the table, and slid them toward me. This was the first time he had removed his leg from the chair. He straddled the chair after pushing the money over, swinging his purse and observing Joe.
+
+“Well, Joseph Gargery? You appear stunned?”
+
+“I _am_!” said Joe, with unmistakable conviction.
+
+“It was agreed that you desired nothing for yourself, remember?”
+
+“It was agreed,” said Joe. “And it remains agreed. And it always shall be.”
+
+“But suppose,” said Mr. Jaggers, swinging his purse, “suppose it was part of my instructions to offer you a gift, as recompense?”
+
+“As recompense for what?” Joe asked.
+
+“For the loss of his services.”
+
+Joe placed his hand on my shoulder with the gentleness of a woman. I have often recalled him afterward, like the steam-hammer that could crush a man or cradle an egg-shell, blending strength with tenderness. “Pip is most welcome,” said Joe, “to carry his services freely toward honor and fortune, beyond any words can express. But if you believe money could atone to me for losing the little boy—who came to the forge—and ever the best of friends—”
+
+O dear good Joe, whom I so readily abandoned and so ungrateful toward, I see you again, your blacksmith’s arm shielding your eyes, your broad chest rising and falling, your voice fading. O dear faithful tender Joe, I feel the loving quiver of your hand on my arm, as solemnly today as if it had been the whisper of an angel’s wing!
+
+But I reassured Joe at the time. I was consumed by the labyrinths of my future prospects, unable to revisit the quiet trails we had walked together. I urged Joe to take comfort, for (as he said) we had always been the best of friends, and (as I said) we always would be. Joe rubbed his eyes with his free wrist, as if determined to blind himself, but uttered no further words.
+
+Mr. Jaggers had observed this, regarding Joe as one might a village fool and me as his guardian. When it ended, he said, weighing the purse now in his hand:
+
+“Now, Joseph Gargery, I caution you this is your final opportunity. No partial solutions with me. If you intend to accept a gift I am authorized to bestow, declare it, and you shall receive it. If instead you intend to refuse—” Here, to his great surprise, Joe abruptly circled him with every sign of a fierce pugilistic intent.",0.2,1.0,aecd0dbd5d803d112e64f4ad8667e5bcdd70e1354d200d46f541ed7305af6126,4c1045a5f25a1467a029280996c7617eb605d9444a3022c7c2ae88ab84e3c35a,556,502,0.902878,warning,json_extracted,json_extracted,2026-06-02T09:42:39Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_009|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_009,modernize,"Good. You’d better try him at his place. I’ll have things set up for you, and you can meet his son first—he’s in London. When are you coming to London? 
+
+I said (glancing at Joe, who stood there motionless, watching us), that I figured I could come right away. 
+
+""First,"" said Mr. Jaggers, ""you’ll need some new clothes to wear, and they shouldn’t be work clothes. How about next week? You’ll need cash. Should I leave you twenty guineas?"" 
+
+He pulled out a long purse, totally calm, and counted the money on the table, sliding it toward me. That was the first time he’d taken his leg off the chair. He straddled the chair after pushing the money over, swinging his purse and eyeing Joe. 
+
+""Well, Joseph Gargery? You look stunned."" 
+
+""I am,"" said Joe, dead serious. 
+
+""Remember, it was understood you didn’t want anything for yourself?"" 
+
+""That was the deal,"" said Joe. ""And it still is. It always will be."" 
+
+""But what,"" said Mr. Jaggers, swinging his purse, ""if it was my job to give you something as a thank-you?"" 
+
+""A thank-you for what?"" Joe asked. 
+
+""For losing his services."" 
+
+Joe laid his hand on my shoulder with the gentleness of a woman. I’ve often thought of Joe since, like a steam hammer that could crush a man or pat an eggshell—so strong yet so soft. ""Pip’s more than welcome,"" said Joe, ""to go free with his help, to honor and fortune, more than words can say. But if you think money can make up for losing the little kid who came to the forge—and our friendship—"" 
+
+Oh, dear good Joe, whom I left so easily and never thanked enough—I see you again, your blacksmith’s arm shielding your eyes, your chest heaving, your voice fading. Oh, dear loyal, tender Joe, I feel your hand trembling on my arm today as strongly as an angel’s wing. 
+
+But I reassured Joe back then. I was too caught up in my future riches to look back at the paths we’d walked together. I told Joe not to worry, since (as he said) we’d always been best friends, and (as I said) always would be. Joe wiped his eyes with his free hand, like he was trying to gouge them out, but said nothing else. 
+
+Mr. Jaggers watched this, like he saw Joe as the village idiot and me as his keeper. When it was over, he said, holding the purse in his hand, no longer swinging it: 
+
+""Now, Joseph Gargery, this is your last shot. No half-ways about me. If you want the gift I’m here to give you, say so, and you’ll get it. If you’d rather say—"" Here, to his shock, Joe suddenly lunged at him with every sign of a brutal punch coming.",0.2,1.0,aecd0dbd5d803d112e64f4ad8667e5bcdd70e1354d200d46f541ed7305af6126,2e2a416bc8f60e555cbadaa4fd4d6768b954e85667a1ea99eff64ba1226a2e2c,556,468,0.841727,warning,json_extracted;length_soft_warning,json_extracted,2026-06-02T09:43:00Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_009|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_009,simplify,"""Good. Try him in his own house. The way will be ready for you, and you can meet his son first, who's in London. When will you come to London?""
+
+I said (looking at Joe, who stood still watching silently), that I thought I could come right away.
+
+""First,"" said Mr. Jaggers, ""you'll need new clothes, not work clothes. Say next week. You'll need money. Shall I leave you twenty pounds?""
+
+He pulled out a long wallet calmly, counted the money on the table, and slid it toward me. This was the first time he had removed his leg from the chair. He sat straddling the chair after pushing the money over, swinging his wallet and watching Joe.
+
+""Well, Joseph Gargery? You look stunned?""
+
+""I am!"" said Joe firmly.
+
+""Remember, it was understood you wanted nothing for yourself?""
+
+""It was understood,"" said Joe. ""And it still is. And always will be.""
+
+""But what,"" said Mr. Jaggers, swinging his wallet, ""if I was told to give you money as payment?""
+
+""Payment for what?"" Joe asked.
+
+""For losing his help.""
+
+Joe put his hand on my shoulder gently. I've often thought of Joe later, like a strong machine that could crush or be careful, mixing strength with kindness. ""Pip is welcome to go free with his help, to honor and fortune, more than words can say,"" said Joe. ""But if you think money can pay me for losing the little boy who came to the forge—and our friendship!""
+
+Oh, dear good Joe, whom I left so easily and treated so unkindly. I see you again, your blacksmith's arm covering your eyes, your chest rising and falling, your voice fading. Oh, dear loyal Joe, I feel your trembling hand on my arm today as sacred as an angel's wing.
+
+But I reassured Joe then. I was lost in my future riches, unable to remember our old paths. I told Joe not to worry, since we had always been friends, and always would be. Joe rubbed his eyes with his free wrist, as if trying to hurt himself, but said nothing more.
+
+Mr. Jaggers watched this, thinking Joe was a village fool and me his caretaker. When it ended, he said, weighing his wallet in his hand:
+
+""Now, Joseph Gargery, this is your last chance. No half-measures with me. If you want the gift I'm here to give, say so and you'll have it. If instead you mean to say—"" Here, to his shock, Joe suddenly turned on him with clear signs of ready-to-fight anger.",0.2,1.0,aecd0dbd5d803d112e64f4ad8667e5bcdd70e1354d200d46f541ed7305af6126,5305923ef27255e9e8d35b198d23dbeae0b36c84085cda9d939f2c90badaef84,556,423,0.760791,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T09:43:20Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_010|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_010,paraphrase,"<think>
+Alright, let's tackle this. The user wants a paraphrase of the given passage from Great Expectations. The condition is ""paraphrase,"" so I need to make sure I don't modernize or simplify, just rephrase the wording while keeping the structure and meaning.
+
+First, I'll read through the original passage to understand the key points. Mr. Pumblechook is toasting someone, there's a recurring phrase where he asks if he may, and there's a lot of interaction around the meal and Pip's feelings. The challenge is to change the phrasing without altering the sequence or adding/removing information.
+
+I need to watch out for specific phrases like ""One—and likewise drink to One—without again expressing—May I—_may_ I—?"" and ensure that the paraphrased version captures the same tone and repetition. Also, the part where Pip mentions his sister and the toasting ritual must be preserved accurately.
+
+I should check the original word count (568) and aim for a similar length in the rewritten text. Let me go sentence by sentence, replacing words where possible but keeping the structure. For example, ""getting up again"" could be ""rising once more."" I need to maintain the same level of formality and the character's voice.
+
+Also, there are some idiomatic expressions like ""steeped in wine and smarting"" which should be rephrased but retain the same imagery. Maybe ""soaked in wine and stinging."" I need to ensure that the interactions between Pip and Mr. Pumblechook remain the same, including the interruptions and the flow of the conversation.
+
+I'll also verify that all characters and their actions are preserved. For instance, when Mr. Pumblechook helps himself to food and the dialogue about the sister. The emotional undertones, like Pip's realization about Pumblechook's true nature, should remain intact.
+
+Finally, I'll review the rewritten text to make sure there's no markdown, no added explanations, and that it's a valid JSON object with the correct fields. Let me double-check the word count to ensure it's close to the original. Once everything looks good, I'll format the JSON as specified.
+</think>
+
+{
+  ""passage_id"": ""DICKENS_GREAT_EXPECTATIONS_010"",
+  ""condition"": ""paraphrase"",
+  ""rewritten_text"": ""And yet I cannot,"" said Mr. Pumblechook, rising once more, ""see before me One—and also drink to One—without once more declaring—Permit me—_permit_ me—?""\n\nI assured him he could, and he clasped my hand again, drained his glass, and held it inverted. I mirrored his action; if I had inverted myself entirely before drinking, the wine could not have reached my head more swiftly.\n\nMr. Pumblechook guided me to the liver portion and the finest slice of tongue (no longer the obscure No Thoroughfares of Pork), while taking scarcely any care for himself. ""Ah! poultry, poultry! You little imagined,"" Mr. Pumblechook mused, addressing the fowl on the plate, ""when you were a fledgling, what awaited you. You little imagined you would become sustenance beneath this modest roof for one who—Consider it a frailty, if you choose,"" Mr. Pumblechook added, rising again, ""but might I? _might_ I—?""\n\nIt soon became redundant to confirm he could, so he executed the gesture immediately. How he managed to repeat it so frequently without injuring himself with my knife remains a mystery.\n\n""And your sister,"" he continued, after a few deliberate bites, ""who had the privilege of raising you by hand! It is a sorrowful sight to ponder that she no longer fully comprehends the privilege. Might—""\n\nI noticed his intent and halted him.\n\n""Let us toast her health,"" I proposed.\n\n""Ah!"" Mr. Pumblechook exclaimed, reclining in his chair, utterly slack with approval, ""that is the mark of discernment, sir!"" (Though I never knew who ""sir"" referred to, it certainly was not me, and no third party existed); ""that is the mark of the noble-spirited, sir! Always forgiving and ever gracious. It could,"" the obsequious Pumblechook interjected, setting down his untouched glass hastily and rising again, ""to an ordinary soul, seem excessive—but _might_ I—?""\n\nAfter completing the act, he returned to his seat and raised a toast to my sister. ""Let us never overlook,"" Mr. Pumblechook declared, ""her temperamental flaws, yet it is to be hoped she acted with good intent.""\n\nAround this moment, I began to notice his face reddening; as for myself, I felt my entire face saturated with wine and burning.\n\nI informed Mr. Pumblechook that I wished my new garments delivered to his residence, and he was elated at my choosing him for such a distinction. I explained my desire to avoid village scrutiny, and he extolled it to the heavens. He implied no one but himself was worthy of my trust, and—briefly, might he? Then he inquired gently if I recalled our childhood arithmetic games and how we had journeyed together to bind me as an apprentice, and essentially, how he had always been my favored companion and chosen ally? If I had consumed tenfold the wine I had, I would have recognized he had never occupied such a position toward me and would have instinctively rejected the notion. Yet despite this, I recall feeling convinced I had misjudged him entirely, and that he was a sensible, pragmatic, warm-hearted man of considerable merit.""
+}",0.2,1.0,ca3825f8a12f94f0830973b8191cce3bf2b55f1aecc35cb58ca851a7315ebc41,440736a7e4ddae8e7d84e2aba5bc09ae73abc3756c13b9f33265ad0d41a6b531,568,868,1.528169,warning,json_parse_failed_used_raw_content;length_hard_warning,json_parse_failed_used_raw_content,2026-06-02T09:43:42Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_010|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_010,modernize,"And yet I can’t,” said Mr. Pumblechook, standing up again, “see someone before me—and also drink to them—without saying again, ‘May I—_may_ I—?’”
+
+I told him he could, and he shook my hand again, drained his glass, and flipped it upside down. I did the same; and if I’d turned myself upside down before drinking, the wine couldn’t have hit my head harder.
+
+Mr. Pumblechook helped me with the liver portion and the best slice of tongue (no more obscure pork cuts now), and barely took care of himself. “Ah! Poultry, poultry! You never imagined,” said Mr. Pumblechook, addressing the bird on the plate, “when you were a chick what awaited you. You never imagined you’d end up as a treat in this modest home for someone who—Consider it a weakness if you like,” said Mr. Pumblechook, rising again, “but may I? _May_ I—?”
+
+It became pointless to keep saying he could, so he just did it. How he managed to repeat this so often without cutting himself with my knife, I’ll never know.
+
+“And your sister,” he continued after eating steadily, “who raised you herself! It’s tragic to think she can’t fully appreciate the honor now. May—”
+
+I saw he was about to target me again and cut him off.
+
+“Let’s drink to her health,” I said.
+
+“Ah!” cried Mr. Pumblechook, sinking back in his chair, completely limp with admiration, “that’s how you spot them, sir!” (I don’t know who this “sir” was, but it certainly wasn’t me, and no one else was there); “that’s how you recognize the noble-minded, sir! Always forgiving and approachable. It might,” said the fawning Pumblechook, setting down his untouched glass quickly and standing again, “to an ordinary person, look repetitive—but _may_ I—?”
+
+After doing it, he sat down and raised his glass to my sister. “Let’s never ignore,” said Mr. Pumblechook, “her temper flaws, but we can hope she meant well.”
+
+Around then, I noticed his face was getting flushed; as for me, I felt my whole face burning, soaked in wine and stinging.
+
+I told Mr. Pumblechook I wanted my new clothes sent to his house, and he was thrilled I’d chosen him. I explained why I wanted to avoid being seen in town, and he praised me endlessly. He hinted no one else was trustworthy enough with my secrets, and—well, might he? Then he gently asked if I remembered our childhood math games, how we’d gone together to sign my apprenticeship, and essentially how he’d always been my favorite companion? Even if I’d drunk ten times as much wine as I had, I’d have known he’d never been that to me, and deep down I’d have rejected the idea. Still, I remember feeling convinced I’d misjudged him, and that he was actually a sensible, practical, kind-hearted guy.",0.2,1.0,ca3825f8a12f94f0830973b8191cce3bf2b55f1aecc35cb58ca851a7315ebc41,3fe3b5d460506dc1c883f7bcfe59d609ec2a7f035842ebf76b9d6093ca5c9c38,568,472,0.830986,warning,json_extracted;length_soft_warning,json_extracted,2026-06-02T09:44:01Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_010|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_010,simplify,"<think>
+Okay, let's tackle this. The user wants me to simplify the passage from Great Expectations. First, I need to make sure I understand the original text. Mr. Pumblechook is toasting someone, repeating his request to drink, and there's a lot of formal language and old-fashioned expressions.
+
+My goal is to make it easier for a modern reader without changing the events or characters. I should keep the same sequence and structure. Let me start by breaking down each paragraph.
+
+The first part has Mr. Pumblechook getting up to toast someone. The original uses ""afore me One"" and ""May I—_may_ I—?"" Maybe ""before me One"" and ""May I—may I—"" is clearer. The action of shaking hands and turning the glass upside down should stay. The part about the wine going to his head can be phrased more simply, like ""the wine hit me harder than if I’d flipped upside down.""
+
+Next, the liver wing and tongue. The original mentions ""No Thoroughfares of Pork,"" which is a bit archaic. Maybe ""no fancy cuts of pork"" works better. The apostrophe to the fowl needs to be kept but simplified. ""When you were young, you never imagined..."" sounds more modern.
+
+Then, when he says ""Call it a weakness,"" I can keep the structure but make the language simpler. The part about not wounding himself with the knife can be rephrased to ""how he managed to do this so often without cutting himself.""
+
+The mention of his sister and the toast to her health. The original has ""sad picter"" which should be ""sad picture."" The dialogue tags can be adjusted for clarity. When he says ""Ever forgiving and ever affable,"" maybe ""always forgiving and always friendly.""
+
+The flushed face and feeling all face, steeped in wine—maybe ""my face was red from the wine"" and ""burning from the alcohol."" 
+
+The part about sending new clothes to his house and avoiding observation in the village. ""He was ecstatic"" stays, but ""lauded it to the skies"" becomes ""praised it endlessly."" The boyish games at sums can be ""math games when we were kids.""
+
+Finally, the reflection on Pumblechook's behavior. The original uses ""repudiated the idea"" which can be ""rejected the idea."" The last part about being mistaken in him and him being a good-hearted fellow should stay but in simpler terms.
+
+I need to check that all events are preserved, the characters' actions and relationships are the same, and the narrative flow isn't disrupted. Also, ensure the word count is similar. Let me read through the rewritten version to confirm it's clear and maintains the original meaning without any added or removed facts.
+</think>
+
+{
+  ""passage_id"": ""DICKENS_GREAT_EXPECTATIONS_010"",
+  ""condition"": ""simplify"",
+  ""rewritten_text"": ""And yet I cannot,"" said Mr. Pumblechook, rising again, ""see one person before me—and drink to one person—without saying—May I—may I—?""\n\nI told him he could, and we shook hands again. He emptied his glass and turned it upside down. I did the same; if I'd flipped myself upside down first, the wine wouldn't have hit me harder.\n\nMr. Pumblechook served me the liver wing and the best slice of tongue (no fancy cuts of pork now), and barely took care of himself. ""Ah! Poultry, poultry!"" he said, addressing the chicken on the plate. ""When you were young, you never imagined what awaited you. You never knew you'd be a treat here for someone who—"" ""Call it a weakness if you like,"" he added, rising again, ""but may I? May I—?""\n\nBy now, I didn't need to keep agreeing, so he just did it. I wonder how he managed to do this so often without cutting himself with my knife.\n\n""And your sister,"" he said after eating steadily, ""who raised you! It's sad to think she can't fully appreciate that honor now. May—"" I saw he was about to ask again and stopped him.\n\n""We'll drink to her health,"" I said.\n\n""Ah!"" cried Mr. Pumblechook, leaning back in his chair, clearly impressed. ""That's how you recognize people, sir!"" (I don't know who this ""sir"" was, but it certainly wasn't me, and no one else was there); ""that's how you recognize noble-minded people, always forgiving and always friendly. It might,"" he said, hastily setting down his untouched glass and rising again, ""seem like repetition to a common person—but may I—?""\n\nAfter doing this, he sat and drank to my sister. ""Let us never forget,"" he said, ""her temperamental flaws, but may we hope she meant well.""\n\nBy now, I noticed his face was flushed. My own face felt entirely burned by the wine.\n\nI told Mr. Pumblechook I wanted my new clothes sent to his house, and he was thrilled I trusted him. I explained why I wanted to avoid being seen in the village, and he praised me endlessly. He hinted no one else was worthy of my confidence, and—might he? Then he asked gently if I remembered our math games as kids, how we'd gone together to make me an apprentice, and how he'd always been my favorite companion? Even if I'd drunk ten times as much, I'd have known he'd never been my friend, and I'd have rejected the idea. Still, I remember thinking I'd misjudged him, that he was a sensible, practical, kind man.""
+}",0.2,1.0,ca3825f8a12f94f0830973b8191cce3bf2b55f1aecc35cb58ca851a7315ebc41,e374304361e2cec6a6089054186e585583a29381eef2100b0cfd9d2f3d946ccd,568,890,1.566901,warning,json_parse_failed_used_raw_content;length_hard_warning,json_parse_failed_used_raw_content,2026-06-02T09:44:21Z
