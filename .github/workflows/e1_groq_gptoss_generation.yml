@@ -43,6 +43,26 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Patch Groq User-Agent header
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          path = Path('scripts/36_run_e1_groq_free_generation.py')
+          text = path.read_text(encoding='utf-8')
+          if 'USER_AGENT =' not in text:
+              text = text.replace(
+                  'API_URL = "https://api.groq.com/openai/v1/chat/completions"\n',
+                  'API_URL = "https://api.groq.com/openai/v1/chat/completions"\nUSER_AGENT = "litpaper-e1-groq-generation/1.0 (+https://github.com/MuhammadTahaBinZaeem/litpaper)"\n',
+              )
+          if '"User-Agent": USER_AGENT' not in text:
+              text = text.replace(
+                  '"Content-Type": "application/json",\n        },',
+                  '"Content-Type": "application/json",\n            "Accept": "application/json",\n            "User-Agent": USER_AGENT,\n        },',
+              )
+          path.write_text(text, encoding='utf-8')
+          PY
+          python -m py_compile scripts/36_run_e1_groq_free_generation.py
+
       - name: Run Groq GPT-OSS generation
         env:
           GROQ_GPTOSS_API_KEY: ${{ secrets.GROQ_GPTOSS_API_KEY }}
