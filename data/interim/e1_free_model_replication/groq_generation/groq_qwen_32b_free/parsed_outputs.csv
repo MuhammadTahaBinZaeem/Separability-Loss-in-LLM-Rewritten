@@ -1238,21 +1238,296 @@ Emma learned Frank wrote excitedly about this decision, seeing the two months in
 Emma noticed Mr. Weston interpreted these plans as a sign Frank’s happiness came from being near her. She hoped that wasn’t true. Two months would test this theory.
 
 Mr. Weston himself was thrilled. This was exactly what he’d hoped for. Now Frank would truly be nearby. What was an hour’s ride to a young man? The difference between Richmond and London meant the difference between seeing Frank regularly or not at all. Sixteen miles—maybe eighteen—to Manchester Street was a major barrier. Even if Frank could leave London, a day would be wasted traveling. There was no benefit in him being in London; he might as well be at Enscombe. But Richmond’s distance made regular visits practical.",0.2,1.0,b23f9fa66672509bd7d337d6f3fd11314e3af9cb2183f2ab537e883a09cf92c9,89e5927c4c2cee8ecbd793a4f99314d0b706f910e314e4b9ae2b896976407b57,552,376,0.681159,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T07:29:52Z
-groq_qwen_32b_free|run_1|AUSTEN_EMMA_021|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_021,paraphrase,"A child approached them begging; and Miss Bickerton, greatly alarmed, let out a loud cry, seized Harriet’s arm, and hurried up a steep embankment. She vaulted over a low hedge at the summit and sped toward Highbury via a shortcut. But Harriet could not keep pace. Her legs had seized up from dancing, and her first attempt to climb the bank caused such a violent return of cramp that she collapsed, helpless and trembling. In this state, and overwhelmed with fear, she had no choice but to remain behind. 
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_001|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_001,paraphrase,"Hurrying along with all possible speed, I had just crossed a ditch I knew was near the Battery and climbed the slope beyond it when I spotted the man seated ahead. His back was to me, arms crossed, head drooping forward in heavy slumber.
 
-What might have happened to the wanderers if the young ladies had shown more courage remains uncertain; but such an invitation to mischief could not be ignored. Harriet was soon confronted by half a dozen children, led by a burly woman and a large boy, all clamorous and disrespectful in manner though not yet in action. Terrified, she immediately offered money, fumbled for her purse, and handed over a shilling, pleading for mercy and promising no more. Though she could now walk, albeit slowly, her fear and her purse proved too tempting. The entire gang closed in around her, demanding further payment. 
+I thought he might be pleased to see me appear unexpectedly with his breakfast, so I crept closer and tapped his shoulder. He sprang up instantly—but it was not the same man, but another!
 
-Frank Churchill discovered her in this predicament—Harriet trembling and negotiating, the others shouting and overbearing. By sheer fortune, his departure from Highbury had been delayed, allowing him to arrive just in time. The morning’s fine weather had prompted him to walk ahead, leaving his horses to meet him by another road a mile beyond Highbury. A minor delay occurred when he realized he had forgotten to return a pair of scissors borrowed from Miss Bates the previous night, obliging him to stop at her door. Thus delayed, and on foot, he approached unnoticed until nearly upon them. The arrogance the woman and boy had inspired in Harriet now turned to their own dismay. He left them visibly shaken; Harriet, clinging to him in silent desperation, barely managed to reach Hartfield before collapsing entirely. He had no other destination in mind. 
+Yet this man wore the same coarse grey clothes, bore the same heavy iron on his leg, limped, rasped, and shivered as the first had. I recognized these traits in an instant, though his face was different and he wore a flat, wide-brimmed, low-crowned felt hat. I had scarcely a moment to observe this before he cursed at me, swung a feeble blow that missed entirely and nearly unbalanced him, then fled into the fog, tripping twice before vanishing.
 
-This was the full account—his report and hers, once she regained speech. He dared not linger beyond ensuring her recovery; the delays had already consumed too much time. Emma pledged to inform Mrs. Goddard of Harriet’s safety and warn Mr. Knightley of the suspicious group in the neighborhood. With her friend’s gratitude and blessings, he departed. 
+'It's the young man!' I realized, my heart lurching at the identification. I might have felt a pang in my liver too, had I known where it was.
 
-An encounter between a handsome young man and a lovely young woman, so abruptly thrown together, could scarcely fail to spark speculation in the most indifferent observer. Emma, at least, thought so. Could a scholar, a logician, even a mathematician, witnessing their joint appearance and hearing their shared tale, remain unmoved by the peculiar intimacy circumstances had forged between them?",0.2,1.0,51d5c66981f2ee4a6736f77782a1a92b5b442743f811a7f839fc894c86926832,28484bc946becc81cb73e5c2d480caced7b5f20263ad57c5ed4e53f69437dea0,582,449,0.771478,warning,json_extracted;prompt_or_source_leakage_warning;length_hard_warning,json_extracted,2026-06-02T07:30:12Z
-groq_qwen_32b_free|run_1|AUSTEN_EMMA_021|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,AUSTEN_EMMA_021,modernize,"A child approached them to beg. Miss Bickerton, terrified, let out a loud scream and grabbed Harriet’s arm, urging her to follow as they sprinted up a steep embankment. They cleared a low hedge at the top and took a shortcut back to Highbury. But Harriet couldn’t keep up. She’d been suffering from cramps after dancing, and her first attempt to climb the bank triggered a fresh wave of pain so severe she could barely stand. Terrified and helpless, she was forced to stay behind. 
+I reached the Battery soon after, and there stood the correct man—hugging himself, limping in place as if he'd done nothing else all night—waiting for me. He was dreadfully cold, so much so I half expected him to collapse from the chill. His eyes gleamed with such hunger that when I gave him the file, I feared he might have tried to eat it had he not noticed my bundle. This time, he didn't invert me to search my belongings but let me keep my balance while I unpacked.
 
-What might have happened if the women had shown more courage was anyone’s guess, but this group of beggars—led by a stocky woman and a tall boy, with half a dozen children in tow—wasn’t about to pass up the opportunity. They closed in, loud and rude in their demands, though they didn’t yet resort to threats. Harriet, panicking, pulled out her purse and gave them a shilling, pleading they leave her alone. She tried to walk away, but slowly, and her fear—and the money—made her an easy target. The whole gang followed, circling her and shouting for more. 
+'What's in the bottle, boy?' he asked.
 
-Frank Churchill found her there, trembling and negotiating with a pack of aggressive strangers. By sheer luck, his departure from Highbury had been delayed just long enough to rescue her. The pleasant morning had convinced him to walk ahead, leaving his horses to meet him on another road a mile beyond town. But he’d forgotten to return a pair of scissors he’d borrowed from Miss Bates the night before, forcing him to stop and retrieve them. That small detour—and the fact that he was on foot—meant he wasn’t spotted until he was nearly upon them. The woman and boy, who’d been terrifying Harriet moments before, now found themselves on the receiving end of Frank’s glare. Harriet, clinging to him in relief, managed to stumble to Hartfield before collapsing entirely. He’d brought her there on instinct—no other destination had crossed his mind. 
+'Brandy,' I replied.
 
-That was the full story, as he told it and as Harriet recounted once she’d recovered. Frank couldn’t stay longer than necessary to ensure she was safe; delays had already eaten into his schedule. Emma promised to inform Mrs. Goddard of Harriet’s well-being and warn Mr. Knightley about the suspicious group in the area. With hurried thanks from both women, he left. 
+He was already cramming mincemeat into his mouth in frantic gulps, more like stashing it away than eating it, but paused to take a swig of the liquor. He shivered so violently that holding the bottle's neck between his teeth without biting it was a struggle.
 
-A situation like this—a handsome young man and a beautiful young woman thrown together in crisis—was bound to spark speculation, even from the most level-headed minds. Emma, at least, couldn’t help but wonder. Could a language professor, a grammarian, or even a mathematician witness their reunion, hear their story, and fail to recognize the charged connection between them?",0.2,1.0,51d5c66981f2ee4a6736f77782a1a92b5b442743f811a7f839fc894c86926832,c2b36568eb95b441b3394a13e81bfd3bc5c2dfd0958a8bdea2cbad12221de886,582,453,0.778351,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T07:30:35Z
+'I think you've got the ague,' I said.
+
+'I agree with you, boy,' he muttered.
+
+'It's bad here,' I told him. 'You've been lying on the meshes all night—they're terrible for the ague and rheumatism.'
+
+'I'll eat my breakfast before they kill me,' he declared. 'I'd do it even if I were to be hanged on that gallows over there right after. I'll outpace these shivers, you'll see.'
+
+He devoured mincemeat, meatbone, bread, cheese, and pork pie all at once, glancing warily at the fog around us and pausing frequently—even halting his chewing—to listen.",0.2,1.0,a14bcf79680695028d171899208aa359ab9651261b698221a37d6d5ff665ad7f,9b84a6910d33906abd2ea7384fc4dbe45f03253ed5ab9ffa73a2cb9f564d7662,578,430,0.743945,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T09:05:50Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_001|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_001,modernize,"I hurried along here as fast as I could, and had just crossed a ditch I knew was close to the Battery, then climbed up the mound beyond it, when I saw the man sitting in front of me. His back was to me, arms folded, nodding forward heavily asleep.
+
+I figured he’d be happier if I surprised him with breakfast, so I crept up and tapped his shoulder. He jumped up instantly—but it wasn’t the same man! It was someone else.
+
+Still, this guy wore the same coarse gray clothes, had an iron shackle on his leg, was limping, raspy-voiced, and freezing—just like the other man. The only differences were his face and a flat, wide-brimmed hat. I caught all that in a flash, because I only had a second to notice: he cursed at me, swung at me weakly, missed so hard he nearly knocked himself over, then stumbled into the fog, tripping twice before vanishing.
+
+“It’s the kid!” I realized, my chest tightening. I probably would’ve felt a pain in my liver if I knew where it was.
+
+I reached the Battery soon after. There was the real man—rubbing his arms, limping back and forth like he’d been doing it all night—waiting for me. He was freezing, so bad I half-expected him to collapse from the cold. His eyes looked starved too. When I tossed him the file and he set it on the grass, I thought he might’ve tried to eat it if I hadn’t shown him my bundle. This time, he didn’t flip me over to grab my stuff, just let me untie my coat and dump my pockets.
+
+“What’s in the bottle, kid?” he asked.
+
+“Brandy,” I said.
+
+He was already shoving mincemeat into his mouth in this frantic way, like he was stashing it somewhere instead of eating it. But he paused to take a swig of the brandy. He shook so hard, he could barely hold the bottle’s neck between his teeth without biting it off.
+
+“I think you’ve got the chills,” I said.
+
+“I agree with you, kid,” he said.
+
+“It’s bad out here,” I told him. “You’ve been lying out on the marshes—they’re full of chills and rheumatism.”
+
+“I’ll eat my breakfast before they kill me,” he said. “I’d do it even if I was about to hang from that gallows over there. I’ll outlast the shivers, I’ll bet.”
+
+He was shoveling mincemeat, meat bones, bread, cheese, and pork pie all at once into his mouth: glaring at the fog around us, pausing even mid-chew to listen intently.",0.2,1.0,a14bcf79680695028d171899208aa359ab9651261b698221a37d6d5ff665ad7f,174d4cd16e2205c866eacbd1b009333d5cad567f20d3d30fb2a7f6e8bd883386,578,433,0.749135,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T09:06:07Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_001|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_001,simplify,"I hurried along as fast as I could. I had just crossed a ditch I knew was close to the Battery and climbed up the mound beyond it when I saw a man sitting ahead of me. His back was to me, arms crossed, nodding forward heavily asleep.
+
+I thought he’d be happier if I surprised him with breakfast, so I crept up and touched his shoulder. He jumped up instantly—but it wasn’t the same man! This man wore worn gray clothes too, had a heavy iron on his leg, was limping, hoarse, and shivering like the other man. The only differences were his face and a flat, wide-brimmed hat. I saw all this in a flash, because he cursed at me, swung a weak punch that missed me and nearly knocked himself down, then ran into the fog, stumbling twice before disappearing.
+
+“It’s the young man!” I realized, my heart pounding. I probably would have felt a pain in my liver if I knew where it was.
+
+I reached the Battery soon after. There was the right man—hugging himself and limping back and forth like he’d been doing it all night—waiting for me. He was freezing, so cold I half expected him to collapse from the chill. His eyes looked so hungry that when I gave him the file, I thought he might try to eat it if he hadn’t seen my bundle. This time, he didn’t flip me upside down to search me. He let me open my bundle and empty my pockets normally.
+
+“What’s in the bottle, boy?” he asked.
+
+“Brandy,” I said.
+
+He was already shoveling mincemeat down his throat in a frantic way, more like hiding it than eating it. He paused to take a swig of brandy, shaking so hard he could barely hold the bottle without biting it.
+
+“I think you’ve got the chills,” I said.
+
+“I agree, boy,” he said.
+
+“It’s worse out here,” I told him. “You’ve been lying on the marshes all night. It’s full of chills and rheumatism.”
+
+“I’ll eat my breakfast before they kill me,” he said. “Even if I’m hanged right after. I’ll beat these shivers, you’ll see.”
+
+He was devouring mincemeat, meatbone, bread, cheese, and pork pie all at once, glancing suspiciously at the fog around us and often stopping mid-bite to listen.",0.2,1.0,a14bcf79680695028d171899208aa359ab9651261b698221a37d6d5ff665ad7f,e026cff25d97076f6a9161b8e6d8adc6492d8f929cb067b5e9bd1a8c2689daff,578,390,0.67474,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T09:06:26Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_002|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_002,paraphrase,"The sergeant emptied his glass again and appeared eager for another. I observed that Mr. Pumblechook, in his generosity, seemed to overlook the fact that he had given the wine, taking the bottle from Mrs. Joe and distributing it with a burst of conviviality. Even I received a share. His generosity knew no bounds, for he fetched the second bottle and passed it around with equal generosity once the first was finished.
+
+As I watched them gathered around the forge, reveling so heartily, I reflected how dreadful a seasoning for a feast my escaped companion on the marshes must have been. Their enjoyment had not reached a quarter of this level before the entertainment was enlivened by his presence. Now, as they all eagerly anticipated the capture of 'the two villains,' the bellows roared for the fugitives, the fire flared for them, the smoke hurried in pursuit, Joe hammered for them, and the shadowy figures on the walls seemed to menace them as the flames flickered. In my youthful pity, the pale afternoon outside seemed to grow paler still for these wretched souls.
+
+At last, Joe completed his task, and the clanging ceased. As Joe donned his coat, he mustered the courage to suggest that some of us accompany the soldiers to witness the outcome. Mr. Pumblechook and Mr. Hubble refused, citing their preference for a pipe and the company of ladies; but Mr. Wopsle agreed to go if Joe did. Joe accepted and offered to take me, provided Mrs. Joe consented. We would never have been allowed to leave without her curiosity to learn every detail. As it was, she only warned, 'If you return with the boy's head blown apart by a musket, don't expect me to piece it back together.'
+
+The sergeant politely bid farewell to the ladies and parted from Mr. Pumblechook as an equal; though I suspect his appreciation for the gentleman's virtues waned when the drinks ceased. His men reloaded their muskets and formed up. Mr. Wopsle, Joe, and I were sternly instructed to stay behind and remain silent once we reached the marshes. As we stepped into the cold air and marched steadily toward our task, I whispered treacherously to Joe, 'I hope, Joe, we don't find them,' and he replied in a hushed tone, 'I'd give a shilling if they'd fled, Pip.'
+
+No stragglers from the village joined us, for the weather was bleak and threatening, the path dismal, the footing poor, and darkness descending. The townsfolk preferred their warm hearths. A few faces pressed to glowing windows and watched our departure, but none followed. We passed the finger-post and proceeded directly to the churchyard. There, we halted briefly at the sergeant's signal while a few of his men scattered among the graves and inspected the porch.",0.2,1.0,218b698f7f28079392a585601218df8d3d2ae59d6f4efe1bad1f0918b34b0701,5f6a6295481b76127434d465949e8c22d9213e9fa55eb61ba8bfda19a10092b8,577,465,0.805893,warning,json_extracted;length_soft_warning,json_extracted,2026-06-02T09:06:46Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_002|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_002,modernize,"The sergeant downed his glass again and looked ready for another. I noticed Mr. Pumblechook, in his generosity, had forgotten he’d given the wine and took the bottle from Mrs. Joe, getting all the credit for passing it around in a burst of cheerfulness. Even I got a pour. And he was so generous with the wine he grabbed the second bottle and passed it around the same way once the first was empty.
+
+Watching them all cluster around the forge, enjoying themselves so much, I thought how much better their dinner was because of my runaway friend on the marshes. They hadn’t had nearly as much fun before the excitement he brought. Now, as they all eagerly anticipated the two villains being caught, the bellows roared for the fugitives, the fire flared for them, the smoke rushed after them, Joe hammered for them, and the shadows on the wall seemed to glare at them as the flames flickered. The gray afternoon outside seemed to me, in my young sympathy, to have turned even grayer because of them, poor souls.
+
+Finally, Joe finished his work, and the noise stopped. As Joe pulled on his coat, he gathered the courage to suggest some of us join the soldiers to see how the hunt ended. Mr. Pumblechook and Mr. Hubble declined, citing a pipe and ladies’ company. But Mr. Wopsle agreed if Joe went. Joe said he’d take me if Mrs. Joe approved. We’d never have been allowed to go, I’m sure, without Mrs. Joe’s need to know every detail. As it was, she just warned, ‘If you bring the boy back with his head blown to bits by a musket, don’t expect me to fix it.’
+
+The sergeant politely said goodbye to the ladies and parted from Mr. Pumblechook like a buddy; though I doubt he appreciated Mr. Pumblechook’s company as much when things were dry as when there was something to drink. His men picked up their muskets and formed up. Mr. Wopsle, Joe, and I were given strict orders to stay in the back and say nothing once we reached the marshes. As we stepped out into the cold, damp air and marched toward our mission, I whispered to Joe, ‘I hope we don’t find them,’ and Joe whispered back, ‘I’d give a shilling if they’d run off, Pip.’
+
+No one from the village joined us—the weather was cold and gloomy, the path bleak, the ground muddy, and people stayed home with their fires. A few faces rushed to glowing windows to watch us go, but no one followed. We passed the signpost and headed straight for the churchyard. There, we paused briefly at the sergeant’s signal while a few of his men scattered among the graves and checked the porch.",0.2,1.0,218b698f7f28079392a585601218df8d3d2ae59d6f4efe1bad1f0918b34b0701,febc922cb09051259a8040dc449ee0c1c2ee2e563a1be5340624add329d5d890,577,463,0.802426,warning,json_extracted;length_soft_warning,json_extracted,2026-06-02T09:07:05Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_002|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_002,simplify,"The sergeant drank his glass again and looked ready for another. Mr. Pumblechook, being generous, acted as if he hadn’t given the wine himself, taking the bottle from Mrs. Joe and passing it around with cheerful enthusiasm. Even I got a glass. He was so generous he brought out the second bottle too when the first ran out. 
+
+Watching them all gather around the forge, laughing and enjoying themselves, I thought how sad it was for my friend hiding on the marshes. They hadn’t been this happy before the hunt for the two criminals began. Now, as they eagerly waited for the fugitives to be caught, the bellows roared, the fire flared, smoke rushed after them, Joe hammered at his workbench, and shadows on the walls seemed to glare at them. Outside, the gray afternoon light felt almost gray because of them, poor souls. 
+
+When Joe finished his task and the noise stopped, he asked if some of us would join the soldiers to see how the hunt ended. Mr. Pumblechook and Mr. Hubble refused, saying they preferred to stay home with their pipes and women. Mr. Wopsle agreed if Joe went, and Joe said he’d take me if Mrs. Joe allowed it. We never would have been allowed to go if not for Mrs. Joe’s need to know everything. She only warned, “If you bring the boy back with his head blown to bits by a musket, don’t expect me to fix it.” 
+
+The sergeant politely said goodbye to the women and parted from Mr. Pumblechook like old friends; though I wonder if he’d value Mr. Pumblechook as much without the wine. The soldiers picked up their muskets and formed a line. Mr. Wopsle, Joe, and I were told to stay behind and stay quiet once we reached the marshes. As we stepped into the cold, damp air and walked toward the hunt, I whispered to Joe, “I hope we don’t find them,” and he whispered back, “I’d give a shilling if they’d run away, Pip.” 
+
+No one else from the village joined us—the weather was too cold, the path too muddy, and the day too dark. A few faces peered from warm windows but no one came out. We passed the road sign and walked straight to the churchyard. There, the sergeant signaled us to stop while a few soldiers scattered among the graves and checked the entrance.",0.2,1.0,218b698f7f28079392a585601218df8d3d2ae59d6f4efe1bad1f0918b34b0701,b24441019c7f0af2ba8e66fae30b1d7aab174af45d4741fc6f99d67e68f53285,577,401,0.694974,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T09:07:23Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_003|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_003,paraphrase,"I bent toward Joe and traced the letter’s words for him using my finger.
+
+""Extraordinary!"" Joe exclaimed when I finished. ""You really are a scholar.""
+
+""How would you spell Gargery, Joe?"" I asked, adopting a gentle air of superiority.
+
+""I don’t spell it,"" he replied.
+
+""But if you did?""
+
+""It can’t be imagined,"" Joe said. ""Though I do enjoy reading myself—greatly.""
+
+""You do?""
+
+""On-common. Give me a fine book or newspaper and a warm fire to sit by, and I’d ask for nothing more. Lord!"" he added, rubbing his knees. ""When you finally come across a J and O and think, ‘Here’s a J-O, Joe!’ how thrilling the reading becomes!""
+
+From this, I gathered Joe’s learning—like steam—remained in its early stages. Pressing further, I asked:
+
+""Never attended school as a boy, Joe, like me?""
+
+""No, Pip.""
+
+""Why not?""
+
+""Well, Pip,"" Joe said, picking up the poker and settling into his usual thoughtful habit of slowly stirring the fire between the lower bars, ""let me explain. My father, Pip, he had a weakness for drink. When he grew too full, he’d strike my mother cruelly. It was nearly his only striking, truth be told, besides at me. And he’d beat me with such vigor it could only be matched by his restraint toward his anvil.—You’re following this, Pip?""
+
+""Yes, Joe.""
+
+""So we fled our father many times. My mother would go out to work and say, ‘Joe, now the Lord willing, you’ll learn,’ and send me to school. But our father’s heart was so tender he couldn’t bear being parted from us. He’d arrive with a massive crowd, raise such a ruckus at the doors of wherever we’d hide, that they’d have no choice but to give us up. Then he’d drag us home and beat us. Which, you see, Pip,"" Joe paused, gazing at me as he stirred the fire, ""made learning difficult.""
+
+""Indeed, poor Joe!""
+
+""Still, mind you, Pip,"" Joe added, tapping the poker against the top bar, ""if we must give everyone their due and treat all men fairly, my father’s heart was good, don’t you think?""
+
+I didn’t agree, but I stayed silent.
+
+""In the end, someone must keep the pot boiling, Pip, or it won’t boil at all, don’t you see?""
+
+I saw that, and nodded.
+
+""So my father never opposed my working. I took up this trade of ours—his too, had he chosen—and labored diligently, I swear it, Pip. Eventually I could support him, and I did until he passed in a purple fit. I meant to have carved on his stone: Whatever his faults, remember, reader, his heart was good.""",0.2,1.0,d9abe1f5fe4b4e4ff1e87965a3b6e85df5fb12050d26cf788c79103e6ac956f8,a771f42d2403a3eba40848abddce088dc0b65f9c21fc4c9ced40bb478810f0bc,575,442,0.768696,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T09:07:44Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_003|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_003,modernize,"I leaned over Joe and used my finger to trace the words as I read the letter to him.
+
+""Wow!"" Joe said when I finished. ""You really are a scholar.""
+
+""How do you spell Gargery, Joe?"" I asked, adopting a slightly superior tone.
+
+""I don't spell it at all,"" Joe replied.
+
+""But if you did?""
+
+""It's not something to consider,"" Joe said. ""Though I really enjoy reading, too.""
+
+""You do?""
+
+""Of course. Give me a good book or newspaper, a cozy fire, and I'm content. Lord!"" he added, rubbing his knees. ""When you finally see a J and an O and think, 'Here's a JO—Joe!' reading becomes fascinating!""
+
+I realized Joe's education, like steam power, was still in its early stages. Pushing further, I asked:
+
+""You never went to school when you were my age, Joe?""
+
+""No, Pip.""
+
+""Why not?""
+
+""Well, Pip,"" Joe said, picking up the poker and settling into his thoughtful habit of slowly raking the fire, ""let me explain. My dad had a drinking problem. When he got drunk, he'd beat my mom mercilessly. That was almost his only hobby, really—besides beating me. He hit me with such vigor it could rival the times he didn't hit his anvil. You're paying attention, aren't you, Pip?""
+
+""Yes, Joe.""
+
+""So we ran away from him multiple times. My mom would get a job and say, 'Joe, you'll finally get an education,' and send me to school. But my dad was so soft-hearted he couldn't bear being separated from us. He'd show up with a huge crowd, cause such a ruckus at the doors where we were staying, that they'd have no choice but to give us back. Then he'd drag us home and beat us. That's what held me back from learning.""
+
+""Poor Joe!""
+
+""Still,"" Joe said, tapping the poker on the firebar, ""if you give everyone their due and treat people fairly, my dad was basically a good guy, right?""
+
+I didn't say I didn't get it. He continued: ""Someone's got to keep the pot boiling, Pip, or it won't boil at all.""
+
+I agreed with that.
+
+""So my dad never stopped me from working. I took up this blacksmith job of ours—though he could've done it too—and worked hard, I swear. Eventually I could support him, and I did until he died in a fit of purple. I even planned to have his tombstone read: 'Whatever his flaws, remember he had a good heart.'""",0.2,1.0,d9abe1f5fe4b4e4ff1e87965a3b6e85df5fb12050d26cf788c79103e6ac956f8,793932dde721194e1638d6b4a3adf8f15dc2172882c43cef53caba8e14a9fad2,575,411,0.714783,warning,json_extracted;length_hard_warning,json_extracted,2026-06-02T09:08:05Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_003|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_003,simplify,"I leaned over Joe and used my finger to help him read the whole letter.
+
+""Amazing!"" Joe said when I finished. ""You really are a scholar.""
+
+""How do you spell Gargery, Joe?"" I asked with a slightly superior tone.
+
+""I don't spell it at all,"" Joe replied.
+
+""But if you did?""
+
+""It can't be supposed,"" he said. ""Though I do love reading when I get the chance.""
+
+""You do?""
+
+""On common. Give me a good book or newspaper, a warm fire, and I'm content. Lord!"" he added, rubbing his knees, ""when you finally see a J and O together and say, 'Here's Joe!' how exciting reading becomes!""
+
+I realized Joe's education, like steam power, was still in its early stages. Pressing further, I asked:
+
+""Did you never go to school when you were my age, Joe?""
+
+""No, Pip.""
+
+""Why not?""
+
+""Well, Pip,"" Joe said, picking up the poker and settling into his usual thoughtful habit of slowly raking the fire, ""my father drank too much. When he drank, he'd beat my mother cruelly. It was almost his only beating, really, besides the one he gave me. And he hit me with such energy it could only be matched by how gently he treated his anvil. —You're listening carefully, Pip?""
+
+""Yes, Joe.""
+
+""So my mother and I ran away from him many times. When we did, she'd go to work and say, 'Joe, now please God you'll get some schooling,' and send me to school. But my father was so kind-hearted he couldn't stand being separated from us. He'd show up with a huge crowd, make such a ruckus at the doors of wherever we were staying, that they'd have to give us back to him. Then he'd take us home and beat us. Which, you see, Pip,"" Joe said, pausing to look at me, ""stopped me from learning much.""
+
+""That's unfortunate, poor Joe!""
+
+""Though mind you, Pip,"" Joe continued, tapping the poker on the firebar, ""doing the right thing for everyone and being fair between people, my father was truly kind-hearted, don't you see?""
+
+I didn't see it, but I didn't say so.
+
+""Well!"" Joe went on, ""someone has to keep the pot boiling, Pip, or it won't boil at all.""
+
+I understood that and agreed.
+
+""So my father never stopped me from working. I took up blacksmithing, which he could have done too, and worked hard, I assure you. Eventually I could support him, and I did until he died in a fit of purple. I meant to have this carved on his tombstone: 'No matter his mistakes, remember he had a good heart.'""",0.2,1.0,d9abe1f5fe4b4e4ff1e87965a3b6e85df5fb12050d26cf788c79103e6ac956f8,fd0ec463a0e8e814aec084416a0cd014506c3090a3a2410f69ffb958ad1a0575,575,435,0.756522,warning,json_extracted;passage_id_mismatch;length_hard_warning,json_extracted,2026-06-02T09:08:23Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_004|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_004,paraphrase,"Miss Havisham observed me quietly as we stood there. 'You don't mention her,' she noted. 'She has spoken harshly of you, yet you say nothing of her. What is your opinion?' 
+
+'I find it difficult to answer,' I muttered hesitantly. 
+
+'Confide in me,' she whispered, leaning closer. 'Speak into my ear.' 
+
+'I believe she is arrogant,' I whispered. 
+
+'Anything further?' 
+
+'I think she is strikingly beautiful.' 
+
+'And more?' 
+
+'I believe she is cruel.' (At this moment, her eyes fixed on me with unmistakable loathing.) 
+
+'Anything else?' 
+
+'I would prefer to return home.' 
+
+'And never see her again, despite her beauty?' 
+
+'I cannot say for certain I would avoid her, but I wish to leave now.' 
+
+'Soon, you shall depart,' Miss Havisham declared aloud. 'Finish the game.' 
+
+Except for that peculiar smile at the outset, I would have sworn Miss Havisham's face was incapable of smiling. Now it settled into a watchful, brooding expression—likely since all around her had grown motionless—and it seemed as if no lightness could ever return. Her posture sagged, forcing her to hunch; her voice sank to a hushed, lifeless murmur. She appeared utterly diminished, both physically and spiritually, crushed beneath some unimaginable blow. 
+
+I completed the card game with Estella, who left me penniless. She flung the winning cards onto the table as if they were contemptible for having been taken from me. 
+
+'When shall I return?' Miss Havisham mused. 'Let me consider.' 
+
+As I began to remind her it was Wednesday, she silenced me with her usual impatient flick of the right hand. 
+
+'Enough! I have no knowledge of days or seasons. Return in six days' time. Understand?' 
+
+'Yes, ma'am.' 
+
+'Estella, escort him. Provide food, let him wander while he eats. Go, Pip.' 
+
+I descended with the candle as I had ascended, and she placed it precisely where we had found it. Not until she opened the side door had I realized, without conscious thought, that it must be night. The sudden flood of daylight disoriented me, making me feel as if I had lingered in that candlelit room for hours. 
+
+'Wait here, boy,' Estella commanded, then vanished, shutting the door behind her. 
+
+Alone in the courtyard, I examined my rough hands and coarse boots. My opinion of these humble possessions turned sour. They had never troubled me before, but now they seemed crude and unrefined. I resolved to question Joe why he had taught me to call those picture-cards Jacks instead of the proper term, knaves. I wished Joe had been raised with more gentility—then I, too, would have been better bred. 
+
+She returned bearing bread, meat, and a small mug of beer. Setting the mug on the stones, she handed me the food without meeting my eyes, as coldly as if I were a disgraced hound.",0.2,1.0,07a0ea30ecbd37cccdc1f8062c0971291bac65c7ef08ed20c59b398e289b2bba,41a4b3c2e749b78340a6c3777cb17099460c5ed21f868c450168f77960a40ce3,579,466,0.804836,warning,json_extracted;length_soft_warning,json_extracted,2026-06-02T09:08:45Z
+groq_qwen_32b_free|run_1|DICKENS_GREAT_EXPECTATIONS_004|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,DICKENS_GREAT_EXPECTATIONS_004,modernize,"<think>
+Okay, let's tackle this modernization task. The user wants the passage rewritten in contemporary English while keeping the original content, events, characters, and structure intact. First, I'll read through the original passage to understand the context and the key elements.
+
+Miss Havisham and Pip are the main characters here. The dialogue is quite formal and uses archaic language, like ""You say nothing of her"" and ""I stammered."" My job is to make that sound more natural today. For example, ""I stammered"" could become ""I hesitated"" or ""I stuttered."" Also, phrases like ""Play the game out"" might be updated to something like ""Finish the game.""
+
+I need to check for any 19th-century expressions that a modern reader might find odd. Words like ""beggar'd me"" could be ""ruined me"" or ""defeated me."" The part where Pip talks about his hands and boots being ""coarse"" and ""common"" could be phrased as ""rough"" or ""plain."" Also, ""knaves"" instead of ""Jacks"" is a specific term; maybe explain it as ""knights"" or just keep ""knaves"" if it's clear in context.
+
+The tone should remain the same—Pip's feelings of inferiority and Miss Havisham's commanding presence. I have to make sure the dialogue tags are updated. For instance, ""said Miss Havisham, aloud"" might be redundant if the dialogue is already in quotes, so maybe just ""Miss Havisham said.""
+
+I should also preserve the paragraph structure as much as possible. Let me go through each paragraph and adjust the language. For example, ""Saving for the one weird smile at first..."" could become ""Except for one strange smile at first..."" to sound more natural.
+
+Another part is ""She threw the cards down on the table when she had won them all, as if she despised them for having been won of me."" Maybe rephrase to ""She slammed the cards on the table after winning them all, as if they were beneath her because they came from me.""
+
+I need to ensure that the modernized version doesn't lose the original's nuances. For instance, Pip's internal thoughts about his hands and boots showing his self-consciousness should still come through. Also, Estella's dismissive behavior towards him needs to be clear, like when she gives him food without looking, treating him like a dog in disgrace.
+
+Let me check the word count. The original is 579 words. The rewritten version should be approximately the same length. I'll need to avoid adding or removing content. Just replacing archaic terms with modern equivalents without changing the meaning.
+
+Finally, review the entire passage to ensure consistency in character voices and that all events are preserved. Make sure there's no summary, just a direct modernization. Avoid any markdown and keep the JSON format as specified.
+</think>
+
+{
+  ""passage_id"": ""DICKENS_GREAT_EXPECTATIONS_004"",
+  ""condition"": ""modernize"",
+  ""rewritten_text"": ""You’re not saying anything about her,"" Miss Havisham observed, watching us. ""She says a lot about you, but you don’t say anything about her. What’s your take?""\n\n""I don’t know if I should say,"" I mumbled.\n\n""Tell me quietly,"" she said, leaning closer.\n\n""I think she’s really arrogant,"" I whispered.\n\n""Anything else?""\n\n""I think she’s really beautiful.""\n\n""Anything else?""\n\n""I think she’s really rude."" (She was staring at me then with total dislike.)\n\n""Anything else?""\n\n""I think I’d like to go home.""\n\n""And never see her again, even though she’s beautiful?""\n\n""I’m not sure I’d never want to see her again, but I want to leave now.""\n\n""You’ll go soon,"" Miss Havisham said loudly. ""Finish the game.""\n\nExcept for that one strange smile at first, I’d almost swear Miss Havisham’s face couldn’t smile. It settled into a watchful, brooding look—probably when everything around her froze—and it seemed nothing could ever brighten it again. Her posture slumped, her voice dropped to a flat whisper, and she carried herself like someone crushed under a massive weight.\n\nI finished the card game with Estella, and she wiped me out. She slammed the cards on the table after winning them all, as if they were beneath her for coming from me.\n\n""When will you come back?"" Miss Havisham asked. ""Let me think."" \n\nI was about to remind her it was Wednesday when she cut me off with her usual sharp hand gesture.\n\n""There, there! I don’t track days of the week. I don’t track weeks of the year. Come back in six days. Got it?""\n\n""Yes, ma’am.""\n\n""Estella, take him downstairs. Give him something to eat. Let him walk around while he eats. Go on, Pip.""\n\nI followed her down as I had followed her up, and she placed the candle exactly where we’d found it. Before she opened the side door, I’d assumed it had to be nighttime. The sudden rush of daylight threw me off, making me feel like I’d been trapped in that candlelit room for hours.\n\n""You’ll wait here, you kid,"" Estella said, then vanished and locked the door.\n\nI used the chance to look at my rough hands and plain boots. I hated what I saw. They’d never mattered before, but now they felt like embarrassing flaws. I resolved to ask Joe why he’d ever taught me to call those picture cards Jacks when they should be called knaves. I wished Joe had been raised a bit more refined, and then I’d have been too.\n\nShe returned with some bread, meat, and a small mug of beer. She set the mug on the courtyard stones and handed me the food without meeting my eyes, as coldly as if I were a disgraced dog.""
+}",0.2,1.0,07a0ea30ecbd37cccdc1f8062c0971291bac65c7ef08ed20c59b398e289b2bba,1d0d05a50291bbeee89fa1b8f27ac461efa8fb56618e48539251216deeb939c3,579,951,1.642487,warning,json_parse_failed_used_raw_content;length_hard_warning,json_parse_failed_used_raw_content,2026-06-02T09:09:04Z
