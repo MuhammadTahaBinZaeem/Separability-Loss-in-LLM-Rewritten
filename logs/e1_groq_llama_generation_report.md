@@ -1,6 +1,6 @@
 # E1 Groq Free-Model Generation Report
 
-Generated UTC: 2026-06-03T12:01:05Z
+Generated UTC: 2026-06-03T13:05:19Z
 
 - target: llama
 - replication_model_id: groq_llama_3_3_70b_free
@@ -8,11 +8,11 @@ Generated UTC: 2026-06-03T12:01:05Z
 - passages_per_author: 20
 - planned_requests_this_scope: 360
 - completed_this_run: 3
-- raw_ok_rows_total: 154
-- remaining_requests: 206
-- parsed_rows_total: 154
-- qc_pass_rows: 44
-- qc_warning_rows: 110
+- raw_ok_rows_total: 157
+- remaining_requests: 203
+- parsed_rows_total: 157
+- qc_pass_rows: 45
+- qc_warning_rows: 112
 - qc_fail_rows: 0
 - exit_reason: rate_limit_wait_exceeds_remaining_runtime_resume_later
 - raw_path: data\interim\e1_free_model_replication\groq_generation\groq_llama_3_3_70b_free\raw_responses.jsonl
