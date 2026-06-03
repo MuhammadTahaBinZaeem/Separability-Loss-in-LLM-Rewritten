@@ -4191,3 +4191,456 @@ The young man flinched and stepped back. He wasn’t wearing a hat, and the leav
 ""Yes,"" Lord Henry continued, ""that’s one of the big secrets of life—to heal the soul through the senses, and the senses through the soul. You’re a remarkable creation. You know more than you think you know, just as you know less than you want to know.""
 
 Dorian Gray frowned and turned his head away. He couldn’t help but be drawn to the tall, graceful young man standing beside him. His romantic, olive-toned face and tired expression intrigued him. There was something about his low, lazy voice that was incredibly captivating. His cool, pale, flower-like hands, even, had a strange charm. They moved as he spoke, like music, and seemed to have their own language. But he was afraid of him, and ashamed to be afraid. Why had it been left to a stranger to reveal him to himself? He had known Basil Hallward for months, but their friendship hadn’t changed him. Suddenly there had come someone into his life who seemed to have uncovered life’s mystery for him.",0.2,1.0,b33cb64a3684fb944dfa69b02681cd01ac56bc53995f4b7d0e44da0f2758ae9b,8fdba2d34ca618b29c2553781009038a90c8390124b2db63dbf78e4d67fc20bc,553,511,0.924051,pass,,json_ok,2026-06-03T12:27:15Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_002|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_002,simplify,"He didn’t notice the silence.
+
+""Basil, I’m tired of standing,"" Dorian Gray said suddenly. ""I need to go out and sit in the garden. The air in here is too thick.""
+
+""My dear fellow, I’m sorry. When I’m painting, I don’t think about anything else. But you sat perfectly still. I got the look I wanted—the slightly open lips and the bright eyes. I don’t know what Harry has been telling you, but he’s given you a remarkable expression. I suppose he’s been flattering you. You shouldn’t believe a word he says.""
+
+""He hasn’t been flattering me. Maybe that’s why I don’t believe anything he says.""
+
+""You know you believe everything he says,"" Lord Henry replied, looking at him with his dreamy, lazy eyes. ""I’ll join you in the garden. It’s unbearably hot in the studio. Basil, bring us something cold to drink, maybe something with strawberries in it.""
+
+""Of course, Harry. Just ring the bell, and when Parker comes, I’ll tell him what you want. I need to finish this background, so I’ll join you later. Don’t keep Dorian too long. I’ve never been in better shape for painting than I am today. This is going to be my best work. It’s already my best work as it is.""
+
+Lord Henry went to the garden and found Dorian Gray burying his face in the cool lilac flowers, breathing in their scent like it was wine. He walked up to him and placed his hand on his shoulder. ""You’re right to do that,"" he whispered. ""Only the senses can heal the soul, just as only the soul can heal the senses.""
+
+Dorian jumped back. He wasn’t wearing a hat, and the leaves had messed up his wild curls, tangling the golden strands. There was fear in his eyes, like someone who had just been woken up suddenly. His finely shaped nose twitched, and some hidden nerve made his red lips tremble.
+
+""Yes,"" Lord Henry continued, ""that’s one of life’s big secrets—to heal the soul through the senses, and the senses through the soul. You’re a remarkable person. You know more than you think you do, just as you know less than you want to know.""
+
+Dorian frowned and turned his head away. He couldn’t help but like the tall, graceful young man beside him. His romantic, olive-skinned face and tired look intrigued him. There was something about his low, lazy voice that was incredibly captivating. His cool, pale, flower-like hands, even, had a strange charm. They moved as he spoke, like music, and seemed to have their own language. But he was afraid of him, and ashamed to be afraid. Why had it taken a stranger to show him who he really was? He had known Basil Hallward for months, but their friendship hadn’t changed him. Suddenly, someone had come into his life who seemed to have uncovered life’s secret.",0.2,1.0,b33cb64a3684fb944dfa69b02681cd01ac56bc53995f4b7d0e44da0f2758ae9b,8d01deadaf3ee17472b0d4da38f9266d4329ef40d3f7f33c30717f0ee579c779,553,482,0.871609,pass,,json_ok,2026-06-03T13:05:32Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_003|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_003,paraphrase,"'Don't attend the theater tonight, Dorian,' Hallward remarked. 'Stay and have dinner with me.'
+
+'I can't, Basil.'
+
+'Why not?'
+
+'Because I've promised to go with Lord Henry Wotton.'
+
+'He won't appreciate your keeping promises. He never keeps his own. Please don't go.'
+
+Dorian Gray chuckled and shook his head.
+
+'I implore you.'
+
+The young man hesitated, glancing over at Lord Henry, who observed them from the tea-table with a bemused grin.
+
+'I must go, Basil,' he replied.
+
+'Very well,' Hallward said, walking over and placing his cup on the tray. 'It's rather late, and since you need to dress, you'd better not delay. Good-bye, Harry. Good-bye, Dorian. Drop by soon. Come tomorrow.'
+
+'Certainly.'
+
+'You won't forget?'
+
+'Of course not,' Dorian exclaimed.
+
+'And ... Harry!'
+
+'Yes, Basil?'
+
+'Remember what I asked you earlier this morning in the garden.'
+
+'I've forgotten it.'
+
+'I trust you.'
+
+'I wish I could trust myself,' Lord Henry said with a laugh. 'Come, Mr. Gray, my hansom is waiting outside, and I can take you home. Good-bye, Basil. It's been a most engaging afternoon.'
+
+As the door shut behind them, the painter collapsed onto a sofa, a shadow of anguish crossing his features.
+
+CHAPTER III.
+
+At a quarter past twelve the following day, Lord Henry Wotton sauntered from Curzon Street to the Albany to visit his uncle, Lord Fermor, a jovial yet somewhat brusque old bachelor, whom outsiders labeled selfish for offering no tangible benefit to them, though society deemed him generous for supporting those who entertained him. His father had served as our ambassador to Madrid when Isabella was young and Prim was yet unknown, but had abruptly left the diplomatic corps in a fit of pique over not being offered the Paris Embassy, a position he believed he deserved due to his lineage, his indolence, the quality of his dispatches, and his insatiable love for pleasure. The son, who had been his father's secretary, resigned alongside his chief, an act considered foolish at the time, and upon inheriting the title months later, devoted himself to the noble art of doing absolutely nothing. He owned two grand town houses but preferred to live in modest chambers because it was less hassle, and dined mostly at his club. He gave some attention to managing his Midland coal mines, justifying this slight effort by claiming that the benefit of owning coal was that it allowed a gentleman to burn wood in his own fireplace. Politically, he was a Tory, unless the Tories were in power, in which case he loudly criticized them for being a group of Radicals. He was a hero to his valet, who dominated him, and a menace to most of his relatives, whom he in turn dominated. Only England could have created him, and he always claimed the country was going to ruin. His values were outdated, but there was much to be said for his prejudices.",0.2,1.0,7a1c5a522d96eb19bae54644c39a53ab4a803836e18b73b7988d2850a65ce3e2,6712f5c06952b5e1f182e3f5ed6a79bc7740eba511f994c11221cf35707ac3d3,555,482,0.868468,pass,,json_ok,2026-06-03T13:05:49Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_003|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_003,modernize,"'Don’t go to the theater tonight, Dorian,' Hallward said. 'Stay and have dinner with me.'
+
+'I can’t, Basil.'
+
+'Why not?'
+
+'Because I promised Lord Henry Wotton I’d go with him.'
+
+'He won’t think more of you for keeping your promises. He never keeps his own. Please don’t go.'
+
+Dorian Gray laughed and shook his head.
+
+'I’m begging you.'
+
+The young man hesitated and glanced over at Lord Henry, who was watching them from the tea table with a smug grin.
+
+'I have to go, Basil,' he said.
+
+'Fine,' Hallward replied, walking over and setting his cup on the tray. 'It’s getting late, and since you need to get dressed, you might as well not waste time. Goodbye, Harry. Goodbye, Dorian. Drop by soon. Come tomorrow.'
+
+'Of course.'
+
+'You won’t forget?'
+
+'No, of course not,' Dorian said.
+
+'And... Harry!'
+
+'Yes, Basil?'
+
+'Remember what I asked you this morning in the garden.'
+
+'I’ve already forgotten.'
+
+'I hope you trust me.'
+
+'I wish I could trust myself,' Lord Henry said with a laugh. 'Come on, Mr. Gray, my cab’s waiting outside, and I can drop you off at your place. Goodbye, Basil. That was an interesting afternoon.'
+
+As the door shut behind them, the painter flopped onto a sofa, and a look of pain crossed his face.
+
+CHAPTER III.
+
+Just after midnight the next day, Lord Henry Wotton walked from Curzon Street over to the Albany to visit his uncle, Lord Fermor, a friendly but somewhat brusque old bachelor. The outside world labeled him selfish because he didn’t give much to others, but society considered him generous since he supported the people who entertained him. His father had been our ambassador to Madrid when Isabella was young and Prim hadn’t yet made a name for himself, but he retired from diplomacy in a fit of pique when he wasn’t offered the Paris Embassy, a position he believed he was fully entitled to because of his birth, his laziness, the quality of his reports, and his love of fun. The son, who had been his father’s assistant, quit along with his father, which seemed a bit foolish at the time, and when he inherited the title a few months later, he devoted himself to the noble art of doing absolutely nothing. He owned two large townhouses but preferred to live in smaller apartments because it was less hassle, and he ate most of his meals at his club. He paid some attention to managing his coal mines in the Midlands, justifying this bit of work by saying the only benefit of owning coal was that it allowed a gentleman to burn wood in his fireplace. Politically, he was a Tory unless the Tories were in power, in which case he loudly criticized them for being a bunch of Radicals. He was a hero to his valet, who bossed him around, and a nightmare to most of his relatives, whom he in turn dominated. Only England could have produced him, and he always said the country was going downhill. His values were outdated, but there was a lot to be said for his old-fashioned opinions.",0.2,1.0,7a1c5a522d96eb19bae54644c39a53ab4a803836e18b73b7988d2850a65ce3e2,584f9869f061302f3f8df0b495518418341b2e9557d165c834bc22fda8329bef,555,520,0.936937,pass,,json_ok,2026-06-03T13:06:05Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_003|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_003,simplify,"'Don’t go to the theater tonight, Dorian,' said Hallward. 'Stay and have dinner with me.'
+
+'I can’t, Basil.'
+
+'Why not?'
+
+'Because I promised Lord Henry Wotton I’d go with him.'
+
+'He won’t like it if you keep your promises. He never keeps his own. Please don’t go.'
+
+Dorian Gray laughed and shook his head.
+
+'I’m begging you.'
+
+The young man hesitated and looked over at Lord Henry, who was watching them from the tea table with a smile.
+
+'I have to go, Basil,' he said.
+
+'Fine,' Hallward replied, and walked over to put his cup on the tray. 'It’s getting late, and since you need to get dressed, you’d better hurry. Goodbye, Harry. Goodbye, Dorian. Come visit me soon. Come tomorrow.'
+
+'Of course.'
+
+'You won’t forget?'
+
+'No, of course not,' Dorian said.
+
+'And... Harry!'
+
+'Yes, Basil?'
+
+'Remember what I asked you earlier this morning in the garden.'
+
+'I’ve forgotten.'
+
+'I hope you trust yourself,' said Lord Henry, laughing. 'Come on, Mr. Gray, my hansom is waiting outside, and I can drop you at your place. Goodbye, Basil. It’s been a very interesting afternoon.'
+
+After the door closed behind them, the painter sat down on a sofa, and a look of pain appeared on his face.
+
+CHAPTER III.
+
+At just after midnight the next day, Lord Henry Wotton walked from Curzon Street to the Albany to visit his uncle, Lord Fermor, a friendly but somewhat rude old bachelor. The public thought he was selfish because he didn’t help anyone, but society considered him generous because he supported people who entertained him. His father had been our ambassador in Madrid when Isabella was young and before Prim became important, but he left the diplomatic service in a fit of annoyance when he wasn’t offered the Embassy in Paris, a position he believed he deserved because of his birth, his laziness, the quality of his reports, and his love for fun. The son, who had been his father’s secretary, quit with his father, which seemed foolish at the time, and when he inherited the title a few months later, he focused on the serious study of doing absolutely nothing. He owned two large town houses but preferred to live in smaller rooms because it was less work, and he ate most of his meals at his club. He paid some attention to managing his coal mines in the Midland counties, explaining that the only benefit of owning coal was that it allowed a gentleman to afford the luxury of burning wood in his fireplace. In politics, he was a Tory, except when the Tories were in power, during which time he criticized them for being a group of Radicals. He was a hero to his valet, who treated him badly, and a fear to most of his relatives, whom he treated badly in return. Only England could have created him, and he always said the country was going downhill. His values were old-fashioned, but there was a lot to be said for his opinions.",0.2,1.0,7a1c5a522d96eb19bae54644c39a53ab4a803836e18b73b7988d2850a65ce3e2,eafe76a41ea85562b0db6819710bce19b893ef7d6d4d16ba0b4a3295a8209fb9,555,501,0.902703,pass,,json_ok,2026-06-03T13:06:22Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_004|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_004,paraphrase,"“Indeed! And where do wicked Americans go after death?” asked the duchess.
+
+“They return to America,” whispered Lord Henry.
+
+Sir Thomas frowned. “I fear your nephew has a bias against that great nation,” he remarked to Lady Agatha. “I have journeyed across it in carriages kindly provided by the directors, who are most courteous in such matters. I can assure you, visiting it is a most enlightening experience.”
+
+“But must we truly travel to Chicago to gain knowledge?” Mr. Erskine inquired with a sigh. “I am not feeling up to the trip.”
+
+Sir Thomas waved a hand. “Mr. Erskine of Treadley has the world at his fingertips. We men of action prefer to witness things firsthand rather than read about them. The Americans are a most fascinating people. They are entirely rational. That, I believe, is their defining trait. Yes, Mr. Erskine, an entirely rational people. I assure you, there is no foolishness among them.”
+
+“How terrible!” exclaimed Lord Henry. “I can endure brute strength, but brute logic is intolerable. There is something unjust about it. It strikes below the level of the mind.”
+
+“I fail to grasp your meaning,” said Sir Thomas, his face reddening slightly.
+
+“I do, Lord Henry,” murmured Mr. Erskine with a smile.
+
+“Paradoxes have their place,” replied the baronet.
+
+“Was that a paradox?” asked Mr. Erskine. “I did not think so. Perhaps it was. Well, the path of paradoxes is the path of truth. To test reality, we must see it on the tightrope. When the certainties become acrobats, we can judge them.”
+
+“Good heavens!” said Lady Agatha. “How you men debate! I can never understand what you are discussing. Oh! Harry, I am quite annoyed with you. Why do you try to convince our dear Mr. Dorian Gray to leave the East End? I assure you, he would be of great value. They would adore his playing.”
+
+“I wish him to play for me,” cried Lord Henry, smiling, and he glanced down the table, catching a bright, answering look.
+
+“But they are so unhappy in Whitechapel,” continued Lady Agatha.
+
+“I can empathize with everything except suffering,” said Lord Henry, shrugging. “I cannot empathize with that. It is too ugly, too dreadful, too distressing. There is something deeply unhealthy in the modern sympathy for pain. One should empathize with the color, the beauty, the joy of life. The less said about life’s wounds, the better.”
+
+“Still, the East End is a most pressing issue,” remarked Sir Thomas, shaking his head solemnly.
+
+“Entirely so,” replied the young lord. “It is the issue of servitude, and we attempt to resolve it by entertaining the servants.”
+
+The politician studied him keenly. “What change do you suggest, then?” he asked.
+
+Lord Henry laughed. “I have no wish to alter anything in England except the weather,” he answered. “I am perfectly content with philosophical reflection. But, as the nineteenth century has gone bankrupt from an excess of sympathy, I would propose we turn to science for guidance. The benefit of emotions is that they mislead us, and the benefit of science is that it remains unemotional.”
+
+“But we bear such serious duties,” ventured Mrs. Vandeleur hesitantly.
+
+“Very serious indeed,” echoed Lady Agatha.",0.2,1.0,6abec1a3e33b65ccc349fc6e69874680d90a812e92ff570bd08cab618c941400,a2943e5205b4721eccfa96606ffc1d30f079417d001ef9ca36ffbbe12364d393,552,532,0.963768,pass,,json_ok,2026-06-03T13:06:39Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_004|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_004,modernize,"'Really! And where do bad Americans go when they die?' asked the duchess.
+
+'They go back to America,' Lord Henry replied quietly.
+
+Sir Thomas frowned. 'I worry that your nephew has a bias against that country,' he said to Lady Agatha. 'I've traveled all over it in cars provided by the directors, who are very accommodating. I can tell you, it's a real eye-opener to visit.'
+
+'But do we really have to go to Chicago to be educated?' Mr. Erskine asked, sounding tired. 'I'm not up for the trip.'
+
+Sir Thomas waved a hand. 'Mr. Erskine of Treadley has the whole world on his bookshelves. We practical people like to see things, not just read about them. The Americans are really interesting. They're totally logical. That's what sets them apart. Yes, Mr. Erskine, totally logical people. I can promise you, there's no nonsense with the Americans.'
+
+'How terrible!' Lord Henry exclaimed. 'I can handle brute force, but brute logic is just unbearable. It's not fair. It's like hitting below the belt of the brain.'
+
+'I don't get you,' Sir Thomas said, getting a bit red.
+
+'I do, Lord Henry,' Mr. Erskine said with a smile.
+
+'Paradoxes are fine in their place,' the baronet replied.
+
+'Was that a paradox?' Mr. Erskine asked. 'I didn't think so. Maybe it was. Well, the path of paradoxes is the path of truth. To test reality, we have to see it on a tightrope. When the facts become acrobats, we can judge them.'
+
+'Goodness!' Lady Agatha said. 'How you men argue! I can't ever figure out what you're talking about. Oh! Harry, I'm really annoyed with you. Why try to get our lovely Mr. Dorian Gray to leave the East End? I promise you, he'd be really helpful there. They'd love his playing.'
+
+'I want him to play for me,' Lord Henry said, smiling, and he looked down the table and caught a bright, matching glance.
+
+'But they're so unhappy in Whitechapel,' Lady Agatha continued.
+
+'I can relate to everything except suffering,' Lord Henry said, shrugging. 'I can't relate to that. It's too ugly, too terrible, too upsetting. There's something really unhealthy about the modern sympathy for pain. We should relate to the color, the beauty, the joy of life. The less said about life's sores, the better.'
+
+'Even so, the East End is a big issue,' Sir Thomas said, shaking his head seriously.
+
+'Absolutely,' the young lord replied. 'It's the problem of slavery, and we try to fix it by keeping the slaves entertained.'
+
+The politician looked at him closely. 'What change do you suggest, then?' he asked.
+
+Lord Henry laughed. 'I don't want to change anything in England except the weather,' he said. 'I'm perfectly happy with just thinking about things philosophically. But since the nineteenth century went bankrupt from spending too much on sympathy, I'd suggest we turn to science to fix things. The good thing about emotions is that they throw us off track, and the good thing about science is that it doesn't get emotional.'
+
+'But we have such serious responsibilities,' Mrs. Vandeleur said, sounding nervous.
+
+'Very serious,' Lady Agatha repeated.",0.2,1.0,6abec1a3e33b65ccc349fc6e69874680d90a812e92ff570bd08cab618c941400,dbd79b7984c64c837ee12a8c4942c23b5658a470552bbef819bb22af2821fbdb,552,521,0.943841,pass,,json_ok,2026-06-03T13:06:55Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_004|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_004,simplify,"'Really! And where do bad Americans go when they die?' asked the duchess.
+
+'They go back to America,' Lord Henry replied quietly.
+
+Sir Thomas frowned. 'I'm afraid your nephew has a bad opinion of that great country,' he told Lady Agatha. 'I've traveled all over it in cars provided by the directors, who are very kind about such things. I can promise you it's an education to visit it.'
+
+'But must we really go to Chicago to be educated?' Mr. Erskine asked, sounding tired. 'I don't feel up to the trip.'
+
+Sir Thomas waved his hand. 'Mr. Erskine of Treadley has the world on his bookshelves. We practical men like to see things, not just read about them. The Americans are very interesting. They're completely reasonable. That's what makes them special. Yes, Mr. Erskine, they're a completely reasonable people. I promise you, there's no nonsense about the Americans.'
+
+'How awful!' Lord Henry said. 'I can stand brute force, but brute reason is unbearable. It's unfair to use it. It's like hitting below the belt of the mind.'
+
+'I don't understand you,' Sir Thomas said, turning slightly red.
+
+'I do, Lord Henry,' Mr. Erskine said with a smile.
+
+'Paradoxes are fine in their place,' the baronet replied.
+
+'Was that a paradox?' Mr. Erskine asked. 'I didn't think so. Maybe it was. Well, the way of paradoxes is the way of truth. To test reality, we must see it on a tightrope. When the truths become acrobats, we can judge them.'
+
+'Dear me!' Lady Agatha said. 'How you men argue! I'm sure I can never understand what you're talking about. Oh! Harry, I'm quite upset with you. Why do you try to convince our nice Mr. Dorian Gray to leave the East End? I promise you, he would be very helpful there. They would love his playing.'
+
+'I want him to play for me,' Lord Henry said, smiling, and he looked down the table and caught a bright, answering glance.
+
+'But they're so unhappy in Whitechapel,' Lady Agatha continued.
+
+'I can sympathize with everything except suffering,' Lord Henry said, shrugging. 'I can't sympathize with that. It's too ugly, too horrible, too upsetting. There's something very unhealthy about the modern sympathy with pain. One should sympathize with the color, the beauty, the joy of life. The less said about life's sores, the better.'
+
+'Even so, the East End is a very important problem,' Sir Thomas said, shaking his head seriously.
+
+'Of course,' the young lord replied. 'It's the problem of slavery, and we try to solve it by amusing the slaves.'
+
+The politician looked at him carefully. 'What change do you propose, then?' he asked.
+
+Lord Henry laughed. 'I don't want to change anything in England except the weather,' he answered. 'I'm perfectly happy with just thinking about things philosophically. But since the nineteenth century went bankrupt from spending too much sympathy, I suggest we turn to science to fix things. The advantage of emotions is that they lead us astray, and the advantage of science is that it doesn't get emotional.'
+
+'But we have such serious responsibilities,' Mrs. Vandeleur said, sounding nervous.
+
+'Terribly serious,' Lady Agatha repeated.",0.2,1.0,6abec1a3e33b65ccc349fc6e69874680d90a812e92ff570bd08cab618c941400,e56df20be8af2b6f6681030a748c6c76ab085a3ed8bdd0bdcaf6e15df267986b,552,525,0.951087,pass,,json_ok,2026-06-03T13:07:12Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_005|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_005,paraphrase,"Dorian smiled and shook his head. 'I fear I can't agree, Lady Henry. I never speak during music—at least, not during good music. If one listens to bad music, it's one's duty to drown it out with conversation.'
+
+'Ah! That is one of Harry's views, isn't it, Mr. Gray? I always hear Harry's views from his friends. It is the only way I learn about them. But you must not think I don't enjoy good music. I adore it, but I fear it. It makes me too romantic. I have simply adored pianists—sometimes two at once, Harry tells me. I don't know what it is about them. Perhaps it is that they are foreigners. They all are, aren't they? Even those born in England become foreigners after a while, don't they? It is so clever of them, and such a compliment to art. Makes it quite cosmopolitan, doesn't it? You have never been to any of my parties, have you, Mr. Gray? You must come. I can't afford orchids, but I spare no expense on foreigners. They make one's rooms look so picturesque. But here is Harry! Harry, I came in to look for you, to ask you something—I forget what it was—and I found Mr. Gray here. We have had such a pleasant chat about music. We have quite the same ideas. No; I think our ideas are quite different. But he has been most pleasant. I am so glad I've seen him.'
+
+'I am charmed, my love, quite charmed,' said Lord Henry, raising his dark, crescent-shaped eyebrows and looking at them both with an amused smile. 'So sorry I am late, Dorian. I went to look after a piece of old brocade in Wardour Street and had to haggle for hours over it. Nowadays people know the price of everything and the value of nothing.'
+
+'I am afraid I must be going,' exclaimed Lady Henry, breaking an awkward silence with her silly sudden laugh. 'I have promised to drive with the duchess. Good-bye, Mr. Gray. Good-bye, Harry. You are dining out, I suppose? So am I. Perhaps I shall see you at Lady Thornbury's.'
+
+'I dare say, my dear,' said Lord Henry, shutting the door behind her as, looking like a bird of paradise that had been out all night in the rain, she flitted out of the room, leaving a faint scent of frangipanni. Then he lit a cigarette and flung himself down on the sofa.
+
+'Never marry a woman with straw-coloured hair, Dorian,' he said after a few puffs.
+
+'Why, Harry?'
+
+'Because they are so sentimental.'
+
+'But I like sentimental people.'
+
+'Never marry at all, Dorian. Men marry because they are tired; women, because they are curious: both are disappointed.'
+
+'I don't think I am likely to marry, Harry. I am too much in love. That is one of your aphorisms. I am putting it into practice, as I do everything that you say.'
+
+'Who are you in love with?' asked Lord Henry after a pause.
+
+'With an actress,' said Dorian Gray, blushing.
+
+Lord Henry shrugged his shoulders. 'That is a rather common start.'
+
+'You would not say so if you saw her, Harry.'
+
+'Who is she?'
+
+'Her name is Sibyl Vane.'
+
+'Never heard of her.'",0.2,1.0,588c75e6cfcba6638a97e892c661b45018dafe26842fccbd1e6f1134bd687cad,b4b359364a5f6bb105a56375a1e77da7d69968ac3bdcc61ed16863c4a973c37e,551,544,0.987296,pass,,json_ok,2026-06-03T13:07:28Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_005|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_005,modernize,"Dorian smiled and shook his head. 'I don’t think so, Lady Henry. I never talk during music—at least, during good music. If you hear bad music, it’s your duty to drown it out with conversation.'
+
+'Ah! That’s one of Harry’s views, isn’t it, Mr. Gray? I always hear Harry’s views from his friends. That’s the only way I ever find out what they are. But don’t think I don’t like good music. I love it, but I’m afraid of it. It makes me too romantic. I’ve simply adored pianists—sometimes two at once, Harry tells me. I don’t know what it is about them. Maybe it’s that they’re foreigners. They all are, aren’t they? Even the ones born in England end up feeling foreign after a while, don’t they? It’s so cool of them, and such a compliment to art. Makes it really global, doesn’t it? You’ve never been to any of my parties, have you, Mr. Gray? You should come. I can’t afford orchids, but I go all out for foreigners. They make the place look so colorful. But here’s Harry! Harry, I came in to find you, to ask you something—I can’t remember what it was—and I found Mr. Gray here. We’ve had a lovely chat about music. We’re totally in sync. No, I think our ideas are actually pretty different. But he’s been really nice. I’m glad I met him.'
+
+'I’m charmed, my love, really charmed,' said Lord Henry, raising his dark, crescent-shaped eyebrows and looking at them both with a smug smile. 'Sorry I’m late, Dorian. I went to check out a piece of old brocade in Wardour Street and had to haggle for hours. These days, people know the price of everything and the value of nothing.'
+
+'I think I have to go,' said Lady Henry, breaking the awkward silence with her usual silly laugh. 'I promised to drive with the duchess. Goodbye, Mr. Gray. Goodbye, Harry. I suppose you’re going out to dinner? So am I. Maybe I’ll see you at Lady Thornbury’s.'
+
+'I suppose so, my dear,' said Lord Henry, closing the door behind her as she flitted out of the room, looking like a bird of paradise that had been out all night in the rain, leaving behind a faint scent of frangipanni. Then he lit a cigarette and flopped down on the sofa.
+
+'Never marry a woman with straw-colored hair, Dorian,' he said after a few puffs.
+
+'Why, Harry?'
+
+'Because they’re too sentimental.'
+
+'But I like sentimental people.'
+
+'Never marry at all, Dorian. Men marry because they’re bored; women marry because they’re curious. Both end up disappointed.'
+
+'I don’t think I’m likely to marry, Harry. I’m too in love. That’s one of your sayings. I’m putting it into practice, just like I do with everything you say.'
+
+'Who are you in love with?' asked Lord Henry after a pause.
+
+'An actress,' said Dorian Gray, blushing.
+
+'Lord Henry shrugged. 'That’s a pretty ordinary start.'
+
+'You wouldn’t say that if you saw her, Harry.'
+
+'Who is she?'
+
+'Her name is Sibyl Vane.'
+
+'Never heard of her.'",0.2,1.0,588c75e6cfcba6638a97e892c661b45018dafe26842fccbd1e6f1134bd687cad,7a59e98e98b049260ea00742fb743489697e73576622ef87f61b7bd5bf8ae07f,551,516,0.936479,pass,,json_ok,2026-06-03T13:07:45Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_005|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_005,simplify,"Dorian smiled and shook his head. 'I don’t think so, Lady Henry. I never talk during music—at least, during good music. If one hears bad music, it is one’s duty to drown it in conversation.'
+
+'Ah! That is one of Harry’s views, isn’t it, Mr. Gray? I always hear Harry’s views from his friends. It is the only way I get to know them. But you must not think I don’t like good music. I adore it, but I am afraid of it. It makes me too romantic. I have simply worshipped pianists—two at a time, sometimes, Harry tells me. I don’t know what it is about them. Perhaps it is that they are foreigners. They all are, aren’t they? Even those born in England become foreigners after a time, don’t they? It is so clever of them, and such a compliment to art. Makes it quite cosmopolitan, doesn’t it? You have never been to any of my parties, have you, Mr. Gray? You must come. I can’t afford orchids, but I spare no expense in foreigners. They make one’s rooms look so picturesque. But here is Harry! Harry, I came in to look for you, to ask you something—I forget what it was—and I found Mr. Gray here. We have had such a pleasant chat about music. We have quite the same ideas. No; I think our ideas are quite different. But he has been most pleasant. I am so glad I’ve seen him.'
+
+'I am charmed, my love, quite charmed,' said Lord Henry, raising his dark, crescent-shaped eyebrows and looking at them both with an amused smile. 'So sorry I am late, Dorian. I went to look after a piece of old brocade in Wardour Street and had to bargain for hours for it. Nowadays people know the price of everything and the value of nothing.'
+
+'I am afraid I must be going,' exclaimed Lady Henry, breaking an awkward silence with her silly sudden laugh. 'I have promised to drive with the duchess. Good-bye, Mr. Gray. Good-bye, Harry. You are dining out, I suppose? So am I. Perhaps I shall see you at Lady Thornbury’s.'
+
+'I dare say, my dear,' said Lord Henry, shutting the door behind her as, looking like a bird of paradise that had been out all night in the rain, she flitted out of the room, leaving a faint smell of frangipanni. Then he lit a cigarette and flung himself down on the sofa.
+
+'Never marry a woman with straw-coloured hair, Dorian,' he said after a few puffs.
+
+'Why, Harry?'
+
+'Because they are so sentimental.'
+
+'But I like sentimental people.'
+
+'Never marry at all, Dorian. Men marry because they are tired; women, because they are curious: both are disappointed.'
+
+'I don’t think I am likely to marry, Harry. I am too much in love. That is one of your aphorisms. I am putting it into practice, as I do everything that you say.'
+
+'Who are you in love with?' asked Lord Henry after a pause.
+
+'With an actress,' said Dorian Gray, blushing.
+
+Lord Henry shrugged his shoulders. 'That is a rather common start.'
+
+'You would not say so if you saw her, Harry.'
+
+'Who is she?'
+
+'Her name is Sibyl Vane.'
+
+'Never heard of her.'",0.2,1.0,588c75e6cfcba6638a97e892c661b45018dafe26842fccbd1e6f1134bd687cad,b8df909d8e7e17e4f85f528d11cbec5c7c96254ed0de109782d8f32c3aa6e07c,551,545,0.989111,pass,,json_ok,2026-06-03T13:08:01Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_006|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_006,paraphrase,"They are always easy to find. There is nothing at all mysterious about them. They take carriage rides in the park in the morning and talk endlessly at tea gatherings in the afternoon. They wear the same polished smile and display the same fashionable manner. They are completely predictable. But an actress! How entirely different an actress is! Harry, why didn’t you tell me that the only thing truly worth loving is an actress?”",0.2,1.0,23712e24c5bbd79746108eaa9f73be0fd3fa93187fd0023d7a3a7d70dcc365b3,77f89af4a87e1234cb618d58e9f6e635063ecd9e6368b1725749c1d0d8a5566c,555,74,0.133333,warning,json_repaired_loose_rewritten_text;length_hard_warning,json_repaired_loose_rewritten_text,2026-06-03T13:22:44Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_006|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_006,modernize,"You can always find them. There's no mystery about any of them. They hang out in the park in the morning and gossip at tea parties in the afternoon. They've got their standard smile and their trendy attitude. They're totally obvious. But an actress! How different an actress is! Harry, why didn't you tell me that the only thing worth loving is an actress?""
+
+""Because I've loved so many of them, Dorian.""
+
+""Oh, yeah, awful people with dyed hair and made-up faces.""
+
+""Don't knock dyed hair and made-up faces. There's something really appealing about them sometimes,"" said Lord Henry.
+
+""I wish now I hadn't told you about Sibyl Vane.""
+
+""You couldn't help telling me, Dorian. For the rest of your life, you'll tell me everything you do.""
+
+""Yeah, Harry, I guess that's true. I can't help telling you things. You've got this weird hold over me. If I ever did something illegal, I'd come and confess it to you. You'd get it.""
+
+""People like you—the wild, bright sparks of life—don't commit crimes, Dorian. But I appreciate the compliment all the same. And now tell me—hand me the matches, would you be a good guy? Thanks—what's your real connection with Sibyl Vane?""
+
+Dorian Gray jumped up, face flushed and eyes blazing. ""Harry! Sibyl Vane is sacred!""
+
+""It's only the sacred things that are worth touching, Dorian,"" said Lord Henry, with a strange note of sadness in his voice. ""But why are you upset? I suppose she'll be yours one day. When you're in love, you always start by fooling yourself, and you always end up fooling others. That's what the world calls a romance. You know her, at least, I guess?""
+
+""Of course I know her. On the first night I was at the theater, this awful old Jew came up to my box after the show and offered to take me backstage and introduce me to her. I was furious with him and told him that Juliet had been dead for centuries and that her body was in a marble tomb in Verona. I think, from his shocked look, that he thought I'd had too much champagne or something.""
+
+""I wouldn't be surprised.""
+
+""Then he asked me if I wrote for any of the newspapers. I told him I never even read them. He seemed really disappointed about that and told me that all the drama critics were out to get him and that they could all be bought off.""
+
+""I wouldn't be surprised if he was right there. But on the other hand, judging from their looks, most of them probably aren't that expensive.""
+
+""Well, he thought they were out of his budget,"" laughed Dorian. ""By then, though, the lights were going out in the theater, and I had to leave. He wanted me to try some cigars he strongly recommended. I said no. The next night, of course, I went back. When he saw me, he gave me a low bow and told me I was a generous supporter of the arts.",0.2,1.0,23712e24c5bbd79746108eaa9f73be0fd3fa93187fd0023d7a3a7d70dcc365b3,2e8e6dd38a442794e25bb1e798933adfd4c7070a82683641061e41cb1c8de096,555,508,0.915315,pass,,json_ok,2026-06-03T13:23:00Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_006|simplify,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_006,simplify,"You can always find them. There's nothing mysterious about them. They ride in the park in the morning and chat at tea parties in the afternoon. They have the same old smile and the same fashionable way of acting. They're very obvious. But an actress! How different an actress is! Harry, why didn't you tell me that the only thing worth loving is an actress?' Because I've loved so many of them, Dorian.' 'Oh yes, awful people with dyed hair and painted faces.' 'Don't put down dyed hair and painted faces. Sometimes they have a special charm,' said Lord Henry. 'I wish now I had not told you about Sibyl Vane.' 'You couldn't help telling me, Dorian. For the rest of your life, you'll tell me everything you do.' 'Yes, Harry, I believe that's true. I can't help telling you things. You have a strange influence over me. If I ever did something bad, I would come and tell you. You would understand me.' 'People like you—the bright, free spirits of life—don't do bad things, Dorian. But I'm very grateful for the compliment, all the same. And now tell me—hand me the matches, like a good boy—thanks—what are your actual relations with Sibyl Vane?' Dorian Gray jumped to his feet, with red cheeks and burning eyes. 'Harry! Sibyl Vane is sacred!' 'It is only the sacred things that are worth touching, Dorian,' said Lord Henry, with a strange touch of sadness in his voice. 'But why should you be annoyed? I suppose she will belong to you some day. When one is in love, one always starts by deceiving oneself, and one always ends by deceiving others. That is what the world calls a romance. You know her, at least, I suppose?' 'Of course I know her. On the first night I was at the theatre, the awful old Jew came to my box after the performance was over and offered to take me behind the scenes and introduce me to her. I was angry with him, and told him that Juliet had been dead for hundreds of years and that her body was lying in a marble tomb in Verona. I think, from his look of surprise, that he thought I had had too much champagne, or something.' 'I'm not surprised.' 'Then he asked me if I wrote for any of the newspapers. I told him I never even read them. He seemed very disappointed at that, and told me that all the dramatic critics were against him, and that they were all for sale.' 'I wouldn't be surprised if he was right there. But, on the other hand, judging from their looks, most of them probably aren't expensive at all.' 'Well, he seemed to think they were beyond his means,' laughed Dorian. 'By this time, however, the lights were being turned off in the theatre, and I had to go. He wanted me to try some cigars that he strongly recommended. I refused. The next night, of course, I arrived at the place again. When he saw me, he bowed low and told me that I was a generous supporter of art.",0.2,1.0,23712e24c5bbd79746108eaa9f73be0fd3fa93187fd0023d7a3a7d70dcc365b3,cd04fd48d1f10cde43a694e55d35cef737a1d265c2d1a3d5a640dca0a829644d,555,529,0.953153,pass,,json_ok,2026-06-03T13:23:16Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_007|paraphrase,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_007,paraphrase,"He rose and gazed out at the street. The setting sun had turned the upper windows of the facing houses into a brilliant scarlet gold. The glass shimmered as if it were glowing metal. Above, the sky resembled a withered rose. He reflected on his friend’s vibrant, fiery life and pondered how it would all conclude.
+
+Upon returning home, just after twelve-thirty, he spotted a telegram resting on the hall table. He opened it and discovered it was from Dorian Gray. The message announced that he was to be engaged in marriage to Sibyl Vane.
+
+CHAPTER V.
+
+“Mother, Mother, I am so happy!” the girl murmured, pressing her face into the lap of the weary, aging woman who sat in the only armchair in their dimly lit sitting room, her back turned from the harsh, intrusive light. “I am so happy!” she repeated, “and you must be happy too!”
+
+Mrs. Vane flinched and placed her pale, bismuth-painted hands on her daughter’s head. “Happy!” she repeated, “I am only happy, Sibyl, when I see you perform. You must think of nothing else but your acting. Mr. Isaacs has been very kind to us, and we owe him money.”
+
+The girl looked up and pouted. “Money, Mother?” she exclaimed, “what does money matter? Love is more than money.”
+
+“Mr. Isaacs has given us fifty pounds to settle our debts and to prepare a suitable outfit for James. You must not forget that, Sibyl. Fifty pounds is a considerable amount. Mr. Isaacs has been most generous.”
+
+“He is not a gentleman, Mother, and I despise the way he speaks to me,” the girl said, rising and walking toward the window.
+
+“I don’t know how we could manage without him,” the older woman replied, her tone full of complaint.
+
+Sibyl Vane lifted her head and laughed. “We no longer need him, Mother. Prince Charming now rules our lives.” Then she paused. A rose bloomed in her cheeks, its color deepening. Her breath parted the petals of her lips, which trembled slightly. A warm, passionate breeze stirred her delicate dress. “I love him,” she said simply.
+
+“Foolish child! foolish child!” came the reply, repeated like a parrot’s phrase. The waving of crooked fingers adorned with fake jewels gave a grotesque edge to the words.
+
+The girl laughed again, her voice echoing the joy of a bird in a cage. Her eyes caught the melody and reflected it in a glow, then shut briefly as if to conceal a secret. When they opened, a dreamlike mist had passed over them.
+
+From the worn chair, a voice of thin-lipped wisdom spoke, urging caution and quoting from that book of cowardice that mimics the name of common sense. She ignored it. She felt free within her prison of passion. Her prince, Prince Charming, was with her. She had called upon memory to bring him back. She had sent her soul to find him, and it had returned with him. His kiss burned once more on her lips. Her eyelids were warm with his breath.
+
+Then wisdom changed its approach and spoke of observation and discovery. This young man might be wealthy. If so, marriage should be considered. Against the shell of her ear crashed the waves of worldly cunning.",0.2,1.0,26967c9ff8c11fce124e28e3340525d6d38e15202bfd4daf4e43e28ee92cc97a,42d4001e4e1c325527e6efff9e844f19b6143c347c494ecdfd72fccd905755c7,552,541,0.980072,pass,,json_ok,2026-06-03T13:23:33Z
+groq_qwen_32b_free|run_1|WILDE_DORIAN_GRAY_007|modernize,groq_qwen_32b_free,groq,Groq Qwen 32B free-tier run,qwen/qwen3-32b,qwen/qwen3-32b,run_1,WILDE_DORIAN_GRAY_007,modernize,"He stood up and peered out into the street. The sunset had turned the upper windows of the houses across the way into a brilliant shade of red gold. The glass shimmered like heated metal plates. The sky above looked like a faded rose. He thought about his friend’s vibrant, fiery life and wondered how it would all end.
+
+When he got home, around half-past twelve, he saw a telegram on the hall table. He opened it and found it was from Dorian Gray. It told him that Dorian was engaged to be married to Sibyl Vane.
+
+CHAPTER V.
+
+""Mom, Mom, I’m so happy!"" the girl whispered, burying her face in the lap of the tired, worn-out woman sitting in the only armchair in their shabby living room. ""I’m so happy!"" she repeated. ""And you must be happy too!""
+
+Mrs. Vane winced and placed her pale, bismuth-whitened hands on her daughter’s head. ""Happy?"" she echoed. ""I’m only happy, Sibyl, when I see you act. You mustn’t think about anything else. Mr. Isaacs has been very kind to us, and we owe him money.""
+
+The girl looked up and pouted. ""Money, Mom?"" she exclaimed. ""What does money matter? Love is more than money.""
+
+""Mr. Isaacs gave us fifty pounds to pay off our debts and to get a proper outfit for James. You mustn’t forget that, Sibyl. Fifty pounds is a lot. Mr. Isaacs has been very generous.""
+
+""He’s not a gentleman, Mom, and I hate the way he talks to me,"" the girl said, standing up and walking over to the window.
+
+""I don’t know how we could manage without him,"" the older woman replied, sounding whiny.
+
+Sibyl Vane tossed her head and laughed. ""We don’t need him anymore, Mom. Prince Charming is in charge of our lives now."" Then she paused. A rose bloomed in her blood and flushed her cheeks. Her quick breath parted the petals of her lips. They trembled. A warm, passionate breeze swept over her and stirred the delicate folds of her dress. ""I love him,"" she said simply.
+
+""Foolish child! Foolish child!"" was the automatic reply. The waving of crooked, fake-jeweled fingers made the words look ridiculous.
+
+The girl laughed again. Her voice carried the joy of a caged bird. Her eyes caught the melody and echoed it in brightness, then closed for a moment, as if to hide their secret. When they opened, the mist of a dream had passed over them.
+
+Cold, thin-lipped advice came from the worn-out chair, suggesting caution and quoting from that book of cowardice that pretends to be common sense. She didn’t listen. She was free in her prison of passion. Her prince, Prince Charming, was with her. She had asked memory to bring him back. She had sent her soul to find him, and it had returned with him. His kiss burned again on her lips. Her eyelids were warm with his breath.
+
+Then wisdom changed its approach and spoke of being watched and discovered. This young man might be rich. If so, marriage should be considered. Against the shell of her ear crashed the waves of worldly cunning.",0.2,1.0,26967c9ff8c11fce124e28e3340525d6d38e15202bfd4daf4e43e28ee92cc97a,554c4098e6c6ba40d802654c6a0b43dcf4666c63ac90f9d5ae4ac9eba29a95a2,552,522,0.945652,pass,,json_ok,2026-06-03T13:29:38Z
