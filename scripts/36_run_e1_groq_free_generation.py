@@ -96,6 +96,8 @@ QWEN_USER_SUFFIX = """
 
 Return only a valid JSON object with passage_id, condition, and rewritten_text.
 Do not include <think>, analysis, markdown, commentary, or text before or after the JSON object.
+The JSON must parse with Python json.loads without repair.
+Inside rewritten_text, do not use literal double quote characters; use single quotation marks for dialogue or quoted speech.
 """
 
 

@@ -295,6 +295,7 @@ def prepare(args: argparse.Namespace) -> None:
 
 def parse_model_json(text: str) -> tuple[str, dict[str, Any]]:
     raw = (text or "").strip()
+    raw = re.sub(r"^\s*<think>.*?</think>\s*", "", raw, flags=re.DOTALL | re.IGNORECASE).strip()
     if raw.startswith("```"):
         raw = re.sub(r"^```(?:json)?\s*", "", raw)
         raw = re.sub(r"\s*```$", "", raw).strip()
@@ -307,6 +308,21 @@ def parse_model_json(text: str) -> tuple[str, dict[str, Any]]:
                 return "json_extracted", json.loads(match.group(0))
             except json.JSONDecodeError:
                 pass
+    passage_match = re.search(r'"passage_id"\s*:\s*"([^"]+)"', raw)
+    condition_match = re.search(r'"condition"\s*:\s*"([^"]+)"', raw)
+    rewritten_match = re.search(r'"rewritten_text"\s*:\s*"', raw)
+    if passage_match and condition_match and rewritten_match:
+        rewritten = raw[rewritten_match.end():].strip()
+        rewritten = re.sub(r"\s*}\s*$", "", rewritten).strip()
+        rewritten = re.sub(r",\s*$", "", rewritten).strip()
+        if rewritten.endswith('"'):
+            rewritten = rewritten[:-1]
+        if rewritten:
+            return "json_repaired_loose_rewritten_text", {
+                "passage_id": passage_match.group(1),
+                "condition": condition_match.group(1),
+                "rewritten_text": rewritten,
+            }
     return "json_parse_failed_used_raw_content", {"rewritten_text": text or ""}
 
 
