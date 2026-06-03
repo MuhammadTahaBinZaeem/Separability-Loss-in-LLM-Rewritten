@@ -3023,3 +3023,180 @@ groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_011|paraphrase,groq_gpt_oss_120b
 ""I offered her a generous payment for her trouble, and after some hesitation she agreed to accompany me. We located it without much difficulty; after she left, I examined the spot. The ‘castle’ was an irregular grouping of cliffs and rocks—one of them striking for its height and its strangely artificial appearance. I climbed to its summit and then felt quite at a loss as to what to do next.
 
 ""While I was pondering, my eyes fell on a narrow ledge on the eastern face of the rock, perhaps a yard below the top where I stood. The ledge jutted out about eighteen inches and was no wider than a foot, while a niche in the cliff just above gave it a crude likeness to one of the hollow‑backed chairs used by our ancestors. I had no doubt that this was the ‘devil’s seat’ mentioned in the manuscript.""",0.2,1.0,806f21d59c402f0de11e509e9a70aed6e35703b4bee5ac39476d3fa63b13fa3d,e918bdf525a41941a107ffe6afb4377cb80c420a87bc128e6e2594dc1c1a7ddb,552,479,0.867754,pass,,json_ok,2026-06-02T23:18:35Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_011|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_011,modernize,"My first attempt was to split the sentence according to the natural divisions the cryptographer intended.
+
+""You mean, to punctuate it?""
+
+""Something like that.""
+
+""But how could we do that?""
+
+""I thought that the writer deliberately ran his words together without any breaks to make the puzzle harder. A person who isn’t extremely precise, trying to achieve that, would almost certainly overdo it. When, while writing, he reached a point where the subject naturally calls for a pause or a period, he would be very likely to jam his characters together more tightly than usual. If you look at the manuscript now, you’ll easily spot five instances of unusual crowding. Using that clue, I divided it like this: ‘A good glass in the Bishop’s hostel in the Devil’s seat—forty‑one degrees and thirteen minutes—northeast and by north—main branch seventh limb east side—shoot from the left eye of the death‑head—a bee‑line from the tree through the shot fifty feet out.’""
+
+""Even with that division,"" I said, ""I’m still in the dark.""
+
+""It left me in the dark too,"" Legrand replied, ""for a few days. During that time I searched around Sullivan’s Island for any building called the ‘Bishop’s Hotel,’ since I had dropped the old word ‘hostel.’ Finding nothing, I was about to broaden my search and take a more systematic approach when, one morning, it suddenly occurred to me that ‘Bishop’s Hostel’ might refer to an old family named Bessop, who for ages owned an ancient manor about four miles north of the island. So I went to the plantation and asked the older Black residents there. Eventually the oldest woman said she’d heard of a place called Bessop’s Castle and thought she could lead me to it, but she warned it wasn’t a castle or a tavern—just a high rock.
+
+I offered to pay her well for her trouble, and after a little hesitation she agreed to go with me. We found it without much difficulty; after she left, I examined the spot. The ‘castle’ was an irregular jumble of cliffs and rocks—one of them especially striking for its height and its oddly artificial look. I climbed to its top and then felt completely at a loss about what to do next.
+
+While I was pondering, my eyes fell on a narrow ledge on the eastern face of the rock, maybe a yard below the summit where I stood. The ledge stuck out about eighteen inches and was no more than a foot wide, and a niche in the cliff just above it gave it a crude resemblance to one of those hollow‑backed chairs our ancestors used. I had no doubt that this was the ‘devil’s seat’ mentioned in the manuscript.",0.2,1.0,806f21d59c402f0de11e509e9a70aed6e35703b4bee5ac39476d3fa63b13fa3d,30fed5a379514aa4aad256866f6271517b44e9b4494903b936c3378aef9474e0,552,462,0.836957,warning,length_soft_warning,json_ok,2026-06-03T01:41:11Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_011|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_011,simplify,"My first attempt was to split the sentence the way the cryptographer intended.
+
+""You mean, to add punctuation?""
+""Something like that.""
+""But how could we do that?""
+""I thought the writer had deliberately run his words together to make the puzzle harder. A person who isn’t extremely careful would probably over‑do it. When he reached a point in his story that naturally needed a pause or a period, he would likely jam the letters together even tighter than usual. If you look at the manuscript, you’ll see five places where the letters are unusually crowded. Using that clue, I broke the line up like this: ‘A good glass in the Bishop’s hostel in the Devil’s seat—forty‑one degrees and thirteen minutes—northeast and by north—main branch seventh limb east side—shoot from the left eye of the death‑head—a bee‑line from the tree through the shot fifty feet out.’""
+
+""Even with that division,"" I said, ""I’m still lost.""
+""It left me confused too,"" Legrand replied, ""for a few days. I searched around Sullivan’s Island for any building called the ‘Bishop’s Hotel,’ dropping the old word ‘hostel.’ I found nothing, and was about to broaden my search when, one morning, it suddenly occurred to me that ‘Bishop’s Hostel’ might refer to an old family named Bessop, who for ages owned a manor about four miles north of the island. I went to that plantation and asked the older black residents about it. Finally, the oldest woman I met said she’d heard of a place called Bessop’s Castle. She thought she could lead me to it, but warned it wasn’t a castle or a tavern—just a high rock.
+
+I offered her a good payment for her help, and after some hesitation she agreed to go with me. We found the spot without much trouble. After she left, I examined the ‘castle.’ It was a jumble of cliffs and rocks, one of which stood out for its height and its strangely artificial look. I climbed to its top and then didn’t know what to do next.
+
+While I was thinking, my eyes fell on a narrow ledge on the east side of the rock, maybe a yard below the summit where I stood. The ledge stuck out about eighteen inches and was only a foot wide. A niche just above it made it look a bit like the hollow‑backed chairs our ancestors used. I was certain that this was the ‘devil’s seat’ mentioned in the manuscript.",0.2,1.0,806f21d59c402f0de11e509e9a70aed6e35703b4bee5ac39476d3fa63b13fa3d,e4db44217c59a3b6b04159348e88cd1afd418ccd8d6155bfdf0e8e03ac334efa,552,420,0.76087,warning,length_hard_warning,json_ok,2026-06-03T01:41:24Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_012|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_012,paraphrase,"—
+I beg your forgiveness; I had overlooked that Shakespeare will not thrive for another fifteen hundred and fifty years. Yet does not the sight of Epidaphne give me cause to call it grotesque?
+
+“It is strongly fortified; in this it owes as much to nature as to art.”
+Indeed.
+
+“There are an enormous number of lofty palaces.”
+There are.
+
+“And the many temples, rich and splendid, could be set alongside the most celebrated of antiquity.”
+All this I must concede. Still, there are countless mud‑huts and wretched shacks. Filth seems to cling to every kennel, and if it were not for the overpowering fumes of idolatrous incense, I am certain we would be assaulted by an intolerable stench. Have you ever seen streets so oppressively narrow, or houses so astonishingly tall? The shadows they cast are dreadful! It is fortunate that the swinging lamps in those endless colonnades stay lit all day; otherwise we would be plunged into an Egyptian darkness in its desolation.
+
+“It is certainly a strange place! What is the purpose of that lone building? Look! It rises above all the rest and stands to the east of what I presume is the royal palace!”
+That is the new Temple of the Sun, worshipped in Syria under the name Elah Gabalah. A future notorious Roman emperor will adopt this cult in Rome and take the name Heliogabalus. I suspect you would like to glimpse the deity of the temple. You need not look to the heavens; his Sunship is not there—at least not the Sunship venerated by the Syrians. The god resides inside that building, represented by a massive stone pillar that terminates in a cone or pyramid, symbolizing Fire.
+
+“Hark—look!—who are those ridiculous figures, half‑naked, faces painted, shouting and gesturing at the crowd?”
+A few are mountebanks. Others belong more specifically to the class of philosophers. The greatest number, however—those who especially pester the populace with clubs—are the chief courtiers of the palace, performing, as duty demands, a kind of comic display for the king.
+
+“But what is this? By the heavens! The town teems with wild beasts! What a terrible spectacle!—how dangerous a curiosity!”
+Terrible, perhaps, but not at all dangerous. Each animal, if you take the trouble to watch, follows quietly in the wake of its master. Some are indeed led by a rope around the neck, but those are mainly the smaller or timider species. The lion, tiger, and leopard are completely unrestrained. They have been trained without difficulty for their present role and attend their owners as personal attendants. It is true that on occasion Nature asserts her untamed dominion; yet the devouring of a soldier or the throttling of a sacred bull is a fleeting incident, mentioned only in passing in Epidaphne.
+
+“But what extraordinary uproar do I hear? Surely this is a clamor even for Antioch! It suggests a commotion of unusual interest.”",0.2,1.0,0bb47281116bddcc40487a3f4960c3d58c7faafd702b936d03e2369534b315b6,eb6324b9062cf26cd227d87a086a1502e35b9e061557a83839700a812cd80eab,553,491,0.887884,pass,,json_ok,2026-06-03T01:41:39Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_012|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_012,modernize,"—
+
+I’m sorry; I forgot that Shakespeare won’t be celebrated for another 1,750 years. But doesn’t the sight of Epidaphne justify calling it grotesque?
+
+“It’s well fortified; in that way it owes as much to nature as to art.”
+
+Very true.
+
+“There are an enormous number of grand palaces.”
+
+There are.
+
+“And the many temples, lavish and magnificent, could rival the most praised ones of antiquity.”
+
+I have to admit all that. Still, there are endless mud huts and awful shacks. We can’t help noticing filth everywhere, and if it weren’t for the overpowering smell of idol incense, I’m sure we’d be hit with an intolerable stench. Have you ever seen streets so unbearably narrow, or houses so unbelievably tall? Their shadows cast such gloom on the ground! It’s a good thing the swinging lamps in those endless colonnades stay lit all day; otherwise we’d have the darkness of Egypt in its desolation.
+
+“It’s certainly a strange place! What’s the deal with that lone building over there? Look—it towers above everything else and sits east of what I assume is the royal palace!”
+
+That’s the new Temple of the Sun, worshipped in Syria as Elah Gabalah. A notorious Roman emperor will later adopt this cult in Rome and take the name Heliogabalus. I bet you’d like to catch a glimpse of the temple’s deity. You don’t need to look up at the sky; his Sun isn’t there—at least not the Syrian version. The god is inside that building, represented by a huge stone pillar that ends in a cone or pyramid, symbolizing fire.
+
+“Listen—look! Who are those ridiculous figures, half‑naked, with painted faces, shouting and gesturing at the crowd?”
+
+A few are street performers. Others are philosophers. The biggest group—especially those who pester the crowd with clubs—are the palace’s main courtiers, performing the king’s comic duties.
+
+“But what’s this? My goodness! The town is swarming with wild beasts! What a terrible sight—how dangerous!”
+
+Terrible, perhaps, but not dangerous at all. If you take the time to watch, each animal is quietly following its master. Some are led by a rope around the neck, but those are mostly the smaller or timider species. The lion, tiger, and leopard are completely free. They’ve been trained without trouble for their current roles and serve their owners like personal attendants. Sure, there are moments when nature rebels—but a soldier being devoured or a sacred bull being throttled is such a minor incident that Epidaphne barely mentions it.
+
+“But what extraordinary uproar am I hearing? Even for Antioch this is loud! It must be some unusual commotion.”",0.2,1.0,0bb47281116bddcc40487a3f4960c3d58c7faafd702b936d03e2369534b315b6,57b61ca2534a3ed8941f57a7d24f4e58e18e2a8af36a22108476c833e87859d3,553,440,0.79566,warning,length_hard_warning,json_ok,2026-06-03T01:41:54Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_012|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_012,simplify,"—
+
+“I’m sorry; I forgot that Shakespeare won’t become famous for another seventeen‑hundred and fifty years. But doesn’t Epidaphne look grotesque enough for me to call it that?”
+
+“It’s well defended; it owes that as much to nature as to human skill.”
+
+“Very true.”
+
+“There are an enormous number of grand palaces.”
+
+“There are.”
+
+“And the many temples, rich and magnificent, could rival the most praised ones of ancient times.”
+
+“I have to agree with that. Still, there are endless mud huts and terrible shacks. Everywhere you see filth in every kennel, and if it weren’t for the overpowering smell of idol incense, I’m sure we’d be hit by an unbearable stench. Have you ever seen streets so narrow they’re unbearable, or houses so unbelievably tall? Their shadows make the ground gloomy! It’s a good thing the swinging lamps in those endless colonnades stay lit all day; otherwise we’d have the darkness of Egypt in its desolation.”
+
+“It’s certainly a strange place! What’s the meaning of that lone building over there? Look! It towers above everything else and sits east of what I think is the royal palace!”
+
+“That’s the new Temple of the Sun, worshipped in Syria as Elah Gabalah. A notorious Roman emperor will later bring this worship to Rome and take the name Heliogabalus. I think you’d like to see the deity inside the temple. You don’t need to look up at the sky; the Sun they worship isn’t the one in the heavens. The god is represented by a large stone pillar that ends in a cone or pyramid, symbolizing fire.
+
+“Listen—look! Who are those ridiculous people, half‑naked, with painted faces, shouting and gesturing at the crowd?”
+
+“A few are street performers. Others are philosophers. Most, however—especially those who bother the people with clubs—are the main courtiers of the palace, carrying out the king’s comic duties.”
+
+“But what’s this? My goodness! The town is swarming with wild beasts! What a terrible sight! How dangerous!”
+
+“It’s terrible, yes, but not dangerous at all. If you watch each animal, you’ll see it quietly follows its master. Some are led by a rope around the neck, but those are the smaller or timider ones. The lion, tiger, and leopard have no restraints. They’ve been trained without trouble to serve as personal attendants to their owners. It’s true that nature sometimes rebels; when a soldier is eaten or a sacred bull is strangled, those incidents are so brief they’re barely mentioned in Epidaphne.
+
+“But what extraordinary uproar am I hearing? Even for Antioch this is a loud noise! It must be some unusual commotion.”",0.2,1.0,0bb47281116bddcc40487a3f4960c3d58c7faafd702b936d03e2369534b315b6,0944809c983ed290c99740a2c8e0afa877fa9c46ceadca6ac2b15cb66a5d64d0,553,438,0.792043,warning,length_hard_warning,json_ok,2026-06-03T01:42:08Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_013|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_013,paraphrase,"Footnotes—Four Beasts
+
+(*1) Flavius Vospicus reports that the hymn introduced here was sung by the common soldiers on the occasion of Aurelian's Sarmatian campaign, after he himself had slain nine hundred and fifty foes.
+
+THE MURDERS IN THE RUE MORGUE
+
+""What song the Syrens sang, or what name Achilles took when he concealed himself among women, though puzzling questions, are not beyond all conjecture.""
+—Sir Thomas Browne.
+
+The mental qualities described as analytical are, in themselves, scarcely amenable to analysis. We perceive them only through their effects. We know, among other things, that when a mind is overly possessed by them they become a source of the keenest pleasure. Just as a strong man revels in his physical power, delighting in exercises that call his muscles to work, so the analyst exults in the moral activity of untangling. He finds enjoyment even in the most trivial tasks that allow his talent to be exercised. He is attracted to riddles, puzzles, hieroglyphs; in each solution he displays a degree of acumen that seems, to ordinary perception, almost supernatural. His conclusions, produced by the very soul and essence of method, in truth possess the whole character of intuition.
+
+The power of re‑solution is perhaps greatly strengthened by mathematical study, especially by that highest branch which, unjustly and merely because of its backward‑looking operations, has been styled, as if par excellence, analysis. Yet calculation is not in itself analysis. A chess‑player, for example, performs one without effort the other. Hence the game of chess, in its influence on mental character, is widely misunderstood. I am not now composing a treatise, but merely prefacing a somewhat singular narrative with observations drawn at random; I will therefore take the opportunity to assert that the higher faculties of reflective intellect are more decisively and more usefully exercised by the modest game of draughts than by all the elaborate frivolity of chess. In the latter, where the pieces possess different and bizarre motions, with various and shifting values, what is merely complex is often mistaken (a not uncommon error) for what is profound. Attention is called powerfully into play. If it flags even for an instant, an oversight is made, leading to injury or defeat. The possible moves are not only numerous but intricate, multiplying the chances of such oversights; and in nine cases out of ten it is the more concentrative rather than the more acute player who prevails. In draughts, on the contrary, where the moves are unique and vary little, the probability of inadvertence is reduced, and with attention comparatively idle, any advantage gained by either side is due to superior acumen. To be less abstract, imagine a game of draughts reduced to four kings, where, of course, no oversight can be expected. It is evident that here victory, with the players otherwise equal, can be decided only by some recherché maneuver, the result of a strong exertion of intellect. Deprived of ordinary resources, the analyst throws himself into the spirit of his opponent, identifies with it, and often at a glance perceives the sole methods—sometimes absurdly simple—by which he may lure the adversary into error or haste.",0.2,1.0,b58d1362ca8e17140c51ec1210139bc9b1b6a3af68267b4ecd305ffffc20188f,8a7f3ffc1291ad96289f12d78af0294d728b4c5cc0e12dd09656f2a0097db6db,572,530,0.926573,pass,,json_ok,2026-06-03T01:42:22Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_013|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_013,modernize,"Footnotes—Four Beasts
+
+(*1) Flavius Vospicus says that the hymn introduced here was sung by the mob on the occasion of Aurelian, in the Sarmatian war, after he had killed, with his own hand, nine hundred and fifty enemies.
+
+THE MURDERS IN THE RUE MORGUE
+
+""What song the Sirens sang, or what name Achilles used when he hid among women, though puzzling questions, are not beyond all conjecture.""
+
+—Sir Thomas Browne.
+
+The mental traits we call analytical are, in themselves, hardly open to analysis. We notice them only by their effects. We know, among other things, that when they are overly strong they become a source of the liveliest enjoyment for their owner. Just as a strong man revels in his physical ability, delighting in exercises that put his muscles to work, so the analyst delights in the moral activity that untangles. He takes pleasure even in the most trivial tasks that let his talent play out. He loves riddles, puzzles, hieroglyphs; in solving each he shows a level of insight that seems almost supernatural to ordinary minds. His results, produced by the very soul and essence of method, truly have the air of intuition.
+
+The power of resolution is probably greatly sharpened by mathematical study, especially by that highest branch, which has been unfairly labeled ""analysis"" simply because of its backward‑looking operations. Yet calculating is not the same as analyzing. A chess player, for example, does one without effort while doing the other. This means that the impact of chess on mental character is widely misunderstood. I am not writing a treatise now, only prefacing a somewhat unusual narrative with random observations; so I will take this chance to claim that the higher powers of reflective intellect are more clearly and usefully exercised by the modest game of draughts than by all the elaborate frivolity of chess. In chess, where the pieces move in different and bizarre ways and have varying values, complexity is often mistaken (a common error) for depth. Attention is called into strong play. If it lapses even for a moment, an oversight can cause injury or defeat. Because the possible moves are not only many but also intricate, the chance of such oversights multiplies; and in nine out of ten cases it is the more concentrated rather than the sharper player who wins. In draughts, on the contrary, where the moves are unique and vary little, the probability of mistakes is reduced, and with attention largely idle, any advantage comes from superior insight.
+
+To be less abstract, imagine a game of draughts reduced to four kings, where, of course, no oversight is expected. It is clear that victory (with the players otherwise equal) can be decided only by some recherché move, the result of a strong mental effort. Deprived of ordinary resources, the analyst throws himself into his opponent’s mindset, identifies with it, and often sees at a glance the only methods—sometimes absurdly simple—by which he can lure the opponent into error or force a miscalculation.",0.2,1.0,b58d1362ca8e17140c51ec1210139bc9b1b6a3af68267b4ecd305ffffc20188f,0e941cc390ad5a5cd56ec9ed03937513eba2d6afee795280c87b38581364e4a2,572,504,0.881119,pass,,json_ok,2026-06-03T01:42:37Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_013|simplify,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_013,simplify,"Footnotes—Four Beasts
+
+(*1) Flavius Vospicus says that the hymn introduced here was sung by the common people after Aurelian’s Sarmatian war, when he personally killed nine hundred and fifty enemies.
+
+THE MURDERS IN THE RUE MORGUE
+
+“What song the Sirens sang, or what name Achilles used when he hid among women, are puzzling questions, but not beyond all speculation.”
+—Sir Thomas Browne.
+
+The mental qualities we call analytical are themselves hard to break down. We notice them only by what they produce. We know, among other things, that when a person has too much of this ability it becomes a great source of pleasure. Just as a strong man enjoys showing his physical power, the analyst delights in mental work that untangles problems. He finds joy even in the smallest tasks that let him use his talent. He loves riddles, puzzles, and strange symbols; in solving each he shows a sharpness that seems almost supernatural to ordinary people. His results, achieved through pure method, often feel like intuition.
+
+The power to solve problems is probably strengthened by studying mathematics, especially by its highest branch, which has unfairly been called ""analysis"" simply because its methods go backward. But calculating is not the same as analyzing. A chess player, for example, can calculate without really analyzing. This means that the effect of chess on the mind is often misunderstood. I am not writing a formal essay, only prefacing a strange story with random observations; so I will point out that the higher powers of reflective thought are actually more useful in the simple game of draughts than in the elaborate, flashy game of chess. In chess, the pieces move in many strange ways and have different values, so what is merely complex is often mistaken for what is deep. Attention is constantly demanded. If it slips even for a moment, a mistake is made and the player may lose. Because the possible moves are many and tangled, the chance of oversight grows; and in nine out of ten cases it is the more focused, not the sharper, player who wins. In draughts, on the other hand, the moves are limited and similar, so accidental errors are rarer, and the little attention that is left unused means that any advantage comes from superior insight.
+
+To make this clearer, imagine a game of draughts with only four kings on the board, and assume no careless mistakes occur. It is clear that, with both players equal, the win can be decided only by a clever, well‑thought‑out move that requires strong mental effort. Stripped of ordinary tricks, the analyst puts himself in his opponent’s mind, adopts his perspective, and often sees at a glance the single (sometimes surprisingly simple) way to trick the opponent into an error or a miscalculation.",0.2,1.0,b58d1362ca8e17140c51ec1210139bc9b1b6a3af68267b4ecd305ffffc20188f,6d8d6566d3f32449eec813e652fefa04bd2152d24ceb9e6e9063aacbb5b1d605,572,467,0.816434,warning,length_soft_warning,json_ok,2026-06-03T01:42:51Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_014|paraphrase,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_014,paraphrase,"“To this dreadful mystery there is, as yet, we think, no slightest clue.”
+
+The next day's newspaper added these particulars.
+
+“The Tragedy in the Rue Morgue.—Many persons have been examined in connection with this most extraordinary and terrifying affair” [The word ‘affaire’ has not yet, in France, that lightness of meaning which it carries with us], “but nothing at all has emerged to illuminate it. Below we give all the material testimony obtained.
+
+“Pauline Dubourg, laundress, states that she has known both the deceased for three years, having laundered for them during that time. The old lady and her daughter seemed on good terms—very affectionate toward each other. They were excellent pay. She could not speak about their mode or means of living. She believed Madame L. earned a living by telling fortunes. She was reputed to have money saved. She never met any persons in the house when she called for the clothes or took them home. She was sure they had no servant employed. There appeared to be no furniture in any part of the building except on the fourth story.
+
+“Pierre Moreau, tobacconist, states that he has been in the habit of selling small quantities of tobacco and snuff to Madame L. Espanaye for nearly four years. He was born in the neighbourhood and has always lived there. The deceased and her daughter had occupied the house in which the corpses were found for more than six years. It had formerly been occupied by a jeweller, who under‑let the upper rooms to various persons. The house belonged to Madame L. She became dissatisfied with the abuse of the premises by her tenant, and moved in herself, refusing to let any portion. The old lady was childish. The witness had seen the daughter five or six times during the six years. The two lived an exceedingly retired life—were reputed to have money. He had heard it said among the neighbours that Madame L. told fortunes—did not believe it. He had never seen any person enter the door except the old lady and her daughter, a porter once or twice, and a physician some eight or ten times.
+
+“Many other persons, neighbours, gave evidence to the same effect. No one was spoken of as frequenting the house. It was not known whether there were any living connections of Madame L. and her daughter. The shutters of the front windows were seldom opened. Those in the rear were always closed, except for the large back room on the fourth story. The house was a good house—not very old.
+
+“Isidore Musèt, gendarme, states that he was called to the house about three o’clock in the morning, and found some twenty or thirty persons at the gateway, endeavouring to gain admittance. He forced it open, at length, with a bayonet—not with a crowbar. He had but little difficulty in getting it open, on account of its being a double or folding gate, and bolted neither at bottom nor top. The shrieks continued until the gate was forced—and then suddenly ceased. They seemed to be screams of some person (or persons) in great agony—were loud and drawn out, not short and quick. The witness led the way up stairs. Upon reaching the first landing, he heard two voices in loud and angry contention—the one a gruff voice, the other much shriller—a very strange voice.”",0.2,1.0,0c807985b5c87c612d250e8f74b404cff2d11dc259be846524c40c3215639b06,4fe08958dbc84bd36d61488161d55d367662d0435fa6b3db01209f80bd6ed667,570,572,1.003509,pass,,json_ok,2026-06-03T01:43:05Z
+groq_gpt_oss_120b_free|run_1|POE_WORKS_VOLUME_1_014|modernize,groq_gpt_oss_120b_free,groq,Groq GPT-OSS 120B free-tier run,openai/gpt-oss-120b,openai/gpt-oss-120b,run_1,POE_WORKS_VOLUME_1_014,modernize,"“To this horrible mystery there is not as yet, we believe, the slightest clue.”
+
+The next day’s paper added these details.
+
+“The Tragedy in the Rue Morgue.—Many people have been examined in connection with this most extraordinary and frightening case” [The word ‘affaire’ does not yet have the lightness it has in English], “but nothing at all has emerged to shed light on it. Below is all the material testimony we have gathered.
+
+“Pauline Dubourg, a laundress, testifies that she has known both the deceased for three years, having washed for them during that time. The old lady and her daughter seemed on good terms—very affectionate toward each other. They were excellent pay. She could not speak about how they earned a living. She believed Madame L. earned a living telling fortunes. She was said to have money saved. She never met anyone in the house when she came to pick up or drop off clothes. She was sure they had no servant. There appeared to be no furniture in any part of the building except on the fourth floor.
+
+“Pierre Moreau, a tobacconist, testifies that he has been selling small amounts of tobacco and snuff to Madame L. Espanaye for nearly four years. He was born in the neighborhood and has always lived there. The deceased and her daughter had occupied the house where the bodies were found for more than six years. It had previously been occupied by a jeweler, who sublet the upper rooms to various people. The house belonged to Madame L. She became dissatisfied with the way her tenant was using the premises and moved in herself, refusing to rent any part of it. The old lady was childish. The witness had seen the daughter about five or six times during those six years. The two lived an extremely reclusive life—were thought to have money. He had heard neighbors say that Madame L. told fortunes—did not believe it. He had never seen anyone enter the door except the old lady and her daughter, a porter once or twice, and a doctor about eight or ten times.
+
+“Many other neighbors gave testimony to the same effect. No one was reported as a frequent visitor to the house. It was not known whether Madame L. and her daughter had any living relatives. The shutters on the front windows were rarely opened. Those at the back were always closed, except for the large back room on the fourth floor. The house was a good house—not very old.
+
+“Isidore Musèt, a gendarme, testifies that he was called to the house about three o’clock in the morning and found twenty or thirty people at the gate trying to get in. He forced it open, eventually, with a bayonet—not with a crowbar. He had little difficulty opening it because it was a double or folding gate and was not bolted at either the bottom or the top. The shrieks continued until the gate was forced—and then suddenly stopped. They sounded like the screams of someone (or several people) in great agony—loud and drawn out, not short and quick. The witness led the way up the stairs. Upon reaching the first landing, he heard two voices in a loud, angry argument—the one a gruff voice, the other much higher—a very strange voice.",0.2,1.0,0c807985b5c87c612d250e8f74b404cff2d11dc259be846524c40c3215639b06,854c5e3e64aef2e71254ef7359ca9dacb3cf1d098785045984410b45e42356a5,570,560,0.982456,pass,,json_ok,2026-06-03T01:43:20Z
