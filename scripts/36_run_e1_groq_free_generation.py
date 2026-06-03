@@ -546,9 +546,15 @@ def main() -> int:
                 continue
             except urllib.error.URLError as exc:
                 reason_text = str(getattr(exc, "reason", exc))
-                if "timed out" in reason_text.lower():
+                lower_reason = reason_text.lower()
+                if (
+                    "timed out" in lower_reason
+                    or "connectionreseterror" in lower_reason
+                    or "forcibly closed" in lower_reason
+                    or "connection reset" in lower_reason
+                ):
                     wait_seconds = max(min(sleep_seconds, 30.0), 5.0)
-                    print(f"Transient URL timeout; retrying in {wait_seconds:.1f}s ({reason_text})", flush=True)
+                    print(f"Transient URL error; retrying in {wait_seconds:.1f}s ({reason_text})", flush=True)
                     time.sleep(wait_seconds)
                     continue
                 append_jsonl(raw_path, {
