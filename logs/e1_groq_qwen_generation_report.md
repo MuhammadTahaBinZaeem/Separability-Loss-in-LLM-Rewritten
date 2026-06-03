@@ -1,18 +1,18 @@
 # E1 Groq Free-Model Generation Report
 
-Generated UTC: 2026-06-03T09:45:47Z
+Generated UTC: 2026-06-03T10:25:23Z
 
 - target: qwen
 - replication_model_id: groq_qwen_32b_free
 - provider_model_name: qwen/qwen3-32b
 - passages_per_author: 20
 - planned_requests_this_scope: 360
-- completed_this_run: 39
-- raw_ok_rows_total: 253
-- remaining_requests: 107
-- parsed_rows_total: 253
-- qc_pass_rows: 168
-- qc_warning_rows: 85
+- completed_this_run: 27
+- raw_ok_rows_total: 280
+- remaining_requests: 80
+- parsed_rows_total: 280
+- qc_pass_rows: 191
+- qc_warning_rows: 89
 - qc_fail_rows: 0
 - exit_reason: rate_limit_wait_exceeds_remaining_runtime_resume_later
 - raw_path: data\interim\e1_free_model_replication\groq_generation\groq_qwen_32b_free\raw_responses.jsonl
