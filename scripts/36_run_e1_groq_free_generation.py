@@ -539,9 +539,9 @@ def main() -> int:
                 })
                 exit_reason = f"stopped_on_http_error_{exc.code}"
                 break
-            except (TimeoutError, socket.timeout) as exc:
+            except (TimeoutError, socket.timeout, ConnectionResetError, ConnectionAbortedError, BrokenPipeError) as exc:
                 wait_seconds = max(min(sleep_seconds, 30.0), 5.0)
-                print(f"Transient timeout; retrying in {wait_seconds:.1f}s ({exc})", flush=True)
+                print(f"Transient socket error; retrying in {wait_seconds:.1f}s ({exc})", flush=True)
                 time.sleep(wait_seconds)
                 continue
             except urllib.error.URLError as exc:
