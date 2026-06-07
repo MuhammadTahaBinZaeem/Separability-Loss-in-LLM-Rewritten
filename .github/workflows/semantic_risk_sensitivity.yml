@@ -1,0 +1,54 @@
+name: Semantic-Risk Sensitivity
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/44_run_semantic_risk_sensitivity.py'
+      - 'data/audit/semantic_fidelity_key.csv'
+      - 'data/audit/semantic_fidelity_annotation_flags.csv'
+      - 'data/modeling/**'
+      - 'metadata/modeling_feature_columns.csv'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: semantic-risk-sensitivity-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  semantic-risk-sensitivity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run semantic-risk sensitivity analysis
+        run: python scripts/44_run_semantic_risk_sensitivity.py
+
+      - name: Commit semantic-risk sensitivity outputs
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metadata/semantic_risk_sensitivity_transfer_summary.csv \
+                  metadata/semantic_risk_sensitivity_excluded_rows.csv \
+                  metadata/semantic_risk_sensitivity_manifest.csv \
+                  logs/semantic_risk_sensitivity_report.md
+          if git diff --cached --quiet; then
+            echo "No semantic-risk sensitivity changes to commit."
+          else
+            git commit -m "Run semantic-risk sensitivity analysis"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
