@@ -1,0 +1,51 @@
+name: Semantic Fidelity Annotation Check
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/43_check_semantic_fidelity_annotations.py'
+      - 'data/audit/semantic_fidelity_annotation_flags.csv'
+      - 'metadata/semantic_fidelity_annotation_summary.csv'
+      - 'logs/semantic_fidelity_annotation_report.md'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: semantic-fidelity-annotation-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  semantic-fidelity-annotation-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run semantic fidelity annotation checker
+        run: python scripts/43_check_semantic_fidelity_annotations.py
+
+      - name: Commit semantic fidelity annotation check outputs
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metadata/semantic_fidelity_annotation_check_summary.csv \
+                  logs/semantic_fidelity_annotation_check_report.md
+          if git diff --cached --quiet; then
+            echo "No semantic-fidelity annotation-check changes to commit."
+          else
+            git commit -m "Validate semantic fidelity annotations"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
