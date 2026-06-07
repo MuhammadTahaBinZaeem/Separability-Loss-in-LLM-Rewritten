@@ -5,3 +5,15 @@ groq_llama_3_3_70b_free,poe,60
 groq_llama_3_3_70b_free,shelley,60
 groq_llama_3_3_70b_free,twain,60
 groq_llama_3_3_70b_free,wilde,60
+groq_qwen_32b_free,austen,60
+groq_qwen_32b_free,dickens,60
+groq_qwen_32b_free,poe,60
+groq_qwen_32b_free,shelley,60
+groq_qwen_32b_free,twain,60
+groq_qwen_32b_free,wilde,60
+groq_gpt_oss_120b_free,austen,60
+groq_gpt_oss_120b_free,dickens,60
+groq_gpt_oss_120b_free,poe,60
+groq_gpt_oss_120b_free,shelley,60
+groq_gpt_oss_120b_free,twain,60
+groq_gpt_oss_120b_free,wilde,60

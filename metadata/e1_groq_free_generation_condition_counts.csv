@@ -2,3 +2,9 @@ model_id,condition,rows
 groq_llama_3_3_70b_free,modernize,120
 groq_llama_3_3_70b_free,paraphrase,120
 groq_llama_3_3_70b_free,simplify,120
+groq_qwen_32b_free,modernize,120
+groq_qwen_32b_free,paraphrase,120
+groq_qwen_32b_free,simplify,120
+groq_gpt_oss_120b_free,modernize,120
+groq_gpt_oss_120b_free,paraphrase,120
+groq_gpt_oss_120b_free,simplify,120

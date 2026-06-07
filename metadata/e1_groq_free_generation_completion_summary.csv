@@ -1,2 +1,4 @@
-model_id,label,requests,successful_raw_rows,parsed_rows,remaining,qc_pass_rows,qc_warning_rows,qc_fail_rows,contaminated_rows_flagged_by_scan,status
-groq_llama_3_3_70b_free,Groq Llama 3.3 70B,360,394,360,0,117,243,0,5,FAIL
+model_id,label,requests,raw_ok_rows_total,unique_successful_scoped_raw_rows,duplicate_successful_scoped_raw_rows,successful_raw_rows_outside_scope,parsed_rows,remaining,qc_pass_rows,qc_warning_rows,qc_fail_rows,contaminated_rows_flagged_by_scan,status
+groq_llama_3_3_70b_free,Groq Llama 3.3 70B,360,394,360,0,34,360,0,117,243,0,5,PASS
+groq_qwen_32b_free,Groq Qwen 32B,360,360,360,0,0,360,0,259,101,0,27,PASS
+groq_gpt_oss_120b_free,Groq GPT-OSS 120B,360,425,360,0,65,360,0,258,102,0,35,PASS
