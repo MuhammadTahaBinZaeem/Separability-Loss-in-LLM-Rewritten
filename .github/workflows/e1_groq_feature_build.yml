@@ -1,0 +1,53 @@
+name: E1 Groq Feature Build
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/38a_build_e1_groq_features.py'
+      - 'data/interim/e1_free_model_replication/groq_generation/**'
+      - 'metadata/e1_groq_free_generation_completion_summary.csv'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: e1-groq-feature-build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  e1-groq-feature-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build E1 Groq feature tables
+        run: python scripts/38a_build_e1_groq_features.py
+
+      - name: Commit E1 Groq feature tables
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/interim/e1_free_model_replication/groq_downstream/e1_groq_master_text_dataset.csv \
+                  data/interim/e1_free_model_replication/groq_downstream/e1_groq_stylometric_features.csv \
+                  metadata/e1_groq_feature_registry.csv \
+                  metadata/e1_groq_split_summary.csv \
+                  logs/e1_groq_feature_build_report.md
+          if git diff --cached --quiet; then
+            echo "No E1 Groq feature-build changes to commit."
+          else
+            git commit -m "Build E1 Groq downstream feature tables"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
