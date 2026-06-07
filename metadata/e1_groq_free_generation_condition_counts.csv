@@ -1,0 +1,4 @@
+model_id,condition,rows
+groq_llama_3_3_70b_free,modernize,120
+groq_llama_3_3_70b_free,paraphrase,120
+groq_llama_3_3_70b_free,simplify,120

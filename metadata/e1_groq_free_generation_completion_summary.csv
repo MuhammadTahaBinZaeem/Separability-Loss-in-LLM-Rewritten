@@ -1,0 +1,2 @@
+model_id,label,requests,successful_raw_rows,parsed_rows,remaining,qc_pass_rows,qc_warning_rows,qc_fail_rows,contaminated_rows_flagged_by_scan,status
+groq_llama_3_3_70b_free,Groq Llama 3.3 70B,360,394,360,0,117,243,0,5,FAIL

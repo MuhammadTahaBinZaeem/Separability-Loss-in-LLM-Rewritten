@@ -1,0 +1,5 @@
+model_id,qc_flag,rows
+groq_llama_3_3_70b_free,json_repaired_loose_rewritten_text,110
+groq_llama_3_3_70b_free,length_hard_warning,133
+groq_llama_3_3_70b_free,length_soft_warning,41
+groq_llama_3_3_70b_free,prompt_or_source_leakage_warning,11

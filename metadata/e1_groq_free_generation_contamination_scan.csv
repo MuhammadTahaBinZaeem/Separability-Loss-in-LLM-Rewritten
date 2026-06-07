@@ -1,0 +1,9 @@
+model_id,pattern,rows
+groq_llama_3_3_70b_free,as_an_ai,0
+groq_llama_3_3_70b_free,below_is,0
+groq_llama_3_3_70b_free,here_is,3
+groq_llama_3_3_70b_free,i_cannot,2
+groq_llama_3_3_70b_free,json_literal,0
+groq_llama_3_3_70b_free,the_rewritten,0
+groq_llama_3_3_70b_free,think_close,0
+groq_llama_3_3_70b_free,think_open,0

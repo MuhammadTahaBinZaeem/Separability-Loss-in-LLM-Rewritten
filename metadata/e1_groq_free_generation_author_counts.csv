@@ -1,0 +1,7 @@
+model_id,author_id,rows
+groq_llama_3_3_70b_free,austen,60
+groq_llama_3_3_70b_free,dickens,60
+groq_llama_3_3_70b_free,poe,60
+groq_llama_3_3_70b_free,shelley,60
+groq_llama_3_3_70b_free,twain,60
+groq_llama_3_3_70b_free,wilde,60
