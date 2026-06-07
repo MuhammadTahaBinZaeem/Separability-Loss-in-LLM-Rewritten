@@ -1,0 +1,51 @@
+name: E1 Groq Same-Condition Analysis
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/38c_e1_groq_same_condition.py'
+      - 'data/interim/e1_free_model_replication/groq_downstream/e1_groq_stylometric_features.csv'
+      - 'metadata/e1_groq_feature_registry.csv'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: e1-groq-same-condition-analysis-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  e1-groq-same-condition-analysis:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run E1 Groq same-condition analysis
+        run: python scripts/38c_e1_groq_same_condition.py
+
+      - name: Commit E1 Groq same-condition outputs
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metadata/e1_groq_same_condition_summary.csv \
+                  metadata/e1_groq_same_condition_manifest.csv \
+                  logs/e1_groq_same_condition_analysis_report.md
+          if git diff --cached --quiet; then
+            echo "No E1 Groq same-condition changes to commit."
+          else
+            git commit -m "Run E1 Groq same-condition analysis"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
