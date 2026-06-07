@@ -1,0 +1,53 @@
+name: E1 Groq Downstream Check
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/39_check_e1_groq_downstream.py'
+      - 'metadata/e1_groq_transfer_summary.csv'
+      - 'metadata/e1_groq_same_condition_summary.csv'
+      - 'metadata/e1_groq_distance_summary.csv'
+      - 'data/interim/e1_free_model_replication/groq_downstream/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: e1-groq-downstream-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  e1-groq-downstream-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run E1 Groq downstream checker
+        run: python scripts/39_check_e1_groq_downstream.py
+
+      - name: Commit E1 Groq downstream check outputs
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metadata/e1_groq_downstream_completion_summary.csv \
+                  metadata/e1_groq_downstream_completion_manifest.csv \
+                  logs/e1_groq_downstream_completion_report.md
+          if git diff --cached --quiet; then
+            echo "No E1 Groq downstream-check changes to commit."
+          else
+            git commit -m "Validate E1 Groq downstream analysis"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
