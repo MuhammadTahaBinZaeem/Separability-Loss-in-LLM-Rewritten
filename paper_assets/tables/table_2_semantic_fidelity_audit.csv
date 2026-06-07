@@ -1,0 +1,5 @@
+condition,rows,added_facts,added_facts_rate,omitted_facts,omitted_facts_rate,tone_drift_mean_0_2,meaning_preservation_mean_1_5,usable_rows,usable_rate,semantic_issue_flags,semantic_issue_rate
+ALL,108,6,5.6%,5,4.6%,0.981481,4.527778,107,99.1%,17,15.7%
+modernize,36,1,2.8%,0,0.0%,1.055556,4.638889,36,100.0%,3,8.3%
+paraphrase,36,3,8.3%,2,5.6%,0.833333,4.305556,35,97.2%,7,19.4%
+simplify,36,2,5.6%,3,8.3%,1.055556,4.638889,36,100.0%,7,19.4%

@@ -1,0 +1,10 @@
+model,condition,original_test_macro_f1,rewrite_test_macro_f1,macro_f1_loss_vs_original,original_test_accuracy,rewrite_test_accuracy,accuracy_loss_vs_original,rows
+nearest_centroid,paraphrase,0.776931,0.395797,0.381134,0.777778,0.444444,0.333334,54
+nearest_centroid,modernize,0.776931,0.56072,0.216211,0.777778,0.574074,0.203704,54
+nearest_centroid,simplify,0.776931,0.463636,0.313295,0.777778,0.481481,0.296297,54
+diagonal_gaussian_nb,paraphrase,0.760859,0.423931,0.336928,0.759259,0.462963,0.296296,54
+diagonal_gaussian_nb,modernize,0.760859,0.590047,0.170812,0.759259,0.592593,0.166666,54
+diagonal_gaussian_nb,simplify,0.760859,0.449798,0.311061,0.759259,0.462963,0.296296,54
+linear_discriminant_shrinkage,paraphrase,0.776931,0.390232,0.386699,0.777778,0.444444,0.333334,54
+linear_discriminant_shrinkage,modernize,0.776931,0.598237,0.178694,0.777778,0.611111,0.166667,54
+linear_discriminant_shrinkage,simplify,0.776931,0.419634,0.357297,0.777778,0.444444,0.333334,54

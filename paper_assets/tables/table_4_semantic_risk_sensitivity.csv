@@ -1,0 +1,10 @@
+sensitivity_filter,condition,rows,excluded_rows,test_macro_f1,macro_f1_loss_vs_original
+all_rows,paraphrase,54,0,0.395797,0.381134
+all_rows,modernize,54,0,0.56072,0.216211
+all_rows,simplify,54,0,0.463636,0.313295
+exclude_unusable,paraphrase,54,0,0.395797,0.381134
+exclude_unusable,modernize,54,0,0.56072,0.216211
+exclude_unusable,simplify,54,0,0.463636,0.313295
+exclude_any_semantic_issue,paraphrase,54,0,0.395797,0.381134
+exclude_any_semantic_issue,modernize,54,0,0.56072,0.216211
+exclude_any_semantic_issue,simplify,52,2,0.463749,0.313182
