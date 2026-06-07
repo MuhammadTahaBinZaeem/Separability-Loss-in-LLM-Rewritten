@@ -1,0 +1,10 @@
+analysis_model_id,condition,original_test_macro_f1,transfer_test_macro_f1,transfer_macro_f1_loss,same_condition_survival,all_feature_distance_ratio,function_word_distance_ratio
+groq_llama_3_3_70b_free,paraphrase,0.659524,0.525,0.134524,0.791817,0.945427,0.877661
+groq_llama_3_3_70b_free,modernize,0.659524,0.702778,-0.043254,0.873645,0.860345,0.852567
+groq_llama_3_3_70b_free,simplify,0.659524,0.333333,0.326191,0.713598,0.938996,0.930514
+groq_qwen_32b_free,paraphrase,0.659524,0.480952,0.178572,0.873645,0.953648,0.922589
+groq_qwen_32b_free,modernize,0.659524,0.589683,0.069841,0.991576,0.90434,0.838536
+groq_qwen_32b_free,simplify,0.659524,0.502778,0.156746,0.895963,0.927489,0.832842
+groq_gpt_oss_120b_free,paraphrase,0.659524,0.516931,0.142593,1.022316,0.907039,0.834532
+groq_gpt_oss_120b_free,modernize,0.659524,0.52619,0.133334,0.80932,1.002878,0.838817
+groq_gpt_oss_120b_free,simplify,0.659524,0.5,0.159524,0.811728,0.981119,0.841757
