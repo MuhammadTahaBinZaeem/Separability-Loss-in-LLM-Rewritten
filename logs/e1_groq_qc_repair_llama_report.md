@@ -1,12 +1,12 @@
 # E1 Groq QC Repair Report: llama
 
-- generated_utc: 2026-06-07T18:36:54Z
+- generated_utc: 2026-06-07T18:41:25Z
 - repair_version: qc_repair_v1
 - warning_or_fail_candidates: 243
 - attempted_or_canonicalized_candidates_total: 106
 - candidates_fixed_to_pass_total: 76
 - remaining_not_pass_total: 167
-- completed_this_run: 43
+- completed_this_run: 0
 - exit_reason: rate_limit_wait_resume_later
 
 ## Original QC flags
