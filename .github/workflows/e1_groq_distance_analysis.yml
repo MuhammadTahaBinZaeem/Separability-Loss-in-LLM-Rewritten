@@ -1,0 +1,51 @@
+name: E1 Groq Distance Analysis
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/38d_e1_groq_distance.py'
+      - 'data/interim/e1_free_model_replication/groq_downstream/e1_groq_stylometric_features.csv'
+      - 'metadata/e1_groq_feature_registry.csv'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: e1-groq-distance-analysis-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  e1-groq-distance-analysis:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run E1 Groq distance analysis
+        run: python scripts/38d_e1_groq_distance.py
+
+      - name: Commit E1 Groq distance outputs
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metadata/e1_groq_distance_summary.csv \
+                  metadata/e1_groq_distance_manifest.csv \
+                  logs/e1_groq_distance_analysis_report.md
+          if git diff --cached --quiet; then
+            echo "No E1 Groq distance changes to commit."
+          else
+            git commit -m "Run E1 Groq distance analysis"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
