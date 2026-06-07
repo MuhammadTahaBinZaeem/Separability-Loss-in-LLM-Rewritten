@@ -1,0 +1,59 @@
+name: Manuscript Assets Build
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/46_build_manuscript_tables_figures.py'
+      - 'metadata/original_to_rewritten_degradation_summary.csv'
+      - 'metadata/e1_groq_downstream_completion_summary.csv'
+      - 'metadata/semantic_fidelity_annotation_summary.csv'
+      - 'metadata/semantic_risk_sensitivity_transfer_summary.csv'
+      - 'metadata/semantic_risk_sensitivity_check_summary.csv'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: manuscript-assets-build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  manuscript-assets-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build manuscript tables and figures
+        run: python scripts/46_build_manuscript_tables_figures.py
+
+      - name: Commit manuscript assets
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add paper_assets/tables/table_1_core_transfer_test_results.csv \
+                  paper_assets/tables/table_2_semantic_fidelity_audit.csv \
+                  paper_assets/tables/table_3_groq_replication.csv \
+                  paper_assets/tables/table_4_semantic_risk_sensitivity.csv \
+                  paper_assets/figures/figure_1_core_transfer_macro_f1_loss.svg \
+                  paper_assets/figures/figure_2_groq_transfer_macro_f1_loss.svg \
+                  docs/manuscript_results_summary.md \
+                  metadata/manuscript_assets_manifest.csv
+          if git diff --cached --quiet; then
+            echo "No manuscript asset changes to commit."
+          else
+            git commit -m "Build manuscript result tables and figures"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
