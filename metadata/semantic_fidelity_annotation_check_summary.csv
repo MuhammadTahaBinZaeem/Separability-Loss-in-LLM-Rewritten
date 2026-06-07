@@ -1,0 +1,2 @@
+rows,added_facts_count,omitted_facts_count,narrative_order_change_count,speaker_relation_change_count,tone_drift_mean,meaning_preservation_mean,usable_yes_count,usable_no_count,any_semantic_issue_count,high_issue_level_count,status
+108,6,5,0,0,0.981481,4.527778,107,1,17,1,PASS
