@@ -1,13 +1,13 @@
 # E1 Groq QC Repair Report: llama
 
-- generated_utc: 2026-06-07T18:20:00Z
+- generated_utc: 2026-06-07T18:36:54Z
 - repair_version: qc_repair_v1
 - warning_or_fail_candidates: 243
-- attempted_or_canonicalized_candidates_total: 63
-- candidates_fixed_to_pass_total: 63
-- remaining_not_pass_total: 180
-- completed_this_run: 63
-- exit_reason: completed_all_pending_repairs
+- attempted_or_canonicalized_candidates_total: 106
+- candidates_fixed_to_pass_total: 76
+- remaining_not_pass_total: 167
+- completed_this_run: 43
+- exit_reason: rate_limit_wait_resume_later
 
 ## Original QC flags
 - json_repaired_loose_rewritten_text: 63
@@ -21,7 +21,8 @@
 - prompt_or_source_leakage_warning;length_soft_warning: 1
 
 ## New repair QC status
-- pass: 63
+- pass: 76
+- warning: 30
 
 ## Files
 - data/interim/e1_free_model_replication/groq_generation/qc_repairs/groq_llama_3_3_70b_free/repair_candidates.csv

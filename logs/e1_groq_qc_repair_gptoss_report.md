@@ -1,13 +1,13 @@
 # E1 Groq QC Repair Report: gptoss
 
-- generated_utc: 2026-06-07T18:20:00Z
+- generated_utc: 2026-06-07T18:28:44Z
 - repair_version: qc_repair_v1
 - warning_or_fail_candidates: 102
 - attempted_or_canonicalized_candidates_total: 2
 - candidates_fixed_to_pass_total: 2
 - remaining_not_pass_total: 100
-- completed_this_run: 2
-- exit_reason: completed_all_pending_repairs
+- completed_this_run: 0
+- exit_reason: stopped_on_http_error_401
 
 ## Original QC flags
 - json_repaired_loose_rewritten_text: 2
