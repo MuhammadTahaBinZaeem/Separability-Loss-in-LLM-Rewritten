@@ -1,0 +1,52 @@
+name: Semantic Fidelity PDF Packet
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/42_build_semantic_fidelity_pdf_packet.py'
+      - 'data/audit/semantic_fidelity_sample.csv'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: semantic-fidelity-pdf-packet-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  semantic-fidelity-pdf-packet:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install PDF dependencies
+        run: python -m pip install reportlab
+
+      - name: Build full semantic fidelity PDF packet
+        run: python scripts/42_build_semantic_fidelity_pdf_packet.py
+
+      - name: Commit semantic fidelity PDF packet
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/audit/semantic_fidelity_annotation_packet.pdf \
+                  logs/semantic_fidelity_pdf_packet_report.md
+          if git diff --cached --quiet; then
+            echo "No semantic-fidelity PDF packet changes to commit."
+          else
+            git commit -m "Build semantic fidelity annotation PDF packet"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
