@@ -1,0 +1,10 @@
+analysis_model_id,split,rows,unique_passages,authors
+groq_llama_3_3_70b_free,train,336,84,6
+groq_llama_3_3_70b_free,validation,72,18,6
+groq_llama_3_3_70b_free,test,72,18,6
+groq_qwen_32b_free,train,336,84,6
+groq_qwen_32b_free,validation,72,18,6
+groq_qwen_32b_free,test,72,18,6
+groq_gpt_oss_120b_free,train,336,84,6
+groq_gpt_oss_120b_free,validation,72,18,6
+groq_gpt_oss_120b_free,test,72,18,6
