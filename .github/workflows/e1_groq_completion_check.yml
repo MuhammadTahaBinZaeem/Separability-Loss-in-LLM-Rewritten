@@ -1,0 +1,54 @@
+name: E1 Groq Completion Check
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/37_check_e1_groq_free_generation.py'
+      - 'data/interim/e1_free_model_replication/groq_generation/**'
+      - 'logs/e1_groq_*_generation_report.md'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: e1-groq-completion-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  e1-groq-completion-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run E1 Groq completion checker
+        run: python scripts/37_check_e1_groq_free_generation.py
+
+      - name: Commit E1 Groq completion summaries
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metadata/e1_groq_free_generation_completion_summary.csv \
+                  metadata/e1_groq_free_generation_qc_flag_counts.csv \
+                  metadata/e1_groq_free_generation_condition_counts.csv \
+                  metadata/e1_groq_free_generation_author_counts.csv \
+                  metadata/e1_groq_free_generation_contamination_scan.csv \
+                  logs/e1_groq_free_generation_completion_report.md
+          if git diff --cached --quiet; then
+            echo "No E1 Groq completion summary changes to commit."
+          else
+            git commit -m "Validate completed E1 Groq free-model generation"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
