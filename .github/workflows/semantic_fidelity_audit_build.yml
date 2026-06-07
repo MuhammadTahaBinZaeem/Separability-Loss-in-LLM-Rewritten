@@ -1,0 +1,53 @@
+name: E4 Semantic Fidelity Audit Build
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/40_build_semantic_fidelity_audit.py'
+      - 'docs/semantic_fidelity_audit_protocol.md'
+      - 'data/final/master_text_dataset.csv'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: semantic-fidelity-audit-build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  semantic-fidelity-audit-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build semantic fidelity audit package
+        run: python scripts/40_build_semantic_fidelity_audit.py
+
+      - name: Commit semantic fidelity audit package
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/audit/semantic_fidelity_sample.csv \
+                  data/audit/semantic_fidelity_annotation_sheet.csv \
+                  data/audit/semantic_fidelity_key.csv \
+                  metadata/semantic_fidelity_audit_manifest.csv \
+                  logs/semantic_fidelity_audit_build_report.md
+          if git diff --cached --quiet; then
+            echo "No semantic-fidelity audit package changes to commit."
+          else
+            git commit -m "Build semantic fidelity audit package"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
