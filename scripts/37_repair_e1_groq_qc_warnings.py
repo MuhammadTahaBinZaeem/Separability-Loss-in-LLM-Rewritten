@@ -607,9 +607,9 @@ def main() -> int:
     for target in targets:
         _completed, exit_reason = process_target(target, args)
         if "missing_env_" in exit_reason or exit_reason.startswith("stopped_on_http_error"):
-            write_summary(targets)
+            write_summary(TARGET_ORDER)
             return 1
-    write_summary(targets)
+    write_summary(TARGET_ORDER)
     return 0
 
 

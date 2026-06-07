@@ -1,12 +1,12 @@
 # E1 Groq QC Repair Report: qwen
 
-- generated_utc: 2026-06-07T18:41:05Z
+- generated_utc: 2026-06-07T18:43:16Z
 - repair_version: qc_repair_v1
 - warning_or_fail_candidates: 101
 - attempted_or_canonicalized_candidates_total: 101
 - candidates_fixed_to_pass_total: 74
 - remaining_not_pass_total: 27
-- completed_this_run: 13
+- completed_this_run: 0
 - exit_reason: completed_all_pending_repairs
 
 ## Original QC flags

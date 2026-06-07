@@ -1,2 +1,4 @@
 target,warning_or_fail_candidates,repair_rows_total,fixed_to_pass_source_request_ids,new_pass_rows,new_warning_rows,new_fail_rows,remaining_not_pass_source_request_ids,generated_utc
-llama,243,106,76,76,30,0,167,2026-06-07T18:41:25Z
+llama,243,106,76,76,30,0,167,2026-06-07T18:43:16Z
+qwen,101,101,74,74,27,0,27,2026-06-07T18:43:16Z
+gptoss,102,2,2,2,0,0,100,2026-06-07T18:43:16Z
