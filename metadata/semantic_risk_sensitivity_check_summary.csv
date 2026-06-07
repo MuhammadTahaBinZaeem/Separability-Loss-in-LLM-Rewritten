@@ -1,0 +1,2 @@
+transfer_summary_rows,excluded_detail_rows,unusable_detail_rows,semantic_issue_detail_rows,high_risk_detail_rows,strict_test_rewrite_rows,strict_test_nonpositive_losses,minimum_strict_test_macro_f1_loss,maximum_rewrite_rows_excluded_in_any_cell,status
+72,17,1,17,1,9,0,0.170812,2,PASS
