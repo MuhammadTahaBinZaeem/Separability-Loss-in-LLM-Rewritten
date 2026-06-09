@@ -1,0 +1,23 @@
+item_id,section,requirement,status,reason
+MRB_001,Methods,Corpus section reports six authors twelve works 360 passages and 1440 modeling rows,required,Core reproducibility and balance claim
+MRB_002,Methods,Corpus section includes Project Gutenberg and non-US copyright caution,required,Prevents source-text/copyright reviewer attack
+MRB_003,Methods,Rewrite conditions are operationally defined as original paraphrase modernize simplify,required,Prevents vague independent-variable definition
+MRB_004,Methods,Feature-vector equation is included,required,Clarifies stylometric representation
+MRB_005,Methods,Train-on-original evaluation design is explicitly stated,required,Core causal/transfer design
+MRB_006,Methods,Training and evaluation set equations are included,required,Shows formal design
+MRB_007,Methods,Three classifiers are named and justified,required,Prevents one-model fragility critique
+MRB_008,Methods,Macro-F1 equation is included,required,Defines primary metric
+MRB_009,Methods,Macro-F1 loss equation is included,required,Defines primary effect size
+MRB_010,Methods,Paired passage-level bootstrap with 5000 replicates is described,required,Fixes point-estimate weakness
+MRB_011,Methods,Semantic-fidelity audit fields and single-review limitation are stated,required,Prevents overclaim and validity attack
+MRB_012,Methods,Semantic-risk sensitivity filters are described,required,Connects audit to robustness analysis
+MRB_013,Methods,Groq replication is framed as robustness with heterogeneity,required,Prevents overclaiming replication
+MRB_014,Results,Primary test degradation is reported first with 95 percent CIs,required,Results order and statistical rigor
+MRB_015,Results,Table 1 is called out for core transfer results with CIs,required,Manuscript table discipline
+MRB_016,Results,Semantic-fidelity audit reports 107 of 108 usable and mean preservation 4.53 of 5,required,Validity evidence
+MRB_017,Results,Semantic-risk sensitivity reports zero strict-filter nonpositive test losses,required,Main robustness claim
+MRB_018,Results,Groq replication reports Llama-modernize reversal as heterogeneity,required,Honest robustness framing
+MRB_019,Figures,Experimental design schematic is planned,required,Improves DSH readability
+MRB_020,Figures,Core macro-F1 loss figure is planned,required,Graphical result clarity
+MRB_021,Writing,No paragraph is allowed unless it answers measurement method validity or result question,required,Anti-essay rule
+MRB_022,Writing,Overclaiming phrases like erase authorial style are avoided,required,Protects cautious tone
