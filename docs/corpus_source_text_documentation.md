@@ -55,7 +55,7 @@ Use the following wording in Methods or Data:
 
 Use the following wording in Data Availability or Ethics/Source Texts:
 
-> The source texts were obtained from Project Gutenberg editions identified in the repository source-text register. Project Gutenberg distinguishes between the underlying texts that are not restricted by U.S. copyright law and the Project Gutenberg trademark/license material attached to its distributed files. The study records the ebook number and URL for each source and treats non-US copyright status as jurisdiction-dependent. Researchers reusing the corpus outside the United States should verify local copyright law and should follow Project Gutenberg's license and trademark guidance when redistributing source-derived text.
+> The source texts were obtained from Project Gutenberg editions identified in the repository source-text register. Project Gutenberg distinguishes between the underlying texts that are not restricted by U.S. copyright law and the Project Gutenberg trademark/license material attached to its distributed files. The study records the ebook number and URL for each source. Non-US copyright status is jurisdiction-dependent. Researchers reusing the corpus outside the United States should verify local copyright law and should follow Project Gutenberg's license and trademark guidance when redistributing source-derived text.
 
 ## Important limits
 
@@ -64,6 +64,7 @@ Do not overclaim global public-domain status. The safe wording is:
 - Project Gutenberg source texts are used as documented sources;
 - Project Gutenberg states that many texts are not restricted under U.S. copyright law;
 - Project Gutenberg also warns non-US users to check local laws;
+- non-US copyright status is jurisdiction-dependent;
 - redistribution should avoid misuse of the Project Gutenberg trademark and should respect license/trademark terms.
 
 ## Reviewer attack this document prevents
@@ -86,5 +87,5 @@ Before submission, ensure that the paper includes:
 - a citation or reference entry for Project Gutenberg;
 - a Data Availability statement pointing to the repository and source-text register;
 - no claim that all texts are globally public domain;
-- a note that copyright status outside the United States is jurisdiction-dependent;
+- the exact caution that non-US copyright status is jurisdiction-dependent;
 - no large unnecessary republication of original literary passages in the article body.
