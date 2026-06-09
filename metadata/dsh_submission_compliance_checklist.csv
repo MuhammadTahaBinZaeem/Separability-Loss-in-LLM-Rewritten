@@ -1,0 +1,16 @@
+item,required_for_submission,current_status,repo_location,notes
+Full paper word limit,yes,planned,docs/dsh_submission_endmatter_package.md,Target full paper should normally stay within DSH full-paper word limit.
+Data availability statement,yes,drafted,docs/dsh_submission_endmatter_package.md,Replace placeholder repository URL or DOI before submission.
+AI Disclosure Statement,yes,drafted,docs/dsh_submission_endmatter_package.md,Must list tools and extent of use honestly.
+Funding statement,yes,drafted,docs/dsh_submission_endmatter_package.md,Currently no-funding draft.
+Conflict of interest statement,yes,drafted,docs/dsh_submission_endmatter_package.md,Currently no competing interests draft.
+Ethics statement,strongly recommended,drafted,docs/dsh_submission_endmatter_package.md,States no human-subject/private-data involvement.
+Figure alt text,yes,drafted,docs/dsh_submission_endmatter_package.md,Alt text drafted for current manuscript figures.
+Separate figure files,yes,available,paper_assets/figures,SVG figures currently generated; final submission may require journal-preferred high-resolution format.
+Manuscript tables,yes,available,paper_assets/tables,Generated from validated analysis outputs.
+Bootstrap confidence intervals,methodological strength,available,metadata/primary_transfer_bootstrap_ci.csv,Should be cited in Results.
+Semantic-fidelity limitation,methodological honesty,drafted,docs/dsh_submission_endmatter_package.md,Must not claim two independent annotators.
+Groq heterogeneity limitation,methodological honesty,drafted,docs/manuscript_results_summary.md,Must mention Llama-modernize reversal.
+Permanent repository DOI,strongly recommended,not_done,TBD,Archive GitHub release to Zenodo or OSF before submission.
+Public-domain/copyright verification,yes,planned,TBD,Confirm raw text redistribution rights before final deposit.
+Reference verification,yes,planned,TBD,Every cited paper must be checked manually before submission.
