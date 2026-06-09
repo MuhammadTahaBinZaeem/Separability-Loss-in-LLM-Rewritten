@@ -7,6 +7,7 @@ on:
     paths:
       - 'scripts/46_build_manuscript_tables_figures.py'
       - 'metadata/original_to_rewritten_degradation_summary.csv'
+      - 'metadata/primary_transfer_bootstrap_ci.csv'
       - 'metadata/e1_groq_downstream_completion_summary.csv'
       - 'metadata/semantic_fidelity_annotation_summary.csv'
       - 'metadata/semantic_risk_sensitivity_transfer_summary.csv'
