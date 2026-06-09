@@ -1,7 +1,8 @@
 """Build manuscript-ready tables and figure data.
 
 Collects validated outputs from the core experiment, E1 Groq replication, E4
-semantic-fidelity audit, and semantic-risk sensitivity analysis.
+semantic-fidelity audit, semantic-risk sensitivity analysis, and bootstrap
+uncertainty estimates.
 
 Outputs live under:
 - paper_assets/tables/
@@ -22,6 +23,7 @@ FIGS = ROOT / "paper_assets" / "figures"
 DOCS = ROOT / "docs"
 
 CORE = META / "original_to_rewritten_degradation_summary.csv"
+BOOTSTRAP_CI = META / "primary_transfer_bootstrap_ci.csv"
 GROQ = META / "e1_groq_downstream_completion_summary.csv"
 FIDELITY = META / "semantic_fidelity_annotation_summary.csv"
 RISK = META / "semantic_risk_sensitivity_transfer_summary.csv"
@@ -65,6 +67,10 @@ def pct(value: str) -> str:
     return f"{100*float(value):.1f}%"
 
 
+def ci_text(row: dict[str, str]) -> str:
+    return f"[{row['loss_ci_2_5']}, {row['loss_ci_97_5']}]"
+
+
 def simple_bar_svg(path: Path, title: str, rows: list[dict[str, Any]], label_col: str, value_col: str) -> None:
     width, height = 980, 420
     margin_left, margin_top, margin_bottom = 210, 60, 70
@@ -96,17 +102,24 @@ def simple_bar_svg(path: Path, title: str, rows: list[dict[str, Any]], label_col
 
 def build_core_table() -> list[dict[str, Any]]:
     rows = read_csv(CORE)
+    ci_rows = read_csv(BOOTSTRAP_CI)
+    ci_by_key = {(r["model"], r["split"], r["condition"]): r for r in ci_rows}
     out = []
     for model in CORE_MODELS:
         original = next(r for r in rows if r["model"] == model and r["split"] == "test" and r["condition"] == "original")
         for cond in REWRITE_CONDITIONS:
             r = next(x for x in rows if x["model"] == model and x["split"] == "test" and x["condition"] == cond)
+            ci = ci_by_key[(model, "test", cond)]
             out.append({
                 "model": model,
                 "condition": cond,
                 "original_test_macro_f1": original["macro_f1"],
                 "rewrite_test_macro_f1": r["macro_f1"],
                 "macro_f1_loss_vs_original": r["macro_f1_loss_vs_original"],
+                "macro_f1_loss_95ci": ci_text(ci),
+                "macro_f1_loss_ci_low": ci["loss_ci_2_5"],
+                "macro_f1_loss_ci_high": ci["loss_ci_97_5"],
+                "bootstrap_nonpositive_rate": ci["bootstrap_nonpositive_rate"],
                 "original_test_accuracy": original["accuracy"],
                 "rewrite_test_accuracy": r["accuracy"],
                 "accuracy_loss_vs_original": r["accuracy_loss_vs_original"],
@@ -184,7 +197,7 @@ def markdown_table(rows: list[dict[str, Any]], fields: list[str]) -> str:
 
 
 def main() -> int:
-    for required in [CORE, GROQ, FIDELITY, RISK, RISK_CHECK]:
+    for required in [CORE, BOOTSTRAP_CI, GROQ, FIDELITY, RISK, RISK_CHECK]:
         if not required.exists():
             raise FileNotFoundError(required)
     TABLES.mkdir(parents=True, exist_ok=True); FIGS.mkdir(parents=True, exist_ok=True)
@@ -196,10 +209,12 @@ def main() -> int:
     simple_bar_svg(GROQ_FIG, "Groq replication: original-to-rewrite degradation", groq_fig_rows, "label", "loss")
 
     risk_check = read_csv(RISK_CHECK)[0]
+    min_ci_low = min(float(r["macro_f1_loss_ci_low"]) for r in core)
+    max_nonpositive = max(float(r["bootstrap_nonpositive_rate"]) for r in core)
     summary = []
     summary.append("# Manuscript Results Summary\n")
     summary.append("## Core transfer result\n")
-    summary.append(markdown_table(core, ["model", "condition", "original_test_macro_f1", "rewrite_test_macro_f1", "macro_f1_loss_vs_original", "rows"]))
+    summary.append(markdown_table(core, ["model", "condition", "original_test_macro_f1", "rewrite_test_macro_f1", "macro_f1_loss_vs_original", "macro_f1_loss_95ci", "bootstrap_nonpositive_rate", "rows"]))
     summary.append("\n## Semantic-fidelity audit\n")
     summary.append(markdown_table(fidelity, ["condition", "rows", "meaning_preservation_mean_1_5", "usable_rate", "semantic_issue_rate"]))
     summary.append("\n## Semantic-risk sensitivity\n")
@@ -207,7 +222,7 @@ def main() -> int:
     summary.append("\n## Groq free-model replication\n")
     summary.append(markdown_table(groq, ["analysis_model_id", "condition", "transfer_macro_f1_loss", "same_condition_survival", "all_feature_distance_ratio", "function_word_distance_ratio"]))
     summary.append("\n## Manuscript-safe interpretation\n")
-    summary.append(f"- Core test macro-F1 losses are positive for all three rewrite conditions across all three classifiers.\n- Semantic-fidelity review: 107/108 rows usable; mean preservation score 4.53/5. Treat as single-review audit, not independent double annotation.\n- Semantic-risk sensitivity passed: strict-filter non-positive losses = {risk_check['strict_test_nonpositive_losses']}; minimum strict test loss = {risk_check['minimum_strict_test_macro_f1_loss']}.\n- Groq replication broadly supports the degradation pattern, but Llama-modernize is a reversal and should be reported as heterogeneity.\n")
+    summary.append(f"- Core test macro-F1 losses are positive for all three rewrite conditions across all three classifiers.\n- Passage-level paired bootstrap intervals support the primary test result: minimum lower 95% CI bound = {min_ci_low:.6f}; maximum nonpositive bootstrap rate = {max_nonpositive:.6f}.\n- Semantic-fidelity review: 107/108 rows usable; mean preservation score 4.53/5. Treat as single-review audit, not independent double annotation.\n- Semantic-risk sensitivity passed: strict-filter non-positive losses = {risk_check['strict_test_nonpositive_losses']}; minimum strict test loss = {risk_check['minimum_strict_test_macro_f1_loss']}.\n- Groq replication broadly supports the degradation pattern, but Llama-modernize is a reversal and should be reported as heterogeneity.\n")
     SUMMARY_MD.write_text("\n\n".join(summary) + "\n", encoding="utf-8")
 
     artifacts = [CORE_TABLE, FIDELITY_TABLE, GROQ_TABLE, RISK_TABLE, CORE_FIG, GROQ_FIG, SUMMARY_MD]
