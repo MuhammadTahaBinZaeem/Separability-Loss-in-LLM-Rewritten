@@ -75,12 +75,44 @@ REQUIRED_TABLES_FIGURES = [
     "Table S5",
 ]
 
+UNSAFE_PHRASES = [
+    "destroys authorial style",
+    "proves LLMs erase authorship",
+    "human annotation study",
+    "semantic fidelity was guaranteed",
+    "all models show the same effect",
+    "universal effect of LLM rewriting",
+]
+
+ANTI_OVERCLAIM_MARKER = "## Anti-overclaim rules for final drafting"
+
 
 def write_csv(path: Path, rows: list[dict[str, Any]], fields: list[str]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fields)
         writer.writeheader(); writer.writerows(rows)
+
+
+def split_anti_overclaim_context(text: str) -> tuple[str, str, bool]:
+    """Return outside-text, anti-overclaim-section text, marker-found flag.
+
+    Unsafe phrases are expected to appear only in the anti-overclaim section,
+    where they are explicitly listed as phrases to avoid. This function removes
+    that section before scanning for unsafe usage elsewhere in the skeleton.
+    """
+    lower = text.lower()
+    marker = ANTI_OVERCLAIM_MARKER.lower()
+    start = lower.find(marker)
+    if start == -1:
+        return text, "", False
+    after_marker = start + len(marker)
+    next_heading = lower.find("\n## ", after_marker)
+    if next_heading == -1:
+        next_heading = len(text)
+    anti_section = text[start:next_heading]
+    outside = text[:start] + text[next_heading:]
+    return outside, anti_section, True
 
 
 def main() -> int:
@@ -106,17 +138,17 @@ def main() -> int:
     for x in missing_tf:
         errors.append(f"missing table/figure callout: {x}")
 
-    unsafe_phrases = [
-        "destroys authorial style",
-        "proves LLMs erase authorship",
-        "human annotation study",
-        "semantic fidelity was guaranteed",
-        "all models show the same effect",
-        "universal effect of LLM rewriting",
-    ]
-    found_unsafe = [p for p in unsafe_phrases if p.lower() in text_lower and f"avoid:\n\n- \u201c{p}".lower() not in text_lower]
+    outside_anti, anti_section, anti_marker_found = split_anti_overclaim_context(text)
+    if not anti_marker_found:
+        errors.append(f"missing section: {ANTI_OVERCLAIM_MARKER}")
+
+    found_unsafe = [p for p in UNSAFE_PHRASES if p.lower() in outside_anti.lower()]
+    missing_unsafe_examples = [p for p in UNSAFE_PHRASES if p.lower() not in anti_section.lower()]
+
     for p in found_unsafe:
-        errors.append(f"unsafe phrase appears outside avoidance context: {p}")
+        errors.append(f"unsafe phrase appears outside anti-overclaim section: {p}")
+    for p in missing_unsafe_examples:
+        errors.append(f"anti-overclaim section missing unsafe example: {p}")
 
     rows = [{
         "required_phrases_checked": len(REQUIRED_PHRASES),
@@ -127,7 +159,8 @@ def main() -> int:
         "missing_equation_markers": len(missing_equations),
         "table_figure_callouts_checked": len(REQUIRED_TABLES_FIGURES),
         "missing_table_figure_callouts": len(missing_tf),
-        "unsafe_phrases_found": len(found_unsafe),
+        "unsafe_phrases_outside_anti_overclaim_section": len(found_unsafe),
+        "unsafe_examples_missing_from_anti_overclaim_section": len(missing_unsafe_examples),
         "status": "PASS" if not errors else "FAIL",
     }]
     write_csv(CHECK_SUMMARY, rows, list(rows[0].keys()))
@@ -143,7 +176,8 @@ def main() -> int:
         f"- missing equation markers: {len(missing_equations)}",
         f"- table/figure callouts checked: {len(REQUIRED_TABLES_FIGURES)}",
         f"- missing table/figure callouts: {len(missing_tf)}",
-        f"- unsafe phrases found: {len(found_unsafe)}",
+        f"- unsafe phrases outside anti-overclaim section: {len(found_unsafe)}",
+        f"- unsafe examples missing from anti-overclaim section: {len(missing_unsafe_examples)}",
         "",
     ]
     if errors:
@@ -156,7 +190,7 @@ def main() -> int:
     lines += [
         "## Final verdict",
         "",
-        "PASS: manuscript skeleton contains the required DSH-style structure, equations, table/figure callouts, and caution language for full drafting.",
+        "PASS: manuscript skeleton contains the required DSH-style structure, equations, table/figure callouts, and caution language for full drafting. Unsafe overclaim examples appear only in the anti-overclaim section.",
     ]
     CHECK_REPORT.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print("PASS: manuscript skeleton checker passed")
