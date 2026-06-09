@@ -8,12 +8,9 @@
 - missing equation markers: 0
 - table/figure callouts checked: 11
 - missing table/figure callouts: 0
-- unsafe phrases found: 5
+- unsafe phrases outside anti-overclaim section: 0
+- unsafe examples missing from anti-overclaim section: 0
 
-## Errors
+## Final verdict
 
-- unsafe phrase appears outside avoidance context: proves LLMs erase authorship
-- unsafe phrase appears outside avoidance context: human annotation study
-- unsafe phrase appears outside avoidance context: semantic fidelity was guaranteed
-- unsafe phrase appears outside avoidance context: all models show the same effect
-- unsafe phrase appears outside avoidance context: universal effect of LLM rewriting
+PASS: manuscript skeleton contains the required DSH-style structure, equations, table/figure callouts, and caution language for full drafting. Unsafe overclaim examples appear only in the anti-overclaim section.
