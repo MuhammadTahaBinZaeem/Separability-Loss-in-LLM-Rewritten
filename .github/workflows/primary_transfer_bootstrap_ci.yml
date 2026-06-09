@@ -1,0 +1,50 @@
+name: Primary Transfer Bootstrap CI
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/47_bootstrap_primary_transfer_uncertainty.py'
+      - 'data/results/original_to_rewritten_predictions.csv'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: primary-transfer-bootstrap-ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  primary-transfer-bootstrap-ci:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run bootstrap uncertainty analysis
+        run: python scripts/47_bootstrap_primary_transfer_uncertainty.py
+
+      - name: Commit bootstrap CI outputs
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metadata/primary_transfer_bootstrap_ci.csv \
+                  metadata/primary_transfer_bootstrap_ci_manifest.csv \
+                  logs/primary_transfer_bootstrap_ci_report.md
+          if git diff --cached --quiet; then
+            echo "No bootstrap CI changes to commit."
+          else
+            git commit -m "Compute primary transfer bootstrap confidence intervals"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
