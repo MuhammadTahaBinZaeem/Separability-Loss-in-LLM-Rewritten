@@ -4,17 +4,17 @@
 ## Core transfer result
 
 
-| model | condition | original_test_macro_f1 | rewrite_test_macro_f1 | macro_f1_loss_vs_original | rows |
-| --- | --- | --- | --- | --- | --- |
-| nearest_centroid | paraphrase | 0.776931 | 0.395797 | 0.381134 | 54 |
-| nearest_centroid | modernize | 0.776931 | 0.56072 | 0.216211 | 54 |
-| nearest_centroid | simplify | 0.776931 | 0.463636 | 0.313295 | 54 |
-| diagonal_gaussian_nb | paraphrase | 0.760859 | 0.423931 | 0.336928 | 54 |
-| diagonal_gaussian_nb | modernize | 0.760859 | 0.590047 | 0.170812 | 54 |
-| diagonal_gaussian_nb | simplify | 0.760859 | 0.449798 | 0.311061 | 54 |
-| linear_discriminant_shrinkage | paraphrase | 0.776931 | 0.390232 | 0.386699 | 54 |
-| linear_discriminant_shrinkage | modernize | 0.776931 | 0.598237 | 0.178694 | 54 |
-| linear_discriminant_shrinkage | simplify | 0.776931 | 0.419634 | 0.357297 | 54 |
+| model | condition | original_test_macro_f1 | rewrite_test_macro_f1 | macro_f1_loss_vs_original | macro_f1_loss_95ci | bootstrap_nonpositive_rate | rows |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| nearest_centroid | paraphrase | 0.776931 | 0.395797 | 0.381134 | [0.261805, 0.502832] | 0.0 | 54 |
+| nearest_centroid | modernize | 0.776931 | 0.56072 | 0.216211 | [0.099657, 0.346396] | 0.0 | 54 |
+| nearest_centroid | simplify | 0.776931 | 0.463636 | 0.313295 | [0.193906, 0.448514] | 0.0 | 54 |
+| diagonal_gaussian_nb | paraphrase | 0.760859 | 0.423931 | 0.336928 | [0.200441, 0.471742] | 0.0 | 54 |
+| diagonal_gaussian_nb | modernize | 0.760859 | 0.590047 | 0.170812 | [0.050751, 0.304165] | 0.0018 | 54 |
+| diagonal_gaussian_nb | simplify | 0.760859 | 0.449798 | 0.311061 | [0.172679, 0.45574] | 0.0 | 54 |
+| linear_discriminant_shrinkage | paraphrase | 0.776931 | 0.390232 | 0.386699 | [0.265921, 0.504839] | 0.0 | 54 |
+| linear_discriminant_shrinkage | modernize | 0.776931 | 0.598237 | 0.178694 | [0.071128, 0.301491] | 0.0002 | 54 |
+| linear_discriminant_shrinkage | simplify | 0.776931 | 0.419634 | 0.357297 | [0.229058, 0.496117] | 0.0 | 54 |
 
 
 ## Semantic-fidelity audit
@@ -64,6 +64,7 @@
 
 
 - Core test macro-F1 losses are positive for all three rewrite conditions across all three classifiers.
+- Passage-level paired bootstrap intervals support the primary test result: minimum lower 95% CI bound = 0.050751; maximum nonpositive bootstrap rate = 0.001800.
 - Semantic-fidelity review: 107/108 rows usable; mean preservation score 4.53/5. Treat as single-review audit, not independent double annotation.
 - Semantic-risk sensitivity passed: strict-filter non-positive losses = 0; minimum strict test loss = 0.170812.
 - Groq replication broadly supports the degradation pattern, but Llama-modernize is a reversal and should be reported as heterogeneity.
