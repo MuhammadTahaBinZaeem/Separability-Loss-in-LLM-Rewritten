@@ -1,0 +1,53 @@
+name: Corpus Source-Text Documentation Check
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/49_check_corpus_source_text_documentation.py'
+      - 'metadata/source_text_copyright_register.csv'
+      - 'metadata/selected_counts_by_work.csv'
+      - 'metadata/gutenberg_alias_map.csv'
+      - 'metadata/master_text_dataset_summary.csv'
+      - 'docs/corpus_source_text_documentation.md'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: corpus-source-text-documentation-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  corpus-source-text-documentation-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run corpus source-text documentation checker
+        run: python scripts/49_check_corpus_source_text_documentation.py
+
+      - name: Commit corpus source-text documentation check outputs
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metadata/corpus_source_text_documentation_check_summary.csv \
+                  logs/corpus_source_text_documentation_check_report.md
+          if git diff --cached --quiet; then
+            echo "No corpus source-text documentation-check changes to commit."
+          else
+            git commit -m "Validate corpus source-text documentation"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
