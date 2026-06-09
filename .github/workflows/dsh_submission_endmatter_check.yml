@@ -1,0 +1,50 @@
+name: DSH Submission End-Matter Check
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'docs/dsh_submission_endmatter_package.md'
+      - 'metadata/dsh_submission_compliance_checklist.csv'
+      - 'scripts/48_check_dsh_submission_endmatter.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dsh-submission-endmatter-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  dsh-submission-endmatter-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run DSH submission end-matter checker
+        run: python scripts/48_check_dsh_submission_endmatter.py
+
+      - name: Commit DSH end-matter check outputs
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metadata/dsh_submission_endmatter_check_summary.csv \
+                  logs/dsh_submission_endmatter_check_report.md
+          if git diff --cached --quiet; then
+            echo "No DSH end-matter check changes to commit."
+          else
+            git commit -m "Validate DSH submission end-matter package"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
