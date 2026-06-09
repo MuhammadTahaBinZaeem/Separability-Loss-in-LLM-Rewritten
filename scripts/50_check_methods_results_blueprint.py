@@ -16,6 +16,9 @@ CHECKLIST = ROOT / "metadata/methods_results_blueprint_checklist.csv"
 OUT = ROOT / "metadata/methods_results_blueprint_check_summary.csv"
 REPORT = ROOT / "logs/methods_results_blueprint_check_report.md"
 
+# Human-facing phrases are checked case-insensitively so wording such as
+# "Twelve works" does not fail only because the checklist says "twelve works".
+# Exact mathematical equation markers are still checked separately below.
 REQUIRED_PHRASES = [
     "LLM rewriting changes the evidentiary status of literary texts",
     "six authors",
@@ -62,8 +65,9 @@ def main() -> int:
         return 1
 
     text = DOC.read_text(encoding="utf-8")
+    text_lower = text.lower()
     checklist = read_csv(CHECKLIST)
-    missing_phrases = [p for p in REQUIRED_PHRASES if p not in text]
+    missing_phrases = [p for p in REQUIRED_PHRASES if p.lower() not in text_lower]
     if missing_phrases:
         errors.extend([f"blueprint missing phrase: {p}" for p in missing_phrases])
 
