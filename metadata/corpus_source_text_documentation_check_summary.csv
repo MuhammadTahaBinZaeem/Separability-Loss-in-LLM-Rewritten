@@ -1,2 +1,2 @@
 register_rows,selected_rows,alias_rows,authors,works,total_selected_passages,master_rows,unique_passages,missing_required_doc_phrases,status
-12,12,12,6,12,360,1440,360,1,FAIL
+12,12,12,6,12,360,1440,360,0,PASS

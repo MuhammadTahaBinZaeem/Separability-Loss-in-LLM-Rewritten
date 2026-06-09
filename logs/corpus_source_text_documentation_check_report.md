@@ -8,8 +8,8 @@
 - total selected passages: 360
 - master rows: 1440
 - unique passages: 360
-- missing required doc phrases: 1
+- missing required doc phrases: 0
 
-## Errors
+## Final verdict
 
-- documentation missing phrase: non-US copyright status is jurisdiction-dependent
+PASS: corpus source-text documentation is synchronized with selected-work metadata and includes the required Project Gutenberg reuse and non-US copyright cautions.
