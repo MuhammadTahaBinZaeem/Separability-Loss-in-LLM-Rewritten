@@ -1,0 +1,7 @@
+model_key,fold,feature_set,condition,mean_inter_author_delta,ratio_to_original,mean_original_to_rewrite_centroid_shift,reference_scaler,inference
+original_baseline_only,0,function_word,original,0.529757421561161,1.0,0.0,original_training_only,descriptive_dependent_author_pairs
+original_baseline_only,0,all_features,original,0.5678405046560961,1.0,0.0,original_training_only,descriptive_dependent_author_pairs
+original_baseline_only,1,function_word,original,0.4811774976226723,1.0,0.0,original_training_only,descriptive_dependent_author_pairs
+original_baseline_only,1,all_features,original,0.5081279333767331,1.0,0.0,original_training_only,descriptive_dependent_author_pairs
+original_baseline_only,2,function_word,original,0.5161150563546657,1.0,0.0,original_training_only,descriptive_dependent_author_pairs
+original_baseline_only,2,all_features,original,0.5223417069370515,1.0,0.0,original_training_only,descriptive_dependent_author_pairs

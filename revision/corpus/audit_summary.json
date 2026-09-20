@@ -1,0 +1,20 @@
+{
+  "excluded_source_blocks": 1011,
+  "independent_human_review": false,
+  "legacy_dispositions": {
+    "eligible_body": 243,
+    "exclude_or_review": 117
+  },
+  "legacy_reasons": {
+    "exact_source_match_within_verified_work_body": 243,
+    "note_body;section_heading": 1,
+    "outside_v2_fiction_boundaries_or_crosses_works": 62,
+    "section_heading": 51,
+    "uppercase_heading_or_insert;verse_table_or_short_line_insert": 2,
+    "verse_table_or_short_line_insert": 1
+  },
+  "legacy_rows_reviewed": 360,
+  "new_passages": 360,
+  "new_works": 18,
+  "review_is_ai_assisted": true
+}

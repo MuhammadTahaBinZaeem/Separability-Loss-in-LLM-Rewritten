@@ -1,0 +1,44 @@
+{
+  "ablations_included": false,
+  "analysis_complete": false,
+  "bootstraps": 5000,
+  "comparison_count": 0,
+  "corpus_sha256": "ce6c6a3687b3545460fa014b348cb2ed6dd49a8283006f866a8b9680dc5ca7ef",
+  "model_status": {
+    "gptoss120": {
+      "complete": false,
+      "expected": 1080,
+      "fail": 0,
+      "missing": 1080,
+      "model_key": "gptoss120",
+      "parsed_sha256": "bf01872d580cfb9952260664b6ca7e1416d62083b0f14944b46f465e9f042c52",
+      "pass": 0,
+      "qc_rules": "research_v2/generation.py:parse_response",
+      "qc_version": "v2.0",
+      "raw_sha256": "",
+      "received": 0,
+      "request_manifest_sha256": "3d2261f2a8c215d469ae2add3fdcaa0dd97ed9e8f0efdda6d3c8053579c8f8f3",
+      "warning": 0
+    },
+    "qwen27": {
+      "complete": false,
+      "expected": 1080,
+      "fail": 0,
+      "missing": 1080,
+      "model_key": "qwen27",
+      "parsed_sha256": "bf01872d580cfb9952260664b6ca7e1416d62083b0f14944b46f465e9f042c52",
+      "pass": 0,
+      "qc_rules": "research_v2/generation.py:parse_response",
+      "qc_version": "v2.0",
+      "raw_sha256": "",
+      "received": 0,
+      "request_manifest_sha256": "393b9739565c54ebca003959479e33d3e9aa71e61244f9154229c3334ad2f321",
+      "warning": 0
+    }
+  },
+  "permutations": 9999,
+  "prediction_rows": 1080,
+  "predictions_sha256": "b0f748e62865bf78e0425f01103ebaa926b42c0c96b70324b22759fc31b987e9",
+  "primary_classifier": "nearest_centroid",
+  "primary_model": "gptoss120"
+}

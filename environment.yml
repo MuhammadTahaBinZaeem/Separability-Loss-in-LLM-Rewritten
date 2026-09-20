@@ -1,19 +1,8 @@
-name: litpaper
+name: separability-v2
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - python=3.11
-  - pandas
-  - numpy
-  - scikit-learn
-  - scipy
-  - matplotlib
-  - seaborn
-  - nltk
-  - spacy
+  - python=3.12.11
   - pip
   - pip:
-      - textstat
-      - pypdf
-      - pdfplumber
+      - -r requirements.txt

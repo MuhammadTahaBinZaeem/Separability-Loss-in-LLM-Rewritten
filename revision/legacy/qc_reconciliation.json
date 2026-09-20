@@ -1,0 +1,16 @@
+{
+  "changed_status_rows": 3,
+  "consistent": true,
+  "errors": [],
+  "generation_time_counts": {
+    "fail": 3,
+    "pass": 967,
+    "warning": 110
+  },
+  "historical_data_are_primary": false,
+  "historical_rows": 1080,
+  "revalidation_counts": {
+    "pass": 969,
+    "warning": 111
+  }
+}

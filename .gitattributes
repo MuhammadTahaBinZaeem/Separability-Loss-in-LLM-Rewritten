@@ -8,3 +8,17 @@ metadata/selection_summary.csv text eol=crlf
 metadata/selection_filter_report.csv text eol=lf
 metadata/selected_passage_md_manifest.csv text eol=crlf
 metadata/step8_output_manifest.csv text eol=crlf
+
+# V2 generated artifacts are LF on every OS. Downloaded source bytes are immutable.
+research_v2/** text eol=lf
+tests/** text eol=lf
+revision/** text eol=lf
+revision/sources/*.txt -text
+revision/sources/*.txt -whitespace
+revision/agent_rewrite/outputs/*.json -text -whitespace
+revision/corpus/excluded_source_blocks.csv -whitespace
+revision/history/** -whitespace
+requirements-v2.in text eol=lf
+requirements-v2.lock text eol=lf
+revision/annotations/returns/*.csv -text
+.github/workflows/*.yml text eol=lf

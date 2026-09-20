@@ -1,0 +1,15 @@
+{
+  "complete": false,
+  "expected": 1080,
+  "fail": 0,
+  "missing": 1080,
+  "model_key": "qwen27",
+  "parsed_sha256": "bf01872d580cfb9952260664b6ca7e1416d62083b0f14944b46f465e9f042c52",
+  "pass": 0,
+  "qc_rules": "research_v2/generation.py:parse_response",
+  "qc_version": "v2.0",
+  "raw_sha256": "",
+  "received": 0,
+  "request_manifest_sha256": "393b9739565c54ebca003959479e33d3e9aa71e61244f9154229c3334ad2f321",
+  "warning": 0
+}

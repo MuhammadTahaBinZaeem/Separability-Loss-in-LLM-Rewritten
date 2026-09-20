@@ -1,0 +1,8 @@
+{
+  "corpus_sha256": "656ead91b88a493ce64e1108eefeed1bc6a7105279a33bf6d83df4ff5cec7e55",
+  "model": "openai/gpt-oss-120b",
+  "model_key": "gptoss120",
+  "plan_sha256": "00f2d7f421019384f557bff0d8c76c1b7513d41a65596a472d1df35eff0cf2d3",
+  "request_count": 1080,
+  "requests_sha256": "8e74657d2d9269bec68dbdec74dd32a01157da4263881dbb4458f58c98e5e4cf"
+}

@@ -1,97 +1,56 @@
-name: E1 Groq GPT-OSS Generation
+name: V2 controlled rewrite generation
 
 on:
   workflow_dispatch:
     inputs:
-      passages_per_author:
-        description: 'Balanced original passages per author. 55 = 990 requests.'
+      model_key:
+        description: 'Frozen model key from revision/generation_plan.json'
         required: true
-        default: '55'
+        type: choice
+        options: [gptoss120, qwen27]
+        default: gptoss120
       max_requests:
-        description: 'Optional cap for this run. Leave blank for all requests in scope.'
-        required: false
-        default: ''
-      sleep_seconds:
-        description: 'Sleep between requests. Runner also waits on 429 reset hints.'
+        description: 'Maximum new responses; 0 runs all remaining frozen requests'
         required: true
-        default: '12'
-      provider_model_name:
-        description: 'Groq model name override.'
+        default: '3'
+      runtime_minutes:
+        description: 'Checkpoint and stop before the job deadline'
         required: true
-        default: 'openai/gpt-oss-120b'
+        default: '290'
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: e1-groq-gptoss-generation-${{ github.ref }}
+  group: revised-generation-${{ github.ref }}-${{ inputs.model_key }}
   cancel-in-progress: false
 
 jobs:
-  e1-groq-gptoss-generation:
+  generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 330
-
+    timeout-minutes: 310
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          fetch-depth: 0
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Patch Groq User-Agent header
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          path = Path('scripts/36_run_e1_groq_free_generation.py')
-          text = path.read_text(encoding='utf-8')
-          if 'USER_AGENT =' not in text:
-              text = text.replace(
-                  'API_URL = "https://api.groq.com/openai/v1/chat/completions"\n',
-                  'API_URL = "https://api.groq.com/openai/v1/chat/completions"\nUSER_AGENT = "litpaper-e1-groq-generation/1.0 (+https://github.com/MuhammadTahaBinZaeem/litpaper)"\n',
-              )
-          if '"User-Agent": USER_AGENT' not in text:
-              text = text.replace(
-                  '"Content-Type": "application/json",\n        },',
-                  '"Content-Type": "application/json",\n            "Accept": "application/json",\n            "User-Agent": USER_AGENT,\n        },',
-              )
-          path.write_text(text, encoding='utf-8')
-          PY
-          python -m py_compile scripts/36_run_e1_groq_free_generation.py
-
-      - name: Run Groq GPT-OSS generation
+          python-version: '3.12.11'
+      - name: Run immutable, blinded requests
         env:
           GROQ_GPTOSS_API_KEY: ${{ secrets.GROQ_GPTOSS_API_KEY }}
-        run: |
-          EXTRA=""
-          if [ -n "${{ github.event.inputs.max_requests }}" ]; then
-            EXTRA="--max-requests ${{ github.event.inputs.max_requests }}"
-          fi
-          python scripts/36_run_e1_groq_free_generation.py \
-            --target gptoss \
-            --provider-model-name "${{ github.event.inputs.provider_model_name }}" \
-            --passages-per-author "${{ github.event.inputs.passages_per_author }}" \
-            --sleep-seconds "${{ github.event.inputs.sleep_seconds }}" \
-            --max-runtime-minutes 320 \
-            --max-single-wait-seconds 1800 \
-            --resume \
-            $EXTRA
-
-      - name: Commit generated GPT-OSS outputs
+          GROQ_QWEN_API_KEY: ${{ secrets.GROQ_QWEN_API_KEY }}
+          MODEL_KEY: ${{ inputs.model_key }}
+          MAX_REQUESTS: ${{ inputs.max_requests }}
+          RUNTIME_MINUTES: ${{ inputs.runtime_minutes }}
+        run: >-
+          python -m research_v2.generation run
+          --model "$MODEL_KEY"
+          --limit "$MAX_REQUESTS"
+          --minutes "$RUNTIME_MINUTES"
+      - name: Upload raw response checkpoints and recomputed QC
         if: always()
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/interim/e1_free_model_replication/groq_generation/groq_gpt_oss_120b_free/ \
-                  logs/e1_groq_gptoss_generation_report.md
-          if git diff --cached --quiet; then
-            echo "No GPT-OSS output changes to commit."
-          else
-            git commit -m "Generate E1 Groq GPT-OSS free-model outputs"
-            git pull --rebase origin main
-            git push origin HEAD:main
-          fi
+        uses: actions/upload-artifact@v4
+        with:
+          name: revised-generation-${{ inputs.model_key }}-${{ github.run_id }}
+          path: revision/generation/${{ inputs.model_key }}/
+          retention-days: 90
+          if-no-files-found: error

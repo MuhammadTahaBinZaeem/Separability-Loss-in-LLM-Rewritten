@@ -1,5 +1,14 @@
 # litpaper
 
+> **Research-validity revision in progress (v2).** The historical completion and
+> publication-readiness claims below are superseded. The corrected experiment is
+> specified in [revision/PROTOCOL.md](revision/PROTOCOL.md); its code is in
+> `research_v2/`, frozen inputs in `revision/corpus/`, and new outputs in
+> `revision/results/`. Do not combine historical Gemini results or the separately
+> labeled agent feasibility sample with the new primary experiment. Missing
+> generations, independent human reviews, and an actual archival DOI must not be
+> described as completed. See [revision/STATUS.md](revision/STATUS.md).
+
 Repository for the research project **Authorial Style Separability Loss in LLM-Rewritten Fiction**.
 
 This repository contains a traceable, reproducible dataset-building and analysis pipeline for measuring how LLM rewriting affects computationally detectable author-specific literary style signals.

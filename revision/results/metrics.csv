@@ -1,0 +1,13 @@
+model_key,classifier,feature_set,condition,fold,rows,macro_f1,accuracy
+original_baseline_only,nearest_centroid,full,original,pooled,360,0.6384426672255619,0.6388888888888888
+original_baseline_only,nearest_centroid,full,original,0,120,0.5829002188215517,0.6
+original_baseline_only,nearest_centroid,full,original,1,120,0.6457186444371799,0.6333333333333333
+original_baseline_only,nearest_centroid,full,original,2,120,0.6679481202269288,0.6833333333333333
+original_baseline_only,gaussian_nb,full,original,pooled,360,0.575573124542963,0.5694444444444444
+original_baseline_only,gaussian_nb,full,original,0,120,0.5785233285233286,0.5833333333333334
+original_baseline_only,gaussian_nb,full,original,1,120,0.5722037855200719,0.55
+original_baseline_only,gaussian_nb,full,original,2,120,0.5548203992390038,0.575
+original_baseline_only,lda_ledoit_wolf_shrinkage,full,original,pooled,360,0.7198447680182546,0.7166666666666667
+original_baseline_only,lda_ledoit_wolf_shrinkage,full,original,0,120,0.6677023406016747,0.675
+original_baseline_only,lda_ledoit_wolf_shrinkage,full,original,1,120,0.7192769781429789,0.7083333333333334
+original_baseline_only,lda_ledoit_wolf_shrinkage,full,original,2,120,0.7645306154809268,0.7666666666666667

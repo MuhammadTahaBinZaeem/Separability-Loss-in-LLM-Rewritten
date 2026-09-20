@@ -1,0 +1,829 @@
+request_id,passage_id,condition,source_sha256,requested_agent_model,generation_method,task_name,experiment_role,source_in_final_corpus,current_passage_id,original_word_count,rewrite_word_count,length_ratio,qc_status,rewritten_text,rewrite_sha256,output_file_sha256,provider_response_id
+00e0e1436b77782e4923009c,V2_poe_murders_rue_morgue_017,paraphrase,639e1b93dd25ac959a2ff7d7d51db5da8f0448e5fb2d68d2ffa828e073f25445,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_poe_murders_rue_morgue_017,470,477,1.0148936170212766,pass,"Furthermore, this knot is one which few besides sailors can tie, and is particular to the Maltese. I took the ribbon up at the base of the lightning-rod. It could not have belonged to either of the dead. Now if, after all, I am mistaken in my inference from this ribbon, that the Frenchman was a sailor belonging to a Maltese vessel, still I can have done no harm in saying what I did in the notice. If I am in error, he will simply think that I have been misled by some incident into which he will not take the trouble to question. But if I am right, a considerable point is gained. Cognizant although guiltless of the murder, the Frenchman will of course pause about answering to the notice—about claiming the Ourang-Outang. He will reason thus:—‘I am guiltless; I am needy; my Ourang-Outang is of considerable worth—to one in my circumstances a prospects of itself—why should I lose it through idle apprehensions of peril? Here it is, within my grasp. It was found in the Bois de Boulogne—at a great length from the place of that slaughter. How can it ever be imagined that a brute animal should have done the act? The authorities are at fault—they have been unable to obtain the slightest clue. Should they even track the animal, it would be impossible to show me aware of the murder, or to involve me in wrong on account of that cognizance. Above all, _I am known._ The advertiser designates me as the owner of the animal. I am not sure to what limit his knowledge may extend. Should I avoid claiming a possession of so considerable worth, which it is known that I possess, I will render the animal at least, liable to doubt. It is not my policy to attract notice either to myself or to the animal. I will answer the notice, get the Ourang-Outang, and keep it close until this affair has blown over.’”
+
+At this instant we heard a step upon the stairs.
+
+“Be ready,” said Dupin, “with your pistols, but neither use them nor show them until at a signal from myself.”
+
+The front door of the house had been left open, and the caller had came in, without ringing, and gone several steps upon the staircase. At this point, however, he appeared to pause. Before long we heard him descending. Dupin was moving rapidly to the door, when we again heard him coming up. He did not turn back a second time, but stepped up with decision, and rapped at the door of our room.
+
+“Come in,” said Dupin, in a bright and cordial tone.
+
+A man came in. He was a sailor, plainly,—a tall, stout, and powerful-looking person, with a certain dare-devil expression of countenance, not altogether unprepossessing.",74ee48c58d8c7f99dc83b2f4b3189c521c0b3b41fd08a29ebaf7e5ec9951cfc4,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+27fa7e41b69496fb7300a2d8,V2_austen_persuasion_007,paraphrase,1d651a50c824817283d3507fdf6bbacf384ea2ba52e5c28e38a74c814ab70c2e,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_austen_persuasion_007,507,509,1.0039447731755424,pass,"Further chances of making her remarks were bound to arise. Anne had soon been in company with all the four at once often enough to have an judgment, though too wise to admit as much at home, where she knew it would have satisfied neither husband nor wife; for while she judged Louisa to be rather the favorite, she could not but think, as far as she might dare to judge from recollection and knowledge, that Captain Wentworth was not in love with either. They were more in love with him; yet there it was not love. It was a little fever of regard; but it might, probably must, end in love with some. Charles Hayter appeared aware of being slighted, and yet Henrietta had sometimes the air of being divided between them. Anne longed for the power of representing to them all what they were about, and of pointing out some of the evils they were exposing themselves to. She did not ascribe guile to any. It was the highest comfort to her to believe Captain Wentworth not in the least aware of the pain he was causing. There was no exultation, no pitiful exultation in his bearing. He had, probably, never heard, and never thought of any claims of Charles Hayter. He was only mistaken in receiving the notice (for receiving must be the word) of two young women at once.
+
+After briefly struggling, however, Charles Hayter appeared to quit the field. Three days had passed without his coming once to Uppercross; a most decided alteration. He had even refused one customary summons to dinner; and having been found on the need by Mr Musgrove with some great books before him, Mr and Mrs Musgrove were sure all could not be right, and talked, with serious faces, of his studying himself to death. It was Mary’s hope and conviction that he had received a positive dismissal from Henrietta, and her husband lived under the steady dependence of seeing him to-morrow. Anne could only feel that Charles Hayter was wise.
+
+One morning around this period Charles Musgrove and Captain Wentworth being gone a-shooting at once, as the sisters in the Cottage were sitting quietly at work, they were visited at the window by the sisters from the Mansion-house.
+
+It was a very fine November day, and the Miss Musgroves came through the little grounds, and stopped for no other use than to say, that they were going to take a _long_ walk, and, therefore, concluded Mary could not like to go with them; and when Mary at once replied, with some jealousy at not being supposed a good walker, “Oh, yes, I should like to join you very much, I am very fond of a long walk;” Anne felt convinced, by the looks of the two girls, that it was precisely what they did not wish, and admired again the sort of compulsion which the family habits appeared to produce, of everything being to be told, and everything being to be done at once, however unwanted and awkward.",fd57930dd1fb93ebdceb117360a320e11f5ff5c383d487c201c83c001f416322,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+49711a4396e08be58f451f41,V2_dickens_great_expectations_003,paraphrase,30a519f0dd064537d6ec76b4154feb58ee62a3dc4870baf33d16e31e2ae36f9d,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_dickens_great_expectations_003,471,473,1.0042462845010616,pass,"“Unless you mean to call Miss Havisham a he. And I doubt if even you’ll go so far as that.”
+
+“Miss Havisham, up town?” said Joe.
+
+“Is there any Miss Havisham down town?” returned my sister.
+
+“She wants this boy to go and play there. And of course he’s going. And he had better play there,” said my sister, shaking her head at me as an encouragement to be extremely light and sportive, “or I’ll work him.”
+
+I had heard of Miss Havisham up town,—everybody for miles round had heard of Miss Havisham up town,—as an vastly rich and stern lady who lived in a great and dark house secured against robbers, and who led a life of retirement.
+
+“Well, to be sure!” said Joe, amazed. “I wonder how she come to know Pip!”
+
+“Noodle!” cried my sister. “Who said she knew him?”
+
+“—Which some individual,” Joe again civilly hinted, “mentioned that she wanted him to go and play there.”
+
+“And couldn’t she ask Uncle Pumblechook if he knew of a boy to go and play there? Isn’t it just barely possible that Uncle Pumblechook may be a tenant of hers, and that he may sometimes—we won’t say quarterly or half-yearly, for that would be requiring too much of you—but sometimes—go there to pay his rent? And couldn’t she then ask Uncle Pumblechook if he knew of a boy to go and play there? And couldn’t Uncle Pumblechook, being always thoughtful and thoughtful for us—though you may not think it, Joseph,” in a tone of the deepest reproach, as if he were the most callous of nephews, “then mention this boy, standing Prancing here”—which I formally declare I was not doing—“that I have for ever been a willing slave to?”
+
+“Good again!” cried Uncle Pumblechook. “Well put! Prettily pointed! Good indeed! Now Joseph, you know the case.”
+
+“No, Joseph,” said my sister, still in a reproachful bearing, while Joe apologetically drew the back of his hand across and across his nose, “you do not yet—though you may not think it—know the case. You may consider that you do, but you do _not_, Joseph. For you do not know that Uncle Pumblechook, being aware that for anything we can tell, this boy’s prospects may be made by his going to Miss Havisham’s, has proposed to take him into town to-night in his own chaise-cart, and to keep him to-night, and to take him with his own hands to Miss Havisham’s to-morrow morning. And Lor-a-mussy me!” cried my sister, casting off her bonnet in sudden distress, “here I stand talking to mere Mooncalfs, with Uncle Pumblechook waiting, and the mare catching cold at the door, and the boy blackened with crock and soot from the hair of his head to the sole of his base!”",766bca1edf355c67050c4ee914a883814413daad0ac8b25f2d4a303d95cb62a0,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+5795d4c4f9f48170d45b125c,V2_dickens_oliver_twist_010,paraphrase,7d0ad7902a20b926194cf57c17bbec679bada66fdb36f320f2a719368ad2837f,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_dickens_oliver_twist_010,485,487,1.0041237113402062,pass,"Things having been thus pleasantly and agreeably arranged, the contract was formally confirmed in another teacupful of the peppermint draught; which was rendered the more needful, by the agitation and agitation of the lady’s spirits. While it was being disposed of, she acquainted Mr. Bumble with the old woman’s death.
+
+“Very well,” said that man, sipping his peppermint; “I’ll call at Sowerberry’s as I go home, and tell him to send tomorrow morning. Was it that as alarmed you, love?”
+
+“It wasn’t anything special, dear,” said the lady evasively.
+
+“It must have been something, love,” urged Mr. Bumble. “Won’t you tell your own B.?”
+
+“Not at present,” rejoined the lady; “one of these days. After we’re married, dear.”
+
+“After we’re married!” exclaimed Mr. Bumble. “It wasn’t any insolence from any of them male paupers as—”
+
+“No, no, love!” interposed the lady, quickly.
+
+“If I thought it was,” continued Mr. Bumble; “if I thought as any one of ’em had dared to lift his wulgar eyes to that lovely countenance—”
+
+“They wouldn’t have dared to do it, love,” responded the lady.
+
+“They had better not!” said Mr. Bumble, clenching his fist. “Let me see any man, porochial or extra-porochial, as would dare to do it; and I can tell him that he wouldn’t do it a second time!”
+
+Unembellished by any force of gesture, this might have appeared no very high praise to the lady’s attractions; but, as Mr. Bumble accompanied the threat with many warlike gestures, she was much moved with this proof of his attachment, and protested, with considerable regard, that he was indeed a dove.
+
+The dove then turned up his coat-collar, and put on his cocked hat; and, having exchanged a long and affectionate embrace with his future partner, once again faced the cold wind of the night: simply stopping, for a few minutes, in the male paupers’ ward, to scold them a little, with the view of assuring himself that he could fill the office of workhouse-master with needful acerbity. Assured of his fitness, Mr. Bumble left the building with a light heart, and bright visions of his future advancement: which served to occupy his mind until he reached the shop of the funeral-man.
+
+Now, Mr. and Mrs. Sowerberry having gone out to tea and supper: and Noah Claypole not being at any time disposed to take upon himself a greater amount of physical effort than is needful to a convenient performance of the two functions of eating and drinking, the shop was not closed, although it was past the customary hour of shutting-up. Mr. Bumble tapped with his cane on the counter several times; but, attracting no notice, and seeing a light shining through the glass-window of the little parlour at the back of the shop, he made bold to peep in and see what was going forward; and when he saw what was going forward, he was not a little astonished.",97196b3dec4b6707fb540375209806d6c6f6b2acf31e793daf19086f6008dc6d,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+58acec4ea2c9cfa09acf59ac,V2_austen_emma_004,paraphrase,2db1b94405960251ee13913ba74638cf57b7305e7f66db78df1bb95cdce8d47c,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_austen_emma_004,459,461,1.0043572984749456,pass,"She and the children might stay very well.”
+
+“Ah! papa—that is what you never have been able to manage, and I do not think you ever will. Isabella cannot bear to stay behind her husband.”
+
+This was far too true to dispute. Unwelcome as it was, Mr. Woodhouse could only give a resigned sigh; and as Emma saw his spirits affected by the idea of his daughter’s fondness to her husband, she at once led to such a part of the affair as must raise them.
+
+“Harriet must give us as much of her company as she can while my brother and sister are here. I am sure she will be delighted with the children. We are very proud of the children, are not we, papa? I wonder which she will think the prettiest, Henry or John?”
+
+“Aye, I wonder which she will. Poor little dears, how glad they will be to come. They are very fond of being at Hartfield, Harriet.”
+
+“I should think they are, sir. I am sure I do not know who is not.”
+
+“Henry is a fine boy, but John is very like his mama. Henry is the eldest, he was named after me, not after his father. John, the second, is named after his father. Some people are surprized, I believe, that the eldest was not, but Isabella would have him called Henry, which I thought very pretty of her. And he is a very bright boy, indeed. They are all especially bright; and they have so many pretty ways. They will come and stand by my chair, and say, ‘Grandpapa, can you give me a bit of string?’ and once Henry asked me for a knife, but I told him knives were only made for grandpapas. I think their father is too rough with them very often.”
+
+“He appears rough to you,” said Emma, “because you are so very gentle yourself; but if you could compare him with other papas, you would not think him rough. He wishes his boys to be active and hardy; and if they misbehave, can give them a sharp word now and then; but he is an affectionate father—certainly Mr. John Knightley is an affectionate father. The children are all fond of him.”
+
+“And then their uncle comes in, and tosses them up to the ceiling in a very alarming way!”
+
+“But they like it, papa; there is nothing they like so much. It is such delight to them, that if their uncle did not lie down the rule of their taking turns, whichever began would never give way to the other.”
+
+“Well, I cannot comprehend it.”
+
+“That is the case with us all, papa. One half of the world cannot comprehend the enjoyments of the other.”",6b5f1964ec4106e62811cf97dc9eb8ccdf92875bb85a66f8b61c707605b2ad8f,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+6adb2eba7547338960c0a106,V2_dickens_a_tale_of_two_cities_002,paraphrase,886e62b0b4cea3837c1d61deda77cc7d40f0ab74ab6c12a687ea5a1e1bb19ee6,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_dickens_a_tale_of_two_cities_002,452,452,1.0,pass,"“Story!”
+
+He appeared wilfully to mistake the word she had repeated, when he added, in a hurry, “Yes, clients; in the banking business we usually call our connection our clients. He was a French man; a learned man; a man of considerable attainments--a Doctor.”
+
+“Not of Beauvais?”
+
+“Why, yes, of Beauvais. Like Monsieur Manette, your father, the man was of Beauvais. Like Monsieur Manette, your father, the man was of repute in Paris. I had the honor of knowing him there. Our connections were business connections, but private. I was at that time in our French House, and had been--oh! twenty years.”
+
+“At that time--I may ask, at what time, sir?”
+
+“I speak, miss, of twenty years ago. He married--an English lady--and I was one of the guardians. His affairs, like the affairs of many other French gentlemen and French families, were entirely in Tellson’s hands. In a similar way I am, or I have been, trustee of one kind or other for scores of our clients. These are mere business connections, miss; there is no friendship in them, no special interest, nothing like feeling. I have passed from one to another, in the course of my business life, just as I pass from one of our clients to another in the course of my business day; in short, I have no feelings; I am a mere mechanism. To continue--”
+
+“But this is my father’s story, sir; and I begin to think”--the curiously roughened forehead was very intent upon him--“that when I was left an orphaned child through my mother’s surviving my father only two years, it was you who brought me to England. I am almost sure it was you.”
+
+Mr. Lorry took the hesitating little hand that trustingly gone to take his, and he put it with some formality to his lips. He then conducted the young lady directly to her chair again, and, holding the chair-back with his left hand, and using his right by turns to rub his chin, pull his wig at the ears, or point what he said, stood looking down into her face while she sat looking up into his.
+
+“Miss Manette, it _was_ I. And you will see how truly I spoke of myself just now, in saying I had no feelings, and that all the connections I hold with my fellow-creatures are mere business connections, when you think that I have never seen you since. No; you have been the ward of Tellson’s House since, and I have been busy with the other business of Tellson’s House since. Feelings! I have no time for them, no chance of them. I pass my whole life, miss, in turning an immense monetary Mangle.”",b5262d7261fc32ad5d701826de860d98168f8e3966a710a48227da709cbbeaf1,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+6bb773b91b4ece55f801c9e3,V2_wilde_lord_arthur_saviles_crime_012,paraphrase,f1ccb87c3d62f86805b9501b8bd7b5daad314314e862d37254fd3c46b35e64a2,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_wilde_lord_arthur_saviles_crime_012,450,451,1.0022222222222221,pass,"‘Well, _monsieur le mauvais sujet_,’ cried the old lady, as he came in the room, ‘why haven’t you been to see me all this time?’
+
+‘My dear Lady Clem, I never have a instant to myself,’ said Lord Arthur, smiling.
+
+‘I think you mean that you go about all day long with Miss Sybil Merton, buying _chiffons_ and talking nonsense? I cannot comprehend why people make such a fuss about being married. In my day we never dreamed of billing and cooing in public, or in private for that affair.’
+
+‘I assure you I have not seen Sybil for twenty-four hours, Lady Clem. As far as I can make out, she belongs entirely to her milliners.’
+
+‘Of course; that is the only reason you come to see an ugly old woman like myself. I wonder you men don’t take warning. _On a fait des folies pour moi_, and here I am, a needy aching being, with a false front and a bad temper. Why, if it were not for dear Lady Jansen, who sends me all the worst French novels she can find, I don’t think I could get through the day. Doctors are no use at all, except to get fees out of one. They can’t even cure my heartburn.’
+
+‘I have brought you a cure for that, Lady Clem,’ said Lord Arthur gravely. ‘It is a marvelous thing, invented by an American.’
+
+‘I don’t think I like American contrivances, Arthur. I am quite sure I don’t. I read some American novels lately, and they were quite absurd.’
+
+‘Oh, but there is no nonsense at all about this, Lady Clem! I assure you it is a perfect cure. You must undertake to try it’; and Lord Arthur brought the little box out of his pocket, and handed it to her.
+
+‘Well, the box is agreeable, Arthur. Is it really a present? That is very sweet of you. And is this the marvelous medicine? It looks like a _bonbon_. I’ll take it at once.’
+
+‘Good heavens! Lady Clem,’ cried Lord Arthur, catching hold of her hand, ‘you mustn’t do anything of the kind. It is a homoeopathic medicine, and if you take it without having heartburn, it might do you no end of harm. Wait till you have an seizure, and take it then. You will be astonished at the success.’
+
+‘I should like to take it now,’ said Lady Clementina, holding up to the light the little clear capsule, with its floating bubble of liquid aconitine. I am sure it is delightful. The fact is that, though I hate doctors, I love medicines. However, I’ll keep it till my next seizure.’
+
+‘And when will that be?’ asked Lord Arthur earnestly.",3ed732d39836c6d20ffba5e85e9d003c4918a381dc4d37b190aea4b822807a61,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+6c295966ea41f8f00bcbe3c0,V2_wilde_canterville_ghost_016,paraphrase,0ce185bba5a831177cf957e15d1e185774a974800fb50d1c375f86ee1b31a876,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_wilde_canterville_ghost_016,472,474,1.0042372881355932,pass,"‘Oh, never mind my hat! I want Virginia!’ cried the little Duke, laughing, and they galloped on to the railway station. There Mr. Otis inquired of the stationmaster if any one answering the account of Virginia had been seen on the platform, but could get no news of her. The stationmaster, however, wired up and down the line, and promised him that a close lookout would be kept for her, and, after having bought a hat for the little Duke from a linen-draper, who was just putting up his shutters, Mr. Otis rode off to Bexley, a village about four miles away, which he was told was a well-known resort of the gypsies, as there was a great common next to it. Here they woke up the village policeman, but could get no knowledge from him, and, after riding all over the common, they turned their horses’ heads homewards, and reached the Chase about eleven o’clock, exhausted and almost desolate. They found Washington and the twins waiting for them at the gate-house with lamps, as the drive was very dark. Not the faintest track of Virginia had been discovered. The gypsies had been caught on Brockley meadows, but she was not with them, and they had explained their sudden leaving by saying that they had mistaken the date of Chorton Fair, and had gone off in a hurry for fear they might be late. Indeed, they had been quite distressed at hearing of Virginia’s vanishing, as they were very welcome to Mr. Otis for having allowed them to camp in his park, and four of their number had stayed behind to help in the search. The carp-pond had been dragged, and the whole Chase completely gone over, but without any success. It was evident that, for that night at any rate, Virginia was lost to them; and it was in a state of the deepest despondency that Mr. Otis and the boys walked up to the house, the groom following behind with the two horses and the pony. In the hall they found a group of alarmed servants, and lying on a sofa in the library was needy Mrs. Otis, almost out of her mind with terror and fear, and having her forehead bathed with eau-de-cologne by the old housekeeper. Mr. Otis at once insisted on her having something to eat, and ordered up supper for the whole party. It was a pensive meal, as hardly any one spoke, and even the twins were overawed and quieted, as they were very fond of their sister. When they had finished, Mr. Otis, in spite of the pleas of the little Duke, ordered them all to bed, saying that nothing more could be done that night, and that he would telegraph in the morning to Scotland Yard for some officers to be sent down at once.",0434c771a03888d2aefc76497e1026663a78c11fd80efad5f05e0f9617c576b7,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+76088dae46832d88119624cd,V2_shelley_mathilda_010,paraphrase,cf32e656e0afea6e6aa2bab64a3dfac97efffeac80ec70c78daae502bab5d078,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,0,,454,457,1.0066079295154184,pass,"Was my love blameworthy? If it was I was uninformed of it; I urged only that which I held, and if I enjoyed from your looks, and words, and most guiltless caresses a ecstasy usually excluded from the feelings of a parent towards his child, yet no restlessness, no wish, no casual idea awoke me to a sense of wrong. I loved you as a human father might be supposed to love a daughter borne to him by a heavenly mother; as Anchises might have looked on the child of Venus if the sex had been changed; love mingled with respect and reverence. Perhaps also my passion was lulled to content by the deep and undivided affection you felt for me.
+
+“But when I beheld you become the target of another’s love; when I imagined that you might be loved otherwise than as a holy type and image of loveliness and excellence; or that you might love another with a more ardent affection than that which you bore to me, then the fiend awoke within me; I sent away your lover; and from that instant I have known no rest. I have sought in useless for sleep and rest; my lids refused to close, and my blood was for ever in a turmoil. I awoke to a new life as one who dies in hope might wake in Hell. I will not stain your imagination by telling my combats, my self-anger and my misery. Let a veil be drawn over the unspeakable sensations of a guilty father; the secrets of so agonized a heart may not be made coarse. All was confusion, sin, remorse and hate, yet still the tenderest love; and what first awoke me to the firm determination of subduing my passion and of restoring her father to my child was the sight of your bitter and sympathizing sorrows. It was this that led me here: I thought that if I could again awaken in my heart the grief I had felt at the loss of your mother, and the many memories with her recollection which had been laid to sleep for seventeen years, that all love for her child would become dead. In a fit of nerve I resolved to go alone; to quit you, the life of my life, and not to see you again untill I might without wrong. But it would not do: I rated my strength too high, or my love too low. I should certainly have died if you had not hastened to me. Would that I had been indeed ended!
+
+“And now, Mathilda I must make you my last confession. I have been miserably mistaken in imagining that I could conquer my love for you; I never can.",d5a977f88b93a6bdd33ebc345ef24dbc2545c53e8eebe2b976fba1b2221fec6d,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+88c724b1c4caab5945e144e6,V2_austen_pride_and_prejudice_003,paraphrase,e40142ba403dc0639ceee577aac2bc03cb980d3cc99be7e4e8356bc32dd31724,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_austen_pride_and_prejudice_003,461,465,1.0086767895878526,pass,"The day went by much as the day before had done. Mrs. Hurst and Miss Bingley had spent some hours of the morning with the sick woman, who continued, though slowly, to recover; and, in the evening, Elizabeth entered their party in the drawing-room. The loo table, however, did not appear. Mr. Darcy was writing, and Miss Bingley, seated near him, was watching the advance of his letter, and again and again calling off his notice by messages to his sister. Mr. Hurst and Mr. Bingley were at piquet, and Mrs. Hurst was observing their game.
+
+Elizabeth took up some needlework, and was sufficiently amused in attending to what passed between Darcy and his companion. The perpetual praises of the lady either on his hand-writing, or on the evenness of his lines, or on the length of his letter, with the perfect indifference with which her praises were received, formed a strange dialogue, and was exactly in unison with her judgment of each.
+
+“How delighted Miss Darcy will be to receive such a letter!”
+
+He gave no reply.
+
+“You write remarkably fast.”
+
+“You are mistaken. I write rather slowly.”
+
+“How many letters you must have need to write in the course of a year! Letters of business, too! How hateful I should think them!”
+
+“It is lucky, then, that they fall to my lot instead of to yours.”
+
+“Pray tell your sister that I long to see her.”
+
+“I have already told her so once, by your desire.”
+
+“I am afraid you do not like your pen. Let me recover it for you. I recover pens especially well.”
+
+“Thank you--but I always recover my own.”
+
+“How can you contrive to write so even?”
+
+He was silent.
+
+“Tell your sister I am delighted to hear of her improvement on the harp, and pray let her know that I am quite in raptures with her beautiful little design for a table, and I think it infinitely superior to Miss Grantley’s.”
+
+“Will you give me leave to postpone your raptures till I write again? At present I have not room to do them justice.”
+
+“Oh, it is of no consequence. I shall see her in January. But do you always write such agreeable long letters to her, Mr. Darcy?”
+
+“They are generally long; but whether always agreeable, it is not for me to decide.”
+
+“It is a rule with me, that a person who can write a long letter with ease cannot write ill.”
+
+“That will not do for a praise to Darcy, Caroline,” cried her brother, “because he does _not_ write with ease. He studies too much for words of four syllables. Do not you, Darcy?”
+
+“My style of writing is very different from yours.”
+
+“Oh,” cried Miss Bingley, “Charles writes in the most easy way imaginable.",3120e2689c3ffddf5d1d22aa7d6784897b6eb7db9b8b0722de3faec0bf18b154,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+974673eeb89a3814c5e75368,V2_poe_hans_pfaal_004,paraphrase,ce4309cf1d6bb9addaefb9a3093b4eff2869ef2d950ee9382231a0b44f8a04bb,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_poe_hans_pfaal_004,476,480,1.0084033613445378,pass,"Rising early the next morning, and contriving again to escape the vigilance of my claimants, I went earnestly to the bookseller’s stall, and laid out what little ready money I held, in the purchase of some books of Mechanics and Practical Astronomy. Having arrived at home safely with these, I devoted every afford instant to their reading, and soon made such skill in studies of this nature as I thought ample for the carrying out of my plan. In the pauses of this period, I made every endeavor to conciliate the three claimants who had given me so much trouble. In this I finally managed—partly by selling enough of my household furniture to satisfy a half of their claim, and partly by a undertake of paying the balance upon finishing of a little project which I told them I had in view, and for assistance in which I asked for their services. By these means—for they were uninformed men—I found little difficulty in gaining them over to my use.
+
+“Things having been thus arranged, I contrived, by the aid of my wife and with the greatest privacy and care, to dispose of what possession I had remaining, and to borrow, in small sums, under various pretences, and without paying any notice to my future means of repayment, no inconsiderable quantity of ready money. With the means thus accruing I proceeded to obtain at pauses, cambric muslin, very fine, in pieces of twelve yards each; twine; a lot of the varnish of caoutchouc; a great and deep basket of wicker-work, made to order; and several other articles needful in the making and fitting of a balloon of extraordinary size. This I directed my wife to make up as soon as possible, and gave her all needed knowledge as to the special system of system. In the meantime I worked up the twine into a net-work of ample size; rigged it with a hoop and the needful cords; bought a quadrant, a compass, a spy-glass, a common barometer with some important modifications, and two astronomical instruments not so generally known. I then took opportunities of carrying by night, to a secluded situation east of Rotterdam, five iron-bound casks, to contain about fifty gallons each, and one of a larger size; six tinned ware tubes, three inches in diameter, properly shaped, and ten feet in length; a quantity of a special metallic substance, or semi-metal, which I shall not name, and a dozen demijohns of a very common acid. The gas to be formed from these latter materials is a gas never yet produced by any other person than myself—or at least never applied to any similar use. The secret I would make no difficulty in revealing, but that it of right belongs to a citizen of Nantz, in France, by whom it was under conditions told to myself.",a6ed5b55927c98fdafa174cde5a5109a00f2fc4534b53c2d3566a623bc813344,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+a944ca53ea63923ec9368abf,V2_shelley_frankenstein_015,paraphrase,dfac0d020c88956dd58067463b77b2c4b142e7aba32d020b08e977154352176e,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_shelley_frankenstein_015,464,470,1.0129310344827587,pass,"He told me that he was wearing away his time uselessly where he was, that letters from the friends he had formed in London urged his return to entire the negotiation they had came in into for his Indian enterprise. He could not any longer delay his leaving; but as his journey to London might be followed, even sooner than he now conjectured, by his longer voyage, he begged me to give as much of my company on him as I could afford. He besought me, therefore, to leave my lonely isle and to meet him at Perth, that we might proceed southwards at once. This letter in a degree restored me to life, and I resolved to quit my island at the end of two days.
+
+Yet before I left, there was a task to perform, on which I trembled to think; I must pack up my chemical instruments, and for that use I must enter the room which had been the place of my hateful work, and I must handle those instruments the sight of which was nauseating to me. The next morning, at daybreak, I called up ample nerve and unlocked the door of my laboratory. The remains of the half-finished being, whom I had ruined, lie scattered on the floor, and I almost felt as if I had torn the living flesh of a human being. I paused to collect myself and then came in the room. With trembling hand I conveyed the instruments out of the room, but I reflected that I ought not to leave the remains of my work to excite the dread and doubt of the peasants; and I accordingly put them into a basket, with a considerable quantity of stones, and laying them up, resolved to throw them into the sea that very night; and in the meantime I sat upon the beach, employed in cleaning and arranging my chemical equipment.
+
+Nothing could be more entire than the alteration that had taken place in my feelings since the night of the appearance of the dæmon. I had before looked on my undertake with a dark misery as a thing that, with whatever results, must be kept; but I now felt as if a film had been taken from before my eyes and that I for the first time saw clearly. The idea of resuming my work did not for one instant occur to me; the threat I had heard weighed on my thoughts, but I did not think that a voluntary act of mine could avert it. I had resolved in my own mind that to create another like the fiend I had first made would be an act of the basest and most wicked selfishness, and I drove from my mind every thought that could lead to a different conclusion.",32f3cefac1062fe2c1d08be0d173c01fd7e82e379784fb14812e240050139cce,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+c23c36a95c92cc70c0d81b29,V2_twain_tom_sawyer_013,paraphrase,9e3dddaa30b630a14999fb86082c9f82f44cc1eb62c7439b17f1d62e127743d3,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_twain_tom_sawyer_013,470,474,1.0085106382978724,pass,"The night was dark and storm-driven. Around the throne on high not a single star shone; but the deep tones of the heavy thunder constantly rang upon the ear; whilst the fearful lightning played in angry mood through the cloudy chambers of heaven, seeming to defy the power exerted over its terror by the famous Franklin! Even the rough winds all at once came forth from their mystic homes, and blustered about as if to increase by their aid the wildness of the place.
+
+At such a time, so dark, so gloomy, for human fellow-feeling my very spirit sighed; but instead thereof,
+
+‘My dearest friend, my counsellor, my comforter and guide— My joy in grief, my second bliss in joy,’ came to my side.
+
+She moved like one of those bright beings pictured in the sunny walks of fancy’s Eden by the romantic and young, a queen of beauty unornamented save by her own surpassing loveliness. So soft was her step, it been unable to make even a sound, and but for the magical thrill imparted by her genial touch, as other quiet beauties, she would have glided away unperceived—unlooked-for. A strange sorrow rested upon her face, like icy tears upon the robe of December, as she pointed to the warring elements without, and bade me contemplate the two beings presented.
+
+This composition occupied some ten pages of writing and wound up with a sermon so fatal of all hope to non-Presbyterians that it took the first prize. This composition was judged to be the very finest effort of the evening. The mayor of the village, in delivering the prize to the author of it, made a warm speech in which he said that it was by far the most “moving” thing he had ever heard to, and that Daniel Webster himself might well be proud of it.
+
+It may be noted, in passing, that the number of compositions in which the word “beautiful” was over-fondled, and human knowledge referred to as “life’s page,” was up to the customary average.
+
+Now the master, mellow almost to the verge of kindliness, put his chair aside, turned his back to the company, and began to draw a map of America on the blackboard, to exercise the geography class upon. But he made a sad business of it with his shaking hand, and a smothered snicker rippled over the house. He knew what the affair was, and set himself to right it. He sponged out lines and remade them; but he only warped them more than ever, and the tittering was more marked. He threw his entire notice upon his work, now, as if resolved not to be put down by the mirth. He felt that all eyes were fastened upon him; he imagined he was prevailing, and yet the tittering continued; it even manifestly increased.",6fbdd33dcb7b3d539946fccd833457557d4845ec0e7ee50cada26100aaa5b525,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+cc025996f955fbd603babe8f,V2_poe_the_gold_bug_011,paraphrase,4af6bf390dd53f71f63921b9aad964b18b37635a7fa6a917ab3da0163042a9aa,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_poe_the_gold_bug_011,450,455,1.011111111111111,pass,"“Jupiter,” said he, when we reached its base, “come here! was the skull nailed to the branch with the face outward, or with the face to the branch?”
+
+“De face was out, massa, so dat de crows could get at de eyes good, widout any trouble.”
+
+“Well, then, was it this eye or that through which you dropped the beetle?”—here Legrand moved each of Jupiter’s eyes.
+
+“’Twas dis eye, massa—de lef eye—jis as you tell me,” and here it was his right eye that the negro pointed out.
+
+“That will do—we must try it again.”
+
+At this my friend, about whose madness I now saw, or imagined that I saw, certain indications of system, shifted the peg which marked the spot where the beetle fell, to a spot about three inches to the westward of its earlier place. Taking, now, the tape measure from the nearest point of the trunk to the peg, as before, and continuing the line in a straight line to the length of fifty feet, a spot was pointed out, shifted, by several yards, from the point at which we had been digging.
+
+About the new place a circle, somewhat larger than in the earlier instance, was now drawn, and we again set to work with the spades. I was terribly tired, but, scarcely understanding what had caused the alteration in my thoughts, I felt no longer any considerable dislike from the work imposed. I had become most strangely interested—nay, even excited. Perhaps there was something, amid all the wild behavior of Legrand—some air of planning, or of calculation, which impressed me. I dug earnestly, and now and then caught myself actually looking, with something that very much resembled hope, for the imagined treasure, the vision of which had maddened my unfortunate companion. At a period when such vagaries of thought most fully held me, and when we had been at work perhaps an hour and a half, we were again disturbed by the fierce cries of the dog. His restlessness, in the first instance, had been, plainly, but the success of playfulness or whim, but he now assumed a bitter and serious tone. Upon Jupiter’s again attempting to muzzle him, he made angry struggle, and, leaping into the hole, tore up the mould wildly with his claws. In a few seconds he had laid bare a mass of human bones, forming two entire skeletons, mixed with several buttons of metal, and what appeared to be the dust of rotted woollen. One or two strokes of a spade turned up the blade of a great Spanish knife, and, as we dug farther, three or four loose pieces of gold and silver coin came to light.",5ae64300f0d5ff754cba057d8f1453556579113b767ab9c0b56d80843ed77c30,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+d30e342f21176649fb582425,V2_twain_huckleberry_finn_019,paraphrase,3d536e1bbfc46e07c3710e2f8a1c70ec8d714a5cf4e607c47df3113bf79bfd5e,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_twain_huckleberry_finn_019,476,476,1.0,pass,"The doctor was an elderly man; a very nice, kind-looking old man when I got him up. I told him me and my brother was over on Spanish Island hunting yesterday afternoon, and camped on a piece of a raft we found, and about midnight he must a kicked his gun in his dreams, for it went off and shot him in the leg, and we wanted him to go over there and mend it and not say nothing about it, nor let anybody know, because we wanted to come home this evening and astonishment the folks.
+
+“Who is your folks?” he says.
+
+“The Phelpses, down yonder.”
+
+“Oh,” he says. And after a minute, he says:
+
+“How’d you say he got shot?”
+
+“He had a dream,” I says, “and it shot him.”
+
+“Strange dream,” he says.
+
+So he lit up his lamp, and got his saddlebags, and we started. But when he sees the canoe he didn’t like the look of her—said she was big enough for one, but didn’t look pretty safe for two. I says:
+
+“Oh, you needn’t be afraid, sir, she carried the three of us easy enough.”
+
+“What three?”
+
+“Why, me and Sid, and—and—and _the guns;_ that’s what I mean.”
+
+“Oh,” he says.
+
+But he put his base on the gunwale and rocked her, and shook his head, and said he thought he’d look around for a bigger one. But they was all locked and chained; so he took my canoe, and said for me to wait till he come back, or I could hunt around farther, or maybe I better go down home and get them ready for the astonishment if I wanted to. But I said I didn’t; so I told him just how to find the raft, and then he started.
+
+I struck an idea pretty soon. I says to myself, supposing he can’t mend that leg just in three wags of a sheep’s tail, as the saying is? supposing it takes him three or four days? What are we going to do?—lie around there till he lets the cat out of the bag? No, sir; I know what _I’ll_ do. I’ll wait, and when he comes back if he says he’s got to go any more I’ll get down there, too, if I swim; and we’ll take and tie him, and keep him, and shove out down the river; and when Tom’s done with him we’ll give him what it’s worth, or all we got, and then let him get ashore.
+
+After that I crawled into a woodpile to get some sleep; and next time I woke up the sun was away up over my head! I shot out and went for the doctor’s house, but they told me he’d gone away in the night some time or other, and warn’t back yet.",bfcc49a7c46cacbd1e13657b2393269209b5b3af0e79102938d4f6d08cd34e1c,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+d86edcc6dee10f712280d5ec,V2_twain_connecticut_yankee_009,paraphrase,498df1f5e213575655cf6332e0eb6dd0e9832236892fe8d08fe0a73b5c594439,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,0,,457,461,1.0087527352297594,pass,"Now observe what 'tis to abandon the ways of cleanness the which He loveth, and wanton with such as be worldly and an scandal. These monks did enter into the bath and come thence washed as white as snow; and lo, in that instant His sign appeared, in marvelous reproof! for His insulted waters stopped to flow, and entirely disappeared away.”
+
+“They fared mildly, Sandy, considering how that kind of sin is looked on in this country.”
+
+“Maybe so; but it was their first sin; and they had been of perfect life for long, and differing in naught from the heavenly beings. Prayers, tears, torments of the flesh, all was useless to coax that water to flow again. Even parades; even burnt-sacrifices; even votive candles to the Virgin, did fail every each of them; and all in the land did marvel.”
+
+“How odd to find that even this industry has its financial panics, and at times sees its assignats and greenbacks languish to zero, and everything come to a standstill. Go on, Sandy.”
+
+“And so upon a time, after year and day, the good abbot made humble surrender and ruined the bath. And behold, His anger was in that instant quieted, and the waters poured richly forth again, and even unto this day they have not stopped to flow in that plentiful measure.”
+
+“Then I take it nobody has washed since.”
+
+“He that would essay it could have his halter free; yes, and swiftly would he need it, too.”
+
+“The community has flourished since?”
+
+“Even from that very day. The fame of the wonder went out into all lands. From every land came monks to join; they came even as the fishes come, in schools; and the monastery added building to building, and yet others to these, and so spread wide its arms and took them in. And nuns came, also; and more again, and yet more; and built over against the monastery on the yon side of the vale, and added building to building, until considerable was that convent. And these were friendly unto those, and they entered their loving labors at once, and at once they built a fair considerable foundling home midway of the valley between.”
+
+“You spoke of some solitaries, Sandy.”
+
+“These have gathered there from the ends of the earth. A hermit thriveth best where there be crowds of wanderers. Ye shall not find no hermit of no sort wanting. If any shall mention a hermit of a kind he thinketh new and not to be found but in some far strange land, let him but scratch among the holes and caves and swamps that line that Valley of Holiness, and whatsoever be his breed, it skills not, he shall find a specimen of it there.”",06f377e82242d86a9eb33d71e1287b4697d78831920b30575b5d76a7115c25bf,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+fe32ff13e92783dfe08eb0ea,V2_wilde_dorian_gray_004,paraphrase,7713a8986c1459bb7adb55afd0eafc5704aadd4b52a661ef17ea7099bbf0903f,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_wilde_dorian_gray_004,479,480,1.0020876826722338,pass,"“Good-by, Uncle George. I shall be late for lunch, if I stop any longer. Thanks for giving me the knowledge I wanted. I always like to know everything about my new friends, and nothing about my old ones.”
+
+“Where are you lunching, Harry?”
+
+“At Aunt Agatha’s. I have asked myself and Mr. Gray. He is her newest _protégé_.”
+
+“Humph! tell your Aunt Agatha, Harry, not to bother me any more with her charity appeals. I am sick of them. Why, the good woman thinks that I have nothing to do but to write cheques for her silly fads.”
+
+“All right, Uncle George, I’ll tell her, but it won’t have any result. Charitable people lose all sense of humanity. It is their special characteristic.”
+
+The old man growled with approval and rang the bell for his servant. Lord Henry passed up the low arcade into Burlington Street and turned his steps in the direction of Berkeley Square.
+
+So this was the history of Dorian Gray’s birth. Roughly as it had been told to him, it had yet stirred him by its hint of a strange, almost modern romance. A beautiful woman risking everything for a mad passion. A few wild weeks of happiness cut short by a hideous, faithless sin. Months of voiceless agony, and then a child born in pain. The mother snatched away by death, the boy left to loneliness and the rule of an old and loveless man. Yes; it was an interesting setting. It posed the lad, made him more perfect, as it were. Behind every beautiful thing that existed, there was something sorrowful. Worlds had to be in work, that the meanest flower might blow.... And how agreeable he had been at dinner the night before, as with startled eyes and lips parted in alarmed pleasure he had sat opposite to him at the club, the red candleshades staining to a richer rose the awakening wonder of his face. Talking to him was like playing upon an beautiful violin. He answered to every touch and thrill of the bow.... There was something terribly fascinating in the exercise of sway. No other occupation was like it. To project one’s soul into some gracious form, and let it tarry there for a instant; to hear one’s own mental views echoed back to one with all the added music of passion and youth; to convey one’s nature into another as though it were a delicate fluid or a strange perfume: there was a real joy in that—perhaps the most assuring joy left to us in an age so limited and coarse as our own, an age grossly carnal in its enjoyments, and grossly common in its aims.... He was a marvelous type, too, this lad, whom by so strange a chance he had met in Basil’s studio, or could be fashioned into a marvelous type, at any rate.",98ca4552399ff814a220d8f4edfb26885b8951a711d9f42bf813291abf9c34db,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+ffea126b2b1848d22cb45837,V2_shelley_the_last_man_008,paraphrase,09a1cc0ff1347f820b7adbd52ca1d73be0068b302d8986543ec0e92e432357af,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_paraphrase,supplemental_feasibility_only,1,V2_shelley_the_last_man_008,462,462,1.0,pass,"Raymond was heartened by the intense sensations of restored health; he felt that in being general of the Athenians, he filled a post fit of his ambition; and, in his hope of the capture of Constantinople, he counted on an event which would be as a landmark in the waste of ages, an exploit unequalled in the records of man; when a city of grand historic association, the beauty of whose site was the wonder of the world, which for many hundred years had been the strong hold of the Moslems, should be delivered from slavery and savagery, and restored to a people famous for brilliance, culture, and a spirit of freedom. Perdita rested on his restored company, on his love, his hopes and fame, even as a Sybarite on a luxurious couch; every thought was delight, each emotion bathed as it were in a congenial and balmy element.
+
+We reached at Kishan on the 7th of July. The weather during our journey had been clear. Each day, before dawn, we left our night’s camp, and watched the shadows as they withdrew from hill and valley, and the golden splendor of the sun’s approach. The accompanying soldiers received, with national liveliness, ardent pleasure from the sight of beautiful nature. The uprising of the star of day was hailed by victorious strains, while the birds, heard by snatches, filled up the pauses of the music. At noon, we set our tents in some shady valley, or shaded wood among the mountains, while a stream murmuring over pebbles induced welcome sleep. Our evening march, more calm, was yet more pleasing than the morning restlessness of spirit. If the band played, involuntarily they chose airs of tempered passion; the farewell of love, or lament at absence, was followed and closed by some solemn hymn, which harmonized with the peaceful loveliness of evening, and raised the soul to grand and religious thought. Often all sounds were hushed, that we might listen to the nightingale, while the fire-flies danced in bright measure, and the soft cooing of the aziolo spoke of fair weather to the travellers. Did we pass a valley? Soft shades surrounded us, and rocks tinged with beautiful hues. If we crossed a mountain, Greece, a living map, was spread beneath, her famous pinnacles cleaving the ether; her rivers threading in silver line the fruitful land. Afraid almost to breathe, we English travellers surveyed with ecstasy this splendid landscape, so different from the muted hues and pensive graces of our native scenery. When we quitted Macedonia, the fruitful but low plains of Thrace afforded fewer beauties; yet our journey continued to be interesting. An gone guard gave knowledge of our approach, and the country people were rapidly in motion to do honor to Lord Raymond.",19ff5f6d4b98c0096c3d81cfe4ffc2b85f62da8d8e893ad153ea07adf9ba3c58,0423ee518ea4215ad463a978efa62db1e1f8aaa71c45763f16ecbfa6b31a7678,not_available_for_agent_generation
+12c12791af3aab65e941ac5f,V2_wilde_canterville_ghost_016,modernize,0ce185bba5a831177cf957e15d1e185774a974800fb50d1c375f86ee1b31a876,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_wilde_canterville_ghost_016,472,468,0.9915254237288136,pass,"‘Oh, bother my hat! I want Virginia!’ said the little Duke, laughing, and they rode on to the railway station. There Mr. Otis asked of the station-master if anyone answering the description of Virginia had been seen on the platform, but could get no news of her. The station-master, however, messaged up and down the line, and told him that a close watch would be kept for her, and, after having bought a hat for the little Duke from a linen-draper, who was just putting up his shutters, Mr. Otis rode off to Bexley, a village about four miles away, which he was told was a well-known haunt of the gypsies, as there was a large common next to it. Here they roused up the village policeman, but could get no information from him, and, after riding all over the common, they turned their horses’ heads homeward, and reached the Chase about eleven o’clock, exhausted and almost heartbroken. They found Washington and the twins waiting for them at the gate-house with lanterns, as the avenue was very dark. Not the smallest trace of Virginia had been found. The gypsies had been caught on Brockley meadows, but she was not with them, and they had explained their sudden leaving by saying that they had mistaken the date of Chorton Fair, and had gone off in a hurry afraid they might be late. Indeed, they had been quite upset at hearing of Virginia’s disappearance, as they were very grateful to Mr. Otis for having allowed them to camp in his park, and four of their number had stayed behind to help in the search. The carp-pond had been searched, and the whole Chase thoroughly gone over, but without any result. It was clear that, for that night at least, Virginia was lost to them; and it was in a state of the deep gloom that Mr. Otis and the boys walked up to the house, the groom following behind with the two horses and the pony. In the hall they found a group of frightened servants, and lying on a sofa in the library was poor Mrs. Otis, almost out of her mind with terror and anxiety, and having her forehead bathed with eau-de-cologne by the old housekeeper. Mr. Otis at once insisted on her having something to eat, and ordered up supper for the whole party. It was a melancholy meal, as hardly anyone spoke, and even the twins were awestruck and subdued, as they were very fond of their sister. When they had finished, Mr. Otis, in spite of the entreaties of the little Duke, ordered them all to bed, saying that nothing more could be done that night, and that he would telegraph in the morning to Scotland Yard for some detectives to be sent down immediately.",22c99a7788cf522a6e3bb5957cb02ee793b037e49f2a4eda673b64a871f5f7a7,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+16dea11995fee9e2b571649f,V2_shelley_mathilda_010,modernize,cf32e656e0afea6e6aa2bab64a3dfac97efffeac80ec70c78daae502bab5d078,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,0,,454,453,0.9977973568281938,pass,"Was my love wrong? If it was I was unaware of it; I wanted only that which I had, and if I enjoyed from your looks, and words, and most innocent caresses a delight usually excluded from the feelings of a parent towards his child, yet no discomfort, no wish, no casual idea woke me to a sense of guilt. I loved you as a human father might be supposed to love a daughter born to him by a heavenly mother; as Anchises might have looked the child of Venus if the sex had been changed; love mixed with respect and adoration. Perhaps also my passion was soothed to content by the deep and exclusive affection you felt for me.
+
+“But when I saw you become the object of another’s love; when I imagined that you might be loved otherwise than as a sacred type and image of beauty and excellence; or that you might love another with a more passionate affection than that which you bore to me, then the monster woke within me; I sent your lover; and from that moment I have known no peace. I have tried in vain for sleep and rest; my lids refused to close, and my blood was forever in a tumult. I woke to a new life as one who dies in hope might wake in Hell. I will not stain your imagination by telling my struggles, my self-loathing and my despair. Let a veil be drawn over the unthinkable feelings of a guilty father; the secrets of so agonized a heart may not be made common. All was turmoil, crime, remorse and hate, yet still the tenderest love; and what first woke me to the firm resolve of overcoming my passion and of restoring her father to my child was the sight of your bitter and sympathizing sorrows. It was this that led me here: I thought that if I could again awaken in my heart the grief I had felt at the loss of your mother, and the many associations with her memory which had been laid to sleep for seventeen years, that all love for her child would become gone. In a fit of heroism I determined to go alone; to quit you, the life of my life, and not to see you again until I might guiltlessly. But it would not do: I rated my strength too high, or my love too low. I should certainly have died if you had not hastened to me. Would that I had been indeed extinguished!
+
+“And now, Mathilda I must make you my last confession. I have been miserably mistaken in imagining that I could conquer my love for you; I never can.",1bebd449e3c7c1ef2051030f4bff800a5c4b4ba18733ec7bb886c3470b2d024e,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+256485b6f269cf7a7ab08b33,V2_twain_tom_sawyer_013,modernize,9e3dddaa30b630a14999fb86082c9f82f44cc1eb62c7439b17f1d62e127743d3,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_twain_tom_sawyer_013,470,469,0.997872340425532,pass,"Dark and stormy was night. Around the throne on high not a single star trembled; but the deep rumbles of the heavy thunder constantly vibrated upon the ear; while the terrible lightning flashed in angry mood through the cloudy chambers of heaven, seeming to scorn the power exerted over its terror by the illustrious Franklin! Even the violent winds unanimously came forth from their mystic homes, and blustered about as if to enhance by their aid the wildness of the scene.
+
+At such a time, so dark, so bleak, for human sympathy my very spirit sighed; but instead that,
+
+‘My dearest friend, my counselor, my comforter and guide— My joy in grief, my second bliss in joy,’ came to my side.
+
+She moved like one of those bright beings pictured in the sunny walks of fancy’s Eden by the romantic and young, a queen of beauty plain save by her own extraordinary beauty. So soft was her step, it failed to make even a sound, and but for the magical thrill imparted by her genial touch, as other unobtrusive beauties, she would have glided away unperceived—unsought. A strange sadness rested upon her face, like icy tears upon the robe of December, as she pointed to the contending elements without, and told me consider the two beings presented.
+
+This nightmare occupied some ten pages of manuscript and ended with a lecture so destructive of all hope to non-Presbyterians that it took the first prize. This composition was considered to be the very finest effort of the evening. The mayor of the village, in delivering the prize to the author of it, made a warm speech in which he said that it was by far the most “eloquent” thing he had ever listened to, and that Daniel Webster himself might well be proud of it.
+
+It may be noted, in passing, that the number of compositions in which the word “beautiful” was over-fondled, and human experience referred to as “life’s page,” was up to the usual average.
+
+Now the master, mellow almost to the verge of geniality, put his chair aside, turned his back to the listeners, and began to draw a map of America on the blackboard, to exercise the geography class upon. But he made a sad business of it with his unsteady hand, and a smothered titter rippled over the house. He knew what the matter was, and set himself to right it. He sponged out lines and remade them; but he only distorted them more than ever, and the tittering was more pronounced. He threw his entire attention upon his work, now, as if determined not to be put down by the mirth. He felt that all eyes were fastened upon him; he imagined he was succeeding, and yet the tittering continued; it even manifestly increased.",b1d5d6a94384d8da35b2c7cda0ce4bbdf90a6afdb1e3c90b40294f894a7dc911,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+29b4f33c1fff38738f7dd9b2,V2_dickens_a_tale_of_two_cities_002,modernize,886e62b0b4cea3837c1d61deda77cc7d40f0ab74ab6c12a687ea5a1e1bb19ee6,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_dickens_a_tale_of_two_cities_002,452,452,1.0,fail,"“Story!”
+
+He seemed wilfully to mistake the word she had repeated, when he added, in a hurry, “Yes, customers; in the banking business we usually call our connection our customers. He was a French gentleman; a scientific gentleman; a man of great acquirements--a Doctor.”
+
+“Not of Beauvais?”
+
+“Why, yes, of Beauvais. Like Monsieur Manette, your father, the gentleman was of Beauvais. Like Monsieur Manette, your father, the gentleman was of repute in Paris. I had the honour of knowing him there. Our relations were business relations, but confidential. I was at that time in our French House, and had been--oh! twenty years.”
+
+“At that time--I may ask, at what time, sir?”
+
+“I speak, miss, of twenty years ago. He married--an English lady--and I was one of the trustees. His affairs, like the affairs of many other French gentlemen and French families, were entirely in Tellson’s hands. In a similar way I am, or I have been, trustee of one kind or other for scores of our customers. These are mere business relations, miss; there is no friendship in them, no particular interest, nothing like sentiment. I have passed from one to another, in the course of my business life, just as I pass from one of our customers to another in the course of my business day; in short, I have no feelings; I am a mere machine. To go on--”
+
+“But this is my father’s story, sir; and I begin to think”--the curiously roughened forehead was very intent upon him--“that when I was left an orphan through my mother’s surviving my father only two years, it was you who brought me to England. I am almost sure it was you.”
+
+Mr. Lorry took the hesitating little hand that confidingly advanced to take his, and he put it with some ceremony to his lips. He then conducted the young lady straightway to her chair again, and, holding the chair-back with his left hand, and using his right by turns to rub his chin, pull his wig at the ears, or point what he said, stood looking down into her face while she sat looking up into his.
+
+“Miss Manette, it _was_ I. And you will see how truly I spoke of myself just now, in saying I had no feelings, and that all the relations I hold with my fellow-creatures are mere business relations, when you reflect that I have never seen you since. No; you have been the ward of Tellson’s House since, and I have been busy with the other business of Tellson’s House since. Feelings! I have no time for them, no chance of them. I pass my whole life, miss, in turning an immense pecuniary Mangle.”",886e62b0b4cea3837c1d61deda77cc7d40f0ab74ab6c12a687ea5a1e1bb19ee6,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+36c21d63742cbc4e6707261f,V2_poe_the_gold_bug_011,modernize,4af6bf390dd53f71f63921b9aad964b18b37635a7fa6a917ab3da0163042a9aa,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_poe_the_gold_bug_011,450,450,1.0,pass,"“Jupiter,” said he, when we reached its foot, “come here! was the skull nailed to the limb with the face outwards, or with the face to the limb?”
+
+“De face was out, massa, so dat de crows could get at de eyes good, widout any trouble.”
+
+“Well, then, was it this eye or that through which you dropped the beetle?”—here Legrand touched each of Jupiter’s eyes.
+
+“’Twas dis eye, massa—de lef eye—jis as you tell me,” and here it was his right eye that the negro indicated.
+
+“That will do—we must try it again.”
+
+Here my friend, about whose madness I now saw, or fancied that I saw, certain indications of method, removed the peg which marked the spot where the beetle fell, to a spot about three inches to the westward of its former position. Taking, now, the tape measure from the nearest point of the trunk to the peg, as before, and continuing the extension in a straight line to the distance of fifty feet, a spot was indicated, removed, by several yards, from the point at which we had been digging.
+
+Around the new position a circle, somewhat larger than in the former instance, was now described, and we again set to work with the spades. I was dreadfully weary, but, scarcely understanding what had occasioned the change in my thoughts, I felt no longer any great aversion from the labor imposed. I had become most unaccountably interested—nay, even excited. Perhaps there was something, amid all the extravagant demeanor of Legrand—some air of forethought, or of deliberation, which impressed me. I dug eagerly, and now and then caught myself actually looking, with something that very much resembled expectation, for the fancied treasure, the vision of which had demented my unfortunate companion. At a period when such vagaries of thought most fully had me, and when we had been at work perhaps an hour and a half, we were again interrupted by the violent howlings of the dog. His discomfort, in the first instance, had been, evidently, but the result of playfulness or caprice, but he now assumed a bitter and serious tone. Upon Jupiter’s again attempting to muzzle him, he made furious resistance, and, leaping into the hole, tore up the mould frantically with his claws. In a few seconds he had uncovered a mass of human bones, forming two complete skeletons, intermingled with several buttons of metal, and what appeared to be the dust of decayed woollen. One or two strokes of a spade upturned the blade of a large Spanish knife, and, as we dug farther, three or four loose pieces of gold and silver coin came to light.",780bb57ddf049a2c621e8b7352af0be9dd2913b6d332fb70321b470db019735d,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+3a4ce1aa04b5a0596e93b85c,V2_poe_murders_rue_morgue_017,modernize,639e1b93dd25ac959a2ff7d7d51db5da8f0448e5fb2d68d2ffa828e073f25445,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_poe_murders_rue_morgue_017,470,470,1.0,pass,"Moreover, this knot is one which few besides sailors can tie, and is peculiar to the Maltese. I picked the ribbon up at the foot of the lightning-rod. It could not have belonged to either of the deceased. Now if, after all, I am wrong in my induction from this ribbon, that the Frenchman was a sailor belonging to a Maltese vessel, still I can have done no harm in saying what I did in the advertisement. If I am in error, he will merely suppose that I have been misled by some circumstance into which he will not take the trouble to inquire. But if I am right, a great point is gained. Cognizant although innocent of the murder, the Frenchman will naturally hesitate about replying to the advertisement—about demanding the Ourang-Outang. He will reason thus:—‘I am innocent; I am poor; my Ourang-Outang is of great value—to one in my circumstances a fortune of itself—why should I lose it through idle apprehensions of danger? Here it is, within my grasp. It was found in the Bois de Boulogne—at a vast distance from the scene of that butchery. How can it ever be suspected that a brute beast should have done the deed? The police are at fault—they have failed to procure the slightest clew. Should they even trace the animal, it would be impossible to prove me cognizant of the murder, or to implicate me in guilt on account of that cognizance. Above all, _I am known._ The advertiser designates me as the possessor of the beast. I am not sure to what limit his knowledge may extend. Should I avoid claiming a property of so great value, which it is known that I possess, I will render the animal at least, liable to suspicion. It is not my policy to attract attention either to myself or to the beast. I will answer the advertisement, get the Ourang-Outang, and keep it close until this matter has blown over.’”
+
+At this moment we heard a step upon the stairs.
+
+“Be ready,” said Dupin, “with your pistols, but neither use them nor show them until at a signal from myself.”
+
+The front door of the house had been left open, and the visitor had entered, without ringing, and advanced several steps upon the staircase. Now, however, he seemed to hesitate. Presently we heard him descending. Dupin was moving quickly to the door, when we again heard him coming up. He did not turn back a second time, but stepped up with decision, and rapped at the door of our chamber.
+
+“Come in,” said Dupin, in a cheerful and hearty tone.
+
+A man entered. He was a sailor, evidently,—a tall, stout, and muscular-looking person, with a certain dare-devil expression of face, not altogether unprepossessing.",3acc857b01b1c6cf4e2a0bfddc4143a1a1f4355fd564af30201944dcb90a411e,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+48d2c4513593e106b330b48c,V2_wilde_lord_arthur_saviles_crime_012,modernize,f1ccb87c3d62f86805b9501b8bd7b5daad314314e862d37254fd3c46b35e64a2,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_wilde_lord_arthur_saviles_crime_012,450,450,1.0,pass,"‘Well, _monsieur le mauvais sujet_,’ said the old lady, as he entered the room, ‘why haven’t you been to see me all this time?’
+
+‘My dear Lady Clem, I never have a moment to myself,’ said Lord Arthur, smiling.
+
+‘I suppose you mean that you go about all day long with Miss Sybil Merton, buying _chiffons_ and talking nonsense? I cannot understand why people make such a fuss about being married. In my day we never dreamed of billing and cooing in public, or in private for that matter.’
+
+‘I assure you I have not seen Sybil for twenty-four hours, Lady Clem. As far as I can make out, she belongs entirely to her milliners.’
+
+‘Of course; that is the only reason you come to see an ugly old woman like myself. I wonder you men don’t take warning. _On a fait des folies pour moi_, and here I am, a poor rheumatic creature, with a false front and a bad temper. Why, if it were not for dear Lady Jansen, who sends me all the worst French novels she can find, I don’t think I could get through the day. Doctors are no use at all, except to get fees out of one. They can’t even cure my heartburn.’
+
+‘I have brought you a cure for that, Lady Clem,’ said Lord Arthur gravely. ‘It is a wonderful thing, invented by an American.’
+
+‘I don’t think I like American inventions, Arthur. I am quite sure I don’t. I read some American novels lately, and they were quite nonsensical.’
+
+‘Oh, but there is no nonsense at all about this, Lady Clem! I assure you it is a perfect cure. You must promise to try it’; and Lord Arthur brought the little box out of his pocket, and handed it to her.
+
+‘Well, the box is charming, Arthur. Is it really a present? That is very sweet of you. And is this the wonderful medicine? It looks like a _bonbon_. I’ll take it at once.’
+
+‘Good heavens! Lady Clem,’ said Lord Arthur, catching hold of her hand, ‘you mustn’t do anything of the kind. It is a homoeopathic medicine, and if you take it without having heartburn, it might do you no end of harm. Wait till you have an attack, and take it then. You will be astonished at the result.’
+
+‘I should like to take it now,’ said Lady Clementina, holding up to the light the little transparent capsule, with its floating bubble of liquid aconitine. I am sure it is delicious. The fact is that, though I hate doctors, I love medicines. However, I’ll keep it till my next attack.’
+
+‘And when will that be?’ asked Lord Arthur eagerly.",3e7954b2621643b0dbcd1253f778402ae100598c5b867bccd7005d64e986f53a,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+7017735b13077a6d01a3a6b0,V2_poe_hans_pfaal_004,modernize,ce4309cf1d6bb9addaefb9a3093b4eff2869ef2d950ee9382231a0b44f8a04bb,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_poe_hans_pfaal_004,476,475,0.9978991596638656,pass,"Arising early in the morning, and contriving again to escape the vigilance of my creditors, I repaired eagerly to the bookseller’s stall, and laid out what little ready money I had, in the purchase of some volumes of Mechanics and Practical Astronomy. Having arrived at home safely with these, I devoted every spare moment to their perusal, and soon made such proficiency in studies of this nature as I thought sufficient for the execution of my plan. In the intervals of this period, I made every effort to conciliate the three creditors who had given me so much annoyance. In this I finally succeeded—partly by selling enough of my household furniture to satisfy a half of their claim, and partly by a promise of paying the balance upon completion of a little project which I told them I had in view, and for assistance in which I solicited their services. By these means—for they were unaware men—I found little difficulty in gaining them over to my purpose.
+
+“Matters being thus arranged, I contrived, by the aid of my wife and with the greatest secrecy and caution, to dispose of what property I had remaining, and to borrow, in small sums, under various pretexts, and without paying any attention to my future means of repayment, no considerable quantity of ready money. With the means thus accruing I proceeded to procure at intervals, cambric muslin, very fine, in pieces of twelve yards each; twine; a lot of the varnish of rubber; a large and deep basket of wickerwork, made to order; and several other articles necessary in the construction and equipment of a balloon of extraordinary dimensions. This I directed my wife to make up as soon as possible, and gave her all needed information as to the particular method of proceeding. In the meantime I worked up the twine into a net-work of sufficient dimensions; rigged it with a hoop and the necessary cords; bought a quadrant, a compass, a telescope, a common barometer with some important modifications, and two astronomical instruments not so generally known. I then took opportunities of conveying by night, to a retired situation east of Rotterdam, five iron-bound casks, to contain about fifty gallons each, and one of a larger size; six tin tubes, three inches in diameter, properly shaped, and ten feet in length; a quantity of a particular metallic substance, or semi-metal, which I shall not name, and a dozen demijohns of a very common acid. The gas to be formed from these latter materials is a gas never yet generated by any other person than myself—or at least never applied to any similar purpose. The secret I would make no difficulty in revealing, but that it of right belongs to a citizen of Nantz, in France, by whom it was conditionally communicated to myself.",88086615e3b85439521d8308089bf10d5da60b74bb60fdcaecc616e324147e63,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+715e5882a3d66c27a982423c,V2_austen_persuasion_007,modernize,1d651a50c824817283d3507fdf6bbacf384ea2ba52e5c28e38a74c814ab70c2e,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_austen_persuasion_007,507,507,1.0,fail,"Other opportunities of making her observations could not fail to occur. Anne had soon been in company with all the four together often enough to have an opinion, though too wise to acknowledge as much at home, where she knew it would have satisfied neither husband nor wife; for while she considered Louisa to be rather the favourite, she could not but think, as far as she might dare to judge from memory and experience, that Captain Wentworth was not in love with either. They were more in love with him; yet there it was not love. It was a little fever of admiration; but it might, probably must, end in love with some. Charles Hayter seemed aware of being slighted, and yet Henrietta had sometimes the air of being divided between them. Anne longed for the power of representing to them all what they were about, and of pointing out some of the evils they were exposing themselves to. She did not attribute guile to any. It was the highest satisfaction to her to believe Captain Wentworth not in the least aware of the pain he was occasioning. There was no triumph, no pitiful triumph in his manner. He had, probably, never heard, and never thought of any claims of Charles Hayter. He was only wrong in accepting the attentions (for accepting must be the word) of two young women at once.
+
+After a short struggle, however, Charles Hayter seemed to quit the field. Three days had passed without his coming once to Uppercross; a most decided change. He had even refused one regular invitation to dinner; and having been found on the occasion by Mr Musgrove with some large books before him, Mr and Mrs Musgrove were sure all could not be right, and talked, with grave faces, of his studying himself to death. It was Mary’s hope and belief that he had received a positive dismissal from Henrietta, and her husband lived under the constant dependence of seeing him to-morrow. Anne could only feel that Charles Hayter was wise.
+
+One morning, about this time Charles Musgrove and Captain Wentworth being gone a-shooting together, as the sisters in the Cottage were sitting quietly at work, they were visited at the window by the sisters from the Mansion-house.
+
+It was a very fine November day, and the Miss Musgroves came through the little grounds, and stopped for no other purpose than to say, that they were going to take a _long_ walk, and, therefore, concluded Mary could not like to go with them; and when Mary immediately replied, with some jealousy at not being supposed a good walker, “Oh, yes, I should like to join you very much, I am very fond of a long walk;” Anne felt persuaded, by the looks of the two girls, that it was precisely what they did not wish, and admired again the sort of necessity which the family habits seemed to produce, of everything being to be communicated, and everything being to be done together, however undesired and inconvenient.",1d651a50c824817283d3507fdf6bbacf384ea2ba52e5c28e38a74c814ab70c2e,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+7c689ff2592b9a7ed7c05026,V2_shelley_frankenstein_015,modernize,dfac0d020c88956dd58067463b77b2c4b142e7aba32d020b08e977154352176e,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_shelley_frankenstein_015,464,464,1.0,pass,"He said that he was wearing away his time fruitlessly where he was, that letters from the friends he had formed in London wanted his return to complete the negotiation they had entered into for his Indian enterprise. He could not any longer delay his leaving; but as his journey to London might be followed, even sooner than he now conjectured, by his longer voyage, he entreated me to bestow as much of my society on him as I could spare. He besought me, therefore, to leave my solitary isle and to meet him at Perth, that we might proceed southwards together. This letter in a degree recalled me to life, and I determined to quit my island at the expiration of two days.
+
+Yet, before I departed, there was a task to perform, on which I shuddered to reflect; I must pack up my chemical instruments, and for that purpose I must enter the room which had been the scene of my hateful work, and I must handle those utensils the sight of which was sickening to me. The next morning, at daybreak, I summoned sufficient courage and unlocked the door of my laboratory. The remains of the half-finished creature, whom I had destroyed, lay scattered on the floor, and I almost felt as if I had mangled the living flesh of a human being. I paused to collect myself and then entered the chamber. With trembling hand I conveyed the instruments out of the room, but I reflected that I ought not to leave the relics of my work to excite the horror and suspicion of the peasants; and I accordingly put them into a basket, with a great quantity of stones, and laying them up, determined to throw them into the sea that very night; and in the meantime I sat upon the beach, employed in cleaning and arranging my chemical apparatus.
+
+Nothing could be more complete than the alteration that had taken place in my feelings since the night of the appearance of the dæmon. I had before looked my promise with a gloomy despair as a thing that, with whatever consequences, must be fulfilled; but I now felt as if a film had been taken from before my eyes and that I for the first time saw clearly. The idea of renewing my labours did not for one instant occur to me; the threat I had heard weighed on my thoughts, but I did not reflect that a voluntary act of mine could avert it. I had resolved in my own mind that to create another like the monster I had first made would be an act of the basest and most atrocious selfishness, and I banished from my mind every thought that could lead to a different conclusion.",b06869e70500df9c0cef7ecc11a916078cd86b4fb0700bb2d3a0dc086943e4ba,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+a06b40a957bb86463be80d7f,V2_austen_emma_004,modernize,2db1b94405960251ee13913ba74638cf57b7305e7f66db78df1bb95cdce8d47c,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_austen_emma_004,459,459,1.0,fail,"She and the children might stay very well.”
+
+“Ah! papa—that is what you never have been able to accomplish, and I do not think you ever will. Isabella cannot bear to stay behind her husband.”
+
+This was too true for contradiction. Unwelcome as it was, Mr. Woodhouse could only give a submissive sigh; and as Emma saw his spirits affected by the idea of his daughter’s attachment to her husband, she immediately led to such a branch of the subject as must raise them.
+
+“Harriet must give us as much of her company as she can while my brother and sister are here. I am sure she will be pleased with the children. We are very proud of the children, are not we, papa? I wonder which she will think the handsomest, Henry or John?”
+
+“Aye, I wonder which she will. Poor little dears, how glad they will be to come. They are very fond of being at Hartfield, Harriet.”
+
+“I dare say they are, sir. I am sure I do not know who is not.”
+
+“Henry is a fine boy, but John is very like his mama. Henry is the eldest, he was named after me, not after his father. John, the second, is named after his father. Some people are surprized, I believe, that the eldest was not, but Isabella would have him called Henry, which I thought very pretty of her. And he is a very clever boy, indeed. They are all remarkably clever; and they have so many pretty ways. They will come and stand by my chair, and say, ‘Grandpapa, can you give me a bit of string?’ and once Henry asked me for a knife, but I told him knives were only made for grandpapas. I think their father is too rough with them very often.”
+
+“He appears rough to you,” said Emma, “because you are so very gentle yourself; but if you could compare him with other papas, you would not think him rough. He wishes his boys to be active and hardy; and if they misbehave, can give them a sharp word now and then; but he is an affectionate father—certainly Mr. John Knightley is an affectionate father. The children are all fond of him.”
+
+“And then their uncle comes in, and tosses them up to the ceiling in a very frightful way!”
+
+“But they like it, papa; there is nothing they like so much. It is such enjoyment to them, that if their uncle did not lay down the rule of their taking turns, whichever began would never give way to the other.”
+
+“Well, I cannot understand it.”
+
+“That is the case with us all, papa. One half of the world cannot understand the pleasures of the other.”",2db1b94405960251ee13913ba74638cf57b7305e7f66db78df1bb95cdce8d47c,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+a2b799090fcfa6385084503f,V2_dickens_great_expectations_003,modernize,30a519f0dd064537d6ec76b4154feb58ee62a3dc4870baf33d16e31e2ae36f9d,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_dickens_great_expectations_003,471,470,0.9978768577494692,pass,"“Unless you call Miss Havisham a he. And I doubt if even you’ll go so far as that.”
+
+“Miss Havisham, up town?” said Joe.
+
+“Is there any Miss Havisham down town?” returned my sister.
+
+“She wants this boy to go and play there. And of course he’s going. And he had better play there,” said my sister, shaking her head at me as an encouragement to be extremely light and sportive, “or I’ll work him.”
+
+I had heard of Miss Havisham up town,—everybody for miles round had heard of Miss Havisham up town,—as an immensely rich and grim lady who lived in a large and dismal house barricaded against robbers, and who led a life of seclusion.
+
+“Well to be sure!” said Joe, astounded. “I wonder how she come to know Pip!”
+
+“Noodle!” said my sister. “Who said she knew him?”
+
+“—Which some individual,” Joe again politely hinted, “mentioned that she wanted him to go and play there.”
+
+“And couldn’t she ask Uncle Pumblechook if he knew of a boy to go and play there? Isn’t it just barely possible that Uncle Pumblechook may be a tenant of hers, and that he may sometimes—we won’t say quarterly or half-yearly, for that would be requiring too much of you—but sometimes—go there to pay his rent? And couldn’t she then ask Uncle Pumblechook if he knew of a boy to go and play there? And couldn’t Uncle Pumblechook, being always considerate and thoughtful for us—though you may not think it, Joseph,” in a tone of the deepest reproach, as if he were the most callous of nephews, “then mention this boy, standing Prancing here”—which I solemnly declare I was not doing—“that I have forever been a willing slave to?”
+
+“Good again!” said Uncle Pumblechook. “Well put! Prettily pointed! Good indeed! Now Joseph, you know the case.”
+
+“No, Joseph,” said my sister, still in a reproachful manner, while Joe apologetically drew the back of his hand across and across his nose, “you do not yet—though you may not think it—know the case. You may consider that you do, but you do _not_, Joseph. For you do not know that Uncle Pumblechook, being sensible that for anything we can tell, this boy’s fortune may be made by his going to Miss Havisham’s, has offered to take him into town to-night in his own chaise-cart, and to keep him to-night, and to take him with his own hands to Miss Havisham’s to-morrow morning. And Lor-a-mussy me!” said my sister, casting off her bonnet in sudden desperation, “here I stand talking to mere Mooncalfs, with Uncle Pumblechook waiting, and the mare catching cold at the door, and the boy grimed with crock and dirt from the hair of his head to the sole of his foot!”",128f4c3aae424e7e8994c76d1cacb44bea2af65561148249c5f06e1a1dd9111b,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+ac494a10e0e48fd5975c272e,V2_wilde_dorian_gray_004,modernize,7713a8986c1459bb7adb55afd0eafc5704aadd4b52a661ef17ea7099bbf0903f,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_wilde_dorian_gray_004,479,478,0.9979123173277662,pass,"“Good-bye, Uncle George. I shall be late for lunch, if I stop any longer. Thanks for giving me the information I wanted. I always like to know everything about my new friends, and nothing about my old ones.”
+
+“Where are you lunching, Harry?”
+
+“At Aunt Agatha’s. I have asked myself and Mr. Gray. He is her latest _protégé_.”
+
+“Humph! tell your Aunt Agatha, Harry, not to bother me any more with her charity appeals. I am sick of them. Why, the good woman thinks that I have nothing to do but to write cheques for her silly fads.”
+
+“All right, Uncle George, I’ll tell her, but it won’t have any effect. Philanthropic people lose all sense of humanity. It is their distinguishing characteristic.”
+
+The old gentleman growled approvingly and rang the bell for his servant. Lord Henry passed up the low arcade into Burlington Street and turned his steps in the direction of Berkeley Square.
+
+So that was the story of Dorian Gray’s parentage. Crudely as it had been told to him, it had yet stirred him by its suggestion of a strange, almost modern romance. A beautiful woman risking everything for a mad passion. A few wild weeks of happiness cut short by a hideous, treacherous crime. Months of voiceless agony, and then a child born in pain. The mother snatched away by death, the boy left to solitude and the tyranny of an old and loveless man. Yes; it was an interesting background. It posed the lad, made him more perfect, as it were. Behind every exquisite thing that existed, there was something tragic. Worlds had to be in travail, that the meanest flower might blow.... And how charming he had been at dinner the night before, as with startled eyes and lips parted in frightened pleasure he had sat opposite to him at the club, the red candleshades staining to a richer rose the wakening wonder of his face. Talking to him was like playing upon an exquisite violin. He answered to every touch and thrill of the bow.... There was something terribly enthralling in the exercise of influence. No other activity was like it. To project one’s soul into some gracious form, and let it tarry there for a moment; to hear one’s own intellectual views echoed back to one with all the added music of passion and youth; to convey one’s temperament into another as though it were a subtle fluid or a strange perfume: there was a real joy in that—perhaps the most satisfying joy left to us in an age so limited and common as our own, an age grossly carnal in its pleasures, and grossly common in its aims.... He was a marvellous type, too, this lad, whom by so curious a chance he had met in Basil’s studio, or could be fashioned into a marvellous type, at least.",683cd4e7df79e1e25165156ea53725063bb19b81f5035ebd09cf7a9424a9df45,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+c29999afeb5b5955b0ff901b,V2_twain_huckleberry_finn_019,modernize,3d536e1bbfc46e07c3710e2f8a1c70ec8d714a5cf4e607c47df3113bf79bfd5e,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_twain_huckleberry_finn_019,476,476,1.0,fail,"The doctor was an old man; a very nice, kind-looking old man when I got him up. I told him me and my brother was over on Spanish Island hunting yesterday afternoon, and camped on a piece of a raft we found, and about midnight he must a kicked his gun in his dreams, for it went off and shot him in the leg, and we wanted him to go over there and fix it and not say nothing about it, nor let anybody know, because we wanted to come home this evening and surprise the folks.
+
+“Who is your folks?” he says.
+
+“The Phelpses, down yonder.”
+
+“Oh,” he says. And after a minute, he says:
+
+“How’d you say he got shot?”
+
+“He had a dream,” I says, “and it shot him.”
+
+“Singular dream,” he says.
+
+So he lit up his lantern, and got his saddle-bags, and we started. But when he sees the canoe he didn’t like the look of her—said she was big enough for one, but didn’t look pretty safe for two. I says:
+
+“Oh, you needn’t be afeard, sir, she carried the three of us easy enough.”
+
+“What three?”
+
+“Why, me and Sid, and—and—and _the guns;_ that’s what I mean.”
+
+“Oh,” he says.
+
+But he put his foot on the gunnel and rocked her, and shook his head, and said he reckoned he’d look around for a bigger one. But they was all locked and chained; so he took my canoe, and said for me to wait till he come back, or I could hunt around further, or maybe I better go down home and get them ready for the surprise if I wanted to. But I said I didn’t; so I told him just how to find the raft, and then he started.
+
+I struck an idea pretty soon. I says to myself, spos’n he can’t fix that leg just in three shakes of a sheep’s tail, as the saying is? spos’n it takes him three or four days? What are we going to do?—lay around there till he lets the cat out of the bag? No, sir; I know what _I’ll_ do. I’ll wait, and when he comes back if he says he’s got to go any more I’ll get down there, too, if I swim; and we’ll take and tie him, and keep him, and shove out down the river; and when Tom’s done with him we’ll give him what it’s worth, or all we got, and then let him get ashore.
+
+So then I crept into a lumber-pile to get some sleep; and next time I waked up the sun was away up over my head! I shot out and went for the doctor’s house, but they told me he’d gone away in the night some time or other, and warn’t back yet.",3d536e1bbfc46e07c3710e2f8a1c70ec8d714a5cf4e607c47df3113bf79bfd5e,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+c716ee11f0d7948f3b0466c7,V2_dickens_oliver_twist_010,modernize,7d0ad7902a20b926194cf57c17bbec679bada66fdb36f320f2a719368ad2837f,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_dickens_oliver_twist_010,485,484,0.9979381443298969,pass,"Matters being thus pleasantly and satisfactorily arranged, the contract was solemnly sealed in another teacupful of the peppermint mixture; which was rendered the more necessary, by the flutter and agitation of the lady’s spirits. While it was being disposed of, she acquainted Mr. Bumble with the old woman’s death.
+
+“Very good,” said that gentleman, sipping his peppermint; “I’ll call at Sowerberry’s as I go home, and tell him to send tomorrow morning. Was it that as frightened you, love?”
+
+“It wasn’t anything particular, dear,” said the lady evasively.
+
+“It must have been something, love,” urged Mr. Bumble. “Won’t you tell your own B.?”
+
+“Not now,” rejoined the lady; “one of these days. After we’re married, dear.”
+
+“After we’re married!” exclaimed Mr. Bumble. “It wasn’t any insolence from any of them male paupers as—”
+
+“No, no, love!” interposed the lady, hastily.
+
+“If I thought it was,” continued Mr. Bumble; “if I thought as anyone of ’em had dared to lift his vulgar eyes to that lovely face—”
+
+“They wouldn’t have dared to do it, love,” responded the lady.
+
+“They had better not!” said Mr. Bumble, clenching his fist. “Let me see any man, parochial or extra-parochial, as would presume to do it; and I can tell him that he wouldn’t do it a second time!”
+
+Unembellished by any violence of gesture, this might have seemed no very high compliment to the lady’s charms; but, as Mr. Bumble accompanied the threat with many warlike gestures, she was much touched with this proof of his devotion, and declared, with great admiration, that he was indeed a dove.
+
+The dove then turned up his coat-collar, and put on his cocked hat; and, having exchanged a long and affectionate embrace with his future partner, once again faced the cold wind of the night: merely pausing, for a few minutes, in the male paupers’ ward, to abuse them a little, with the view of satisfying himself that he could fill the office of workhouse-master with needful sharpness. Told of his qualifications, Mr. Bumble left the building with a light heart, and bright visions of his future promotion: which served to occupy his mind until he reached the shop of the undertaker.
+
+Now, Mr. and Mrs. Sowerberry having gone out to tea and supper: and Noah Claypole not being at any time disposed to take upon himself a greater amount of physical exertion than is necessary to a convenient performance of the two functions of eating and drinking, the shop was not closed, although it was past the usual hour of shutting-up. Mr. Bumble tapped with his cane on the counter several times; but, attracting no attention, and seeing a light shining through the glass-window of the little parlour at the back of the shop, he made bold to peep in and see what was going forward; and when he saw what was going forward, he was not a little surprised.",32c4bb2b065a4340281e935bec5d6a36b8cf096ebb5df49f813c22d4b0620871,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+d014fd83804730306b984fa9,V2_twain_connecticut_yankee_009,modernize,498df1f5e213575655cf6332e0eb6dd0e9832236892fe8d08fe0a73b5c594439,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,0,,457,457,1.0,pass,"Now mark you what 'tis to forsake the ways of purity the which He loves, and wanton with such as be worldly and an offense. These monks did enter into the bath and come thence washed as white as snow; and look, in that moment His sign appeared, in miraculous reproof! for His insulted waters stopped to flow, and completely vanished away.”
+
+“They fared mildly, Sandy, considering how that kind of crime is looked in this country.”
+
+“Perhaps; but it was their first sin; and they had been of perfect life for long, and differing in nothing from the angels. Prayers, tears, torturings of the flesh, all was vain to persuade that water to flow again. Even processions; even burnt-offerings; even offered candles to the Virgin, did fail every each of them; and all in the land did wonder.”
+
+“How odd to find that even this industry has its financial panics, and at times sees its assignats and greenbacks languish to zero, and everything come to a standstill. Go on, Sandy.”
+
+“And so upon a time, after year and day, the good abbot made humble surrender and destroyed the bath. And behold, His anger was in that moment appeased, and the waters poured richly forth again, and even to this day they have not stopped to flow in that generous measure.”
+
+“Then I take it nobody has washed since.”
+
+“He that would try it could have his noose free; yes, and swiftly would he need it, too.”
+
+“The community has prospered since?”
+
+“Even from that very day. The fame of the miracle went abroad into all lands. From every land came monks to join; they came even as the fishes come, in shoals; and the monastery added building to building, and yet others to these, and so spread wide its arms and took them in. And nuns came, also; and more again, and yet more; and built over against the monastery on the yon side of the vale, and added building to building, until mighty was that nunnery. And these were friendly to those, and they joined their loving labors together, and together they built a fair great foundling asylum midway of the valley between.”
+
+“You spoke of some hermits, Sandy.”
+
+“These have gathered there from the ends of the earth. A hermit thrives best where there be crowds of pilgrims. Ye shall not find no hermit of no sort wanting. If any shall mention a hermit of a kind he thinketh new and not to be found but in some far strange land, let him but scratch among the holes and caves and swamps that line that Valley of Holiness, and whatever be his breed, it skills not, he shall find a sample of it there.”",4d19fd19763fecf843836a928cecadd8645478bdaca8b06dca635094d625c698,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+ed66055771f7e9ed64e23493,V2_austen_pride_and_prejudice_003,modernize,e40142ba403dc0639ceee577aac2bc03cb980d3cc99be7e4e8356bc32dd31724,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_austen_pride_and_prejudice_003,461,462,1.002169197396963,pass,"The day passed much as the day before had done. Mrs. Hurst and Miss Bingley had spent some hours of the morning with the patient, who continued, though slowly, to improve; and, in the evening, Elizabeth joined their party in the sitting room. The loo table, however, did not appear. Mr. Darcy was writing, and Miss Bingley, seated near him, was watching the progress of his letter, and repeatedly calling off his attention by messages to his sister. Mr. Hurst and Mr. Bingley were at piquet, and Mrs. Hurst was observing their game.
+
+Elizabeth took up some sewing, and was sufficiently amused in attending to what passed between Darcy and his companion. The perpetual compliments of the lady either on his handwriting, or on the evenness of his lines, or on the length of his letter, with the perfect indifference with which her praises were received, formed a curious dialogue, and was exactly in unison with her opinion of each.
+
+“How delighted Miss Darcy will be to receive such a letter!”
+
+He made no answer.
+
+“You write unusually fast.”
+
+“You are mistaken. I write rather slowly.”
+
+“How many letters you must have occasion to write in the course of a year! Letters of business, too! How hateful I should think them!”
+
+“It is fortunate, then, that they fall to my lot instead of to yours.”
+
+“Please tell your sister that I long to see her.”
+
+“I have already told her so once, by your desire.”
+
+“I am afraid you do not like your pen. Let me improve it for you. I improve pens remarkably well.”
+
+“Thank you--but I always improve my own.”
+
+“How can you contrive to write so even?”
+
+He was silent.
+
+“Tell your sister I am delighted to hear of her improvement on the harp, and Please let her know that I am quite in delight with her beautiful little design for a table, and I think it infinitely superior to Miss Grantley’s.”
+
+“Will you give me leave to postpone your delight till I write again? At present I have not room to do them justice.”
+
+“Oh, it is of no consequence. I shall see her in January. But do you always write such charming long letters to her, Mr. Darcy?”
+
+“They are generally long; but whether always charming, it is not for me to decide.”
+
+“It is a rule with me, that a person who can write a long letter with ease cannot write ill.”
+
+“That will not do for a compliment to Darcy, Caroline,” said her brother, “because he does _not_ write with ease. He studies too much for words of four syllables. Do not you, Darcy?”
+
+“My style of writing is very different from yours.”
+
+“Oh,” said Miss Bingley, “Charles writes in the most careless way imaginable.",8faafaab812bac75e5abc013e4901054af2479154a568ab015e90386933ce9a8,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+f3e8616d8fea790789c38a3e,V2_shelley_the_last_man_008,modernize,09a1cc0ff1347f820b7adbd52ca1d73be0068b302d8986543ec0e92e432357af,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_modernize,supplemental_feasibility_only,1,V2_shelley_the_last_man_008,462,461,0.9978354978354979,pass,"Raymond was energized by the intense feelings of returning health; he felt that in being general of the Athenians, he filled a position worthy of his ambition; and, in his hope of the capture of Constantinople, he counted on an event which would be as a landmark in the waste of ages, an exploit unequalled in the records of man; when a city of grand historic association, the beauty of whose site was the wonder of the world, which for many hundred years had been the stronghold of the Muslims, should be rescued from slavery and barbarism, and restored to a people illustrious for genius, civilization, and a spirit of liberty. Perdita rested on his restored society, on his love, his hopes and fame, even as a Sybarite on a luxurious couch; every thought was transport, each emotion bathed as it were in a congenial and balmy element.
+
+We arrived at Kishan on the 7th of July. The weather during our journey had been serene. Each day, before dawn, we left our night’s encampment, and watched the shadows as they retreated from hill and valley, and the golden splendor of the sun’s approach. The accompanying soldiers received, with national vivacity, enthusiastic pleasure from the sight of beautiful nature. The uprising of the star of day was hailed by triumphant strains, while the birds, heard by snatches, filled up the intervals of the music. At noon, we pitched our tents in some shady valley, or shaded wood among the mountains, while a stream murmuring over pebbles induced grateful sleep. Our evening march, more calm, was yet more delightful than the morning restlessness of spirit. If the band played, involuntarily they chose airs of moderated passion; the farewell of love, or lament at absence, was followed and closed by some solemn hymn, which harmonized with the peaceful beauty of evening, and elevated the soul to grand and religious thought. Often all sounds were suspended, that we might listen to the nightingale, while the fire-flies danced in bright measure, and the soft cooing of the aziolo spoke of fair weather to the travelers. Did we pass a valley? Soft shades encompassed us, and rocks tinged with beautiful hues. If we traversed a mountain, Greece, a living map, was spread beneath, her famous pinnacles cleaving the sky; her rivers threading in silver line the fertile land. Afraid almost to breathe, we English travelers surveyed with ecstasy this splendid landscape, so different from the sober hues and melancholy graces of our native scenery. When we quitted Macedonia, the fertile but low plains of Thrace afforded fewer beauties; yet our journey continued to be interesting. An advanced guard gave information of our approach, and the country people were quickly in motion to do honour to Lord Raymond.",dc559864b50e838d1eb258fdbc51b69537e3fa020b2351dde82d13ae50087e02,26c2c5a2362b0a1d017ec3a48a1d081228523a5dfbbe1957ac70b4df7d0a7d3b,not_available_for_agent_generation
+0aa74c1df22fd8836e7cc4da,V2_poe_the_gold_bug_011,simplify,4af6bf390dd53f71f63921b9aad964b18b37635a7fa6a917ab3da0163042a9aa,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_poe_the_gold_bug_011,450,430,0.9555555555555556,pass,"""Jupiter,"" he said when we reached the foot of the tree, ""come here. Was the skull nailed to the branch with its face turned outward, or with its face toward the branch?""
+
+""The face was out, master, so the crows could get at the eyes easily, without any trouble.""
+
+""Well then, was it through this eye or that one that you dropped the beetle?"" As he spoke, Legrand touched each of Jupiter's eyes.
+
+""It was this eye, master, the left eye, just as you told me,"" and as he said it, the man pointed to his right eye.
+
+""That will do. We must try again.""
+
+My friend, whose madness now seemed to me, or at least I imagined it seemed, to have some signs of method in it, moved the peg that marked where the beetle had fallen. He placed it about three inches west of its first position. Then he took the tape measure again from the nearest point of the tree trunk to the peg, as before, and carried the line straight onward for fifty feet. This marked a new spot, several yards away from the place where we had been digging.
+
+Around this new spot he drew a circle, a little larger than the first, and we began again with our spades. I was terribly tired, yet I no longer felt much dislike for the work, though I hardly understood what had changed my feelings. I had become strangely interested, even excited. Perhaps there was something in Legrand's wild behavior, some sense of planning or careful thought, that affected me. I dug eagerly, and from time to time I caught myself actually looking with something very like expectation for the imaginary treasure whose vision had driven my poor companion out of his senses. While these wandering thoughts held me most strongly, and after we had worked perhaps an hour and a half, we were interrupted again by the dog's violent howling. At first his restlessness had clearly been only play or whim, but now his tone was bitter and serious. When Jupiter again tried to muzzle him, the dog resisted fiercely, jumped into the hole, and tore at the earth madly with his claws. In a few seconds he had uncovered a mass of human bones, making two complete skeletons, mixed with several metal buttons and what seemed to be dust from decayed woolen cloth. One or two strokes of a spade turned up the blade of a large Spanish knife, and as we dug farther, three or four loose gold and silver coins came into view.",a8d87f717a1038f9e833b5af4ae7d706e1295e16d43f019dc81b93d331470e8a,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+0bc9d8364c98d3958eda211e,V2_twain_tom_sawyer_013,simplify,9e3dddaa30b630a14999fb86082c9f82f44cc1eb62c7439b17f1d62e127743d3,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_twain_tom_sawyer_013,470,443,0.9425531914893617,pass,"The night was dark and stormy. Not a single star trembled in the sky above, while the deep roll of heavy thunder kept shaking in the ear. Terrible lightning flashed angrily through the clouded chambers of heaven, seeming to mock the power that the famous Franklin had claimed over its terror. Even the rough winds came out together from their mysterious homes and roared about, as if they meant to make the wild scene wilder still.
+
+At such a time, so dark and gloomy, my whole spirit longed for human sympathy; but instead of that,
+
+'My dearest friend, my counsellor, my comforter and guide, my joy in grief, my second happiness in joy,' came to my side.
+
+She moved like one of those bright beings that young romantic minds picture in the sunny paths of an imagined Eden, a queen of beauty decorated only by her own extraordinary loveliness. Her step was so soft that it made no sound, and if her kind touch had not sent a magical thrill through me, she might have slipped away unnoticed and uncalled, like other quiet beauties. A strange sadness lay on her face, like frozen tears on December's robe, as she pointed to the struggling elements outside and told me to consider the two beings shown there.
+
+This nightmare filled about ten pages of manuscript and ended with a sermon that destroyed all hope for non-Presbyterians so thoroughly that it won first prize. The composition was judged the finest effort of the evening. When the village mayor handed the prize to its author, he made a warm speech, saying it was by far the most eloquent thing he had ever heard and that even Daniel Webster might have been proud of it.
+
+It may be mentioned in passing that the number of compositions in which the word ""beauteous"" was overused, and human experience was called ""life's page,"" was about as large as usual.
+
+Now the schoolmaster, softened almost into good humor, moved his chair aside, turned his back to the audience, and began to draw a map of America on the blackboard for the geography class. But his unsteady hand made a poor business of it, and a suppressed laugh moved through the room. He knew what was wrong and tried to correct it. He wiped out lines and drew them again, but only made them more distorted, and the laughter grew clearer. He now fixed all his attention on the work, as if determined not to be defeated by their amusement. He felt that every eye was fastened on him; he imagined he was improving matters, yet the tittering continued, and plainly grew louder.",7bc5a1d572d529d4cafd5cf818b38a03e1f640ff7d68bbfd3f789baf4d3bda6b,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+370cab23ef45d0998dd8f970,V2_shelley_the_last_man_008,simplify,09a1cc0ff1347f820b7adbd52ca1d73be0068b302d8986543ec0e92e432357af,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_shelley_the_last_man_008,462,441,0.9545454545454546,pass,"Raymond was lifted by the strong feelings that came with restored health. He felt that, as general of the Athenians, he held a position worthy of his ambition. In his hope of conquering Constantinople, he looked toward an event that would stand like a marker in the empty stretch of ages, an achievement unmatched in human history. That famous city, whose setting was admired by the whole world, and which for many centuries had been a stronghold of the Moslems, would be rescued from slavery and barbarism and returned to a people known for genius, civilization, and love of liberty. Perdita rested in his restored company, in his love, his hopes, and his fame, as if lying on a rich couch; every thought was joy, and every feeling seemed bathed in a warm and friendly air.
+
+We reached Kishan on the seventh of July. The weather during our journey had been clear and calm. Each day, before dawn, we left our night's camp and watched the shadows draw back from hills and valleys before the golden brightness of the rising sun. The soldiers with us, with their national liveliness, took enthusiastic pleasure in the beauty of nature. The rising of the sun was greeted with triumphant music, while the birds, heard in scattered bursts, filled the pauses between the notes. At noon we pitched our tents in some shaded valley or wooded shelter among the mountains, while a stream murmuring over stones brought grateful sleep. Our evening march, calmer than the restless morning, was even more delightful. If the band played, they seemed without planning it to choose gentler tunes: a lover's farewell, or a lament for absence, would be followed and ended by some solemn hymn that suited the peaceful beauty of evening and lifted the mind toward grand and religious thoughts. Often every sound stopped so that we could listen to the nightingale, while fireflies danced in bright patterns and the soft cry of the aziolo promised fair weather to the travelers. When we passed through a valley, soft shadows surrounded us and rocks glowed with beautiful colors. When we crossed a mountain, Greece spread below like a living map, her famous peaks cutting the sky and her rivers drawing silver lines through the fertile land. Almost afraid to breathe, we English travelers looked in delight at this splendid landscape, so different from the quiet colors and sad graces of our own country. When we left Macedonia, the fertile but low plains of Thrace offered fewer beauties, yet the journey remained interesting. An advance guard announced our approach, and the country people quickly stirred themselves to honor Lord Raymond.",60e629f3476c5ec7134590eaab598a9dca78cff8582c9b2a3afbac69bfc75a4b,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+46a392b370dfd5596abeb9b1,V2_twain_connecticut_yankee_009,simplify,498df1f5e213575655cf6332e0eb6dd0e9832236892fe8d08fe0a73b5c594439,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,0,,457,438,0.9584245076586433,pass,"""Now notice what it means to leave the pure ways that He loves, and to play with worldly things that offend Him. These monks went into the bath and came out washed as white as snow; and behold, at that very moment His sign appeared in a miraculous rebuke. His insulted waters stopped flowing and vanished completely.""
+
+""They got off lightly, Sandy, considering how that sort of crime is treated in this country.""
+
+""Perhaps; but it was their first sin. They had lived perfectly for a long time, and differed in nothing from angels. Prayers, tears, and tortures of the flesh were all useless in persuading the water to flow again. Even processions, even burnt offerings, even candles promised to the Virgin, all failed, every one of them, and the whole land wondered.""
+
+""How odd to find that even this business has its financial panics, and sometimes sees its paper money and greenbacks sink to nothing, until everything stops. Go on, Sandy.""
+
+""And so, after a year and a day, the good abbot humbly surrendered and destroyed the bath. And behold, His anger was at that moment satisfied, and the waters poured out richly again, and to this very day they have never stopped flowing in that generous amount.""
+
+""Then I suppose nobody has washed since.""
+
+""Anyone who tried it could have a noose for nothing; yes, and he would need it quickly too.""
+
+""The community has prospered since then?""
+
+""From that very day. The fame of the miracle spread abroad into every land. Monks came from everywhere to join; they came like fish, in schools. The monastery added building to building, and then others to those, and so it spread its arms wide and took them in. Nuns came also; then more, and more again. They built across from the monastery on the other side of the valley and added building to building until the nunnery became mighty. The monks and nuns were friendly with one another, and they joined their loving labors together, and together they built a fine great foundling asylum halfway down the valley between them.""
+
+""You spoke of some hermits, Sandy.""
+
+""They have gathered there from the ends of the earth. A hermit does best where there are crowds of pilgrims. You will find no kind of hermit missing. If anyone mentions a kind of hermit he thinks is new and only found in some distant strange land, let him merely search among the holes and caves and swamps that line that Valley of Holiness, and whatever his type may be, it does not matter; he will find a sample of it there.""",37f1549fc91fd65b45d9e46acde7278a299b08a6ccd9eda30313394e970350fe,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+59ef9ed9d67088604b54925e,V2_poe_murders_rue_morgue_017,simplify,639e1b93dd25ac959a2ff7d7d51db5da8f0448e5fb2d68d2ffa828e073f25445,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_poe_murders_rue_morgue_017,470,456,0.9702127659574468,pass,"Besides, this knot is one that few people except sailors can tie, and it is special to the Maltese. I picked up the ribbon at the foot of the lightning rod. It could not have belonged to either of the dead women. Now, if I am wrong after all in thinking from this ribbon that the Frenchman was a sailor on a Maltese ship, I have still done no harm by saying so in the advertisement. If I am mistaken, he will simply suppose that some circumstance has misled me, and he will not trouble himself to find out what it was. But if I am right, a great advantage is gained. Though he knows about the murder, he is innocent of it, and the Frenchman will naturally hesitate before answering the advertisement and claiming the Ourang-Outang. He will reason like this: 'I am innocent; I am poor; my Ourang-Outang is very valuable, almost a fortune to a man in my situation. Why should I lose it because of useless fears? It is within my reach. It was found in the Bois de Boulogne, far from the scene of that butchery. How could anyone ever suspect that a wild animal did the deed? The police are confused; they have failed to find the smallest clue. Even if they trace the animal, it would be impossible to prove that I knew about the murder, or to make me guilty merely because I had that knowledge. Above all, I am known. The advertiser names me as the owner of the beast. I do not know how much he knows. If I avoid claiming property so valuable, property that I am known to possess, I will at least make the animal suspicious. It is not wise for me to draw attention either to myself or to the beast. I will answer the advertisement, get the Ourang-Outang, and keep it hidden until this affair has passed.'""
+
+At that moment we heard a step on the stairs.
+
+""Be ready,"" said Dupin, ""with your pistols, but do not use them or show them until I give the signal.""
+
+The front door of the house had been left open, and the visitor had entered without ringing and had already climbed several steps. Now, however, he seemed to hesitate. Soon we heard him going down again. Dupin was moving quickly toward the door when we heard him coming up once more. He did not turn back a second time, but came up firmly and knocked at the door of our room.
+
+""Come in,"" said Dupin, in a cheerful, hearty voice.
+
+A man entered. He was plainly a sailor, tall, strong, and muscular, with a reckless expression on his face that was not entirely unpleasant.",fe47fc14fe8bf2851add7906832ea46e18a4924f78fcf553fa30075df1d29482,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+77c8823903077fbf405ba809,V2_shelley_frankenstein_015,simplify,dfac0d020c88956dd58067463b77b2c4b142e7aba32d020b08e977154352176e,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_shelley_frankenstein_015,464,444,0.9568965517241379,pass,"He said he was wasting his time where he was, and that letters from the friends he had made in London urged him to return and complete the negotiations they had begun for his Indian enterprise. He could no longer delay his departure. But since his journey to London might be followed, perhaps sooner than he now guessed, by his longer voyage, he begged me to give him as much of my company as I could spare. He therefore asked me to leave my lonely island and meet him at Perth, so that we might travel south together. This letter partly brought me back to life, and I decided to leave my island after two days had passed.
+
+Yet before I left, there was a task to be done, and I shuddered to think of it. I had to pack up my chemical instruments, and for that purpose I had to enter the room that had been the scene of my hateful work. I had to touch the tools whose very sight made me sick. The next morning at daybreak I gathered enough courage and unlocked the door of my laboratory. The remains of the half-finished creature I had destroyed lay scattered on the floor, and I almost felt as if I had torn apart the living flesh of a human being. I paused to steady myself and then entered the room. With a trembling hand I carried the instruments out; but I realized that I should not leave the relics of my work where they might fill the peasants with horror and suspicion. So I put them into a basket with a large number of stones, laid them aside, and decided to throw them into the sea that very night. Meanwhile I sat on the beach, cleaning and arranging my chemical apparatus.
+
+Nothing could have been more complete than the change in my feelings since the night when the demon appeared. Before then I had looked on my promise with dark despair as something that had to be fulfilled, whatever the consequences might be. Now I felt as if a film had been removed from my eyes and I was seeing clearly for the first time. The thought of beginning my labors again did not enter my mind for a single instant. The threat I had heard weighed heavily on my thoughts, but I did not consider that any voluntary act of mine could prevent it. I had resolved that to create another being like the fiend I first made would be the lowest and most terrible selfishness. I drove from my mind every thought that could lead me to any other conclusion.",58c46883f57799a54675ef75e2a94f2aeb72ff7abdca046e4635243e0c8a1cb6,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+787d4fd09867fe4f1d8c44b0,V2_poe_hans_pfaal_004,simplify,ce4309cf1d6bb9addaefb9a3093b4eff2869ef2d950ee9382231a0b44f8a04bb,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_poe_hans_pfaal_004,476,440,0.9243697478991597,pass,"I rose early in the morning and again managed to escape the watchfulness of my creditors. I hurried to the bookseller's stall and spent the little cash I had on several books about mechanics and practical astronomy. When I reached home safely with them, I gave every spare moment to reading them, and soon made enough progress in those studies, as I thought, to carry out my plan. During this time I made every effort to soften the feelings of the three creditors who had troubled me so much. At last I succeeded, partly by selling enough of my household furniture to pay half of what I owed them, and partly by promising to pay the rest when I completed a small project I said I had in mind. I also asked for their help with it. By these means, since they were ignorant men, I found little difficulty in winning them over to my purpose.
+
+""Once these matters had been arranged in a friendly way, I managed, with my wife's help and with the greatest secrecy and care, to sell what property I still had and to borrow small sums under various excuses. I gave no thought to how I would repay the money later, but in this way I collected a considerable amount of ready cash. With these funds I bought, at different times, very fine cambric muslin in pieces of twelve yards each; twine; a quantity of caoutchouc varnish; a large, deep wicker basket made to order; and several other items needed to build and equip a balloon of extraordinary size. I instructed my wife to make it up as quickly as possible and gave her all the necessary details about the method. Meanwhile I worked the twine into a net of sufficient size, fitted it with a hoop and the required cords, and bought a quadrant, a compass, a spyglass, a common barometer with some important changes, and two astronomical instruments not generally known. I then took chances at night to carry, to a lonely place east of Rotterdam, five iron-bound casks holding about fifty gallons each, one larger cask, six tin tubes three inches across, properly shaped and ten feet long, a quantity of a particular metal or half-metal that I will not name, and a dozen large bottles of a common acid. The gas made from these last materials is a gas no one else has ever produced, or at least never used for any similar purpose. I would not hesitate to reveal the secret, except that it rightfully belongs to a citizen of Nantz, in France, who shared it with me under conditions.""",02e0a0cb2a69b7a9774d330af4f7b5d874e316b23e62a0cd1a885472c1bb932c,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+9084ba168349afb1512766c8,V2_twain_huckleberry_finn_019,simplify,3d536e1bbfc46e07c3710e2f8a1c70ec8d714a5cf4e607c47df3113bf79bfd5e,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_twain_huckleberry_finn_019,476,494,1.0378151260504203,pass,"The doctor was an old man, and a very nice, kind-looking old man when I got him awake. I told him that my brother and I had been over on Spanish Island hunting the afternoon before, and that we had camped on a piece of raft we found. About midnight, I said, my brother must have kicked his gun in his sleep, because it went off and shot him in the leg. We wanted the doctor to go over there and fix it, and not say anything or let anyone know, because we meant to come home that evening and surprise the family.
+
+""Who are your people?"" he says.
+
+""The Phelpses, down yonder.""
+
+""Oh,"" he says. Then after a minute he says:
+
+""How did you say he got shot?""
+
+""He had a dream,"" I says, ""and it shot him.""
+
+""A strange dream,"" he says.
+
+So he lit his lantern, got his saddle-bags, and we started. But when he saw the canoe, he did not like the look of it. He said it was big enough for one person, but did not look very safe for two. I says:
+
+""Oh, you needn't be afraid, sir. She carried the three of us easily enough.""
+
+""What three?""
+
+""Why, me and Sid, and-and-and the guns; that's what I mean.""
+
+""Oh,"" he says.
+
+But he put his foot on the gunwale and rocked the canoe, then shook his head and said he guessed he would look around for a bigger one. But all the others were locked and chained, so he took my canoe and told me to wait until he came back. Or, he said, I could look around some more, or maybe I had better go home and get them ready for the surprise, if I wanted to. I said I did not, so I told him exactly how to find the raft, and then he set off.
+
+Pretty soon an idea struck me. I says to myself, suppose he cannot fix that leg in three shakes of a sheep's tail, as the saying is? Suppose it takes him three or four days? What are we going to do, lie around there until he lets the secret out? No, sir; I know what I will do. I will wait, and when he comes back, if he says he has to go again, I will get down there too, even if I have to swim. Then we will tie him up and keep him with us, and push off down the river; and when Tom is done with him, we will pay him what it is worth, or all we have, and then let him get ashore.
+
+So then I crawled into a lumber pile to get some sleep. The next time I woke, the sun was high over my head. I jumped out and went to the doctor's house, but they told me he had gone away sometime in the night and had not come back yet.",36963182b54827fdba69542bbb19be1d003e78a88ed6bf2d8faefbe8f6746cf9,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+90d79b74c937fb2139a18f1f,V2_wilde_canterville_ghost_016,simplify,0ce185bba5a831177cf957e15d1e185774a974800fb50d1c375f86ee1b31a876,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_wilde_canterville_ghost_016,472,431,0.913135593220339,pass,"'Oh, never mind my hat! I want Virginia!' cried the little Duke, laughing, and they galloped on to the railway station. There Mr. Otis asked the station-master whether anyone matching Virginia's description had been seen on the platform, but he could learn nothing about her. The station-master, however, sent messages up and down the line and assured him that a careful watch would be kept. After buying a hat for the little Duke from a linen-draper who was just closing his shop, Mr. Otis rode off to Bexley, a village about four miles away. He had been told that gypsies often stayed there, because there was a large common beside it. There they woke the country policeman, but got no information from him, and after riding all over the common they turned their horses toward home. They reached the Chase about eleven o'clock, completely tired out and almost heart-broken. They found Washington and the twins waiting at the gate-house with lanterns, because the avenue was very dark. Not the slightest trace of Virginia had been found. The gypsies had been caught on Brockley meadows, but she was not with them. They had explained their sudden departure by saying they had mistaken the date of Chorton Fair and had left in a hurry for fear of arriving late. In fact, they had been quite upset to hear that Virginia was missing, since they were grateful to Mr. Otis for allowing them to camp in his park, and four of them had stayed behind to help search. The carp-pond had been dragged, and the whole Chase had been searched thoroughly, but nothing had come of it. It was clear that, for that night at least, Virginia was lost to them. In the deepest sadness Mr. Otis and the boys walked up to the house, with the groom following behind with the two horses and the pony. In the hall they found a group of frightened servants, and poor Mrs. Otis was lying on a sofa in the library, almost out of her mind with fear and anxiety, while the old housekeeper bathed her forehead with eau-de-cologne. Mr. Otis immediately insisted that she eat something and ordered supper for everyone. It was a gloomy meal, for hardly anyone spoke. Even the twins were awed and quiet, since they were very fond of their sister. When they had finished, Mr. Otis, despite the little Duke's pleas, ordered them all to bed, saying that nothing more could be done that night and that in the morning he would telegraph Scotland Yard to send detectives at once.",a4692ddf7579cb55c8e431c6c20778b550c888170ef530d4f12f5980fdf1b554,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+a52df6650588fd6ba4e82f77,V2_dickens_oliver_twist_010,simplify,7d0ad7902a20b926194cf57c17bbec679bada66fdb36f320f2a719368ad2837f,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_dickens_oliver_twist_010,485,466,0.9608247422680413,pass,"These matters having been arranged in a friendly and satisfactory way, the agreement was solemnly sealed with another teacup of the peppermint mixture, which was all the more necessary because the lady's nerves were fluttered and upset. While she was drinking it, she told Mr. Bumble about the old woman's death.
+
+""Very good,"" said that gentleman, sipping his peppermint. ""I'll call at Sowerberry's on my way home and tell him to send tomorrow morning. Was that what frightened you, love?""
+
+""It wasn't anything particular, dear,"" said the lady, avoiding the question.
+
+""It must have been something, love,"" urged Mr. Bumble. ""Won't you tell your own B.?""
+
+""Not now,"" replied the lady. ""One of these days. After we are married, dear.""
+
+""After we are married!"" cried Mr. Bumble. ""It wasn't any insolence from any of those male paupers that-""
+
+""No, no, love!"" the lady broke in quickly.
+
+""If I thought it was,"" continued Mr. Bumble, ""if I thought any one of them had dared to lift his vulgar eyes to that lovely face-""
+
+""They would not have dared to do it, love,"" answered the lady.
+
+""They had better not!"" said Mr. Bumble, clenching his fist. ""Let me see any man, parish or outside parish, who would presume to do it, and I can tell him he would not do it a second time!""
+
+Without any violent gestures, this might not have seemed a very high compliment to the lady's charms. But because Mr. Bumble made the threat with many warlike movements, she was deeply touched by this proof of his devotion and declared, with great admiration, that he was truly a dove.
+
+The dove then turned up his coat collar and put on his cocked hat. After exchanging a long and loving embrace with his future partner, he once again faced the cold night wind. He paused only a few minutes in the male paupers' ward to abuse them a little, in order to satisfy himself that he could fill the office of workhouse-master with the necessary sharpness. Certain of his qualifications, Mr. Bumble left the building with a light heart and bright visions of his future promotion, which occupied his mind until he reached the undertaker's shop.
+
+Now, Mr. and Mrs. Sowerberry had gone out to tea and supper, and Noah Claypole was never inclined to spend more physical effort than was needed for the comfortable performance of eating and drinking. Therefore the shop was not closed, though it was past the usual hour for shutting up. Mr. Bumble tapped several times with his cane on the counter, but no one noticed. Seeing a light shining through the glass window of the little back parlour, he took the liberty of peeping in to see what was happening; and when he saw it, he was quite surprised.",3c14ec2a15b53c350b01631187662dded5bdc8f55ca92def9a6be088031758ba,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+b198e98232bfd279c811429b,V2_austen_persuasion_007,simplify,1d651a50c824817283d3507fdf6bbacf384ea2ba52e5c28e38a74c814ab70c2e,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_austen_persuasion_007,507,494,0.9743589743589743,pass,"Other chances to make her observations were sure to come. Anne had soon been in company with all four of them often enough to form an opinion, though she was too wise to admit it at home, where she knew it would satisfy neither husband nor wife. She thought Louisa was rather the favorite, yet, as far as she dared judge from memory and experience, she could not believe that Captain Wentworth was in love with either young woman. They were more in love with him; and yet even there it was not truly love. It was a small fever of admiration, though it might, and probably must, end in love for some of them. Charles Hayter seemed aware that he was being slighted, and Henrietta sometimes appeared divided between the two men. Anne longed for the power to show them all what they were doing and to point out some of the troubles they were exposing themselves to. She blamed no one for deceit. It was a great comfort to her to believe Captain Wentworth was not at all aware of the pain he was causing. There was no triumph, no shabby triumph, in his manner. He had probably never heard of Charles Hayter's claims and had never thought of them. His only fault was accepting the attentions, for accepting must be the word, of two young women at the same time.
+
+After a short struggle, however, Charles Hayter seemed to leave the field. Three days passed without his coming once to Uppercross, a very clear change. He had even refused one regular dinner invitation. When Mr. Musgrove found him with several large books before him, Mr. and Mrs. Musgrove became sure that all was not right and spoke with serious faces of his studying himself to death. Mary hoped and believed that Henrietta had positively dismissed him, while her husband constantly expected to see him tomorrow. Anne could only feel that Charles Hayter was wise.
+
+One morning around this time, while Charles Musgrove and Captain Wentworth had gone shooting together, the sisters in the Cottage were sitting quietly at work. They were then visited at the window by the sisters from the Mansion-house.
+
+It was a very fine November day, and the Miss Musgroves came through the little grounds and stopped for no other reason than to say they were going to take a long walk. They therefore assumed Mary would not like to go with them. When Mary immediately replied, with some jealousy at not being considered a good walker, ""Oh, yes, I should like to join you very much; I am very fond of a long walk,"" Anne felt certain, from the looks of the two girls, that this was exactly what they did not want. She again admired the sort of necessity that family habits seemed to create, by which everything had to be communicated and everything had to be done together, however unwanted and inconvenient it might be.",402492f7cd73b677db6d24ecf742b0a871d4b4803514700f1f686c60c304d8f6,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+b8d670b5babff0fa647ecba0,V2_wilde_lord_arthur_saviles_crime_012,simplify,f1ccb87c3d62f86805b9501b8bd7b5daad314314e862d37254fd3c46b35e64a2,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_wilde_lord_arthur_saviles_crime_012,450,452,1.0044444444444445,pass,"'Well, monsieur le mauvais sujet,' cried the old lady as he came into the room, 'why have you not been to see me all this time?'
+
+'My dear Lady Clem, I never have a moment to myself,' said Lord Arthur, smiling.
+
+'I suppose you mean you spend all day with Miss Sybil Merton, buying chiffons and talking nonsense. I cannot understand why people make such a fuss about getting married. In my day we never dreamed of billing and cooing in public, or in private either, for that matter.'
+
+'I assure you I have not seen Sybil for twenty-four hours, Lady Clem. As far as I can tell, she belongs entirely to her dressmakers.'
+
+'Of course. That is the only reason you come to see an ugly old woman like me. I wonder you men do not take warning. On a fait des folies pour moi, and here I am now, a poor rheumatic creature with false hair and a bad temper. Why, if dear Lady Jansen did not send me all the worst French novels she can find, I do not think I could get through the day. Doctors are no use at all except to take fees from one. They cannot even cure my heartburn.'
+
+'I have brought you a cure for that, Lady Clem,' said Lord Arthur gravely. 'It is a wonderful thing, invented by an American.'
+
+'I do not think I like American inventions, Arthur. I am quite sure I do not. I read some American novels lately, and they were complete nonsense.'
+
+'Oh, but there is no nonsense at all about this, Lady Clem. I assure you it is a perfect cure. You must promise to try it.' Lord Arthur took the little box from his pocket and handed it to her.
+
+'Well, the box is charming, Arthur. Is it really a present? That is very sweet of you. And is this the wonderful medicine? It looks like a bonbon. I will take it at once.'
+
+'Good heavens, Lady Clem!' cried Lord Arthur, catching her hand. 'You must not do anything of the kind. It is a homeopathic medicine, and if you take it when you do not have heartburn, it might do you a great deal of harm. Wait until you have an attack, and take it then. You will be astonished by the result.'
+
+'I should like to take it now,' said Lady Clementina, holding the little transparent capsule up to the light, with its floating bubble of liquid aconitine. 'I am sure it is delicious. The fact is that, though I hate doctors, I love medicines. However, I will keep it until my next attack.'
+
+'And when will that be?' asked Lord Arthur eagerly.",5daf406cbc4d538ac209f8312c9ca5982de9025fd0120759f736fb93fc7f584f,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+bfa98efc0be76e02502e3f50,V2_dickens_a_tale_of_two_cities_002,simplify,886e62b0b4cea3837c1d61deda77cc7d40f0ab74ab6c12a687ea5a1e1bb19ee6,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_dickens_a_tale_of_two_cities_002,452,444,0.9823008849557522,pass,"""Story!""
+
+He seemed to deliberately misunderstand the word she had repeated, and added hurriedly, ""Yes, customers; in banking we usually call our connections our customers. He was a French gentleman, a scientific gentleman, a man of great learning, a doctor.""
+
+""Not from Beauvais?""
+
+""Why, yes, from Beauvais. Like Monsieur Manette, your father, the gentleman was from Beauvais. Like Monsieur Manette, your father, he was well known in Paris. I had the honor of knowing him there. Our relations were business relations, but confidential ones. I was then in our French House, and had been there, oh, twenty years.""
+
+""At that time, may I ask what time, sir?""
+
+""I speak, miss, of twenty years ago. He married an English lady, and I was one of the trustees. His affairs, like the affairs of many other French gentlemen and French families, were entirely in Tellson's hands. In the same way, I am, or have been, trustee of one kind or another for scores of our customers. These are only business relations, miss; there is no friendship in them, no special interest, nothing like sentiment. I have passed from one to another during my business life just as I pass from one customer to another during my business day. In short, I have no feelings. I am a mere machine. To continue-""
+
+""But this is my father's story, sir; and I begin to think""-her strangely tightened forehead was fixed very closely on him-""that when I was left an orphan, because my mother survived my father by only two years, it was you who brought me to England. I am almost sure it was you.""
+
+Mr. Lorry took the small hesitant hand that trustingly reached for his and raised it with some ceremony to his lips. He then led the young lady straight back to her chair, and, holding the back of it with his left hand, used his right hand in turn to rub his chin, pull his wig at the ears, or emphasize what he said. He stood looking down into her face while she sat looking up into his.
+
+""Miss Manette, it was I. And you will see how truly I spoke of myself just now, when I said I had no feelings and that all my relations with my fellow creatures are only business relations, when you remember that I have never seen you since. No; you have been the ward of Tellson's House since then, and I have been busy with the other business of Tellson's House since then. Feelings! I have no time for them, no chance for them. I spend my whole life, miss, turning an immense money mangle.""",24784f303a3380309e016310991be5c1baa7b8c9334147973703347373d2896c,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+c195a011a298723fa94e93de,V2_austen_emma_004,simplify,2db1b94405960251ee13913ba74638cf57b7305e7f66db78df1bb95cdce8d47c,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_austen_emma_004,459,460,1.0021786492374727,pass,"""She and the children might stay very well.""
+
+""Ah, papa, that is what you have never been able to manage, and I do not think you ever will. Isabella cannot bear to stay behind her husband.""
+
+This was too true to deny. Though it was unwelcome, Mr. Woodhouse could only sigh submissively. When Emma saw that his spirits were lowered by the thought of his daughter's attachment to her husband, she immediately turned to a part of the subject that would cheer him.
+
+""Harriet must give us as much of her company as she can while my brother and sister are here. I am sure she will be pleased with the children. We are very proud of the children, are we not, papa? I wonder which one she will think handsomer, Henry or John?""
+
+""Yes, I wonder which she will. Poor little dears, how glad they will be to come. They are very fond of being at Hartfield, Harriet.""
+
+""I dare say they are, sir. I am sure I do not know anyone who is not.""
+
+""Henry is a fine boy, but John is very like his mama. Henry is the eldest; he was named after me, not after his father. John, the second, is named after his father. Some people are surprised, I believe, that the eldest was not named for him, but Isabella would have him called Henry, which I thought very pretty of her. And he is a very clever boy indeed. They are all remarkably clever, and they have so many pretty ways. They will come and stand by my chair and say, 'Grandpapa, can you give me a bit of string?' Once Henry asked me for a knife, but I told him knives were only made for grandpapas. I think their father is often too rough with them.""
+
+""He seems rough to you,"" said Emma, ""because you are so very gentle yourself. But if you could compare him with other fathers, you would not think him rough. He wants his boys to be active and hardy, and if they behave badly, he can give them a sharp word now and then. But he is an affectionate father; certainly Mr. John Knightley is an affectionate father. The children are all fond of him.""
+
+""And then their uncle comes in and tosses them up to the ceiling in a very frightening way!""
+
+""But they like it, papa. There is nothing they like so much. It gives them such enjoyment that, if their uncle did not make the rule that they must take turns, whichever one began would never give way to the other.""
+
+""Well, I cannot understand it.""
+
+""That is true of us all, papa. One half of the world cannot understand the pleasures of the other.""",ab9482d35c788c5e2b7cc6a653689529db685fd99e00d9a051c1ea42877fa164,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+ca3f0c9e27b13dd4b0efcc2f,V2_shelley_mathilda_010,simplify,cf32e656e0afea6e6aa2bab64a3dfac97efffeac80ec70c78daae502bab5d078,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,0,,454,452,0.9955947136563876,pass,"Was my love blameworthy? If it was, I did not know it. I desired only what I already possessed, and if your looks, your words, and your innocent caresses gave me a delight usually kept apart from a parent's feelings toward a child, still no uneasiness, no wish, no passing thought woke me to any sense of guilt. I loved you as a human father might be imagined to love a daughter born to him by a heavenly mother; as Anchises might have looked on the child of Venus if the child had been a daughter. My love was mixed with respect and worship. Perhaps, too, my passion was lulled into contentment by the deep and exclusive affection you felt for me.
+
+""But when I saw you become the object of another person's love; when I imagined that you might be loved in some way other than as a sacred image of beauty and goodness, or that you might love another with a warmer affection than the one you gave me, then the fiend inside me awoke. I sent your lover away, and from that moment I have known no peace. I have searched in vain for sleep and rest; my eyelids refused to close, and my blood was forever in turmoil. I woke to a new life, like someone who dies in hope and wakes in Hell. I will not soil your imagination by describing my battles, my anger at myself, and my despair. Let a veil be drawn over the unimaginable feelings of a guilty father; the secrets of a heart in such agony must not be made common. All was confusion, crime, remorse, and hate, yet still the most tender love remained. What first woke in me the firm resolve to conquer my passion and restore her father to my child was the sight of your bitter and sympathetic sorrows. That was what led me here. I thought that if I could awaken again in my heart the grief I had felt at losing your mother, and all the memories of her that had slept for seventeen years, then all love for her child would die out. In a fit of heroism I decided to go alone, to leave you, the life of my life, and not see you again until I could do so without guilt. But it would not work. I judged my strength too high, or my love too low. I would certainly have died if you had not hurried to me. Would that I had indeed been extinguished!
+
+""And now, Mathilda, I must make my last confession. I have been miserably wrong in imagining that I could conquer my love for you. I never can.",3ba735283b6155640c81b4f6cced21a5bbc5a6391a54add77314a318b7519a13,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+ce95d68e1ad54d8eeac70efa,V2_wilde_dorian_gray_004,simplify,7713a8986c1459bb7adb55afd0eafc5704aadd4b52a661ef17ea7099bbf0903f,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_wilde_dorian_gray_004,479,460,0.9603340292275574,pass,"""Good-bye, Uncle George. I shall be late for lunch if I stay any longer. Thank you for giving me the information I wanted. I always like to know everything about my new friends and nothing about my old ones.""
+
+""Where are you lunching, Harry?""
+
+""At Aunt Agatha's. I have invited myself and Mr. Gray. He is her latest protege.""
+
+""Humph! Tell your Aunt Agatha, Harry, not to trouble me any more with her charity appeals. I am tired of them. Why, the good woman seems to think I have nothing to do but write cheques for her foolish schemes.""
+
+""All right, Uncle George, I will tell her, but it will have no effect. Philanthropic people lose all sense of humanity. That is their special mark.""
+
+The old gentleman growled in approval and rang the bell for his servant. Lord Henry passed under the low arcade into Burlington Street and turned toward Berkeley Square.
+
+So that was the story of Dorian Gray's parentage. Roughly as it had been told to him, it had still stirred him by suggesting a strange, almost modern romance. A beautiful woman risking everything for a mad passion. A few wild weeks of happiness ended by a horrible, treacherous crime. Months of silent agony, and then a child born in pain. The mother snatched away by death, the boy left to loneliness and to the rule of an old, loveless man. Yes, it was an interesting background. It gave the lad a setting and made him seem more perfect. Behind every exquisite thing that existed, there was something tragic. Worlds had to suffer birth pains for even the smallest flower to bloom. And how charming he had been at dinner the night before, sitting opposite him at the club with startled eyes and parted lips, frightened and pleased, while the red candle-shades deepened the rosy wonder waking in his face. Talking to him was like playing on an exquisite violin. He responded to every touch and every thrill of the bow. There was something terribly fascinating in the use of influence. No other activity was like it. To project one's soul into some graceful form and let it remain there for a moment; to hear one's own ideas echoed back with all the added music of passion and youth; to pass one's temperament into another as if it were a delicate liquid or a strange perfume, there was real joy in that, perhaps the most satisfying joy left to us in an age so limited and vulgar as ours, an age coarse in its pleasures and common in its aims. He was a marvelous type too, this boy whom chance had brought him in Basil's studio, or at least he could be shaped into a marvelous type.",ae66cf48d1beb9613d61833b5240904d9cef58d4f426218e8bd5aeb20f648f9d,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+e9af71ed1027b585a1fce23a,V2_austen_pride_and_prejudice_003,simplify,e40142ba403dc0639ceee577aac2bc03cb980d3cc99be7e4e8356bc32dd31724,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_austen_pride_and_prejudice_003,461,444,0.9631236442516269,pass,"The day passed much as the day before had passed. Mrs. Hurst and Miss Bingley spent several hours of the morning with the invalid, who continued to improve, though slowly. In the evening Elizabeth joined their party in the drawing-room. The loo table, however, did not appear. Mr. Darcy was writing, and Miss Bingley, sitting near him, watched the progress of his letter and repeatedly drew his attention away by sending messages to his sister. Mr. Hurst and Mr. Bingley were playing piquet, and Mrs. Hurst was watching their game.
+
+Elizabeth took up some needlework and found enough amusement in listening to what passed between Darcy and his companion. The lady's constant praises of his handwriting, the evenness of his lines, and the length of his letter, together with the perfect indifference with which he received her compliments, made a curious conversation and suited exactly Elizabeth's opinion of them both.
+
+""How delighted Miss Darcy will be to receive such a letter!""
+
+He made no answer.
+
+""You write unusually fast.""
+
+""You are mistaken. I write rather slowly.""
+
+""How many letters you must have to write in a year! Business letters too! How hateful I should find them!""
+
+""It is fortunate, then, that they fall to me instead of to you.""
+
+""Please tell your sister that I long to see her.""
+
+""I have already told her so once, at your request.""
+
+""I am afraid you do not like your pen. Let me mend it for you. I mend pens remarkably well.""
+
+""Thank you, but I always mend my own.""
+
+""How do you manage to write so evenly?""
+
+He was silent.
+
+""Tell your sister I am delighted to hear of her improvement on the harp, and please let her know that I am quite enchanted with her beautiful little design for a table. I think it infinitely better than Miss Grantley's.""
+
+""Will you allow me to save your raptures until I write again? At present I have not enough room to do them justice.""
+
+""Oh, it is of no importance. I shall see her in January. But do you always write such charming long letters to her, Mr. Darcy?""
+
+""They are generally long; but whether they are always charming is not for me to decide.""
+
+""It is a rule with me that a person who can write a long letter easily cannot write badly.""
+
+""That will not do as a compliment to Darcy, Caroline,"" cried her brother, ""because he does not write easily. He studies too much for words of four syllables. Do you not, Darcy?""
+
+""My style of writing is very different from yours.""
+
+""Oh,"" cried Miss Bingley, ""Charles writes in the most careless way imaginable.""",a60961b937cf3832f3b05eb1b6f57048c54f5561380f8a6ccc8ecda8f1602883,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation
+f9fe5e60cbd8e6aba6b66008,V2_dickens_great_expectations_003,simplify,30a519f0dd064537d6ec76b4154feb58ee62a3dc4870baf33d16e31e2ae36f9d,gpt-5.5,codex_subagent_persistent_context,/root/rewrite_simplify,supplemental_feasibility_only,1,V2_dickens_great_expectations_003,471,464,0.9851380042462845,pass,"""Unless you call Miss Havisham a he. And I doubt even you will go that far.""
+
+""Miss Havisham, up town?"" said Joe.
+
+""Is there any Miss Havisham down town?"" my sister returned.
+
+""She wants this boy to go and play there. And of course he is going. And he had better play there,"" said my sister, shaking her head at me as if encouraging me to be especially cheerful and playful, ""or I will work him.""
+
+I had heard of Miss Havisham up town. Everyone for miles around had heard of Miss Havisham up town, as an immensely rich and grim lady who lived in a large, gloomy house barricaded against robbers and lived a shut-away life.
+
+""Well, to be sure!"" said Joe, astonished. ""I wonder how she came to know Pip!""
+
+""Noodle!"" cried my sister. ""Who said she knew him?""
+
+""Which some individual,"" Joe politely suggested again, ""mentioned that she wanted him to go and play there.""
+
+""And couldn't she ask Uncle Pumblechook if he knew of a boy to go and play there? Is it not just barely possible that Uncle Pumblechook may be a tenant of hers, and that he may sometimes, we will not say quarterly or half-yearly, for that would be expecting too much of you, but sometimes go there to pay his rent? And couldn't she then ask Uncle Pumblechook if he knew of a boy to go and play there? And couldn't Uncle Pumblechook, being always considerate and thoughtful toward us, though you may not think so, Joseph,"" she said in a tone of deep reproach, as if he were the hardest-hearted of nephews, ""then mention this boy, standing prancing here,"" which I solemnly declare I was not doing, ""that I have forever been a willing slave to?""
+
+""Good again!"" cried Uncle Pumblechook. ""Well put! Nicely pointed! Good indeed! Now, Joseph, you know the case.""
+
+""No, Joseph,"" said my sister, still reproachfully, while Joe apologetically rubbed the back of his hand across his nose again and again, ""you do not yet, though you may not think so, know the case. You may believe you do, but you do not, Joseph. For you do not know that Uncle Pumblechook, realizing that for all we can tell this boy's fortune may be made by going to Miss Havisham's, has offered to take him into town tonight in his own chaise-cart, keep him tonight, and take him with his own hands to Miss Havisham's tomorrow morning. And Lord have mercy on me!"" cried my sister, suddenly tearing off her bonnet in desperation, ""here I stand talking to mere mooncalves, with Uncle Pumblechook waiting, the mare catching cold at the door, and the boy blackened with soot and dirt from the hair of his head to the sole of his foot!""",e8fd5c809ed35fe827812cee9ec5242c3f62050e5aa0dc06c86c9400d4917239,436f82c9377fd7a0c5fe23a6cecf180630aaa84e7df57bea986ef5f5c88ed117,not_available_for_agent_generation

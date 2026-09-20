@@ -1,14 +1,4 @@
-# Step 1 dependency stub
-# This file will be finalized as scripts are added.
-
-pandas
-numpy
-scikit-learn
-scipy
-matplotlib
-seaborn
-nltk
-spacy
-textstat
-pypdf
-pdfplumber
+# Canonical v2 environment. Historical scripts may require additional legacy
+# dependencies; they are not part of the corrected reproducibility contract.
+--require-hashes
+-r requirements-v2.lock

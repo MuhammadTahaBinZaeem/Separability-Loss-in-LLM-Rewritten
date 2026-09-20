@@ -1,0 +1,15 @@
+{
+  "complete": false,
+  "expected": 1080,
+  "fail": 0,
+  "missing": 1080,
+  "model_key": "gptoss120",
+  "parsed_sha256": "bf01872d580cfb9952260664b6ca7e1416d62083b0f14944b46f465e9f042c52",
+  "pass": 0,
+  "qc_rules": "research_v2/generation.py:parse_response",
+  "qc_version": "v2.0",
+  "raw_sha256": "",
+  "received": 0,
+  "request_manifest_sha256": "3d2261f2a8c215d469ae2add3fdcaa0dd97ed9e8f0efdda6d3c8053579c8f8f3",
+  "warning": 0
+}

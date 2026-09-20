@@ -1,0 +1,8 @@
+{
+  "corpus_sha256": "ce6c6a3687b3545460fa014b348cb2ed6dd49a8283006f866a8b9680dc5ca7ef",
+  "model": "qwen/qwen3.6-27b",
+  "model_key": "qwen27",
+  "plan_sha256": "00f2d7f421019384f557bff0d8c76c1b7513d41a65596a472d1df35eff0cf2d3",
+  "request_count": 1080,
+  "requests_sha256": "67fbb3bcc1f748af987e4de7db0540298ddd19af4ee491b58a444e9c66046e49"
+}

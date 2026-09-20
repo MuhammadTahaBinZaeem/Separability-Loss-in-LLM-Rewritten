@@ -1,0 +1,846 @@
+work_id,source_id,start_char,end_char,reason,excerpt
+emma,158,19500,19510,section_heading,CHAPTER II
+emma,158,29406,29417,section_heading,CHAPTER III
+emma,158,40054,40064,section_heading,CHAPTER IV
+emma,158,59146,59155,section_heading,CHAPTER V
+emma,158,69859,69869,section_heading,CHAPTER VI
+emma,158,84911,84922,section_heading,CHAPTER VII
+emma,158,98012,98024,section_heading,CHAPTER VIII
+emma,158,121344,121354,section_heading,CHAPTER IX
+emma,158,124810,124957,verse_table_or_short_line_insert,"My first doth affliction denote, Which my second is destin’d to feel And my whole is the best antidote That affliction to soften and heal.—"
+emma,158,126393,126573,verse_table_or_short_line_insert,"My first displays the wealth and pomp of kings, Lords of the earth! their luxury and ease. Another view of man, my second brings, Behold him there, the monarch of the seas!"
+emma,158,126575,126752,verse_table_or_short_line_insert,"But ah! united, what reverse we have! Man’s boasted power and freedom, all are flown; Lord of the earth and sea, he bends a slave, And woman, lovely woman, reigns alone."
+emma,158,139614,139784,verse_table_or_short_line_insert,"Kitty, a fair but frozen maid, Kindled a flame I yet deplore, The hood-wink’d boy I called to aid, Though of his near approach afraid, So fatal to my suit before."
+emma,158,147064,147073,section_heading,CHAPTER X
+emma,158,161408,161418,section_heading,CHAPTER XI
+emma,158,173385,173396,section_heading,CHAPTER XII
+emma,158,190960,190972,section_heading,CHAPTER XIII
+emma,158,207503,207514,section_heading,CHAPTER XIV
+emma,158,220741,220751,section_heading,CHAPTER XV
+emma,158,239203,239214,section_heading,CHAPTER XVI
+emma,158,249855,249867,section_heading,CHAPTER XVII
+emma,158,256562,256575,section_heading,CHAPTER XVIII
+emma,158,270354,270363,section_heading,VOLUME II
+emma,158,270368,270377,section_heading,CHAPTER I
+emma,158,286430,286440,section_heading,CHAPTER II
+emma,158,300238,300249,section_heading,CHAPTER III
+emma,158,321221,321231,section_heading,CHAPTER IV
+emma,158,330594,330603,section_heading,CHAPTER V
+emma,158,348894,348904,section_heading,CHAPTER VI
+emma,158,365543,365554,section_heading,CHAPTER VII
+emma,158,378307,378319,section_heading,CHAPTER VIII
+emma,158,413895,413905,section_heading,CHAPTER IX
+emma,158,430892,430901,section_heading,CHAPTER X
+emma,158,441926,441936,section_heading,CHAPTER XI
+emma,158,459778,459789,section_heading,CHAPTER XII
+emma,158,471633,471645,section_heading,CHAPTER XIII
+emma,158,482632,482643,section_heading,CHAPTER XIV
+emma,158,503490,503500,section_heading,CHAPTER XV
+emma,158,520151,520162,section_heading,CHAPTER XVI
+emma,158,537184,537196,section_heading,CHAPTER XVII
+emma,158,549119,549132,section_heading,CHAPTER XVIII
+emma,158,564375,564385,section_heading,VOLUME III
+emma,158,564390,564399,section_heading,CHAPTER I
+emma,158,571397,571407,section_heading,CHAPTER II
+emma,158,595875,595886,section_heading,CHAPTER III
+emma,158,605534,605544,section_heading,CHAPTER IV
+emma,158,616741,616750,section_heading,CHAPTER V
+emma,158,633275,633285,section_heading,CHAPTER VI
+emma,158,661551,661562,section_heading,CHAPTER VII
+emma,158,679904,679916,section_heading,CHAPTER VIII
+emma,158,694908,694918,section_heading,CHAPTER IX
+emma,158,708842,708851,section_heading,CHAPTER X
+emma,158,726090,726100,section_heading,CHAPTER XI
+emma,158,750141,750152,section_heading,CHAPTER XII
+emma,158,766970,766982,section_heading,CHAPTER XIII
+emma,158,785688,785699,section_heading,CHAPTER XIV
+emma,158,791068,791082,uppercase_heading_or_insert,"MY DEAR MADAM,"
+emma,158,805749,805772,uppercase_heading_or_insert,F. C. WESTON CHURCHILL.
+emma,158,805777,805787,section_heading,CHAPTER XV
+emma,158,818881,818892,section_heading,CHAPTER XVI
+emma,158,837045,837057,section_heading,CHAPTER XVII
+emma,158,854081,854094,section_heading,CHAPTER XVIII
+emma,158,874240,874251,section_heading,CHAPTER XIX
+pride_and_prejudice,1342,36045,36059,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,39835,39873,editorial_or_illustration,[Illustration: M^{r.} & M^{rs.} Bennet
+pride_and_prejudice,1342,39916,39930,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,40008,40019,section_heading,CHAPTER II.
+pride_and_prejudice,1342,40022,40036,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,44347,44380,editorial_or_illustration,[Illustration: “I’m the tallest”]
+pride_and_prejudice,1342,44385,44399,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,44436,44448,section_heading,CHAPTER III.
+pride_and_prejudice,1342,44451,44465,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,46532,46546,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,50306,50320,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,54195,54209,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,54214,54225,section_heading,CHAPTER IV.
+pride_and_prejudice,1342,54228,54242,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,60183,60234,editorial_or_illustration,[Illustration: [_Copyright 1894 by George Allen._]]
+pride_and_prejudice,1342,60239,60249,section_heading,CHAPTER V.
+pride_and_prejudice,1342,60252,60266,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,63063,63109,editorial_or_illustration,[Illustration: “Without once opening his lips”
+pride_and_prejudice,1342,65628,65642,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,65647,65661,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,65666,65677,section_heading,CHAPTER VI.
+pride_and_prejudice,1342,65680,65694,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,72071,72150,editorial_or_illustration,[Illustration: “The entreaties of several” [_Copyright 1894 by George Allen._]]
+pride_and_prejudice,1342,78810,78824,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,78898,78910,section_heading,CHAPTER VII.
+pride_and_prejudice,1342,78913,78927,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,84260,84296,editorial_or_illustration,[Illustration: Cheerful prognostics]
+pride_and_prejudice,1342,90233,90247,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,90277,90291,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,90319,90332,section_heading,CHAPTER VIII.
+pride_and_prejudice,1342,90335,90349,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,101364,101378,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,101463,101474,section_heading,CHAPTER IX.
+pride_and_prejudice,1342,101477,101491,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,111269,111283,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,111288,111298,section_heading,CHAPTER X.
+pride_and_prejudice,1342,111301,111315,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,122243,122257,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,123912,123926,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,123996,124007,section_heading,CHAPTER XI.
+pride_and_prejudice,1342,124010,124024,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,132980,132994,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,132999,133011,section_heading,CHAPTER XII.
+pride_and_prejudice,1342,133014,133028,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,136965,136979,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,136984,136996,section_heading,CHAPTER XIII
+pride_and_prejudice,1342,136999,137013,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,146501,146515,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,146520,146531,section_heading,CHAPTER XIV
+pride_and_prejudice,1342,146534,146548,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,151243,151257,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,151259,151314,verse_table_or_short_line_insert,“Protested that he never read novels” H.T Feb 94 ]
+pride_and_prejudice,1342,153073,153087,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,153092,153103,section_heading,CHAPTER XV.
+pride_and_prejudice,1342,153106,153120,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,162919,162933,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,162938,162950,section_heading,CHAPTER XVI.
+pride_and_prejudice,1342,162953,162967,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,165373,165387,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,182140,182154,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,182210,182223,section_heading,CHAPTER XVII.
+pride_and_prejudice,1342,182226,182240,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,189525,189539,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,189544,189558,section_heading,CHAPTER XVIII.
+pride_and_prejudice,1342,189561,189575,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,196980,196994,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,198807,198935,editorial_or_illustration,"“Merely to the illustration of _your_ character,” said she, endeavouring to shake off her gravity. “I am trying to make it out.”"
+pride_and_prejudice,1342,218874,218888,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,218947,218959,section_heading,CHAPTER XIX.
+pride_and_prejudice,1342,218962,218976,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,229654,229668,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,229673,229684,section_heading,CHAPTER XX.
+pride_and_prejudice,1342,229687,229701,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,235120,235134,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,238954,238968,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,238973,238985,section_heading,CHAPTER XXI.
+pride_and_prejudice,1342,238988,239002,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,241133,241171,editorial_or_illustration,[Illustration: “Walked back with them”
+pride_and_prejudice,1342,250381,250395,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,250400,250413,section_heading,CHAPTER XXII.
+pride_and_prejudice,1342,250416,250430,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,253220,253234,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,260533,260547,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,260638,260652,section_heading,CHAPTER XXIII.
+pride_and_prejudice,1342,260655,260669,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,268263,268277,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,270061,270075,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,270080,270093,section_heading,CHAPTER XXIV.
+pride_and_prejudice,1342,270096,270110,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,280950,280964,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,280969,280981,section_heading,CHAPTER XXV.
+pride_and_prejudice,1342,280984,280998,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,284263,284277,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,289704,289718,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,289759,289772,section_heading,CHAPTER XXVI.
+pride_and_prejudice,1342,289775,289789,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,302773,302787,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,302816,302830,section_heading,CHAPTER XXVII.
+pride_and_prejudice,1342,302833,302847,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,310079,310093,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,310120,310135,section_heading,CHAPTER XXVIII.
+pride_and_prejudice,1342,310138,310152,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,316581,316595,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,318485,318499,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,318606,318619,section_heading,CHAPTER XXIX.
+pride_and_prejudice,1342,318622,318636,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,332331,332345,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,332350,332362,section_heading,CHAPTER XXX.
+pride_and_prejudice,1342,332365,332379,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,335239,335253,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,337237,337251,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,339594,339608,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,339628,339641,section_heading,CHAPTER XXXI.
+pride_and_prejudice,1342,339644,339658,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,348415,348429,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,348434,348448,section_heading,CHAPTER XXXII.
+pride_and_prejudice,1342,348451,348465,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,353693,353735,editorial_or_illustration,[Illustration: “Accompanied by their aunt”
+pride_and_prejudice,1342,357025,357056,editorial_or_illustration,[Illustration: “On looking up”]
+pride_and_prejudice,1342,357061,357076,section_heading,CHAPTER XXXIII.
+pride_and_prejudice,1342,357079,357093,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,367488,367502,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,367507,367521,section_heading,CHAPTER XXXIV.
+pride_and_prejudice,1342,367524,367538,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,379557,379571,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,379604,379617,section_heading,CHAPTER XXXV.
+pride_and_prejudice,1342,379620,379634,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,396623,396637,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,396642,396656,section_heading,CHAPTER XXXVI.
+pride_and_prejudice,1342,396659,396673,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,400806,400820,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,408566,408580,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,408612,408627,section_heading,CHAPTER XXXVII.
+pride_and_prejudice,1342,408630,408644,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,411076,411090,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,416499,416513,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,416554,416570,section_heading,CHAPTER XXXVIII.
+pride_and_prejudice,1342,416573,416587,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,420795,420809,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,422608,422622,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,422666,422680,section_heading,CHAPTER XXXIX.
+pride_and_prejudice,1342,422683,422697,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,431498,431512,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,431517,431528,section_heading,CHAPTER XL.
+pride_and_prejudice,1342,431531,431545,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,439250,439264,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,440826,440840,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,440927,440939,section_heading,CHAPTER XLI.
+pride_and_prejudice,1342,440942,440956,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,448509,448523,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,454060,454074,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,454076,454106,verse_table_or_short_line_insert,The arrival of the Gardiners ]
+pride_and_prejudice,1342,454111,454124,section_heading,CHAPTER XLII.
+pride_and_prejudice,1342,454127,454141,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,464783,464797,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,464840,464854,section_heading,CHAPTER XLIII.
+pride_and_prejudice,1342,464857,464871,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,492400,492414,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,492419,492432,section_heading,CHAPTER XLIV.
+pride_and_prejudice,1342,492435,492449,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,496812,496826,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,505925,505939,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,505975,505987,section_heading,CHAPTER XLV.
+pride_and_prejudice,1342,505990,506004,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,516114,516128,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,516133,516146,section_heading,Chapter XLVI.
+pride_and_prejudice,1342,516149,516163,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,524400,524414,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,533167,533181,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,533240,533254,section_heading,CHAPTER XLVII.
+pride_and_prejudice,1342,533257,533271,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,555729,555743,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,555765,555780,section_heading,CHAPTER XLVIII.
+pride_and_prejudice,1342,555783,555797,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,561778,561792,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,568641,568655,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,568660,568673,section_heading,CHAPTER XLIX.
+pride_and_prejudice,1342,568676,568690,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,571083,571097,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,581239,581253,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,581323,581333,section_heading,CHAPTER L.
+pride_and_prejudice,1342,581336,581350,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,593846,593860,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,593933,593944,section_heading,CHAPTER LI.
+pride_and_prejudice,1342,593947,593961,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,605210,605224,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,605264,605276,section_heading,CHAPTER LII.
+pride_and_prejudice,1342,605279,605293,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,622621,622635,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,622665,622678,section_heading,CHAPTER LIII.
+pride_and_prejudice,1342,622681,622695,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,638810,638824,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,638867,638879,section_heading,CHAPTER LIV.
+pride_and_prejudice,1342,638882,638896,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,646277,646291,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,647800,647814,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,647869,647880,section_heading,CHAPTER LV.
+pride_and_prejudice,1342,647883,647897,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,660904,660918,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,660923,660935,section_heading,CHAPTER LVI.
+pride_and_prejudice,1342,660938,660952,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,664903,664917,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,676407,676421,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,676457,676470,section_heading,CHAPTER LVII.
+pride_and_prejudice,1342,676473,676487,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,685908,685922,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,685992,686006,section_heading,CHAPTER LVIII.
+pride_and_prejudice,1342,686009,686023,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,699707,699721,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,699799,699811,section_heading,CHAPTER LIX.
+pride_and_prejudice,1342,699814,699828,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,713399,713413,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,713484,713495,section_heading,CHAPTER LX.
+pride_and_prejudice,1342,713498,713512,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,722258,722272,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,722277,722289,section_heading,CHAPTER LXI.
+pride_and_prejudice,1342,722292,722306,editorial_or_illustration,[Illustration]
+pride_and_prejudice,1342,729467,729481,editorial_or_illustration,[Illustration:
+pride_and_prejudice,1342,729517,729595,verse_table_or_short_line_insert,THE END ]
+pride_and_prejudice,1342,729613,729711,editorial_or_illustration,"CHISWICK PRESS:--CHARLES WHITTINGHAM AND CO. TOOKS COURT, CHANCERY LANE, LONDON."
+persuasion,105,16347,16358,section_heading,CHAPTER II.
+persuasion,105,27642,27654,section_heading,CHAPTER III.
+persuasion,105,43302,43313,section_heading,CHAPTER IV.
+persuasion,105,53851,53861,section_heading,CHAPTER V.
+persuasion,105,72161,72172,section_heading,CHAPTER VI.
+persuasion,105,93298,93310,section_heading,CHAPTER VII.
+persuasion,105,111772,111785,section_heading,CHAPTER VIII.
+persuasion,105,130177,130188,section_heading,CHAPTER IX.
+persuasion,105,146244,146254,section_heading,CHAPTER X.
+persuasion,105,167763,167774,section_heading,CHAPTER XI.
+persuasion,105,185149,185161,section_heading,CHAPTER XII.
+persuasion,105,215882,215895,section_heading,CHAPTER XIII.
+persuasion,105,231163,231175,section_heading,CHAPTER XIV.
+persuasion,105,245124,245135,section_heading,CHAPTER XV.
+persuasion,105,260849,260861,section_heading,CHAPTER XVI.
+persuasion,105,274469,274482,section_heading,CHAPTER XVII.
+persuasion,105,294192,294206,section_heading,CHAPTER XVIII.
+persuasion,105,316515,316527,section_heading,CHAPTER XIX.
+persuasion,105,329851,329862,section_heading,CHAPTER XX.
+persuasion,105,349413,349425,section_heading,CHAPTER XXI.
+persuasion,105,387443,387456,section_heading,CHAPTER XXII.
+persuasion,105,420212,420226,section_heading,CHAPTER XXIII.
+persuasion,105,437244,437249,uppercase_heading_or_insert,F. W.
+persuasion,105,456664,456677,section_heading,CHAPTER XXIV.
+great_expectations,1400,5503,5517,editorial_or_illustration,[Illustration]
+great_expectations,1400,11442,11453,section_heading,Chapter II.
+great_expectations,1400,29713,29725,section_heading,Chapter III.
+great_expectations,1400,39870,39881,section_heading,Chapter IV.
+great_expectations,1400,58464,58474,section_heading,Chapter V.
+great_expectations,1400,80868,80879,section_heading,Chapter VI.
+great_expectations,1400,84994,85006,section_heading,Chapter VII.
+great_expectations,1400,90256,90270,editorial_or_illustration,[Illustration]
+great_expectations,1400,106380,106393,section_heading,Chapter VIII.
+great_expectations,1400,112531,112545,editorial_or_illustration,[Illustration]
+great_expectations,1400,131550,131561,section_heading,Chapter IX.
+great_expectations,1400,145813,145823,section_heading,Chapter X.
+great_expectations,1400,159387,159398,section_heading,Chapter XI.
+great_expectations,1400,188069,188081,section_heading,Chapter XII.
+great_expectations,1400,200198,200211,section_heading,Chapter XIII.
+great_expectations,1400,215745,215757,section_heading,Chapter XIV.
+great_expectations,1400,220058,220069,section_heading,Chapter XV.
+great_expectations,1400,220442,220594,verse_table_or_short_line_insert,"When I went to Lunnon town sirs, Too rul loo rul Too rul loo rul Wasn’t I done very brown sirs? Too rul loo rul Too rul loo rul"
+great_expectations,1400,234279,234293,editorial_or_illustration,[Illustration]
+great_expectations,1400,243101,243113,section_heading,Chapter XVI.
+great_expectations,1400,253644,253657,section_heading,Chapter XVII.
+great_expectations,1400,271371,271385,section_heading,Chapter XVIII.
+great_expectations,1400,298587,298599,section_heading,Chapter XIX.
+great_expectations,1400,329119,329176,uppercase_heading_or_insert,THIS IS THE END OF THE FIRST STAGE OF PIP’S EXPECTATIONS.
+great_expectations,1400,329181,329192,section_heading,Chapter XX.
+great_expectations,1400,346184,346196,section_heading,Chapter XXI.
+great_expectations,1400,355672,355685,section_heading,Chapter XXII.
+great_expectations,1400,373050,373064,editorial_or_illustration,[Illustration]
+great_expectations,1400,382642,382656,section_heading,Chapter XXIII.
+great_expectations,1400,400325,400338,section_heading,Chapter XXIV.
+great_expectations,1400,412927,412939,section_heading,Chapter XXV.
+great_expectations,1400,428801,428814,section_heading,Chapter XXVI.
+great_expectations,1400,444138,444152,section_heading,Chapter XXVII.
+great_expectations,1400,454608,454622,editorial_or_illustration,[Illustration]
+great_expectations,1400,460400,460415,section_heading,Chapter XXVIII.
+great_expectations,1400,473587,473600,section_heading,Chapter XXIX.
+great_expectations,1400,497772,497786,editorial_or_illustration,[Illustration]
+great_expectations,1400,499740,499752,section_heading,Chapter XXX.
+great_expectations,1400,504717,504731,editorial_or_illustration,[Illustration]
+great_expectations,1400,518014,518027,section_heading,Chapter XXXI.
+great_expectations,1400,529931,529945,section_heading,Chapter XXXII.
+great_expectations,1400,542040,542055,section_heading,Chapter XXXIII.
+great_expectations,1400,556552,556566,section_heading,Chapter XXXIV.
+great_expectations,1400,569459,569472,section_heading,Chapter XXXV.
+great_expectations,1400,585203,585217,editorial_or_illustration,[Illustration]
+great_expectations,1400,585774,585788,section_heading,Chapter XXXVI.
+great_expectations,1400,599555,599570,section_heading,Chapter XXXVII.
+great_expectations,1400,615054,615070,section_heading,Chapter XXXVIII.
+great_expectations,1400,624815,624829,editorial_or_illustration,[Illustration]
+great_expectations,1400,641519,641533,section_heading,Chapter XXXIX.
+great_expectations,1400,666653,666711,uppercase_heading_or_insert,THIS IS THE END OF THE SECOND STAGE OF PIP’S EXPECTATIONS.
+great_expectations,1400,666716,666727,section_heading,Chapter XL.
+great_expectations,1400,694396,694408,section_heading,Chapter XLI.
+great_expectations,1400,705907,705920,section_heading,Chapter XLII.
+great_expectations,1400,719001,719015,editorial_or_illustration,[Illustration]
+great_expectations,1400,721265,721279,section_heading,Chapter XLIII.
+great_expectations,1400,731752,731765,section_heading,Chapter XLIV.
+great_expectations,1400,746703,746717,editorial_or_illustration,[Illustration]
+great_expectations,1400,746996,747008,section_heading,Chapter XLV.
+great_expectations,1400,762943,762956,section_heading,Chapter XLVI.
+great_expectations,1400,779200,779214,section_heading,Chapter XLVII.
+great_expectations,1400,792932,792947,section_heading,Chapter XLVIII.
+great_expectations,1400,807534,807547,section_heading,Chapter XLIX.
+great_expectations,1400,826343,826353,section_heading,Chapter L.
+great_expectations,1400,834378,834389,section_heading,Chapter LI.
+great_expectations,1400,850638,850650,section_heading,Chapter LII.
+great_expectations,1400,861615,861629,editorial_or_illustration,[Illustration]
+great_expectations,1400,861634,861647,section_heading,Chapter LIII.
+great_expectations,1400,868257,868271,editorial_or_illustration,[Illustration]
+great_expectations,1400,888903,888915,section_heading,Chapter LIV.
+great_expectations,1400,919112,919123,section_heading,Chapter LV.
+great_expectations,1400,934526,934538,section_heading,Chapter LVI.
+great_expectations,1400,946167,946180,section_heading,Chapter LVII.
+great_expectations,1400,971577,971591,section_heading,Chapter LVIII.
+great_expectations,1400,987808,987820,section_heading,Chapter LIX.
+oliver_twist,730,12541,12606,section_heading,"CHAPTER II. TREATS OF OLIVER TWIST’S GROWTH, EDUCATION, AND BOARD"
+oliver_twist,730,27786,28113,editorial_or_illustration,"For the combination of both these blessings in the one simple process of picking oakum, Oliver bowed low by the direction of the beadle, and was then hurried away to a large ward; where, on a rough, h"
+oliver_twist,730,34868,34972,section_heading,CHAPTER III. RELATES HOW OLIVER TWIST WAS VERY NEAR GETTING A PLACE WHICH WOULD NOT HAVE BEEN A SINECURE
+oliver_twist,730,52731,52818,section_heading,"CHAPTER IV. OLIVER, BEING OFFERED ANOTHER PLACE, MAKES HIS FIRST ENTRY INTO PUBLIC LIFE"
+oliver_twist,730,67364,67506,section_heading,"CHAPTER V. OLIVER MINGLES WITH NEW ASSOCIATES. GOING TO A FUNERAL FOR THE FIRST TIME, HE FORMS AN UNFAVOURABLE NOTION OF HIS MASTER’S BUSINESS"
+oliver_twist,730,90330,90431,section_heading,"CHAPTER VI. OLIVER, BEING GOADED BY THE TAUNTS OF NOAH, ROUSES INTO ACTION, AND RATHER ASTONISHES HIM"
+oliver_twist,730,100426,100466,section_heading,CHAPTER VII. OLIVER CONTINUES REFRACTORY
+oliver_twist,730,113657,113754,section_heading,CHAPTER VIII. OLIVER WALKS TO LONDON. HE ENCOUNTERS ON THE ROAD A STRANGE SORT OF YOUNG GENTLEMAN
+oliver_twist,730,131612,131716,section_heading,"CHAPTER IX. CONTAINING FURTHER PARTICULARS CONCERNING THE PLEASANT OLD GENTLEMAN, AND HIS HOPEFUL PUPILS"
+oliver_twist,730,144654,144841,section_heading,"CHAPTER X. OLIVER BECOMES BETTER ACQUAINTED WITH THE CHARACTERS OF HIS NEW ASSOCIATES; AND PURCHASES EXPERIENCE AT A HIGH PRICE. BEING A SHORT, BUT VERY IMPORTANT CHAPTER, IN THIS HISTORY"
+oliver_twist,730,154998,155120,section_heading,CHAPTER XI. TREATS OF MR. FANG THE POLICE MAGISTRATE; AND FURNISHES A SLIGHT SPECIMEN OF HIS MODE OF ADMINISTERING JUSTICE
+oliver_twist,730,169853,170018,section_heading,CHAPTER XII. IN WHICH OLIVER IS TAKEN BETTER CARE OF THAN HE EVER WAS BEFORE. AND IN WHICH THE NARRATIVE REVERTS TO THE MERRY OLD GENTLEMAN AND HIS YOUTHFUL FRIENDS.
+oliver_twist,730,189227,189392,section_heading,"CHAPTER XIII. SOME NEW ACQUAINTANCES ARE INTRODUCED TO THE INTELLIGENT READER, CONNECTED WITH WHOM VARIOUS PLEASANT MATTERS ARE RELATED, APPERTAINING TO THIS HISTORY"
+oliver_twist,730,205352,205538,section_heading,"CHAPTER XIV. COMPRISING FURTHER PARTICULARS OF OLIVER’S STAY AT MR. BROWNLOW’S, WITH THE REMARKABLE PREDICTION WHICH ONE MR. GRIMWIG UTTERED CONCERNING HIM, WHEN HE WENT OUT ON AN ERRAND"
+oliver_twist,730,227259,227347,section_heading,"CHAPTER XV. SHOWING HOW VERY FOND OF OLIVER TWIST, THE MERRY OLD JEW AND MISS NANCY WERE"
+oliver_twist,730,240499,240583,section_heading,"CHAPTER XVI. RELATES WHAT BECAME OF OLIVER TWIST, AFTER HE HAD BEEN CLAIMED BY NANCY"
+oliver_twist,730,260250,260359,section_heading,"CHAPTER XVII. OLIVER’S DESTINY CONTINUING UNPROPITIOUS, BRINGS A GREAT MAN TO LONDON TO INJURE HIS REPUTATION"
+oliver_twist,730,278716,278807,section_heading,CHAPTER XVIII. HOW OLIVER PASSED HIS TIME IN THE IMPROVING SOCIETY OF HIS REPUTABLE FRIENDS
+oliver_twist,730,295812,295879,section_heading,CHAPTER XIX. IN WHICH A NOTABLE PLAN IS DISCUSSED AND DETERMINED ON
+oliver_twist,730,314565,314630,section_heading,CHAPTER XX. WHEREIN OLIVER IS DELIVERED OVER TO MR. WILLIAM SIKES
+oliver_twist,730,331032,331059,section_heading,CHAPTER XXI. THE EXPEDITION
+oliver_twist,730,343309,343335,section_heading,CHAPTER XXII. THE BURGLARY
+oliver_twist,730,357263,357427,section_heading,CHAPTER XXIII. WHICH CONTAINS THE SUBSTANCE OF A PLEASANT CONVERSATION BETWEEN MR. BUMBLE AND A LADY; AND SHOWS THAT EVEN A BEADLE MAY BE SUSCEPTIBLE ON SOME POINTS
+oliver_twist,730,372855,372966,section_heading,"CHAPTER XXIV. TREATS ON A VERY POOR SUBJECT, BUT IS A SHORT ONE, AND MAY BE FOUND OF IMPORTANCE IN THIS HISTORY"
+oliver_twist,730,383810,383876,section_heading,CHAPTER XXV. WHEREIN THIS HISTORY REVERTS TO MR. FAGIN AND COMPANY
+oliver_twist,730,396516,396656,section_heading,"CHAPTER XXVI. IN WHICH A MYSTERIOUS CHARACTER APPEARS UPON THE SCENE; AND MANY THINGS, INSEPARABLE FROM THIS HISTORY, ARE DONE AND PERFORMED"
+oliver_twist,730,421733,421840,section_heading,"CHAPTER XXVII. ATONES FOR THE UNPOLITENESS OF A FORMER CHAPTER; WHICH DESERTED A LADY, MOST UNCEREMONIOUSLY"
+oliver_twist,730,436467,436535,section_heading,"CHAPTER XXVIII. LOOKS AFTER OLIVER, AND PROCEEDS WITH HIS ADVENTURES"
+oliver_twist,730,455831,455926,section_heading,"CHAPTER XXIX. HAS AN INTRODUCTORY ACCOUNT OF THE INMATES OF THE HOUSE, TO WHICH OLIVER RESORTED"
+oliver_twist,730,463623,463685,section_heading,CHAPTER XXX. RELATES WHAT OLIVER’S NEW VISITORS THOUGHT OF HIM
+oliver_twist,730,476773,476815,section_heading,CHAPTER XXXI. INVOLVES A CRITICAL POSITION
+oliver_twist,730,499304,499379,section_heading,CHAPTER XXXII. OF THE HAPPY LIFE OLIVER BEGAN TO LEAD WITH HIS KIND FRIENDS
+oliver_twist,730,518042,518133,section_heading,"CHAPTER XXXIII. WHEREIN THE HAPPINESS OF OLIVER AND HIS FRIENDS, EXPERIENCES A SUDDEN CHECK"
+oliver_twist,730,536235,536395,section_heading,CHAPTER XXXIV. CONTAINS SOME INTRODUCTORY PARTICULARS RELATIVE TO A YOUNG GENTLEMAN WHO NOW ARRIVES UPON THE SCENE; AND A NEW ADVENTURE WHICH HAPPENED TO OLIVER
+oliver_twist,730,557063,557204,section_heading,CHAPTER XXXV. CONTAINING THE UNSATISFACTORY RESULT OF OLIVER’S ADVENTURE; AND A CONVERSATION OF SOME IMPORTANCE BETWEEN HARRY MAYLIE AND ROSE
+oliver_twist,730,572635,572842,section_heading,"CHAPTER XXXVI. IS A VERY SHORT ONE, AND MAY APPEAR OF NO GREAT IMPORTANCE IN ITS PLACE, BUT IT SHOULD BE READ NOTWITHSTANDING, AS A SEQUEL TO THE LAST, AND A KEY TO ONE THAT WILL FOLLOW WHEN ITS TIME "
+oliver_twist,730,578181,578275,section_heading,"CHAPTER XXXVII. IN WHICH THE READER MAY PERCEIVE A CONTRAST, NOT UNCOMMON IN MATRIMONIAL CASES"
+oliver_twist,730,598852,598978,section_heading,"CHAPTER XXXVIII. CONTAINING AN ACCOUNT OF WHAT PASSED BETWEEN MR. AND MRS. BUMBLE, AND MR. MONKS, AT THEIR NOCTURNAL INTERVIEW"
+oliver_twist,730,619320,619482,section_heading,"CHAPTER XXXIX. INTRODUCES SOME RESPECTABLE CHARACTERS WITH WHOM THE READER IS ALREADY ACQUAINTED, AND SHOWS HOW MONKS AND THE JEW LAID THEIR WORTHY HEADS TOGETHER"
+oliver_twist,730,648944,649014,section_heading,"CHAPTER XL. A STRANGE INTERVIEW, WHICH IS A SEQUEL TO THE LAST CHAMBER"
+oliver_twist,730,662597,662702,section_heading,"CHAPTER XLI. CONTAINING FRESH DISCOVERIES, AND SHOWING THAT SUPRISES, LIKE MISFORTUNES, SELDOM COME ALONE"
+oliver_twist,730,682812,682939,section_heading,"CHAPTER XLII. AN OLD ACQUAINTANCE OF OLIVER’S, EXHIBITING DECIDED MARKS OF GENIUS, BECOMES A PUBLIC CHARACTER IN THE METROPOLIS"
+oliver_twist,730,703751,703821,section_heading,CHAPTER XLIII. WHEREIN IS SHOWN HOW THE ARTFUL DODGER GOT INTO TROUBLE
+oliver_twist,730,724868,724956,section_heading,CHAPTER XLIV. THE TIME ARRIVES FOR NANCY TO REDEEM HER PLEDGE TO ROSE MAYLIE. SHE FAILS.
+oliver_twist,730,737987,738054,section_heading,CHAPTER XLV. NOAH CLAYPOLE IS EMPLOYED BY FAGIN ON A SECRET MISSION
+oliver_twist,730,744695,744729,section_heading,CHAPTER XLVI. THE APPOINTMENT KEPT
+oliver_twist,730,764355,764388,section_heading,CHAPTER XLVII. FATAL CONSEQUENCES
+oliver_twist,730,778145,778180,section_heading,CHAPTER XLVIII. THE FLIGHT OF SIKES
+oliver_twist,730,797291,797403,section_heading,"CHAPTER XLIX. MONKS AND MR. BROWNLOW AT LENGTH MEET. THEIR CONVERSATION, AND THE INTELLIGENCE THAT INTERRUPTS IT"
+oliver_twist,730,816991,817024,section_heading,CHAPTER L. THE PURSUIT AND ESCAPE
+oliver_twist,730,840487,840632,section_heading,"CHAPTER LI. AFFORDING AN EXPLANATION OF MORE MYSTERIES THAN ONE, AND COMPREHENDING A PROPOSAL OF MARRIAGE WITH NO WORD OF SETTLEMENT OR PIN-MONEY"
+oliver_twist,730,866987,867024,section_heading,CHAPTER LII. FAGIN’S LAST NIGHT ALIVE
+oliver_twist,730,885089,885111,section_heading,CHAPTER LIII. AND LAST
+a_tale_of_two_cities,98,8510,8530,section_heading,CHAPTER II. The Mail
+a_tale_of_two_cities,98,19706,19736,section_heading,CHAPTER III. The Night Shadows
+a_tale_of_two_cities,98,28669,28696,section_heading,CHAPTER IV. The Preparation
+a_tale_of_two_cities,98,53089,53113,section_heading,CHAPTER V. The Wine-shop
+a_tale_of_two_cities,98,76530,76555,section_heading,CHAPTER VI. The Shoemaker
+a_tale_of_two_cities,98,98669,98703,section_heading,Book the Second--the Golden Thread
+a_tale_of_two_cities,98,98708,98735,section_heading,CHAPTER I. Five Years Later
+a_tale_of_two_cities,98,112405,112424,section_heading,CHAPTER II. A Sight
+a_tale_of_two_cities,98,114825,116422,editorial_or_illustration,"They hanged at Tyburn, in those days, so the street outside Newgate had not obtained one infamous notoriety that has since attached to it. But, the gaol was a vile place, in which most kinds of debauc"
+a_tale_of_two_cities,98,125678,125707,section_heading,CHAPTER III. A Disappointment
+a_tale_of_two_cities,98,143954,144879,editorial_or_illustration,"Allowing for my learned friend’s appearance being careless and slovenly if not debauched, they were sufficiently like each other to surprise, not only the witness, but everybody present, when they wer"
+a_tale_of_two_cities,98,153132,153158,section_heading,CHAPTER IV. Congratulatory
+a_tale_of_two_cities,98,165621,165642,section_heading,CHAPTER V. The Jackal
+a_tale_of_two_cities,98,177494,177524,section_heading,CHAPTER VI. Hundreds of People
+a_tale_of_two_cities,98,203190,203222,section_heading,CHAPTER VII. Monseigneur in Town
+a_tale_of_two_cities,98,222358,222398,section_heading,CHAPTER VIII. Monseigneur in the Country
+a_tale_of_two_cities,98,232914,232943,section_heading,CHAPTER IX. The Gorgon’s Head
+a_tale_of_two_cities,98,255703,255726,section_heading,CHAPTER X. Two Promises
+a_tale_of_two_cities,98,271617,271648,section_heading,CHAPTER XI. A Companion Picture
+a_tale_of_two_cities,98,279164,279199,section_heading,CHAPTER XII. The Fellow of Delicacy
+a_tale_of_two_cities,98,293239,293278,section_heading,CHAPTER XIII. The Fellow of No Delicacy
+a_tale_of_two_cities,98,302990,303023,section_heading,CHAPTER XIV. The Honest Tradesman
+a_tale_of_two_cities,98,324990,325010,section_heading,CHAPTER XV. Knitting
+a_tale_of_two_cities,98,348300,348327,section_heading,CHAPTER XVI. Still Knitting
+a_tale_of_two_cities,98,370342,370365,section_heading,CHAPTER XVII. One Night
+a_tale_of_two_cities,98,380576,380600,section_heading,CHAPTER XVIII. Nine Days
+a_tale_of_two_cities,98,393742,393765,section_heading,CHAPTER XIX. An Opinion
+a_tale_of_two_cities,98,405037,405465,editorial_or_illustration,"“The occupation resumed under the influence of this passing affliction so happily recovered from,” said Mr. Lorry, clearing his throat, “we will call--Blacksmith’s work, Blacksmith’s work. We will say"
+a_tale_of_two_cities,98,406819,406894,editorial_or_illustration,"He looked like his illustration, as he raised his eyes to Mr. Lorry’s face."
+a_tale_of_two_cities,98,409232,409250,section_heading,CHAPTER XX. A Plea
+a_tale_of_two_cities,98,416391,416421,section_heading,CHAPTER XXI. Echoing Footsteps
+a_tale_of_two_cities,98,440308,440341,section_heading,CHAPTER XXII. The Sea Still Rises
+a_tale_of_two_cities,98,451767,451792,section_heading,CHAPTER XXIII. Fire Rises
+a_tale_of_two_cities,98,466777,466818,section_heading,CHAPTER XXIV. Drawn to the Loadstone Rock
+a_tale_of_two_cities,98,491455,491491,section_heading,Book the Third--the Track of a Storm
+a_tale_of_two_cities,98,491496,491516,section_heading,CHAPTER I. In Secret
+a_tale_of_two_cities,98,515635,515661,section_heading,CHAPTER II. The Grindstone
+a_tale_of_two_cities,98,529419,529442,section_heading,CHAPTER III. The Shadow
+a_tale_of_two_cities,98,539156,539181,section_heading,CHAPTER IV. Calm in Storm
+a_tale_of_two_cities,98,551066,551092,section_heading,CHAPTER V. The Wood-Sawyer
+a_tale_of_two_cities,98,563807,563826,section_heading,CHAPTER VI. Triumph
+a_tale_of_two_cities,98,577973,578005,section_heading,CHAPTER VII. A Knock at the Door
+a_tale_of_two_cities,98,588389,588418,section_heading,CHAPTER VIII. A Hand at Cards
+a_tale_of_two_cities,98,614429,614454,section_heading,CHAPTER IX. The Game Made
+a_tale_of_two_cities,98,640023,640061,section_heading,CHAPTER X. The Substance of the Shadow
+a_tale_of_two_cities,98,671096,671112,section_heading,CHAPTER XI. Dusk
+a_tale_of_two_cities,98,678829,678850,section_heading,CHAPTER XII. Darkness
+a_tale_of_two_cities,98,696348,696371,section_heading,CHAPTER XIII. Fifty-two
+a_tale_of_two_cities,98,720621,720651,section_heading,CHAPTER XIV. The Knitting Done
+a_tale_of_two_cities,98,746359,746401,section_heading,CHAPTER XV. The Footsteps Die Out For Ever
+the_gold_bug,2147,254388,254611,nonprose_or_cipher,“53‡‡†305))6*;4826)4‡.)4‡);806*;48†8¶60))85;1‡(;:‡*8†83(88)5*† ;46(;88*96*?;8)*‡(;485);5*†2:*‡(;4956*2(5*—4)8¶8*;4069285);) 6†8)4‡‡;1(‡9;48081;8:8‡1;48†85;4)485†528806*81(‡9;48;(88;4(‡?3 4;48)4‡;161;:
+the_gold_bug,2147,257570,258128,verse_table_or_short_line_insert,; “ 26. 4 “ 19. ‡ ) “ 16. * “ 13. 5 “ 12. 6 “ 11. † 1 “ 8. 0 “ 6. 9 2 “ 5. : 3 “ 4. ? “ 3. ¶ “ 2. -. “ 1.
+the_gold_bug,2147,262778,263157,verse_table_or_short_line_insert,5 represents a † “ d 8 “ e 3 “ g 4 “ h 6 “ i * “ n ‡ “ o ( “ r ; “ t ? “ u
+murders_rue_morgue,2147,352239,354745,editorial_or_illustration,"“You will see,” he said, “that I have shifted the question from the mode of egress to that of ingress. It was my design to convey the idea that both were effected in the same manner, at the same point"
+frankenstein,84,32565,32574,section_heading,Chapter 1
+frankenstein,84,42724,42733,section_heading,Chapter 2
+frankenstein,84,55435,55444,section_heading,Chapter 3
+frankenstein,84,70711,70720,section_heading,Chapter 4
+frankenstein,84,85144,85153,section_heading,Chapter 5
+frankenstein,84,90140,90338,verse_table_or_short_line_insert,"Like one who, on a lonely road, Doth walk in fear and dread, And, having once turned round, walks on, And turns no more his head; Because he knows a frightful fiend Doth close behind him tread."
+frankenstein,84,98139,98148,section_heading,Chapter 6
+frankenstein,84,113655,113664,section_heading,Chapter 7
+frankenstein,84,133513,133522,section_heading,Chapter 8
+frankenstein,84,150788,150797,section_heading,Chapter 9
+frankenstein,84,163233,163243,section_heading,Chapter 10
+frankenstein,84,167232,167600,verse_table_or_short_line_insert,"We rest; a dream has power to poison sleep. We rise; one wand’ring thought pollutes the day. We feel, conceive, or reason; laugh or weep, Embrace fond woe, or cast our cares away; It is the same: for,"
+frankenstein,84,176236,176246,section_heading,Chapter 11
+frankenstein,84,192163,192173,section_heading,Chapter 12
+frankenstein,84,204151,204161,section_heading,Chapter 13
+frankenstein,84,215735,215745,section_heading,Chapter 14
+frankenstein,84,226185,226195,section_heading,Chapter 15
+frankenstein,84,243323,243333,section_heading,Chapter 16
+frankenstein,84,260879,260889,section_heading,Chapter 17
+frankenstein,84,271139,271149,section_heading,Chapter 18
+frankenstein,84,285439,285760,verse_table_or_short_line_insert,"——The sounding cataract Haunted him like a passion: the tall rock, The mountain, and the deep and gloomy wood, Their colours and their forms, were then to him An appetite; a feeling, and a love, That "
+frankenstein,84,287319,287329,section_heading,Chapter 19
+frankenstein,84,302140,302150,section_heading,Chapter 20
+frankenstein,84,321180,321190,section_heading,Chapter 21
+frankenstein,84,341639,341649,section_heading,Chapter 22
+frankenstein,84,360679,360689,section_heading,Chapter 23
+frankenstein,84,374725,374735,section_heading,Chapter 24
+the_last_man,18247,35114,35125,section_heading,CHAPTER II.
+the_last_man,18247,69974,69986,section_heading,CHAPTER III.
+the_last_man,18247,93498,93577,verse_table_or_short_line_insert,"Un dia llama à otro dia y asi llama, y encadena llanto à llanto, y pena à pena."
+the_last_man,18247,94597,94608,section_heading,CHAPTER IV.
+the_last_man,18247,103934,104045,verse_table_or_short_line_insert,"A violet by a mossy stone Half hidden from the eye, Fair as a star when only one Is shining in the sky."
+the_last_man,18247,125329,125340,section_heading,CHAPTER IV.
+the_last_man,18247,158658,158668,section_heading,CHAPTER V.
+the_last_man,18247,185705,185716,section_heading,CHAPTER VI.
+the_last_man,18247,218055,218067,section_heading,CHAPTER VII.
+the_last_man,18247,245652,245665,section_heading,CHAPTER VIII.
+the_last_man,18247,286482,286493,section_heading,CHAPTER IX.
+the_last_man,18247,297951,298106,verse_table_or_short_line_insert,"For O, you stood beside me, like my youth, Transformed for me the real to a dream, Cloathing the palpable and familiar With golden exhalations of the dawn."
+the_last_man,18247,325205,325215,section_heading,CHAPTER X.
+the_last_man,18247,349425,349433,uppercase_heading_or_insert,VOL. II.
+the_last_man,18247,349438,349448,section_heading,CHAPTER I.
+the_last_man,18247,383530,383578,note_body,[1] Lord Byron’s Fourth Canto of Childe Harolde.
+the_last_man,18247,383582,383607,note_body,[2] Shakspeare’s Sonnets.
+the_last_man,18247,383612,383623,section_heading,CHAPTER II.
+the_last_man,18247,393321,393461,verse_table_or_short_line_insert,"Cada piedra un piramide levanta, y cada flor costruye un monumento, cada edificio es un sepulcro altivo, cada soldado un esqueleto vivo.”[3]"
+the_last_man,18247,423986,424011,note_body,[3] Calderon de la Barca.
+the_last_man,18247,424016,424028,section_heading,CHAPTER III.
+the_last_man,18247,459250,459261,section_heading,CHAPTER IV.
+the_last_man,18247,483096,483246,note_body,"[4] See an ingenious Essay, entitled, “The Mythological Astronomy of the Ancients Demonstrated,” by Mackey, a shoemaker, of Norwich printed in 1822."
+the_last_man,18247,483250,483299,note_body,[5] Burke’s Reflections on the French Revolution.
+the_last_man,18247,483304,483314,section_heading,CHAPTER V.
+the_last_man,18247,503633,503674,note_body,[6]Elton’s translation of Hesiod’s Works.
+the_last_man,18247,503679,503690,section_heading,CHAPTER VI.
+the_last_man,18247,541412,541438,note_body,[7] Shakespeare’s Sonnets.
+the_last_man,18247,541443,541455,section_heading,CHAPTER VII.
+the_last_man,18247,544193,544276,verse_table_or_short_line_insert,"la fortuna deidad barbara importuna, oy cadaver y ayer flor, no permanece jamas![8]"
+the_last_man,18247,561032,561304,verse_table_or_short_line_insert,"Yet I would not call _them_ Voices of warning, that announce to us Only the inevitable. As the sun, Ere it is risen, sometimes paints its image In the atmosphere—so often do the spirits Of great event"
+the_last_man,18247,561308,561333,note_body,[8] Calderon de la Barca.
+the_last_man,18247,561337,561391,note_body,[9] Coleridge’s Translation of Schiller’s Wallenstein.
+the_last_man,18247,561396,561409,section_heading,CHAPTER VIII.
+the_last_man,18247,568668,568764,verse_table_or_short_line_insert,Pisando la tierra dura de continuo el hombre està y cada passo que dà es sobre su sepultura.[10]
+the_last_man,18247,597135,597253,verse_table_or_short_line_insert,"All my pretty ones? Did you say all?—O hell kite! All? What! all my pretty chickens, and their dam, At one fell swoop!"
+the_last_man,18247,615840,615929,verse_table_or_short_line_insert,"Whose narrow fire Is shaken by the wind, and on whose edge Devouring darkness hovers.[14]"
+the_last_man,18247,621177,621203,note_body,[10] Calderon de la Barca.
+the_last_man,18247,621207,621227,note_body,[11] [2] Wordsworth.
+the_last_man,18247,621231,621242,note_body,[12] Keats.
+the_last_man,18247,621246,621266,note_body,[13] Andrew Marvell.
+the_last_man,18247,621270,621284,note_body,[14] The Cenci
+the_last_man,18247,621288,621336,note_body,"[15] The Brides’ Tragedy, by T. L. Beddoes, Esq."
+the_last_man,18247,621341,621352,section_heading,CHAPTER IX.
+the_last_man,18247,664020,664190,verse_table_or_short_line_insert,Does not the sun call in his light? and day Like a thin exhalation melt away— Both wrapping up their beams in clouds to be Themselves close mourners at this obsequie.[18]
+the_last_man,18247,664194,664210,note_body,[16] Wordsworth.
+the_last_man,18247,664214,664237,note_body,[17] Prior’s “Solomon.”
+the_last_man,18247,664241,664264,note_body,[18] Cleveland’s Poems.
+the_last_man,18247,664269,664278,uppercase_heading_or_insert,VOL. III.
+the_last_man,18247,664283,664293,section_heading,CHAPTER I.
+the_last_man,18247,685014,685049,note_body,[19] Elton’s translation of Hesiod.
+the_last_man,18247,685053,685076,note_body,[20] Cleveland’s Poems.
+the_last_man,18247,685081,685092,section_heading,CHAPTER II.
+the_last_man,18247,722796,722808,section_heading,CHAPTER III.
+the_last_man,18247,745082,745152,verse_table_or_short_line_insert,"“Your unhappy and dutiful servant, LUCY MARTIN.” “_Dec_. 30_th_, 2097."
+the_last_man,18247,766906,766917,section_heading,CHAPTER IV.
+the_last_man,18247,789327,789547,verse_table_or_short_line_insert,"As an unsheltered northern shore Is shaken by the wintry wave— And frequent storms for evermore, (While from the west the loud winds rave, Or from the east, or mountains hoar) The struck and tott’ring"
+the_last_man,18247,812332,812363,note_body,[21] Chorus in Œdipus Coloneus.
+the_last_man,18247,812368,812378,section_heading,CHAPTER V.
+the_last_man,18247,835712,835723,section_heading,CHAPTER VI.
+the_last_man,18247,849320,849448,verse_table_or_short_line_insert,"Through the flesh that wastes away Beneath the parching sun, the whitening bones Start forth, and moulder in the sable dust.[23]"
+the_last_man,18247,865726,865756,note_body,[22] Shakespeare—Julius Cæsar.
+the_last_man,18247,865760,865818,note_body,[23] Elton’s Translation of Hesiod’s “Shield of Hercules.”
+the_last_man,18247,865823,865835,section_heading,CHAPTER VII.
+the_last_man,18247,898134,898184,note_body,[24] Burke’s Reflections on the French Revolution.
+the_last_man,18247,898189,898202,section_heading,CHAPTER VIII.
+the_last_man,18247,927995,928042,note_body,[25] Mary Wollstonecraft’s Letters from Norway.
+the_last_man,18247,928046,928066,note_body,[26] Solomon’s Song.
+the_last_man,18247,928071,928082,section_heading,CHAPTER IX.
+the_last_man,18247,935293,935395,verse_table_or_short_line_insert,"But when the roar Of ocean’s gray abyss resounds, and foam Gathers upon the sea, and vast waves burst—"
+the_last_man,18247,957694,957704,section_heading,CHAPTER X.
+the_last_man,18247,992390,992497,verse_table_or_short_line_insert,"DEDICATION TO THE ILLUSTRIOUS DEAD. SHADOWS, ARISE, AND READ YOUR FALL! BEHOLD THE HISTORY OF THE LAST MAN."
+the_last_man,18247,1000780,1000788,uppercase_heading_or_insert,THE END.
+mathilda,15238,42330,42340,section_heading,CHAPTER II
+mathilda,15238,51724,51735,section_heading,CHAPTER III
+mathilda,15238,64431,64441,section_heading,CHAPTER IV
+mathilda,15238,67543,67705,verse_table_or_short_line_insert,"------ for what should I do here, Like a decaying flower, still withering Under his bitter words, whose kindly heat Should give my poor heart life?[C]"
+mathilda,15238,81602,81611,section_heading,CHAPTER V
+mathilda,15238,94427,94437,section_heading,CHAPTER VI
+mathilda,15238,103465,103476,section_heading,CHAPTER VII
+mathilda,15238,124757,124769,section_heading,CHAPTER VIII
+mathilda,15238,141330,141340,section_heading,CHAPTER IX
+mathilda,15238,154572,154581,section_heading,CHAPTER X
+mathilda,15238,171335,171345,section_heading,CHAPTER XI
+mathilda,15238,186633,186644,section_heading,CHAPTER XII
+mathilda,15238,189791,189891,verse_table_or_short_line_insert,"---- bruna, bruna, Sotto l’ombra perpetua, che mai Raggiar non lascia sole ivi, nè Luna.[76]"
+huckleberry_finn,76,16219,16230,section_heading,CHAPTER II.
+huckleberry_finn,76,28246,28258,section_heading,CHAPTER III.
+huckleberry_finn,76,36798,36809,section_heading,CHAPTER IV.
+huckleberry_finn,76,43629,43639,section_heading,CHAPTER V.
+huckleberry_finn,76,51824,51835,section_heading,CHAPTER VI.
+huckleberry_finn,76,66379,66391,section_heading,CHAPTER VII.
+huckleberry_finn,76,79626,79639,section_heading,CHAPTER VIII.
+huckleberry_finn,76,101914,101925,section_heading,CHAPTER IX.
+huckleberry_finn,76,110017,110027,section_heading,CHAPTER X.
+huckleberry_finn,76,117079,117090,section_heading,CHAPTER XI.
+huckleberry_finn,76,131584,131596,section_heading,CHAPTER XII.
+huckleberry_finn,76,146301,146314,section_heading,CHAPTER XIII.
+huckleberry_finn,76,156595,156607,section_heading,CHAPTER XIV.
+huckleberry_finn,76,164281,164292,section_heading,CHAPTER XV.
+huckleberry_finn,76,176391,176403,section_heading,CHAPTER XVI.
+huckleberry_finn,76,193484,193497,section_heading,CHAPTER XVII.
+huckleberry_finn,76,207308,207342,uppercase_heading_or_insert,"ODE TO STEPHEN DOWLING BOTS, DEC’D"
+huckleberry_finn,76,207344,207466,verse_table_or_short_line_insert,"And did young Stephen sicken, And did young Stephen die? And did the sad hearts thicken, And did the mourners cry?"
+huckleberry_finn,76,207468,207603,verse_table_or_short_line_insert,"No; such was not the fate of Young Stephen Dowling Bots; Though sad hearts round him thickened, ’Twas not from sickness’ shots."
+huckleberry_finn,76,207605,207740,verse_table_or_short_line_insert,"No whooping-cough did rack his frame, Nor measles drear with spots; Not these impaired the sacred name Of Stephen Dowling Bots."
+huckleberry_finn,76,207742,207872,verse_table_or_short_line_insert,"Despised love struck not with woe That head of curly knots, Nor stomach troubles laid him low, Young Stephen Dowling Bots."
+huckleberry_finn,76,207874,208004,verse_table_or_short_line_insert,"O no. Then list with tearful eye, Whilst I his fate do tell. His soul did from this cold world fly By falling down a well."
+huckleberry_finn,76,208006,208145,verse_table_or_short_line_insert,They got him out and emptied him; Alas it was too late; His spirit was gone for to sport aloft In the realms of the good and great.
+huckleberry_finn,76,210774,210788,section_heading,CHAPTER XVIII.
+huckleberry_finn,76,234863,234875,section_heading,CHAPTER XIX.
+huckleberry_finn,76,252137,252148,section_heading,CHAPTER XX.
+huckleberry_finn,76,270512,270524,section_heading,CHAPTER XXI.
+huckleberry_finn,76,276310,276420,nonprose_or_cipher,Romeo...................................... Mr. Garrick. Juliet..................................... Mr. Kean.
+huckleberry_finn,76,276515,276604,verse_table_or_short_line_insert,"Also: The thrilling, masterly, and blood-curdling Broad-sword conflict In Richard III.!!!"
+huckleberry_finn,76,276606,276716,nonprose_or_cipher,Richard III................................ Mr. Garrick. Richmond................................... Mr. Kean.
+huckleberry_finn,76,276718,276965,verse_table_or_short_line_insert,"also: (by special request,) Hamlet’s Immortal Soliloquy!! By the Illustrious Kean! Done by him 300 consecutive nights in Paris! For One Night Only, On account of imperative European engagements! Admis"
+huckleberry_finn,76,289721,289734,section_heading,CHAPTER XXII.
+huckleberry_finn,76,300164,300429,verse_table_or_short_line_insert,"AT THE COURT HOUSE! FOR 3 NIGHTS ONLY! _The World-Renowned Tragedians_ DAVID GARRICK THE YOUNGER! AND EDMUND KEAN THE ELDER! _Of the London and Continental Theatres_, In their Thrilling Tragedy of THE"
+huckleberry_finn,76,300491,300524,uppercase_heading_or_insert,LADIES AND CHILDREN NOT ADMITTED.
+huckleberry_finn,76,300603,300617,section_heading,CHAPTER XXIII.
+huckleberry_finn,76,312085,312098,section_heading,CHAPTER XXIV.
+huckleberry_finn,76,324173,324185,section_heading,CHAPTER XXV.
+huckleberry_finn,76,339175,339188,section_heading,CHAPTER XXVI.
+huckleberry_finn,76,353974,353988,section_heading,CHAPTER XXVII.
+huckleberry_finn,76,367631,367646,section_heading,CHAPTER XXVIII.
+huckleberry_finn,76,386042,386055,section_heading,CHAPTER XXIX.
+huckleberry_finn,76,405153,405165,section_heading,CHAPTER XXX.
+huckleberry_finn,76,411331,411344,section_heading,CHAPTER XXXI.
+huckleberry_finn,76,429899,429913,section_heading,CHAPTER XXXII.
+huckleberry_finn,76,441704,441719,section_heading,CHAPTER XXXIII.
+huckleberry_finn,76,455227,455241,section_heading,CHAPTER XXXIV.
+huckleberry_finn,76,466282,466295,section_heading,CHAPTER XXXV.
+huckleberry_finn,76,480064,480078,section_heading,CHAPTER XXXVI.
+huckleberry_finn,76,490901,490916,section_heading,CHAPTER XXXVII.
+huckleberry_finn,76,504057,504073,section_heading,CHAPTER XXXVIII.
+huckleberry_finn,76,516915,516929,section_heading,CHAPTER XXXIX.
+huckleberry_finn,76,527829,527843,uppercase_heading_or_insert,UNKNOWN FRIEND
+huckleberry_finn,76,527848,527859,section_heading,CHAPTER XL.
+huckleberry_finn,76,539441,539453,section_heading,CHAPTER XLI.
+huckleberry_finn,76,552900,552913,section_heading,CHAPTER XLII.
+huckleberry_finn,76,568709,568725,section_heading,CHAPTER THE LAST
+tom_sawyer,74,20449,20459,section_heading,CHAPTER II
+tom_sawyer,74,30932,30943,section_heading,CHAPTER III
+tom_sawyer,74,43202,43212,section_heading,CHAPTER IV
+tom_sawyer,74,62237,62246,section_heading,CHAPTER V
+tom_sawyer,74,72911,72921,section_heading,CHAPTER VI
+tom_sawyer,74,92092,92103,section_heading,CHAPTER VII
+tom_sawyer,74,102179,102191,section_heading,CHAPTER VIII
+tom_sawyer,74,111952,111962,section_heading,CHAPTER IX
+tom_sawyer,74,123708,123717,section_heading,CHAPTER X
+tom_sawyer,74,135006,135016,section_heading,CHAPTER XI
+tom_sawyer,74,143304,143315,section_heading,CHAPTER XII
+tom_sawyer,74,152559,152571,section_heading,CHAPTER XIII
+tom_sawyer,74,166163,166174,section_heading,CHAPTER XIV
+tom_sawyer,74,177770,177780,section_heading,CHAPTER XV
+tom_sawyer,74,186944,186955,section_heading,CHAPTER XVI
+tom_sawyer,74,204564,204576,section_heading,CHAPTER XVII
+tom_sawyer,74,211022,211035,section_heading,CHAPTER XVIII
+tom_sawyer,74,226555,226566,section_heading,CHAPTER XIX
+tom_sawyer,74,230531,230541,section_heading,CHAPTER XX
+tom_sawyer,74,239735,239746,section_heading,CHAPTER XXI
+tom_sawyer,74,247586,247953,verse_table_or_short_line_insert,"“Alabama, goodbye! I love thee well! But yet for a while do I leave thee now! Sad, yes, sad thoughts of thee my heart doth swell, And burning recollections throng my brow! For I have wandered through "
+tom_sawyer,74,248658,248666,uppercase_heading_or_insert,A VISION
+tom_sawyer,74,252439,252451,section_heading,CHAPTER XXII
+tom_sawyer,74,258060,258073,section_heading,CHAPTER XXIII
+tom_sawyer,74,268970,268982,section_heading,CHAPTER XXIV
+tom_sawyer,74,271238,271249,section_heading,CHAPTER XXV
+tom_sawyer,74,282495,282507,section_heading,CHAPTER XXVI
+tom_sawyer,74,296968,296981,section_heading,CHAPTER XXVII
+tom_sawyer,74,302063,302077,section_heading,CHAPTER XXVIII
+tom_sawyer,74,307864,307876,section_heading,CHAPTER XXIX
+tom_sawyer,74,322014,322025,section_heading,CHAPTER XXX
+tom_sawyer,74,338621,338633,section_heading,CHAPTER XXXI
+tom_sawyer,74,355005,355018,section_heading,CHAPTER XXXII
+tom_sawyer,74,360615,360629,section_heading,CHAPTER XXXIII
+tom_sawyer,74,378736,378749,section_heading,CHAPTER XXXIV
+tom_sawyer,74,383516,383528,section_heading,CHAPTER XXXV
+tom_sawyer,74,392956,392966,section_heading,CONCLUSION
+connecticut_yankee,86,5470,5527,uppercase_heading_or_insert,"HOW SIR LAUNCELOT SLEW TWO GIANTS, AND MADE A CASTLE FREE"
+connecticut_yankee,86,10630,10652,uppercase_heading_or_insert,THE STRANGER'S HISTORY
+connecticut_yankee,86,15423,15448,uppercase_heading_or_insert,THE TALE OF THE LOST LAND
+connecticut_yankee,86,15453,15471,section_heading,CHAPTER I. CAMELOT
+connecticut_yankee,86,19888,19898,section_heading,CHAPTER II
+connecticut_yankee,86,19900,19919,uppercase_heading_or_insert,KING ARTHUR'S COURT
+connecticut_yankee,86,30872,30883,section_heading,CHAPTER III
+connecticut_yankee,86,30885,30911,uppercase_heading_or_insert,KNIGHTS OF THE TABLE ROUND
+connecticut_yankee,86,42350,42360,section_heading,CHAPTER IV
+connecticut_yankee,86,42362,42386,uppercase_heading_or_insert,SIR DINADAN THE HUMORIST
+connecticut_yankee,86,48620,48629,section_heading,CHAPTER V
+connecticut_yankee,86,48631,48645,uppercase_heading_or_insert,AN INSPIRATION
+connecticut_yankee,86,58970,58980,section_heading,CHAPTER VI
+connecticut_yankee,86,58982,58993,uppercase_heading_or_insert,THE ECLIPSE
+connecticut_yankee,86,71548,71559,section_heading,CHAPTER VII
+connecticut_yankee,86,71561,71575,uppercase_heading_or_insert,MERLIN'S TOWER
+connecticut_yankee,86,84499,84511,section_heading,CHAPTER VIII
+connecticut_yankee,86,84513,84521,uppercase_heading_or_insert,THE BOSS
+connecticut_yankee,86,96692,96702,section_heading,CHAPTER IX
+connecticut_yankee,86,96704,96718,uppercase_heading_or_insert,THE TOURNAMENT
+connecticut_yankee,86,109149,109158,section_heading,CHAPTER X
+connecticut_yankee,86,109160,109186,uppercase_heading_or_insert,BEGINNINGS OF CIVILIZATION
+connecticut_yankee,86,118204,118214,section_heading,CHAPTER XI
+connecticut_yankee,86,118216,118250,uppercase_heading_or_insert,THE YANKEE IN SEARCH OF ADVENTURES
+connecticut_yankee,86,133695,133706,section_heading,CHAPTER XII
+connecticut_yankee,86,133708,133720,uppercase_heading_or_insert,SLOW TORTURE
+connecticut_yankee,86,142727,142739,section_heading,CHAPTER XIII
+connecticut_yankee,86,142750,143979,editorial_or_illustration,"Yes, it is strange how little a while at a time a person can be contented. Only a little while back, when I was riding and suffering, what a heaven this peace, this rest, this sweet serenity in this s"
+connecticut_yankee,86,159647,159658,section_heading,CHAPTER XIV
+connecticut_yankee,86,167412,167422,section_heading,CHAPTER XV
+connecticut_yankee,86,167424,167436,uppercase_heading_or_insert,SANDY'S TALE
+connecticut_yankee,86,174445,174458,uppercase_heading_or_insert,. . . .
+connecticut_yankee,86,183368,183379,section_heading,CHAPTER XVI
+connecticut_yankee,86,183381,183394,uppercase_heading_or_insert,MORGAN LE FAY
+connecticut_yankee,86,196261,196273,section_heading,CHAPTER XVII
+connecticut_yankee,86,196275,196290,uppercase_heading_or_insert,A ROYAL BANQUET
+connecticut_yankee,86,213557,213570,section_heading,CHAPTER XVIII
+connecticut_yankee,86,213572,213595,uppercase_heading_or_insert,IN THE QUEEN'S DUNGEONS
+connecticut_yankee,86,235216,235227,section_heading,CHAPTER XIX
+connecticut_yankee,86,235229,235255,uppercase_heading_or_insert,KNIGHT-ERRANTRY AS A TRADE
+connecticut_yankee,86,241568,241578,section_heading,CHAPTER XX
+connecticut_yankee,86,241580,241597,uppercase_heading_or_insert,THE OGRE'S CASTLE
+connecticut_yankee,86,255717,255728,section_heading,CHAPTER XXI
+connecticut_yankee,86,255730,255742,uppercase_heading_or_insert,THE PILGRIMS
+connecticut_yankee,86,279837,279849,section_heading,CHAPTER XXII
+connecticut_yankee,86,279851,279868,uppercase_heading_or_insert,THE HOLY FOUNTAIN
+connecticut_yankee,86,300629,300642,section_heading,CHAPTER XXIII
+connecticut_yankee,86,300644,300671,uppercase_heading_or_insert,RESTORATION OF THE FOUNTAIN
+connecticut_yankee,86,315828,315840,section_heading,CHAPTER XXIV
+connecticut_yankee,86,315842,315858,uppercase_heading_or_insert,A RIVAL MAGICIAN
+connecticut_yankee,86,336115,336126,section_heading,CHAPTER XXV
+connecticut_yankee,86,336128,336153,uppercase_heading_or_insert,A COMPETITIVE EXAMINATION
+connecticut_yankee,86,359957,359969,section_heading,CHAPTER XXVI
+connecticut_yankee,86,359971,359990,uppercase_heading_or_insert,THE FIRST NEWSPAPER
+connecticut_yankee,86,370114,370138,uppercase_heading_or_insert,HIGH TIMES IN THE VALLEY
+connecticut_yankee,86,371487,371511,uppercase_heading_or_insert,LOCAL SMOKE AND CINDERS.
+connecticut_yankee,86,371516,371705,verse_table_or_short_line_insert,Sir Launcelot met up with old King Agrivance of Ireland unexpectedly last weok over on the moor south of Sir Balmoral le Merveilleuse's hog dasture. The widow has been notified.
+connecticut_yankee,86,371710,372135,verse_table_or_short_line_insert,"Expedition No. 3 will start adout the first of mext month on a search f8r Sir Sagramour le Desirous. It is in com- and of the renowned Knight of the Red Lawns, assissted by Sir Persant of Inde, who is"
+connecticut_yankee,86,372140,372467,verse_table_or_short_line_insert,"The readers of the Hosannah will re- gret to learn that the hadndsome and popular Sir Charolais of Gaul, who dur- ing his four weeks' stay at the Bull and Halibut, this city, has won every heart by hi"
+connecticut_yankee,86,372472,372916,verse_table_or_short_line_insert,"The bdsiness end of the funeral of the late Sir Dalliance the duke's son of Cornwall, killed in an encounter with the Giant of the Knotted Bludgeon last Tuesday on the borders of the Plain of Enchantm"
+connecticut_yankee,86,372921,373379,verse_table_or_short_line_insert,"The cordial thanks of the Hosannah office are due, from editor down to devil, to the ever courteous and thought- ful Lord High Stew d of the Palace's Third Assistant V t for several sau- ceTs of ice c"
+connecticut_yankee,86,373384,373539,verse_table_or_short_line_insert,"The Demoiselle Irene Dewlap, of South Astolat, is visiting her uncle, the popular host of the Cattlemen's Board- ing Ho&se, Liver Lane, this city."
+connecticut_yankee,86,373544,373691,verse_table_or_short_line_insert,"Young Barker the bellows-mender is hoMe again, and looks much improved by his vacation round-up among the out- lying smithies. See his ad."
+connecticut_yankee,86,374843,374858,uppercase_heading_or_insert,COURT CIRCULAR.
+connecticut_yankee,86,374863,375133,verse_table_or_short_line_insert,"On Monday, the king rode in the park. “ Tuesday, “ “ ” “ Wendesday “ “ ” “ Thursday “ “ ” “ Friday, “ “ ” “ Saturday “ “ ” “ Sunday, “ “ ”"
+connecticut_yankee,86,378975,378988,section_heading,CHAPTER XXVII
+connecticut_yankee,86,378990,379030,uppercase_heading_or_insert,THE YANKEE AND THE KING TRAVEL INCOGNITO
+connecticut_yankee,86,394802,394816,section_heading,CHAPTER XXVIII
+connecticut_yankee,86,394818,394835,uppercase_heading_or_insert,DRILLING THE KING
+connecticut_yankee,86,402937,402949,section_heading,CHAPTER XXIX
+connecticut_yankee,86,402951,402967,uppercase_heading_or_insert,THE SMALLPOX HUT
+connecticut_yankee,86,415214,415225,section_heading,CHAPTER XXX
+connecticut_yankee,86,415227,415257,uppercase_heading_or_insert,THE TRAGEDY OF THE MANOR-HOUSE
+connecticut_yankee,86,434548,434560,section_heading,CHAPTER XXXI
+connecticut_yankee,86,448609,448622,section_heading,CHAPTER XXXII
+connecticut_yankee,86,448624,448644,uppercase_heading_or_insert,DOWLEY'S HUMILIATION
+connecticut_yankee,86,457609,458611,verse_table_or_short_line_insert,"2 pounds salt . . . . . . . . . . . . . . 200 8 dozen pints beer, in the wood . . . . . 800 3 bushels wheat . . . . . . . . . . . . . 2,700 2 pounds fish . . . . . . . . . . . . . . 100 3 hens . . . ."
+connecticut_yankee,86,461554,461568,section_heading,CHAPTER XXXIII
+connecticut_yankee,86,461570,461601,uppercase_heading_or_insert,SIXTH CENTURY POLITICAL ECONOMY
+connecticut_yankee,86,469739,469886,verse_table_or_short_line_insert,“1 pound of salt; 1 dozen eggs; 1 dozen pints of beer; 1 bushel of wheat; 1 tow-linen suit; 5 pounds of beef; 5 pounds of mutton.
+connecticut_yankee,86,483419,483432,section_heading,CHAPTER XXXIV
+connecticut_yankee,86,483434,483472,uppercase_heading_or_insert,THE YANKEE AND THE KING SOLD AS SLAVES
+connecticut_yankee,86,505436,505448,section_heading,CHAPTER XXXV
+connecticut_yankee,86,505450,505468,uppercase_heading_or_insert,A PITIFUL INCIDENT
+connecticut_yankee,86,520195,520208,section_heading,CHAPTER XXXVI
+connecticut_yankee,86,520210,520234,uppercase_heading_or_insert,AN ENCOUNTER IN THE DARK
+connecticut_yankee,86,527824,527838,section_heading,CHAPTER XXXVII
+connecticut_yankee,86,527840,527860,uppercase_heading_or_insert,AN AWFUL PREDICAMENT
+connecticut_yankee,86,541572,541587,section_heading,CHAPTER XXXVIII
+connecticut_yankee,86,541589,541628,uppercase_heading_or_insert,SIR LAUNCELOT AND KNIGHTS TO THE RESCUE
+connecticut_yankee,86,546399,546412,section_heading,CHAPTER XXXIX
+connecticut_yankee,86,546414,546449,uppercase_heading_or_insert,THE YANKEE'S FIGHT WITH THE KNIGHTS
+connecticut_yankee,86,546707,546721,uppercase_heading_or_insert,DE PAR LE ROI.
+connecticut_yankee,86,546727,547233,verse_table_or_short_line_insert,"Know that the great lord and illus- trious Knight, SIR SAGRAMOR LE DESIROUS having condescended to meet the King’s Minister, Hank Mor- gan, the which is surnamed The Boss, for satisfgction of offence "
+connecticut_yankee,86,547248,547261,uppercase_heading_or_insert,DE PAR LE ROI
+connecticut_yankee,86,547335,548780,verse_table_or_short_line_insert,"It will be observed, by a gl7nce at our advertising columns, that the commu- nity is to be favored with a treat of un- usual interest in the tournament line. The n ames of the artists are warrant of g"
+connecticut_yankee,86,548790,548953,verse_table_or_short_line_insert,"N.B. This is the first tournament under the new law, whidh allow each combatant to use any weapon he may pre- fer. You may want to make a note of that."
+connecticut_yankee,86,566259,566269,section_heading,CHAPTER XL
+connecticut_yankee,86,566271,566288,uppercase_heading_or_insert,THREE YEARS LATER
+connecticut_yankee,86,580761,580796,uppercase_heading_or_insert,BESSEMERS ULSTERS
+connecticut_yankee,86,581559,581570,section_heading,CHAPTER XLI
+connecticut_yankee,86,581572,581585,uppercase_heading_or_insert,THE INTERDICT
+connecticut_yankee,86,589535,589547,section_heading,CHAPTER XLII
+connecticut_yankee,86,611500,611513,section_heading,CHAPTER XLIII
+connecticut_yankee,86,611515,611542,uppercase_heading_or_insert,THE BATTLE OF THE SAND BELT
+connecticut_yankee,86,622555,622564,uppercase_heading_or_insert,THE BOSS.
+connecticut_yankee,86,637597,637609,section_heading,CHAPTER XLIV
+connecticut_yankee,86,637611,637635,uppercase_heading_or_insert,A POSTSCRIPT BY CLARENCE
+connecticut_yankee,86,641137,641162,uppercase_heading_or_insert,THE END OF THE MANUSCRIPT
+connecticut_yankee,86,641168,641186,uppercase_heading_or_insert,FINAL P.S. BY M.T.
+dorian_gray,174,30028,30039,section_heading,CHAPTER II.
+dorian_gray,174,60278,60290,section_heading,CHAPTER III.
+dorian_gray,174,84997,85008,section_heading,CHAPTER IV.
+dorian_gray,174,115130,115140,section_heading,CHAPTER V.
+dorian_gray,174,138626,138637,section_heading,CHAPTER VI.
+dorian_gray,174,154056,154068,section_heading,CHAPTER VII.
+dorian_gray,174,159790,160088,verse_table_or_short_line_insert,"Although I joy in thee, I have no joy of this contract to-night: It is too rash, too unadvised, too sudden; Too like the lightning, which doth cease to be Ere one can say, “It lightens.” Sweet, good-n"
+dorian_gray,174,178048,178061,section_heading,CHAPTER VIII.
+dorian_gray,174,206464,206475,section_heading,CHAPTER IX.
+dorian_gray,174,227019,227029,section_heading,CHAPTER X.
+dorian_gray,174,244565,244576,section_heading,CHAPTER XI.
+dorian_gray,174,286425,286437,section_heading,CHAPTER XII.
+dorian_gray,174,300943,300956,section_heading,CHAPTER XIII.
+dorian_gray,174,314364,314376,section_heading,CHAPTER XIV.
+dorian_gray,174,318479,318607,verse_table_or_short_line_insert,"Sur une gamme chromatique, Le sein de perles ruisselant, La Vénus de l’Adriatique Sort de l’eau son corps rose et blanc."
+dorian_gray,174,318609,318747,verse_table_or_short_line_insert,"Les dômes, sur l’azur des ondes Suivant la phrase au pur contour, S’enflent comme des gorges rondes Que soulève un soupir d’amour."
+dorian_gray,174,318749,318868,verse_table_or_short_line_insert,"L’esquif aborde et me dépose, Jetant son amarre au pilier, Devant une façade rose, Sur le marbre d’un escalier."
+dorian_gray,174,338840,338851,section_heading,CHAPTER XV.
+dorian_gray,174,356254,356266,section_heading,CHAPTER XVI.
+dorian_gray,174,373034,373047,section_heading,CHAPTER XVII.
+dorian_gray,174,383194,383208,section_heading,CHAPTER XVIII.
+dorian_gray,174,400965,400977,section_heading,CHAPTER XIX.
+dorian_gray,174,420025,420036,section_heading,CHAPTER XX.
+dorian_gray,174,430187,430194,uppercase_heading_or_insert,THE END
+lord_arthur_saviles_crime,773,22121,22252,verse_table_or_short_line_insert,_Mr. SEPTIMUS R. PODGERS_ _Professional Cheiromantist_ 103_a_ _West Moon Street_
+lord_arthur_saviles_crime,773,22838,22848,section_heading,CHAPTER II
+lord_arthur_saviles_crime,773,28723,28734,section_heading,CHAPTER III
+lord_arthur_saviles_crime,773,43700,43710,section_heading,CHAPTER IV
+lord_arthur_saviles_crime,773,49425,49434,section_heading,CHAPTER V
+lord_arthur_saviles_crime,773,63884,63895,uppercase_heading_or_insert,JANE PERCY.
+lord_arthur_saviles_crime,773,69129,69156,uppercase_heading_or_insert,SUICIDE OF A CHEIROMANTIST.
+lord_arthur_saviles_crime,773,70567,70577,section_heading,CHAPTER VI
+canterville_ghost,773,81854,81864,section_heading,CHAPTER II
+canterville_ghost,773,88609,88620,section_heading,CHAPTER III
+canterville_ghost,773,100142,100156,uppercase_heading_or_insert,YE OLDE GHOSTE
+canterville_ghost,773,100180,100320,verse_table_or_short_line_insert,Ye Onlie True and Originale Spook. Beware of Ye Imitationes. All others are Counterfeite.
+canterville_ghost,773,101629,101639,section_heading,CHAPTER IV
+canterville_ghost,773,111273,111282,section_heading,CHAPTER V
+canterville_ghost,773,118072,118287,verse_table_or_short_line_insert,"When a golden girl can win Prayer from out the lips of sin, When the barren almond bears, And a little child gives away its tears, Then shall all the house be still And peace come to Canterville."
+canterville_ghost,773,120270,120280,section_heading,CHAPTER VI
+canterville_ghost,773,128595,128606,section_heading,CHAPTER VII

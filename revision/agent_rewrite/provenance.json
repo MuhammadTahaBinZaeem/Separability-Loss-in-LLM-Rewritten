@@ -1,0 +1,22 @@
+{
+  "errors": [
+    "unchanged output 29b4f33c1fff38738f7dd9b2",
+    "unchanged output 715e5882a3d66c27a982423c",
+    "unchanged output a06b40a957bb86463be80d7f",
+    "unchanged output c29999afeb5b5955b0ff901b"
+  ],
+  "expected": 54,
+  "limitations": [
+    "Multiple passages shared a persistent agent context.",
+    "No API sampling parameters, provider response IDs or token counts are available.",
+    "Samples were requested from an earlier source-review draft; only exact final-source hash matches can enter a supplemental comparison.",
+    "These outputs are model-generated text, not independent human annotations."
+  ],
+  "primary_experiment": false,
+  "received": 54,
+  "requested_agent_model": "gpt-5.5",
+  "separate_human_review": false,
+  "source_matches_final_corpus": 48,
+  "structurally_complete": false,
+  "within_15pct": 50
+}
