@@ -1,0 +1,68 @@
+{
+  "batch_id": "9250f067ec5009230d95",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:28:37.443293+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6cf3c3148c0af75a846af2e0",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_wilde_canterville_ghost_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 6cf3c3148c0af75a846af2e0\noriginal_word_count: 459\n\nPassage:\nI am also informed by Mrs. Otis, who, I may say, is no mean authority upon Art—having had the privilege of spending several winters in Boston when she was a girl—that these gems are of great monetary worth, and if offered for sale would fetch a tall price. Under these circumstances, Lord Canterville, I feel sure that you will recognise how impossible it would be for me to allow them to remain in the possession of any member of my family; and, indeed, all such vain gauds and toys, however suitable or necessary to the dignity of the British aristocracy, would be completely out of place among those who have been brought up on the severe, and I believe immortal, principles of republican simplicity. Perhaps I should mention that Virginia is very anxious that you should allow her to retain the box as a memento of your unfortunate but misguided ancestor. As it is extremely old, and consequently a good deal out of repair, you may perhaps think fit to comply with her request. For my own part, I confess I am a good deal surprised to find a child of mine expressing sympathy with mediævalism in any form, and can only account for it by the fact that Virginia was born in one of your London suburbs shortly after Mrs. Otis had returned from a trip to Athens.’\n\nLord Canterville listened very gravely to the worthy Minister’s speech, pulling his grey moustache now and then to hide an involuntary smile, and when Mr. Otis had ended, he shook him cordially by the hand, and said, ‘My dear sir, your charming little daughter rendered my unlucky ancestor, Sir Simon, a very important service, and I and my family are much indebted to her for her marvellous courage and pluck. The jewels are clearly hers, and, egad, I believe that if I were heartless enough to take them from her, the wicked old fellow would be out of his grave in a fortnight, leading me the devil of a life. As for their being heirlooms, nothing is an heirloom that is not so mentioned in a will or legal document, and the existence of these jewels has been quite unknown. I assure you I have no more claim on them than your butler, and when Miss Virginia grows up I daresay she will be pleased to have pretty things to wear. Besides, you forget, Mr. Otis, that you took the furniture and the ghost at a valuation, and anything that belonged to the ghost passed at once into your possession, as, whatever activity Sir Simon may have shown in the corridor at night, in point of law he was really dead, and you acquired his property by purchase.’"
+      },
+      "request_id": "6cf3c3148c0af75a846af2e0",
+      "request_sha256": "cfb612481f2ea8b200e45e0349beaf5e48db4ef1fdd2aae3858cdabe573d0954",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7dc8f78089686c7dab8a58719cf3d5fdcb455ec881bf0fc59d893a5431139487"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "305a59218a09eb5affe7ceb1",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_wilde_dorian_gray_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 305a59218a09eb5affe7ceb1\noriginal_word_count: 452\n\nPassage:\nWeeks and weeks went on, and I grew more and more absorbed in you. Then came a new development. I had drawn you as Paris in dainty armour, and as Adonis with huntsman’s cloak and polished boar-spear. Crowned with heavy lotus-blossoms you had sat on the prow of Adrian’s barge, gazing across the green turbid Nile. You had leaned over the still pool of some Greek woodland and seen in the water’s silent silver the marvel of your own face. And it had all been what art should be—unconscious, ideal, and remote. One day, a fatal day I sometimes think, I determined to paint a wonderful portrait of you as you actually are, not in the costume of dead ages, but in your own dress and in your own time. Whether it was the realism of the method, or the mere wonder of your own personality, thus directly presented to me without mist or veil, I cannot tell. But I know that as I worked at it, every flake and film of colour seemed to me to reveal my secret. I grew afraid that others would know of my idolatry. I felt, Dorian, that I had told too much, that I had put too much of myself into it. Then it was that I resolved never to allow the picture to be exhibited. You were a little annoyed; but then you did not realize all that it meant to me. Harry, to whom I talked about it, laughed at me. But I did not mind that. When the picture was finished, and I sat alone with it, I felt that I was right.... Well, after a few days the thing left my studio, and as soon as I had got rid of the intolerable fascination of its presence, it seemed to me that I had been foolish in imagining that I had seen anything in it, more than that you were extremely good-looking and that I could paint. Even now I cannot help feeling that it is a mistake to think that the passion one feels in creation is ever really shown in the work one creates. Art is always more abstract than we fancy. Form and colour tell us of form and colour—that is all. It often seems to me that art conceals the artist far more completely than it ever reveals him. And so when I got this offer from Paris, I determined to make your portrait the principal thing in my exhibition. It never occurred to me that you would refuse. I see now that you were right. The picture cannot be shown. You must not be angry with me, Dorian, for what I have told you."
+      },
+      "request_id": "305a59218a09eb5affe7ceb1",
+      "request_sha256": "70c188ecec527deb277afe05bb395034de2653beb460f246b23cb6fa930e8754",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "924ea6c362678657282b47400e5fb6105f3501fda918f6d3cbf0cd30705954a3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "eb710728147a6d7a50f768f8",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_shelley_the_last_man_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: eb710728147a6d7a50f768f8\noriginal_word_count: 462\n\nPassage:\nRaymond was inspirited by the intense sensations of recovered health; he felt that in being general of the Athenians, he filled a post worthy of his ambition; and, in his hope of the conquest of Constantinople, he counted on an event which would be as a landmark in the waste of ages, an exploit unequalled in the annals of man; when a city of grand historic association, the beauty of whose site was the wonder of the world, which for many hundred years had been the strong hold of the Moslems, should be rescued from slavery and barbarism, and restored to a people illustrious for genius, civilization, and a spirit of liberty. Perdita rested on his restored society, on his love, his hopes and fame, even as a Sybarite on a luxurious couch; every thought was transport, each emotion bathed as it were in a congenial and balmy element.\n\nWe arrived at Kishan on the 7th of July. The weather during our journey had been serene. Each day, before dawn, we left our night’s encampment, and watched the shadows as they retreated from hill and valley, and the golden splendour of the sun’s approach. The accompanying soldiers received, with national vivacity, enthusiastic pleasure from the sight of beautiful nature. The uprising of the star of day was hailed by triumphant strains, while the birds, heard by snatches, filled up the intervals of the music. At noon, we pitched our tents in some shady valley, or embowering wood among the mountains, while a stream prattling over pebbles induced grateful sleep. Our evening march, more calm, was yet more delightful than the morning restlessness of spirit. If the band played, involuntarily they chose airs of moderated passion; the farewell of love, or lament at absence, was followed and closed by some solemn hymn, which harmonized with the tranquil loveliness of evening, and elevated the soul to grand and religious thought. Often all sounds were suspended, that we might listen to the nightingale, while the fire-flies danced in bright measure, and the soft cooing of the aziolo spoke of fair weather to the travellers. Did we pass a valley? Soft shades encompassed us, and rocks tinged with beauteous hues. If we traversed a mountain, Greece, a living map, was spread beneath, her renowned pinnacles cleaving the ether; her rivers threading in silver line the fertile land. Afraid almost to breathe, we English travellers surveyed with extasy this splendid landscape, so different from the sober hues and melancholy graces of our native scenery. When we quitted Macedonia, the fertile but low plains of Thrace afforded fewer beauties; yet our journey continued to be interesting. An advanced guard gave information of our approach, and the country people were quickly in motion to do honour to Lord Raymond."
+      },
+      "request_id": "eb710728147a6d7a50f768f8",
+      "request_sha256": "8bfc178c78aa0985af9d9e07329e6f6152380fbbe05445464517d38cde0223d0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "09a1cc0ff1347f820b7adbd52ca1d73be0068b302d8986543ec0e92e432357af"
+    }
+  ],
+  "session_id": "01a0e865-d34a-75c3-a7b9-6054f384d598",
+  "worker_id": "astra_u",
+  "worker_identity_sha256": "a9ccd4d0505883dcc11e3e0b3f2a87cf0163a5c2fb28ec8e4609d8f10a62a24d"
+}

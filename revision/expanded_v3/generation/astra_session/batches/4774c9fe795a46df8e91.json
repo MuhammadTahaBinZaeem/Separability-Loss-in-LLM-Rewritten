@@ -1,0 +1,68 @@
+{
+  "batch_id": "4774c9fe795a46df8e91",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:27:32.310744+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "96e2682a4a400936f1feedf7",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 503,
+      "passage_id": "V2_wilde_canterville_ghost_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 96e2682a4a400936f1feedf7\noriginal_word_count: 503\n\nPassage:\nHe selected Friday, the 17th of August, for his appearance, and spent most of that day in looking over his wardrobe, ultimately deciding in favour of a large slouched hat with a red feather, a winding-sheet frilled at the wrists and neck, and a rusty dagger. Towards evening a violent storm of rain came on, and the wind was so high that all the windows and doors in the old house shook and rattled. In fact, it was just such weather as he loved. His plan of action was this. He was to make his way quietly to Washington Otis’s room, gibber at him from the foot of the bed, and stab himself three times in the throat to the sound of slow music. He bore Washington a special grudge, being quite aware that it was he who was in the habit of removing the famous Canterville blood-stain, by means of Pinkerton’s Paragon Detergent. Having reduced the reckless and foolhardy youth to a condition of abject terror, he was then to proceed to the room occupied by the United States Minister and his wife, and there to place a clammy hand on Mrs. Otis’s forehead, while he hissed into her trembling husband’s ear the awful secrets of the charnel-house. With regard to little Virginia, he had not quite made up his mind. She had never insulted him in any way, and was pretty and gentle. A few hollow groans from the wardrobe, he thought, would be more than sufficient, or, if that failed to wake her, he might grabble at the counterpane with palsy-twitching fingers. As for the twins, he was quite determined to teach them a lesson. The first thing to be done was, of course, to sit upon their chests, so as to produce the stifling sensation of nightmare. Then, as their beds were quite close to each other, to stand between them in the form of a green, icy-cold corpse, till they became paralysed with fear, and finally, to throw off the winding-sheet, and crawl round the room, with white bleached bones and one rolling eye-ball, in the character of ‘Dumb Daniel, or the Suicide’s Skeleton,’ a _rôle_ in which he had on more than one occasion produced a great effect, and which he considered quite equal to his famous part of ‘Martin the Maniac, or the Masked Mystery.’\n\nAt half-past ten he heard the family going to bed. For some time he was disturbed by wild shrieks of laughter from the twins, who, with the light-hearted gaiety of schoolboys, were evidently amusing themselves before they retired to rest, but at a quarter past eleven all was still, and, as midnight sounded, he sallied forth. The owl beat against the window panes, the raven croaked from the old yew-tree, and the wind wandered moaning round the house like a lost soul; but the Otis family slept unconscious of their doom, and high above the rain and storm he could hear the steady snoring of the Minister for the United States."
+      },
+      "request_id": "96e2682a4a400936f1feedf7",
+      "request_sha256": "2397b79fc02dfde0c2e17ba1df660bcb0ffb99f3d1aaa4990835f435d23acfeb",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f617543a03f11f592a4ad223a7608622c71b7b9996670f5ae5dcc0475e927612"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b26a733dd18fc502aa471cc6",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_austen_emma_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: b26a733dd18fc502aa471cc6\noriginal_word_count: 454\n\nPassage:\n“I hope I shall soon have the pleasure of introducing my son to you,” said Mr. Weston.\n\nMrs. Elton, very willing to suppose a particular compliment intended her by such a hope, smiled most graciously.\n\n“You have heard of a certain Frank Churchill, I presume,” he continued—“and know him to be my son, though he does not bear my name.”\n\n“Oh! yes, and I shall be very happy in his acquaintance. I am sure Mr. Elton will lose no time in calling on him; and we shall both have great pleasure in seeing him at the Vicarage.”\n\n“You are very obliging.—Frank will be extremely happy, I am sure.— He is to be in town next week, if not sooner. We have notice of it in a letter to-day. I met the letters in my way this morning, and seeing my son’s hand, presumed to open it—though it was not directed to me—it was to Mrs. Weston. She is his principal correspondent, I assure you. I hardly ever get a letter.”\n\n“And so you absolutely opened what was directed to her! Oh! Mr. Weston—(laughing affectedly) I must protest against that.—A most dangerous precedent indeed!—I beg you will not let your neighbours follow your example.—Upon my word, if this is what I am to expect, we married women must begin to exert ourselves!—Oh! Mr. Weston, I could not have believed it of you!”\n\n“Aye, we men are sad fellows. You must take care of yourself, Mrs. Elton.—This letter tells us—it is a short letter—written in a hurry, merely to give us notice—it tells us that they are all coming up to town directly, on Mrs. Churchill’s account—she has not been well the whole winter, and thinks Enscombe too cold for her—so they are all to move southward without loss of time.”\n\n“Indeed!—from Yorkshire, I think. Enscombe is in Yorkshire?”\n\n“Yes, they are about one hundred and ninety miles from London, a considerable journey.”\n\n“Yes, upon my word, very considerable. Sixty-five miles farther than from Maple Grove to London. But what is distance, Mr. Weston, to people of large fortune?—You would be amazed to hear how my brother, Mr. Suckling, sometimes flies about. You will hardly believe me—but twice in one week he and Mr. Bragge went to London and back again with four horses.”\n\n“The evil of the distance from Enscombe,” said Mr. Weston, “is, that Mrs. Churchill, _as_ _we_ _understand_, has not been able to leave the sofa for a week together. In Frank’s last letter she complained, he said, of being too weak to get into her conservatory without having both his arm and his uncle’s!"
+      },
+      "request_id": "b26a733dd18fc502aa471cc6",
+      "request_sha256": "5a9768940eb92a9f9fe794771d373c67449a3d1256b6a0e646a9196d9c773197",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cb371ba1bae13d1fed36dab32b4b254efa584b811df883e49724f59f4bb9bac7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2d37eb7e09841c5f7b3bae11",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 528,
+      "passage_id": "V2_wilde_canterville_ghost_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2d37eb7e09841c5f7b3bae11\noriginal_word_count: 528\n\nPassage:\nTHE next day the ghost was very weak and tired. The terrible excitement of the last four weeks was beginning to have its effect. His nerves were completely shattered, and he started at the slightest noise. For five days he kept his room, and at last made up his mind to give up the point of the blood-stain on the library floor. If the Otis family did not want it, they clearly did not deserve it. They were evidently people on a low, material plane of existence, and quite incapable of appreciating the symbolic value of sensuous phenomena. The question of phantasmic apparitions, and the development of astral bodies, was of course quite a different matter, and really not under his control. It was his solemn duty to appear in the corridor once a week, and to gibber from the large oriel window on the first and third Wednesday in every month, and he did not see how he could honourably escape from his obligations. It is quite true that his life had been very evil, but, upon the other hand, he was most conscientious in all things connected with the supernatural. For the next three Saturdays, accordingly, he traversed the corridor as usual between midnight and three o’clock, taking every possible precaution against being either heard or seen. He removed his boots, trod as lightly as possible on the old worm-eaten boards, wore a large black velvet cloak, and was careful to use the Rising Sun Lubricator for oiling his chains. I am bound to acknowledge that it was with a good deal of difficulty that he brought himself to adopt this last mode of protection. However, one night, while the family were at dinner, he slipped into Mr. Otis’s bedroom and carried off the bottle. He felt a little humiliated at first, but afterwards was sensible enough to see that there was a great deal to be said for the invention, and, to a certain degree, it served his purpose. Still, in spite of everything, he was not left unmolested. Strings were continually being stretched across the corridor, over which he tripped in the dark, and on one occasion, while dressed for the part of ‘Black Isaac, or the Huntsman of Hogley Woods,’ he met with a severe fall, through treading on a butter-slide, which the twins had constructed from the entrance of the Tapestry Chamber to the top of the oak staircase. This last insult so enraged him, that he resolved to make one final effort to assert his dignity and social position, and determined to visit the insolent young Etonians the next night in his celebrated character of ‘Reckless Rupert, or the Headless Earl.’\n\nHe had not appeared in this disguise for more than seventy years; in fact, not since he had so frightened pretty Lady Barbara Modish by means of it, that she suddenly broke off her engagement with the present Lord Canterville’s grandfather, and ran away to Gretna Green with handsome Jack Castleton, declaring that nothing in the world would induce her to marry into a family that allowed such a horrible phantom to walk up and down the terrace at twilight."
+      },
+      "request_id": "2d37eb7e09841c5f7b3bae11",
+      "request_sha256": "26d16dfe0e24023e9f87e39dce4035b75c41972b45a865ed440255ebc9590da6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7c0a6858e2326509dd4e871a0d4b5aee80e8a2b67f61e05560018db10f5457fc"
+    }
+  ],
+  "session_id": "01a0e865-d34a-75c3-a7b9-6054f384d598",
+  "worker_id": "astra_u",
+  "worker_identity_sha256": "a9ccd4d0505883dcc11e3e0b3f2a87cf0163a5c2fb28ec8e4609d8f10a62a24d"
+}

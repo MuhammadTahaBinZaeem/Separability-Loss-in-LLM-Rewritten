@@ -41,7 +41,7 @@
       },
       "transfer": {
         "current": false,
-        "running": false
+        "running": true
       }
     },
     "gem31lite": {
@@ -73,8 +73,7 @@
       },
       "transfer": {
         "current": false,
-        "reason": "missing_or_invalid_evidence",
-        "running": false
+        "running": true
       }
     },
     "terra56": {
@@ -89,24 +88,63 @@
       },
       "transfer": {
         "current": false,
-        "running": false
+        "running": true
       }
     }
   },
+  "astra_generation_update": {
+    "all_workers_finished": true,
+    "audit_report": "verification/astra_generation_complete_20260928.json",
+    "checked_utc": "2026-09-28T14:57:44.118178+00:00",
+    "independent_semantic_review_complete": false,
+    "new_since_allowance_reset_resume": 588,
+    "new_since_original_handoff": 918,
+    "other_checkpoint_sections_last_checked_utc": "2026-09-28T13:02:54.220522+00:00",
+    "pending_issued_batches": 0,
+    "previous_usage_limit_report": "generation/astra_session/usage_limit_checkpoint_20260928.json",
+    "prior_three_unused_reservations_released": true,
+    "report": "generation/astra_session/generation_completion_20260928.json",
+    "resume_baseline_recorded": 492,
+    "status": "generation_complete_review_pending",
+    "user_scope": "Astra only; other work deferred",
+    "worker_policy": "Explicit gpt-6-astra/xhigh/fork-none launches; 30-output fresh tasks and final 18-output task; astra_g same-context 30-output continuation separately recorded."
+  },
   "astra_provenance_audit": {
-    "accounting_complete": false,
+    "accounting_complete": true,
     "expected": 1080,
     "passed": true,
     "quality_verified": false,
-    "recorded": 162,
+    "recorded": 1080,
     "verification_scope": "recorded prompt/output and requested orchestration identity",
     "worker_counts": {
       "astra_a": 30,
+      "astra_aa": 30,
+      "astra_ab": 18,
       "astra_b": 30,
       "astra_c": 30,
       "astra_d": 21,
       "astra_e": 21,
       "astra_f": 21,
+      "astra_g": 144,
+      "astra_h": 108,
+      "astra_i": 108,
+      "astra_j": 30,
+      "astra_k": 30,
+      "astra_l": 30,
+      "astra_m": 30,
+      "astra_n": 30,
+      "astra_o": 30,
+      "astra_p": 30,
+      "astra_q": 30,
+      "astra_r": 30,
+      "astra_s": 30,
+      "astra_t": 30,
+      "astra_u": 30,
+      "astra_v": 30,
+      "astra_w": 30,
+      "astra_x": 30,
+      "astra_y": 30,
+      "astra_z": 30,
       "original_main_session": 9
     }
   },
@@ -155,7 +193,7 @@
     "reference_cost_remaining_usd": 13.306503681,
     "reference_cost_used_or_reserved_usd": 21.693496319
   },
-  "checked_utc": "2026-09-28T12:18:11.805267+00:00",
+  "checked_utc": "2026-09-28T13:02:54.220522+00:00",
   "computational_checks_complete": false,
   "local_archive_exists": false,
   "mandatory_later_steps": [
@@ -167,13 +205,17 @@
   ],
   "models": {
     "astra_session": {
-      "accounted": 162,
-      "accounting_complete": false,
+      "accounted": 1080,
+      "accounting_complete": true,
+      "api_comparison_eligible": false,
       "expected": 1080,
       "fail": 0,
-      "missing": 918,
+      "missing": 0,
+      "model_key": "astra_session",
+      "parsed_sha256": "0ccd39ffac60baa08037cc2f0cdfb597e8e04027266d3972f8ec321e5ca77eab",
+      "review_complete": false,
       "running": false,
-      "valid_outputs": 162
+      "valid_outputs": 1080
     },
     "azure_replication": {
       "accounted": 1080,
@@ -236,6 +278,6 @@
   "tests": {
     "current": true,
     "passed": true,
-    "test_count": 121
+    "test_count": 125
   }
 }

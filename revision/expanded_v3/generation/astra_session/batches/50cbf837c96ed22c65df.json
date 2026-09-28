@@ -1,0 +1,68 @@
+{
+  "batch_id": "50cbf837c96ed22c65df",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:32:37.584435+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "55a065fb76b58e665db7d943",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_twain_huckleberry_finn_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 55a065fb76b58e665db7d943\noriginal_word_count: 450\n\nPassage:\nWill you?”\n\nHis eye lit up, and he says:\n\n“I’ll _help_ you steal him!”\n\nWell, I let go all holts then, like I was shot. It was the most astonishing speech I ever heard—and I’m bound to say Tom Sawyer fell considerable in my estimation. Only I couldn’t believe it. Tom Sawyer a _nigger stealer!_\n\n“Oh, shucks!” I says; “you’re joking.”\n\n“I ain’t joking, either.”\n\n“Well, then,” I says, “joking or no joking, if you hear anything said about a runaway nigger, don’t forget to remember that _you_ don’t know nothing about him, and _I_ don’t know nothing about him.”\n\nThen we took the trunk and put it in my wagon, and he drove off his way and I drove mine. But of course I forgot all about driving slow on accounts of being glad and full of thinking; so I got home a heap too quick for that length of a trip. The old gentleman was at the door, and he says:\n\n“Why, this is wonderful! Whoever would a thought it was in that mare to do it? I wish we’d a timed her. And she hain’t sweated a hair—not a hair. It’s wonderful. Why, I wouldn’t take a hundred dollars for that horse now—I wouldn’t, honest; and yet I’d a sold her for fifteen before, and thought ’twas all she was worth.”\n\nThat’s all he said. He was the innocentest, best old soul I ever see. But it warn’t surprising; because he warn’t only just a farmer, he was a preacher, too, and had a little one-horse log church down back of the plantation, which he built it himself at his own expense, for a church and schoolhouse, and never charged nothing for his preaching, and it was worth it, too. There was plenty other farmer-preachers like that, and done the same way, down South.\n\nIn about half an hour Tom’s wagon drove up to the front stile, and Aunt Sally she see it through the window, because it was only about fifty yards, and says:\n\n“Why, there’s somebody come! I wonder who ’tis? Why, I do believe it’s a stranger. Jimmy” (that’s one of the children) “run and tell Lize to put on another plate for dinner.”\n\nEverybody made a rush for the front door, because, of course, a stranger don’t come _every_ year, and so he lays over the yaller-fever, for interest, when he does come. Tom was over the stile and starting for the house; the wagon was spinning up the road for the village, and we was all bunched in the front door. Tom had his store clothes on, and an audience—and that was always nuts for Tom Sawyer."
+      },
+      "request_id": "55a065fb76b58e665db7d943",
+      "request_sha256": "b0674f5e2dbfce8c32396d4673e74911fe9644f5fcff62de47bef5a35ac4db4c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "65405740a5d975501ab4a71020da6f3a84ff7fc1732152355abe04d70104ba03"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "af1e8a84e2f478d6507fa3e1",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_shelley_mathilda_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: af1e8a84e2f478d6507fa3e1\noriginal_word_count: 470\n\nPassage:\nNearly a year had past since my father’s return, and the seasons had almost finished their round--It was now the end of May; the woods were clothed in their freshest verdure, and the sweet smell of the new mown grass was in the fields. I thought that the balmy air and the lovely face of Nature might aid me in inspiring him with mild sensations, and give him gentle feelings of peace and love preparatory to the confidence I determined to win from him.\n\nI chose therefore the evening of one of these days for my attempt. I invited him to walk with me, and led him to a neighbouring wood of beech trees whose light shade shielded us from the slant and dazzling beams of the descending sun--After walking for some time in silence I seated my self with him on a mossy hillock--It is strange but even now I seem to see the spot--the slim and smooth trunks were many of them wound round by ivy whose shining leaves of the darkest green contrasted with the white bark and the light leaves of the young sprouts of beech that grew from their parent trunks--the short grass was mingled with moss and was partly covered by the dead leaves of the last autumn that driven by the winds had here and there collected in little hillocks--there were a few moss grown stumps about--The leaves were gently moved by the breeze and through their green canopy you could see the bright blue sky--As evening came on the distant trunks were reddened by the sun and the wind died entirely away while a few birds flew past us to their evening rest.\n\nWell it was here we sat together, and when you hear all that past--all that of terrible tore our souls even in this placid spot, which but for strange passions might have been a paradise to us, you will not wonder that I remember it as I looked on it that its calm might give me calm, and inspire me not only with courage but with persuasive words. I saw all these things and in a vacant manner noted them in my mind while I endeavoured to arrange my thoughts in fitting order for my attempt. My heart beat fast as I worked myself up to speak to him, for I was determined not to be repulsed but I trembled to imagine what effect my words might have on him; at length, with much hesitation I began:\n\n“Your kindness to me, my dearest father, and the affection--the excessive affection--that you had for me when you first returned will I hope excuse me in your eyes that I dare speak to you, although with the tender affection of a daughter, yet also with the freedom of a friend and equal."
+      },
+      "request_id": "af1e8a84e2f478d6507fa3e1",
+      "request_sha256": "0e2b8bd6c6cf1c5987d2baf939f8f54a817c8c68d6f3ea80960baa9283f7b9fb",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4dfeb1074f5be9a81b84b989773ed05f4c36cae1d407cd0dc256f547682eea87"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5190641abaeb2d7268bbaf0c",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 5190641abaeb2d7268bbaf0c\noriginal_word_count: 451\n\nPassage:\nI am not dining at home, so I shall not want you.”\n\n“Thank you, sir,” said the man, leaving the room.\n\n“Now, Alan, there is not a moment to be lost. How heavy this chest is! I’ll take it for you. You bring the other things.” He spoke rapidly and in an authoritative manner. Campbell felt dominated by him. They left the room together.\n\nWhen they reached the top landing, Dorian took out the key and turned it in the lock. Then he stopped, and a troubled look came into his eyes. He shuddered. “I don’t think I can go in, Alan,” he murmured.\n\n“It is nothing to me. I don’t require you,” said Campbell coldly.\n\nDorian half opened the door. As he did so, he saw the face of his portrait leering in the sunlight. On the floor in front of it the torn curtain was lying. He remembered that the night before he had forgotten, for the first time in his life, to hide the fatal canvas, and was about to rush forward, when he drew back with a shudder.\n\nWhat was that loathsome red dew that gleamed, wet and glistening, on one of the hands, as though the canvas had sweated blood? How horrible it was!—more horrible, it seemed to him for the moment, than the silent thing that he knew was stretched across the table, the thing whose grotesque misshapen shadow on the spotted carpet showed him that it had not stirred, but was still there, as he had left it.\n\nHe heaved a deep breath, opened the door a little wider, and with half-closed eyes and averted head, walked quickly in, determined that he would not look even once upon the dead man. Then, stooping down and taking up the gold-and-purple hanging, he flung it right over the picture.\n\nThere he stopped, feeling afraid to turn round, and his eyes fixed themselves on the intricacies of the pattern before him. He heard Campbell bringing in the heavy chest, and the irons, and the other things that he had required for his dreadful work. He began to wonder if he and Basil Hallward had ever met, and, if so, what they had thought of each other.\n\n“Leave me now,” said a stern voice behind him.\n\nHe turned and hurried out, just conscious that the dead man had been thrust back into the chair and that Campbell was gazing into a glistening yellow face. As he was going downstairs, he heard the key being turned in the lock.\n\nIt was long after seven when Campbell came back into the library. He was pale, but absolutely calm. “I have done what you asked me to do,” he muttered."
+      },
+      "request_id": "5190641abaeb2d7268bbaf0c",
+      "request_sha256": "2378c14fc2cc149d91725538cefaa7ba12feb87a2e74b8975327f1a09f3fcfea",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c5079986ef3ad499bf7013a366e925e4051efcd6e50b12db4668991863619f81"
+    }
+  ],
+  "session_id": "01a0e866-9bf1-7e03-8d89-34a75a5436e8",
+  "worker_id": "astra_v",
+  "worker_identity_sha256": "0b2b5de575a91a248a2d744e77077f7abb92d61d159b0293192af3288b1ff4f6"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "45bb46307b9625d0e4e3",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:17:09.183538+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b723252cc039ac3c5e4bcd78",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_shelley_mathilda_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: b723252cc039ac3c5e4bcd78\noriginal_word_count: 452\n\nPassage:\nDo not mistake me; I never was really mad. I was always conscious of my state when my wild thoughts seemed to drive me to insanity, and never betrayed them to aught but silence and solitude. The people around me saw nothing of all this. They only saw a poor girl broken in spirit, who spoke in a low and gentle voice, and from underneath whose downcast lids tears would sometimes steal which she strove to hide. One who loved to be alone, and shrunk from observation; who never smiled; oh, no! I never smiled--and that was all.\n\nWell, I escaped. I left my guardian’s house and I was never heard of again; it was believed from the letters that I left and other circumstances that I planned that I had destroyed myself. I was sought after therefore with less care than would otherwise have been the case; and soon all trace and memory of me was lost. I left London in a small vessel bound for a port in the north of England. And now having succeeded in my attempt, and being quite alone peace returned to me. The sea was calm and the vessel moved gently onwards, I sat upon deck under the open canopy of heaven and methought I was an altered creature. Not the wild, raving & most miserable Mathilda but a youthful Hermitess dedicated to seclusion and whose bosom she must strive to keep free from all tumult and unholy despair--The fanciful nunlike dress that I had adopted; the knowledge that my very existence was a secret known only to myself; the solitude to which I was for ever hereafter destined nursed gentle thoughts in my wounded heart. The breeze that played in my hair revived me, and I watched with quiet eyes the sunbeams that glittered on the waves, and the birds that coursed each other over the waters just brushing them with their plumes. I slept too undisturbed by dreams; and awoke refreshed to again enjoy my tranquil freedom.\n\nIn four days we arrived at the harbour to which we were bound. I would not remain on the sea coast, but proceeded immediately inland. I had already planned the situation where I would live. It should be a solitary house on a wide plain near no other habitation: where I could behold the whole horizon, and wander far without molestation from the sight of my fellow creatures. I was not mysanthropic, but I felt that the gentle current of my feelings depended upon my being alone. I fixed myself on a wide solitude. On a dreary heath bestrewen with stones, among which short grass grew; and here and there a few rushes beside a little pool."
+      },
+      "request_id": "b723252cc039ac3c5e4bcd78",
+      "request_sha256": "a4971932bd1559c16ec9cddb2746f2cec1b98371db9fbc977d75e2b4e89418c9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "096b29276fa380904e0b6945e0f6dce798d6d96c19cde250c197fa2bcbbc115a"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f7d4472b0cd2a50974f4b90b",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_poe_the_gold_bug_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: f7d4472b0cd2a50974f4b90b\noriginal_word_count: 456\n\nPassage:\nFor a moment I was too much amazed to think with accuracy. I knew that my design was very different in detail from this—although there was a certain similarity in general outline. Presently I took a candle, and seating myself at the other end of the room, proceeded to scrutinize the parchment more closely. Upon turning it over, I saw my own sketch upon the reverse, just as I had made it. My first idea, now, was mere surprise at the really remarkable similarity of outline—at the singular coincidence involved in the fact, that unknown to me, there should have been a skull upon the other side of the parchment, immediately beneath my figure of the _scarabæus_, and that this skull, not only in outline, but in size, should so closely resemble my drawing. I say the singularity of this coincidence absolutely stupefied me for a time. This is the usual effect of such coincidences. The mind struggles to establish a connexion—a sequence of cause and effect—and, being unable to do so, suffers a species of temporary paralysis. But, when I recovered from this stupor, there dawned upon me gradually a conviction which startled me even far more than the coincidence. I began distinctly, positively, to remember that there had been no drawing upon the parchment when I made my sketch of the _scarabæus_. I became perfectly certain of this; for I recollected turning up first one side and then the other, in search of the cleanest spot. Had the skull been then there, of course I could not have failed to notice it. Here was indeed a mystery which I felt it impossible to explain; but, even at that early moment, there seemed to glimmer, faintly, within the most remote and secret chambers of my intellect, a glow-worm-like conception of that truth which last night’s adventure brought to so magnificent a demonstration. I arose at once, and putting the parchment securely away, dismissed all farther reflection until I should be alone.\n\n“When you had gone, and when Jupiter was fast asleep, I betook myself to a more methodical investigation of the affair. In the first place I considered the manner in which the parchment had come into my possession. The spot where we discovered the _scarabæus_ was on the coast of the main land, about a mile eastward of the island, and but a short distance above high water mark. Upon my taking hold of it, it gave me a sharp bite, which caused me to let it drop. Jupiter, with his accustomed caution, before seizing the insect, which had flown towards him, looked about him for a leaf, or something of that nature, by which to take hold of it."
+      },
+      "request_id": "f7d4472b0cd2a50974f4b90b",
+      "request_sha256": "da62a67f4f1a24563f02bd7117c8ddd4904d2d0ad5040c97370aa542347b4949",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "05cf7eaf941cd0d00d3d5f3ed7c2d2203a51f96cef8bc9e99a7121de2f891af9"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b35349b3d13f82a124ffea64",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: b35349b3d13f82a124ffea64\noriginal_word_count: 456\n\nPassage:\nTheir arrival had lighted a kind of fire in the breast of Saint Antoine, fast spreading as they came along, which stirred and flickered in flames of faces at most doors and windows. Yet, no one had followed them, and no man spoke when they entered the wine-shop, though the eyes of every man there were turned upon them.\n\n“Good day, gentlemen!” said Monsieur Defarge.\n\nIt may have been a signal for loosening the general tongue. It elicited an answering chorus of “Good day!”\n\n“It is bad weather, gentlemen,” said Defarge, shaking his head.\n\nUpon which, every man looked at his neighbour, and then all cast down their eyes and sat silent. Except one man, who got up and went out.\n\n“My wife,” said Defarge aloud, addressing Madame Defarge: “I have travelled certain leagues with this good mender of roads, called Jacques. I met him--by accident--a day and half’s journey out of Paris. He is a good child, this mender of roads, called Jacques. Give him to drink, my wife!”\n\nA second man got up and went out. Madame Defarge set wine before the mender of roads called Jacques, who doffed his blue cap to the company, and drank. In the breast of his blouse he carried some coarse dark bread; he ate of this between whiles, and sat munching and drinking near Madame Defarge’s counter. A third man got up and went out.\n\nDefarge refreshed himself with a draught of wine--but, he took less than was given to the stranger, as being himself a man to whom it was no rarity--and stood waiting until the countryman had made his breakfast. He looked at no one present, and no one now looked at him; not even Madame Defarge, who had taken up her knitting, and was at work.\n\n“Have you finished your repast, friend?” he asked, in due season.\n\n“Yes, thank you.”\n\n“Come, then! You shall see the apartment that I told you you could occupy. It will suit you to a marvel.”\n\nOut of the wine-shop into the street, out of the street into a courtyard, out of the courtyard up a steep staircase, out of the staircase into a garret--formerly the garret where a white-haired man sat on a low bench, stooping forward and very busy, making shoes.\n\nNo white-haired man was there now; but, the three men were there who had gone out of the wine-shop singly. And between them and the white-haired man afar off, was the one small link, that they had once looked in at him through the chinks in the wall.\n\nDefarge closed the door carefully, and spoke in a subdued voice:\n\n“Jacques One, Jacques Two, Jacques Three! This is the witness encountered by appointment, by me, Jacques Four."
+      },
+      "request_id": "b35349b3d13f82a124ffea64",
+      "request_sha256": "4609545d7a561ddf497951233011fa36585b80cc008d4ecc2ac90879eed134ae",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d9d9d29844963db3d0808705adc2abf396299d478990c38ea11a92fa04324142"
+    }
+  ],
+  "session_id": "01a0e85c-7f66-73c1-b91c-6413115a4ff4",
+  "worker_id": "astra_s",
+  "worker_identity_sha256": "17b5f2fab7368788746600871fd66c46b6c1c2ea93360ddace6823c5041f0625"
+}

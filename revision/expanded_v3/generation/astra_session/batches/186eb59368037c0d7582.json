@@ -1,0 +1,68 @@
+{
+  "batch_id": "186eb59368037c0d7582",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:06:11.478327+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c2ab4dde4450edb6b40d9954",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_austen_persuasion_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: c2ab4dde4450edb6b40d9954\noriginal_word_count: 464\n\nPassage:\nNo letter of condolence had been sent to Ireland. The neglect had been visited on the head of the sinner; for when poor Lady Elliot died herself, no letter of condolence was received at Kellynch, and, consequently, there was but too much reason to apprehend that the Dalrymples considered the relationship as closed. How to have this anxious business set to rights, and be admitted as cousins again, was the question: and it was a question which, in a more rational manner, neither Lady Russell nor Mr Elliot thought unimportant. “Family connexions were always worth preserving, good company always worth seeking; Lady Dalrymple had taken a house, for three months, in Laura Place, and would be living in style. She had been at Bath the year before, and Lady Russell had heard her spoken of as a charming woman. It was very desirable that the connexion should be renewed, if it could be done, without any compromise of propriety on the side of the Elliots.”\n\nSir Walter, however, would choose his own means, and at last wrote a very fine letter of ample explanation, regret, and entreaty, to his right honourable cousin. Neither Lady Russell nor Mr Elliot could admire the letter; but it did all that was wanted, in bringing three lines of scrawl from the Dowager Viscountess. “She was very much honoured, and should be happy in their acquaintance.” The toils of the business were over, the sweets began. They visited in Laura Place, they had the cards of Dowager Viscountess Dalrymple, and the Honourable Miss Carteret, to be arranged wherever they might be most visible: and “Our cousins in Laura Place,”—“Our cousin, Lady Dalrymple and Miss Carteret,” were talked of to everybody.\n\nAnne was ashamed. Had Lady Dalrymple and her daughter even been very agreeable, she would still have been ashamed of the agitation they created, but they were nothing. There was no superiority of manner, accomplishment, or understanding. Lady Dalrymple had acquired the name of “a charming woman,” because she had a smile and a civil answer for everybody. Miss Carteret, with still less to say, was so plain and so awkward, that she would never have been tolerated in Camden Place but for her birth.\n\nLady Russell confessed she had expected something better; but yet “it was an acquaintance worth having;” and when Anne ventured to speak her opinion of them to Mr Elliot, he agreed to their being nothing in themselves, but still maintained that, as a family connexion, as good company, as those who would collect good company around them, they had their value. Anne smiled and said,\n\n“My idea of good company, Mr Elliot, is the company of clever, well-informed people, who have a great deal of conversation; that is what I call good company.”"
+      },
+      "request_id": "c2ab4dde4450edb6b40d9954",
+      "request_sha256": "2c567453d2afb89bcbd1f8e6403726170a4cd314ddf19705f4daa3e8d0f7d68d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d84b96a285f2c4345ab42c0124aef0364c9648f7f5830eb95b4aa75be209b0af"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3a9f4a78ce79710c6a77811d",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_austen_pride_and_prejudice_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 3a9f4a78ce79710c6a77811d\noriginal_word_count: 457\n\nPassage:\nI do not at all comprehend her reason for wishing to be intimate with me; but, if the same circumstances were to happen again, I am sure I should be deceived again. Caroline did not return my visit till yesterday; and not a note, not a line, did I receive in the meantime. When she did come, it was very evident that she had no pleasure in it; she made a slight, formal apology for not calling before, said not a word of wishing to see me again, and was, in every respect, so altered a creature, that when she went away I was perfectly resolved to continue the acquaintance no longer. I pity, though I cannot help blaming, her. She was very wrong in singling me out as she did; I can safely say, that every advance to intimacy began on her side. But I pity her, because she must feel that she has been acting wrong, and because I am very sure that anxiety for her brother is the cause of it. I need not explain myself farther; and though _we_ know this anxiety to be quite needless, yet if she feels it, it will easily account for her behaviour to me; and so deservedly dear as he is to his sister, whatever anxiety she may feel on his behalf is natural and amiable. I cannot but wonder, however, at her having any such fears now, because if he had at all cared about me, we must have met long, long ago. He knows of my being in town, I am certain, from something she said herself; and yet it would seem, by her manner of talking, as if she wanted to persuade herself that he is really partial to Miss Darcy. I cannot understand it. If I were not afraid of judging harshly, I should be almost tempted to say, that there is a strong appearance of duplicity in all this. I will endeavour to banish every painful thought, and think only of what will make me happy, your affection, and the invariable kindness of my dear uncle and aunt. Let me hear from you very soon. Miss Bingley said something of his never returning to Netherfield again, of giving up the house, but not with any certainty. We had better not mention it. I am extremely glad that you have such pleasant accounts from our friends at Hunsford. Pray go to see them, with Sir William and Maria. I am sure you will be very comfortable there.\n\n“Yours, etc.”\n\nThis letter gave Elizabeth some pain; but her spirits returned, as she considered that Jane would no longer be duped, by the sister at least. All expectation from the brother was now absolutely over."
+      },
+      "request_id": "3a9f4a78ce79710c6a77811d",
+      "request_sha256": "e89ac1f945e0d9b6707277c8faba8b285e339b20125d07eb9f84a75eb08a74c7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2055af95bc528653362223b17660caccfdf3843c23efa6b99c72ca127a74515d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1b73161f519108766860aae0",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_austen_pride_and_prejudice_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 1b73161f519108766860aae0\noriginal_word_count: 460\n\nPassage:\nHis understanding and temper, though unlike her own, would have answered all her wishes. It was an union that must have been to the advantage of both: by her ease and liveliness, his mind might have been softened, his manners improved; and from his judgment, information, and knowledge of the world, she must have received benefit of greater importance.\n\nBut no such happy marriage could now teach the admiring multitude what connubial felicity really was. An union of a different tendency, and precluding the possibility of the other, was soon to be formed in their family.\n\nHow Wickham and Lydia were to be supported in tolerable independence she could not imagine. But how little of permanent happiness could belong to a couple who were only brought together because their passions were stronger than their virtue, she could easily conjecture.\n\nMr. Gardiner soon wrote again to his brother. To Mr. Bennet’s acknowledgments he briefly replied, with assurances of his eagerness to promote the welfare of any of his family; and concluded with entreaties that the subject might never be mentioned to him again. The principal purport of his letter was to inform them, that Mr. Wickham had resolved on quitting the militia.\n\n“It was greatly my wish that he should do so,” he added, “as soon as his marriage was fixed on. And I think you will agree with me, in considering a removal from that corps as highly advisable, both on his account and my niece’s. It is Mr. Wickham’s intention to go into the Regulars; and, among his former friends, there are still some who are able and willing to assist him in the army. He has the promise of an ensigncy in General----’s regiment, now quartered in the north. It is an advantage to have it so far from this part of the kingdom. He promises fairly; and I hope among different people, where they may each have a character to preserve, they will both be more prudent. I have written to Colonel Forster, to inform him of our present arrangements, and to request that he will satisfy the various creditors of Mr. Wickham in and near Brighton with assurances of speedy payment, for which I have pledged myself. And will you give yourself the trouble of carrying similar assurances to his creditors in Meryton, of whom I shall subjoin a list, according to his information? He has given in all his debts; I hope at least he has not deceived us. Haggerston has our directions, and all will be completed in a week. They will then join his regiment, unless they are first invited to Longbourn; and I understand from Mrs. Gardiner that my niece is very desirous of seeing you all before she leaves the south."
+      },
+      "request_id": "1b73161f519108766860aae0",
+      "request_sha256": "f0c15fe7f65b5dc8c5372a2c193dcb6d816bc3d206f24500a890a81c3e97185f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b7c9c4d9004c0f8493c230f3166b0a35015744b3ff7ad25a12f836832bcf4d09"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

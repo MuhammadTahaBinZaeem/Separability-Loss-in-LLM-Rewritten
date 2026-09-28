@@ -1,0 +1,68 @@
+{
+  "batch_id": "327286fd23b535c8adf9",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:04:59.974207+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2008ffa4a6a07ecc89b75698",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_the_last_man_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 2008ffa4a6a07ecc89b75698\noriginal_word_count: 466\n\nPassage:\nI cannot describe the rapturous delight with which I turned from political brawls at home, and the physical evils of distant countries, to my own dear home, to the selected abode of goodness and love; to peace, and the interchange of every sacred sympathy. Had I never quitted Windsor, these emotions would not have been so intense; but I had in Greece been the prey of fear and deplorable change; in Greece, after a period of anxiety and sorrow, I had seen depart two, whose very names were the symbol of greatness and virtue. But such miseries could never intrude upon the domestic circle left to me, while, secluded in our beloved forest, we passed our lives in tranquillity. Some small change indeed the progress of years brought here; and time, as it is wont, stamped the traces of mortality on our pleasures and expectations. Idris, the most affectionate wife, sister and friend, was a tender and loving mother. The feeling was not with her as with many, a pastime; it was a passion. We had had three children; one, the second in age, died while I was in Greece. This had dashed the triumphant and rapturous emotions of maternity with grief and fear. Before this event, the little beings, sprung from herself, the young heirs of her transient life, seemed to have a sure lease of existence; now she dreaded that the pitiless destroyer might snatch her remaining darlings, as it had snatched their brother. The least illness caused throes of terror; she was miserable if she were at all absent from them; her treasure of happiness she had garnered in their fragile being, and kept forever on the watch, lest the insidious thief should as before steal these valued gems. She had fortunately small cause for fear. Alfred, now nine years old, was an upright, manly little fellow, with radiant brow, soft eyes, and gentle, though independent disposition. Our youngest was yet in infancy; but his downy cheek was sprinkled with the roses of health, and his unwearied vivacity filled our halls with innocent laughter.\n\nClara had passed the age which, from its mute ignorance, was the source of the fears of Idris. Clara was dear to her, to all. There was so much intelligence combined with innocence, sensibility with forbearance, and seriousness with perfect good-humour, a beauty so transcendant, united to such endearing simplicity, that she hung like a pearl in the shrine of our possessions, a treasure of wonder and excellence.\n\nAt the beginning of winter our Alfred, now nine years of age, first went to school at Eton. This appeared to him the primary step towards manhood, and he was proportionably pleased. Community of study and amusement developed the best parts of his character, his steady perseverance, generosity, and well-governed firmness."
+      },
+      "request_id": "2008ffa4a6a07ecc89b75698",
+      "request_sha256": "231a0ffddba91d13399e0b72a1fe1e6bf9cdaa20dabd200c52603dcd293cdd97",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cb333bda5a408043c0d5a8ece8acec765d0232a2272c50679b95411ac22b2128"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "88c1a7db665d6089b613419e",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_shelley_the_last_man_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 88c1a7db665d6089b613419e\noriginal_word_count: 462\n\nPassage:\nThe stars still shone brightly when I awoke, and Taurus high in the southern heaven shewed that it was midnight. I awoke from disturbed dreams. Methought I had been invited to Timon’s last feast; I came with keen appetite, the covers were removed, the hot water sent up its unsatisfying steams, while I fled before the anger of the host, who assumed the form of Raymond; while to my diseased fancy, the vessels hurled by him after me, were surcharged with fetid vapour, and my friend’s shape, altered by a thousand distortions, expanded into a gigantic phantom, bearing on its brow the sign of pestilence. The growing shadow rose and rose, filling, and then seeming to endeavour to burst beyond, the adamantine vault that bent over, sustaining and enclosing the world. The night-mare became torture; with a strong effort I threw off sleep, and recalled reason to her wonted functions. My first thought was Perdita; to her I must return; her I must support, drawing such food from despair as might best sustain her wounded heart; recalling her from the wild excesses of grief, by the austere laws of duty, and the soft tenderness of regret.\n\nThe position of the stars was my only guide. I turned from the awful ruin of the Golden City, and, after great exertion, succeeded in extricating myself from its enclosure. I met a company of soldiers outside the walls; I borrowed a horse from one of them, and hastened to my sister. The appearance of the plain was changed during this short interval; the encampment was broken up; the relics of the disbanded army met in small companies here and there; each face was clouded; every gesture spoke astonishment and dismay.\n\nWith an heavy heart I entered the palace, and stood fearful to advance, to speak, to look. In the midst of the hall was Perdita; she sat on the marble pavement, her head fallen on her bosom, her hair dishevelled, her fingers twined busily one within the other; she was pale as marble, and every feature was contracted by agony. She perceived me, and looked up enquiringly; her half glance of hope was misery; the words died before I could articulate them; I felt a ghastly smile wrinkle my lips. She understood my gesture; again her head fell; again her fingers worked restlessly. At last I recovered speech, but my voice terrified her; the hapless girl had understood my look, and for worlds she would not that the tale of her heavy misery should have been shaped out and confirmed by hard, irrevocable words. Nay, she seemed to wish to distract my thoughts from the subject: she rose from the floor: “Hush!” she said, whisperingly; “after much weeping, Clara sleeps; we must not disturb her.”"
+      },
+      "request_id": "88c1a7db665d6089b613419e",
+      "request_sha256": "cc40011a49be48727525d898238bc8adce1ec558677edc38a1824eb66c9f9667",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "76880eddc6aa824319567915bb32265af9d03723cbfa5ebb6480d88193bc9340"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "85c7ee189aac309795d6a5e4",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V2_austen_emma_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 85c7ee189aac309795d6a5e4\noriginal_word_count: 458\n\nPassage:\nDuring his present short stay, Emma had barely seen him; but just enough to feel that the first meeting was over, and to give her the impression of his not being improved by the mixture of pique and pretension, now spread over his air. She was, in fact, beginning very much to wonder that she had ever thought him pleasing at all; and his sight was so inseparably connected with some very disagreeable feelings, that, except in a moral light, as a penance, a lesson, a source of profitable humiliation to her own mind, she would have been thankful to be assured of never seeing him again. She wished him very well; but he gave her pain, and his welfare twenty miles off would administer most satisfaction.\n\nThe pain of his continued residence in Highbury, however, must certainly be lessened by his marriage. Many vain solicitudes would be prevented—many awkwardnesses smoothed by it. A _Mrs._ _Elton_ would be an excuse for any change of intercourse; former intimacy might sink without remark. It would be almost beginning their life of civility again.\n\nOf the lady, individually, Emma thought very little. She was good enough for Mr. Elton, no doubt; accomplished enough for Highbury—handsome enough—to look plain, probably, by Harriet’s side. As to connexion, there Emma was perfectly easy; persuaded, that after all his own vaunted claims and disdain of Harriet, he had done nothing. On that article, truth seemed attainable. _What_ she was, must be uncertain; but _who_ she was, might be found out; and setting aside the 10,000 l., it did not appear that she was at all Harriet’s superior. She brought no name, no blood, no alliance. Miss Hawkins was the youngest of the two daughters of a Bristol—merchant, of course, he must be called; but, as the whole of the profits of his mercantile life appeared so very moderate, it was not unfair to guess the dignity of his line of trade had been very moderate also. Part of every winter she had been used to spend in Bath; but Bristol was her home, the very heart of Bristol; for though the father and mother had died some years ago, an uncle remained—in the law line—nothing more distinctly honourable was hazarded of him, than that he was in the law line; and with him the daughter had lived. Emma guessed him to be the drudge of some attorney, and too stupid to rise. And all the grandeur of the connexion seemed dependent on the elder sister, who was _very_ _well_ _married_, to a gentleman in a _great_ _way_, near Bristol, who kept two carriages! That was the wind-up of the history; that was the glory of Miss Hawkins."
+      },
+      "request_id": "85c7ee189aac309795d6a5e4",
+      "request_sha256": "8f748b9f0f684e2a375aedbce03abb8a580ab5d89dd225c2f459185641f53825",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "db77ea49bb690ae9a8cdcbf7d6aa033b89c8521ed7bc2c5f10ec13f68624d5b0"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

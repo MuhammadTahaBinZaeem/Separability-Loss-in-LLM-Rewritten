@@ -1,0 +1,68 @@
+{
+  "batch_id": "8ecd4f61baa9ab63f93b",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:13:47.445403+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "320344cc39f03c908b95441a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 479,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 320344cc39f03c908b95441a\noriginal_word_count: 479\n\nPassage:\n“Charles Evrémonde, called Darnay,” was at length arraigned.\n\nHis judges sat upon the Bench in feathered hats; but the rough red cap and tricoloured cockade was the head-dress otherwise prevailing. Looking at the Jury and the turbulent audience, he might have thought that the usual order of things was reversed, and that the felons were trying the honest men. The lowest, cruelest, and worst populace of a city, never without its quantity of low, cruel, and bad, were the directing spirits of the scene: noisily commenting, applauding, disapproving, anticipating, and precipitating the result, without a check. Of the men, the greater part were armed in various ways; of the women, some wore knives, some daggers, some ate and drank as they looked on, many knitted. Among these last, was one, with a spare piece of knitting under her arm as she worked. She was in a front row, by the side of a man whom he had never seen since his arrival at the Barrier, but whom he directly remembered as Defarge. He noticed that she once or twice whispered in his ear, and that she seemed to be his wife; but, what he most noticed in the two figures was, that although they were posted as close to himself as they could be, they never looked towards him. They seemed to be waiting for something with a dogged determination, and they looked at the Jury, but at nothing else. Under the President sat Doctor Manette, in his usual quiet dress. As well as the prisoner could see, he and Mr. Lorry were the only men there, unconnected with the Tribunal, who wore their usual clothes, and had not assumed the coarse garb of the Carmagnole.\n\nCharles Evrémonde, called Darnay, was accused by the public prosecutor as an emigrant, whose life was forfeit to the Republic, under the decree which banished all emigrants on pain of Death. It was nothing that the decree bore date since his return to France. There he was, and there was the decree; he had been taken in France, and his head was demanded.\n\n“Take off his head!” cried the audience. “An enemy to the Republic!”\n\nThe President rang his bell to silence those cries, and asked the prisoner whether it was not true that he had lived many years in England?\n\nUndoubtedly it was.\n\nWas he not an emigrant then? What did he call himself?\n\nNot an emigrant, he hoped, within the sense and spirit of the law.\n\nWhy not? the President desired to know.\n\nBecause he had voluntarily relinquished a title that was distasteful to him, and a station that was distasteful to him, and had left his country--he submitted before the word emigrant in the present acceptation by the Tribunal was in use--to live by his own industry in England, rather than on the industry of the overladen people of France."
+      },
+      "request_id": "320344cc39f03c908b95441a",
+      "request_sha256": "b6baa7cfa39e69b9be370e54eb256d39c86f22c81bb8c9c7a02322abc90f2a89",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5670489206bfbe8dd2caf772e568aae7e34cfbf70cb9a8c860dac6008e8d7cb9"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "917fc8d3ef0c46e0d81bc0e0",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_twain_huckleberry_finn_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 917fc8d3ef0c46e0d81bc0e0\noriginal_word_count: 453\n\nPassage:\nWell, I says, I needed the watermelon. But he said I didn’t need it to get out of prison with; there’s where the difference was. He said if I’d a wanted it to hide a knife in, and smuggle it to Jim to kill the seneskal with, it would a been all right. So I let it go at that, though I couldn’t see no advantage in my representing a prisoner if I got to set down and chaw over a lot of gold-leaf distinctions like that every time I see a chance to hog a watermelon.\n\nWell, as I was saying, we waited that morning till everybody was settled down to business, and nobody in sight around the yard; then Tom he carried the sack into the lean-to whilst I stood off a piece to keep watch. By-and-by he come out, and we went and set down on the woodpile to talk. He says:\n\n“Everything’s all right now except tools; and that’s easy fixed.”\n\n“Tools?” I says.\n\n“Yes.”\n\n“Tools for what?”\n\n“Why, to dig with. We ain’t a-going to _gnaw_ him out, are we?”\n\n“Ain’t them old crippled picks and things in there good enough to dig a nigger out with?” I says.\n\nHe turns on me, looking pitying enough to make a body cry, and says:\n\n“Huck Finn, did you _ever_ hear of a prisoner having picks and shovels, and all the modern conveniences in his wardrobe to dig himself out with? Now I want to ask you—if you got any reasonableness in you at all—what kind of a show would _that_ give him to be a hero? Why, they might as well lend him the key and done with it. Picks and shovels—why, they wouldn’t furnish ’em to a king.”\n\n“Well, then,” I says, “if we don’t want the picks and shovels, what do we want?”\n\n“A couple of case-knives.”\n\n“To dig the foundations out from under that cabin with?”\n\n“Yes.”\n\n“Confound it, it’s foolish, Tom.”\n\n“It don’t make no difference how foolish it is, it’s the _right_ way—and it’s the regular way. And there ain’t no _other_ way, that ever _I_ heard of, and I’ve read all the books that gives any information about these things. They always dig out with a case-knife—and not through dirt, mind you; generly it’s through solid rock. And it takes them weeks and weeks and weeks, and for ever and ever. Why, look at one of them prisoners in the bottom dungeon of the Castle Deef, in the harbor of Marseilles, that dug himself out that way; how long was _he_ at it, you reckon?”\n\n“I don’t know.”\n\n“Well, guess.”\n\n“I don’t know. A month and a half.”"
+      },
+      "request_id": "917fc8d3ef0c46e0d81bc0e0",
+      "request_sha256": "befba7b9db03477a0b863bf086f8450e90a596f21deaa17f27b38197c53095c0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "da2e3b031ef10d29b2a0e3e08657cd4c32f8e178e2eac64df8d787b737bdd54c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0253312f14bc1a1e7d9c726c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_twain_huckleberry_finn_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 0253312f14bc1a1e7d9c726c\noriginal_word_count: 472\n\nPassage:\nI don’t wish to be mixed up in no such business as that, I says to myself.\n\nWhen I got down stairs in the morning the parlor was shut up, and the watchers was gone. There warn’t nobody around but the family and the widow Bartley and our tribe. I watched their faces to see if anything had been happening, but I couldn’t tell.\n\nTowards the middle of the day the undertaker come with his man, and they set the coffin in the middle of the room on a couple of chairs, and then set all our chairs in rows, and borrowed more from the neighbors till the hall and the parlor and the dining-room was full. I see the coffin lid was the way it was before, but I dasn’t go to look in under it, with folks around.\n\nThen the people begun to flock in, and the beats and the girls took seats in the front row at the head of the coffin, and for a half an hour the people filed around slow, in single rank, and looked down at the dead man’s face a minute, and some dropped in a tear, and it was all very still and solemn, only the girls and the beats holding handkerchiefs to their eyes and keeping their heads bent, and sobbing a little. There warn’t no other sound but the scraping of the feet on the floor and blowing noses—because people always blows them more at a funeral than they do at other places except church.\n\nWhen the place was packed full the undertaker he slid around in his black gloves with his softy soothering ways, putting on the last touches, and getting people and things all ship-shape and comfortable, and making no more sound than a cat. He never spoke; he moved people around, he squeezed in late ones, he opened up passageways, and done it with nods, and signs with his hands. Then he took his place over against the wall. He was the softest, glidingest, stealthiest man I ever see; and there warn’t no more smile to him than there is to a ham.\n\nThey had borrowed a melodeum—a sick one; and when everything was ready a young woman set down and worked it, and it was pretty skreeky and colicky, and everybody joined in and sung, and Peter was the only one that had a good thing, according to my notion. Then the Reverend Hobson opened up, slow and solemn, and begun to talk; and straight off the most outrageous row busted out in the cellar a body ever heard; it was only one dog, but he made a most powerful racket, and he kept it up right along; the parson he had to stand there, over the coffin, and wait—you couldn’t hear yourself think."
+      },
+      "request_id": "0253312f14bc1a1e7d9c726c",
+      "request_sha256": "4f4c1dfe9d8da9eef2eccac2b786c8586326ac4584942ed7b171035daa691f03",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bc6c6680a36cc61f5fadf180cefeac3d152b9c3a103541d42df8c600379c5d4b"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

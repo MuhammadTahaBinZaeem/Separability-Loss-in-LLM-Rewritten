@@ -1,0 +1,68 @@
+{
+  "batch_id": "4757ec65571624763007",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:44:31.594525+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c7ba708943c5cf108dea5026",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_shelley_frankenstein_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: c7ba708943c5cf108dea5026\noriginal_word_count: 450\n\nPassage:\nElizabeth was sad and desponding; she no longer took delight in her ordinary occupations; all pleasure seemed to her sacrilege toward the dead; eternal woe and tears she then thought was the just tribute she should pay to innocence so blasted and destroyed. She was no longer that happy creature who in earlier youth wandered with me on the banks of the lake and talked with ecstasy of our future prospects. The first of those sorrows which are sent to wean us from the earth had visited her, and its dimming influence quenched her dearest smiles.\n\n“When I reflect, my dear cousin,” said she, “on the miserable death of Justine Moritz, I no longer see the world and its works as they before appeared to me. Before, I looked upon the accounts of vice and injustice that I read in books or heard from others as tales of ancient days or imaginary evils; at least they were remote and more familiar to reason than to the imagination; but now misery has come home, and men appear to me as monsters thirsting for each other’s blood. Yet I am certainly unjust. Everybody believed that poor girl to be guilty; and if she could have committed the crime for which she suffered, assuredly she would have been the most depraved of human creatures. For the sake of a few jewels, to have murdered the son of her benefactor and friend, a child whom she had nursed from its birth, and appeared to love as if it had been her own! I could not consent to the death of any human being, but certainly I should have thought such a creature unfit to remain in the society of men. But she was innocent. I know, I feel she was innocent; you are of the same opinion, and that confirms me. Alas! Victor, when falsehood can look so like the truth, who can assure themselves of certain happiness? I feel as if I were walking on the edge of a precipice, towards which thousands are crowding and endeavouring to plunge me into the abyss. William and Justine were assassinated, and the murderer escapes; he walks about the world free, and perhaps respected. But even if I were condemned to suffer on the scaffold for the same crimes, I would not change places with such a wretch.”\n\nI listened to this discourse with the extremest agony. I, not in deed, but in effect, was the true murderer. Elizabeth read my anguish in my countenance, and kindly taking my hand, said, “My dearest friend, you must calm yourself. These events have affected me, God knows how deeply; but I am not so wretched as you are."
+      },
+      "request_id": "c7ba708943c5cf108dea5026",
+      "request_sha256": "6969197d372fe096b129aab4486d4658d275bae1bd083cb3787a1e6b088f90e4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8a1760508382bf56e15b865bf1128c2147f7ebf3d0ad5de2fd3f6a553f5e9868"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5a62bfa99f998be8ea9900e3",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_poe_the_gold_bug_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 5a62bfa99f998be8ea9900e3\noriginal_word_count: 454\n\nPassage:\nHis demeanor was dogged in the extreme, and “dat deuced bug” were the sole words which escaped his lips during the journey. For my own part, I had charge of a couple of dark lanterns, while Legrand contented himself with the _scarabæus_, which he carried attached to the end of a bit of whip-cord; twirling it to and fro, with the air of a conjuror, as he went. When I observed this last, plain evidence of my friend’s aberration of mind, I could scarcely refrain from tears. I thought it best, however, to humor his fancy, at least for the present, or until I could adopt some more energetic measures with a chance of success. In the mean time I endeavored, but all in vain, to sound him in regard to the object of the expedition. Having succeeded in inducing me to accompany him, he seemed unwilling to hold conversation upon any topic of minor importance, and to all my questions vouchsafed no other reply than “we shall see!”\n\nWe crossed the creek at the head of the island by means of a skiff, and, ascending the high grounds on the shore of the main land, proceeded in a northwesterly direction, through a tract of country excessively wild and desolate, where no trace of a human footstep was to be seen. Legrand led the way with decision; pausing only for an instant, here and there, to consult what appeared to be certain landmarks of his own contrivance upon a former occasion.\n\nIn this manner we journeyed for about two hours, and the sun was just setting when we entered a region infinitely more dreary than any yet seen. It was a species of table land, near the summit of an almost inaccessible hill, densely wooded from base to pinnacle, and interspersed with huge crags that appeared to lie loosely upon the soil, and in many cases were prevented from precipitating themselves into the valleys below, merely by the support of the trees against which they reclined. Deep ravines, in various directions, gave an air of still sterner solemnity to the scene.\n\nThe natural platform to which we had clambered was thickly overgrown with brambles, through which we soon discovered that it would have been impossible to force our way but for the scythe; and Jupiter, by direction of his master, proceeded to clear for us a path to the foot of an enormously tall tulip-tree, which stood, with some eight or ten oaks, upon the level, and far surpassed them all, and all other trees which I had then ever seen, in the beauty of its foliage and form, in the wide spread of its branches, and in the general majesty of its appearance."
+      },
+      "request_id": "5a62bfa99f998be8ea9900e3",
+      "request_sha256": "d7ee3a298f9d7733f49a003d7b4775edae368df9ee30b59d4988bb70b1c803c8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "01b7209125dc641f223af9e432fd0d99e694366ff4b9d82a22caf2b07515e530"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "72def8b10ee4bb7b4d520f06",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 516,
+      "passage_id": "V2_poe_the_gold_bug_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 72def8b10ee4bb7b4d520f06\noriginal_word_count: 516\n\nPassage:\nIn the centre of this rift I perceived a white spot, but could not, at first, distinguish what it was. Adjusting the focus of the telescope, I again looked, and now made it out to be a human skull.\n\n“Upon this discovery I was so sanguine as to consider the enigma solved; for the phrase ‘main branch, seventh limb, east side,’ could refer only to the position of the skull upon the tree, while ‘shoot from the left eye of the death’s head’ admitted, also, of but one interpretation, in regard to a search for buried treasure. I perceived that the design was to drop a bullet from the left eye of the skull, and that a bee-line, or, in other words, a straight line, drawn from the nearest point of the trunk through ‘the shot,’ (or the spot where the bullet fell,) and thence extended to a distance of fifty feet, would indicate a definite point—and beneath this point I thought it at least possible that a deposit of value lay concealed.”\n\n“All this,” I said, “is exceedingly clear, and, although ingenious, still simple and explicit. When you left the Bishop’s Hotel, what then?”\n\n“Why, having carefully taken the bearings of the tree, I turned homewards. The instant that I left ‘the devil’s seat,’ however, the circular rift vanished; nor could I get a glimpse of it afterwards, turn as I would. What seems to me the chief ingenuity in this whole business, is the fact (for repeated experiment has convinced me it is a fact) that the circular opening in question is visible from no other attainable point of view than that afforded by the narrow ledge upon the face of the rock.\n\n“In this expedition to the ‘Bishop’s Hotel’ I had been attended by Jupiter, who had, no doubt, observed, for some weeks past, the abstraction of my demeanor, and took especial care not to leave me alone. But, on the next day, getting up very early, I contrived to give him the slip, and went into the hills in search of the tree. After much toil I found it. When I came home at night my valet proposed to give me a flogging. With the rest of the adventure I believe you are as well acquainted as myself.”\n\n“I suppose,” said I, “you missed the spot, in the first attempt at digging, through Jupiter’s stupidity in letting the bug fall through the right instead of through the left eye of the skull.”\n\n“Precisely. This mistake made a difference of about two inches and a half in the ‘shot’—that is to say, in the position of the peg nearest the tree; and had the treasure been beneath the ‘shot,’ the error would have been of little moment; but ‘the shot,’ together with the nearest point of the tree, were merely two points for the establishment of a line of direction; of course the error, however trivial in the beginning, increased as we proceeded with the line, and by the time we had gone fifty feet, threw us quite off the scent."
+      },
+      "request_id": "72def8b10ee4bb7b4d520f06",
+      "request_sha256": "1b4e9fb1c4c16211569281191931fa7c994c863932277c66fc804422f18c3ca8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "368a08d73f4cf6d52bb24069d574d8be249da34f422496710801ee641791c8a4"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

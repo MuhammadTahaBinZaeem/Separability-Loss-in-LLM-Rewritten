@@ -1,0 +1,14 @@
+{
+  "contrast_rows": 189,
+  "manifest_sha256": "5a4969137e5c4214c39f385bf637770e12ea7db1a61927b7ac6b440777cf2857",
+  "matrix_cells": 336,
+  "model_key": "codex51",
+  "not_independent_human_review": true,
+  "passed": true,
+  "prediction_rows": 107856,
+  "submission_ready": false,
+  "transforms_refitted": 105,
+  "verified_scope": "hashes_cohorts_views_fold_alignment_transform_refits_scores_and_paired_CIs",
+  "verified_utc": "2026-09-28T13:05:37.562514+00:00",
+  "verifier_sha256": "48ee1cd6bbff6aaaf062f6333846a3f701c38d453dc867aceb501678b859d973"
+}

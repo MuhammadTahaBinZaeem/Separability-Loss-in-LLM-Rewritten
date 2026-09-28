@@ -1,0 +1,68 @@
+{
+  "batch_id": "6bb92f2be7d8b6f10d43",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:57:38.308309+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a6952f422c0900f1eb019e04",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_wilde_canterville_ghost_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: a6952f422c0900f1eb019e04\noriginal_word_count: 459\n\nPassage:\nThis was Mrs. Umney, the housekeeper, whom Mrs. Otis, at Lady Canterville’s earnest request, had consented to keep on in her former position. She made them each a low curtsey as they alighted, and said in a quaint, old-fashioned manner, ‘I bid you welcome to Canterville Chase.’ Following her, they passed through the fine Tudor hall into the library, a long, low room, panelled in black oak, at the end of which was a large stained-glass window. Here they found tea laid out for them, and, after taking off their wraps, they sat down and began to look round, while Mrs. Umney waited on them.\n\nSuddenly Mrs. Otis caught sight of a dull red stain on the floor just by the fireplace and, quite unconscious of what it really signified, said to Mrs. Umney, ‘I am afraid something has been spilt there.’\n\n‘Yes, madam,’ replied the old housekeeper in a low voice, ‘blood has been spilt on that spot.’\n\n‘How horrid,’ cried Mrs. Otis; ‘I don’t at all care for blood-stains in a sitting-room. It must be removed at once.’\n\nThe old woman smiled, and answered in the same low, mysterious voice, ‘It is the blood of Lady Eleanore de Canterville, who was murdered on that very spot by her own husband, Sir Simon de Canterville, in 1575. Sir Simon survived her nine years, and disappeared suddenly under very mysterious circumstances. His body has never been discovered, but his guilty spirit still haunts the Chase. The blood-stain has been much admired by tourists and others, and cannot be removed.’\n\n‘That is all nonsense,’ cried Washington Otis; ‘Pinkerton’s Champion Stain Remover and Paragon Detergent will clean it up in no time,’ and before the terrified housekeeper could interfere he had fallen upon his knees, and was rapidly scouring the floor with a small stick of what looked like a black cosmetic. In a few moments no trace of the blood-stain could be seen.\n\n‘I knew Pinkerton would do it,’ he exclaimed triumphantly, as he looked round at his admiring family; but no sooner had he said these words than a terrible flash of lightning lit up the sombre room, a fearful peal of thunder made them all start to their feet, and Mrs. Umney fainted.\n\n‘What a monstrous climate!’ said the American Minister calmly, as he lit a long cheroot. ‘I guess the old country is so overpopulated that they have not enough decent weather for everybody. I have always been of opinion that emigration is the only thing for England.’\n\n‘My dear Hiram,’ cried Mrs. Otis, ‘what can we do with a woman who faints?’\n\n‘Charge it to her like breakages,’ answered the Minister; ‘she won’t faint after that’; and in a few moments Mrs. Umney certainly came to."
+      },
+      "request_id": "a6952f422c0900f1eb019e04",
+      "request_sha256": "b4d3a74758e2fe6be85c034061d1f05043d6bd66794a9100bbb8b2d20f9d9e6c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e558d7ddc31d9cc0e6da7a07f330984cb58498a7e6ba626640b45cc0ab48f9b0"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "56512a6bb277a97fc7877d7a",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_twain_tom_sawyer_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 56512a6bb277a97fc7877d7a\noriginal_word_count: 459\n\nPassage:\n“Tom!”\n\nNo answer.\n\n“TOM!”\n\nNo answer.\n\n“What’s gone with that boy, I wonder? You TOM!”\n\nNo answer.\n\nThe old lady pulled her spectacles down and looked over them about the room; then she put them up and looked out under them. She seldom or never looked _through_ them for so small a thing as a boy; they were her state pair, the pride of her heart, and were built for “style,” not service—she could have seen through a pair of stove-lids just as well. She looked perplexed for a moment, and then said, not fiercely, but still loud enough for the furniture to hear:\n\n“Well, I lay if I get hold of you I’ll—”\n\nShe did not finish, for by this time she was bending down and punching under the bed with the broom, and so she needed breath to punctuate the punches with. She resurrected nothing but the cat.\n\n“I never did see the beat of that boy!”\n\nShe went to the open door and stood in it and looked out among the tomato vines and “jimpson” weeds that constituted the garden. No Tom. So she lifted up her voice at an angle calculated for distance and shouted:\n\n“Y-o-u-u TOM!”\n\nThere was a slight noise behind her and she turned just in time to seize a small boy by the slack of his roundabout and arrest his flight.\n\n“There! I might ’a’ thought of that closet. What you been doing in there?”\n\n“Nothing.”\n\n“Nothing! Look at your hands. And look at your mouth. What _is_ that truck?”\n\n“I don’t know, aunt.”\n\n“Well, I know. It’s jam—that’s what it is. Forty times I’ve said if you didn’t let that jam alone I’d skin you. Hand me that switch.”\n\nThe switch hovered in the air—the peril was desperate—\n\n“My! Look behind you, aunt!”\n\nThe old lady whirled round, and snatched her skirts out of danger. The lad fled on the instant, scrambled up the high board-fence, and disappeared over it.\n\nHis aunt Polly stood surprised a moment, and then broke into a gentle laugh.\n\n“Hang the boy, can’t I never learn anything? Ain’t he played me tricks enough like that for me to be looking out for him by this time? But old fools is the biggest fools there is. Can’t learn an old dog new tricks, as the saying is. But my goodness, he never plays them alike, two days, and how is a body to know what’s coming? He ’pears to know just how long he can torment me before I get my dander up, and he knows if he can make out to put me off for a minute or make me laugh, it’s all down again and I can’t hit him a lick."
+      },
+      "request_id": "56512a6bb277a97fc7877d7a",
+      "request_sha256": "6e886ca7a9a36b7c09ee824d42177b434c3832d540ea0cb6b1f7db1566e06169",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1559a7e2f0f2e51578717f1d7fc18a1c5827cd776f1b7eacb7282418293fc6fc"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "88df7a0f0bf7ebe5f1898619",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_hans_pfaal_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 88df7a0f0bf7ebe5f1898619\noriginal_word_count: 455\n\nPassage:\nIn passing my hand through the valve, with a cup of water for the old puss, the sleeves of my shirt became entangled in the loop which sustained the basket, and thus, in a moment, loosened it from the bottom. Had the whole actually vanished into air, it could not have shot from my sight in a more abrupt and instantaneous manner. Positively, there could not have intervened the tenth part of a second between the disengagement of the basket and its absolute and total disappearance with all that it contained. My good wishes followed it to the earth, but of course, I had no hope that either cat or kittens would ever live to tell the tale of their misfortune.\n\n“At six o’clock, I perceived a great portion of the earth’s visible area to the eastward involved in thick shadow, which continued to advance with great rapidity, until, at five minutes before seven, the whole surface in view was enveloped in the darkness of night. It was not, however, until long after this time that the rays of the setting sun ceased to illumine the balloon; and this circumstance, although of course fully anticipated, did not fail to give me an infinite deal of pleasure. It was evident that, in the morning, I should behold the rising luminary many hours at least before the citizens of Rotterdam, in spite of their situation so much farther to the eastward, and thus, day after day, in proportion to the height ascended, would I enjoy the light of the sun for a longer and a longer period. I now determined to keep a journal of my passage, reckoning the days from one to twenty-four hours continuously, without taking into consideration the intervals of darkness.\n\n“At ten o’clock, feeling sleepy, I determined to lie down for the rest of the night; but here a difficulty presented itself, which, obvious as it may appear, had escaped my attention up to the very moment of which I am now speaking. If I went to sleep as I proposed, how could the atmosphere in the chamber be regenerated in the interim? To breathe it for more than an hour, at the farthest, would be a matter of impossibility, or, if even this term could be extended to an hour and a quarter, the most ruinous consequences might ensue. The consideration of this dilemma gave me no little disquietude; and it will hardly be believed, that, after the dangers I had undergone, I should look upon this business in so serious a light, as to give up all hope of accomplishing my ultimate design, and finally make up my mind to the necessity of a descent. But this hesitation was only momentary."
+      },
+      "request_id": "88df7a0f0bf7ebe5f1898619",
+      "request_sha256": "69a739a58a3197f4235886b0d893b4ebdfa6641cb4bf4f614af05ba099104486",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1bf4b80034135a95aa07f8e8f0f4f322b9cef0630195687de853a590f63b6dec"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "958bab2dfbd1c1995c55",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:15:07.253515+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0cc52115b6aa95b51485dc4a",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 0cc52115b6aa95b51485dc4a\noriginal_word_count: 451\n\nPassage:\nThe next day he did not leave the house, and, indeed, spent most of the time in his own room, sick with a wild terror of dying, and yet indifferent to life itself. The consciousness of being hunted, snared, tracked down, had begun to dominate him. If the tapestry did but tremble in the wind, he shook. The dead leaves that were blown against the leaded panes seemed to him like his own wasted resolutions and wild regrets. When he closed his eyes, he saw again the sailor’s face peering through the mist-stained glass, and horror seemed once more to lay its hand upon his heart.\n\nBut perhaps it had been only his fancy that had called vengeance out of the night and set the hideous shapes of punishment before him. Actual life was chaos, but there was something terribly logical in the imagination. It was the imagination that set remorse to dog the feet of sin. It was the imagination that made each crime bear its misshapen brood. In the common world of fact the wicked were not punished, nor the good rewarded. Success was given to the strong, failure thrust upon the weak. That was all. Besides, had any stranger been prowling round the house, he would have been seen by the servants or the keepers. Had any foot-marks been found on the flower-beds, the gardeners would have reported it. Yes, it had been merely fancy. Sibyl Vane’s brother had not come back to kill him. He had sailed away in his ship to founder in some winter sea. From him, at any rate, he was safe. Why, the man did not know who he was, could not know who he was. The mask of youth had saved him.\n\nAnd yet if it had been merely an illusion, how terrible it was to think that conscience could raise such fearful phantoms, and give them visible form, and make them move before one! What sort of life would his be if, day and night, shadows of his crime were to peer at him from silent corners, to mock him from secret places, to whisper in his ear as he sat at the feast, to wake him with icy fingers as he lay asleep! As the thought crept through his brain, he grew pale with terror, and the air seemed to him to have become suddenly colder. Oh! in what a wild hour of madness he had killed his friend! How ghastly the mere memory of the scene! He saw it all again. Each hideous detail came back to him with added horror. Out of the black cave of time, terrible and swathed in scarlet, rose the image of his sin."
+      },
+      "request_id": "0cc52115b6aa95b51485dc4a",
+      "request_sha256": "9e19cd655f5bd84f715118bef9db17f70d612b3f1417298e66f3e5b961f2b1bc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a51a7b48c729510e9a7768063ac3a145f0ad1e142ff35d6ed4166eb131d4069e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d2925416a6c522a2d4174fb0",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_hans_pfaal_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: d2925416a6c522a2d4174fb0\noriginal_word_count: 455\n\nPassage:\nIn passing my hand through the valve, with a cup of water for the old puss, the sleeves of my shirt became entangled in the loop which sustained the basket, and thus, in a moment, loosened it from the bottom. Had the whole actually vanished into air, it could not have shot from my sight in a more abrupt and instantaneous manner. Positively, there could not have intervened the tenth part of a second between the disengagement of the basket and its absolute and total disappearance with all that it contained. My good wishes followed it to the earth, but of course, I had no hope that either cat or kittens would ever live to tell the tale of their misfortune.\n\n“At six o’clock, I perceived a great portion of the earth’s visible area to the eastward involved in thick shadow, which continued to advance with great rapidity, until, at five minutes before seven, the whole surface in view was enveloped in the darkness of night. It was not, however, until long after this time that the rays of the setting sun ceased to illumine the balloon; and this circumstance, although of course fully anticipated, did not fail to give me an infinite deal of pleasure. It was evident that, in the morning, I should behold the rising luminary many hours at least before the citizens of Rotterdam, in spite of their situation so much farther to the eastward, and thus, day after day, in proportion to the height ascended, would I enjoy the light of the sun for a longer and a longer period. I now determined to keep a journal of my passage, reckoning the days from one to twenty-four hours continuously, without taking into consideration the intervals of darkness.\n\n“At ten o’clock, feeling sleepy, I determined to lie down for the rest of the night; but here a difficulty presented itself, which, obvious as it may appear, had escaped my attention up to the very moment of which I am now speaking. If I went to sleep as I proposed, how could the atmosphere in the chamber be regenerated in the interim? To breathe it for more than an hour, at the farthest, would be a matter of impossibility, or, if even this term could be extended to an hour and a quarter, the most ruinous consequences might ensue. The consideration of this dilemma gave me no little disquietude; and it will hardly be believed, that, after the dangers I had undergone, I should look upon this business in so serious a light, as to give up all hope of accomplishing my ultimate design, and finally make up my mind to the necessity of a descent. But this hesitation was only momentary."
+      },
+      "request_id": "d2925416a6c522a2d4174fb0",
+      "request_sha256": "33956a43860ca7a5fc96f8f792c025d0835ebde40c3c779e12016cf12474814b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1bf4b80034135a95aa07f8e8f0f4f322b9cef0630195687de853a590f63b6dec"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e80f0bfde4c64754627df6a1",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 479,
+      "passage_id": "V2_shelley_mathilda_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: e80f0bfde4c64754627df6a1\noriginal_word_count: 479\n\nPassage:\nAnd then I repeated to myself all that lovely passage that relates the entrance of Dante into the terrestrial Paradise; and thought it would be sweet when I wandered on those lovely banks to see the car of light descend with my long lost parent to be restored to me. As I waited there in expectation of that moment, I thought how, of the lovely flowers that grew there, I would wind myself a chaplet and crown myself for joy: I would sing _sul margine d’un rio_, my father’s favourite song, and that my voice gliding through the windless air would announce to him in whatever bower he sat expecting the moment of our union, that his daughter was come. Then the mark of misery would have faded from my brow, and I should raise my eyes fearlessly to meet his, which ever beamed with the soft lustre of innocent love. When I reflected on the magic look of those deep eyes I wept, but gently, lest my sobs should disturb the fairy scene.\n\nI was so entirely wrapt in this reverie that I wandered on, taking no heed of my steps until I actually stooped down to gather a flower for my wreath on that bleak plain where no flower grew, when I awoke from my day dream and found myself I knew not where.\n\nThe sun had set and the roseate hue which the clouds had caught from him in his descent had nearly died away. A wind swept across the plain, I looked around me and saw no object that told me where I was; I had lost myself, and in vain attempted to find my path. I wandered on, and the coming darkness made every trace indistinct by which I might be guided. At length all was veiled in the deep obscurity of blackest night; I became weary and knowing that my servant was to sleep that night at the neighbouring village, so that my absence would alarm no one; and that I was safe in this wild spot from every intruder, I resolved to spend the night where I was. Indeed I was too weary to walk further: the air was chill but I was careless of bodily inconvenience, and I thought that I was well inured to the weather during my two years of solitude, when no change of seasons prevented my perpetual wanderings.\n\nI lay upon the grass surrounded by a darkness which not the slightest beam of light penetrated--There was no sound for the deep night had laid to sleep the insects, the only creatures that lived on the lone spot where no tree or shrub could afford shelter to aught else--There was a wondrous silence in the air that calmed my senses yet which enlivened my soul, my mind hurried from image to image and seemed to grasp an eternity."
+      },
+      "request_id": "e80f0bfde4c64754627df6a1",
+      "request_sha256": "8febcc44615d8d4bd225bc1d934e50385427e9c713e73ae1b74fb6f171b6421f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7cf6fb4494a854eccb8fb8130df9e863fd49ec25f771fe6ab7c13a6c7f6eafb5"
+    }
+  ],
+  "session_id": "01a0e85c-7f66-73c1-b91c-6413115a4ff4",
+  "worker_id": "astra_s",
+  "worker_identity_sha256": "17b5f2fab7368788746600871fd66c46b6c1c2ea93360ddace6823c5041f0625"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "10deed9cff28cf304e1a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:23:38.862804+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e63d09b19091f14d2dbd93da",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_dickens_great_expectations_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: e63d09b19091f14d2dbd93da\noriginal_word_count: 459\n\nPassage:\nDo you often come back?”\n\n“I have never been here since.”\n\n“Nor I.”\n\nThe moon began to rise, and I thought of the placid look at the white ceiling, which had passed away. The moon began to rise, and I thought of the pressure on my hand when I had spoken the last words he had heard on earth.\n\nEstella was the next to break the silence that ensued between us.\n\n“I have very often hoped and intended to come back, but have been prevented by many circumstances. Poor, poor old place!”\n\nThe silvery mist was touched with the first rays of the moonlight, and the same rays touched the tears that dropped from her eyes. Not knowing that I saw them, and setting herself to get the better of them, she said quietly,—\n\n“Were you wondering, as you walked along, how it came to be left in this condition?”\n\n“Yes, Estella.”\n\n“The ground belongs to me. It is the only possession I have not relinquished. Everything else has gone from me, little by little, but I have kept this. It was the subject of the only determined resistance I made in all the wretched years.”\n\n“Is it to be built on?”\n\n“At last, it is. I came here to take leave of it before its change. And you,” she said, in a voice of touching interest to a wanderer,—“you live abroad still?”\n\n“Still.”\n\n“And do well, I am sure?”\n\n“I work pretty hard for a sufficient living, and therefore—yes, I do well.”\n\n“I have often thought of you,” said Estella.\n\n“Have you?”\n\n“Of late, very often. There was a long hard time when I kept far from me the remembrance of what I had thrown away when I was quite ignorant of its worth. But since my duty has not been incompatible with the admission of that remembrance, I have given it a place in my heart.”\n\n“You have always held your place in my heart,” I answered.\n\nAnd we were silent again until she spoke.\n\n“I little thought,” said Estella, “that I should take leave of you in taking leave of this spot. I am very glad to do so.”\n\n“Glad to part again, Estella? To me, parting is a painful thing. To me, the remembrance of our last parting has been ever mournful and painful.”\n\n“But you said to me,” returned Estella, very earnestly, “‘God bless you, God forgive you!’ And if you could say that to me then, you will not hesitate to say that to me now,—now, when suffering has been stronger than all other teaching, and has taught me to understand what your heart used to be. I have been bent and broken, but—I hope—into a better shape."
+      },
+      "request_id": "e63d09b19091f14d2dbd93da",
+      "request_sha256": "cd677468063b8d3dbaa38059b25ce24a6b9e9c6ece0f49c40bbe805091f822f5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5f038a8ffc18e2b73c5dda68984d76b39cb26489c2bd3cf499af7ee10926eac8"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "795cb26d024707844dac6212",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_dickens_oliver_twist_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 795cb26d024707844dac6212\noriginal_word_count: 485\n\nPassage:\nMatters being thus amicably and satisfactorily arranged, the contract was solemnly ratified in another teacupful of the peppermint mixture; which was rendered the more necessary, by the flutter and agitation of the lady’s spirits. While it was being disposed of, she acquainted Mr. Bumble with the old woman’s decease.\n\n“Very good,” said that gentleman, sipping his peppermint; “I’ll call at Sowerberry’s as I go home, and tell him to send tomorrow morning. Was it that as frightened you, love?”\n\n“It wasn’t anything particular, dear,” said the lady evasively.\n\n“It must have been something, love,” urged Mr. Bumble. “Won’t you tell your own B.?”\n\n“Not now,” rejoined the lady; “one of these days. After we’re married, dear.”\n\n“After we’re married!” exclaimed Mr. Bumble. “It wasn’t any impudence from any of them male paupers as—”\n\n“No, no, love!” interposed the lady, hastily.\n\n“If I thought it was,” continued Mr. Bumble; “if I thought as any one of ’em had dared to lift his wulgar eyes to that lovely countenance—”\n\n“They wouldn’t have dared to do it, love,” responded the lady.\n\n“They had better not!” said Mr. Bumble, clenching his fist. “Let me see any man, porochial or extra-porochial, as would presume to do it; and I can tell him that he wouldn’t do it a second time!”\n\nUnembellished by any violence of gesticulation, this might have seemed no very high compliment to the lady’s charms; but, as Mr. Bumble accompanied the threat with many warlike gestures, she was much touched with this proof of his devotion, and protested, with great admiration, that he was indeed a dove.\n\nThe dove then turned up his coat-collar, and put on his cocked hat; and, having exchanged a long and affectionate embrace with his future partner, once again braved the cold wind of the night: merely pausing, for a few minutes, in the male paupers’ ward, to abuse them a little, with the view of satisfying himself that he could fill the office of workhouse-master with needful acerbity. Assured of his qualifications, Mr. Bumble left the building with a light heart, and bright visions of his future promotion: which served to occupy his mind until he reached the shop of the undertaker.\n\nNow, Mr. and Mrs. Sowerberry having gone out to tea and supper: and Noah Claypole not being at any time disposed to take upon himself a greater amount of physical exertion than is necessary to a convenient performance of the two functions of eating and drinking, the shop was not closed, although it was past the usual hour of shutting-up. Mr. Bumble tapped with his cane on the counter several times; but, attracting no attention, and beholding a light shining through the glass-window of the little parlour at the back of the shop, he made bold to peep in and see what was going forward; and when he saw what was going forward, he was not a little surprised."
+      },
+      "request_id": "795cb26d024707844dac6212",
+      "request_sha256": "ef257fd3d2ed689fa58d6a4b577a6ee6e4528d969caefd43a7396a5f391926a5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7d0ad7902a20b926194cf57c17bbec679bada66fdb36f320f2a719368ad2837f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6fe3538c9bcf3be145010185",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_twain_tom_sawyer_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 6fe3538c9bcf3be145010185\noriginal_word_count: 451\n\nPassage:\nThere was abundance of cold water to finish the feast with. By-and-by Becky suggested that they move on again. Tom was silent a moment. Then he said:\n\n“Becky, can you bear it if I tell you something?”\n\nBecky’s face paled, but she thought she could.\n\n“Well, then, Becky, we must stay here, where there’s water to drink. That little piece is our last candle!”\n\nBecky gave loose to tears and wailings. Tom did what he could to comfort her, but with little effect. At length Becky said:\n\n“Tom!”\n\n“Well, Becky?”\n\n“They’ll miss us and hunt for us!”\n\n“Yes, they will! Certainly they will!”\n\n“Maybe they’re hunting for us now, Tom.”\n\n“Why, I reckon maybe they are. I hope they are.”\n\n“When would they miss us, Tom?”\n\n“When they get back to the boat, I reckon.”\n\n“Tom, it might be dark then—would they notice we hadn’t come?”\n\n“I don’t know. But anyway, your mother would miss you as soon as they got home.”\n\nA frightened look in Becky’s face brought Tom to his senses and he saw that he had made a blunder. Becky was not to have gone home that night! The children became silent and thoughtful. In a moment a new burst of grief from Becky showed Tom that the thing in his mind had struck hers also—that the Sabbath morning might be half spent before Mrs. Thatcher discovered that Becky was not at Mrs. Harper’s.\n\nThe children fastened their eyes upon their bit of candle and watched it melt slowly and pitilessly away; saw the half inch of wick stand alone at last; saw the feeble flame rise and fall, climb the thin column of smoke, linger at its top a moment, and then—the horror of utter darkness reigned!\n\nHow long afterward it was that Becky came to a slow consciousness that she was crying in Tom’s arms, neither could tell. All that they knew was, that after what seemed a mighty stretch of time, both awoke out of a dead stupor of sleep and resumed their miseries once more. Tom said it might be Sunday, now—maybe Monday. He tried to get Becky to talk, but her sorrows were too oppressive, all her hopes were gone. Tom said that they must have been missed long ago, and no doubt the search was going on. He would shout and maybe some one would come. He tried it; but in the darkness the distant echoes sounded so hideously that he tried it no more.\n\nThe hours wasted away, and hunger came to torment the captives again. A portion of Tom’s half of the cake was left; they divided and ate it. But they seemed hungrier than before."
+      },
+      "request_id": "6fe3538c9bcf3be145010185",
+      "request_sha256": "faaa6cb2a9fa1467a7a71941f94b39d00633a90329bf543414c59ef9d095a494",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c4be87da3702e4382a3663e5148375a53e337d072ac2d5888a731dd363480caa"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

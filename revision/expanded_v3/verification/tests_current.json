@@ -1,6 +1,6 @@
 {
-  "code_fingerprint": "1ee532ef92bb471ae397872ce87e42e095fc1bab72f8272cc87d3180774ac6b2",
-  "completed_utc": "2026-09-28T12:17:34.774453+00:00",
+  "code_fingerprint": "84f566d2e482186289bfc520f285038f55eb54a8be0d867a62cb157337c174d7",
+  "completed_utc": "2026-09-28T12:58:23.480278+00:00",
   "environment": {
     "locked_distributions": 24,
     "mismatches": [],
@@ -8,9 +8,9 @@
     "python": "3.12.11"
   },
   "failures": 0,
-  "output": "........................................................................ [ 59%]\n.................................................                        [100%]\n============================== warnings summary ===============================\ntests/test_transfer_extension.py::test_identity_rewrite_control_cannot_create_an_attribution_gap\ntests/test_transfer_extension.py::test_identity_rewrite_control_cannot_create_an_attribution_gap\n  C:\\Users\\Empty\\Documents\\Paper\\.venv\\Lib\\site-packages\\sklearn\\neighbors\\_nearest_centroid.py:241: UserWarning: self.within_class_std_dev_ has at least 1 zero standard deviation.Inputs within the same classes for at least 1 feature are identical.\n    warnings.warn(\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n121 passed, 2 warnings in 21.50s\n",
+  "output": "........................................................................ [ 57%]\n.....................................................                    [100%]\n=============================== warnings summary ===============================\ntests/test_transfer_extension.py::test_identity_rewrite_control_cannot_create_an_attribution_gap\ntests/test_transfer_extension.py::test_identity_rewrite_control_cannot_create_an_attribution_gap\n  /home/zaruka/.local/share/paper-research-py312/lib/python3.12/site-packages/sklearn/neighbors/_nearest_centroid.py:241: UserWarning: self.within_class_std_dev_ has at least 1 zero standard deviation.Inputs within the same classes for at least 1 feature are identical.\n    warnings.warn(\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n125 passed, 2 warnings in 9.42s\n",
   "passed": true,
-  "receipt_sha256": "4e3668681acba8178f684d85dcffd62a004276c0c10c8421614203bd82eb1797",
+  "receipt_sha256": "8395becacc1d6f3c586a9cc0a59854a54725424147c31db8ad83ee2645654ed8",
   "return_code": 0,
-  "test_count": 121
+  "test_count": 125
 }

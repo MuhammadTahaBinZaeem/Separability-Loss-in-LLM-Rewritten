@@ -1,0 +1,68 @@
+{
+  "batch_id": "af8c64314e25447eabb5",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:38:51.001233+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b06732c4e226729418e50f4b",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 480,
+      "passage_id": "V2_poe_the_gold_bug_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: b06732c4e226729418e50f4b\noriginal_word_count: 480\n\nPassage:\n“Well, Jup,” said I, “what is the matter now?—how is your master?”\n\n“Why, to speak de troof, massa, him not so berry well as mought be.”\n\n“Not well! I am truly sorry to hear it. What does he complain of?”\n\n“Dar! dat’s it!—him neber ’plain of notin’—but him berry sick for all dat.”\n\n“_Very_ sick, Jupiter!—why didn’t you say so at once? Is he confined to bed?”\n\n“No, dat he aint!—he aint ’fin’d nowhar—dat’s just whar de shoe pinch—my mind is got to be berry hebby ’bout poor Massa Will.”\n\n“Jupiter, I should like to understand what it is you are talking about. You say your master is sick. Hasn’t he told you what ails him?”\n\n“Why, massa, ’taint worf while for to git mad about de matter—Massa Will say noffin at all aint de matter wid him—but den what make him go about looking dis here way, wid he head down and he soldiers up, and as white as a gose? And den he keep a syphon all de time—”\n\n“Keeps a what, Jupiter?”\n\n“Keeps a syphon wid de figgurs on de slate—de queerest figgurs I ebber did see. Ise gittin’ to be skeered, I tell you. Hab for to keep mighty tight eye ’pon him ’noovers. Todder day he gib me slip ’fore de sun up and was gone de whole ob de blessed day. I had a big stick ready cut for to gib him deuced good beating when he did come—but Ise sich a fool dat I hadn’t de heart arter all—he look so berry poorly.”\n\n“Eh?—what?—ah yes!—upon the whole I think you had better not be too severe with the poor fellow—don’t flog him, Jupiter—he can’t very well stand it—but can you form no idea of what has occasioned this illness, or rather this change of conduct? Has anything unpleasant happened since I saw you?”\n\n“No, massa, dey aint bin noffin onpleasant _since_ den—‘twas _’fore_ den I’m feared—‘twas de berry day you was dare.”\n\n“How? what do you mean?”\n\n“Why, massa, I mean de bug—dare now.”\n\n“The what?”\n\n“De bug,—I’m berry sartain dat Massa Will bin bit somewhere ’bout de head by dat goole-bug.”\n\n“And what cause have you, Jupiter, for such a supposition?”\n\n“Claws enuff, massa, and mouff too. I nebber did see sick a deuced bug—he kick and he bite ebery ting what cum near him. Massa Will cotch him fuss, but had for to let him go ’gin mighty quick, I tell you—den was de time he must ha’ got de bite. I did n’t like de look oh de bug mouff, myself, no how, so I would n’t take hold ob him wid my finger, but I cotch him wid a piece ob paper dat I found."
+      },
+      "request_id": "b06732c4e226729418e50f4b",
+      "request_sha256": "205e504cdbbaf16281fa9af95a353be23697f90dde9c90bb55835078e5e20283",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "699b6bc4b3ce11f37d49584b143873c25dbfb141fab6f6d3f725abf375115e10"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d7001a2410d334f4f64d85fe",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_twain_tom_sawyer_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: d7001a2410d334f4f64d85fe\noriginal_word_count: 450\n\nPassage:\nBut no, there was something gaudier even than this. He would be a pirate! That was it! _now_ his future lay plain before him, and glowing with unimaginable splendor. How his name would fill the world, and make people shudder! How gloriously he would go plowing the dancing seas, in his long, low, black-hulled racer, the Spirit of the Storm, with his grisly flag flying at the fore! And at the zenith of his fame, how he would suddenly appear at the old village and stalk into church, brown and weather-beaten, in his black velvet doublet and trunks, his great jack-boots, his crimson sash, his belt bristling with horse-pistols, his crime-rusted cutlass at his side, his slouch hat with waving plumes, his black flag unfurled, with the skull and crossbones on it, and hear with swelling ecstasy the whisperings, “It’s Tom Sawyer the Pirate!—the Black Avenger of the Spanish Main!”\n\nYes, it was settled; his career was determined. He would run away from home and enter upon it. He would start the very next morning. Therefore he must now begin to get ready. He would collect his resources together. He went to a rotten log near at hand and began to dig under one end of it with his Barlow knife. He soon struck wood that sounded hollow. He put his hand there and uttered this incantation impressively:\n\n“What hasn’t come here, come! What’s here, stay here!”\n\nThen he scraped away the dirt, and exposed a pine shingle. He took it up and disclosed a shapely little treasure-house whose bottom and sides were of shingles. In it lay a marble. Tom’s astonishment was boundless! He scratched his head with a perplexed air, and said:\n\n“Well, that beats anything!”\n\nThen he tossed the marble away pettishly, and stood cogitating. The truth was, that a superstition of his had failed, here, which he and all his comrades had always looked upon as infallible. If you buried a marble with certain necessary incantations, and left it alone a fortnight, and then opened the place with the incantation he had just used, you would find that all the marbles you had ever lost had gathered themselves together there, meantime, no matter how widely they had been separated. But now, this thing had actually and unquestionably failed. Tom’s whole structure of faith was shaken to its foundations. He had many a time heard of this thing succeeding but never of its failing before. It did not occur to him that he had tried it several times before, himself, but could never find the hiding-places afterward. He puzzled over the matter some time, and finally decided that some witch had interfered and broken the charm."
+      },
+      "request_id": "d7001a2410d334f4f64d85fe",
+      "request_sha256": "0800bff361142a554b40f775491a3aab2a780d447ec05a0c83411e4922cbd9b1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2fa1ad0d27b12ee18a3e3b443b99386a68f6eec8231482507be9e80e2d272551"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c104d19a5b547589cf557121",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_shelley_the_last_man_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: c104d19a5b547589cf557121\noriginal_word_count: 461\n\nPassage:\nThey were her life; dearer than a spot consecrated to love, dearer than all else the earth contained. The boys heard with childish glee of our removal: Clara asked if we were to go to Athens. “It is possible,” I replied; and her countenance became radiant with pleasure. There she would behold the tomb of her parents, and the territory filled with recollections of her father’s glory. In silence, but without respite, she had brooded over these scenes. It was the recollection of them that had turned her infant gaiety to seriousness, and had impressed her with high and restless thoughts.\n\nThere were many dear friends whom we must not leave behind, humble though they were. There was the spirited and obedient steed which Lord Raymond had given his daughter; there was Alfred’s dog and a pet eagle, whose sight was dimmed through age. But this catalogue of favourites to be taken with us, could not be made without grief to think of our heavy losses, and a deep sigh for the many things we must leave behind. The tears rushed into the eyes of Idris, while Alfred and Evelyn brought now a favourite rose tree, now a marble vase beautifully carved, insisting that these must go, and exclaiming on the pity that we could not take the castle and the forest, the deer and the birds, and all accustomed and cherished objects along with us. “Fond and foolish ones,” I said, “we have lost for ever treasures far more precious than these; and we desert them, to preserve treasures to which in comparison they are nothing. Let us not for a moment forget our object and our hope; and they will form a resistless mound to stop the overflowing of our regret for trifles.”\n\nThe children were easily distracted, and again returned to their prospect of future amusement. Idris had disappeared. She had gone to hide her weakness; escaping from the castle, she had descended to the little park, and sought solitude, that she might there indulge her tears; I found her clinging round an old oak, pressing its rough trunk with her roseate lips, as her tears fell plenteously, and her sobs and broken exclamations could not be suppressed; with surpassing grief I beheld this loved one of my heart thus lost in sorrow! I drew her towards me; and, as she felt my kisses on her eyelids, as she felt my arms press her, she revived to the knowledge of what remained to her. “You are very kind not to reproach me,” she said: “I weep, and a bitter pang of intolerable sorrow tears my heart. And yet I am happy; mothers lament their children, wives lose their husbands, while you and my children are left to me."
+      },
+      "request_id": "c104d19a5b547589cf557121",
+      "request_sha256": "f68c74c7dad9602030dd4402eab118be1b716b5aba095e304670268764467b45",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0e3a3d6efce004cc4b42a26bb1f0249198ade86e6cdbf8957336add38c515662"
+    }
+  ],
+  "session_id": "01a0e86b-c111-7731-bb8d-a8b1262d4d11",
+  "worker_id": "astra_w",
+  "worker_identity_sha256": "02ab474ea794ee28e12552c40deac11a918257ff5dcb600ea6bea9a7ad47fcb2"
+}

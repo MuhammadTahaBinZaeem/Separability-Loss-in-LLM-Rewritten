@@ -1,0 +1,68 @@
+{
+  "batch_id": "c49d9fddfb59315fd620",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:15:53.066035+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ba0c9f7c0eae5d746e5f03ba",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_poe_murders_rue_morgue_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: ba0c9f7c0eae5d746e5f03ba\noriginal_word_count: 464\n\nPassage:\nWhat result, then, has ensued? What impression have I made upon your fancy?”\n\nI felt a creeping of the flesh as Dupin asked me the question. “A madman,” I said, “has done this deed—some raving maniac, escaped from a neighboring _Maison de Santé._”\n\n“In some respects,” he replied, “your idea is not irrelevant. But the voices of madmen, even in their wildest paroxysms, are never found to tally with that peculiar voice heard upon the stairs. Madmen are of some nation, and their language, however incoherent in its words, has always the coherence of syllabification. Besides, the hair of a madman is not such as I now hold in my hand. I disentangled this little tuft from the rigidly clutched fingers of Madame L’Espanaye. Tell me what you can make of it.”\n\n“Dupin!” I said, completely unnerved; “this hair is most unusual—this is no _human_ hair.”\n\n“I have not asserted that it is,” said he; “but, before we decide this point, I wish you to glance at the little sketch I have here traced upon this paper. It is a _fac-simile_ drawing of what has been described in one portion of the testimony as ‘dark bruises, and deep indentations of finger nails,’ upon the throat of Mademoiselle L’Espanaye, and in another (by Messrs. Dumas and Etienne,) as a ‘series of livid spots, evidently the impression of fingers.’\n\n“You will perceive,” continued my friend, spreading out the paper upon the table before us, “that this drawing gives the idea of a firm and fixed hold. There is no _slipping_ apparent. Each finger has retained—possibly until the death of the victim—the fearful grasp by which it originally imbedded itself. Attempt, now, to place all your fingers, at the same time, in the respective impressions as you see them.”\n\nI made the attempt in vain.\n\n“We are possibly not giving this matter a fair trial,” he said. “The paper is spread out upon a plane surface; but the human throat is cylindrical. Here is a billet of wood, the circumference of which is about that of the throat. Wrap the drawing around it, and try the experiment again.”\n\nI did so; but the difficulty was even more obvious than before. “This,” I said, “is the mark of no human hand.”\n\n“Read now,” replied Dupin, “this passage from Cuvier.”\n\nIt was a minute anatomical and generally descriptive account of the large fulvous Ourang-Outang of the East Indian Islands. The gigantic stature, the prodigious strength and activity, the wild ferocity, and the imitative propensities of these mammalia are sufficiently well known to all. I understood the full horrors of the murder at once.\n\n“The description of the digits,” said I, as I made an end of reading, “is in exact accordance with this drawing."
+      },
+      "request_id": "ba0c9f7c0eae5d746e5f03ba",
+      "request_sha256": "0868a36c5ecfb319d562ba00849bf60c99c28a228a519d120402a49b4f503ff8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e78f2d7fb18878632b5ba8b90601d336aa69849de2e198166c264dbe6ce3c1be"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8d5ba561ba409851cd6a998c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_dickens_great_expectations_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8d5ba561ba409851cd6a998c\noriginal_word_count: 457\n\nPassage:\nI thanked him, and apologised. He said, “Not at all,” and resumed.\n\n“Miss Havisham was now an heiress, and you may suppose was looked after as a great match. Her half-brother had now ample means again, but what with debts and what with new madness wasted them most fearfully again. There were stronger differences between him and her than there had been between him and his father, and it is suspected that he cherished a deep and mortal grudge against her as having influenced the father’s anger. Now, I come to the cruel part of the story,—merely breaking off, my dear Handel, to remark that a dinner-napkin will not go into a tumbler.”\n\nWhy I was trying to pack mine into my tumbler, I am wholly unable to say. I only know that I found myself, with a perseverance worthy of a much better cause, making the most strenuous exertions to compress it within those limits. Again I thanked him and apologised, and again he said in the cheerfullest manner, “Not at all, I am sure!” and resumed.\n\n“There appeared upon the scene—say at the races, or the public balls, or anywhere else you like—a certain man, who made love to Miss Havisham. I never saw him (for this happened five-and-twenty years ago, before you and I were, Handel), but I have heard my father mention that he was a showy man, and the kind of man for the purpose. But that he was not to be, without ignorance or prejudice, mistaken for a gentleman, my father most strongly asseverates; because it is a principle of his that no man who was not a true gentleman at heart ever was, since the world began, a true gentleman in manner. He says, no varnish can hide the grain of the wood; and that the more varnish you put on, the more the grain will express itself. Well! This man pursued Miss Havisham closely, and professed to be devoted to her. I believe she had not shown much susceptibility up to that time; but all the susceptibility she possessed certainly came out then, and she passionately loved him. There is no doubt that she perfectly idolized him. He practised on her affection in that systematic way, that he got great sums of money from her, and he induced her to buy her brother out of a share in the brewery (which had been weakly left him by his father) at an immense price, on the plea that when he was her husband he must hold and manage it all. Your guardian was not at that time in Miss Havisham’s counsels, and she was too haughty and too much in love to be advised by any one."
+      },
+      "request_id": "8d5ba561ba409851cd6a998c",
+      "request_sha256": "1f19d8c673deeef1dbd744984f474423496fdab24cdb045f09ee2c8a6965073d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b5b9d8a30d87fc5d6ee1bdcb80a3caae9b880c6a0848edc402918f3c14657dcc"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e3b045f67b049d2ca7f842ec",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_the_last_man_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: e3b045f67b049d2ca7f842ec\noriginal_word_count: 466\n\nPassage:\nI met several funerals; they were slenderly attended by mourners, and were regarded by the spectators as omens of direst import. Some gazed on these processions with wild eagerness— others fled timidly—some wept aloud.\n\nAdrian’s chief endeavour, after the immediate succour of the sick, had been to disguise the symptoms and progress of the plague from the inhabitants of London. He knew that fear and melancholy forebodings were powerful assistants to disease; that desponding and brooding care rendered the physical nature of man peculiarly susceptible of infection. No unseemly sights were therefore discernible: the shops were in general open, the concourse of passengers in some degree kept up. But although the appearance of an infected town was avoided, to me, who had not beheld it since the commencement of the visitation, London appeared sufficiently changed. There were no carriages, and grass had sprung high in the streets; the houses had a desolate look; most of the shutters were closed; and there was a ghast and frightened stare in the persons I met, very different from the usual business-like demeanour of the Londoners. My solitary carriage attracted notice, as it rattled along towards the Protectoral Palace—and the fashionable streets leading to it wore a still more dreary and deserted appearance. I found Adrian’s anti-chamber crowded—it was his hour for giving audience. I was unwilling to disturb his labours, and waited, watching the ingress and egress of the petitioners. They consisted of people of the middling and lower classes of society, whose means of subsistence failed with the cessation of trade, and of the busy spirit of money-making in all its branches, peculiar to our country. There was an air of anxiety, sometimes of terror in the new-comers, strongly contrasted with the resigned and even satisfied mien of those who had had audience. I could read the influence of my friend in their quickened motions and cheerful faces. Two o’clock struck, after which none were admitted; those who had been disappointed went sullenly or sorrowfully away, while I entered the audience-chamber.\n\nI was struck by the improvement that appeared in the health of Adrian. He was no longer bent to the ground, like an over-nursed flower of spring, that, shooting up beyond its strength, is weighed down even by its own coronal of blossoms. His eyes were bright, his countenance composed, an air of concentrated energy was diffused over his whole person, much unlike its former languor. He sat at a table with several secretaries, who were arranging petitions, or registering the notes made during that day’s audience. Two or three petitioners were still in attendance. I admired his justice and patience. Those who possessed a power of living out of London, he advised immediately to quit it, affording them the means of so doing."
+      },
+      "request_id": "e3b045f67b049d2ca7f842ec",
+      "request_sha256": "caa285f8fd3d69cac1f519367688621dedf8de637ed5c25cf72e20cddbf104e0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a2ad7f3402606052391821a2a32c28aa55bc29d8db75f504b9832d5f960aafbb"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

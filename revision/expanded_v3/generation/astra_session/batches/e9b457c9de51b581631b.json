@@ -1,0 +1,68 @@
+{
+  "batch_id": "e9b457c9de51b581631b",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:40:13.014021+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5f92f9aeab32c212171f3442",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 498,
+      "passage_id": "V2_shelley_mathilda_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 5f92f9aeab32c212171f3442\noriginal_word_count: 498\n\nPassage:\nIn all this there was a strangeness that attracted and enchanted me. He was, as it were, now awakened from his long, visionary sleep, and he felt some what like one of the seven sleepers, or like Nourjahad, in that sweet imitation of an eastern tale: Diana was gone; his friends were changed or dead, and now on his awakening I was all that he had to love on earth.\n\nHow dear to me were the waters, and mountains, and woods of Loch Lomond now that I had so beloved a companion for my rambles. I visited with my father every delightful spot, either on the islands, or by the side of the tree-sheltered waterfalls; every shady path, or dingle entangled with underwood and fern. My ideas were enlarged by his conversation. I felt as if I were recreated and had about me all the freshness and life of a new being: I was, as it were, transported since his arrival from a narrow spot of earth into a universe boundless to the imagination and the understanding. My life had been before as a pleasing country rill, never destined to leave its native fields, but when its task was fulfilled quietly to be absorbed, and leave no trace. Now it seemed to me to be as a various river flowing through a fertile and lovely lanscape, ever changing and ever beautiful. Alas! I knew not the desart it was about to reach; the rocks that would tear its waters, and the hideous scene that would be reflected in a more distorted manner in its waves. Life was then brilliant; I began to learn to hope and what brings a more bitter despair to the heart than hope destroyed?\n\nIs it not strange that grief should quickly follow so divine a happiness? I drank of an enchanted cup but gall was at the bottom of its long drawn sweetness. My heart was full of deep affection, but it was calm from its very depth and fulness. I had no idea that misery could arise from love, and this lesson that all at last must learn was taught me in a manner few are obliged to receive it. I lament now, I must ever lament, those few short months of Paradisaical bliss; I disobeyed no command, I ate no apple, and yet I was ruthlessly driven from it. Alas! my companion did, and I was precipitated in his fall. But I wander from my relation--let woe come at its appointed time; I may at this stage of my story still talk of happiness.\n\nThree months passed away in this delightful intercourse, when my aunt fell ill. I passed a whole month in her chamber nursing her, but her disease was mortal and she died, leaving me for some time inconsolable, Death is so dreadful to the living; the chains of habit are so strong even when affection does not link them that the heart must be agonized when they break."
+      },
+      "request_id": "5f92f9aeab32c212171f3442",
+      "request_sha256": "846c5aad7bbad9242c51c69a765ba27ebe39a9e0690eb5b549dd55d8a22ba6ff",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "32508b181bb3a75787c6afc75adcf5596030af48f088725d36e43129428b53d3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "096114ea2368fdeef1306063",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_wilde_dorian_gray_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 096114ea2368fdeef1306063\noriginal_word_count: 464\n\nPassage:\nHe jumped up and seized her roughly by the arm. “Show him to me. Which is he? Point him out. I must see him!” he exclaimed; but at that moment the Duke of Berwick’s four-in-hand came between, and when it had left the space clear, the carriage had swept out of the park.\n\n“He is gone,” murmured Sibyl sadly. “I wish you had seen him.”\n\n“I wish I had, for as sure as there is a God in heaven, if he ever does you any wrong, I shall kill him.”\n\nShe looked at him in horror. He repeated his words. They cut the air like a dagger. The people round began to gape. A lady standing close to her tittered.\n\n“Come away, Jim; come away,” she whispered. He followed her doggedly as she passed through the crowd. He felt glad at what he had said.\n\nWhen they reached the Achilles Statue, she turned round. There was pity in her eyes that became laughter on her lips. She shook her head at him. “You are foolish, Jim, utterly foolish; a bad-tempered boy, that is all. How can you say such horrible things? You don’t know what you are talking about. You are simply jealous and unkind. Ah! I wish you would fall in love. Love makes people good, and what you said was wicked.”\n\n“I am sixteen,” he answered, “and I know what I am about. Mother is no help to you. She doesn’t understand how to look after you. I wish now that I was not going to Australia at all. I have a great mind to chuck the whole thing up. I would, if my articles hadn’t been signed.”\n\n“Oh, don’t be so serious, Jim. You are like one of the heroes of those silly melodramas Mother used to be so fond of acting in. I am not going to quarrel with you. I have seen him, and oh! to see him is perfect happiness. We won’t quarrel. I know you would never harm any one I love, would you?”\n\n“Not as long as you love him, I suppose,” was the sullen answer.\n\n“I shall love him for ever!” she cried.\n\n“And he?”\n\n“For ever, too!”\n\n“He had better.”\n\nShe shrank from him. Then she laughed and put her hand on his arm. He was merely a boy.\n\nAt the Marble Arch they hailed an omnibus, which left them close to their shabby home in the Euston Road. It was after five o’clock, and Sibyl had to lie down for a couple of hours before acting. Jim insisted that she should do so. He said that he would sooner part with her when their mother was not present. She would be sure to make a scene, and he detested scenes of every kind."
+      },
+      "request_id": "096114ea2368fdeef1306063",
+      "request_sha256": "c67f6cd5b6a8b534cd6b7cb5da088827044c38e903183142d98689d5ddc74ced",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ddc94823911f71e607473fd69d6683244b4310c34be82c31c6baf0884df41774"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "24d04c4431ab028d0cbfaf46",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 24d04c4431ab028d0cbfaf46\noriginal_word_count: 481\n\nPassage:\nFar into the distance curved the line of flickering gas-lamps, and outside a little walled-in house stood a solitary hansom, the driver asleep inside. He walked hastily in the direction of Portland Place, now and then looking round, as though he feared that he was being followed. At the corner of Rich Street stood two men, reading a small bill upon a hoarding. An odd feeling of curiosity stirred him, and he crossed over. As he came near, the word ‘Murder,’ printed in black letters, met his eye. He started, and a deep flush came into his cheek. It was an advertisement offering a reward for any information leading to the arrest of a man of medium height, between thirty and forty years of age, wearing a billy-cock hat, a black coat, and check trousers, and with a scar upon his right cheek. He read it over and over again, and wondered if the wretched man would be caught, and how he had been scarred. Perhaps, some day, his own name might be placarded on the walls of London. Some day, perhaps, a price would be set on his head also.\n\nThe thought made him sick with horror. He turned on his heel, and hurried on into the night.\n\nWhere he went he hardly knew. He had a dim memory of wandering through a labyrinth of sordid houses, of being lost in a giant web of sombre streets, and it was bright dawn when he found himself at last in Piccadilly Circus. As he strolled home towards Belgrave Square, he met the great waggons on their way to Covent Garden. The white-smocked carters, with their pleasant sunburnt faces and coarse curly hair, strode sturdily on, cracking their whips, and calling out now and then to each other; on the back of a huge grey horse, the leader of a jangling team, sat a chubby boy, with a bunch of primroses in his battered hat, keeping tight hold of the mane with his little hands, and laughing; and the great piles of vegetables looked like masses of jade against the morning sky, like masses of green jade against the pink petals of some marvellous rose. Lord Arthur felt curiously affected, he could not tell why. There was something in the dawn’s delicate loveliness that seemed to him inexpressibly pathetic, and he thought of all the days that break in beauty, and that set in storm. These rustics, too, with their rough, good-humoured voices, and their nonchalant ways, what a strange London they saw! A London free from the sin of night and the smoke of day, a pallid, ghost-like city, a desolate town of tombs! He wondered what they thought of it, and whether they knew anything of its splendour and its shame, of its fierce, fiery-coloured joys, and its horrible hunger, of all it makes and mars from morn to eve."
+      },
+      "request_id": "24d04c4431ab028d0cbfaf46",
+      "request_sha256": "c242ba05c70f56c386bd195eefebe4b231b04851f14c1676adacacfd99a62186",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2e5e22626f7599addb1c06e4cefec4d79daea94709ca7ac33d7ae9cebf497a06"
+    }
+  ],
+  "session_id": "01a0e870-b3dc-74f3-b9ee-b27dbd5dd892",
+  "worker_id": "astra_x",
+  "worker_identity_sha256": "7c3a0144cf89773a3dc35b850a0bd602d9bf1a04c8ed1e402a69d4a4892146a6"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "6ff48c6032454a1f0717",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:12:44.518774+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "fa3ecaaa82d8982bc7356c34",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_wilde_dorian_gray_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: fa3ecaaa82d8982bc7356c34\noriginal_word_count: 459\n\nPassage:\nEven to read of the luxury of the dead was wonderful.\n\nThen he turned his attention to embroideries and to the tapestries that performed the office of frescoes in the chill rooms of the northern nations of Europe. As he investigated the subject—and he always had an extraordinary faculty of becoming absolutely absorbed for the moment in whatever he took up—he was almost saddened by the reflection of the ruin that time brought on beautiful and wonderful things. He, at any rate, had escaped that. Summer followed summer, and the yellow jonquils bloomed and died many times, and nights of horror repeated the story of their shame, but he was unchanged. No winter marred his face or stained his flowerlike bloom. How different it was with material things! Where had they passed to? Where was the great crocus-coloured robe, on which the gods fought against the giants, that had been worked by brown girls for the pleasure of Athena? Where the huge velarium that Nero had stretched across the Colosseum at Rome, that Titan sail of purple on which was represented the starry sky, and Apollo driving a chariot drawn by white, gilt-reined steeds? He longed to see the curious table-napkins wrought for the Priest of the Sun, on which were displayed all the dainties and viands that could be wanted for a feast; the mortuary cloth of King Chilperic, with its three hundred golden bees; the fantastic robes that excited the indignation of the Bishop of Pontus and were figured with “lions, panthers, bears, dogs, forests, rocks, hunters—all, in fact, that a painter can copy from nature”; and the coat that Charles of Orleans once wore, on the sleeves of which were embroidered the verses of a song beginning “_Madame, je suis tout joyeux_,” the musical accompaniment of the words being wrought in gold thread, and each note, of square shape in those days, formed with four pearls. He read of the room that was prepared at the palace at Rheims for the use of Queen Joan of Burgundy and was decorated with “thirteen hundred and twenty-one parrots, made in broidery, and blazoned with the king’s arms, and five hundred and sixty-one butterflies, whose wings were similarly ornamented with the arms of the queen, the whole worked in gold.” Catherine de Medicis had a mourning-bed made for her of black velvet powdered with crescents and suns. Its curtains were of damask, with leafy wreaths and garlands, figured upon a gold and silver ground, and fringed along the edges with broideries of pearls, and it stood in a room hung with rows of the queen’s devices in cut black velvet upon cloth of silver. Louis XIV. had gold embroidered caryatides fifteen feet high in his apartment."
+      },
+      "request_id": "fa3ecaaa82d8982bc7356c34",
+      "request_sha256": "b69f20973ea96a8e6fe2dac2e0369662ea15b8d99c7c1c68bf0d68a8a9b30b17",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d385016af5b03b1f7efe4297eeacceb9c070a296c189b8b8e37dbd9d854348ef"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4ebe999635594a6e57feee24",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 482,
+      "passage_id": "V2_austen_persuasion_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 4ebe999635594a6e57feee24\noriginal_word_count: 482\n\nPassage:\nSir Walter Elliot, of Kellynch Hall, in Somersetshire, was a man who, for his own amusement, never took up any book but the Baronetage; there he found occupation for an idle hour, and consolation in a distressed one; there his faculties were roused into admiration and respect, by contemplating the limited remnant of the earliest patents; there any unwelcome sensations, arising from domestic affairs changed naturally into pity and contempt as he turned over the almost endless creations of the last century; and there, if every other leaf were powerless, he could read his own history with an interest which never failed. This was the page at which the favourite volume always opened:\n\n“ELLIOT OF KELLYNCH HALL.\n\n“Walter Elliot, born March 1, 1760, married, July 15, 1784, Elizabeth, daughter of James Stevenson, Esq. of South Park, in the county of Gloucester, by which lady (who died 1800) he has issue Elizabeth, born June 1, 1785; Anne, born August 9, 1787; a still-born son, November 5, 1789; Mary, born November 20, 1791.”\n\nPrecisely such had the paragraph originally stood from the printer’s hands; but Sir Walter had improved it by adding, for the information of himself and his family, these words, after the date of Mary’s birth—“Married, December 16, 1810, Charles, son and heir of Charles Musgrove, Esq. of Uppercross, in the county of Somerset,” and by inserting most accurately the day of the month on which he had lost his wife.\n\nThen followed the history and rise of the ancient and respectable family, in the usual terms; how it had been first settled in Cheshire; how mentioned in Dugdale, serving the office of high sheriff, representing a borough in three successive parliaments, exertions of loyalty, and dignity of baronet, in the first year of Charles II, with all the Marys and Elizabeths they had married; forming altogether two handsome duodecimo pages, and concluding with the arms and motto:—“Principal seat, Kellynch Hall, in the county of Somerset,” and Sir Walter’s handwriting again in this finale:—\n\n“Heir presumptive, William Walter Elliot, Esq., great grandson of the second Sir Walter.”\n\nVanity was the beginning and the end of Sir Walter Elliot’s character; vanity of person and of situation. He had been remarkably handsome in his youth; and, at fifty-four, was still a very fine man. Few women could think more of their personal appearance than he did, nor could the valet of any new made lord be more delighted with the place he held in society. He considered the blessing of beauty as inferior only to the blessing of a baronetcy; and the Sir Walter Elliot, who united these gifts, was the constant object of his warmest respect and devotion.\n\nHis good looks and his rank had one fair claim on his attachment; since to them he must have owed a wife of very superior character to any thing deserved by his own."
+      },
+      "request_id": "4ebe999635594a6e57feee24",
+      "request_sha256": "6df8b154383c1add5e6c8fdc56f4cb93451df82c1cd6e1ca129869cdfed7ec3c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "dab79f23ee11bc5f28302d947acbfdcd7a05b6af70f825069ef2b7c7af631d6f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "dda2795fa4517628690ee836",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 489,
+      "passage_id": "V2_shelley_the_last_man_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: dda2795fa4517628690ee836\noriginal_word_count: 489\n\nPassage:\nWe both agreed in loving Adrian: although she not having yet escaped from childhood could not appreciate as I did the extent of his merits, or feel the same sympathy in his pursuits and opinions. I was for ever with him. There was a sensibility and sweetness in his disposition, that gave a tender and unearthly tone to our converse. Then he was gay as a lark carolling from its skiey tower, soaring in thought as an eagle, innocent as the mild-eyed dove. He could dispel the seriousness of Perdita, and take the sting from the torturing activity of my nature. I looked back to my restless desires and painful struggles with my fellow beings as to a troubled dream, and felt myself as much changed as if I had transmigrated into another form, whose fresh sensorium and mechanism of nerves had altered the reflection of the apparent universe in the mirror of mind. But it was not so; I was the same in strength, in earnest craving for sympathy, in my yearning for active exertion. My manly virtues did not desert me, for the witch Urania spared the locks of Sampson, while he reposed at her feet; but all was softened and humanized. Nor did Adrian instruct me only in the cold truths of history and philosophy. At the same time that he taught me by their means to subdue my own reckless and uncultured spirit, he opened to my view the living page of his own heart, and gave me to feel and understand its wondrous character.\n\nThe ex-queen of England had, even during infancy, endeavoured to implant daring and ambitious designs in the mind of her son. She saw that he was endowed with genius and surpassing talent; these she cultivated for the sake of afterwards using them for the furtherance of her own views. She encouraged his craving for knowledge and his impetuous courage; she even tolerated his tameless love of freedom, under the hope that this would, as is too often the case, lead to a passion for command. She endeavoured to bring him up in a sense of resentment towards, and a desire to revenge himself upon, those who had been instrumental in bringing about his father’s abdication. In this she did not succeed. The accounts furnished him, however distorted, of a great and wise nation asserting its right to govern itself, excited his admiration: in early days he became a republican from principle. Still his mother did not despair. To the love of rule and haughty pride of birth she added determined ambition, patience, and self-control. She devoted herself to the study of her son’s disposition. By the application of praise, censure, and exhortation, she tried to seek and strike the fitting chords; and though the melody that followed her touch seemed discord to her, she built her hopes on his talents, and felt sure that she would at last win him."
+      },
+      "request_id": "dda2795fa4517628690ee836",
+      "request_sha256": "dcf630273f3b115c8ba3be723119ae27a81b66d1f1dd136deea706d9bf8844ca",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "59819b277ba52e4e76a3235c0758df0a0908a73bdd0a72e2b95d94d472b6a0d6"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

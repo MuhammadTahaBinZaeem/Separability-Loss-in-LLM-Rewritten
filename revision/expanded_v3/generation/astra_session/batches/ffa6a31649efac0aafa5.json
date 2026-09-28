@@ -1,0 +1,68 @@
+{
+  "batch_id": "ffa6a31649efac0aafa5",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:53:21.741715+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "90d07a3c16bbbfef14ec4950",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_persuasion_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 90d07a3c16bbbfef14ec4950\noriginal_word_count: 465\n\nPassage:\nShe left it all behind her, all but the recollection that such things had been.\n\nAnne had never entered Kellynch since her quitting Lady Russell’s house in September. It had not been necessary, and the few occasions of its being possible for her to go to the Hall she had contrived to evade and escape from. Her first return was to resume her place in the modern and elegant apartments of the Lodge, and to gladden the eyes of its mistress.\n\nThere was some anxiety mixed with Lady Russell’s joy in meeting her. She knew who had been frequenting Uppercross. But happily, either Anne was improved in plumpness and looks, or Lady Russell fancied her so; and Anne, in receiving her compliments on the occasion, had the amusement of connecting them with the silent admiration of her cousin, and of hoping that she was to be blessed with a second spring of youth and beauty.\n\nWhen they came to converse, she was soon sensible of some mental change. The subjects of which her heart had been full on leaving Kellynch, and which she had felt slighted, and been compelled to smother among the Musgroves, were now become but of secondary interest. She had lately lost sight even of her father and sister and Bath. Their concerns had been sunk under those of Uppercross; and when Lady Russell reverted to their former hopes and fears, and spoke her satisfaction in the house in Camden Place, which had been taken, and her regret that Mrs Clay should still be with them, Anne would have been ashamed to have it known how much more she was thinking of Lyme and Louisa Musgrove, and all her acquaintance there; how much more interesting to her was the home and the friendship of the Harvilles and Captain Benwick, than her own father’s house in Camden Place, or her own sister’s intimacy with Mrs Clay. She was actually forced to exert herself to meet Lady Russell with anything like the appearance of equal solicitude, on topics which had by nature the first claim on her.\n\nThere was a little awkwardness at first in their discourse on another subject. They must speak of the accident at Lyme. Lady Russell had not been arrived five minutes the day before, when a full account of the whole had burst on her; but still it must be talked of, she must make enquiries, she must regret the imprudence, lament the result, and Captain Wentworth’s name must be mentioned by both. Anne was conscious of not doing it so well as Lady Russell. She could not speak the name, and look straight forward to Lady Russell’s eye, till she had adopted the expedient of telling her briefly what she thought of the attachment between him and Louisa."
+      },
+      "request_id": "90d07a3c16bbbfef14ec4950",
+      "request_sha256": "e0a4b0aeb8b58d6f662afc80a3926cccbcd3db08b0b62e35b0a306eb2c69e2f4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "90204599da479fa28bf244dcc6929d67dd48b90f10866f2359835787a23ad793"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "59a31acf32439604d90643f8",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 59a31acf32439604d90643f8\noriginal_word_count: 451\n\nPassage:\nThe studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn.\n\nFrom the corner of the divan of Persian saddle-bags on which he was lying, smoking, as was his custom, innumerable cigarettes, Lord Henry Wotton could just catch the gleam of the honey-sweet and honey-coloured blossoms of a laburnum, whose tremulous branches seemed hardly able to bear the burden of a beauty so flamelike as theirs; and now and then the fantastic shadows of birds in flight flitted across the long tussore-silk curtains that were stretched in front of the huge window, producing a kind of momentary Japanese effect, and making him think of those pallid, jade-faced painters of Tokyo who, through the medium of an art that is necessarily immobile, seek to convey the sense of swiftness and motion. The sullen murmur of the bees shouldering their way through the long unmown grass, or circling with monotonous insistence round the dusty gilt horns of the straggling woodbine, seemed to make the stillness more oppressive. The dim roar of London was like the bourdon note of a distant organ.\n\nIn the centre of the room, clamped to an upright easel, stood the full-length portrait of a young man of extraordinary personal beauty, and in front of it, some little distance away, was sitting the artist himself, Basil Hallward, whose sudden disappearance some years ago caused, at the time, such public excitement and gave rise to so many strange conjectures.\n\nAs the painter looked at the gracious and comely form he had so skilfully mirrored in his art, a smile of pleasure passed across his face, and seemed about to linger there. But he suddenly started up, and closing his eyes, placed his fingers upon the lids, as though he sought to imprison within his brain some curious dream from which he feared he might awake.\n\n“It is your best work, Basil, the best thing you have ever done,” said Lord Henry languidly. “You must certainly send it next year to the Grosvenor. The Academy is too large and too vulgar. Whenever I have gone there, there have been either so many people that I have not been able to see the pictures, which was dreadful, or so many pictures that I have not been able to see the people, which was worse. The Grosvenor is really the only place.”\n\n“I don’t think I shall send it anywhere,” he answered, tossing his head back in that odd way that used to make his friends laugh at him at Oxford."
+      },
+      "request_id": "59a31acf32439604d90643f8",
+      "request_sha256": "dacf957a543025d8af3146171918937ddb30b9a68da699189764d0d902068656",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e113594331bf76d9a6673249e58e7ac80d15b7c6806ccac15c1dd529df66f7d8"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6ef456f8cf4caa768075fd41",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_oliver_twist_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 6ef456f8cf4caa768075fd41\noriginal_word_count: 450\n\nPassage:\n“One word more, Rose. Dearest Rose! one more!” cried Harry, throwing himself before her. “If I had been less—less fortunate, the world would call it—if some obscure and peaceful life had been my destiny—if I had been poor, sick, helpless—would you have turned from me then? Or has my probable advancement to riches and honour, given this scruple birth?”\n\n“Do not press me to reply,” answered Rose. “The question does not arise, and never will. It is unfair, almost unkind, to urge it.”\n\n“If your answer be what I almost dare to hope it is,” retorted Harry, “it will shed a gleam of happiness upon my lonely way, and light the path before me. It is not an idle thing to do so much, by the utterance of a few brief words, for one who loves you beyond all else. Oh, Rose: in the name of my ardent and enduring attachment; in the name of all I have suffered for you, and all you doom me to undergo; answer me this one question!”\n\n“Then, if your lot had been differently cast,” rejoined Rose; “if you had been even a little, but not so far, above me; if I could have been a help and comfort to you in any humble scene of peace and retirement, and not a blot and drawback in ambitious and distinguished crowds; I should have been spared this trial. I have every reason to be happy, very happy, now; but then, Harry, I own I should have been happier.”\n\nBusy recollections of old hopes, cherished as a girl, long ago, crowded into the mind of Rose, while making this avowal; but they brought tears with them, as old hopes will when they come back withered; and they relieved her.\n\n“I cannot help this weakness, and it makes my purpose stronger,” said Rose, extending her hand. “I must leave you now, indeed.”\n\n“I ask one promise,” said Harry. “Once, and only once more,—say within a year, but it may be much sooner,—I may speak to you again on this subject, for the last time.”\n\n“Not to press me to alter my right determination,” replied Rose, with a melancholy smile; “it will be useless.”\n\n“No,” said Harry; “to hear you repeat it, if you will—finally repeat it! I will lay at your feet, whatever of station of fortune I may possess; and if you still adhere to your present resolution, will not seek, by word or act, to change it.”\n\n“Then let it be so,” rejoined Rose; “it is but one pang the more, and by that time I may be enabled to bear it better.”\n\nShe extended her hand again."
+      },
+      "request_id": "6ef456f8cf4caa768075fd41",
+      "request_sha256": "0f7de5e83874bb2166f212494d1c3bd139bdd43d503369886969e4970cc83b92",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "30c9045edfacdb0ed42780228e67753876df496f3c202bd5a0b3365bc84253a3"
+    }
+  ],
+  "session_id": "01a0e847-b893-7c52-8311-f3acf99043e1",
+  "worker_id": "astra_l",
+  "worker_identity_sha256": "2c5da61879bebe3353fa66cda11e4cbc6ce4420d78f567ebeb859dde68cb1df4"
+}

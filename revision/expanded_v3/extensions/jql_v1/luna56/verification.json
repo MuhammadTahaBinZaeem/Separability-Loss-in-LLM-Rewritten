@@ -1,0 +1,14 @@
+{
+  "contrast_rows": 189,
+  "manifest_sha256": "1609ebaab810b31a0ba4f587ac82b86294324ea69d753ed95315d3703b9f39c2",
+  "matrix_cells": 336,
+  "model_key": "luna56",
+  "not_independent_human_review": true,
+  "passed": true,
+  "prediction_rows": 106512,
+  "submission_ready": false,
+  "transforms_refitted": 105,
+  "verified_scope": "hashes_cohorts_views_fold_alignment_transform_refits_scores_and_paired_CIs",
+  "verified_utc": "2026-09-28T13:05:38.854514+00:00",
+  "verifier_sha256": "48ee1cd6bbff6aaaf062f6333846a3f701c38d453dc867aceb501678b859d973"
+}

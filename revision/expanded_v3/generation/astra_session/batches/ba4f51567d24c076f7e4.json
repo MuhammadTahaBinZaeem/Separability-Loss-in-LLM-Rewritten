@@ -1,0 +1,68 @@
+{
+  "batch_id": "ba4f51567d24c076f7e4",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:53:55.422945+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d6df365aefee4e116f25c335",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_shelley_the_last_man_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: d6df365aefee4e116f25c335\noriginal_word_count: 462\n\nPassage:\nThe stars still shone brightly when I awoke, and Taurus high in the southern heaven shewed that it was midnight. I awoke from disturbed dreams. Methought I had been invited to Timon’s last feast; I came with keen appetite, the covers were removed, the hot water sent up its unsatisfying steams, while I fled before the anger of the host, who assumed the form of Raymond; while to my diseased fancy, the vessels hurled by him after me, were surcharged with fetid vapour, and my friend’s shape, altered by a thousand distortions, expanded into a gigantic phantom, bearing on its brow the sign of pestilence. The growing shadow rose and rose, filling, and then seeming to endeavour to burst beyond, the adamantine vault that bent over, sustaining and enclosing the world. The night-mare became torture; with a strong effort I threw off sleep, and recalled reason to her wonted functions. My first thought was Perdita; to her I must return; her I must support, drawing such food from despair as might best sustain her wounded heart; recalling her from the wild excesses of grief, by the austere laws of duty, and the soft tenderness of regret.\n\nThe position of the stars was my only guide. I turned from the awful ruin of the Golden City, and, after great exertion, succeeded in extricating myself from its enclosure. I met a company of soldiers outside the walls; I borrowed a horse from one of them, and hastened to my sister. The appearance of the plain was changed during this short interval; the encampment was broken up; the relics of the disbanded army met in small companies here and there; each face was clouded; every gesture spoke astonishment and dismay.\n\nWith an heavy heart I entered the palace, and stood fearful to advance, to speak, to look. In the midst of the hall was Perdita; she sat on the marble pavement, her head fallen on her bosom, her hair dishevelled, her fingers twined busily one within the other; she was pale as marble, and every feature was contracted by agony. She perceived me, and looked up enquiringly; her half glance of hope was misery; the words died before I could articulate them; I felt a ghastly smile wrinkle my lips. She understood my gesture; again her head fell; again her fingers worked restlessly. At last I recovered speech, but my voice terrified her; the hapless girl had understood my look, and for worlds she would not that the tale of her heavy misery should have been shaped out and confirmed by hard, irrevocable words. Nay, she seemed to wish to distract my thoughts from the subject: she rose from the floor: “Hush!” she said, whisperingly; “after much weeping, Clara sleeps; we must not disturb her.”"
+      },
+      "request_id": "d6df365aefee4e116f25c335",
+      "request_sha256": "332320fc1318f1d2b23a9e0eebbe684016003686ffeeac80f1fc5cb29af9ab20",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "76880eddc6aa824319567915bb32265af9d03723cbfa5ebb6480d88193bc9340"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4fa6effec4984f295315f25a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_shelley_mathilda_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 4fa6effec4984f295315f25a\noriginal_word_count: 457\n\nPassage:\nWhen I had ceased to weep reason and memory returned upon me, and I began to reflect with greater calmness on what had happened, and how it became me to act--A few hours only had passed but a mighty revolution had taken place with regard to me--the natural work of years had been transacted since the morning: my father was as dead to me, and I felt for a moment as if he with white hairs were laid in his coffin and I--youth vanished in approaching age, were weeping at his timely dissolution. But it was not so, I was yet young, Oh! far too young, nor was he dead to others; but I, most miserable, must never see or speak to him again. I must fly from him with more earnestness than from my greatest enemy: in solitude or in cities I must never more behold him. That consideration made me breathless with anguish, and impressing itself on my imagination I was unable for a time to follow up any train of ideas. Ever after this, I thought, I would live in the most dreary seclusion. I would retire to the Continent and become a nun; not for religion’s sake, for I was not a Catholic, but that I might be for ever shut out from the world. I should there find solitude where I might weep, and the voices of life might never reach me.\n\nBut my father; my beloved and most wretched father? Would he die? Would he never overcome the fierce passion that now held pityless dominion over him? Might he not many, many years hence, when age had quenched the burning sensations that he now experienced, might he not then be again a father to me? This reflection unwrinkled my brow, and I could feel (and I wept to feel it) a half melancholy smile draw from my lips their expression of suffering: I dared indulge better hopes for my future life; years must pass but they would speed lightly away winged by hope, or if they passed heavily, still they would pass and I had not lost my father for ever. Let him spend another sixteen years of desolate wandering: let him once more utter his wild complaints to the vast woods and the tremendous cataracts of another clime: let him again undergo fearful danger and soul-quelling hardships: let the hot sun of the south again burn his passion worn cheeks and the cold night rains fall on him and chill his blood.\n\nTo this life, miserable father, I devote thee!--Go!--Be thy days passed with savages, and thy nights under the cope of heaven! Be thy limbs worn and thy heart chilled, and all youth be dead within thee!"
+      },
+      "request_id": "4fa6effec4984f295315f25a",
+      "request_sha256": "465ea0b65fee824d2c268b90731749e03f9d3d36623e12a972a916225b385430",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2a973f756fe77c75d8e3aa2bf378e7283897f9f120b090e57cf14b520456bc7a"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "794f825d52060abf987c0ae1",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_shelley_mathilda_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 794f825d52060abf987c0ae1\noriginal_word_count: 451\n\nPassage:\nI would feign to die; my contented heirs would seize upon my wealth, and I should purchase freedom. But then my plan must be laid with art; I would not be left destitute, I must secure some money. Alas! to what loathsome shifts must I be driven? Yet a whole life of falsehood was otherwise my portion: and when remorse at being the contriver of any cheat made me shrink from my design I was irresistably led back and confirmed in it by the visit of some aunt or cousin, who would tell me that death was the end of all men. And then say that my father had surely lost his wits ever since my mother’s death; that he was mad and that I was fortunate, for in one of his fits he might have killed me instead of destroying his own crazed being. And all this, to be sure, was delicately put; not in broad words for my feelings might be hurt but\n\nWhispered so and so In dark hint soft and low\n\nwith downcast eyes, and sympathizing smiles or whimpers; and I listened with quiet countenance while every nerve trembled; I that dared not utter aye or no to all this blasphemy. Oh, this was a delicious life quite void of guile! I with my dove’s look and fox’s heart: for indeed I felt only the degradation of falsehood, and not any sacred sentiment of conscious innocence that might redeem it. I who had before clothed myself in the bright garb of sincerity must now borrow one of divers colours: it might sit awkwardly at first, but use would enable me to place it in elegant folds, to lie with grace. Aye, I might die my soul with falsehood untill I had quite hid its native colour. Oh, beloved father! Accept the pure heart of your unhappy daughter; permit me to join you unspotted as I was or you will not recognize my altered semblance. As grief might change Constance so would deceit change me untill in heaven you would say, “This is not my child”--My father, to be happy both now and when again we meet I must fly from all this life which is mockery to one like me. In solitude only shall I be myself; in solitude I shall be thine.\n\nAlas! I even now look back with disgust at my artifices and contrivances by which, after many painful struggles, I effected my retreat. I might enter into a long detail of the means I used, first to secure myself a slight maintenance for the remainder of my life, and afterwards to ensure the conviction of my death: I might, but I will not."
+      },
+      "request_id": "794f825d52060abf987c0ae1",
+      "request_sha256": "e1c5abb733b7248c684f123b58413038bc7b120508b2efd96974cbff87894f8b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e4f0dfd994038ccd642e03633a29b5ab47c2b589273afc6b9bbb18ffce531534"
+    }
+  ],
+  "session_id": "01a0e84b-0c07-7f62-8492-38d6630a3d8a",
+  "worker_id": "astra_n",
+  "worker_identity_sha256": "af3df2dfd1bd45965959790098af7e2b94db79efd262f1f2cc3e95a3ae8be86e"
+}

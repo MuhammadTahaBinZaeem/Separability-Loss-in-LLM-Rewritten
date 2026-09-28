@@ -1,0 +1,68 @@
+{
+  "batch_id": "724f40d518def46735e2",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:14:04.649701+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "09d8a8cdc996b157798da1d4",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_shelley_frankenstein_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 09d8a8cdc996b157798da1d4\noriginal_word_count: 470\n\nPassage:\nOnce, however, the lieutenant asked why he had come so far upon the ice in so strange a vehicle.\n\nHis countenance instantly assumed an aspect of the deepest gloom, and he replied, “To seek one who fled from me.”\n\n“And did the man whom you pursued travel in the same fashion?”\n\n“Yes.”\n\n“Then I fancy we have seen him, for the day before we picked you up we saw some dogs drawing a sledge, with a man in it, across the ice.”\n\nThis aroused the stranger’s attention, and he asked a multitude of questions concerning the route which the dæmon, as he called him, had pursued. Soon after, when he was alone with me, he said, “I have, doubtless, excited your curiosity, as well as that of these good people; but you are too considerate to make inquiries.”\n\n“Certainly; it would indeed be very impertinent and inhuman in me to trouble you with any inquisitiveness of mine.”\n\n“And yet you rescued me from a strange and perilous situation; you have benevolently restored me to life.”\n\nSoon after this he inquired if I thought that the breaking up of the ice had destroyed the other sledge. I replied that I could not answer with any degree of certainty, for the ice had not broken until near midnight, and the traveller might have arrived at a place of safety before that time; but of this I could not judge.\n\nFrom this time a new spirit of life animated the decaying frame of the stranger. He manifested the greatest eagerness to be upon deck to watch for the sledge which had before appeared; but I have persuaded him to remain in the cabin, for he is far too weak to sustain the rawness of the atmosphere. I have promised that someone should watch for him and give him instant notice if any new object should appear in sight.\n\nSuch is my journal of what relates to this strange occurrence up to the present day. The stranger has gradually improved in health but is very silent and appears uneasy when anyone except myself enters his cabin. Yet his manners are so conciliating and gentle that the sailors are all interested in him, although they have had very little communication with him. For my own part, I begin to love him as a brother, and his constant and deep grief fills me with sympathy and compassion. He must have been a noble creature in his better days, being even now in wreck so attractive and amiable.\n\nI said in one of my letters, my dear Margaret, that I should find no friend on the wide ocean; yet I have found a man who, before his spirit had been broken by misery, I should have been happy to have possessed as the brother of my heart."
+      },
+      "request_id": "09d8a8cdc996b157798da1d4",
+      "request_sha256": "7ef80761e7e42f3b083a008f2feb3096ee81e8b81c082f3929ede6f09e587aed",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7fe6d1075336dc0d118394fdf9d80399a110ee9fad2f68bfd1796d753b8b8830"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d684445a3e8f5547b0e76220",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_wilde_canterville_ghost_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: d684445a3e8f5547b0e76220\noriginal_word_count: 452\n\nPassage:\nMr. Otis was a good deal distressed at Lord Canterville’s refusal, and begged him to reconsider his decision, but the good-natured peer was quite firm, and finally induced the Minister to allow his daughter to retain the present the ghost had given her, and when, in the spring of 1890, the young Duchess of Cheshire was presented at the Queen’s first drawing-room on the occasion of her marriage, her jewels were the universal theme of admiration. For Virginia received the coronet, which is the reward of all good little American girls, and was married to her boy-lover as soon as he came of age. They were both so charming, and they loved each other so much, that every one was delighted at the match, except the old Marchioness of Dumbleton, who had tried to catch the Duke for one of her seven unmarried daughters, and had given no less than three expensive dinner-parties for that purpose, and, strange to say, Mr. Otis himself. Mr. Otis was extremely fond of the young Duke personally, but, theoretically, he objected to titles, and, to use his own words, ‘was not without apprehension lest, amid the enervating influences of a pleasure-loving aristocracy, the true principles of republican simplicity should be forgotten.’ His objections, however, were completely overruled, and I believe that when he walked up the aisle of St. George’s, Hanover Square, with his daughter leaning on his arm, there was not a prouder man in the whole length and breadth of England.\n\nThe Duke and Duchess, after the honeymoon was over, went down to Canterville Chase, and on the day after their arrival they walked over in the afternoon to the lonely churchyard by the pine-woods. There had been a great deal of difficulty at first about the inscription on Sir Simon’s tombstone, but finally it had been decided to engrave on it simply the initials of the old gentleman’s name, and the verse from the library window. The Duchess had brought with her some lovely roses, which she strewed upon the grave, and after they had stood by it for some time they strolled into the ruined chancel of the old abbey. There the Duchess sat down on a fallen pillar, while her husband lay at her feet smoking a cigarette and looking up at her beautiful eyes. Suddenly he threw his cigarette away, took hold of her hand, and said to her, ‘Virginia, a wife should have no secrets from her husband.’\n\n‘Dear Cecil! I have no secrets from you.’\n\n‘Yes, you have,’ he answered, smiling, ‘you have never told me what happened to you when you were locked up with the ghost.’\n\n‘I have never told any one, Cecil,’ said Virginia gravely."
+      },
+      "request_id": "d684445a3e8f5547b0e76220",
+      "request_sha256": "f11789d593ba2373166f6e69e11dec85ed12d7cb0d3d87366efb6c82797042a6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a3296ac5c9ac1842f9c4e2d85b6a69de444b69ed5e3ced769c4916779f13a79d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "222f5f03f248e8e4cd89f8d2",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_great_expectations_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 222f5f03f248e8e4cd89f8d2\noriginal_word_count: 450\n\nPassage:\nOne day when I was busy with my books and Mr. Pocket, I received a note by the post, the mere outside of which threw me into a great flutter; for, though I had never seen the handwriting in which it was addressed, I divined whose hand it was. It had no set beginning, as Dear Mr. Pip, or Dear Pip, or Dear Sir, or Dear Anything, but ran thus:—\n\n“I am to come to London the day after to-morrow by the midday coach. I believe it was settled you should meet me? At all events Miss Havisham has that impression, and I write in obedience to it. She sends you her regard.\n\n“Yours, ESTELLA.”\n\nIf there had been time, I should probably have ordered several suits of clothes for this occasion; but as there was not, I was fain to be content with those I had. My appetite vanished instantly, and I knew no peace or rest until the day arrived. Not that its arrival brought me either; for, then I was worse than ever, and began haunting the coach-office in Wood Street, Cheapside, before the coach had left the Blue Boar in our town. For all that I knew this perfectly well, I still felt as if it were not safe to let the coach-office be out of my sight longer than five minutes at a time; and in this condition of unreason I had performed the first half-hour of a watch of four or five hours, when Wemmick ran against me.\n\n“Halloa, Mr. Pip,” said he; “how do you do? I should hardly have thought this was _your_ beat.”\n\nI explained that I was waiting to meet somebody who was coming up by coach, and I inquired after the Castle and the Aged.\n\n“Both flourishing thankye,” said Wemmick, “and particularly the Aged. He’s in wonderful feather. He’ll be eighty-two next birthday. I have a notion of firing eighty-two times, if the neighbourhood shouldn’t complain, and that cannon of mine should prove equal to the pressure. However, this is not London talk. Where do you think I am going to?”\n\n“To the office?” said I, for he was tending in that direction.\n\n“Next thing to it,” returned Wemmick, “I am going to Newgate. We are in a banker’s-parcel case just at present, and I have been down the road taking a squint at the scene of action, and thereupon must have a word or two with our client.”\n\n“Did your client commit the robbery?” I asked.\n\n“Bless your soul and body, no,” answered Wemmick, very drily. “But he is accused of it. So might you or I be. Either of us might be accused of it, you know.”"
+      },
+      "request_id": "222f5f03f248e8e4cd89f8d2",
+      "request_sha256": "059a948e8140556a8a6c41c9320d1d5df6c6610a04107d96f1643f7f0d88a773",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "75e8dbf7fdc6ae15b69803db1f8281aec79b863c959608505d2127095ae041ab"
+    }
+  ],
+  "session_id": "01a0e85c-7f66-73c1-b91c-6413115a4ff4",
+  "worker_id": "astra_s",
+  "worker_identity_sha256": "17b5f2fab7368788746600871fd66c46b6c1c2ea93360ddace6823c5041f0625"
+}

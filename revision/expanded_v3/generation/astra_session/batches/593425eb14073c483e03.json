@@ -1,0 +1,68 @@
+{
+  "batch_id": "593425eb14073c483e03",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:06:34.897251+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f19c53451483e81be3ad520a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_austen_persuasion_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: f19c53451483e81be3ad520a\noriginal_word_count: 464\n\nPassage:\nAnd Mrs Musgrove took the first opportunity of being alone with Anne, to say, “Oh! Miss Anne, I cannot help wishing Mrs Charles had a little of your method with those children. They are quite different creatures with you! But to be sure, in general they are so spoilt! It is a pity you cannot put your sister in the way of managing them. They are as fine healthy children as ever were seen, poor little dears! without partiality; but Mrs Charles knows no more how they should be treated—! Bless me! how troublesome they are sometimes. I assure you, Miss Anne, it prevents my wishing to see them at our house so often as I otherwise should. I believe Mrs Charles is not quite pleased with my not inviting them oftener; but you know it is very bad to have children with one that one is obligated to be checking every moment; “don’t do this,” and “don’t do that;” or that one can only keep in tolerable order by more cake than is good for them.”\n\nShe had this communication, moreover, from Mary. “Mrs Musgrove thinks all her servants so steady, that it would be high treason to call it in question; but I am sure, without exaggeration, that her upper house-maid and laundry-maid, instead of being in their business, are gadding about the village, all day long. I meet them wherever I go; and I declare, I never go twice into my nursery without seeing something of them. If Jemima were not the trustiest, steadiest creature in the world, it would be enough to spoil her; for she tells me, they are always tempting her to take a walk with them.” And on Mrs Musgrove’s side, it was, “I make a rule of never interfering in any of my daughter-in-law’s concerns, for I know it would not do; but I shall tell _you_, Miss Anne, because you may be able to set things to rights, that I have no very good opinion of Mrs Charles’s nursery-maid: I hear strange stories of her; she is always upon the gad; and from my own knowledge, I can declare, she is such a fine-dressing lady, that she is enough to ruin any servants she comes near. Mrs Charles quite swears by her, I know; but I just give you this hint, that you may be upon the watch; because, if you see anything amiss, you need not be afraid of mentioning it.”\n\nAgain, it was Mary’s complaint, that Mrs Musgrove was very apt not to give her the precedence that was her due, when they dined at the Great House with other families; and she did not see any reason why she was to be considered so much at home as to lose her place."
+      },
+      "request_id": "f19c53451483e81be3ad520a",
+      "request_sha256": "9312f332e0f562f3d54ac49405d8aa96eba7affd83fd0430f0474e95c5767e87",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c552395e7d711915b1381af933e13f38591da346a95594d5182f8ddd362d4668"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3bebefa2df85f7095cfa5b9e",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 467,
+      "passage_id": "V2_wilde_canterville_ghost_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 3bebefa2df85f7095cfa5b9e\noriginal_word_count: 467\n\nPassage:\nFOUR days after these curious incidents a funeral started from Canterville Chase at about eleven o’clock at night. The hearse was drawn by eight black horses, each of which carried on its head a great tuft of nodding ostrich-plumes, and the leaden coffin was covered by a rich purple pall, on which was embroidered in gold the Canterville coat-of-arms. By the side of the hearse and the coaches walked the servants with lighted torches, and the whole procession was wonderfully impressive. Lord Canterville was the chief mourner, having come up specially from Wales to attend the funeral, and sat in the first carriage along with little Virginia. Then came the United States Minister and his wife, then Washington and the three boys, and in the last carriage was Mrs. Umney. It was generally felt that, as she had been frightened by the ghost for more than fifty years of her life, she had a right to see the last of him. A deep grave had been dug in the corner of the churchyard, just under the old yew-tree, and the service was read in the most impressive manner by the Rev. Augustus Dampier. When the ceremony was over, the servants, according to an old custom observed in the Canterville family, extinguished their torches, and, as the coffin was being lowered into the grave, Virginia stepped forward and laid on it a large cross made of white and pink almond-blossoms. As she did so, the moon came out from behind a cloud, and flooded with its silent silver the little churchyard, and from a distant copse a nightingale began to sing. She thought of the ghost’s description of the Garden of Death, her eyes became dim with tears, and she hardly spoke a word during the drive home.\n\nThe next morning, before Lord Canterville went up to town, Mr. Otis had an interview with him on the subject of the jewels the ghost had given to Virginia. They were perfectly magnificent, especially a certain ruby necklace with old Venetian setting, which was really a superb specimen of sixteenth-century work, and their value was so great that Mr. Otis felt considerable scruples about allowing his daughter to accept them.\n\n‘My lord,’ he said, ‘I know that in this country mortmain is held to apply to trinkets as well as to land, and it is quite clear to me that these jewels are, or should be, heirlooms in your family. I must beg you, accordingly, to take them to London with you, and to regard them simply as a portion of your property which has been restored to you under certain strange conditions. As for my daughter, she is merely a child, and has as yet, I am glad to say, but little interest in such appurtenances of idle luxury."
+      },
+      "request_id": "3bebefa2df85f7095cfa5b9e",
+      "request_sha256": "428cb93067f137e63b49dd18675bb65edd21b6df3d131b1309f131b1357ea546",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8d8e03c231e8c233752cfa99c8ae69c47c34b1f3f39f03d9cfab5bf92f58c3b9"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3aa82508add9655c76eed640",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 483,
+      "passage_id": "V2_poe_murders_rue_morgue_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 3aa82508add9655c76eed640\noriginal_word_count: 483\n\nPassage:\nThe daughter lay prostrate and motionless; she had swooned. The screams and struggles of the old lady (during which the hair was torn from her head) had the effect of changing the probably pacific purposes of the Ourang-Outang into those of wrath. With one determined sweep of its muscular arm it nearly severed her head from her body. The sight of blood inflamed its anger into phrenzy. Gnashing its teeth, and flashing fire from its eyes, it flew upon the body of the girl, and imbedded its fearful talons in her throat, retaining its grasp until she expired. Its wandering and wild glances fell at this moment upon the head of the bed, over which the face of its master, rigid with horror, was just discernible. The fury of the beast, who no doubt bore still in mind the dreaded whip, was instantly converted into fear. Conscious of having deserved punishment, it seemed desirous of concealing its bloody deeds, and skipped about the chamber in an agony of nervous agitation; throwing down and breaking the furniture as it moved, and dragging the bed from the bedstead. In conclusion, it seized first the corpse of the daughter, and thrust it up the chimney, as it was found; then that of the old lady, which it immediately hurled through the window headlong.\n\nAs the ape approached the casement with its mutilated burden, the sailor shrank aghast to the rod, and, rather gliding than clambering down it, hurried at once home—dreading the consequences of the butchery, and gladly abandoning, in his terror, all solicitude about the fate of the Ourang-Outang. The words heard by the party upon the staircase were the Frenchman’s exclamations of horror and affright, commingled with the fiendish jabberings of the brute.\n\nI have scarcely anything to add. The Ourang-Outang must have escaped from the chamber, by the rod, just before the breaking of the door. It must have closed the window as it passed through it. It was subsequently caught by the owner himself, who obtained for it a very large sum at the _Jardin des Plantes._ Le Don was instantly released, upon our narration of the circumstances (with some comments from Dupin) at the bureau of the Prefect of Police. This functionary, however well disposed to my friend, could not altogether conceal his chagrin at the turn which affairs had taken, and was fain to indulge in a sarcasm or two, about the propriety of every person minding his own business.\n\n“Let him talk,” said Dupin, who had not thought it necessary to reply. “Let him discourse; it will ease his conscience, I am satisfied with having defeated him in his own castle. Nevertheless, that he failed in the solution of this mystery, is by no means that matter for wonder which he supposes it; for, in truth, our friend the Prefect is somewhat too cunning to be profound."
+      },
+      "request_id": "3aa82508add9655c76eed640",
+      "request_sha256": "c175d36aa53195d39f328b1d51144c23e7bf74a09225b8bcc3239514acca52c1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c00468018e45e6b6db65b67f8f323bb66e4d7e80c0f4ac34a2bec7dc92d1210b"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

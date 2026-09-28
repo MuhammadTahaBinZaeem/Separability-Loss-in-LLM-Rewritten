@@ -1,0 +1,68 @@
+{
+  "batch_id": "438c8b5e564d4903ed5d",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:39:57.125007+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "67f096f99f2d7badeadc12f6",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_twain_tom_sawyer_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 67f096f99f2d7badeadc12f6\noriginal_word_count: 463\n\nPassage:\n“Stop the stabboard! Ting-a-ling-ling! Stop the labboard! Come ahead on the stabboard! Stop her! Let your outside turn over slow! Ting-a-ling-ling! Chow-ow-ow! Get out that head-line! _lively_ now! Come—out with your spring-line—what’re you about there! Take a turn round that stump with the bight of it! Stand by that stage, now—let her go! Done with the engines, sir! Ting-a-ling-ling! SH’T! S’H’T! SH’T!” (trying the gauge-cocks).\n\nTom went on whitewashing—paid no attention to the steamboat. Ben stared a moment and then said: “_Hi-Yi! You’re_ up a stump, ain’t you!”\n\nNo answer. Tom surveyed his last touch with the eye of an artist, then he gave his brush another gentle sweep and surveyed the result, as before. Ben ranged up alongside of him. Tom’s mouth watered for the apple, but he stuck to his work. Ben said:\n\n“Hello, old chap, you got to work, hey?”\n\nTom wheeled suddenly and said:\n\n“Why, it’s you, Ben! I warn’t noticing.”\n\n“Say—I’m going in a-swimming, I am. Don’t you wish you could? But of course you’d druther _work_—wouldn’t you? Course you would!”\n\nTom contemplated the boy a bit, and said:\n\n“What do you call work?”\n\n“Why, ain’t _that_ work?”\n\nTom resumed his whitewashing, and answered carelessly:\n\n“Well, maybe it is, and maybe it ain’t. All I know, is, it suits Tom Sawyer.”\n\n“Oh come, now, you don’t mean to let on that you _like_ it?”\n\nThe brush continued to move.\n\n“Like it? Well, I don’t see why I oughtn’t to like it. Does a boy get a chance to whitewash a fence every day?”\n\nThat put the thing in a new light. Ben stopped nibbling his apple. Tom swept his brush daintily back and forth—stepped back to note the effect—added a touch here and there—criticised the effect again—Ben watching every move and getting more and more interested, more and more absorbed. Presently he said:\n\n“Say, Tom, let _me_ whitewash a little.”\n\nTom considered, was about to consent; but he altered his mind:\n\n“No—no—I reckon it wouldn’t hardly do, Ben. You see, Aunt Polly’s awful particular about this fence—right here on the street, you know—but if it was the back fence I wouldn’t mind and _she_ wouldn’t. Yes, she’s awful particular about this fence; it’s got to be done very careful; I reckon there ain’t one boy in a thousand, maybe two thousand, that can do it the way it’s got to be done.”\n\n“No—is that so? Oh come, now—lemme just try. Only just a little—I’d let _you_, if you was me, Tom.”\n\n“Ben, I’d like to, honest injun; but Aunt Polly—well, Jim wanted to do it, but she wouldn’t let him; Sid wanted to do it, and she wouldn’t let Sid."
+      },
+      "request_id": "67f096f99f2d7badeadc12f6",
+      "request_sha256": "554e941c43aa83871b609839c6be56bc249e733875693e54e707cc2a6e731d8e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "667ce8408c687e31a2a65579f909cb506756f4640bd964a769df0a519ef96fde"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ec6cf9c6e0cd9cb04de0df09",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 487,
+      "passage_id": "V2_austen_emma_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: ec6cf9c6e0cd9cb04de0df09\noriginal_word_count: 487\n\nPassage:\nShall I call upon them? Or Miss Bates? She is still nearer.—And I do not know whether Miss Bates is not as likely to understand the inclinations of the rest of the people as any body. I think we do want a larger council. Suppose I go and invite Miss Bates to join us?”\n\n“Well—if you please,” said Mrs. Weston rather hesitating, “if you think she will be of any use.”\n\n“You will get nothing to the purpose from Miss Bates,” said Emma. “She will be all delight and gratitude, but she will tell you nothing. She will not even listen to your questions. I see no advantage in consulting Miss Bates.”\n\n“But she is so amusing, so extremely amusing! I am very fond of hearing Miss Bates talk. And I need not bring the whole family, you know.”\n\nHere Mr. Weston joined them, and on hearing what was proposed, gave it his decided approbation.\n\n“Aye, do, Frank.—Go and fetch Miss Bates, and let us end the matter at once. She will enjoy the scheme, I am sure; and I do not know a properer person for shewing us how to do away difficulties. Fetch Miss Bates. We are growing a little too nice. She is a standing lesson of how to be happy. But fetch them both. Invite them both.”\n\n“Both sir! Can the old lady?”...\n\n“The old lady! No, the young lady, to be sure. I shall think you a great blockhead, Frank, if you bring the aunt without the niece.”\n\n“Oh! I beg your pardon, sir. I did not immediately recollect. Undoubtedly if you wish it, I will endeavour to persuade them both.” And away he ran.\n\nLong before he reappeared, attending the short, neat, brisk-moving aunt, and her elegant niece,—Mrs. Weston, like a sweet-tempered woman and a good wife, had examined the passage again, and found the evils of it much less than she had supposed before—indeed very trifling; and here ended the difficulties of decision. All the rest, in speculation at least, was perfectly smooth. All the minor arrangements of table and chair, lights and music, tea and supper, made themselves; or were left as mere trifles to be settled at any time between Mrs. Weston and Mrs. Stokes.—Every body invited, was certainly to come; Frank had already written to Enscombe to propose staying a few days beyond his fortnight, which could not possibly be refused. And a delightful dance it was to be.\n\nMost cordially, when Miss Bates arrived, did she agree that it must. As a counsellor she was not wanted; but as an approver, (a much safer character,) she was truly welcome. Her approbation, at once general and minute, warm and incessant, could not but please; and for another half-hour they were all walking to and fro, between the different rooms, some suggesting, some attending, and all in happy enjoyment of the future."
+      },
+      "request_id": "ec6cf9c6e0cd9cb04de0df09",
+      "request_sha256": "9886f577784632e13a316524ece326afc189435d771fab7a47c1d1077b41f66c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6b8504585a399fef0cc9b54614252e1a67707fcbd2e945628c37846f757a1947"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1b1344e79524a5bd45188e93",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_murders_rue_morgue_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 1b1344e79524a5bd45188e93\noriginal_word_count: 455\n\nPassage:\nHis face, greatly sunburnt, was more than half hidden by whisker and _mustachio._ He had with him a huge oaken cudgel, but appeared to be otherwise unarmed. He bowed awkwardly, and bade us “good evening,” in French accents, which, although somewhat Neufchatelish, were still sufficiently indicative of a Parisian origin.\n\n“Sit down, my friend,” said Dupin. “I suppose you have called about the Ourang-Outang. Upon my word, I almost envy you the possession of him; a remarkably fine, and no doubt a very valuable animal. How old do you suppose him to be?”\n\nThe sailor drew a long breath, with the air of a man relieved of some intolerable burden, and then replied, in an assured tone:\n\n“I have no way of telling—but he can’t be more than four or five years old. Have you got him here?”\n\n“Oh no, we had no conveniences for keeping him here. He is at a livery stable in the Rue Dubourg, just by. You can get him in the morning. Of course you are prepared to identify the property?”\n\n“To be sure I am, sir.”\n\n“I shall be sorry to part with him,” said Dupin.\n\n“I don’t mean that you should be at all this trouble for nothing, sir,” said the man. “Couldn’t expect it. Am very willing to pay a reward for the finding of the animal—that is to say, any thing in reason.”\n\n“Well,” replied my friend, “that is all very fair, to be sure. Let me think!—what should I have? Oh! I will tell you. My reward shall be this. You shall give me all the information in your power about these murders in the Rue Morgue.”\n\nDupin said the last words in a very low tone, and very quietly. Just as quietly, too, he walked toward the door, locked it and put the key in his pocket. He then drew a pistol from his bosom and placed it, without the least flurry, upon the table.\n\nThe sailor’s face flushed up as if he were struggling with suffocation. He started to his feet and grasped his cudgel, but the next moment he fell back into his seat, trembling violently, and with the countenance of death itself. He spoke not a word. I pitied him from the bottom of my heart.\n\n“My friend,” said Dupin, in a kind tone, “you are alarming yourself unnecessarily—you are indeed. We mean you no harm whatever. I pledge you the honor of a gentleman, and of a Frenchman, that we intend you no injury. I perfectly well know that you are innocent of the atrocities in the Rue Morgue. It will not do, however, to deny that you are in some measure implicated in them."
+      },
+      "request_id": "1b1344e79524a5bd45188e93",
+      "request_sha256": "b64b3602d806e823adb47d01760ab4568360d30364140f102952f909adfe3052",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "45c6cb6a35137e44cf1f1b859f15ce7c6b0888b50be5df5b89e84a15a488bc33"
+    }
+  ],
+  "session_id": "01a0e86b-c111-7731-bb8d-a8b1262d4d11",
+  "worker_id": "astra_w",
+  "worker_identity_sha256": "02ab474ea794ee28e12552c40deac11a918257ff5dcb600ea6bea9a7ad47fcb2"
+}

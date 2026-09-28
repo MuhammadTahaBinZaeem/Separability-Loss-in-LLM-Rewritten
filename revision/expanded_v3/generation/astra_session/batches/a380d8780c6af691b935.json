@@ -1,0 +1,68 @@
+{
+  "batch_id": "a380d8780c6af691b935",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:51:15.667332+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0e4e81a66f29e87d00be466d",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_poe_the_gold_bug_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 0e4e81a66f29e87d00be466d\noriginal_word_count: 464\n\nPassage:\n“I’m gwine, Massa Will—deed I is,” replied the negro very promptly—“mos out to the eend now.”\n\n“_Out to the end!_” here fairly screamed Legrand, “do you say you are out to the end of that limb?”\n\n“Soon be to de eend, massa,—o-o-o-o-oh! Lor-gol-a-marcy! what is dis here pon de tree?”\n\n“Well!” cried Legrand, highly delighted, “what is it?”\n\n“Why taint noffin but a skull—somebody bin lef him head up de tree, and de crows done gobble ebery bit ob de meat off.”\n\n“A skull, you say!—very well—how is it fastened to the limb?—what holds it on?”\n\n“Sure nuff, massa; mus look. Why dis berry curous sarcumstance, pon my word—dare’s a great big nail in de skull, what fastens ob it on to de tree.”\n\n“Well now, Jupiter, do exactly as I tell you—do you hear?”\n\n“Yes, massa.”\n\n“Pay attention, then—find the left eye of the skull.”\n\n“Hum! hoo! dat’s good! why dare aint no eye lef at all.”\n\n“Curse your stupidity! do you know your right hand from your left?”\n\n“Yes, I knows dat—knows all about dat—’tis my lef hand what I chops de wood wid.”\n\n“To be sure! you are left-handed; and your left eye is on the same side as your left hand. Now, I suppose, you can find the left eye of the skull, or the place where the left eye has been. Have you found it?”\n\nHere was a long pause. At length the negro asked,\n\n“Is de lef eye of de skull pon de same side as de lef hand of de skull, too?—cause de skull aint got not a bit ob a hand at all—nebber mind! I got de lef eye now—here de lef eye! what mus do wid it?”\n\n“Let the beetle drop through it, as far as the string will reach—but be careful and not let go your hold of the string.”\n\n“All dat done, Massa Will; mighty easy ting for to put de bug fru de hole—look out for him dare below!”\n\nDuring this colloquy no portion of Jupiter’s person could be seen; but the beetle, which he had suffered to descend, was now visible at the end of the string, and glistened, like a globe of burnished gold, in the last rays of the setting sun, some of which still faintly illumined the eminence upon which we stood. The _scarabæus_ hung quite clear of any branches, and, if allowed to fall, would have fallen at our feet. Legrand immediately took the scythe, and cleared with it a circular space, three or four yards in diameter, just beneath the insect, and, having accomplished this, ordered Jupiter to let go the string and come down from the tree."
+      },
+      "request_id": "0e4e81a66f29e87d00be466d",
+      "request_sha256": "dc33a8281fd9524793bc450f9b8377a63662965a983922e506cd211dc175e22b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a9c87322b99a8fee62d21c511890cbcbaccab1c28ff5bd636cc922646f84a7fd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1f6cdd0d8a892513dbe7a9dd",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 516,
+      "passage_id": "V2_poe_the_gold_bug_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 1f6cdd0d8a892513dbe7a9dd\noriginal_word_count: 516\n\nPassage:\nIn the centre of this rift I perceived a white spot, but could not, at first, distinguish what it was. Adjusting the focus of the telescope, I again looked, and now made it out to be a human skull.\n\n“Upon this discovery I was so sanguine as to consider the enigma solved; for the phrase ‘main branch, seventh limb, east side,’ could refer only to the position of the skull upon the tree, while ‘shoot from the left eye of the death’s head’ admitted, also, of but one interpretation, in regard to a search for buried treasure. I perceived that the design was to drop a bullet from the left eye of the skull, and that a bee-line, or, in other words, a straight line, drawn from the nearest point of the trunk through ‘the shot,’ (or the spot where the bullet fell,) and thence extended to a distance of fifty feet, would indicate a definite point—and beneath this point I thought it at least possible that a deposit of value lay concealed.”\n\n“All this,” I said, “is exceedingly clear, and, although ingenious, still simple and explicit. When you left the Bishop’s Hotel, what then?”\n\n“Why, having carefully taken the bearings of the tree, I turned homewards. The instant that I left ‘the devil’s seat,’ however, the circular rift vanished; nor could I get a glimpse of it afterwards, turn as I would. What seems to me the chief ingenuity in this whole business, is the fact (for repeated experiment has convinced me it is a fact) that the circular opening in question is visible from no other attainable point of view than that afforded by the narrow ledge upon the face of the rock.\n\n“In this expedition to the ‘Bishop’s Hotel’ I had been attended by Jupiter, who had, no doubt, observed, for some weeks past, the abstraction of my demeanor, and took especial care not to leave me alone. But, on the next day, getting up very early, I contrived to give him the slip, and went into the hills in search of the tree. After much toil I found it. When I came home at night my valet proposed to give me a flogging. With the rest of the adventure I believe you are as well acquainted as myself.”\n\n“I suppose,” said I, “you missed the spot, in the first attempt at digging, through Jupiter’s stupidity in letting the bug fall through the right instead of through the left eye of the skull.”\n\n“Precisely. This mistake made a difference of about two inches and a half in the ‘shot’—that is to say, in the position of the peg nearest the tree; and had the treasure been beneath the ‘shot,’ the error would have been of little moment; but ‘the shot,’ together with the nearest point of the tree, were merely two points for the establishment of a line of direction; of course the error, however trivial in the beginning, increased as we proceeded with the line, and by the time we had gone fifty feet, threw us quite off the scent."
+      },
+      "request_id": "1f6cdd0d8a892513dbe7a9dd",
+      "request_sha256": "edc16479d774f29c3832cd8893ba9f61ebc576cf70328b369c2c8a1fd227f1c7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "368a08d73f4cf6d52bb24069d574d8be249da34f422496710801ee641791c8a4"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "44462f2b2215a86039099293",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_shelley_mathilda_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 44462f2b2215a86039099293\noriginal_word_count: 454\n\nPassage:\nI now come to my own story. During the early part of my life there is little to relate, and I will be brief; but I must be allowed to dwell a little on the years of my childhood that it may be apparent how when one hope failed all life was to be a blank; and how when the only affection I was permitted to cherish was blasted my existence was extinguished with it.\n\nI have said that my aunt was very unlike my father. I believe that without the slightest tinge of a bad heart she had the coldest that ever filled a human breast: it was totally incapable of any affection. She took me under her protection because she considered it her duty; but she had too long lived alone and undisturbed by the noise and prattle of children to allow that I should disturb her quiet. She had never been married; and for the last five years had lived perfectly alone on an estate, that had descended to her through her mother, on the shores of Loch Lomond in Scotland. My father had expressed a wish in his letters that she should reside with me at his family mansion which was situated in a beautiful country near Richmond in Yorkshire. She would not consent to this proposition, but as soon as she had arranged the affairs which her brother’s departure had caused to fall to her care, she quitted England and took me with her to her scotch estate.\n\nThe care of me while a baby, and afterwards untill I had reached my eighth year devolved on a servant of my mother’s, who had accompanied us in our retirement for that purpose. I was placed in a remote part of the house, and only saw my aunt at stated hours. These occurred twice a day; once about noon she came to my nursery, and once after her dinner I was taken to her. She never caressed me, and seemed all the time I staid in the room to fear that I should annoy her by some childish freak. My good nurse always schooled me with the greatest care before she ventured into the parlour--and the awe my aunt’s cold looks and few constrained words inspired was so great that I seldom disgraced her lessons or was betrayed from the exemplary stillness which I was taught to observe during these short visits.\n\nUnder my good nurse’s care I ran wild about our park and the neighbouring fields. The offspring of the deepest love I displayed from my earliest years the greatest sensibility of disposition. I cannot say with what passion I loved every thing even the inanimate objects that surrounded me."
+      },
+      "request_id": "44462f2b2215a86039099293",
+      "request_sha256": "a49aa57fc0fd9ad25f58c102bd9638b0d8881559ed5e01e7654e438220b1f607",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "dcead9256aa960766d80d59104afd1f60c16eed0081477184af48fcc0e3b5512"
+    }
+  ],
+  "session_id": "01a0e87b-49a4-73d1-9183-c1526aa2e672",
+  "worker_id": "astra_ab",
+  "worker_identity_sha256": "9f063cc79481da5fa1e91530b35ed3863df2f1d390a463dfb849cb30ea1c9d85"
+}

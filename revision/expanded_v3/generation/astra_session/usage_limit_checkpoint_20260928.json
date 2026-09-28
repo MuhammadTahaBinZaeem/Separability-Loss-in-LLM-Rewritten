@@ -1,0 +1,69 @@
+{
+  "audit": {
+    "accounting_complete": false,
+    "expected": 1080,
+    "passed": true,
+    "quality_verified": false,
+    "recorded": 492,
+    "verification_scope": "recorded prompt/output and requested orchestration identity",
+    "worker_counts": {
+      "astra_a": 30,
+      "astra_b": 30,
+      "astra_c": 30,
+      "astra_d": 21,
+      "astra_e": 21,
+      "astra_f": 21,
+      "astra_g": 114,
+      "astra_h": 108,
+      "astra_i": 108,
+      "original_main_session": 9
+    }
+  },
+  "no_replacements_launched": true,
+  "pending_batches": [
+    {
+      "batch_id": "4297605c139caf04e7d0",
+      "ingestion_archive_exists": false,
+      "issued_batch_sha256": "d3cc2e2ef5d83a84e42d5a66fb23a3621df751027c4efef758a31f76ccf37990",
+      "submission_exists": false,
+      "unrecorded_request_ids": [
+        "48f4ffdd621bab5b30dddceb",
+        "309284c64c0f336ddef760ef",
+        "ae8a2f0c1a25cc50ed129647"
+      ],
+      "worker_id": "astra_i"
+    },
+    {
+      "batch_id": "60851c4e25b1d3aed758",
+      "ingestion_archive_exists": false,
+      "issued_batch_sha256": "884a8fb7c8fefa21d775e3d8a9ec2e8bfc94cd7839e8a71e86875a40ec05f888",
+      "submission_exists": false,
+      "unrecorded_request_ids": [
+        "4fb9b9fd0465c4618d607c01",
+        "5398d883acc2988d33fafc64",
+        "60ce3dd10bc4ef935e0fdff2"
+      ],
+      "worker_id": "astra_g"
+    },
+    {
+      "batch_id": "62abbbd70296ed0dfc24",
+      "ingestion_archive_exists": false,
+      "issued_batch_sha256": "9136d83005f0bb762b1d3d914c8c91ea861e532c037209d4e55ffc11a71f375a",
+      "submission_exists": false,
+      "unrecorded_request_ids": [
+        "0b4a30a2b105959e8529b8e0",
+        "745d2b30962a0c00e7bcf226",
+        "1a079c22f41fafb7bd479650"
+      ],
+      "worker_id": "astra_h"
+    }
+  ],
+  "pending_reservations_preserved": true,
+  "recorded_utc": "2026-09-28T13:35:29.784527+00:00",
+  "remaining": 588,
+  "reset_displayed": "Oct 4th, 2026 6:43 PM",
+  "reset_timezone": "not specified",
+  "resume_policy": "Wait for permitted reset or authorized restored allowance; do not rotate models/accounts to bypass limits. Preserve or explicitly recover pending assignments before dispatch.",
+  "stop_reason": "Actual orchestrator service usage limit for all three workers",
+  "user_current_scope": "Astra rewrites only; other tasks deferred"
+}

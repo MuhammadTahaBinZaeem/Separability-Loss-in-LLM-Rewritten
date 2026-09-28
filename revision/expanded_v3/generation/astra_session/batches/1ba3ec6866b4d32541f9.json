@@ -1,0 +1,68 @@
+{
+  "batch_id": "1ba3ec6866b4d32541f9",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:53:30.088199+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f057af6fbd4c6160490f2150",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_austen_pride_and_prejudice_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: f057af6fbd4c6160490f2150\noriginal_word_count: 473\n\nPassage:\nNot a word, however, passed his lips in allusion to it, till their visitor took his leave for the night; but as soon as he was gone, he turned to his daughter and said,--\n\n“Jane, I congratulate you. You will be a very happy woman.”\n\nJane went to him instantly, kissed him, and thanked him for his goodness.\n\n“You are a good girl,” he replied, “and I have great pleasure in thinking you will be so happily settled. I have not a doubt of your doing very well together. Your tempers are by no means unlike. You are each of you so complying, that nothing will ever be resolved on; so easy, that every servant will cheat you; and so generous, that you will always exceed your income.”\n\n“I hope not so. Imprudence or thoughtlessness in money matters would be unpardonable in _me_.”\n\n“Exceed their income! My dear Mr. Bennet,” cried his wife, “what are you talking of? Why, he has four or five thousand a year, and very likely more.” Then addressing her daughter, “Oh, my dear, dear Jane, I am so happy! I am sure I shan’t get a wink of sleep all night. I knew how it would be. I always said it must be so, at last. I was sure you could not be so beautiful for nothing! I remember, as soon as ever I saw him, when he first came into Hertfordshire last year, I thought how likely it was that you should come together. Oh, he is the handsomest young man that ever was seen!”\n\nWickham, Lydia, were all forgotten. Jane was beyond competition her favourite child. At that moment she cared for no other. Her younger sisters soon began to make interest with her for objects of happiness which she might in future be able to dispense.\n\nMary petitioned for the use of the library at Netherfield; and Kitty begged very hard for a few balls there every winter.\n\nBingley, from this time, was of course a daily visitor at Longbourn; coming frequently before breakfast, and always remaining till after supper; unless when some barbarous neighbour, who could not be enough detested, had given him an invitation to dinner, which he thought himself obliged to accept.\n\nElizabeth had now but little time for conversation with her sister; for while he was present Jane had no attention to bestow on anyone else: but she found herself considerably useful to both of them, in those hours of separation that must sometimes occur. In the absence of Jane, he always attached himself to Elizabeth for the pleasure of talking of her; and when Bingley was gone, Jane constantly sought the same means of relief.\n\n“He has made me so happy,” said she, one evening, “by telling me that he was totally ignorant of my being in town last spring!"
+      },
+      "request_id": "f057af6fbd4c6160490f2150",
+      "request_sha256": "1a996ac95f50e07a71acde6a958b7ad15526a6ef7adf8868231009bc6eddabca",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "84f02d5bb982a973dd87cd900cf661eac34f400c376dcc322e102b9e78af79e5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "15de26e296be6be72f25590b",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_murders_rue_morgue_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 15de26e296be6be72f25590b\noriginal_word_count: 455\n\nPassage:\nThe mental features discoursed of as the analytical, are, in themselves, but little susceptible of analysis. We appreciate them only in their effects. We know of them, among other things, that they are always to their possessor, when inordinately possessed, a source of the liveliest enjoyment. As the strong man exults in his physical ability, delighting in such exercises as call his muscles into action, so glories the analyst in that moral activity which _disentangles._ He derives pleasure from even the most trivial occupations bringing his talent into play. He is fond of enigmas, of conundrums, of hieroglyphics; exhibiting in his solutions of each a degree of _acumen_ which appears to the ordinary apprehension præternatural. His results, brought about by the very soul and essence of method, have, in truth, the whole air of intuition.\n\nThe faculty of re-solution is possibly much invigorated by mathematical study, and especially by that highest branch of it which, unjustly, and merely on account of its retrograde operations, has been called, as if _par excellence_, analysis. Yet to calculate is not in itself to analyse. A chess-player, for example, does the one without effort at the other. It follows that the game of chess, in its effects upon mental character, is greatly misunderstood. I am not now writing a treatise, but simply prefacing a somewhat peculiar narrative by observations very much at random; I will, therefore, take occasion to assert that the higher powers of the reflective intellect are more decidedly and more usefully tasked by the unostentatious game of draughts than by all the elaborate frivolity of chess. In this latter, where the pieces have different and _bizarre_ motions, with various and variable values, what is only complex is mistaken (a not unusual error) for what is profound. The _attention_ is here called powerfully into play. If it flag for an instant, an oversight is committed resulting in injury or defeat. The possible moves being not only manifold but involute, the chances of such oversights are multiplied; and in nine cases out of ten it is the more concentrative rather than the more acute player who conquers. In draughts, on the contrary, where the moves are _unique_ and have but little variation, the probabilities of inadvertence are diminished, and the mere attention being left comparatively unemployed, what advantages are obtained by either party are obtained by superior _acumen_. To be less abstract, let us suppose a game of draughts where the pieces are reduced to four kings, and where, of course, no oversight is to be expected. It is obvious that here the victory can be decided (the players being at all equal) only by some _recherché_ movement, the result of some strong exertion of the intellect."
+      },
+      "request_id": "15de26e296be6be72f25590b",
+      "request_sha256": "608fdb50618eb77df93f0c444bd9912326ecfc8073704971a64c5a4a263c994a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "754866f56ae90bae7100c9f18a0f3ea44352431ea5d482a9c5a39d331f1808ad"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e8ae449a87e4218b8498fab9",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_shelley_the_last_man_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: e8ae449a87e4218b8498fab9\noriginal_word_count: 450\n\nPassage:\nLay down your arms, fellow men! brethren! Pardon, succour, and brotherly love await your repentance. You are dear to us, because you wear the frail shape of humanity; each one among you will find a friend and host among these forces. Shall man be the enemy of man, while plague, the foe to all, even now is above us, triumphing in our butchery, more cruel than her own?”\n\nEach army paused. On our side the soldiers grasped their arms firmly, and looked with stern glances on the foe. These had not thrown down their weapons, more from fear than the spirit of contest; they looked at each other, each wishing to follow some example given him,—but they had no leader. Adrian threw himself from his horse, and approaching one of those just slain: “He was a man,” he cried, “and he is dead. O quickly bind up the wounds of the fallen—let not one die; let not one more soul escape through your merciless gashes, to relate before the throne of God the tale of fratricide; bind up their wounds—restore them to their friends. Cast away the hearts of tigers that burn in your breasts; throw down those tools of cruelty and hate; in this pause of exterminating destiny, let each man be brother, guardian, and stay to the other. Away with those blood-stained arms, and hasten some of you to bind up these wounds.”\n\nAs he spoke, he knelt on the ground, and raised in his arms a man from whose side the warm tide of life gushed—the poor wretch gasped—so still had either host become, that his moans were distinctly heard, and every heart, late fiercely bent on universal massacre, now beat anxiously in hope and fear for the fate of this one man. Adrian tore off his military scarf and bound it round the sufferer—it was too late—the man heaved a deep sigh, his head fell back, his limbs lost their sustaining power.— “He is dead!” said Adrian, as the corpse fell from his arms on the ground, and he bowed his head in sorrow and awe. The fate of the world seemed bound up in the death of this single man. On either side the bands threw down their arms, even the veterans wept, and our party held out their hands to their foes, while a gush of love and deepest amity filled every heart. The two forces mingling, unarmed and hand in hand, talking only how each might assist the other, the adversaries conjoined; each repenting, the one side their former cruelties, the other their late violence, they obeyed the orders of the General to proceed towards London."
+      },
+      "request_id": "e8ae449a87e4218b8498fab9",
+      "request_sha256": "d32dbf81a3384856f737cf4e55a991beaff2799725a924c3255260809ae23b4f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "405ae8f81229c700e115dacb484a3e08ad25f77713d24cda17fedb4b0172d2a7"
+    }
+  ],
+  "session_id": "01a0e87a-db7a-7303-aca7-ee81da6c50ba",
+  "worker_id": "astra_aa",
+  "worker_identity_sha256": "f89346b92865e535f8532245987e03b9bf1204ea8d86eb06bb80af193eb55d71"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "1bfb43c1235d946782b3",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:51:25.283477+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2b817064aac83a73e89d9013",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 467,
+      "passage_id": "V2_dickens_oliver_twist_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2b817064aac83a73e89d9013\noriginal_word_count: 467\n\nPassage:\nIt is due to the young lady to say that she did not positively affirm that she would not, but that she merely expressed an emphatic and earnest desire to be “blessed” if she would; a polite and delicate evasion of the request, which shows the young lady to have been possessed of that natural good breeding which cannot bear to inflict upon a fellow-creature, the pain of a direct and pointed refusal.\n\nThe Jew’s countenance fell. He turned from this young lady, who was gaily, not to say gorgeously attired, in a red gown, green boots, and yellow curl-papers, to the other female.\n\n“Nancy, my dear,” said the Jew in a soothing manner, “what do _you_ say?”\n\n“That it won’t do; so it’s no use a-trying it on, Fagin,” replied Nancy.\n\n“What do you mean by that?” said Mr. Sikes, looking up in a surly manner.\n\n“What I say, Bill,” replied the lady collectedly.\n\n“Why, you’re just the very person for it,” reasoned Mr. Sikes: “nobody about here knows anything of you.”\n\n“And as I don’t want ’em to, neither,” replied Nancy in the same composed manner, “it’s rather more no than yes with me, Bill.”\n\n“She’ll go, Fagin,” said Sikes.\n\n“No, she won’t, Fagin,” said Nancy.\n\n“Yes, she will, Fagin,” said Sikes.\n\nAnd Mr. Sikes was right. By dint of alternate threats, promises, and bribes, the lady in question was ultimately prevailed upon to undertake the commission. She was not, indeed, withheld by the same considerations as her agreeable friend; for, having recently removed into the neighborhood of Field Lane from the remote but genteel suburb of Ratcliffe, she was not under the same apprehension of being recognised by any of her numerous acquaintances.\n\nAccordingly, with a clean white apron tied over her gown, and her curl-papers tucked up under a straw bonnet,—both articles of dress being provided from the Jew’s inexhaustible stock,—Miss Nancy prepared to issue forth on her errand.\n\n“Stop a minute, my dear,” said the Jew, producing, a little covered basket. “Carry that in one hand. It looks more respectable, my dear.”\n\n“Give her a door-key to carry in her t’other one, Fagin,” said Sikes; “it looks real and genivine like.”\n\n“Yes, yes, my dear, so it does,” said the Jew, hanging a large street-door key on the forefinger of the young lady’s right hand. “There; very good! Very good indeed, my dear!” said the Jew, rubbing his hands.\n\n“Oh, my brother! My poor, dear, sweet, innocent little brother!” exclaimed Nancy, bursting into tears, and wringing the little basket and the street-door key in an agony of distress. “What has become of him! Where have they taken him to! Oh, do have pity, and tell me what’s been done with the dear boy, gentlemen; do, gentlemen, if you please, gentlemen!”"
+      },
+      "request_id": "2b817064aac83a73e89d9013",
+      "request_sha256": "6b3ebae3b2f88e224581134ef0bdc3a0485022600d7035e2197939e65f3d6d28",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0deed6e5da86005bff9912a4a3781dd43e1891602b24e661418ffeaf0a742afd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "63856816bfa8c718084c7086",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_austen_pride_and_prejudice_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 63856816bfa8c718084c7086\noriginal_word_count: 473\n\nPassage:\nNot a word, however, passed his lips in allusion to it, till their visitor took his leave for the night; but as soon as he was gone, he turned to his daughter and said,--\n\n“Jane, I congratulate you. You will be a very happy woman.”\n\nJane went to him instantly, kissed him, and thanked him for his goodness.\n\n“You are a good girl,” he replied, “and I have great pleasure in thinking you will be so happily settled. I have not a doubt of your doing very well together. Your tempers are by no means unlike. You are each of you so complying, that nothing will ever be resolved on; so easy, that every servant will cheat you; and so generous, that you will always exceed your income.”\n\n“I hope not so. Imprudence or thoughtlessness in money matters would be unpardonable in _me_.”\n\n“Exceed their income! My dear Mr. Bennet,” cried his wife, “what are you talking of? Why, he has four or five thousand a year, and very likely more.” Then addressing her daughter, “Oh, my dear, dear Jane, I am so happy! I am sure I shan’t get a wink of sleep all night. I knew how it would be. I always said it must be so, at last. I was sure you could not be so beautiful for nothing! I remember, as soon as ever I saw him, when he first came into Hertfordshire last year, I thought how likely it was that you should come together. Oh, he is the handsomest young man that ever was seen!”\n\nWickham, Lydia, were all forgotten. Jane was beyond competition her favourite child. At that moment she cared for no other. Her younger sisters soon began to make interest with her for objects of happiness which she might in future be able to dispense.\n\nMary petitioned for the use of the library at Netherfield; and Kitty begged very hard for a few balls there every winter.\n\nBingley, from this time, was of course a daily visitor at Longbourn; coming frequently before breakfast, and always remaining till after supper; unless when some barbarous neighbour, who could not be enough detested, had given him an invitation to dinner, which he thought himself obliged to accept.\n\nElizabeth had now but little time for conversation with her sister; for while he was present Jane had no attention to bestow on anyone else: but she found herself considerably useful to both of them, in those hours of separation that must sometimes occur. In the absence of Jane, he always attached himself to Elizabeth for the pleasure of talking of her; and when Bingley was gone, Jane constantly sought the same means of relief.\n\n“He has made me so happy,” said she, one evening, “by telling me that he was totally ignorant of my being in town last spring!"
+      },
+      "request_id": "63856816bfa8c718084c7086",
+      "request_sha256": "1e410d1dfb3dbca0a7dadd0caaaae5f1ff0a67f3f29ed31c0a09158a7486fc75",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "84f02d5bb982a973dd87cd900cf661eac34f400c376dcc322e102b9e78af79e5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1ec0178d70cfd53c2849a478",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 490,
+      "passage_id": "V2_austen_emma_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 1ec0178d70cfd53c2849a478\noriginal_word_count: 490\n\nPassage:\nEmma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little to distress or vex her.\n\nShe was the youngest of the two daughters of a most affectionate, indulgent father; and had, in consequence of her sister’s marriage, been mistress of his house from a very early period. Her mother had died too long ago for her to have more than an indistinct remembrance of her caresses; and her place had been supplied by an excellent woman as governess, who had fallen little short of a mother in affection.\n\nSixteen years had Miss Taylor been in Mr. Woodhouse’s family, less as a governess than a friend, very fond of both daughters, but particularly of Emma. Between _them_ it was more the intimacy of sisters. Even before Miss Taylor had ceased to hold the nominal office of governess, the mildness of her temper had hardly allowed her to impose any restraint; and the shadow of authority being now long passed away, they had been living together as friend and friend very mutually attached, and Emma doing just what she liked; highly esteeming Miss Taylor’s judgment, but directed chiefly by her own.\n\nThe real evils, indeed, of Emma’s situation were the power of having rather too much her own way, and a disposition to think a little too well of herself; these were the disadvantages which threatened alloy to her many enjoyments. The danger, however, was at present so unperceived, that they did not by any means rank as misfortunes with her.\n\nSorrow came—a gentle sorrow—but not at all in the shape of any disagreeable consciousness.—Miss Taylor married. It was Miss Taylor’s loss which first brought grief. It was on the wedding-day of this beloved friend that Emma first sat in mournful thought of any continuance. The wedding over, and the bride-people gone, her father and herself were left to dine together, with no prospect of a third to cheer a long evening. Her father composed himself to sleep after dinner, as usual, and she had then only to sit and think of what she had lost.\n\nThe event had every promise of happiness for her friend. Mr. Weston was a man of unexceptionable character, easy fortune, suitable age, and pleasant manners; and there was some satisfaction in considering with what self-denying, generous friendship she had always wished and promoted the match; but it was a black morning’s work for her. The want of Miss Taylor would be felt every hour of every day. She recalled her past kindness—the kindness, the affection of sixteen years—how she had taught and how she had played with her from five years old—how she had devoted all her powers to attach and amuse her in health—and how nursed her through the various illnesses of childhood."
+      },
+      "request_id": "1ec0178d70cfd53c2849a478",
+      "request_sha256": "82ef83294efce79d0ead3837281fa42f7e7b610b63d510b220cac40eba1de50e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f2c1e0f4bbbc06235c1b8a35ad2279801115ca50e93b2fea77b270c25611266d"
+    }
+  ],
+  "session_id": "01a0e87a-db7a-7303-aca7-ee81da6c50ba",
+  "worker_id": "astra_aa",
+  "worker_identity_sha256": "f89346b92865e535f8532245987e03b9bf1204ea8d86eb06bb80af193eb55d71"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "1f56adedd5a57b9de5ae",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:08:10.365180+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "bdd1c8ed4bb7c2fc38f19315",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: bdd1c8ed4bb7c2fc38f19315\noriginal_word_count: 450\n\nPassage:\nNow that he had no work to hold, he laid the knuckles of the right hand in the hollow of the left, and then the knuckles of the left hand in the hollow of the right, and then passed a hand across his bearded chin, and so on in regular changes, without a moment’s intermission. The task of recalling him from the vagrancy into which he always sank when he had spoken, was like recalling some very weak person from a swoon, or endeavouring, in the hope of some disclosure, to stay the spirit of a fast-dying man.\n\n“Did you ask me for my name?”\n\n“Assuredly I did.”\n\n“One Hundred and Five, North Tower.”\n\n“Is that all?”\n\n“One Hundred and Five, North Tower.”\n\nWith a weary sound that was not a sigh, nor a groan, he bent to work again, until the silence was again broken.\n\n“You are not a shoemaker by trade?” said Mr. Lorry, looking steadfastly at him.\n\nHis haggard eyes turned to Defarge as if he would have transferred the question to him: but as no help came from that quarter, they turned back on the questioner when they had sought the ground.\n\n“I am not a shoemaker by trade? No, I was not a shoemaker by trade. I-I learnt it here. I taught myself. I asked leave to--”\n\nHe lapsed away, even for minutes, ringing those measured changes on his hands the whole time. His eyes came slowly back, at last, to the face from which they had wandered; when they rested on it, he started, and resumed, in the manner of a sleeper that moment awake, reverting to a subject of last night.\n\n“I asked leave to teach myself, and I got it with much difficulty after a long while, and I have made shoes ever since.”\n\nAs he held out his hand for the shoe that had been taken from him, Mr. Lorry said, still looking steadfastly in his face:\n\n“Monsieur Manette, do you remember nothing of me?”\n\nThe shoe dropped to the ground, and he sat looking fixedly at the questioner.\n\n“Monsieur Manette”; Mr. Lorry laid his hand upon Defarge’s arm; “do you remember nothing of this man? Look at him. Look at me. Is there no old banker, no old business, no old servant, no old time, rising in your mind, Monsieur Manette?”\n\nAs the captive of many years sat looking fixedly, by turns, at Mr. Lorry and at Defarge, some long obliterated marks of an actively intent intelligence in the middle of the forehead, gradually forced themselves through the black mist that had fallen on him. They were overclouded again, they were fainter, they were gone; but they had been there."
+      },
+      "request_id": "bdd1c8ed4bb7c2fc38f19315",
+      "request_sha256": "df2cb329674e8b150c1f49a1968755fc638c49c95c2eb7007d5b63bdb8a3319b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9937705e33b357049fc8e0edf2cd42cd21f169394f00e2146e5b1384277ed60e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0d0bc08df7283f901ee37393",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_shelley_mathilda_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 0d0bc08df7283f901ee37393\noriginal_word_count: 453\n\nPassage:\nIt was past two o’clock when by a sudden turn I found myself close to the lake near a cove where a little skiff was moored--It was not far from our house and I saw my father and aunt walking on the lawn. I jumped into the boat, and well accustomed to such feats, I pushed it from shore, and exerted all my strength to row swiftly across. As I came, dressed in white, covered only by my tartan _rachan_, my hair streaming on my shoulders, and shooting across with greater speed that it could be supposed I could give to my boat, my father has often told me that I looked more like a spirit than a human maid. I approached the shore, my father held the boat, I leapt lightly out, and in a moment was in his arms.\n\nAnd now I began to live. All around me was changed from a dull uniformity to the brightest scene of joy and delight. The happiness I enjoyed in the company of my father far exceeded my sanguine expectations. We were for ever together; and the subjects of our conversations were inexhaustible. He had passed the sixteen years of absence among nations nearly unknown to Europe; he had wandered through Persia, Arabia and the north of India and had penetrated among the habitations of the natives with a freedom permitted to few Europeans. His relations of their manners, his anecdotes and descriptions of scenery whiled away delicious hours, when we were tired of talking of our own plans of future life.\n\nThe voice of affection was so new to me that I hung with delight upon his words when he told me what he had felt concerning me during these long years of apparent forgetfulness. “At first”--said he, “I could not bear to think of my poor little girl; but afterwards as grief wore off and hope again revisited me I could only turn to her, and amidst cities and desarts her little fairy form, such as I imagined it, for ever flitted before me. The northern breeze as it refreshed me was sweeter and more balmy for it seemed to carry some of your spirit along with it. I often thought that I would instantly return and take you along with me to some fertile island where we should live at peace for ever. As I returned my fervent hopes were dashed by so many fears; my impatience became in the highest degree painful. I dared not think that the sun should shine and the moon rise not on your living form but on your grave. But, no, it is not so; I have my Mathilda, my consolation, and my hope.”--"
+      },
+      "request_id": "0d0bc08df7283f901ee37393",
+      "request_sha256": "82b1dc74ee1c62ef302a55287925c4f9a4d4438154a2b795a3227a7b72c93410",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1568a35188b7f3908445ecc9c2f71da61aa1dace2a9078f836bf1e316de1c0c1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "540a998b24df5cb389e91495",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 494,
+      "passage_id": "V2_austen_persuasion_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 540a998b24df5cb389e91495\noriginal_word_count: 494\n\nPassage:\nMary never wrote to Bath herself; all the toil of keeping up a slow and unsatisfactory correspondence with Elizabeth fell on Anne.\n\nBreakfast had not been long over, when they were joined by Captain and Mrs Harville and Captain Benwick; with whom they had appointed to take their last walk about Lyme. They ought to be setting off for Uppercross by one, and in the meanwhile were to be all together, and out of doors as long as they could.\n\nAnne found Captain Benwick getting near her, as soon as they were all fairly in the street. Their conversation the preceding evening did not disincline him to seek her again; and they walked together some time, talking as before of Mr Scott and Lord Byron, and still as unable as before, and as unable as any other two readers, to think exactly alike of the merits of either, till something occasioned an almost general change amongst their party, and instead of Captain Benwick, she had Captain Harville by her side.\n\n“Miss Elliot,” said he, speaking rather low, “you have done a good deed in making that poor fellow talk so much. I wish he could have such company oftener. It is bad for him, I know, to be shut up as he is; but what can we do? We cannot part.”\n\n“No,” said Anne, “that I can easily believe to be impossible; but in time, perhaps—we know what time does in every case of affliction, and you must remember, Captain Harville, that your friend may yet be called a young mourner—only last summer, I understand.”\n\n“Ay, true enough,” (with a deep sigh) “only June.”\n\n“And not known to him, perhaps, so soon.”\n\n“Not till the first week of August, when he came home from the Cape, just made into the Grappler. I was at Plymouth dreading to hear of him; he sent in letters, but the Grappler was under orders for Portsmouth. There the news must follow him, but who was to tell it? not I. I would as soon have been run up to the yard-arm. Nobody could do it, but that good fellow” (pointing to Captain Wentworth). “The Laconia had come into Plymouth the week before; no danger of her being sent to sea again. He stood his chance for the rest; wrote up for leave of absence, but without waiting the return, travelled night and day till he got to Portsmouth, rowed off to the Grappler that instant, and never left the poor fellow for a week. That’s what he did, and nobody else could have saved poor James. You may think, Miss Elliot, whether he is dear to us!”\n\nAnne did think on the question with perfect decision, and said as much in reply as her own feeling could accomplish, or as his seemed able to bear, for he was too much affected to renew the subject, and when he spoke again, it was of something totally different."
+      },
+      "request_id": "540a998b24df5cb389e91495",
+      "request_sha256": "3624ef51dc5a7a4db3f743e108e343b99ef31ae72493b43964c52250ca2629aa",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ac2e2a33caf81ea8285b6a7501bf5218db7df334a3d104c780c3d2b56e4c4466"
+    }
+  ],
+  "session_id": "01a0e851-893e-7833-9978-6adbfb804215",
+  "worker_id": "astra_o",
+  "worker_identity_sha256": "57a742b9cc10271bcec81121c331ed211baefa86bd40e11991144b051b260799"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "ed449f8876c3bd9dc926",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:23:02.733573+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "95a50124aa08905cfb1b2d7f",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_twain_tom_sawyer_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 95a50124aa08905cfb1b2d7f\noriginal_word_count: 470\n\nPassage:\nI know she would!”\n\nThe Widow Douglas’ splendid hospitality was a tempting bait. It and Tom’s persuasions presently carried the day. So it was decided to say nothing to anybody about the night’s programme. Presently it occurred to Tom that maybe Huck might come this very night and give the signal. The thought took a deal of the spirit out of his anticipations. Still he could not bear to give up the fun at Widow Douglas’. And why should he give it up, he reasoned—the signal did not come the night before, so why should it be any more likely to come tonight? The sure fun of the evening outweighed the uncertain treasure; and, boy-like, he determined to yield to the stronger inclination and not allow himself to think of the box of money another time that day.\n\nThree miles below town the ferryboat stopped at the mouth of a woody hollow and tied up. The crowd swarmed ashore and soon the forest distances and craggy heights echoed far and near with shoutings and laughter. All the different ways of getting hot and tired were gone through with, and by-and-by the rovers straggled back to camp fortified with responsible appetites, and then the destruction of the good things began. After the feast there was a refreshing season of rest and chat in the shade of spreading oaks. By-and-by somebody shouted:\n\n“Who’s ready for the cave?”\n\nEverybody was. Bundles of candles were procured, and straightway there was a general scamper up the hill. The mouth of the cave was up the hillside—an opening shaped like a letter A. Its massive oaken door stood unbarred. Within was a small chamber, chilly as an icehouse, and walled by Nature with solid limestone that was dewy with a cold sweat. It was romantic and mysterious to stand here in the deep gloom and look out upon the green valley shining in the sun. But the impressiveness of the situation quickly wore off, and the romping began again. The moment a candle was lighted there was a general rush upon the owner of it; a struggle and a gallant defence followed, but the candle was soon knocked down or blown out, and then there was a glad clamor of laughter and a new chase. But all things have an end. By-and-by the procession went filing down the steep descent of the main avenue, the flickering rank of lights dimly revealing the lofty walls of rock almost to their point of junction sixty feet overhead. This main avenue was not more than eight or ten feet wide. Every few steps other lofty and still narrower crevices branched from it on either hand—for McDougal’s cave was but a vast labyrinth of crooked aisles that ran into each other and out again and led nowhere."
+      },
+      "request_id": "95a50124aa08905cfb1b2d7f",
+      "request_sha256": "bd9faa9bffa8e12b52c1f11866cc70d25787a3687992bade14d821e4affbe635",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5e4147a707d69ff3ee62d501c7ed5b0f16b54be2648c1d8c4613d5eba30eedad"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "81e66d6d359f4ad2f718eab9",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_twain_huckleberry_finn_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 81e66d6d359f4ad2f718eab9\noriginal_word_count: 454\n\nPassage:\nShe was right about the rats. You’d see one stick his nose out of a hole in the corner every little while. She said she had to have things handy to throw at them when she was alone, or they wouldn’t give her no peace. She showed me a bar of lead twisted up into a knot, and said she was a good shot with it generly, but she’d wrenched her arm a day or two ago, and didn’t know whether she could throw true now. But she watched for a chance, and directly banged away at a rat; but she missed him wide, and said “Ouch!” it hurt her arm so. Then she told me to try for the next one. I wanted to be getting away before the old man got back, but of course I didn’t let on. I got the thing, and the first rat that showed his nose I let drive, and if he’d a stayed where he was he’d a been a tolerable sick rat. She said that was first-rate, and she reckoned I would hive the next one. She went and got the lump of lead and fetched it back, and brought along a hank of yarn which she wanted me to help her with. I held up my two hands and she put the hank over them, and went on talking about her and her husband’s matters. But she broke off to say:\n\n“Keep your eye on the rats. You better have the lead in your lap, handy.”\n\nSo she dropped the lump into my lap just at that moment, and I clapped my legs together on it and she went on talking. But only about a minute. Then she took off the hank and looked me straight in the face, and very pleasant, and says:\n\n“Come, now, what’s your real name?”\n\n“Wh—what, mum?”\n\n“What’s your real name? Is it Bill, or Tom, or Bob?—or what is it?”\n\nI reckon I shook like a leaf, and I didn’t know hardly what to do. But I says:\n\n“Please to don’t poke fun at a poor girl like me, mum. If I’m in the way here, I’ll—”\n\n“No, you won’t. Set down and stay where you are. I ain’t going to hurt you, and I ain’t going to tell on you, nuther. You just tell me your secret, and trust me. I’ll keep it; and, what’s more, I’ll help you. So’ll my old man if you want him to. You see, you’re a runaway ’prentice, that’s all. It ain’t anything. There ain’t no harm in it. You’ve been treated bad, and you made up your mind to cut. Bless you, child, I wouldn’t tell on you."
+      },
+      "request_id": "81e66d6d359f4ad2f718eab9",
+      "request_sha256": "6b637e291ed5ca838c030c98ab3403324bff18bfcad8c54aa08ad66aeaaf1fcc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b3668190768e217d0c7be1f2d37dde5b565971d708a27f7fc907681f8595893e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "360614125dc3f6913d977351",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_poe_hans_pfaal_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 360614125dc3f6913d977351\noriginal_word_count: 459\n\nPassage:\nI now bored a hole in the end of the keg over the pitcher, and fitted in a plug of soft wood, cut in a tapering or conical shape. This plug I pushed in or pulled out, as might happen, until, after a few experiments, it arrived at that exact degree of tightness, at which the water, oozing from the hole, and falling into the pitcher below, would fill the latter to the brim in the period of sixty minutes. This, of course, was a matter briefly and easily ascertained, by noticing the proportion of the pitcher filled in any given time. Having arranged all this, the rest of the plan is obvious. My bed was so contrived upon the floor of the car, as to bring my head, in lying down, immediately below the mouth of the pitcher. It was evident, that, at the expiration of an hour, the pitcher, getting full, would be forced to run over, and to run over at the mouth, which was somewhat lower than the rim. It was also evident, that the water thus falling from a height of more than four feet, could not do otherwise than fall upon my face, and that the sure consequences would be, to waken me up instantaneously, even from the soundest slumber in the world.\n\n“It was fully eleven by the time I had completed these arrangements, and I immediately betook myself to bed, with full confidence in the efficiency of my invention. Nor in this matter was I disappointed. Punctually every sixty minutes was I aroused by my trusty chronometer, when, having emptied the pitcher into the bung-hole of the keg, and performed the duties of the condenser, I retired again to bed. These regular interruptions to my slumber caused me even less discomfort than I had anticipated; and when I finally arose for the day, it was seven o’clock, and the sun had attained many degrees above the line of my horizon.\n\n“April 3d. I found the balloon at an immense height indeed, and the earth’s apparent convexity increased in a material degree. Below me in the ocean lay a cluster of black specks, which undoubtedly were islands. Far away to the northward I perceived a thin, white, and exceedingly brilliant line, or streak, on the edge of the horizon, and I had no hesitation in supposing it to be the southern disk of the ices of the Polar Sea. My curiosity was greatly excited, for I had hopes of passing on much farther to the north, and might possibly, at some period, find myself placed directly above the Pole itself. I now lamented that my great elevation would, in this case, prevent my taking as accurate a survey as I could wish."
+      },
+      "request_id": "360614125dc3f6913d977351",
+      "request_sha256": "bed8be72a8599aaa7ac58b95d54672ad3684dc247e57ed95eb25b913694ba285",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4d252635fa67ba4c7d8065dbd9817dbead02563c625b4596c028459ea5c358b2"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "1f5839aee9c136687c58",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:31:40.906764+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "354f9b4ca1052f4557fa946a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_twain_connecticut_yankee_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 354f9b4ca1052f4557fa946a\noriginal_word_count: 462\n\nPassage:\nAnd I don't jump at him all of a sudden, and risk making a blundering half-way business of it; no, I get away off yonder to one side, and work up on him gradually, so that he never suspects that I'm going to hit him at all; and by and by, all in a flash, he's flat on his back, and he can't tell for the life of him how it all happened. That is the way I went for brother Dowley. I started to talking lazy and comfortable, as if I was just talking to pass the time; and the oldest man in the world couldn't have taken the bearings of my starting place and guessed where I was going to fetch up:\n\n“Boys, there's a good many curious things about law, and custom, and usage, and all that sort of thing, when you come to look at it; yes, and about the drift and progress of human opinion and movement, too. There are written laws--they perish; but there are also unwritten laws--_they_ are eternal. Take the unwritten law of wages: it says they've got to advance, little by little, straight through the centuries. And notice how it works. We know what wages are now, here and there and yonder; we strike an average, and say that's the wages of to-day. We know what the wages were a hundred years ago, and what they were two hundred years ago; that's as far back as we can get, but it suffices to give us the law of progress, the measure and rate of the periodical augmentation; and so, without a document to help us, we can come pretty close to determining what the wages were three and four and five hundred years ago. Good, so far. Do we stop there? No. We stop looking backward; we face around and apply the law to the future. My friends, I can tell you what people's wages are going to be at any date in the future you want to know, for hundreds and hundreds of years.”\n\n“What, goodman, what!”\n\n“Yes. In seven hundred years wages will have risen to six times what they are now, here in your region, and farm hands will be allowed 3 cents a day, and mechanics 6.”\n\n“I would't I might die now and live then!” interrupted Smug, the wheelwright, with a fine avaricious glow in his eye.\n\n“And that isn't all; they'll get their board besides--such as it is: it won't bloat them. Two hundred and fifty years later--pay attention now--a mechanic's wages will be--mind you, this is law, not guesswork; a mechanic's wages will then be _twenty_ cents a day!”\n\nThere was a general gasp of awed astonishment, Dickon the mason murmured, with raised eyes and hands:"
+      },
+      "request_id": "354f9b4ca1052f4557fa946a",
+      "request_sha256": "978c45409fc14baf55bf1fdc683ee8d6cf80bf5e1c4b8e83b5bea03f0359d069",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "616352df6c3f43d8fe8e7d4d97ad178bae8316de376f84122492a256eef5bbbf"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d09d648f1631a0259dd7bf91",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 479,
+      "passage_id": "V2_shelley_mathilda_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: d09d648f1631a0259dd7bf91\noriginal_word_count: 479\n\nPassage:\nAnd then I repeated to myself all that lovely passage that relates the entrance of Dante into the terrestrial Paradise; and thought it would be sweet when I wandered on those lovely banks to see the car of light descend with my long lost parent to be restored to me. As I waited there in expectation of that moment, I thought how, of the lovely flowers that grew there, I would wind myself a chaplet and crown myself for joy: I would sing _sul margine d’un rio_, my father’s favourite song, and that my voice gliding through the windless air would announce to him in whatever bower he sat expecting the moment of our union, that his daughter was come. Then the mark of misery would have faded from my brow, and I should raise my eyes fearlessly to meet his, which ever beamed with the soft lustre of innocent love. When I reflected on the magic look of those deep eyes I wept, but gently, lest my sobs should disturb the fairy scene.\n\nI was so entirely wrapt in this reverie that I wandered on, taking no heed of my steps until I actually stooped down to gather a flower for my wreath on that bleak plain where no flower grew, when I awoke from my day dream and found myself I knew not where.\n\nThe sun had set and the roseate hue which the clouds had caught from him in his descent had nearly died away. A wind swept across the plain, I looked around me and saw no object that told me where I was; I had lost myself, and in vain attempted to find my path. I wandered on, and the coming darkness made every trace indistinct by which I might be guided. At length all was veiled in the deep obscurity of blackest night; I became weary and knowing that my servant was to sleep that night at the neighbouring village, so that my absence would alarm no one; and that I was safe in this wild spot from every intruder, I resolved to spend the night where I was. Indeed I was too weary to walk further: the air was chill but I was careless of bodily inconvenience, and I thought that I was well inured to the weather during my two years of solitude, when no change of seasons prevented my perpetual wanderings.\n\nI lay upon the grass surrounded by a darkness which not the slightest beam of light penetrated--There was no sound for the deep night had laid to sleep the insects, the only creatures that lived on the lone spot where no tree or shrub could afford shelter to aught else--There was a wondrous silence in the air that calmed my senses yet which enlivened my soul, my mind hurried from image to image and seemed to grasp an eternity."
+      },
+      "request_id": "d09d648f1631a0259dd7bf91",
+      "request_sha256": "d90f2b7e722143b4e15aab7936b12b9a21099f9c441e49928a892061f9441b6b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7cf6fb4494a854eccb8fb8130df9e863fd49ec25f771fe6ab7c13a6c7f6eafb5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ecb99bba124542db0cdb4ffe",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_twain_connecticut_yankee_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: ecb99bba124542db0cdb4ffe\noriginal_word_count: 454\n\nPassage:\n“Next, we built a wire fence.”\n\n“Wire fence?”\n\n“Yes. You dropped the hint of it yourself, two or three years ago.”\n\n“Oh, I remember--the time the Church tried her strength against us the first time, and presently thought it wise to wait for a hopefuler season. Well, how have you arranged the fence?”\n\n“I start twelve immensely strong wires--naked, not insulated --from a big dynamo in the cave--dynamo with no brushes except a positive and a negative one--”\n\n“Yes, that's right.”\n\n“The wires go out from the cave and fence in a circle of level ground a hundred yards in diameter; they make twelve independent fences, ten feet apart--that is to say, twelve circles within circles--and their ends come into the cave again.”\n\n“Right; go on.”\n\n“The fences are fastened to heavy oaken posts only three feet apart, and these posts are sunk five feet in the ground.”\n\n“That is good and strong.”\n\n“Yes. The wires have no ground-connection outside of the cave. They go out from the positive brush of the dynamo; there is a ground-connection through the negative brush; the other ends of the wire return to the cave, and each is grounded independently.”\n\n“No, no, that won't do!”\n\n“Why?”\n\n“It's too expensive--uses up force for nothing. You don't want any ground-connection except the one through the negative brush. The other end of every wire must be brought back into the cave and fastened independently, and _without_ any ground-connection. Now, then, observe the economy of it. A cavalry charge hurls itself against the fence; you are using no power, you are spending no money, for there is only one ground-connection till those horses come against the wire; the moment they touch it they form a connection with the negative brush _through the ground_, and drop dead. Don't you see?--you are using no energy until it is needed; your lightning is there, and ready, like the load in a gun; but it isn't costing you a cent till you touch it off. Oh, yes, the single ground-connection--”\n\n“Of course! I don't know how I overlooked that. It's not only cheaper, but it's more effectual than the other way, for if wires break or get tangled, no harm is done.”\n\n“No, especially if we have a tell-tale in the cave and disconnect the broken wire. Well, go on. The gatlings?”\n\n“Yes--that's arranged. In the center of the inner circle, on a spacious platform six feet high, I've grouped a battery of thirteen gatling guns, and provided plenty of ammunition.”\n\n“That's it. They command every approach, and when the Church's knights arrive, there's going to be music. The brow of the precipice over the cave--”\n\n“I've got a wire fence there, and a gatling."
+      },
+      "request_id": "ecb99bba124542db0cdb4ffe",
+      "request_sha256": "ba07cf9be5d8b37916d673bc4ded0bda64e226f25942aeb9c086e200a709dfe3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c61ab8633e5e7bb6d0ef1d5cf7ceff316cf1f96eb357b415c94d36a7a0f787bb"
+    }
+  ],
+  "session_id": "01a0e865-d34a-75c3-a7b9-6054f384d598",
+  "worker_id": "astra_u",
+  "worker_identity_sha256": "a9ccd4d0505883dcc11e3e0b3f2a87cf0163a5c2fb28ec8e4609d8f10a62a24d"
+}

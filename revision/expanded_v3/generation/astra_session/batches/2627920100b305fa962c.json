@@ -1,0 +1,68 @@
+{
+  "batch_id": "2627920100b305fa962c",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:14:46.852335+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "efa0a363cc0d4b00c09e18f0",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_dickens_great_expectations_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: efa0a363cc0d4b00c09e18f0\noriginal_word_count: 471\n\nPassage:\n“Unless you call Miss Havisham a he. And I doubt if even you’ll go so far as that.”\n\n“Miss Havisham, up town?” said Joe.\n\n“Is there any Miss Havisham down town?” returned my sister.\n\n“She wants this boy to go and play there. And of course he’s going. And he had better play there,” said my sister, shaking her head at me as an encouragement to be extremely light and sportive, “or I’ll work him.”\n\nI had heard of Miss Havisham up town,—everybody for miles round had heard of Miss Havisham up town,—as an immensely rich and grim lady who lived in a large and dismal house barricaded against robbers, and who led a life of seclusion.\n\n“Well to be sure!” said Joe, astounded. “I wonder how she come to know Pip!”\n\n“Noodle!” cried my sister. “Who said she knew him?”\n\n“—Which some individual,” Joe again politely hinted, “mentioned that she wanted him to go and play there.”\n\n“And couldn’t she ask Uncle Pumblechook if he knew of a boy to go and play there? Isn’t it just barely possible that Uncle Pumblechook may be a tenant of hers, and that he may sometimes—we won’t say quarterly or half-yearly, for that would be requiring too much of you—but sometimes—go there to pay his rent? And couldn’t she then ask Uncle Pumblechook if he knew of a boy to go and play there? And couldn’t Uncle Pumblechook, being always considerate and thoughtful for us—though you may not think it, Joseph,” in a tone of the deepest reproach, as if he were the most callous of nephews, “then mention this boy, standing Prancing here”—which I solemnly declare I was not doing—“that I have for ever been a willing slave to?”\n\n“Good again!” cried Uncle Pumblechook. “Well put! Prettily pointed! Good indeed! Now Joseph, you know the case.”\n\n“No, Joseph,” said my sister, still in a reproachful manner, while Joe apologetically drew the back of his hand across and across his nose, “you do not yet—though you may not think it—know the case. You may consider that you do, but you do _not_, Joseph. For you do not know that Uncle Pumblechook, being sensible that for anything we can tell, this boy’s fortune may be made by his going to Miss Havisham’s, has offered to take him into town to-night in his own chaise-cart, and to keep him to-night, and to take him with his own hands to Miss Havisham’s to-morrow morning. And Lor-a-mussy me!” cried my sister, casting off her bonnet in sudden desperation, “here I stand talking to mere Mooncalfs, with Uncle Pumblechook waiting, and the mare catching cold at the door, and the boy grimed with crock and dirt from the hair of his head to the sole of his foot!”"
+      },
+      "request_id": "efa0a363cc0d4b00c09e18f0",
+      "request_sha256": "4dfb3e16f73c9fa462499fa537cf5a7f0c6e91c289555d8d49df1c407e7fc8f2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "30a519f0dd064537d6ec76b4154feb58ee62a3dc4870baf33d16e31e2ae36f9d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "90031ab69b49b1240df67b9c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_poe_the_gold_bug_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 90031ab69b49b1240df67b9c\noriginal_word_count: 454\n\nPassage:\nThe winters in the latitude of Sullivan’s Island are seldom very severe, and in the fall of the year it is a rare event indeed when a fire is considered necessary. About the middle of October, 18—, there occurred, however, a day of remarkable chilliness. Just before sunset I scrambled my way through the evergreens to the hut of my friend, whom I had not visited for several weeks—my residence being, at that time, in Charleston, a distance of nine miles from the island, while the facilities of passage and re-passage were very far behind those of the present day. Upon reaching the hut I rapped, as was my custom, and getting no reply, sought for the key where I knew it was secreted, unlocked the door and went in. A fine fire was blazing upon the hearth. It was a novelty, and by no means an ungrateful one. I threw off an overcoat, took an arm-chair by the crackling logs, and awaited patiently the arrival of my hosts.\n\nSoon after dark they arrived, and gave me a most cordial welcome. Jupiter, grinning from ear to ear, bustled about to prepare some marsh-hens for supper. Legrand was in one of his fits—how else shall I term them?—of enthusiasm. He had found an unknown bivalve, forming a new genus, and, more than this, he had hunted down and secured, with Jupiter’s assistance, a _scarabæus_ which he believed to be totally new, but in respect to which he wished to have my opinion on the morrow.\n\n“And why not to-night?” I asked, rubbing my hands over the blaze, and wishing the whole tribe of _scarabæi_ at the devil.\n\n“Ah, if I had only known you were here!” said Legrand, “but it’s so long since I saw you; and how could I foresee that you would pay me a visit this very night of all others? As I was coming home I met Lieutenant G——, from the fort, and, very foolishly, I lent him the bug; so it will be impossible for you to see it until the morning. Stay here to-night, and I will send Jup down for it at sunrise. It is the loveliest thing in creation!”\n\n“What?—sunrise?”\n\n“Nonsense! no!—the bug. It is of a brilliant gold color—about the size of a large hickory-nut—with two jet black spots near one extremity of the back, and another, somewhat longer, at the other. The _antennæ_ are—”\n\n“Dey aint no tin in him, Massa Will, I keep a tellin on you,” here interrupted Jupiter; “de bug is a goole bug, solid, ebery bit of him, inside and all, sep him wing—neber feel half so hebby a bug in my life.”"
+      },
+      "request_id": "90031ab69b49b1240df67b9c",
+      "request_sha256": "e5729b927149a0b5ab2972a0ec421a23e5af819163594b2fae7176bb611443c5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "007807999ec3acf92d5e502be7d9b76c657b79d9f228dfce475097c4f0e88fd9"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "229c41f0d5ad02d84f69c5d0",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 486,
+      "passage_id": "V2_austen_pride_and_prejudice_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 229c41f0d5ad02d84f69c5d0\noriginal_word_count: 486\n\nPassage:\nThe two ladies were delighted to see their dear friend again, called it an age since they had met, and repeatedly asked what she had been doing with herself since their separation. To the rest of the family they paid little attention; avoiding Mrs. Bennet as much as possible, saying not much to Elizabeth, and nothing at all to the others. They were soon gone again, rising from their seats with an activity which took their brother by surprise, and hurrying off as if eager to escape from Mrs. Bennet’s civilities.\n\nThe prospect of the Netherfield ball was extremely agreeable to every female of the family. Mrs. Bennet chose to consider it as given in compliment to her eldest daughter, and was particularly flattered by receiving the invitation from Mr. Bingley himself, instead of a ceremonious card. Jane pictured to herself a happy evening in the society of her two friends, and the attentions of their brother; and Elizabeth thought with pleasure of dancing a great deal with Mr. Wickham, and of seeing a confirmation of everything in Mr. Darcy’s look and behaviour. The happiness anticipated by Catherine and Lydia depended less on any single event, or any particular person; for though they each, like Elizabeth, meant to dance half the evening with Mr. Wickham, he was by no means the only partner who could satisfy them, and a ball was, at any rate, a ball. And even Mary could assure her family that she had no disinclination for it.\n\n“While I can have my mornings to myself,” said she, “it is enough. I think it is no sacrifice to join occasionally in evening engagements. Society has claims on us all; and I profess myself one of those who consider intervals of recreation and amusement as desirable for everybody.”\n\nElizabeth’s spirits were so high on the occasion, that though she did not often speak unnecessarily to Mr. Collins, she could not help asking him whether he intended to accept Mr. Bingley’s invitation, and if he did, whether he would think it proper to join in the evening’s amusement; and she was rather surprised to find that he entertained no scruple whatever on that head, and was very far from dreading a rebuke, either from the Archbishop or Lady Catherine de Bourgh, by venturing to dance.\n\n“I am by no means of opinion, I assure you,” said he, “that a ball of this kind, given by a young man of character, to respectable people, can have any evil tendency; and I am so far from objecting to dancing myself, that I shall hope to be honoured with the hands of all my fair cousins in the course of the evening; and I take this opportunity of soliciting yours, Miss Elizabeth, for the two first dances especially; a preference which I trust my cousin Jane will attribute to the right cause, and not to any disrespect for her.”"
+      },
+      "request_id": "229c41f0d5ad02d84f69c5d0",
+      "request_sha256": "fe1323f7058222cea86a6b6baf597d5b755c0efebfca1b06d40ffcbd60a1ed9e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a98359c6fe60f40dfa7b2fc3062450fefa9f1e1d920934e46200ec4a0bce8fca"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

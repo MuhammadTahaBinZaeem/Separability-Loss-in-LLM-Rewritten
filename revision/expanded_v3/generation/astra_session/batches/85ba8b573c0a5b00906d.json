@@ -1,0 +1,68 @@
+{
+  "batch_id": "85ba8b573c0a5b00906d",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:55:52.663604+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9cf4d757f79d0f1485137fad",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_shelley_mathilda_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 9cf4d757f79d0f1485137fad\noriginal_word_count: 481\n\nPassage:\n“Do you mark my words; I have learned the language of despair: I have it all by heart, for I am Despair; and a strange being am I, joyous, triumphant Despair. But those words are false, for the wave may be dark but it is not bitter. We lie down, and close our eyes with a gentle good night, and when we wake, we are free. Come then, no more delay, thou tardy one! Behold the pleasant potion! Look, I am a spirit of good, and not a human maid that invites thee, and with winning accents, (oh, that they would win thee!) says, Come and drink.”\n\nAs I spoke I fixed my eyes upon his countenance, and his exquisite beauty, the heavenly compassion that beamed from his eyes, his gentle yet earnest look of deprecation and wonder even before he spoke wrought a change in my high strained feelings taking from me all the sterness of despair and filling me only with the softest grief. I saw his eyes humid also as he took both my hands in his; and sitting down near me, he said:\n\n“This is a sad deed to which you would lead me, dearest friend, and your woe must indeed be deep that could fill you with these unhappy thoughts. You long for death and yet you fear it and wish me to be your companion. But I have less courage than you and even thus accompanied I dare not die. Listen to me, and then reflect if you ought to win me to your project, even if with the over-bearing eloquence of despair you could make black death so inviting that the fair heaven should appear darkness. Listen I entreat you to the words of one who has himself nurtured desperate thoughts, and longed with impatient desire for death, but who has at length trampled the phantom under foot, and crushed his sting. Come, as you have played Despair with me I will play the part of Una with you and bring you hurtless from his dark cavern. Listen to me, and let yourself be softened by words in which no selfish passion lingers.\n\n“We know not what all this wide world means; its strange mixture of good and evil. But we have been placed here and bid live and hope. I know not what we are to hope; but there is some good beyond us that we must seek; and that is our earthly task. If misfortune come against us we must fight with her; we must cast her aside, and still go on to find out that which it is our nature to desire. Whether this prospect of future good be the preparation for another existence I know not; or whether that it is merely that we, as workmen in God’s vineyard, must lend a hand to smooth the way for our posterity."
+      },
+      "request_id": "9cf4d757f79d0f1485137fad",
+      "request_sha256": "0780381ef183dfa65154d789a7fb315053830030e7db7e374eb4239dea112faf",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c5339287a2b77e01163de667b701fd5e4d5c6d05276160e4b0bcda671165e7ce"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8fa8f76393314e37af953c78",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_poe_hans_pfaal_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 8fa8f76393314e37af953c78\noriginal_word_count: 465\n\nPassage:\n“How long I remained in this state it is impossible to say. It must, however, have been no inconsiderable time, for when I partially recovered the sense of existence, I found the day breaking, the balloon at a prodigious height over a wilderness of ocean, and not a trace of land to be discovered far and wide within the limits of the vast horizon. My sensations, however, upon thus recovering, were by no means so rife with agony as might have been anticipated. Indeed, there was much of incipient madness in the calm survey which I began to take of my situation. I drew up to my eyes each of my hands, one after the other, and wondered what occurrence could have given rise to the swelling of the veins, and the horrible blackness of the fingernails. I afterward carefully examined my head, shaking it repeatedly, and feeling it with minute attention, until I succeeded in satisfying myself that it was not, as I had more than half suspected, larger than my balloon. Then, in a knowing manner, I felt in both my breeches pockets, and, missing therefrom a set of tablets and a toothpick case, endeavored to account for their disappearance, and not being able to do so, felt inexpressibly chagrined. It now occurred to me that I suffered great uneasiness in the joint of my left ankle, and a dim consciousness of my situation began to glimmer through my mind. But, strange to say! I was neither astonished nor horror-stricken. If I felt any emotion at all, it was a kind of chuckling satisfaction at the cleverness I was about to display in extricating myself from this dilemma; and I never, for a moment, looked upon my ultimate safety as a question susceptible of doubt. For a few minutes I remained wrapped in the profoundest meditation. I have a distinct recollection of frequently compressing my lips, putting my forefinger to the side of my nose, and making use of other gesticulations and grimaces common to men who, at ease in their arm-chairs, meditate upon matters of intricacy or importance. Having, as I thought, sufficiently collected my ideas, I now, with great caution and deliberation, put my hands behind my back, and unfastened the large iron buckle which belonged to the waistband of my inexpressibles. This buckle had three teeth, which, being somewhat rusty, turned with great difficulty on their axis. I brought them, however, after some trouble, at right angles to the body of the buckle, and was glad to find them remain firm in that position. Holding the instrument thus obtained within my teeth, I now proceeded to untie the knot of my cravat. I had to rest several times before I could accomplish this manoeuvre, but it was at length accomplished."
+      },
+      "request_id": "8fa8f76393314e37af953c78",
+      "request_sha256": "419a33d390adcb9d76addb5098aa5a51db0c79520293034bf0a75c0fe78607a4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "88ff66b1de1f6364101ecb31624288259517efb95daa576216eb1e43c9217053"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "bfe4f7033a010ce43b24a083",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 534,
+      "passage_id": "V2_austen_pride_and_prejudice_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: bfe4f7033a010ce43b24a083\noriginal_word_count: 534\n\nPassage:\nOn that head, therefore, I shall be uniformly silent: and you may assure yourself that no ungenerous reproach shall ever pass my lips when we are married.”\n\nIt was absolutely necessary to interrupt him now.\n\n“You are too hasty, sir,” she cried. “You forget that I have made no answer. Let me do it without further loss of time. Accept my thanks for the compliment you are paying me. I am very sensible of the honour of your proposals, but it is impossible for me to do otherwise than decline them.”\n\n“I am not now to learn,” replied Mr. Collins, with a formal wave of the hand, “that it is usual with young ladies to reject the addresses of the man whom they secretly mean to accept, when he first applies for their favour; and that sometimes the refusal is repeated a second or even a third time. I am, therefore, by no means discouraged by what you have just said, and shall hope to lead you to the altar ere long.”\n\n“Upon my word, sir,” cried Elizabeth, “your hope is rather an extraordinary one after my declaration. I do assure you that I am not one of those young ladies (if such young ladies there are) who are so daring as to risk their happiness on the chance of being asked a second time. I am perfectly serious in my refusal. You could not make _me_ happy, and I am convinced that I am the last woman in the world who would make _you_ so. Nay, were your friend Lady Catherine to know me, I am persuaded she would find me in every respect ill qualified for the situation.”\n\n“Were it certain that Lady Catherine would think so,” said Mr. Collins, very gravely--“but I cannot imagine that her Ladyship would at all disapprove of you. And you may be certain that when I have the honour of seeing her again I shall speak in the highest terms of your modesty, economy, and other amiable qualifications.”\n\n“Indeed, Mr. Collins, all praise of me will be unnecessary. You must give me leave to judge for myself, and pay me the compliment of believing what I say. I wish you very happy and very rich, and by refusing your hand, do all in my power to prevent your being otherwise. In making me the offer, you must have satisfied the delicacy of your feelings with regard to my family, and may take possession of Longbourn estate whenever it falls, without any self-reproach. This matter may be considered, therefore, as finally settled.” And rising as she thus spoke, she would have quitted the room, had not Mr. Collins thus addressed her,--\n\n“When I do myself the honour of speaking to you next on the subject, I shall hope to receive a more favourable answer than you have now given me; though I am far from accusing you of cruelty at present, because I know it to be the established custom of your sex to reject a man on the first application, and, perhaps, you have even now said as much to encourage my suit as would be consistent with the true delicacy of the female character.”"
+      },
+      "request_id": "bfe4f7033a010ce43b24a083",
+      "request_sha256": "31aa84e55daa1d57ddb0211a48105f72d9d6646c722517565d542773c74d4d1e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bf69cb1fcc08e7484263f277ed0ff37d139c87f0391dbbb6279c89986e673eca"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "90d578859a4cea098a2a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:19:41.018537+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2ba010b8c7c0da576a812005",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 2ba010b8c7c0da576a812005\noriginal_word_count: 461\n\nPassage:\nSydney Carton paused in the street, not quite decided where to go. “At Tellson’s banking-house at nine,” he said, with a musing face. “Shall I do well, in the mean time, to show myself? I think so. It is best that these people should know there is such a man as I here; it is a sound precaution, and may be a necessary preparation. But care, care, care! Let me think it out!”\n\nChecking his steps which had begun to tend towards an object, he took a turn or two in the already darkening street, and traced the thought in his mind to its possible consequences. His first impression was confirmed. “It is best,” he said, finally resolved, “that these people should know there is such a man as I here.” And he turned his face towards Saint Antoine.\n\nDefarge had described himself, that day, as the keeper of a wine-shop in the Saint Antoine suburb. It was not difficult for one who knew the city well, to find his house without asking any question. Having ascertained its situation, Carton came out of those closer streets again, and dined at a place of refreshment and fell sound asleep after dinner. For the first time in many years, he had no strong drink. Since last night he had taken nothing but a little light thin wine, and last night he had dropped the brandy slowly down on Mr. Lorry’s hearth like a man who had done with it.\n\nIt was as late as seven o’clock when he awoke refreshed, and went out into the streets again. As he passed along towards Saint Antoine, he stopped at a shop-window where there was a mirror, and slightly altered the disordered arrangement of his loose cravat, and his coat-collar, and his wild hair. This done, he went on direct to Defarge’s, and went in.\n\nThere happened to be no customer in the shop but Jacques Three, of the restless fingers and the croaking voice. This man, whom he had seen upon the Jury, stood drinking at the little counter, in conversation with the Defarges, man and wife. The Vengeance assisted in the conversation, like a regular member of the establishment.\n\nAs Carton walked in, took his seat and asked (in very indifferent French) for a small measure of wine, Madame Defarge cast a careless glance at him, and then a keener, and then a keener, and then advanced to him herself, and asked him what it was he had ordered.\n\nHe repeated what he had already said.\n\n“English?” asked Madame Defarge, inquisitively raising her dark eyebrows.\n\nAfter looking at her, as if the sound of even a single French word were slow to express itself to him, he answered, in his former strong foreign accent."
+      },
+      "request_id": "2ba010b8c7c0da576a812005",
+      "request_sha256": "402cf9c773e40d68315832ce607586fe3524fcf6893569cb64dcefa6ce3a3e37",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4f496cbe4e8a629165ead48d14a58e316ea1ade881d99db24dba5f9c9163a153"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4382968c78cc23aeca0f8e81",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 4382968c78cc23aeca0f8e81\noriginal_word_count: 485\n\nPassage:\nThose venerable and feeble persons were always seen by the public in the act of bowing, and were popularly believed, when they had bowed a customer out, still to keep on bowing in the empty office until they bowed another customer in.\n\nThe barrister was keen enough to divine that the banker would not have gone so far in his expression of opinion on any less solid ground than moral certainty. Unprepared as he was for the large pill he had to swallow, he got it down. “And now,” said Mr. Stryver, shaking his forensic forefinger at the Temple in general, when it was down, “my way out of this, is, to put you all in the wrong.”\n\nIt was a bit of the art of an Old Bailey tactician, in which he found great relief. “You shall not put me in the wrong, young lady,” said Mr. Stryver; “I’ll do that for you.”\n\nAccordingly, when Mr. Lorry called that night as late as ten o’clock, Mr. Stryver, among a quantity of books and papers littered out for the purpose, seemed to have nothing less on his mind than the subject of the morning. He even showed surprise when he saw Mr. Lorry, and was altogether in an absent and preoccupied state.\n\n“Well!” said that good-natured emissary, after a full half-hour of bootless attempts to bring him round to the question. “I have been to Soho.”\n\n“To Soho?” repeated Mr. Stryver, coldly. “Oh, to be sure! What am I thinking of!”\n\n“And I have no doubt,” said Mr. Lorry, “that I was right in the conversation we had. My opinion is confirmed, and I reiterate my advice.”\n\n“I assure you,” returned Mr. Stryver, in the friendliest way, “that I am sorry for it on your account, and sorry for it on the poor father’s account. I know this must always be a sore subject with the family; let us say no more about it.”\n\n“I don’t understand you,” said Mr. Lorry.\n\n“I dare say not,” rejoined Stryver, nodding his head in a smoothing and final way; “no matter, no matter.”\n\n“But it does matter,” Mr. Lorry urged.\n\n“No it doesn’t; I assure you it doesn’t. Having supposed that there was sense where there is no sense, and a laudable ambition where there is not a laudable ambition, I am well out of my mistake, and no harm is done. Young women have committed similar follies often before, and have repented them in poverty and obscurity often before. In an unselfish aspect, I am sorry that the thing is dropped, because it would have been a bad thing for me in a worldly point of view; in a selfish aspect, I am glad that the thing has dropped, because it would have been a bad thing for me in a worldly point of view--it is hardly necessary to say I could have gained nothing by it."
+      },
+      "request_id": "4382968c78cc23aeca0f8e81",
+      "request_sha256": "3f90d5d4de3e2ee71099d5c89d2d6a3334dc1ab42f588496b2527e041fb5a1ed",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3cbf3ce90302855af39a8cd4d2b9562f4e28ebd5f9ae670ee3430ba19fe335a3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "854780257dc581dcabed5d77",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 478,
+      "passage_id": "V2_poe_murders_rue_morgue_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 854780257dc581dcabed5d77\noriginal_word_count: 478\n\nPassage:\n“Keeping now steadily in mind the points to which I have drawn your attention—that peculiar voice, that unusual agility, and that startling absence of motive in a murder so singularly atrocious as this—let us glance at the butchery itself. Here is a woman strangled to death by manual strength, and thrust up a chimney, head downward. Ordinary assassins employ no such modes of murder as this. Least of all, do they thus dispose of the murdered. In the manner of thrusting the corpse up the chimney, you will admit that there was something _excessively outré_—something altogether irreconcilable with our common notions of human action, even when we suppose the actors the most depraved of men. Think, too, how great must have been that strength which could have thrust the body _up_ such an aperture so forcibly that the united vigor of several persons was found barely sufficient to drag it _down!_\n\n“Turn, now, to other indications of the employment of a vigor most marvellous. On the hearth were thick tresses—very thick tresses—of grey human hair. These had been torn out by the roots. You are aware of the great force necessary in tearing thus from the head even twenty or thirty hairs together. You saw the locks in question as well as myself. Their roots (a hideous sight!) were clotted with fragments of the flesh of the scalp—sure token of the prodigious power which had been exerted in uprooting perhaps half a million of hairs at a time. The throat of the old lady was not merely cut, but the head absolutely severed from the body: the instrument was a mere razor. I wish you also to look at the _brutal_ ferocity of these deeds. Of the bruises upon the body of Madame L’Espanaye I do not speak. Monsieur Dumas, and his worthy coadjutor Monsieur Etienne, have pronounced that they were inflicted by some obtuse instrument; and so far these gentlemen are very correct. The obtuse instrument was clearly the stone pavement in the yard, upon which the victim had fallen from the window which looked in upon the bed. This idea, however simple it may now seem, escaped the police for the same reason that the breadth of the shutters escaped them—because, by the affair of the nails, their perceptions had been hermetically sealed against the possibility of the windows having ever been opened at all.\n\n“If now, in addition to all these things, you have properly reflected upon the odd disorder of the chamber, we have gone so far as to combine the ideas of an agility astounding, a strength superhuman, a ferocity brutal, a butchery without motive, a _grotesquerie_ in horror absolutely alien from humanity, and a voice foreign in tone to the ears of men of many nations, and devoid of all distinct or intelligible syllabification."
+      },
+      "request_id": "854780257dc581dcabed5d77",
+      "request_sha256": "0e6dfab0eff34deb42ad6185b3a8b5beb1494de159ffe4804ebc953fe7323688",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "82543ec494da6aef74bb9a611af464f653f4099142ed20e8d272af5dacbecd9b"
+    }
+  ],
+  "session_id": "01a0e85b-f4da-78c2-af90-17d8fea0262a",
+  "worker_id": "astra_r",
+  "worker_identity_sha256": "1a9221512f2af9568b0b6124d87657856f97eb8192807e50db5ed5d6fe4cdc4b"
+}

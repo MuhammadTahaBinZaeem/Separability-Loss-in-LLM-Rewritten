@@ -1,4 +1,60 @@
+# Astra generation complete; downstream work deferred
+
+**Current update: 28 September 2026, 14:57 UTC.** The mounted workspace
+`/shared/Paper` contains all **1,080 Astra rewrites**, with **0 missing** and
+**0 ingestion failures**. This completes all 918 assignments remaining at the
+original handoff, including 588 completed after the user reported restoring the
+usage allowance. All workers finished; no issued batch remains pending.
+
+The final provenance audit passes. All 360 first submission files match their
+archived originals. The original 162-output and later 492-output ledger prefixes
+remain byte-for-byte intact. Checks also verified 275 original immutable
+generation files, 35 frozen-input/provenance files, and 344 immutable evidence
+files from the 492-output resume audit. Released prompts, original failures,
+tool errors and the earlier usage-limit checkpoint are retained.
+
+Generation used explicitly selected `gpt-6-astra`, `xhigh` Codex subagents.
+After the allowance reset, fresh workers received bounded 30-output tasks,
+with a final 18-output task. The separately recorded 30-output continuation of
+the existing `astra_g` worker retained its original conversation context.
+No Astra API calls or replacement models were used. This remains an exploratory
+session-workflow arm; provenance verification is not semantic quality review
+or backend checkpoint attestation.
+
+Read the current records:
+
+- [Generation completion and preservation report](expanded_v3/generation/astra_session/generation_completion_20260928.json)
+- [Full provenance audit](expanded_v3/verification/astra_generation_complete_20260928.json)
+- [Checkpoint](expanded_v3/checkpoint.json) — only the Astra section has this latest verification date.
+
+The user's current scope is **Astra rewrites only**. Offline analyses, review
+packets and independent review remain deferred; no reviewer judgments were
+supplied and no paper was written. Do not regenerate completed assignments.
+
+## Historical handoff and earlier usage-limit stop
+
+The material below records earlier states and procedures. Its incomplete
+counts, reservations and paused-state descriptions are historical; the current
+completion records above take precedence.
+
 # Codex takeover: Astra generation paused at a clean boundary
+
+**28 September Linux continuation update:** `/shared/Paper` now contains 492
+recorded Astra outputs (330 new; 588 remaining). All three new workers g/h/i
+stopped with actual orchestrator usage-limit errors. The displayed reset was
+`Oct 4th, 2026 6:43 PM`; timezone was not supplied. Three issued batches remain
+reserved with no submission files; their prompts are preserved and they have
+not been released. Read
+`expanded_v3/generation/astra_session/usage_limit_checkpoint_20260928.json`
+before resuming. Do not treat the historical clean-boundary state below as the
+current state. The user narrowed current work to Astra rewrites only and then
+requested token efficiency. After allowed usage resumes, prefer shorter bounded
+fresh-worker tasks (for example 30 outputs), still Astra/xhigh/fork-none, at most
+three workers, with actual launch records and the unchanged three-output
+dispatcher. Resolve the retained reservations through the documented recovery
+or unused-release procedure first; never discard available partial outputs.
+No replacement workers were launched to bypass the limit. See
+`expanded_v3/LINUX_CONTINUATION.md` for the pinned Linux executable.
 
 Repository: https://github.com/MuhammadTahaBinZaeem/Separability-Loss-in-LLM-Rewritten
 

@@ -1,0 +1,68 @@
+{
+  "batch_id": "f0b5987426bf076a65c0",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:30:35.708513+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0c04813469ff1574d06e8fd5",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_murders_rue_morgue_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 0c04813469ff1574d06e8fd5\noriginal_word_count: 455\n\nPassage:\n“I proceeded to think thus—_a posteriori_. The murderers did escape from one of these windows. This being so, they could not have refastened the sashes from the inside, as they were found fastened;—the consideration which put a stop, through its obviousness, to the scrutiny of the police in this quarter. Yet the sashes _were_ fastened. They _must_, then, have the power of fastening themselves. There was no escape from this conclusion. I stepped to the unobstructed casement, withdrew the nail with some difficulty and attempted to raise the sash. It resisted all my efforts, as I had anticipated. A concealed spring must, I now know, exist; and this corroboration of my idea convinced me that my premises at least, were correct, however mysterious still appeared the circumstances attending the nails. A careful search soon brought to light the hidden spring. I pressed it, and, satisfied with the discovery, forbore to upraise the sash.\n\n“I now replaced the nail and regarded it attentively. A person passing out through this window might have reclosed it, and the spring would have caught—but the nail could not have been replaced. The conclusion was plain, and again narrowed in the field of my investigations. The assassins _must_ have escaped through the other window. Supposing, then, the springs upon each sash to be the same, as was probable, there _must_ be found a difference between the nails, or at least between the modes of their fixture. Getting upon the sacking of the bedstead, I looked over the head-board minutely at the second casement. Passing my hand down behind the board, I readily discovered and pressed the spring, which was, as I had supposed, identical in character with its neighbor. I now looked at the nail. It was as stout as the other, and apparently fitted in the same manner—driven in nearly up to the head.\n\n“You will say that I was puzzled; but, if you think so, you must have misunderstood the nature of the inductions. To use a sporting phrase, I had not been once ‘at fault.’ The scent had never for an instant been lost. There was no flaw in any link of the chain. I had traced the secret to its ultimate result,—and that result was _the nail._ It had, I say, in every respect, the appearance of its fellow in the other window; but this fact was an absolute nullity (conclusive as it might seem to be) when compared with the consideration that here, at this point, terminated the clew. ‘There _must_ be something wrong,’ I said, ‘about the nail.’ I touched it; and the head, with about a quarter of an inch of the shank, came off in my fingers."
+      },
+      "request_id": "0c04813469ff1574d06e8fd5",
+      "request_sha256": "c0398eeb1d73fa266661a9fe502265ba5c8b0a3181b0454cd05c6f1a73378451",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "94751127eae38ce4b8ddbd3d29e5778f4d95edcae90f2647014b5757635b01af"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7c304dc4a473c1229f827183",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 507,
+      "passage_id": "V2_austen_persuasion_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 7c304dc4a473c1229f827183\noriginal_word_count: 507\n\nPassage:\nOther opportunities of making her observations could not fail to occur. Anne had soon been in company with all the four together often enough to have an opinion, though too wise to acknowledge as much at home, where she knew it would have satisfied neither husband nor wife; for while she considered Louisa to be rather the favourite, she could not but think, as far as she might dare to judge from memory and experience, that Captain Wentworth was not in love with either. They were more in love with him; yet there it was not love. It was a little fever of admiration; but it might, probably must, end in love with some. Charles Hayter seemed aware of being slighted, and yet Henrietta had sometimes the air of being divided between them. Anne longed for the power of representing to them all what they were about, and of pointing out some of the evils they were exposing themselves to. She did not attribute guile to any. It was the highest satisfaction to her to believe Captain Wentworth not in the least aware of the pain he was occasioning. There was no triumph, no pitiful triumph in his manner. He had, probably, never heard, and never thought of any claims of Charles Hayter. He was only wrong in accepting the attentions (for accepting must be the word) of two young women at once.\n\nAfter a short struggle, however, Charles Hayter seemed to quit the field. Three days had passed without his coming once to Uppercross; a most decided change. He had even refused one regular invitation to dinner; and having been found on the occasion by Mr Musgrove with some large books before him, Mr and Mrs Musgrove were sure all could not be right, and talked, with grave faces, of his studying himself to death. It was Mary’s hope and belief that he had received a positive dismissal from Henrietta, and her husband lived under the constant dependence of seeing him to-morrow. Anne could only feel that Charles Hayter was wise.\n\nOne morning, about this time Charles Musgrove and Captain Wentworth being gone a-shooting together, as the sisters in the Cottage were sitting quietly at work, they were visited at the window by the sisters from the Mansion-house.\n\nIt was a very fine November day, and the Miss Musgroves came through the little grounds, and stopped for no other purpose than to say, that they were going to take a _long_ walk, and, therefore, concluded Mary could not like to go with them; and when Mary immediately replied, with some jealousy at not being supposed a good walker, “Oh, yes, I should like to join you very much, I am very fond of a long walk;” Anne felt persuaded, by the looks of the two girls, that it was precisely what they did not wish, and admired again the sort of necessity which the family habits seemed to produce, of everything being to be communicated, and everything being to be done together, however undesired and inconvenient."
+      },
+      "request_id": "7c304dc4a473c1229f827183",
+      "request_sha256": "4222a26a10b449ed72ab0a584bddce8801c6f4fb8a63b7d230f2b0d49ae51146",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1d651a50c824817283d3507fdf6bbacf384ea2ba52e5c28e38a74c814ab70c2e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ae7873988b20eb356f311f44",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_twain_tom_sawyer_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: ae7873988b20eb356f311f44\noriginal_word_count: 461\n\nPassage:\nBut there was no hilarity in the little town that same tranquil Saturday afternoon. The Harpers, and Aunt Polly’s family, were being put into mourning, with great grief and many tears. An unusual quiet possessed the village, although it was ordinarily quiet enough, in all conscience. The villagers conducted their concerns with an absent air, and talked little; but they sighed often. The Saturday holiday seemed a burden to the children. They had no heart in their sports, and gradually gave them up.\n\nIn the afternoon Becky Thatcher found herself moping about the deserted schoolhouse yard, and feeling very melancholy. But she found nothing there to comfort her. She soliloquized:\n\n“Oh, if I only had a brass andiron-knob again! But I haven’t got anything now to remember him by.” And she choked back a little sob.\n\nPresently she stopped, and said to herself:\n\n“It was right here. Oh, if it was to do over again, I wouldn’t say that—I wouldn’t say it for the whole world. But he’s gone now; I’ll never, never, never see him any more.”\n\nThis thought broke her down, and she wandered away, with tears rolling down her cheeks. Then quite a group of boys and girls—playmates of Tom’s and Joe’s—came by, and stood looking over the paling fence and talking in reverent tones of how Tom did so-and-so the last time they saw him, and how Joe said this and that small trifle (pregnant with awful prophecy, as they could easily see now!)—and each speaker pointed out the exact spot where the lost lads stood at the time, and then added something like “and I was a-standing just so—just as I am now, and as if you was him—I was as close as that—and he smiled, just this way—and then something seemed to go all over me, like—awful, you know—and I never thought what it meant, of course, but I can see now!”\n\nThen there was a dispute about who saw the dead boys last in life, and many claimed that dismal distinction, and offered evidences, more or less tampered with by the witness; and when it was ultimately decided who _did_ see the departed last, and exchanged the last words with them, the lucky parties took upon themselves a sort of sacred importance, and were gaped at and envied by all the rest. One poor chap, who had no other grandeur to offer, said with tolerably manifest pride in the remembrance:\n\n“Well, Tom Sawyer he licked me once.”\n\nBut that bid for glory was a failure. Most of the boys could say that, and so that cheapened the distinction too much. The group loitered away, still recalling memories of the lost heroes, in awed voices."
+      },
+      "request_id": "ae7873988b20eb356f311f44",
+      "request_sha256": "a0ba5eba59299b66070b838ef6e9348856d5ef9ef4d73d08708c2c475e5c062d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fa419a30a0f30e15454c4ad1489f6ef4314c5e7cdf33843d90e742024eb6b149"
+    }
+  ],
+  "session_id": "01a0e865-d34a-75c3-a7b9-6054f384d598",
+  "worker_id": "astra_u",
+  "worker_identity_sha256": "a9ccd4d0505883dcc11e3e0b3f2a87cf0163a5c2fb28ec8e4609d8f10a62a24d"
+}

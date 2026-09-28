@@ -1,0 +1,68 @@
+{
+  "batch_id": "9bba3313b705336b1d27",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:11:43.294702+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1313e0b9ea7f2f8d822aa1d1",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 480,
+      "passage_id": "V2_poe_the_gold_bug_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 1313e0b9ea7f2f8d822aa1d1\noriginal_word_count: 480\n\nPassage:\n“Well, Jup,” said I, “what is the matter now?—how is your master?”\n\n“Why, to speak de troof, massa, him not so berry well as mought be.”\n\n“Not well! I am truly sorry to hear it. What does he complain of?”\n\n“Dar! dat’s it!—him neber ’plain of notin’—but him berry sick for all dat.”\n\n“_Very_ sick, Jupiter!—why didn’t you say so at once? Is he confined to bed?”\n\n“No, dat he aint!—he aint ’fin’d nowhar—dat’s just whar de shoe pinch—my mind is got to be berry hebby ’bout poor Massa Will.”\n\n“Jupiter, I should like to understand what it is you are talking about. You say your master is sick. Hasn’t he told you what ails him?”\n\n“Why, massa, ’taint worf while for to git mad about de matter—Massa Will say noffin at all aint de matter wid him—but den what make him go about looking dis here way, wid he head down and he soldiers up, and as white as a gose? And den he keep a syphon all de time—”\n\n“Keeps a what, Jupiter?”\n\n“Keeps a syphon wid de figgurs on de slate—de queerest figgurs I ebber did see. Ise gittin’ to be skeered, I tell you. Hab for to keep mighty tight eye ’pon him ’noovers. Todder day he gib me slip ’fore de sun up and was gone de whole ob de blessed day. I had a big stick ready cut for to gib him deuced good beating when he did come—but Ise sich a fool dat I hadn’t de heart arter all—he look so berry poorly.”\n\n“Eh?—what?—ah yes!—upon the whole I think you had better not be too severe with the poor fellow—don’t flog him, Jupiter—he can’t very well stand it—but can you form no idea of what has occasioned this illness, or rather this change of conduct? Has anything unpleasant happened since I saw you?”\n\n“No, massa, dey aint bin noffin onpleasant _since_ den—‘twas _’fore_ den I’m feared—‘twas de berry day you was dare.”\n\n“How? what do you mean?”\n\n“Why, massa, I mean de bug—dare now.”\n\n“The what?”\n\n“De bug,—I’m berry sartain dat Massa Will bin bit somewhere ’bout de head by dat goole-bug.”\n\n“And what cause have you, Jupiter, for such a supposition?”\n\n“Claws enuff, massa, and mouff too. I nebber did see sick a deuced bug—he kick and he bite ebery ting what cum near him. Massa Will cotch him fuss, but had for to let him go ’gin mighty quick, I tell you—den was de time he must ha’ got de bite. I did n’t like de look oh de bug mouff, myself, no how, so I would n’t take hold ob him wid my finger, but I cotch him wid a piece ob paper dat I found."
+      },
+      "request_id": "1313e0b9ea7f2f8d822aa1d1",
+      "request_sha256": "5a0ed8f1416f02a153e784e61d08396215a9a0e3a6fd3e3f0c8c604c0878368f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "699b6bc4b3ce11f37d49584b143873c25dbfb141fab6f6d3f725abf375115e10"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3a54afd2ec3e917b860bc304",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_wilde_dorian_gray_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 3a54afd2ec3e917b860bc304\noriginal_word_count: 450\n\nPassage:\n“Basil, this is extraordinary! I must see Dorian Gray.”\n\nHallward got up from the seat and walked up and down the garden. After some time he came back. “Harry,” he said, “Dorian Gray is to me simply a motive in art. You might see nothing in him. I see everything in him. He is never more present in my work than when no image of him is there. He is a suggestion, as I have said, of a new manner. I find him in the curves of certain lines, in the loveliness and subtleties of certain colours. That is all.”\n\n“Then why won’t you exhibit his portrait?” asked Lord Henry.\n\n“Because, without intending it, I have put into it some expression of all this curious artistic idolatry, of which, of course, I have never cared to speak to him. He knows nothing about it. He shall never know anything about it. But the world might guess it, and I will not bare my soul to their shallow prying eyes. My heart shall never be put under their microscope. There is too much of myself in the thing, Harry—too much of myself!”\n\n“Poets are not so scrupulous as you are. They know how useful passion is for publication. Nowadays a broken heart will run to many editions.”\n\n“I hate them for it,” cried Hallward. “An artist should create beautiful things, but should put nothing of his own life into them. We live in an age when men treat art as if it were meant to be a form of autobiography. We have lost the abstract sense of beauty. Some day I will show the world what it is; and for that reason the world shall never see my portrait of Dorian Gray.”\n\n“I think you are wrong, Basil, but I won’t argue with you. It is only the intellectually lost who ever argue. Tell me, is Dorian Gray very fond of you?”\n\nThe painter considered for a few moments. “He likes me,” he answered after a pause; “I know he likes me. Of course I flatter him dreadfully. I find a strange pleasure in saying things to him that I know I shall be sorry for having said. As a rule, he is charming to me, and we sit in the studio and talk of a thousand things. Now and then, however, he is horribly thoughtless, and seems to take a real delight in giving me pain. Then I feel, Harry, that I have given away my whole soul to some one who treats it as if it were a flower to put in his coat, a bit of decoration to charm his vanity, an ornament for a summer’s day.”"
+      },
+      "request_id": "3a54afd2ec3e917b860bc304",
+      "request_sha256": "3c8d2e8ac1c587093161dc9db531907187dba8ffc77d70f6cb34f6b4dedb9f7b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "186d9cd0e304e15d23e4c4fb0dba6dfad2e7f54c0af488ecaf64d68c10d3accd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "eeb2a105a3c1f94050e73b27",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 503,
+      "passage_id": "V2_dickens_oliver_twist_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: eeb2a105a3c1f94050e73b27\noriginal_word_count: 503\n\nPassage:\nYou won’t, won’t you? Oh, you precious flat!”\n\n“It’s naughty, ain’t it, Oliver?” inquired Charley Bates. “He’ll come to be scragged, won’t he?”\n\n“I don’t know what that means,” replied Oliver.\n\n“Something in this way, old feller,” said Charley. As he said it, Master Bates caught up an end of his neckerchief; and, holding it erect in the air, dropped his head on his shoulder, and jerked a curious sound through his teeth; thereby indicating, by a lively pantomimic representation, that scragging and hanging were one and the same thing.\n\n“That’s what it means,” said Charley. “Look how he stares, Jack! I never did see such prime company as that ’ere boy; he’ll be the death of me, I know he will.” Master Charley Bates, having laughed heartily again, resumed his pipe with tears in his eyes.\n\n“You’ve been brought up bad,” said the Dodger, surveying his boots with much satisfaction when Oliver had polished them. “Fagin will make something of you, though, or you’ll be the first he ever had that turned out unprofitable. You’d better begin at once; for you’ll come to the trade long before you think of it; and you’re only losing time, Oliver.”\n\nMaster Bates backed this advice with sundry moral admonitions of his own: which, being exhausted, he and his friend Mr. Dawkins launched into a glowing description of the numerous pleasures incidental to the life they led, interspersed with a variety of hints to Oliver that the best thing he could do, would be to secure Fagin’s favour without more delay, by the means which they themselves had employed to gain it.\n\n“And always put this in your pipe, Nolly,” said the Dodger, as the Jew was heard unlocking the door above, “if you don’t take fogels and tickers—”\n\n“What’s the good of talking in that way?” interposed Master Bates; “he don’t know what you mean.”\n\n“If you don’t take pocket-handkechers and watches,” said the Dodger, reducing his conversation to the level of Oliver’s capacity, “some other cove will; so that the coves that lose ’em will be all the worse, and you’ll be all the worse, too, and nobody half a ha’p’orth the better, except the chaps wot gets them—and you’ve just as good a right to them as they have.”\n\n“To be sure, to be sure!” said the Jew, who had entered unseen by Oliver. “It all lies in a nutshell my dear; in a nutshell, take the Dodger’s word for it. Ha! ha! ha! He understands the catechism of his trade.”\n\nThe old man rubbed his hands gleefully together, as he corroborated the Dodger’s reasoning in these terms; and chuckled with delight at his pupil’s proficiency.\n\nThe conversation proceeded no farther at this time, for the Jew had returned home accompanied by Miss Betsy, and a gentleman whom Oliver had never seen before, but who was accosted by the Dodger as Tom Chitling; and who, having lingered on the stairs to exchange a few gallantries with the lady, now made his appearance."
+      },
+      "request_id": "eeb2a105a3c1f94050e73b27",
+      "request_sha256": "b794009e1cc98f0f71cef14385cf9c1c18928941a1fa666965fcf0c9742457fc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "36e701c9f656fcec9f82a346441ad79f68c23a97978a79adb2072088f2666950"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

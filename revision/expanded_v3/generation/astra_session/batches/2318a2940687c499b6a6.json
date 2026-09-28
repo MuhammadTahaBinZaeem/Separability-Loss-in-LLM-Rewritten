@@ -1,0 +1,68 @@
+{
+  "batch_id": "2318a2940687c499b6a6",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:39:11.104252+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7a9482c634ff1f6d6739d298",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_poe_the_gold_bug_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 7a9482c634ff1f6d6739d298\noriginal_word_count: 464\n\nPassage:\n“I now scrutinized the death’s-head with care. Its outer edges—the edges of the drawing nearest the edge of the vellum—were far more distinct than the others. It was clear that the action of the caloric had been imperfect or unequal. I immediately kindled a fire, and subjected every portion of the parchment to a glowing heat. At first, the only effect was the strengthening of the faint lines in the skull; but, upon persevering in the experiment, there became visible, at the corner of the slip, diagonally opposite to the spot in which the death’s-head was delineated, the figure of what I at first supposed to be a goat. A closer scrutiny, however, satisfied me that it was intended for a kid.”\n\n“Ha! ha!” said I, “to be sure I have no right to laugh at you—a million and a half of money is too serious a matter for mirth—but you are not about to establish a third link in your chain—you will not find any especial connexion between your pirates and a goat—pirates, you know, have nothing to do with goats; they appertain to the farming interest.”\n\n“But I have just said that the figure was not that of a goat.”\n\n“Well, a kid then—pretty much the same thing.”\n\n“Pretty much, but not altogether,” said Legrand. “You may have heard of one Captain Kidd. I at once looked upon the figure of the animal as a kind of punning or hieroglyphical signature. I say signature; because its position upon the vellum suggested this idea. The death’s-head at the corner diagonally opposite, had, in the same manner, the air of a stamp, or seal. But I was sorely put out by the absence of all else—of the body to my imagined instrument—of the text for my context.”\n\n“I presume you expected to find a letter between the stamp and the signature.”\n\n“Something of that kind. The fact is, I felt irresistibly impressed with a presentiment of some vast good fortune impending. I can scarcely say why. Perhaps, after all, it was rather a desire than an actual belief;—but do you know that Jupiter’s silly words, about the bug being of solid gold, had a remarkable effect upon my fancy? And then the series of accidents and coincidences—these were so very extraordinary. Do you observe how mere an accident it was that these events should have occurred upon the sole day of all the year in which it has been, or may be, sufficiently cool for fire, and that without the fire, or without the intervention of the dog at the precise moment in which he appeared, I should never have become aware of the death’s-head, and so never the possessor of the treasure?”"
+      },
+      "request_id": "7a9482c634ff1f6d6739d298",
+      "request_sha256": "eaa708ed772d864676c057cca1cf910686acfe258bbb856558c306bd32128246",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0eae799f5d9e78bce82d7644c8ebf9ad72cf2a2086abaef7e1519e537ee48d94"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "169b5b2a24e9a72449fbade9",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_great_expectations_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 169b5b2a24e9a72449fbade9\noriginal_word_count: 450\n\nPassage:\nFor this reason, I resolved to alight as soon as we touched the town, and put myself out of his hearing. This device I executed successfully. My little portmanteau was in the boot under my feet; I had but to turn a hinge to get it out; I threw it down before me, got down after it, and was left at the first lamp on the first stones of the town pavement. As to the convicts, they went their way with the coach, and I knew at what point they would be spirited off to the river. In my fancy, I saw the boat with its convict crew waiting for them at the slime-washed stairs,—again heard the gruff “Give way, you!” like an order to dogs,—again saw the wicked Noah’s Ark lying out on the black water.\n\nI could not have said what I was afraid of, for my fear was altogether undefined and vague, but there was great fear upon me. As I walked on to the hotel, I felt that a dread, much exceeding the mere apprehension of a painful or disagreeable recognition, made me tremble. I am confident that it took no distinctness of shape, and that it was the revival for a few minutes of the terror of childhood.\n\nThe coffee-room at the Blue Boar was empty, and I had not only ordered my dinner there, but had sat down to it, before the waiter knew me. As soon as he had apologised for the remissness of his memory, he asked me if he should send Boots for Mr. Pumblechook?\n\n“No,” said I, “certainly not.”\n\nThe waiter (it was he who had brought up the Great Remonstrance from the Commercials, on the day when I was bound) appeared surprised, and took the earliest opportunity of putting a dirty old copy of a local newspaper so directly in my way, that I took it up and read this paragraph:—\n\nOur readers will learn, not altogether without interest, in reference to the recent romantic rise in fortune of a young artificer in iron of this neighbourhood (what a theme, by the way, for the magic pen of our as yet not universally acknowledged townsman TOOBY, the poet of our columns!) that the youth’s earliest patron, companion, and friend, was a highly respected individual not entirely unconnected with the corn and seed trade, and whose eminently convenient and commodious business premises are situate within a hundred miles of the High Street. It is not wholly irrespective of our personal feelings that we record HIM as the Mentor of our young Telemachus, for it is good to know that our town produced the founder of the latter’s fortunes."
+      },
+      "request_id": "169b5b2a24e9a72449fbade9",
+      "request_sha256": "266f8628822581ab2b21e261da490e2700674c667720c9a426eee7ff2a929610",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cf0a60c57b023d7edfc790cf3c921f9dac7578ab4ae94203b39d4ee1295d9c8b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a3b8983f1284e7cccf019eef",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 486,
+      "passage_id": "V2_twain_connecticut_yankee_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: a3b8983f1284e7cccf019eef\noriginal_word_count: 486\n\nPassage:\nWe so loudly and so earnestly proclaimed ourselves freemen, that we got the interested attention of that liberty-mouthing orator and his patriotic crowd, and they gathered about us and assumed a very determined attitude. The orator said:\n\n“If, indeed, ye are freemen, ye have nought to fear--the God-given liberties of Britain are about ye for your shield and shelter! (Applause.) Ye shall soon see. Bring forth your proofs.”\n\n“What proofs?”\n\n“Proof that ye are freemen.”\n\nAh--I remembered! I came to myself; I said nothing. But the king stormed out:\n\n“Thou'rt insane, man. It were better, and more in reason, that this thief and scoundrel here prove that we are _not_ freemen.”\n\nYou see, he knew his own laws just as other people so often know the laws; by words, not by effects. They take a _meaning_, and get to be very vivid, when you come to apply them to yourself.\n\nAll hands shook their heads and looked disappointed; some turned away, no longer interested. The orator said--and this time in the tones of business, not of sentiment:\n\n“An ye do not know your country's laws, it were time ye learned them. Ye are strangers to us; ye will not deny that. Ye may be freemen, we do not deny that; but also ye may be slaves. The law is clear: it doth not require the claimant to prove ye are slaves, it requireth you to prove ye are not.”\n\nI said:\n\n“Dear sir, give us only time to send to Astolat; or give us only time to send to the Valley of Holiness--”\n\n“Peace, good man, these are extraordinary requests, and you may not hope to have them granted. It would cost much time, and would unwarrantably inconvenience your master--”\n\n“_Master_, idiot!” stormed the king. “I have no master, I myself am the m--”\n\n“Silence, for God's sake!”\n\nI got the words out in time to stop the king. We were in trouble enough already; it could not help us any to give these people the notion that we were lunatics.\n\nThere is no use in stringing out the details. The earl put us up and sold us at auction. This same infernal law had existed in our own South in my own time, more than thirteen hundred years later, and under it hundreds of freemen who could not prove that they were freemen had been sold into lifelong slavery without the circumstance making any particular impression upon me; but the minute law and the auction block came into my personal experience, a thing which had been merely improper before became suddenly hellish. Well, that's the way we are made.\n\nYes, we were sold at auction, like swine. In a big town and an active market we should have brought a good price; but this place was utterly stagnant and so we sold at a figure which makes me ashamed, every time I think of it."
+      },
+      "request_id": "a3b8983f1284e7cccf019eef",
+      "request_sha256": "503126aac4a3731e242f504160b1977a9562ae16fa02226f193a11123038edc1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a75ea9930e69e0035079f9d067523f431c7103b5739797fed82c8e76d5d64c17"
+    }
+  ],
+  "session_id": "01a0e870-b3dc-74f3-b9ee-b27dbd5dd892",
+  "worker_id": "astra_x",
+  "worker_identity_sha256": "7c3a0144cf89773a3dc35b850a0bd602d9bf1a04c8ed1e402a69d4a4892146a6"
+}

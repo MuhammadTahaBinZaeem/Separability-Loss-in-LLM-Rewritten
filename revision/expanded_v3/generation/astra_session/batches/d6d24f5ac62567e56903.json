@@ -1,0 +1,68 @@
+{
+  "batch_id": "d6d24f5ac62567e56903",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:16:56.313364+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c024ccd0e6959f92fb0ab4f2",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_shelley_the_last_man_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: c024ccd0e6959f92fb0ab4f2\noriginal_word_count: 450\n\nPassage:\nRaymond strode angrily up and down the room. I stood ready to receive and reply to his reproaches. Adrian leaned against the wall. “This is infinitely ridiculous,” he cried, “if you were school-boys, you could not conduct yourselves more unreasonably.”\n\n“You do not understand,” said Raymond. “This is only part of a system:—a scheme of tyranny to which I will never submit. Because I am Protector of England, am I to be the only slave in its empire? My privacy invaded, my actions censured, my friends insulted? But I will get rid of the whole together.—Be you witnesses,” and he took the star, insignia of office, from his breast, and threw it on the table. “I renounce my office, I abdicate my power—assume it who will!”—-\n\n“Let him assume it,” exclaimed Adrian, “who can pronounce himself, or whom the world will pronounce to be your superior. There does not exist the man in England with adequate presumption. Know yourself, Raymond, and your indignation will cease; your complacency return. A few months ago, whenever we prayed for the prosperity of our country, or our own, we at the same time prayed for the life and welfare of the Protector, as indissolubly linked to it. Your hours were devoted to our benefit, your ambition was to obtain our commendation. You decorated our towns with edifices, you bestowed on us useful establishments, you gifted the soil with abundant fertility. The powerful and unjust cowered at the steps of your judgment-seat, and the poor and oppressed arose like morn-awakened flowers under the sunshine of your protection.\n\n“Can you wonder that we are all aghast and mourn, when this appears changed? But, come, this splenetic fit is already passed; resume your functions; your partizans will hail you; your enemies be silenced; our love, honour, and duty will again be manifested towards you. Master yourself, Raymond, and the world is subject to you.”\n\n“All this would be very good sense, if addressed to another,” replied Raymond, moodily, “con the lesson yourself, and you, the first peer of the land, may become its sovereign. You the good, the wise, the just, may rule all hearts. But I perceive, too soon for my own happiness, too late for England’s good, that I undertook a task to which I am unequal. I cannot rule myself. My passions are my masters; my smallest impulse my tyrant. Do you think that I renounced the Protectorate (and I have renounced it) in a fit of spleen? By the God that lives, I swear never to take up that bauble again; never again to burthen myself with the weight of care and misery, of which that is the visible sign."
+      },
+      "request_id": "c024ccd0e6959f92fb0ab4f2",
+      "request_sha256": "fd3fde81e210328c9e7bb7af3ed52e651e31590376fbb9e1a311cb9341b2dbc6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5f617560747aa5bab168d3dd476151ac9e2e9ead271376653670c100990708ed"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "bd521922ccf936c75dd03ee0",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_twain_huckleberry_finn_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: bd521922ccf936c75dd03ee0\noriginal_word_count: 466\n\nPassage:\n“Yes, it is—and _I_ could a had it if I’d been big enough; I see him _first_. Who nailed him?”\n\n“It was an old fellow—a stranger—and he sold out his chance in him for forty dollars, becuz he’s got to go up the river and can’t wait. Think o’ that, now! You bet _I’d_ wait, if it was seven year.”\n\n“That’s me, every time,” says I. “But maybe his chance ain’t worth no more than that, if he’ll sell it so cheap. Maybe there’s something ain’t straight about it.”\n\n“But it _is_, though—straight as a string. I see the handbill myself. It tells all about him, to a dot—paints him like a picture, and tells the plantation he’s frum, below Newr_leans_. No-sirree-_bob_, they ain’t no trouble ’bout _that_ speculation, you bet you. Say, gimme a chaw tobacker, won’t ye?”\n\nI didn’t have none, so he left. I went to the raft, and set down in the wigwam to think. But I couldn’t come to nothing. I thought till I wore my head sore, but I couldn’t see no way out of the trouble. After all this long journey, and after all we’d done for them scoundrels, here it was all come to nothing, everything all busted up and ruined, because they could have the heart to serve Jim such a trick as that, and make him a slave again all his life, and amongst strangers, too, for forty dirty dollars.\n\nOnce I said to myself it would be a thousand times better for Jim to be a slave at home where his family was, as long as he’d _got_ to be a slave, and so I’d better write a letter to Tom Sawyer and tell him to tell Miss Watson where he was. But I soon give up that notion for two things: she’d be mad and disgusted at his rascality and ungratefulness for leaving her, and so she’d sell him straight down the river again; and if she didn’t, everybody naturally despises an ungrateful nigger, and they’d make Jim feel it all the time, and so he’d feel ornery and disgraced. And then think of _me!_ It would get all around that Huck Finn helped a nigger to get his freedom; and if I was ever to see anybody from that town again I’d be ready to get down and lick his boots for shame. That’s just the way: a person does a low-down thing, and then he don’t want to take no consequences of it. Thinks as long as he can hide it, it ain’t no disgrace. That was my fix exactly. The more I studied about this, the more my conscience went to grinding me, and the more wicked and low-down and ornery I got to feeling."
+      },
+      "request_id": "bd521922ccf936c75dd03ee0",
+      "request_sha256": "5b6448a72376627d7f9399cd09567c083bb731813ee527f6f37493006760137b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "129a82c92524858eab208c1dd5a03153147e7a26b2ee8f7b69468f1bc2beee5c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "81526be265ac46fccf9b4184",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_shelley_frankenstein_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 81526be265ac46fccf9b4184\noriginal_word_count: 453\n\nPassage:\n“I swear,” he cried, “by the sun, and by the blue sky of heaven, and by the fire of love that burns my heart, that if you grant my prayer, while they exist you shall never behold me again. Depart to your home and commence your labours; I shall watch their progress with unutterable anxiety; and fear not but that when you are ready I shall appear.”\n\nSaying this, he suddenly quitted me, fearful, perhaps, of any change in my sentiments. I saw him descend the mountain with greater speed than the flight of an eagle, and quickly lost among the undulations of the sea of ice.\n\nHis tale had occupied the whole day, and the sun was upon the verge of the horizon when he departed. I knew that I ought to hasten my descent towards the valley, as I should soon be encompassed in darkness; but my heart was heavy, and my steps slow. The labour of winding among the little paths of the mountain and fixing my feet firmly as I advanced perplexed me, occupied as I was by the emotions which the occurrences of the day had produced. Night was far advanced when I came to the halfway resting-place and seated myself beside the fountain. The stars shone at intervals as the clouds passed from over them; the dark pines rose before me, and every here and there a broken tree lay on the ground; it was a scene of wonderful solemnity and stirred strange thoughts within me. I wept bitterly, and clasping my hands in agony, I exclaimed, “Oh! stars and clouds and winds, ye are all about to mock me; if ye really pity me, crush sensation and memory; let me become as nought; but if not, depart, depart, and leave me in darkness.”\n\nThese were wild and miserable thoughts, but I cannot describe to you how the eternal twinkling of the stars weighed upon me and how I listened to every blast of wind as if it were a dull ugly siroc on its way to consume me.\n\nMorning dawned before I arrived at the village of Chamounix; I took no rest, but returned immediately to Geneva. Even in my own heart I could give no expression to my sensations—they weighed on me with a mountain’s weight and their excess destroyed my agony beneath them. Thus I returned home, and entering the house, presented myself to the family. My haggard and wild appearance awoke intense alarm, but I answered no question, scarcely did I speak. I felt as if I were placed under a ban—as if I had no right to claim their sympathies—as if never more might I enjoy companionship with them."
+      },
+      "request_id": "81526be265ac46fccf9b4184",
+      "request_sha256": "9a9699d881ca07646dfcd4b768acd31d7476fedf8909e5201e669fed0ae5316f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fde7b3896ea86eaae42b95fb1bc064dc51e8a61a045498244aa2925a37c3fbde"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

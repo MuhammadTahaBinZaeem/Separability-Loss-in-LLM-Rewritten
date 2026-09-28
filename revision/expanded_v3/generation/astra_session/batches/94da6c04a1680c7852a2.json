@@ -1,0 +1,68 @@
+{
+  "batch_id": "94da6c04a1680c7852a2",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:08:14.786336+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "18a502610e817ecac9f4e2b7",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_shelley_the_last_man_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 18a502610e817ecac9f4e2b7\noriginal_word_count: 452\n\nPassage:\nSummer advanced, and, crowned with the sun’s potent rays, plague shot her unerring shafts over the earth. The nations beneath their influence bowed their heads, and died. The corn that sprung up in plenty, lay in autumn rotting on the ground, while the melancholy wretch who had gone out to gather bread for his children, lay stiff and plague-struck in the furrow. The green woods waved their boughs majestically, while the dying were spread beneath their shade, answering the solemn melody with inharmonious cries. The painted birds flitted through the shades; the careless deer reposed unhurt upon the fern—the oxen and the horses strayed from their unguarded stables, and grazed among the wheat, for death fell on man alone.\n\nWith summer and mortality grew our fears. My poor love and I looked at each other, and our babes.—“We will save them, Idris,” I said, “I will save them. Years hence we shall recount to them our fears, then passed away with their occasion. Though they only should remain on the earth, still they shall live, nor shall their cheeks become pale nor their sweet voices languish.” Our eldest in some degree understood the scenes passing around, and at times, he with serious looks questioned me concerning the reason of so vast a desolation. But he was only ten years old; and the hilarity of youth soon chased unreasonable care from his brow. Evelyn, a laughing cherub, a gamesome infant, without idea of pain or sorrow, would, shaking back his light curls from his eyes, make the halls re-echo with his merriment, and in a thousand artless ways attract our attention to his play. Clara, our lovely gentle Clara, was our stay, our solace, our delight. She made it her task to attend the sick, comfort the sorrowing, assist the aged, and partake the sports and awaken the gaiety of the young. She flitted through the rooms, like a good spirit, dispatched from the celestial kingdom, to illumine our dark hour with alien splendour. Gratitude and praise marked where her footsteps had been. Yet, when she stood in unassuming simplicity before us, playing with our children, or with girlish assiduity performing little kind offices for Idris, one wondered in what fair lineament of her pure loveliness, in what soft tone of her thrilling voice, so much of heroism, sagacity and active goodness resided.\n\nThe summer passed tediously, for we trusted that winter would at least check the disease. That it would vanish altogether was an hope too dear— too heartfelt, to be expressed. When such a thought was heedlessly uttered, the hearers, with a gush of tears and passionate sobs, bore witness how deep their fears were, how small their hopes."
+      },
+      "request_id": "18a502610e817ecac9f4e2b7",
+      "request_sha256": "f0e3a0cdf0e59d5fa6ef873df18fdea1331769a5e185d18fc5819e4952af88e1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9f86a0a94224276006b306244a2dc160fccc7b2b5abc1d46397155cba3a39edd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e1c8c9a793221873b6adb356",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_twain_huckleberry_finn_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e1c8c9a793221873b6adb356\noriginal_word_count: 481\n\nPassage:\nWhen we got back to the raft and he come to count up he found he had collected eighty-seven dollars and seventy-five cents. And then he had fetched away a three-gallon jug of whisky, too, that he found under a wagon when he was starting home through the woods. The king said, take it all around, it laid over any day he’d ever put in in the missionarying line. He said it warn’t no use talking, heathens don’t amount to shucks alongside of pirates to work a camp-meeting with.\n\nThe duke was thinking _he’d_ been doing pretty well till the king come to show up, but after that he didn’t think so so much. He had set up and printed off two little jobs for farmers in that printing-office—horse bills—and took the money, four dollars. And he had got in ten dollars’ worth of advertisements for the paper, which he said he would put in for four dollars if they would pay in advance—so they done it. The price of the paper was two dollars a year, but he took in three subscriptions for half a dollar apiece on condition of them paying him in advance; they were going to pay in cordwood and onions as usual, but he said he had just bought the concern and knocked down the price as low as he could afford it, and was going to run it for cash. He set up a little piece of poetry, which he made, himself, out of his own head—three verses—kind of sweet and saddish—the name of it was, “Yes, crush, cold world, this breaking heart”—and he left that all set up and ready to print in the paper, and didn’t charge nothing for it. Well, he took in nine dollars and a half, and said he’d done a pretty square day’s work for it.\n\nThen he showed us another little job he’d printed and hadn’t charged for, because it was for us. It had a picture of a runaway nigger with a bundle on a stick over his shoulder, and “$200 reward” under it. The reading was all about Jim, and just described him to a dot. It said he run away from St. Jacques’ plantation, forty mile below New Orleans, last winter, and likely went north, and whoever would catch him and send him back he could have the reward and expenses.\n\n“Now,” says the duke, “after to-night we can run in the daytime if we want to. Whenever we see anybody coming we can tie Jim hand and foot with a rope, and lay him in the wigwam and show this handbill and say we captured him up the river, and were too poor to travel on a steamboat, so we got this little raft on credit from our friends and are going down to get the reward."
+      },
+      "request_id": "e1c8c9a793221873b6adb356",
+      "request_sha256": "409be3d37adafce86231adbb9f817aea2a86b235b2a963e0ce66d37ac7648978",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1eeb337f7f19a220be2c3f6f975f4b7a10c0a03462c7cf7b61c6e3933268c4c3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3db3d77171046bcf5ecd4e30",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_poe_hans_pfaal_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 3db3d77171046bcf5ecd4e30\noriginal_word_count: 472\n\nPassage:\nIndeed I had no fear on her account. She was what people call a notable woman, and could manage matters in the world without my assistance. I believe, to tell the truth, she always looked upon me as an idle boy, a mere make-weight, good for nothing but building castles in the air, and was rather glad to get rid of me. It was a dark night when I bade her good-bye, and taking with me, as aides-de-camp, the three creditors who had given me so much trouble, we carried the balloon, with the car and accoutrements, by a roundabout way, to the station where the other articles were deposited. We there found them all unmolested, and I proceeded immediately to business.\n\n“It was the first of April. The night, as I said before, was dark; there was not a star to be seen; and a drizzling rain, falling at intervals, rendered us very uncomfortable. But my chief anxiety was concerning the balloon, which, in spite of the varnish with which it was defended, began to grow rather heavy with the moisture; the powder also was liable to damage. I therefore kept my three duns working with great diligence, pounding down ice around the central cask, and stirring the acid in the others. They did not cease, however, importuning me with questions as to what I intended to do with all this apparatus, and expressed much dissatisfaction at the terrible labor I made them undergo. They could not perceive, so they said, what good was likely to result from their getting wet to the skin, merely to take a part in such horrible incantations. I began to get uneasy, and worked away with all my might, for I verily believe the idiots supposed that I had entered into a compact with the devil, and that, in short, what I was now doing was nothing better than it should be. I was, therefore, in great fear of their leaving me altogether. I contrived, however, to pacify them by promises of payment of all scores in full, as soon as I could bring the present business to a termination. To these speeches they gave, of course, their own interpretation; fancying, no doubt, that at all events I should come into possession of vast quantities of ready money; and provided I paid them all I owed, and a trifle more, in consideration of their services, I dare say they cared very little what became of either my soul or my carcass.\n\n“In about four hours and a half I found the balloon sufficiently inflated. I attached the car, therefore, and put all my implements in it—not forgetting the condensing apparatus, a copious supply of water, and a large quantity of provisions, such as pemmican, in which much nutriment is contained in comparatively little bulk."
+      },
+      "request_id": "3db3d77171046bcf5ecd4e30",
+      "request_sha256": "5cec908916116642fdd1929ecaca1e54a7a84211885e06c02fd4830b06a496b4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8eafe8c2187349d81b82c79983045b2192035bce607d08ead71066ece6662812"
+    }
+  ],
+  "session_id": "01a0e857-2390-7df1-8f12-e929ca6daadc",
+  "worker_id": "astra_q",
+  "worker_identity_sha256": "3f3cf345f62afb6b7770530219536cddba6b09ed2bde9eacd0dc8a411ac176e1"
+}

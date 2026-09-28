@@ -1,0 +1,68 @@
+{
+  "batch_id": "4ea1a46326483c2e82f7",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:43:29.208290+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "91bac6418cd6ad44da8ccb79",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 483,
+      "passage_id": "V2_poe_murders_rue_morgue_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 91bac6418cd6ad44da8ccb79\noriginal_word_count: 483\n\nPassage:\nThe daughter lay prostrate and motionless; she had swooned. The screams and struggles of the old lady (during which the hair was torn from her head) had the effect of changing the probably pacific purposes of the Ourang-Outang into those of wrath. With one determined sweep of its muscular arm it nearly severed her head from her body. The sight of blood inflamed its anger into phrenzy. Gnashing its teeth, and flashing fire from its eyes, it flew upon the body of the girl, and imbedded its fearful talons in her throat, retaining its grasp until she expired. Its wandering and wild glances fell at this moment upon the head of the bed, over which the face of its master, rigid with horror, was just discernible. The fury of the beast, who no doubt bore still in mind the dreaded whip, was instantly converted into fear. Conscious of having deserved punishment, it seemed desirous of concealing its bloody deeds, and skipped about the chamber in an agony of nervous agitation; throwing down and breaking the furniture as it moved, and dragging the bed from the bedstead. In conclusion, it seized first the corpse of the daughter, and thrust it up the chimney, as it was found; then that of the old lady, which it immediately hurled through the window headlong.\n\nAs the ape approached the casement with its mutilated burden, the sailor shrank aghast to the rod, and, rather gliding than clambering down it, hurried at once home—dreading the consequences of the butchery, and gladly abandoning, in his terror, all solicitude about the fate of the Ourang-Outang. The words heard by the party upon the staircase were the Frenchman’s exclamations of horror and affright, commingled with the fiendish jabberings of the brute.\n\nI have scarcely anything to add. The Ourang-Outang must have escaped from the chamber, by the rod, just before the breaking of the door. It must have closed the window as it passed through it. It was subsequently caught by the owner himself, who obtained for it a very large sum at the _Jardin des Plantes._ Le Don was instantly released, upon our narration of the circumstances (with some comments from Dupin) at the bureau of the Prefect of Police. This functionary, however well disposed to my friend, could not altogether conceal his chagrin at the turn which affairs had taken, and was fain to indulge in a sarcasm or two, about the propriety of every person minding his own business.\n\n“Let him talk,” said Dupin, who had not thought it necessary to reply. “Let him discourse; it will ease his conscience, I am satisfied with having defeated him in his own castle. Nevertheless, that he failed in the solution of this mystery, is by no means that matter for wonder which he supposes it; for, in truth, our friend the Prefect is somewhat too cunning to be profound."
+      },
+      "request_id": "91bac6418cd6ad44da8ccb79",
+      "request_sha256": "237100edf6168a8bec68fd8ddbe3d5fc27deace0d566243ccdf78db996cb98fe",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c00468018e45e6b6db65b67f8f323bb66e4d7e80c0f4ac34a2bec7dc92d1210b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "be97a70ffbab310a57b62e37",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: be97a70ffbab310a57b62e37\noriginal_word_count: 451\n\nPassage:\nIndeed, I have not mentioned the most important one.”\n\n“What is that, Harry?” said the lad listlessly.\n\n“Oh, the obvious consolation. Taking some one else’s admirer when one loses one’s own. In good society that always whitewashes a woman. But really, Dorian, how different Sibyl Vane must have been from all the women one meets! There is something to me quite beautiful about her death. I am glad I am living in a century when such wonders happen. They make one believe in the reality of the things we all play with, such as romance, passion, and love.”\n\n“I was terribly cruel to her. You forget that.”\n\n“I am afraid that women appreciate cruelty, downright cruelty, more than anything else. They have wonderfully primitive instincts. We have emancipated them, but they remain slaves looking for their masters, all the same. They love being dominated. I am sure you were splendid. I have never seen you really and absolutely angry, but I can fancy how delightful you looked. And, after all, you said something to me the day before yesterday that seemed to me at the time to be merely fanciful, but that I see now was absolutely true, and it holds the key to everything.”\n\n“What was that, Harry?”\n\n“You said to me that Sibyl Vane represented to you all the heroines of romance—that she was Desdemona one night, and Ophelia the other; that if she died as Juliet, she came to life as Imogen.”\n\n“She will never come to life again now,” muttered the lad, burying his face in his hands.\n\n“No, she will never come to life. She has played her last part. But you must think of that lonely death in the tawdry dressing-room simply as a strange lurid fragment from some Jacobean tragedy, as a wonderful scene from Webster, or Ford, or Cyril Tourneur. The girl never really lived, and so she has never really died. To you at least she was always a dream, a phantom that flitted through Shakespeare’s plays and left them lovelier for its presence, a reed through which Shakespeare’s music sounded richer and more full of joy. The moment she touched actual life, she marred it, and it marred her, and so she passed away. Mourn for Ophelia, if you like. Put ashes on your head because Cordelia was strangled. Cry out against Heaven because the daughter of Brabantio died. But don’t waste your tears over Sibyl Vane. She was less real than they are.”\n\nThere was a silence. The evening darkened in the room. Noiselessly, and with silver feet, the shadows crept in from the garden. The colours faded wearily out of things.\n\nAfter some time Dorian Gray looked up."
+      },
+      "request_id": "be97a70ffbab310a57b62e37",
+      "request_sha256": "c1939b0039f05afd6d82181d32acc0434fe78b601166ece741b2896b57f371af",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c1dfa62db9d74c6efceae479a159661bdcb33a2f0a44a589cb35259206e6d773"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "21f9fce9620509f7ab49b884",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_twain_huckleberry_finn_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 21f9fce9620509f7ab49b884\noriginal_word_count: 452\n\nPassage:\nWhat’s the trouble?”\n\nI says:\n\n“Pap, and mam, and sis, and—”\n\nThen I broke down. He says:\n\n“Oh, dang it now, _don’t_ take on so; we all has to have our troubles, and this’n ’ll come out all right. What’s the matter with ’em?”\n\n“They’re—they’re—are you the watchman of the boat?”\n\n“Yes,” he says, kind of pretty-well-satisfied like. “I’m the captain and the owner and the mate and the pilot and watchman and head deck-hand; and sometimes I’m the freight and passengers. I ain’t as rich as old Jim Hornback, and I can’t be so blame’ generous and good to Tom, Dick and Harry as what he is, and slam around money the way he does; but I’ve told him a many a time ’t I wouldn’t trade places with him; for, says I, a sailor’s life’s the life for me, and I’m derned if _I’d_ live two mile out o’ town, where there ain’t nothing ever goin’ on, not for all his spondulicks and as much more on top of it. Says I—”\n\nI broke in and says:\n\n“They’re in an awful peck of trouble, and—”\n\n“_Who_ is?”\n\n“Why, pap and mam and sis and Miss Hooker; and if you’d take your ferry-boat and go up there—”\n\n“Up where? Where are they?”\n\n“On the wreck.”\n\n“What wreck?”\n\n“Why, there ain’t but one.”\n\n“What, you don’t mean the _Walter Scott?_”\n\n“Yes.”\n\n“Good land! what are they doin’ _there_, for gracious sakes?”\n\n“Well, they didn’t go there a-purpose.”\n\n“I bet they didn’t! Why, great goodness, there ain’t no chance for ’em if they don’t git off mighty quick! Why, how in the nation did they ever git into such a scrape?”\n\n“Easy enough. Miss Hooker was a-visiting up there to the town—”\n\n“Yes, Booth’s Landing—go on.”\n\n“She was a-visiting there at Booth’s Landing, and just in the edge of the evening she started over with her nigger woman in the horse-ferry to stay all night at her friend’s house, Miss What-you-may-call-her I disremember her name—and they lost their steering-oar, and swung around and went a-floating down, stern first, about two mile, and saddle-baggsed on the wreck, and the ferryman and the nigger woman and the horses was all lost, but Miss Hooker she made a grab and got aboard the wreck. Well, about an hour after dark we come along down in our trading-scow, and it was so dark we didn’t notice the wreck till we was right on it; and so _we_ saddle-baggsed; but all of us was saved but Bill Whipple—and oh, he _was_ the best cretur!—I most wish’t it had been me, I do.”\n\n“My George! It’s the beatenest thing I ever struck."
+      },
+      "request_id": "21f9fce9620509f7ab49b884",
+      "request_sha256": "da165b31da1857d445175bab91417b754e50d26bdce03c9a4b8602ef7dee5844",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0507a515b2ece231409428cb096a23a6578848c498179cf69dd39d436af12990"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

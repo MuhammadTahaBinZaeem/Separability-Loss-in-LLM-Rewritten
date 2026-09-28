@@ -1,0 +1,68 @@
+{
+  "batch_id": "3f3d23aeb7f378d9a05b",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:24:06.904949+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ef8bfe67e55b2d7cf0a1731d",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_poe_the_gold_bug_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: ef8bfe67e55b2d7cf0a1731d\noriginal_word_count: 481\n\nPassage:\nThe weight of the insect was very remarkable, and, taking all things into consideration, I could hardly blame Jupiter for his opinion respecting it; but what to make of Legrand’s concordance with that opinion, I could not, for the life of me, tell.\n\n“I sent for you,” said he, in a grandiloquent tone, when I had completed my examination of the beetle, “I sent for you, that I might have your counsel and assistance in furthering the views of Fate and of the bug—”\n\n“My dear Legrand,” I cried, interrupting him, “you are certainly unwell, and had better use some little precautions. You shall go to bed, and I will remain with you a few days, until you get over this. You are feverish and—”\n\n“Feel my pulse,” said he.\n\nI felt it, and, to say the truth, found not the slightest indication of fever.\n\n“But you may be ill and yet have no fever. Allow me this once to prescribe for you. In the first place, go to bed. In the next—”\n\n“You are mistaken,” he interposed, “I am as well as I can expect to be under the excitement which I suffer. If you really wish me well, you will relieve this excitement.”\n\n“And how is this to be done?”\n\n“Very easily. Jupiter and myself are going upon an expedition into the hills, upon the main land, and, in this expedition we shall need the aid of some person in whom we can confide. You are the only one we can trust. Whether we succeed or fail, the excitement which you now perceive in me will be equally allayed.”\n\n“I am anxious to oblige you in any way,” I replied; “but do you mean to say that this infernal beetle has any connection with your expedition into the hills?”\n\n“It has.”\n\n“Then, Legrand, I can become a party to no such absurd proceeding.”\n\n“I am sorry—very sorry—for we shall have to try it by ourselves.”\n\n“Try it by yourselves! The man is surely mad!—but stay!—how long do you propose to be absent?”\n\n“Probably all night. We shall start immediately, and be back, at all events, by sunrise.”\n\n“And will you promise me, upon your honor, that when this freak of yours is over, and the bug business (good God!) settled to your satisfaction, you will then return home and follow my advice implicitly, as that of your physician?”\n\n“Yes; I promise; and now let us be off, for we have no time to lose.”\n\nWith a heavy heart I accompanied my friend. We started about four o’clock—Legrand, Jupiter, the dog, and myself. Jupiter had with him the scythe and spades—the whole of which he insisted upon carrying—more through fear, it seemed to me, of trusting either of the implements within reach of his master, than from any excess of industry or complaisance."
+      },
+      "request_id": "ef8bfe67e55b2d7cf0a1731d",
+      "request_sha256": "2884bb882475d969450462a4a59c70784e52da62d91bd3497a9a3f79f311e873",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "063e5f414e468518ab22ed76bc5fd845623a7f23633c036fbe78f2617eedbbe1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "72e874b3b3853314f00fbd3b",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_twain_huckleberry_finn_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 72e874b3b3853314f00fbd3b\noriginal_word_count: 454\n\nPassage:\nSo, then, the ring-master he made a little speech, and said he hoped there wouldn’t be no disturbance, and if the man would promise he wouldn’t make no more trouble he would let him ride if he thought he could stay on the horse. So everybody laughed and said all right, and the man got on. The minute he was on, the horse begun to rip and tear and jump and cavort around, with two circus men hanging on to his bridle trying to hold him, and the drunk man hanging on to his neck, and his heels flying in the air every jump, and the whole crowd of people standing up shouting and laughing till tears rolled down. And at last, sure enough, all the circus men could do, the horse broke loose, and away he went like the very nation, round and round the ring, with that sot laying down on him and hanging to his neck, with first one leg hanging most to the ground on one side, and then t’other one on t’other side, and the people just crazy. It warn’t funny to me, though; I was all of a tremble to see his danger. But pretty soon he struggled up astraddle and grabbed the bridle, a-reeling this way and that; and the next minute he sprung up and dropped the bridle and stood! and the horse a-going like a house afire too. He just stood up there, a-sailing around as easy and comfortable as if he warn’t ever drunk in his life—and then he begun to pull off his clothes and sling them. He shed them so thick they kind of clogged up the air, and altogether he shed seventeen suits. And, then, there he was, slim and handsome, and dressed the gaudiest and prettiest you ever saw, and he lit into that horse with his whip and made him fairly hum—and finally skipped off, and made his bow and danced off to the dressing-room, and everybody just a-howling with pleasure and astonishment.\n\nThen the ring-master he see how he had been fooled, and he _was_ the sickest ring-master you ever see, I reckon. Why, it was one of his own men! He had got up that joke all out of his own head, and never let on to nobody. Well, I felt sheepish enough to be took in so, but I wouldn’t a been in that ring-master’s place, not for a thousand dollars. I don’t know; there may be bullier circuses than what that one was, but I never struck them yet. Anyways, it was plenty good enough for _me;_ and wherever I run across it, it can have all of _my_ custom every time."
+      },
+      "request_id": "72e874b3b3853314f00fbd3b",
+      "request_sha256": "ccf53a26edb9f88f5bfe58bebf02189869e3d09782386784ade4b55f6653f448",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ee5229b469ac64cf2638746b26a3d4c56a683241d52a1203073563a6e7cc2e81"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "eccfa28466c89d32f11364cd",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_shelley_frankenstein_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: eccfa28466c89d32f11364cd\noriginal_word_count: 464\n\nPassage:\nHe said that he was wearing away his time fruitlessly where he was, that letters from the friends he had formed in London desired his return to complete the negotiation they had entered into for his Indian enterprise. He could not any longer delay his departure; but as his journey to London might be followed, even sooner than he now conjectured, by his longer voyage, he entreated me to bestow as much of my society on him as I could spare. He besought me, therefore, to leave my solitary isle and to meet him at Perth, that we might proceed southwards together. This letter in a degree recalled me to life, and I determined to quit my island at the expiration of two days.\n\nYet, before I departed, there was a task to perform, on which I shuddered to reflect; I must pack up my chemical instruments, and for that purpose I must enter the room which had been the scene of my odious work, and I must handle those utensils the sight of which was sickening to me. The next morning, at daybreak, I summoned sufficient courage and unlocked the door of my laboratory. The remains of the half-finished creature, whom I had destroyed, lay scattered on the floor, and I almost felt as if I had mangled the living flesh of a human being. I paused to collect myself and then entered the chamber. With trembling hand I conveyed the instruments out of the room, but I reflected that I ought not to leave the relics of my work to excite the horror and suspicion of the peasants; and I accordingly put them into a basket, with a great quantity of stones, and laying them up, determined to throw them into the sea that very night; and in the meantime I sat upon the beach, employed in cleaning and arranging my chemical apparatus.\n\nNothing could be more complete than the alteration that had taken place in my feelings since the night of the appearance of the dæmon. I had before regarded my promise with a gloomy despair as a thing that, with whatever consequences, must be fulfilled; but I now felt as if a film had been taken from before my eyes and that I for the first time saw clearly. The idea of renewing my labours did not for one instant occur to me; the threat I had heard weighed on my thoughts, but I did not reflect that a voluntary act of mine could avert it. I had resolved in my own mind that to create another like the fiend I had first made would be an act of the basest and most atrocious selfishness, and I banished from my mind every thought that could lead to a different conclusion."
+      },
+      "request_id": "eccfa28466c89d32f11364cd",
+      "request_sha256": "adebe5678c3b9f5fb4e5abf465f1ce14dae34cfa78bc262ef23c0ede1ae39716",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "dfac0d020c88956dd58067463b77b2c4b142e7aba32d020b08e977154352176e"
+    }
+  ],
+  "session_id": "01a0e861-03f8-7221-8672-8e262e9ebfc7",
+  "worker_id": "astra_t",
+  "worker_identity_sha256": "c223dffc33181152e7b2fea39b5f4b9f77c7ee2ed9647b0e46dbc4f2b2b1711f"
+}

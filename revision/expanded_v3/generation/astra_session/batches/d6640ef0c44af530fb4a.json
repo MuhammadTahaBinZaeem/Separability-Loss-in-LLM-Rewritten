@@ -1,0 +1,68 @@
+{
+  "batch_id": "d6640ef0c44af530fb4a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:08:52.641102+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a00eb4d329800d1a36fd10e4",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_shelley_frankenstein_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: a00eb4d329800d1a36fd10e4\noriginal_word_count: 464\n\nPassage:\nHe said that he was wearing away his time fruitlessly where he was, that letters from the friends he had formed in London desired his return to complete the negotiation they had entered into for his Indian enterprise. He could not any longer delay his departure; but as his journey to London might be followed, even sooner than he now conjectured, by his longer voyage, he entreated me to bestow as much of my society on him as I could spare. He besought me, therefore, to leave my solitary isle and to meet him at Perth, that we might proceed southwards together. This letter in a degree recalled me to life, and I determined to quit my island at the expiration of two days.\n\nYet, before I departed, there was a task to perform, on which I shuddered to reflect; I must pack up my chemical instruments, and for that purpose I must enter the room which had been the scene of my odious work, and I must handle those utensils the sight of which was sickening to me. The next morning, at daybreak, I summoned sufficient courage and unlocked the door of my laboratory. The remains of the half-finished creature, whom I had destroyed, lay scattered on the floor, and I almost felt as if I had mangled the living flesh of a human being. I paused to collect myself and then entered the chamber. With trembling hand I conveyed the instruments out of the room, but I reflected that I ought not to leave the relics of my work to excite the horror and suspicion of the peasants; and I accordingly put them into a basket, with a great quantity of stones, and laying them up, determined to throw them into the sea that very night; and in the meantime I sat upon the beach, employed in cleaning and arranging my chemical apparatus.\n\nNothing could be more complete than the alteration that had taken place in my feelings since the night of the appearance of the dæmon. I had before regarded my promise with a gloomy despair as a thing that, with whatever consequences, must be fulfilled; but I now felt as if a film had been taken from before my eyes and that I for the first time saw clearly. The idea of renewing my labours did not for one instant occur to me; the threat I had heard weighed on my thoughts, but I did not reflect that a voluntary act of mine could avert it. I had resolved in my own mind that to create another like the fiend I had first made would be an act of the basest and most atrocious selfishness, and I banished from my mind every thought that could lead to a different conclusion."
+      },
+      "request_id": "a00eb4d329800d1a36fd10e4",
+      "request_sha256": "85c37de2f62a8543a05938f90c082dec2a7b6e4e6292755d9d6d1275ecbcaa81",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "dfac0d020c88956dd58067463b77b2c4b142e7aba32d020b08e977154352176e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d66d5399da40b88aec77f497",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: d66d5399da40b88aec77f497\noriginal_word_count: 451\n\nPassage:\nIndeed, I have not mentioned the most important one.”\n\n“What is that, Harry?” said the lad listlessly.\n\n“Oh, the obvious consolation. Taking some one else’s admirer when one loses one’s own. In good society that always whitewashes a woman. But really, Dorian, how different Sibyl Vane must have been from all the women one meets! There is something to me quite beautiful about her death. I am glad I am living in a century when such wonders happen. They make one believe in the reality of the things we all play with, such as romance, passion, and love.”\n\n“I was terribly cruel to her. You forget that.”\n\n“I am afraid that women appreciate cruelty, downright cruelty, more than anything else. They have wonderfully primitive instincts. We have emancipated them, but they remain slaves looking for their masters, all the same. They love being dominated. I am sure you were splendid. I have never seen you really and absolutely angry, but I can fancy how delightful you looked. And, after all, you said something to me the day before yesterday that seemed to me at the time to be merely fanciful, but that I see now was absolutely true, and it holds the key to everything.”\n\n“What was that, Harry?”\n\n“You said to me that Sibyl Vane represented to you all the heroines of romance—that she was Desdemona one night, and Ophelia the other; that if she died as Juliet, she came to life as Imogen.”\n\n“She will never come to life again now,” muttered the lad, burying his face in his hands.\n\n“No, she will never come to life. She has played her last part. But you must think of that lonely death in the tawdry dressing-room simply as a strange lurid fragment from some Jacobean tragedy, as a wonderful scene from Webster, or Ford, or Cyril Tourneur. The girl never really lived, and so she has never really died. To you at least she was always a dream, a phantom that flitted through Shakespeare’s plays and left them lovelier for its presence, a reed through which Shakespeare’s music sounded richer and more full of joy. The moment she touched actual life, she marred it, and it marred her, and so she passed away. Mourn for Ophelia, if you like. Put ashes on your head because Cordelia was strangled. Cry out against Heaven because the daughter of Brabantio died. But don’t waste your tears over Sibyl Vane. She was less real than they are.”\n\nThere was a silence. The evening darkened in the room. Noiselessly, and with silver feet, the shadows crept in from the garden. The colours faded wearily out of things.\n\nAfter some time Dorian Gray looked up."
+      },
+      "request_id": "d66d5399da40b88aec77f497",
+      "request_sha256": "a6896a2d5361edb236072cd2a520b82a41a87f0026a1e34c551b746505c3c96a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c1dfa62db9d74c6efceae479a159661bdcb33a2f0a44a589cb35259206e6d773"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "699a7c74b1dce65c8ab3f502",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_shelley_the_last_man_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 699a7c74b1dce65c8ab3f502\noriginal_word_count: 450\n\nPassage:\nLay down your arms, fellow men! brethren! Pardon, succour, and brotherly love await your repentance. You are dear to us, because you wear the frail shape of humanity; each one among you will find a friend and host among these forces. Shall man be the enemy of man, while plague, the foe to all, even now is above us, triumphing in our butchery, more cruel than her own?”\n\nEach army paused. On our side the soldiers grasped their arms firmly, and looked with stern glances on the foe. These had not thrown down their weapons, more from fear than the spirit of contest; they looked at each other, each wishing to follow some example given him,—but they had no leader. Adrian threw himself from his horse, and approaching one of those just slain: “He was a man,” he cried, “and he is dead. O quickly bind up the wounds of the fallen—let not one die; let not one more soul escape through your merciless gashes, to relate before the throne of God the tale of fratricide; bind up their wounds—restore them to their friends. Cast away the hearts of tigers that burn in your breasts; throw down those tools of cruelty and hate; in this pause of exterminating destiny, let each man be brother, guardian, and stay to the other. Away with those blood-stained arms, and hasten some of you to bind up these wounds.”\n\nAs he spoke, he knelt on the ground, and raised in his arms a man from whose side the warm tide of life gushed—the poor wretch gasped—so still had either host become, that his moans were distinctly heard, and every heart, late fiercely bent on universal massacre, now beat anxiously in hope and fear for the fate of this one man. Adrian tore off his military scarf and bound it round the sufferer—it was too late—the man heaved a deep sigh, his head fell back, his limbs lost their sustaining power.— “He is dead!” said Adrian, as the corpse fell from his arms on the ground, and he bowed his head in sorrow and awe. The fate of the world seemed bound up in the death of this single man. On either side the bands threw down their arms, even the veterans wept, and our party held out their hands to their foes, while a gush of love and deepest amity filled every heart. The two forces mingling, unarmed and hand in hand, talking only how each might assist the other, the adversaries conjoined; each repenting, the one side their former cruelties, the other their late violence, they obeyed the orders of the General to proceed towards London."
+      },
+      "request_id": "699a7c74b1dce65c8ab3f502",
+      "request_sha256": "9f89817d2165093cb1d7eb7769207fc89c5b2543e7fd606f98ed6367b3a90870",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "405ae8f81229c700e115dacb484a3e08ad25f77713d24cda17fedb4b0172d2a7"
+    }
+  ],
+  "session_id": "01a0e852-0aa6-7ae2-9bb7-b4f8a3387e53",
+  "worker_id": "astra_p",
+  "worker_identity_sha256": "afd3aba6357fe2ec9c9b6492844a9baccd6099faafc29ba8f935f467e4f98adf"
+}

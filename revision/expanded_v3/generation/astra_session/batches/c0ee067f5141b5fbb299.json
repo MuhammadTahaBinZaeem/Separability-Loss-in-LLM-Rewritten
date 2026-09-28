@@ -1,0 +1,68 @@
+{
+  "batch_id": "c0ee067f5141b5fbb299",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:30:36.490300+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9622276c7fd5757eae46a0e0",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 9622276c7fd5757eae46a0e0\noriginal_word_count: 463\n\nPassage:\nHe had also to think of Sybil’s father and mother, who were rather old-fashioned people, and might possibly object to the marriage if there was anything like a scandal, though he felt certain that if he told them the whole facts of the case they would be the very first to appreciate the motives that had actuated him. He had every reason, then, to decide in favour of poison. It was safe, sure, and quiet, and did away with any necessity for painful scenes, to which, like most Englishmen, he had a rooted objection.\n\nOf the science of poisons, however, he knew absolutely nothing, and as the waiter seemed quite unable to find anything in the library but _Ruff’s Guide_ and _Bailey’s Magazine_, he examined the book-shelves himself, and finally came across a handsomely-bound edition of the _Pharmacopoeia_, and a copy of Erskine’s _Toxicology_, edited by Sir Mathew Reid, the President of the Royal College of Physicians, and one of the oldest members of the Buckingham, having been elected in mistake for somebody else; a _contretemps_ that so enraged the Committee, that when the real man came up they black-balled him unanimously. Lord Arthur was a good deal puzzled at the technical terms used in both books, and had begun to regret that he had not paid more attention to his classics at Oxford, when in the second volume of Erskine, he found a very interesting and complete account of the properties of aconitine, written in fairly clear English. It seemed to him to be exactly the poison he wanted. It was swift—indeed, almost immediate, in its effect—perfectly painless, and when taken in the form of a gelatine capsule, the mode recommended by Sir Mathew, not by any means unpalatable. He accordingly made a note, upon his shirt-cuff, of the amount necessary for a fatal dose, put the books back in their places, and strolled up St. James’s Street, to Pestle and Humbey’s, the great chemists. Mr. Pestle, who always attended personally on the aristocracy, was a good deal surprised at the order, and in a very deferential manner murmured something about a medical certificate being necessary. However, as soon as Lord Arthur explained to him that it was for a large Norwegian mastiff that he was obliged to get rid of, as it showed signs of incipient rabies, and had already bitten the coachman twice in the calf of the leg, he expressed himself as being perfectly satisfied, complimented Lord Arthur on his wonderful knowledge of Toxicology, and had the prescription made up immediately.\n\nLord Arthur put the capsule into a pretty little silver _bonbonnière_ that he saw in a shop window in Bond Street, threw away Pestle and Hambey’s ugly pill-box, and drove off at once to Lady Clementina’s."
+      },
+      "request_id": "9622276c7fd5757eae46a0e0",
+      "request_sha256": "65309eea48a3c4be4f1db82f3ec0ca0cbb933126f35c41832cc8c0dc6c610a30",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3bb7e07481947547d927523275575ab181a3decdba09fb307430cda28af339b6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7c302249896abdce63ab3dfb",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_persuasion_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 7c302249896abdce63ab3dfb\noriginal_word_count: 465\n\nPassage:\nMrs Clay’s affections had overpowered her interest, and she had sacrificed, for the young man’s sake, the possibility of scheming longer for Sir Walter. She has abilities, however, as well as affections; and it is now a doubtful point whether his cunning, or hers, may finally carry the day; whether, after preventing her from being the wife of Sir Walter, he may not be wheedled and caressed at last into making her the wife of Sir William.\n\nIt cannot be doubted that Sir Walter and Elizabeth were shocked and mortified by the loss of their companion, and the discovery of their deception in her. They had their great cousins, to be sure, to resort to for comfort; but they must long feel that to flatter and follow others, without being flattered and followed in turn, is but a state of half enjoyment.\n\nAnne, satisfied at a very early period of Lady Russell’s meaning to love Captain Wentworth as she ought, had no other alloy to the happiness of her prospects than what arose from the consciousness of having no relations to bestow on him which a man of sense could value. There she felt her own inferiority very keenly. The disproportion in their fortune was nothing; it did not give her a moment’s regret; but to have no family to receive and estimate him properly, nothing of respectability, of harmony, of good will to offer in return for all the worth and all the prompt welcome which met her in his brothers and sisters, was a source of as lively pain as her mind could well be sensible of under circumstances of otherwise strong felicity. She had but two friends in the world to add to his list, Lady Russell and Mrs Smith. To those, however, he was very well disposed to attach himself. Lady Russell, in spite of all her former transgressions, he could now value from his heart. While he was not obliged to say that he believed her to have been right in originally dividing them, he was ready to say almost everything else in her favour, and as for Mrs Smith, she had claims of various kinds to recommend her quickly and permanently.\n\nHer recent good offices by Anne had been enough in themselves, and their marriage, instead of depriving her of one friend, secured her two. She was their earliest visitor in their settled life; and Captain Wentworth, by putting her in the way of recovering her husband’s property in the West Indies, by writing for her, acting for her, and seeing her through all the petty difficulties of the case with the activity and exertion of a fearless man and a determined friend, fully requited the services which she had rendered, or ever meant to render, to his wife."
+      },
+      "request_id": "7c302249896abdce63ab3dfb",
+      "request_sha256": "1798f9cb81f4d4d68ce61df9a67778130f04b7347d8b308dc0e1822aa31135ad",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8b0e1ec21460f86198aecf9858df0a68e2fe32c2b6a9454618b094dde823aeb7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6f7bd7f025b44e9ed3dd47ff",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 6f7bd7f025b44e9ed3dd47ff\noriginal_word_count: 451\n\nPassage:\nThe studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn.\n\nFrom the corner of the divan of Persian saddle-bags on which he was lying, smoking, as was his custom, innumerable cigarettes, Lord Henry Wotton could just catch the gleam of the honey-sweet and honey-coloured blossoms of a laburnum, whose tremulous branches seemed hardly able to bear the burden of a beauty so flamelike as theirs; and now and then the fantastic shadows of birds in flight flitted across the long tussore-silk curtains that were stretched in front of the huge window, producing a kind of momentary Japanese effect, and making him think of those pallid, jade-faced painters of Tokyo who, through the medium of an art that is necessarily immobile, seek to convey the sense of swiftness and motion. The sullen murmur of the bees shouldering their way through the long unmown grass, or circling with monotonous insistence round the dusty gilt horns of the straggling woodbine, seemed to make the stillness more oppressive. The dim roar of London was like the bourdon note of a distant organ.\n\nIn the centre of the room, clamped to an upright easel, stood the full-length portrait of a young man of extraordinary personal beauty, and in front of it, some little distance away, was sitting the artist himself, Basil Hallward, whose sudden disappearance some years ago caused, at the time, such public excitement and gave rise to so many strange conjectures.\n\nAs the painter looked at the gracious and comely form he had so skilfully mirrored in his art, a smile of pleasure passed across his face, and seemed about to linger there. But he suddenly started up, and closing his eyes, placed his fingers upon the lids, as though he sought to imprison within his brain some curious dream from which he feared he might awake.\n\n“It is your best work, Basil, the best thing you have ever done,” said Lord Henry languidly. “You must certainly send it next year to the Grosvenor. The Academy is too large and too vulgar. Whenever I have gone there, there have been either so many people that I have not been able to see the pictures, which was dreadful, or so many pictures that I have not been able to see the people, which was worse. The Grosvenor is really the only place.”\n\n“I don’t think I shall send it anywhere,” he answered, tossing his head back in that odd way that used to make his friends laugh at him at Oxford."
+      },
+      "request_id": "6f7bd7f025b44e9ed3dd47ff",
+      "request_sha256": "5d9df5ad0370e7388eb39dff2067ca2d6d7ab1ed6564af848a2f52367a4a7033",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e113594331bf76d9a6673249e58e7ac80d15b7c6806ccac15c1dd529df66f7d8"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

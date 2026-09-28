@@ -1,0 +1,68 @@
+{
+  "batch_id": "5f306539cce71625c6ef",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:03:36.861847+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "996b851e87d894f855281c1b",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 996b851e87d894f855281c1b\noriginal_word_count: 450\n\nPassage:\nNow that he had no work to hold, he laid the knuckles of the right hand in the hollow of the left, and then the knuckles of the left hand in the hollow of the right, and then passed a hand across his bearded chin, and so on in regular changes, without a moment’s intermission. The task of recalling him from the vagrancy into which he always sank when he had spoken, was like recalling some very weak person from a swoon, or endeavouring, in the hope of some disclosure, to stay the spirit of a fast-dying man.\n\n“Did you ask me for my name?”\n\n“Assuredly I did.”\n\n“One Hundred and Five, North Tower.”\n\n“Is that all?”\n\n“One Hundred and Five, North Tower.”\n\nWith a weary sound that was not a sigh, nor a groan, he bent to work again, until the silence was again broken.\n\n“You are not a shoemaker by trade?” said Mr. Lorry, looking steadfastly at him.\n\nHis haggard eyes turned to Defarge as if he would have transferred the question to him: but as no help came from that quarter, they turned back on the questioner when they had sought the ground.\n\n“I am not a shoemaker by trade? No, I was not a shoemaker by trade. I-I learnt it here. I taught myself. I asked leave to--”\n\nHe lapsed away, even for minutes, ringing those measured changes on his hands the whole time. His eyes came slowly back, at last, to the face from which they had wandered; when they rested on it, he started, and resumed, in the manner of a sleeper that moment awake, reverting to a subject of last night.\n\n“I asked leave to teach myself, and I got it with much difficulty after a long while, and I have made shoes ever since.”\n\nAs he held out his hand for the shoe that had been taken from him, Mr. Lorry said, still looking steadfastly in his face:\n\n“Monsieur Manette, do you remember nothing of me?”\n\nThe shoe dropped to the ground, and he sat looking fixedly at the questioner.\n\n“Monsieur Manette”; Mr. Lorry laid his hand upon Defarge’s arm; “do you remember nothing of this man? Look at him. Look at me. Is there no old banker, no old business, no old servant, no old time, rising in your mind, Monsieur Manette?”\n\nAs the captive of many years sat looking fixedly, by turns, at Mr. Lorry and at Defarge, some long obliterated marks of an actively intent intelligence in the middle of the forehead, gradually forced themselves through the black mist that had fallen on him. They were overclouded again, they were fainter, they were gone; but they had been there."
+      },
+      "request_id": "996b851e87d894f855281c1b",
+      "request_sha256": "f8d8de8bfb3f7c531d0a85f92d3f7d99cf7158df510d26292c7ea30585af846b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9937705e33b357049fc8e0edf2cd42cd21f169394f00e2146e5b1384277ed60e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "cccc0cb268fafb9ef8509aa0",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_poe_the_gold_bug_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: cccc0cb268fafb9ef8509aa0\noriginal_word_count: 454\n\nPassage:\nHis demeanor was dogged in the extreme, and “dat deuced bug” were the sole words which escaped his lips during the journey. For my own part, I had charge of a couple of dark lanterns, while Legrand contented himself with the _scarabæus_, which he carried attached to the end of a bit of whip-cord; twirling it to and fro, with the air of a conjuror, as he went. When I observed this last, plain evidence of my friend’s aberration of mind, I could scarcely refrain from tears. I thought it best, however, to humor his fancy, at least for the present, or until I could adopt some more energetic measures with a chance of success. In the mean time I endeavored, but all in vain, to sound him in regard to the object of the expedition. Having succeeded in inducing me to accompany him, he seemed unwilling to hold conversation upon any topic of minor importance, and to all my questions vouchsafed no other reply than “we shall see!”\n\nWe crossed the creek at the head of the island by means of a skiff, and, ascending the high grounds on the shore of the main land, proceeded in a northwesterly direction, through a tract of country excessively wild and desolate, where no trace of a human footstep was to be seen. Legrand led the way with decision; pausing only for an instant, here and there, to consult what appeared to be certain landmarks of his own contrivance upon a former occasion.\n\nIn this manner we journeyed for about two hours, and the sun was just setting when we entered a region infinitely more dreary than any yet seen. It was a species of table land, near the summit of an almost inaccessible hill, densely wooded from base to pinnacle, and interspersed with huge crags that appeared to lie loosely upon the soil, and in many cases were prevented from precipitating themselves into the valleys below, merely by the support of the trees against which they reclined. Deep ravines, in various directions, gave an air of still sterner solemnity to the scene.\n\nThe natural platform to which we had clambered was thickly overgrown with brambles, through which we soon discovered that it would have been impossible to force our way but for the scythe; and Jupiter, by direction of his master, proceeded to clear for us a path to the foot of an enormously tall tulip-tree, which stood, with some eight or ten oaks, upon the level, and far surpassed them all, and all other trees which I had then ever seen, in the beauty of its foliage and form, in the wide spread of its branches, and in the general majesty of its appearance."
+      },
+      "request_id": "cccc0cb268fafb9ef8509aa0",
+      "request_sha256": "65430484c83036760569c803e5fc9d6d45ed17ddfb6beee5589867fd58a0b890",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "01b7209125dc641f223af9e432fd0d99e694366ff4b9d82a22caf2b07515e530"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f2789f08b4395938c18bfd07",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_poe_the_gold_bug_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: f2789f08b4395938c18bfd07\noriginal_word_count: 472\n\nPassage:\nAt sight of these the joy of Jupiter could scarcely be restrained, but the countenance of his master wore an air of extreme disappointment. He urged us, however, to continue our exertions, and the words were hardly uttered when I stumbled and fell forward, having caught the toe of my boot in a large ring of iron that lay half buried in the loose earth.\n\nWe now worked in earnest, and never did I pass ten minutes of more intense excitement. During this interval we had fairly unearthed an oblong chest of wood, which, from its perfect preservation and wonderful hardness, had plainly been subjected to some mineralizing process—perhaps that of the bi-chloride of mercury. This box was three feet and a half long, three feet broad, and two and a half feet deep. It was firmly secured by bands of wrought iron, riveted, and forming a kind of open trelliswork over the whole. On each side of the chest, near the top, were three rings of iron—six in all—by means of which a firm hold could be obtained by six persons. Our utmost united endeavors served only to disturb the coffer very slightly in its bed. We at once saw the impossibility of removing so great a weight. Luckily, the sole fastenings of the lid consisted of two sliding bolts. These we drew back—trembling and panting with anxiety. In an instant, a treasure of incalculable value lay gleaming before us. As the rays of the lanterns fell within the pit, there flashed upwards a glow and a glare, from a confused heap of gold and of jewels, that absolutely dazzled our eyes.\n\nI shall not pretend to describe the feelings with which I gazed. Amazement was, of course, predominant. Legrand appeared exhausted with excitement, and spoke very few words. Jupiter’s countenance wore, for some minutes, as deadly a pallor as it is possible, in nature of things, for any negro’s visage to assume. He seemed stupefied—thunderstricken. Presently he fell upon his knees in the pit, and, burying his naked arms up to the elbows in gold, let them there remain, as if enjoying the luxury of a bath. At length, with a deep sigh, he exclaimed, as if in a soliloquy:\n\n“And dis all cum ob de goole-bug! de putty goole-bug! de poor little goole-bug, what I boosed in dat sabage kind ob style! Aint you shamed ob yourself, nigger?—answer me dat!”\n\nIt became necessary, at last, that I should arouse both master and valet to the expediency of removing the treasure. It was growing late, and it behooved us to make exertion, that we might get every thing housed before daylight. It was difficult to say what should be done, and much time was spent in deliberation—so confused were the ideas of all."
+      },
+      "request_id": "f2789f08b4395938c18bfd07",
+      "request_sha256": "1e3c779b23b45dc763b78e950656eb9931e4b23e8569fe3f0399fd7d5deaff3b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "222c621dc7086459f19963d741acd72c0f6d9a907400e22d9d859e4c54a136f6"
+    }
+  ],
+  "session_id": "01a0e852-0aa6-7ae2-9bb7-b4f8a3387e53",
+  "worker_id": "astra_p",
+  "worker_identity_sha256": "afd3aba6357fe2ec9c9b6492844a9baccd6099faafc29ba8f935f467e4f98adf"
+}

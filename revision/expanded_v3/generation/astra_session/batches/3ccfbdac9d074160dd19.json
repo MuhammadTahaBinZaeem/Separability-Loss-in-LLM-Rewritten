@@ -1,0 +1,68 @@
+{
+  "batch_id": "3ccfbdac9d074160dd19",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:53:53.996593+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "dbc88ce492944dcda7a9a4be",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_wilde_canterville_ghost_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: dbc88ce492944dcda7a9a4be\noriginal_word_count: 465\n\nPassage:\nTHE next morning when the Otis family met at breakfast, they discussed the ghost at some length. The United States Minister was naturally a little annoyed to find that his present had not been accepted. ‘I have no wish,’ he said, ‘to do the ghost any personal injury, and I must say that, considering the length of time he has been in the house, I don’t think it is at all polite to throw pillows at him’—a very just remark, at which, I am sorry to say, the twins burst into shouts of laughter. ‘Upon the other hand,’ he continued, ‘if he really declines to use the Rising Sun Lubricator, we shall have to take his chains from him. It would be quite impossible to sleep, with such a noise going on outside the bedrooms.’\n\nFor the rest of the week, however, they were undisturbed, the only thing that excited any attention being the continual renewal of the blood-stain on the library floor. This certainly was very strange, as the door was always locked at night by Mr. Otis, and the windows kept closely barred. The chameleon-like colour, also, of the stain excited a good deal of comment. Some mornings it was a dull (almost Indian) red, then it would be vermilion, then a rich purple, and once when they came down for family prayers, according to the simple rites of the Free American Reformed Episcopalian Church, they found it a bright emerald-green. These kaleidoscopic changes naturally amused the party very much, and bets on the subject were freely made every evening. The only person who did not enter into the joke was little Virginia, who, for some unexplained reason, was always a good deal distressed at the sight of the blood-stain, and very nearly cried the morning it was emerald-green.\n\nThe second appearance of the ghost was on Sunday night. Shortly after they had gone to bed they were suddenly alarmed by a fearful crash in the hall. Rushing downstairs, they found that a large suit of old armour had become detached from its stand, and had fallen on the stone floor, while, seated in a high-backed chair, was the Canterville ghost, rubbing his knees with an expression of acute agony on his face. The twins, having brought their pea-shooters with them, at once discharged two pellets on him, with that accuracy of aim which can only be attained by long and careful practice on a writing-master, while the United States Minister covered him with his revolver, and called upon him, in accordance with Californian etiquette, to hold up his hands! The ghost started up with a wild shriek of rage, and swept through them like a mist, extinguishing Washington Otis’s candle as he passed, and so leaving them all in total darkness."
+      },
+      "request_id": "dbc88ce492944dcda7a9a4be",
+      "request_sha256": "4653d7c492feff57d2fd5606b2d3a5c483d4c98313d5023ba10d08fb536d70e7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cf87e287b8eb633fdf3128877b9863aceecce881eb0e215caca0e98addcd568d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "532679c952ffeacaf3f3c682",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_shelley_the_last_man_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 532679c952ffeacaf3f3c682\noriginal_word_count: 450\n\nPassage:\nLay down your arms, fellow men! brethren! Pardon, succour, and brotherly love await your repentance. You are dear to us, because you wear the frail shape of humanity; each one among you will find a friend and host among these forces. Shall man be the enemy of man, while plague, the foe to all, even now is above us, triumphing in our butchery, more cruel than her own?”\n\nEach army paused. On our side the soldiers grasped their arms firmly, and looked with stern glances on the foe. These had not thrown down their weapons, more from fear than the spirit of contest; they looked at each other, each wishing to follow some example given him,—but they had no leader. Adrian threw himself from his horse, and approaching one of those just slain: “He was a man,” he cried, “and he is dead. O quickly bind up the wounds of the fallen—let not one die; let not one more soul escape through your merciless gashes, to relate before the throne of God the tale of fratricide; bind up their wounds—restore them to their friends. Cast away the hearts of tigers that burn in your breasts; throw down those tools of cruelty and hate; in this pause of exterminating destiny, let each man be brother, guardian, and stay to the other. Away with those blood-stained arms, and hasten some of you to bind up these wounds.”\n\nAs he spoke, he knelt on the ground, and raised in his arms a man from whose side the warm tide of life gushed—the poor wretch gasped—so still had either host become, that his moans were distinctly heard, and every heart, late fiercely bent on universal massacre, now beat anxiously in hope and fear for the fate of this one man. Adrian tore off his military scarf and bound it round the sufferer—it was too late—the man heaved a deep sigh, his head fell back, his limbs lost their sustaining power.— “He is dead!” said Adrian, as the corpse fell from his arms on the ground, and he bowed his head in sorrow and awe. The fate of the world seemed bound up in the death of this single man. On either side the bands threw down their arms, even the veterans wept, and our party held out their hands to their foes, while a gush of love and deepest amity filled every heart. The two forces mingling, unarmed and hand in hand, talking only how each might assist the other, the adversaries conjoined; each repenting, the one side their former cruelties, the other their late violence, they obeyed the orders of the General to proceed towards London."
+      },
+      "request_id": "532679c952ffeacaf3f3c682",
+      "request_sha256": "8a3d975858db318ab19e8e98597ab41be17cbc6ed8d2454349a18e53e465322e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "405ae8f81229c700e115dacb484a3e08ad25f77713d24cda17fedb4b0172d2a7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "18b1e2ffe737eb3e3ffb4a9f",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 534,
+      "passage_id": "V2_austen_pride_and_prejudice_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 18b1e2ffe737eb3e3ffb4a9f\noriginal_word_count: 534\n\nPassage:\nOn that head, therefore, I shall be uniformly silent: and you may assure yourself that no ungenerous reproach shall ever pass my lips when we are married.”\n\nIt was absolutely necessary to interrupt him now.\n\n“You are too hasty, sir,” she cried. “You forget that I have made no answer. Let me do it without further loss of time. Accept my thanks for the compliment you are paying me. I am very sensible of the honour of your proposals, but it is impossible for me to do otherwise than decline them.”\n\n“I am not now to learn,” replied Mr. Collins, with a formal wave of the hand, “that it is usual with young ladies to reject the addresses of the man whom they secretly mean to accept, when he first applies for their favour; and that sometimes the refusal is repeated a second or even a third time. I am, therefore, by no means discouraged by what you have just said, and shall hope to lead you to the altar ere long.”\n\n“Upon my word, sir,” cried Elizabeth, “your hope is rather an extraordinary one after my declaration. I do assure you that I am not one of those young ladies (if such young ladies there are) who are so daring as to risk their happiness on the chance of being asked a second time. I am perfectly serious in my refusal. You could not make _me_ happy, and I am convinced that I am the last woman in the world who would make _you_ so. Nay, were your friend Lady Catherine to know me, I am persuaded she would find me in every respect ill qualified for the situation.”\n\n“Were it certain that Lady Catherine would think so,” said Mr. Collins, very gravely--“but I cannot imagine that her Ladyship would at all disapprove of you. And you may be certain that when I have the honour of seeing her again I shall speak in the highest terms of your modesty, economy, and other amiable qualifications.”\n\n“Indeed, Mr. Collins, all praise of me will be unnecessary. You must give me leave to judge for myself, and pay me the compliment of believing what I say. I wish you very happy and very rich, and by refusing your hand, do all in my power to prevent your being otherwise. In making me the offer, you must have satisfied the delicacy of your feelings with regard to my family, and may take possession of Longbourn estate whenever it falls, without any self-reproach. This matter may be considered, therefore, as finally settled.” And rising as she thus spoke, she would have quitted the room, had not Mr. Collins thus addressed her,--\n\n“When I do myself the honour of speaking to you next on the subject, I shall hope to receive a more favourable answer than you have now given me; though I am far from accusing you of cruelty at present, because I know it to be the established custom of your sex to reject a man on the first application, and, perhaps, you have even now said as much to encourage my suit as would be consistent with the true delicacy of the female character.”"
+      },
+      "request_id": "18b1e2ffe737eb3e3ffb4a9f",
+      "request_sha256": "871567ad9a4b551198c8d531f4d389c311f27dcf57116cf6186c645a6dff2999",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bf69cb1fcc08e7484263f277ed0ff37d139c87f0391dbbb6279c89986e673eca"
+    }
+  ],
+  "session_id": "01a0e848-1788-74e3-94b7-8185fb822a0f",
+  "worker_id": "astra_m",
+  "worker_identity_sha256": "a661c68b1db9c5e5d4a06cab3427b000d00cd4134df771893194ef71da9b6fed"
+}

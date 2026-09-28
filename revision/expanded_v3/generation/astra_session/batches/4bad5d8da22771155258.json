@@ -1,0 +1,68 @@
+{
+  "batch_id": "4bad5d8da22771155258",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:12:22.873028+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9dbf6e942fe8e3405605babd",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 517,
+      "passage_id": "V2_shelley_the_last_man_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 9dbf6e942fe8e3405605babd\noriginal_word_count: 517\n\nPassage:\nThese deputies had been dispatched by them to Adrian, who had been selected arbiter; and they had journied from Paris to Calais, through the vacant towns and desolate country, indulging the while violent hatred against each other; and now they pleaded their several causes with unmitigated party-spirit.\n\nBy examining the deputies apart, and after much investigation, we learnt the true state of things at Paris. Since parliament had elected him Ryland’s deputy, all the surviving English had submitted to Adrian. He was our captain to lead us from our native soil to unknown lands, our lawgiver and our preserver. On the first arrangement of our scheme of emigration, no continued separation of our members was contemplated, and the command of the whole body in gradual ascent of power had its apex in the Earl of Windsor. But unforeseen circumstances changed our plans for us, and occasioned the greater part of our numbers to be divided for the space of nearly two months, from the supreme chief. They had gone over in two distinct bodies; and on their arrival at Paris dissension arose between them.\n\nThey had found Paris a desert. When first the plague had appeared, the return of travellers and merchants, and communications by letter, informed us regularly of the ravages made by disease on the continent. But with the encreased mortality this intercourse declined and ceased. Even in England itself communication from one part of the island to the other became slow and rare. No vessel stemmed the flood that divided Calais from Dover; or if some melancholy voyager, wishing to assure himself of the life or death of his relatives, put from the French shore to return among us, often the greedy ocean swallowed his little craft, or after a day or two he was infected by the disorder, and died before he could tell the tale of the desolation of France. We were therefore to a great degree ignorant of the state of things on the continent, and were not without some vague hope of finding numerous companions in its wide track. But the same causes that had so fearfully diminished the English nation had had even greater scope for mischief in the sister land. France was a blank; during the long line of road from Calais to Paris not one human being was found. In Paris there were a few, perhaps a hundred, who, resigned to their coming fate, flitted about the streets of the capital and assembled to converse of past times, with that vivacity and even gaiety that seldom deserts the individuals of this nation.\n\nThe English took uncontested possession of Paris. Its high houses and narrow streets were lifeless. A few pale figures were to be distinguished at the accustomed resort at the Tuileries; they wondered wherefore the islanders should approach their ill-fated city—for in the excess of wretchedness, the sufferers always imagine, that their part of the calamity is the bitterest, as, when enduring intense pain, we would exchange the particular torture we writhe under, for any other which should visit a different part of the frame."
+      },
+      "request_id": "9dbf6e942fe8e3405605babd",
+      "request_sha256": "6259d149d14899ab827f85349ffa1061fa72dd026ab6b9d49403d2b79b996a8a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ce290739289afadf7b9143235b69acd9ffbdb4772a9f7f6a19ae79a9129ebf40"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9f152120d7622709c4fb66a4",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_wilde_dorian_gray_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 9f152120d7622709c4fb66a4\noriginal_word_count: 450\n\nPassage:\n“Basil, this is extraordinary! I must see Dorian Gray.”\n\nHallward got up from the seat and walked up and down the garden. After some time he came back. “Harry,” he said, “Dorian Gray is to me simply a motive in art. You might see nothing in him. I see everything in him. He is never more present in my work than when no image of him is there. He is a suggestion, as I have said, of a new manner. I find him in the curves of certain lines, in the loveliness and subtleties of certain colours. That is all.”\n\n“Then why won’t you exhibit his portrait?” asked Lord Henry.\n\n“Because, without intending it, I have put into it some expression of all this curious artistic idolatry, of which, of course, I have never cared to speak to him. He knows nothing about it. He shall never know anything about it. But the world might guess it, and I will not bare my soul to their shallow prying eyes. My heart shall never be put under their microscope. There is too much of myself in the thing, Harry—too much of myself!”\n\n“Poets are not so scrupulous as you are. They know how useful passion is for publication. Nowadays a broken heart will run to many editions.”\n\n“I hate them for it,” cried Hallward. “An artist should create beautiful things, but should put nothing of his own life into them. We live in an age when men treat art as if it were meant to be a form of autobiography. We have lost the abstract sense of beauty. Some day I will show the world what it is; and for that reason the world shall never see my portrait of Dorian Gray.”\n\n“I think you are wrong, Basil, but I won’t argue with you. It is only the intellectually lost who ever argue. Tell me, is Dorian Gray very fond of you?”\n\nThe painter considered for a few moments. “He likes me,” he answered after a pause; “I know he likes me. Of course I flatter him dreadfully. I find a strange pleasure in saying things to him that I know I shall be sorry for having said. As a rule, he is charming to me, and we sit in the studio and talk of a thousand things. Now and then, however, he is horribly thoughtless, and seems to take a real delight in giving me pain. Then I feel, Harry, that I have given away my whole soul to some one who treats it as if it were a flower to put in his coat, a bit of decoration to charm his vanity, an ornament for a summer’s day.”"
+      },
+      "request_id": "9f152120d7622709c4fb66a4",
+      "request_sha256": "b33bd9b3f43c006089fedd545ba0013ed35661eb2e71a1d530890c6b909b4bf4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "186d9cd0e304e15d23e4c4fb0dba6dfad2e7f54c0af488ecaf64d68c10d3accd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "02836b86ad1a58691fdacd6d",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 509,
+      "passage_id": "V2_poe_hans_pfaal_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 02836b86ad1a58691fdacd6d\noriginal_word_count: 509\n\nPassage:\n“April 19th. This morning, to my great joy, about nine o’clock, the surface of the moon being frightfully near, and my apprehensions excited to the utmost, the pump of my condenser at length gave evident tokens of an alteration in the atmosphere. By ten, I had reason to believe its density considerably increased. By eleven, very little labor was necessary at the apparatus; and at twelve o’clock, with some hesitation, I ventured to unscrew the tourniquet, when, finding no inconvenience from having done so, I finally threw open the gum-elastic chamber, and unrigged it from around the car. As might have been expected, spasms and violent headache were the immediate consequences of an experiment so precipitate and full of danger. But these and other difficulties attending respiration, as they were by no means so great as to put me in peril of my life, I determined to endure as I best could, in consideration of my leaving them behind me momently in my approach to the denser strata near the moon. This approach, however, was still impetuous in the extreme; and it soon became alarmingly certain that, although I had probably not been deceived in the expectation of an atmosphere dense in proportion to the mass of the satellite, still I had been wrong in supposing this density, even at the surface, at all adequate to the support of the great weight contained in the car of my balloon. Yet this should have been the case, and in an equal degree as at the surface of the earth, the actual gravity of bodies at either planet supposed in the ratio of the atmospheric condensation. That it was not the case, however, my precipitous downfall gave testimony enough; why it was not so, can only be explained by a reference to those possible geological disturbances to which I have formerly alluded. At all events I was now close upon the planet, and coming down with the most terrible impetuosity. I lost not a moment, accordingly, in throwing overboard first my ballast, then my water-kegs, then my condensing apparatus and gum-elastic chamber, and finally every article within the car. But it was all to no purpose. I still fell with horrible rapidity, and was now not more than half a mile from the surface. As a last resource, therefore, having got rid of my coat, hat, and boots, I cut loose from the balloon the car itself, which was of no inconsiderable weight, and thus, clinging with both hands to the net-work, I had barely time to observe that the whole country, as far as the eye could reach, was thickly interspersed with diminutive habitations, ere I tumbled headlong into the very heart of a fantastical-looking city, and into the middle of a vast crowd of ugly little people, who none of them uttered a single syllable, or gave themselves the least trouble to render me assistance, but stood, like a parcel of idiots, grinning in a ludicrous manner, and eyeing me and my balloon askant, with their arms set a-kimbo."
+      },
+      "request_id": "02836b86ad1a58691fdacd6d",
+      "request_sha256": "84378fe0c5f5fc8c61137644f40b5971212d5d2eff0911d94877eb54f2c18dc8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7c2d571d1c70481157ecbc4d3bce0914cf7d5099ff96a0ec4638dd0bfd9fe7b7"
+    }
+  ],
+  "session_id": "01a0e857-2390-7df1-8f12-e929ca6daadc",
+  "worker_id": "astra_q",
+  "worker_identity_sha256": "3f3cf345f62afb6b7770530219536cddba6b09ed2bde9eacd0dc8a411ac176e1"
+}

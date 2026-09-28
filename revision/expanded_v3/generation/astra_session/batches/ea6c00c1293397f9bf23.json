@@ -1,0 +1,68 @@
+{
+  "batch_id": "ea6c00c1293397f9bf23",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:57:59.650391+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "106faf54bfe3b01e9fbdaa24",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 469,
+      "passage_id": "V2_poe_hans_pfaal_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 106faf54bfe3b01e9fbdaa24\noriginal_word_count: 469\n\nPassage:\nThe body of the little man was more than proportionately broad, giving to his entire figure a rotundity highly absurd. His feet, of course, could not be seen at all, although a horny substance of suspicious nature was occasionally protruded through a rent in the bottom of the car, or to speak more properly, in the top of the hat. His hands were enormously large. His hair was extremely gray, and collected into a queue behind. His nose was prodigiously long, crooked, and inflammatory; his eyes full, brilliant, and acute; his chin and cheeks, although wrinkled with age, were broad, puffy, and double; but of ears of any kind or character there was not a semblance to be discovered upon any portion of his head. This odd little gentleman was dressed in a loose surtout of sky-blue satin, with tight breeches to match, fastened with silver buckles at the knees. His vest was of some bright yellow material; a white taffety cap was set jauntily on one side of his head; and, to complete his equipment, a blood-red silk handkerchief enveloped his throat, and fell down, in a dainty manner, upon his bosom, in a fantastic bow-knot of super-eminent dimensions.\n\nHaving descended, as I said before, to about one hundred feet from the surface of the earth, the little old gentleman was suddenly seized with a fit of trepidation, and appeared disinclined to make any nearer approach to terra firma. Throwing out, therefore, a quantity of sand from a canvas bag, which, he lifted with great difficulty, he became stationary in an instant. He then proceeded, in a hurried and agitated manner, to extract from a side-pocket in his surtout a large morocco pocket-book. This he poised suspiciously in his hand, then eyed it with an air of extreme surprise, and was evidently astonished at its weight. He at length opened it, and drawing there from a huge letter sealed with red sealing-wax and tied carefully with red tape, let it fall precisely at the feet of the burgomaster, Superbus Von Underduk. His Excellency stooped to take it up. But the aeronaut, still greatly discomposed, and having apparently no farther business to detain him in Rotterdam, began at this moment to make busy preparations for departure; and it being necessary to discharge a portion of ballast to enable him to reascend, the half dozen bags which he threw out, one after another, without taking the trouble to empty their contents, tumbled, every one of them, most unfortunately upon the back of the burgomaster, and rolled him over and over no less than one-and-twenty times, in the face of every man in Rotterdam. It is not to be supposed, however, that the great Underduk suffered this impertinence on the part of the little old man to pass off with impunity."
+      },
+      "request_id": "106faf54bfe3b01e9fbdaa24",
+      "request_sha256": "ab6ce913e113f3dc872bc36400ed58b142e8763332a48c349fef472b365b9133",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "661ed9215ebafc911fa051bbaea119eda77f71b9218c490ca0b73c2f194686b9"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "cde48bc6c3ac55e7d2dd457c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: cde48bc6c3ac55e7d2dd457c\noriginal_word_count: 460\n\nPassage:\n_PS._—Do tell me about the bows. Jennings insists they are the fashion.\n\nLord Arthur looked so serious and unhappy over the letter, that the Duchess went into fits of laughter.\n\n‘My dear Arthur,’ she cried, ‘I shall never show you a young lady’s letter again! But what shall I say about the clock? I think it is a capital invention, and I should like to have one myself.’\n\n‘I don’t think much of them,’ said Lord Arthur, with a sad smile, and, after kissing his mother, he left the room.\n\nWhen he got upstairs, he flung himself on a sofa, and his eyes filled with tears. He had done his best to commit this murder, but on both occasions he had failed, and through no fault of his own. He had tried to do his duty, but it seemed as if Destiny herself had turned traitor. He was oppressed with the sense of the barrenness of good intentions, of the futility of trying to be fine. Perhaps, it would be better to break off the marriage altogether. Sybil would suffer, it is true, but suffering could not really mar a nature so noble as hers. As for himself, what did it matter? There is always some war in which a man can die, some cause to which a man can give his life, and as life had no pleasure for him, so death had no terror. Let Destiny work out his doom. He would not stir to help her.\n\nAt half-past seven he dressed, and went down to the club. Surbiton was there with a party of young men, and he was obliged to dine with them. Their trivial conversation and idle jests did not interest him, and as soon as coffee was brought he left them, inventing some engagement in order to get away. As he was going out of the club, the hall-porter handed him a letter. It was from Herr Winckelkopf, asking him to call down the next evening, and look at an explosive umbrella, that went off as soon as it was opened. It was the very latest invention, and had just arrived from Geneva. He tore the letter up into fragments. He had made up his mind not to try any more experiments. Then he wandered down to the Thames Embankment, and sat for hours by the river. The moon peered through a mane of tawny clouds, as if it were a lion’s eye, and innumerable stars spangled the hollow vault, like gold dust powdered on a purple dome. Now and then a barge swung out into the turbid stream, and floated away with the tide, and the railway signals changed from green to scarlet as the trains ran shrieking across the bridge."
+      },
+      "request_id": "cde48bc6c3ac55e7d2dd457c",
+      "request_sha256": "e31d1dfa3a5b1d2cc602828591ca65446a31898bfa7f3345ebcb09a0ee45a1a2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6874677e23e5c98c69f9ae4f285d75a859e74ab4a018e851f0395e20ccc74a92"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "20c24e90d3fcf77cac4542e5",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 535,
+      "passage_id": "V2_austen_emma_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 20c24e90d3fcf77cac4542e5\noriginal_word_count: 535\n\nPassage:\n“I wish we had a donkey. The thing would be for us all to come on donkeys, Jane, Miss Bates, and me—and my caro sposo walking by. I really must talk to him about purchasing a donkey. In a country life I conceive it to be a sort of necessary; for, let a woman have ever so many resources, it is not possible for her to be always shut up at home;—and very long walks, you know—in summer there is dust, and in winter there is dirt.”\n\n“You will not find either, between Donwell and Highbury. Donwell Lane is never dusty, and now it is perfectly dry. Come on a donkey, however, if you prefer it. You can borrow Mrs. Cole’s. I would wish every thing to be as much to your taste as possible.”\n\n“That I am sure you would. Indeed I do you justice, my good friend. Under that peculiar sort of dry, blunt manner, I know you have the warmest heart. As I tell Mr. E., you are a thorough humourist.—Yes, believe me, Knightley, I am fully sensible of your attention to me in the whole of this scheme. You have hit upon the very thing to please me.”\n\nMr. Knightley had another reason for avoiding a table in the shade. He wished to persuade Mr. Woodhouse, as well as Emma, to join the party; and he knew that to have any of them sitting down out of doors to eat would inevitably make him ill. Mr. Woodhouse must not, under the specious pretence of a morning drive, and an hour or two spent at Donwell, be tempted away to his misery.\n\nHe was invited on good faith. No lurking horrors were to upbraid him for his easy credulity. He did consent. He had not been at Donwell for two years. “Some very fine morning, he, and Emma, and Harriet, could go very well; and he could sit still with Mrs. Weston, while the dear girls walked about the gardens. He did not suppose they could be damp now, in the middle of the day. He should like to see the old house again exceedingly, and should be very happy to meet Mr. and Mrs. Elton, and any other of his neighbours.—He could not see any objection at all to his, and Emma’s, and Harriet’s going there some very fine morning. He thought it very well done of Mr. Knightley to invite them—very kind and sensible—much cleverer than dining out.—He was not fond of dining out.”\n\nMr. Knightley was fortunate in every body’s most ready concurrence. The invitation was everywhere so well received, that it seemed as if, like Mrs. Elton, they were all taking the scheme as a particular compliment to themselves.—Emma and Harriet professed very high expectations of pleasure from it; and Mr. Weston, unasked, promised to get Frank over to join them, if possible; a proof of approbation and gratitude which could have been dispensed with.—Mr. Knightley was then obliged to say that he should be glad to see him; and Mr. Weston engaged to lose no time in writing, and spare no arguments to induce him to come."
+      },
+      "request_id": "20c24e90d3fcf77cac4542e5",
+      "request_sha256": "2a85ca56f7a580b2e216e4197fe1d2a3995c270b21a6fe80c91e6373d49364a1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1f636a151c7ebbcbd31e5a16923933732befbab4486aa1f906363b23674a4444"
+    }
+  ],
+  "session_id": "01a0e848-1788-74e3-94b7-8185fb822a0f",
+  "worker_id": "astra_m",
+  "worker_identity_sha256": "a661c68b1db9c5e5d4a06cab3427b000d00cd4134df771893194ef71da9b6fed"
+}

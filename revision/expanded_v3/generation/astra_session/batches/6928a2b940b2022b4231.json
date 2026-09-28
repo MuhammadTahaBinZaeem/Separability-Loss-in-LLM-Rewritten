@@ -1,0 +1,68 @@
+{
+  "batch_id": "6928a2b940b2022b4231",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:43:13.150365+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "12df6497eb6a97fcce85a8c7",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_dickens_oliver_twist_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 12df6497eb6a97fcce85a8c7\noriginal_word_count: 453\n\nPassage:\nMaster Charles Bates, appalled by Sikes’s crime, fell into a train of reflection whether an honest life was not, after all, the best. Arriving at the conclusion that it certainly was, he turned his back upon the scenes of the past, resolved to amend it in some new sphere of action. He struggled hard, and suffered much, for some time; but, having a contented disposition, and a good purpose, succeeded in the end; and, from being a farmer’s drudge, and a carrier’s lad, he is now the merriest young grazier in all Northamptonshire.\n\nAnd now, the hand that traces these words, falters, as it approaches the conclusion of its task; and would weave, for a little longer space, the thread of these adventures.\n\nI would fain linger yet with a few of those among whom I have so long moved, and share their happiness by endeavouring to depict it. I would show Rose Maylie in all the bloom and grace of early womanhood, shedding on her secluded path in life soft and gentle light, that fell on all who trod it with her, and shone into their hearts. I would paint her the life and joy of the fire-side circle and the lively summer group; I would follow her through the sultry fields at noon, and hear the low tones of her sweet voice in the moonlit evening walk; I would watch her in all her goodness and charity abroad, and the smiling untiring discharge of domestic duties at home; I would paint her and her dead sister’s child happy in their love for one another, and passing whole hours together in picturing the friends whom they had so sadly lost; I would summon before me, once again, those joyous little faces that clustered round her knee, and listen to their merry prattle; I would recall the tones of that clear laugh, and conjure up the sympathising tear that glistened in the soft blue eye. These, and a thousand looks and smiles, and turns of thought and speech—I would fain recall them every one.\n\nHow Mr. Brownlow went on, from day to day, filling the mind of his adopted child with stores of knowledge, and becoming attached to him, more and more, as his nature developed itself, and showed the thriving seeds of all he wished him to become—how he traced in him new traits of his early friend, that awakened in his own bosom old remembrances, melancholy and yet sweet and soothing—how the two orphans, tried by adversity, remembered its lessons in mercy to others, and mutual love, and fervent thanks to Him who had protected and preserved them—these are all matters which need not to be told."
+      },
+      "request_id": "12df6497eb6a97fcce85a8c7",
+      "request_sha256": "6399d9e91b0100c4d31386126b2e3a374755410835fd0d92aeacd8eec819baaa",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1cd1cb7f07d128f484d0f84b1e93dfd2759e7e81f2bd388b80a85a881d34bfbb"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "eb2dd10025bc3e589ac1a420",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_twain_connecticut_yankee_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: eb2dd10025bc3e589ac1a420\noriginal_word_count: 473\n\nPassage:\nIf I can't live on that, I sha'n't ask anybody to give me a lift. Is it satisfactory?”\n\nThere was a prodigious roar of applause, and out of the midst of it the king's voice rose, saying:\n\n“Away with his bonds, and set him free! and do him homage, high and low, rich and poor, for he is become the king's right hand, is clothed with power and authority, and his seat is upon the highest step of the throne! Now sweep away this creeping night, and bring the light and cheer again, that all the world may bless thee.”\n\nBut I said:\n\n“That a common man should be shamed before the world, is nothing; but it were dishonor to the _king_ if any that saw his minister naked should not also see him delivered from his shame. If I might ask that my clothes be brought again--”\n\n“They are not meet,” the king broke in. “Fetch raiment of another sort; clothe him like a prince!”\n\nMy idea worked. I wanted to keep things as they were till the eclipse was total, otherwise they would be trying again to get me to dismiss the darkness, and of course I couldn't do it. Sending for the clothes gained some delay, but not enough. So I had to make another excuse. I said it would be but natural if the king should change his mind and repent to some extent of what he had done under excitement; therefore I would let the darkness grow a while, and if at the end of a reasonable time the king had kept his mind the same, the darkness should be dismissed. Neither the king nor anybody else was satisfied with that arrangement, but I had to stick to my point.\n\nIt grew darker and darker and blacker and blacker, while I struggled with those awkward sixth-century clothes. It got to be pitch dark, at last, and the multitude groaned with horror to feel the cold uncanny night breezes fan through the place and see the stars come out and twinkle in the sky. At last the eclipse was total, and I was very glad of it, but everybody else was in misery; which was quite natural. I said:\n\n“The king, by his silence, still stands to the terms.” Then I lifted up my hands--stood just so a moment--then I said, with the most awful solemnity: “Let the enchantment dissolve and pass harmless away!”\n\nThere was no response, for a moment, in that deep darkness and that graveyard hush. But when the silver rim of the sun pushed itself out, a moment or two later, the assemblage broke loose with a vast shout and came pouring down like a deluge to smother me with blessings and gratitude; and Clarence was not the last of the wash, to be sure."
+      },
+      "request_id": "eb2dd10025bc3e589ac1a420",
+      "request_sha256": "7226dde826b62031565a725d0eb7df55f4a535827cca6b951b14b069094e36a2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bf3eecb87b6b3608e5d2105d20a75b5e73247ee832cf7a7a92f78291d0b9212c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "460bca10952226c44d16423a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 484,
+      "passage_id": "V2_shelley_mathilda_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 460bca10952226c44d16423a\noriginal_word_count: 484\n\nPassage:\nThus I passed two years. Day after day so many hundreds wore on; they brought no outward changes with them, but some few slowly operated on my mind as I glided on towards death. I began to study more; to sympathize more in the thoughts of others as expressed in books; to read history, and to lose my individuallity among the crowd that had existed before me. Thus perhaps as the sensation of immediate suffering wore off, I became more human. Solitude also lost to me some of its charms: I began again to wish for sympathy; not that I was ever tempted to seek the crowd, but I wished for one friend to love me. You will say perhaps that I gradually became fitted to return to society. I do not think so. For the sympathy that I desired must be so pure, so divested of influence from outward circumstances that in the world I could not fail of being balked by the gross materials that perpetually mingle even with its best feelings. Believe me, I was then less fitted for any communion with my fellow creatures than before. When I left them they had tormented me but it was in the same way as pain and sickness may torment; somthing extraneous to the mind that galled it, and that I wished to cast aside. But now I should have desired sympathy; I should wish to knit my soul to some one of theirs, and should have prepared for myself plentiful draughts of disappointment and suffering; for I was tender as the sensitive plant, all nerve. I did not desire sympathy and aid in ambition or wisdom, but sweet and mutual affection; smiles to cheer me and gentle words of comfort. I wished for one heart in which I could pour unrestrained my plaints, and by the heavenly nature of the soil blessed fruit might spring from such bad seed. Yet how could I find this? The love that is the soul of friendship is a soft spirit seldom found except when two amiable creatures are knit from early youth, or when bound by mutual suffering and pursuits; it comes to some of the elect unsought and unaware; it descends as gentle dew on chosen spots which however barren they were before become under its benign influence fertile in all sweet plants; but when desired it flies; it scoffs at the prayers of its votaries; it will bestow, but not be sought.\n\nI knew all this and did not go to seek sympathy; but there on my solitary heath, under my lowly roof where all around was desart, it came to me as a sun beam in winter to adorn while it helps to dissolve the drifted snow.--Alas the sun shone on blighted fruit; I did not revive under its radiance for I was too utterly undone to feel its kindly power."
+      },
+      "request_id": "460bca10952226c44d16423a",
+      "request_sha256": "b8533760adf0cdc1c04e67833fb6bfcfdc8d6c427e559ba6ae628b5376c0fed9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "00f42c2c1ade70f7a77e13be530c6cf696d317f1eea8632ac8e2d148377bb04f"
+    }
+  ],
+  "session_id": "01a0e870-b3dc-74f3-b9ee-b27dbd5dd892",
+  "worker_id": "astra_x",
+  "worker_identity_sha256": "7c3a0144cf89773a3dc35b850a0bd602d9bf1a04c8ed1e402a69d4a4892146a6"
+}

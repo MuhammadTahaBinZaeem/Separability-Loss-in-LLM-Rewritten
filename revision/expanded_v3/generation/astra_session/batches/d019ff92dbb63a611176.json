@@ -1,0 +1,68 @@
+{
+  "batch_id": "d019ff92dbb63a611176",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:15:31.264227+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ab4bbc55a961f03b873b3d4a",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_poe_murders_rue_morgue_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: ab4bbc55a961f03b873b3d4a\noriginal_word_count: 451\n\nPassage:\nHe then bowed and departed. Did not see any person in the street at the time. It is a by-street—very lonely.\n\n“_William Bird_, tailor deposes that he was one of the party who entered the house. Is an Englishman. Has lived in Paris two years. Was one of the first to ascend the stairs. Heard the voices in contention. The gruff voice was that of a Frenchman. Could make out several words, but cannot now remember all. Heard distinctly ‘_sacré_’ and ‘_mon Dieu._’ There was a sound at the moment as if of several persons struggling—a scraping and scuffling sound. The shrill voice was very loud—louder than the gruff one. Is sure that it was not the voice of an Englishman. Appeared to be that of a German. Might have been a woman’s voice. Does not understand German.\n\n“Four of the above-named witnesses, being recalled, deposed that the door of the chamber in which was found the body of Mademoiselle L. was locked on the inside when the party reached it. Every thing was perfectly silent—no groans or noises of any kind. Upon forcing the door no person was seen. The windows, both of the back and front room, were down and firmly fastened from within. A door between the two rooms was closed, but not locked. The door leading from the front room into the passage was locked, with the key on the inside. A small room in the front of the house, on the fourth story, at the head of the passage was open, the door being ajar. This room was crowded with old beds, boxes, and so forth. These were carefully removed and searched. There was not an inch of any portion of the house which was not carefully searched. Sweeps were sent up and down the chimneys. The house was a four story one, with garrets (_mansardes._) A trap-door on the roof was nailed down very securely—did not appear to have been opened for years. The time elapsing between the hearing of the voices in contention and the breaking open of the room door, was variously stated by the witnesses. Some made it as short as three minutes—some as long as five. The door was opened with difficulty.\n\n“_Alfonzo Garcio_, undertaker, deposes that he resides in the Rue Morgue. Is a native of Spain. Was one of the party who entered the house. Did not proceed up stairs. Is nervous, and was apprehensive of the consequences of agitation. Heard the voices in contention. The gruff voice was that of a Frenchman. Could not distinguish what was said. The shrill voice was that of an Englishman—is sure of this."
+      },
+      "request_id": "ab4bbc55a961f03b873b3d4a",
+      "request_sha256": "9298b0a1311b95c1cb68dffdef23b328eeb0f0cf008619b507a2b09e106db326",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "16fb8b6ad4d8fdb0dca1bcbd987562d57d7cd1f8b2cb4b83b7dd4776f3641b06"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ca5a471b1a4ef545001e6de5",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_shelley_mathilda_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: ca5a471b1a4ef545001e6de5\noriginal_word_count: 454\n\nPassage:\nI now come to my own story. During the early part of my life there is little to relate, and I will be brief; but I must be allowed to dwell a little on the years of my childhood that it may be apparent how when one hope failed all life was to be a blank; and how when the only affection I was permitted to cherish was blasted my existence was extinguished with it.\n\nI have said that my aunt was very unlike my father. I believe that without the slightest tinge of a bad heart she had the coldest that ever filled a human breast: it was totally incapable of any affection. She took me under her protection because she considered it her duty; but she had too long lived alone and undisturbed by the noise and prattle of children to allow that I should disturb her quiet. She had never been married; and for the last five years had lived perfectly alone on an estate, that had descended to her through her mother, on the shores of Loch Lomond in Scotland. My father had expressed a wish in his letters that she should reside with me at his family mansion which was situated in a beautiful country near Richmond in Yorkshire. She would not consent to this proposition, but as soon as she had arranged the affairs which her brother’s departure had caused to fall to her care, she quitted England and took me with her to her scotch estate.\n\nThe care of me while a baby, and afterwards untill I had reached my eighth year devolved on a servant of my mother’s, who had accompanied us in our retirement for that purpose. I was placed in a remote part of the house, and only saw my aunt at stated hours. These occurred twice a day; once about noon she came to my nursery, and once after her dinner I was taken to her. She never caressed me, and seemed all the time I staid in the room to fear that I should annoy her by some childish freak. My good nurse always schooled me with the greatest care before she ventured into the parlour--and the awe my aunt’s cold looks and few constrained words inspired was so great that I seldom disgraced her lessons or was betrayed from the exemplary stillness which I was taught to observe during these short visits.\n\nUnder my good nurse’s care I ran wild about our park and the neighbouring fields. The offspring of the deepest love I displayed from my earliest years the greatest sensibility of disposition. I cannot say with what passion I loved every thing even the inanimate objects that surrounded me."
+      },
+      "request_id": "ca5a471b1a4ef545001e6de5",
+      "request_sha256": "8ec1c0f133c0941217dce8d020afa961a53eaa57c620afb197246dc502dba437",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "dcead9256aa960766d80d59104afd1f60c16eed0081477184af48fcc0e3b5512"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0cf3ec092671c9a209947212",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_wilde_dorian_gray_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 0cf3ec092671c9a209947212\noriginal_word_count: 455\n\nPassage:\nHe shivered and went back, closing the window behind him.\n\nHaving reached the door, he turned the key and opened it. He did not even glance at the murdered man. He felt that the secret of the whole thing was not to realize the situation. The friend who had painted the fatal portrait to which all his misery had been due had gone out of his life. That was enough.\n\nThen he remembered the lamp. It was a rather curious one of Moorish workmanship, made of dull silver inlaid with arabesques of burnished steel, and studded with coarse turquoises. Perhaps it might be missed by his servant, and questions would be asked. He hesitated for a moment, then he turned back and took it from the table. He could not help seeing the dead thing. How still it was! How horribly white the long hands looked! It was like a dreadful wax image.\n\nHaving locked the door behind him, he crept quietly downstairs. The woodwork creaked and seemed to cry out as if in pain. He stopped several times and waited. No: everything was still. It was merely the sound of his own footsteps.\n\nWhen he reached the library, he saw the bag and coat in the corner. They must be hidden away somewhere. He unlocked a secret press that was in the wainscoting, a press in which he kept his own curious disguises, and put them into it. He could easily burn them afterwards. Then he pulled out his watch. It was twenty minutes to two.\n\nHe sat down and began to think. Every year—every month, almost—men were strangled in England for what he had done. There had been a madness of murder in the air. Some red star had come too close to the earth.... And yet, what evidence was there against him? Basil Hallward had left the house at eleven. No one had seen him come in again. Most of the servants were at Selby Royal. His valet had gone to bed.... Paris! Yes. It was to Paris that Basil had gone, and by the midnight train, as he had intended. With his curious reserved habits, it would be months before any suspicions would be roused. Months! Everything could be destroyed long before then.\n\nA sudden thought struck him. He put on his fur coat and hat and went out into the hall. There he paused, hearing the slow heavy tread of the policeman on the pavement outside and seeing the flash of the bull’s-eye reflected in the window. He waited and held his breath.\n\nAfter a few moments he drew back the latch and slipped out, shutting the door very gently behind him. Then he began ringing the bell."
+      },
+      "request_id": "0cf3ec092671c9a209947212",
+      "request_sha256": "e545a0795d8d70c6f131581ff48899a6e8f2068c20a6595ef25e40ad0820a86e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "39da1a280f19cb2dab7cf7dcdf80f25667c963d9090d9cac8546d16028022b40"
+    }
+  ],
+  "session_id": "01a0e857-2390-7df1-8f12-e929ca6daadc",
+  "worker_id": "astra_q",
+  "worker_identity_sha256": "3f3cf345f62afb6b7770530219536cddba6b09ed2bde9eacd0dc8a411ac176e1"
+}

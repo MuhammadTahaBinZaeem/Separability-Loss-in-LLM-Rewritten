@@ -1,12 +1,12 @@
 {
-  "accounted": 162,
-  "accounting_complete": false,
+  "accounted": 1080,
+  "accounting_complete": true,
   "api_comparison_eligible": false,
   "expected": 1080,
   "fail": 0,
-  "missing": 918,
+  "missing": 0,
   "model_key": "astra_session",
-  "parsed_sha256": "48040346e0b3fc4a27defec98f2e0a435033a6a8ccae41dbac6b758f5efd6d0d",
+  "parsed_sha256": "0ccd39ffac60baa08037cc2f0cdfb597e8e04027266d3972f8ec321e5ca77eab",
   "review_complete": false,
-  "valid_outputs": 162
+  "valid_outputs": 1080
 }

@@ -1,0 +1,68 @@
+{
+  "batch_id": "2ff6e0ac4bc4e20b46a7",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:46:10.958840+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0f41a74673010878948d473d",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_twain_connecticut_yankee_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 0f41a74673010878948d473d\noriginal_word_count: 465\n\nPassage:\nI ran and took her in my arms, and lavished caresses upon her and said, beseechingly:\n\n“Speak, darling, speak! What is it?”\n\nHer head fell limp upon my bosom, and she gasped, almost inaudibly:\n\n“HELLO-CENTRAL!”\n\n“Quick!” I shouted to Clarence; “telephone the king's homeopath to come!”\n\nIn two minutes I was kneeling by the child's crib, and Sandy was dispatching servants here, there, and everywhere, all over the palace. I took in the situation almost at a glance--membranous croup! I bent down and whispered:\n\n“Wake up, sweetheart! Hello-Central.”\n\nShe opened her soft eyes languidly, and made out to say:\n\n“Papa.”\n\nThat was a comfort. She was far from dead yet. I sent for preparations of sulphur, I rousted out the croup-kettle myself; for I don't sit down and wait for doctors when Sandy or the child is sick. I knew how to nurse both of them, and had had experience. This little chap had lived in my arms a good part of its small life, and often I could soothe away its troubles and get it to laugh through the tear-dews on its eye-lashes when even its mother couldn't.\n\nSir Launcelot, in his richest armor, came striding along the great hall now on his way to the stock-board; he was president of the stock-board, and occupied the Siege Perilous, which he had bought of Sir Galahad; for the stock-board consisted of the Knights of the Round Table, and they used the Round Table for business purposes now. Seats at it were worth--well, you would never believe the figure, so it is no use to state it. Sir Launcelot was a bear, and he had put up a corner in one of the new lines, and was just getting ready to squeeze the shorts to-day; but what of that? He was the same old Launcelot, and when he glanced in as he was passing the door and found out that his pet was sick, that was enough for him; bulls and bears might fight it out their own way for all him, he would come right in here and stand by little Hello-Central for all he was worth. And that was what he did. He shied his helmet into the corner, and in half a minute he had a new wick in the alcohol lamp and was firing up on the croup-kettle. By this time Sandy had built a blanket canopy over the crib, and everything was ready.\n\nSir Launcelot got up steam, he and I loaded up the kettle with unslaked lime and carbolic acid, with a touch of lactic acid added thereto, then filled the thing up with water and inserted the steam-spout under the canopy. Everything was ship-shape now, and we sat down on either side of the crib to stand our watch."
+      },
+      "request_id": "0f41a74673010878948d473d",
+      "request_sha256": "e4d96d9ed18089f73f6056a60c9c51c11ada609f0dfcc4f1f6ed4bc881675414",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2f2b8efaf98d13e397bb22f6632907fcc010c5503d9db9aa0a2075074112c54b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "62b8ee1912d90b5b5d56d7c5",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_poe_murders_rue_morgue_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 62b8ee1912d90b5b5d56d7c5\noriginal_word_count: 452\n\nPassage:\nOn the hearth were two or three long and thick tresses of grey human hair, also dabbled in blood, and seeming to have been pulled out by the roots. Upon the floor were found four Napoleons, an ear-ring of topaz, three large silver spoons, three smaller of _métal d’Alger_, and two bags, containing nearly four thousand francs in gold. The drawers of a _bureau_, which stood in one corner were open, and had been, apparently, rifled, although many articles still remained in them. A small iron safe was discovered under the _bed_ (not under the bedstead). It was open, with the key still in the door. It had no contents beyond a few old letters, and other papers of little consequence.\n\n“Of Madame L’Espanaye no traces were here seen; but an unusual quantity of soot being observed in the fire-place, a search was made in the chimney, and (horrible to relate!) the corpse of the daughter, head downward, was dragged therefrom; it having been thus forced up the narrow aperture for a considerable distance. The body was quite warm. Upon examining it, many excoriations were perceived, no doubt occasioned by the violence with which it had been thrust up and disengaged. Upon the face were many severe scratches, and, upon the throat, dark bruises, and deep indentations of finger nails, as if the deceased had been throttled to death.\n\n“After a thorough investigation of every portion of the house, without farther discovery, the party made its way into a small paved yard in the rear of the building, where lay the corpse of the old lady, with her throat so entirely cut that, upon an attempt to raise her, the head fell off. The body, as well as the head, was fearfully mutilated—the former so much so as scarcely to retain any semblance of humanity.\n\n“To this horrible mystery there is not as yet, we believe, the slightest clew.”\n\nThe next day’s paper had these additional particulars.\n\n“_The Tragedy in the Rue Morgue._—Many individuals have been examined in relation to this most extraordinary and frightful affair” [The word ‘affaire’ has not yet, in France, that levity of import which it conveys with us], “but nothing whatever has transpired to throw light upon it. We give below all the material testimony elicited.\n\n“_Pauline Dubourg_, laundress, deposes that she has known both the deceased for three years, having washed for them during that period. The old lady and her daughter seemed on good terms—very affectionate towards each other. They were excellent pay. Could not speak in regard to their mode or means of living. Believed that Madame L. told fortunes for a living. Was reputed to have money put by."
+      },
+      "request_id": "62b8ee1912d90b5b5d56d7c5",
+      "request_sha256": "1a4fd278c2003f50ff2e079544d1c8a85cdf1bcae63a62598f8d4f1bfa885693",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "edfbf35c412db13b15409709d2db58f00413689b358e713fc8c046ed799231fa"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0d7955dece675c23f6ad590d",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_wilde_dorian_gray_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 0d7955dece675c23f6ad590d\noriginal_word_count: 464\n\nPassage:\nHe jumped up and seized her roughly by the arm. “Show him to me. Which is he? Point him out. I must see him!” he exclaimed; but at that moment the Duke of Berwick’s four-in-hand came between, and when it had left the space clear, the carriage had swept out of the park.\n\n“He is gone,” murmured Sibyl sadly. “I wish you had seen him.”\n\n“I wish I had, for as sure as there is a God in heaven, if he ever does you any wrong, I shall kill him.”\n\nShe looked at him in horror. He repeated his words. They cut the air like a dagger. The people round began to gape. A lady standing close to her tittered.\n\n“Come away, Jim; come away,” she whispered. He followed her doggedly as she passed through the crowd. He felt glad at what he had said.\n\nWhen they reached the Achilles Statue, she turned round. There was pity in her eyes that became laughter on her lips. She shook her head at him. “You are foolish, Jim, utterly foolish; a bad-tempered boy, that is all. How can you say such horrible things? You don’t know what you are talking about. You are simply jealous and unkind. Ah! I wish you would fall in love. Love makes people good, and what you said was wicked.”\n\n“I am sixteen,” he answered, “and I know what I am about. Mother is no help to you. She doesn’t understand how to look after you. I wish now that I was not going to Australia at all. I have a great mind to chuck the whole thing up. I would, if my articles hadn’t been signed.”\n\n“Oh, don’t be so serious, Jim. You are like one of the heroes of those silly melodramas Mother used to be so fond of acting in. I am not going to quarrel with you. I have seen him, and oh! to see him is perfect happiness. We won’t quarrel. I know you would never harm any one I love, would you?”\n\n“Not as long as you love him, I suppose,” was the sullen answer.\n\n“I shall love him for ever!” she cried.\n\n“And he?”\n\n“For ever, too!”\n\n“He had better.”\n\nShe shrank from him. Then she laughed and put her hand on his arm. He was merely a boy.\n\nAt the Marble Arch they hailed an omnibus, which left them close to their shabby home in the Euston Road. It was after five o’clock, and Sibyl had to lie down for a couple of hours before acting. Jim insisted that she should do so. He said that he would sooner part with her when their mother was not present. She would be sure to make a scene, and he detested scenes of every kind."
+      },
+      "request_id": "0d7955dece675c23f6ad590d",
+      "request_sha256": "df546b42baff72fdf95184153a593880735c5ff94f0ba7cec032d9c27c459797",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ddc94823911f71e607473fd69d6683244b4310c34be82c31c6baf0884df41774"
+    }
+  ],
+  "session_id": "01a0e87a-db7a-7303-aca7-ee81da6c50ba",
+  "worker_id": "astra_aa",
+  "worker_identity_sha256": "f89346b92865e535f8532245987e03b9bf1204ea8d86eb06bb80af193eb55d71"
+}

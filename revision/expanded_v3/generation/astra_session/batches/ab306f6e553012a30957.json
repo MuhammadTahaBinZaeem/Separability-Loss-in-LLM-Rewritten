@@ -1,0 +1,68 @@
+{
+  "batch_id": "ab306f6e553012a30957",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:30:11.197136+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5aaf4793efbda75cfa2c97f7",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_austen_pride_and_prejudice_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 5aaf4793efbda75cfa2c97f7\noriginal_word_count: 459\n\nPassage:\nMr. Wickham was so perfectly satisfied with this conversation, that he never again distressed himself, or provoked his dear sister Elizabeth, by introducing the subject of it; and she was pleased to find that she had said enough to keep him quiet.\n\nThe day of his and Lydia’s departure soon came; and Mrs. Bennet was forced to submit to a separation, which, as her husband by no means entered into her scheme of their all going to Newcastle, was likely to continue at least a twelvemonth.\n\n“Oh, my dear Lydia,” she cried, “when shall we meet again?”\n\n“Oh, Lord! I don’t know. Not these two or three years, perhaps.”\n\n“Write to me very often, my dear.”\n\n“As often as I can. But you know married women have never much time for writing. My sisters may write to _me_. They will have nothing else to do.”\n\nMr. Wickham’s adieus were much more affectionate than his wife’s. He smiled, looked handsome, and said many pretty things.\n\n“He is as fine a fellow,” said Mr. Bennet, as soon as they were out of the house, “as ever I saw. He simpers, and smirks, and makes love to us all. I am prodigiously proud of him. I defy even Sir William Lucas himself to produce a more valuable son-in-law.”\n\nThe loss of her daughter made Mrs. Bennet very dull for several days.\n\n“I often think,” said she, “that there is nothing so bad as parting with one’s friends. One seems so forlorn without them.”\n\n“This is the consequence, you see, madam, of marrying a daughter,” said Elizabeth. “It must make you better satisfied that your other four are single.”\n\n“It is no such thing. Lydia does not leave me because she is married; but only because her husband’s regiment happens to be so far off. If that had been nearer, she would not have gone so soon.”\n\nBut the spiritless condition which this event threw her into was shortly relieved, and her mind opened again to the agitation of hope, by an article of news which then began to be in circulation. The housekeeper at Netherfield had received orders to prepare for the arrival of her master, who was coming down in a day or two, to shoot there for several weeks. Mrs. Bennet was quite in the fidgets. She looked at Jane, and smiled, and shook her head, by turns.\n\n“Well, well, and so Mr. Bingley is coming down, sister,” (for Mrs. Philips first brought her the news). “Well, so much the better. Not that I care about it, though. He is nothing to us, you know, and I am sure I never want to see him again. But, however, he is very welcome to come to Netherfield, if he likes it."
+      },
+      "request_id": "5aaf4793efbda75cfa2c97f7",
+      "request_sha256": "6f4f0ce10f05dd9ac7c6a6d37f6ce5cd0bad8f15f07eb25d67fe7bf4e5f84e72",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a261286aa5c02548c6911e949923225d27fd05fd18e7836b154afccdbc260f36"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "947f5254f6e9f801b613ce51",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_poe_murders_rue_morgue_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 947f5254f6e9f801b613ce51\noriginal_word_count: 451\n\nPassage:\nHe then bowed and departed. Did not see any person in the street at the time. It is a by-street—very lonely.\n\n“_William Bird_, tailor deposes that he was one of the party who entered the house. Is an Englishman. Has lived in Paris two years. Was one of the first to ascend the stairs. Heard the voices in contention. The gruff voice was that of a Frenchman. Could make out several words, but cannot now remember all. Heard distinctly ‘_sacré_’ and ‘_mon Dieu._’ There was a sound at the moment as if of several persons struggling—a scraping and scuffling sound. The shrill voice was very loud—louder than the gruff one. Is sure that it was not the voice of an Englishman. Appeared to be that of a German. Might have been a woman’s voice. Does not understand German.\n\n“Four of the above-named witnesses, being recalled, deposed that the door of the chamber in which was found the body of Mademoiselle L. was locked on the inside when the party reached it. Every thing was perfectly silent—no groans or noises of any kind. Upon forcing the door no person was seen. The windows, both of the back and front room, were down and firmly fastened from within. A door between the two rooms was closed, but not locked. The door leading from the front room into the passage was locked, with the key on the inside. A small room in the front of the house, on the fourth story, at the head of the passage was open, the door being ajar. This room was crowded with old beds, boxes, and so forth. These were carefully removed and searched. There was not an inch of any portion of the house which was not carefully searched. Sweeps were sent up and down the chimneys. The house was a four story one, with garrets (_mansardes._) A trap-door on the roof was nailed down very securely—did not appear to have been opened for years. The time elapsing between the hearing of the voices in contention and the breaking open of the room door, was variously stated by the witnesses. Some made it as short as three minutes—some as long as five. The door was opened with difficulty.\n\n“_Alfonzo Garcio_, undertaker, deposes that he resides in the Rue Morgue. Is a native of Spain. Was one of the party who entered the house. Did not proceed up stairs. Is nervous, and was apprehensive of the consequences of agitation. Heard the voices in contention. The gruff voice was that of a Frenchman. Could not distinguish what was said. The shrill voice was that of an Englishman—is sure of this."
+      },
+      "request_id": "947f5254f6e9f801b613ce51",
+      "request_sha256": "af70a4c44c607fa876d69d36fe8479c893371969c43e73e52ba1ea6fca72b6f1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "16fb8b6ad4d8fdb0dca1bcbd987562d57d7cd1f8b2cb4b83b7dd4776f3641b06"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6a9f01758bb36d602d6f5856",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_poe_murders_rue_morgue_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 6a9f01758bb36d602d6f5856\noriginal_word_count: 465\n\nPassage:\nObserving him in these moods, I often dwelt meditatively upon the old philosophy of the Bi-Part Soul, and amused myself with the fancy of a double Dupin—the creative and the resolvent.\n\nLet it not be supposed, from what I have just said, that I am detailing any mystery, or penning any romance. What I have described in the Frenchman, was merely the result of an excited, or perhaps of a diseased intelligence. But of the character of his remarks at the periods in question an example will best convey the idea.\n\nWe were strolling one night down a long dirty street in the vicinity of the Palais Royal. Being both, apparently, occupied with thought, neither of us had spoken a syllable for fifteen minutes at least. All at once Dupin broke forth with these words:\n\n“He is a very little fellow, that’s true, and would do better for the _Théâtre des Variétés_.”\n\n“There can be no doubt of that,” I replied unwittingly, and not at first observing (so much had I been absorbed in reflection) the extraordinary manner in which the speaker had chimed in with my meditations. In an instant afterward I recollected myself, and my astonishment was profound.\n\n“Dupin,” said I, gravely, “this is beyond my comprehension. I do not hesitate to say that I am amazed, and can scarcely credit my senses. How was it possible you should know I was thinking of ——?” Here I paused, to ascertain beyond a doubt whether he really knew of whom I thought.\n\n“—— of Chantilly,” said he, “why do you pause? You were remarking to yourself that his diminutive figure unfitted him for tragedy.”\n\nThis was precisely what had formed the subject of my reflections. Chantilly was a _quondam_ cobbler of the Rue St. Denis, who, becoming stage-mad, had attempted the _rôle_ of Xerxes, in Crébillon’s tragedy so called, and been notoriously Pasquinaded for his pains.\n\n“Tell me, for Heaven’s sake,” I exclaimed, “the method—if method there is—by which you have been enabled to fathom my soul in this matter.” In fact I was even more startled than I would have been willing to express.\n\n“It was the fruiterer,” replied my friend, “who brought you to the conclusion that the mender of soles was not of sufficient height for Xerxes _et id genus omne_.”\n\n“The fruiterer!—you astonish me—I know no fruiterer whomsoever.”\n\n“The man who ran up against you as we entered the street—it may have been fifteen minutes ago.”\n\nI now remembered that, in fact, a fruiterer, carrying upon his head a large basket of apples, had nearly thrown me down, by accident, as we passed from the Rue C—— into the thoroughfare where we stood; but what this had to do with Chantilly I could not possibly understand."
+      },
+      "request_id": "6a9f01758bb36d602d6f5856",
+      "request_sha256": "840d7cd5d8cabebd572a82dd446214f3fbf0a6a7df83ea8f2b70f0c12829ed07",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "17bd420701472ed5ef586ed865261f765fb43518c729afaeb5472f9de4c2f5f6"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

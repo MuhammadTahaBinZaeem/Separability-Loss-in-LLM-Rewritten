@@ -1,0 +1,68 @@
+{
+  "batch_id": "5f05b05bc8975cc9ed58",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:00:58.206394+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "47634f0dd83544d4d4699dd4",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_twain_huckleberry_finn_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 47634f0dd83544d4d4699dd4\noriginal_word_count: 459\n\nPassage:\nWell, three or four months run along, and it was well into the winter now. I had been to school most all the time and could spell and read and write just a little, and could say the multiplication table up to six times seven is thirty-five, and I don’t reckon I could ever get any further than that if I was to live forever. I don’t take no stock in mathematics, anyway.\n\nAt first I hated the school, but by-and-by I got so I could stand it. Whenever I got uncommon tired I played hookey, and the hiding I got next day done me good and cheered me up. So the longer I went to school the easier it got to be. I was getting sort of used to the widow’s ways, too, and they warn’t so raspy on me. Living in a house and sleeping in a bed pulled on me pretty tight mostly, but before the cold weather I used to slide out and sleep in the woods sometimes, and so that was a rest to me. I liked the old ways best, but I was getting so I liked the new ones, too, a little bit. The widow said I was coming along slow but sure, and doing very satisfactory. She said she warn’t ashamed of me.\n\nOne morning I happened to turn over the salt-cellar at breakfast. I reached for some of it as quick as I could to throw over my left shoulder and keep off the bad luck, but Miss Watson was in ahead of me, and crossed me off. She says, “Take your hands away, Huckleberry; what a mess you are always making!” The widow put in a good word for me, but that warn’t going to keep off the bad luck, I knowed that well enough. I started out, after breakfast, feeling worried and shaky, and wondering where it was going to fall on me, and what it was going to be. There is ways to keep off some kinds of bad luck, but this wasn’t one of them kind; so I never tried to do anything, but just poked along low-spirited and on the watch-out.\n\nI went down to the front garden and clumb over the stile where you go through the high board fence. There was an inch of new snow on the ground, and I seen somebody’s tracks. They had come up from the quarry and stood around the stile a while, and then went on around the garden fence. It was funny they hadn’t come in, after standing around so. I couldn’t make it out. It was very curious, somehow. I was going to follow around, but I stooped down to look at the tracks first."
+      },
+      "request_id": "47634f0dd83544d4d4699dd4",
+      "request_sha256": "0c0c49e856051f80e3cfdebe419d466b7e59700946547212b48d83f61c31715c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2ce1a9bfa67b900970e368028ff6d62855ac842b969628c5de66ae2b3d5b0a94"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5e63d535cdb2bd370352795c",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_wilde_canterville_ghost_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 5e63d535cdb2bd370352795c\noriginal_word_count: 456\n\nPassage:\nPoor Jack was afterwards shot in a duel by Lord Canterville on Wandsworth Common, and Lady Barbara died of a broken heart at Tunbridge Wells before the year was out, so, in every way, it had been a great success. It was, however, an extremely difficult ‘make-up,’ if I may use such a theatrical expression in connection with one of the greatest mysteries of the supernatural, or, to employ a more scientific term, the higher-natural world, and it took him fully three hours to make his preparations. At last everything was ready, and he was very pleased with his appearance. The big leather riding-boots that went with the dress were just a little too large for him, and he could only find one of the two horse-pistols, but, on the whole, he was quite satisfied, and at a quarter past one he glided out of the wainscoting and crept down the corridor. On reaching the room occupied by the twins, which I should mention was called the Blue Bed Chamber, on account of the colour of its hangings, he found the door just ajar. Wishing to make an effective entrance, he flung it wide open, when a heavy jug of water fell right down on him, wetting him to the skin, and just missing his left shoulder by a couple of inches. At the same moment he heard stifled shrieks of laughter proceeding from the four-post bed. The shock to his nervous system was so great that he fled back to his room as hard as he could go, and the next day he was laid up with a severe cold. The only thing that at all consoled him in the whole affair was the fact that he had not brought his head with him, for, had he done so, the consequences might have been very serious.\n\nHe now gave up all hope of ever frightening this rude American family, and contented himself, as a rule, with creeping about the passages in list slippers, with a thick red muffler round his throat for fear of draughts, and a small arquebuse, in case he should be attacked by the twins. The final blow he received occurred on the 19th of September. He had gone downstairs to the great entrance-hall, feeling sure that there, at any rate, he would be quite unmolested, and was amusing himself by making satirical remarks on the large Saroni photographs of the United States Minister and his wife, which had now taken the place of the Canterville family pictures. He was simply but neatly clad in a long shroud, spotted with churchyard mould, had tied up his jaw with a strip of yellow linen, and carried a small lantern and a sexton’s spade."
+      },
+      "request_id": "5e63d535cdb2bd370352795c",
+      "request_sha256": "54057a1ee658cebb9dc16ed27352ff8dc604f4c1706da44ee764303dc2ed76e6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0ed275703d9dbc5b33ff2b4d22cc0a17e79381f83ce31e81903ae1498fd93cda"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "927518e0cf68ea130f15cfd9",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_wilde_dorian_gray_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 927518e0cf68ea130f15cfd9\noriginal_word_count: 450\n\nPassage:\nThis marriage is quite right. I did not think so at first, but I admit it now. The gods made Sibyl Vane for you. Without her you would have been incomplete.”\n\n“Thanks, Basil,” answered Dorian Gray, pressing his hand. “I knew that you would understand me. Harry is so cynical, he terrifies me. But here is the orchestra. It is quite dreadful, but it only lasts for about five minutes. Then the curtain rises, and you will see the girl to whom I am going to give all my life, to whom I have given everything that is good in me.”\n\nA quarter of an hour afterwards, amidst an extraordinary turmoil of applause, Sibyl Vane stepped on to the stage. Yes, she was certainly lovely to look at—one of the loveliest creatures, Lord Henry thought, that he had ever seen. There was something of the fawn in her shy grace and startled eyes. A faint blush, like the shadow of a rose in a mirror of silver, came to her cheeks as she glanced at the crowded enthusiastic house. She stepped back a few paces and her lips seemed to tremble. Basil Hallward leaped to his feet and began to applaud. Motionless, and as one in a dream, sat Dorian Gray, gazing at her. Lord Henry peered through his glasses, murmuring, “Charming! charming!”\n\nThe scene was the hall of Capulet’s house, and Romeo in his pilgrim’s dress had entered with Mercutio and his other friends. The band, such as it was, struck up a few bars of music, and the dance began. Through the crowd of ungainly, shabbily dressed actors, Sibyl Vane moved like a creature from a finer world. Her body swayed, while she danced, as a plant sways in the water. The curves of her throat were the curves of a white lily. Her hands seemed to be made of cool ivory.\n\nYet she was curiously listless. She showed no sign of joy when her eyes rested on Romeo. The few words she had to speak—\n\nGood pilgrim, you do wrong your hand too much, Which mannerly devotion shows in this; For saints have hands that pilgrims’ hands do touch, And palm to palm is holy palmers’ kiss—\n\nwith the brief dialogue that follows, were spoken in a thoroughly artificial manner. The voice was exquisite, but from the point of view of tone it was absolutely false. It was wrong in colour. It took away all the life from the verse. It made the passion unreal.\n\nDorian Gray grew pale as he watched her. He was puzzled and anxious. Neither of his friends dared to say anything to him. She seemed to them to be absolutely incompetent."
+      },
+      "request_id": "927518e0cf68ea130f15cfd9",
+      "request_sha256": "4669529467a9cecb629dcee81e2af88af579b94679afc5c04c984bdd2a50173f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b947033921d3b810c5a8da5652bcf9048ea6f36521ab4ec345ad59508b45d530"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

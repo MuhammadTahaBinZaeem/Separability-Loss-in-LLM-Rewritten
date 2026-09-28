@@ -4,6 +4,7 @@ import json
 import threading
 from datetime import datetime, timedelta, timezone
 from http.server import ThreadingHTTPServer
+from pathlib import PureWindowsPath
 
 import pytest
 
@@ -48,6 +49,73 @@ def semantic_answers():
     return {"added_facts": "1", "omitted_facts": "0", "order_changed": "0", "relationships_changed": "0",
             "tone_drift": "1", "meaning_preservation": "3", "usable": "no",
             "notes": 'Synthetic test only: "claim", comma, newline\nUnicode café.'}
+
+
+def test_transferred_draft_resolves_only_explicit_root_without_changing_account(review_store):
+    session = review_store.create("source", "ai_assisted", "synthetic-ai")
+    original = review_store.assignment(session["id"])
+    local = review_store.export(session["id"])
+    previous = PureWindowsPath(r"C:\synthetic\study")
+    stored = str(previous.joinpath(*local.relative_to(review_store.research).parts))
+    with review_store.connect() as con:
+        con.execute("UPDATE assignments SET latest_export=? WHERE id=?", (stored, session["id"]))
+    with pytest.raises(ReviewError, match="outside private"):
+        review_store.export(session["id"])
+    before = review_store.assignment(session["id"])
+    write_json(review_store.private / "path_relocations.json", {"previous_research_roots": [str(previous)]})
+    assert review_store.export(session["id"]) == local
+    assert review_store.assignment(session["id"]) == before
+    assert before["token"] == original["token"]
+    assert review_store.status(session["id"])["latest_export"] == str(local.relative_to(review_store.research))
+
+
+def test_transferred_sealed_return_preserves_bytes_and_stored_paths(review_store):
+    session = review_store.create("source", "ai_assisted", "synthetic-ai")
+    for revision, iid in enumerate(["p0", "p1"]):
+        review_store.save(session["id"], iid, {"verdict": "pass", "notes": "Synthetic fixture only."}, revision)
+    review_store.seal(session["id"], 2)
+    local = review_store.export(session["id"])
+    before_hash = file_hash(local)
+    previous = PureWindowsPath(r"C:\synthetic\study")
+    stored = str(previous.joinpath(*local.relative_to(review_store.research).parts))
+    with review_store.connect() as con:
+        con.execute("UPDATE assignments SET latest_export=?,final_file=? WHERE id=?", (stored, stored, session["id"]))
+    before = review_store.assignment(session["id"])
+    write_json(review_store.private / "path_relocations.json", {"previous_research_roots": [str(previous)]})
+    assert review_store.export(session["id"]) == local
+    assert file_hash(local) == before_hash
+    assert review_store.assignment(session["id"]) == before
+
+
+def test_relocated_paths_reject_traversal_and_symlink_escape(review_store, tmp_path):
+    write_json(review_store.private / "path_relocations.json", {"previous_research_roots": [r"C:\synthetic\study"]})
+    with pytest.raises(ReviewError, match="escapes"):
+        review_store.recorded_path(r"C:\synthetic\study\..\outside.txt")
+    (review_store.research / "outside").symlink_to(tmp_path, target_is_directory=True)
+    with pytest.raises(ReviewError, match="escapes"):
+        review_store.recorded_path(r"C:\synthetic\study\outside\arbitrary.txt")
+
+
+def test_transferred_account_links_preserve_ownership_and_deduplicate_locations(review_store, tmp_path):
+    from research_v2.review_batches import ReviewRouter
+    parent = review_store.create("source", "human", "synthetic-source")
+    child_store = ReviewStore(tmp_path / "new_private", review_store.research)
+    child = child_store.create("source", "human", "synthetic-source")
+    other = child_store.create("semantic_A", "human", "synthetic-other")
+    previous = r"C:\synthetic\study"
+    link = {"from_research": previous, "from_session_id": parent["id"], "to_session_id": child["id"]}
+    write_json(child_store.private / "account_links.json", [link])
+    links_hash = file_hash(child_store.private / "account_links.json")
+    router = ReviewRouter([("Previous", review_store), ("Follow-up", child_store)])
+    token = review_store.assignment(parent["id"])["token"]
+    assert len(router.authenticate(token)["assignments"]) == 1
+    write_json(review_store.private / "path_relocations.json", {"previous_research_roots": [previous]})
+    write_jsonl(child_store.private / "account_link_additions.jsonl", [{**link, "from_research": str(review_store.research)}])
+    principal = router.authenticate(token)
+    assert principal["session_id"] == child["id"] and len(principal["assignments"]) == 2
+    with pytest.raises(ReviewError):
+        router.authorize(principal, other["id"])
+    assert file_hash(child_store.private / "account_links.json") == links_hash
 
 
 def test_source_save_is_canonical_resumable_and_revision_safe(review_store):

@@ -1,0 +1,68 @@
+{
+  "batch_id": "c55c0c0dfdd8b06f32f1",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:22:26.345420+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "463b699fd50ea85ed3b346f2",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 483,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 463b699fd50ea85ed3b346f2\noriginal_word_count: 483\n\nPassage:\n“Is that all? It is not a great deal, that! Many are under the displeasure of the Republic, and must look out at the little window. Jarvis Lorry. Banker. English. Which is he?”\n\n“I am he. Necessarily, being the last.”\n\nIt is Jarvis Lorry who has replied to all the previous questions. It is Jarvis Lorry who has alighted and stands with his hand on the coach door, replying to a group of officials. They leisurely walk round the carriage and leisurely mount the box, to look at what little luggage it carries on the roof; the country-people hanging about, press nearer to the coach doors and greedily stare in; a little child, carried by its mother, has its short arm held out for it, that it may touch the wife of an aristocrat who has gone to the Guillotine.\n\n“Behold your papers, Jarvis Lorry, countersigned.”\n\n“One can depart, citizen?”\n\n“One can depart. Forward, my postilions! A good journey!”\n\n“I salute you, citizens.--And the first danger passed!”\n\nThese are again the words of Jarvis Lorry, as he clasps his hands, and looks upward. There is terror in the carriage, there is weeping, there is the heavy breathing of the insensible traveller.\n\n“Are we not going too slowly? Can they not be induced to go faster?” asks Lucie, clinging to the old man.\n\n“It would seem like flight, my darling. I must not urge them too much; it would rouse suspicion.”\n\n“Look back, look back, and see if we are pursued!”\n\n“The road is clear, my dearest. So far, we are not pursued.”\n\nHouses in twos and threes pass by us, solitary farms, ruinous buildings, dye-works, tanneries, and the like, open country, avenues of leafless trees. The hard uneven pavement is under us, the soft deep mud is on either side. Sometimes, we strike into the skirting mud, to avoid the stones that clatter us and shake us; sometimes, we stick in ruts and sloughs there. The agony of our impatience is then so great, that in our wild alarm and hurry we are for getting out and running--hiding--doing anything but stopping.\n\nOut of the open country, in again among ruinous buildings, solitary farms, dye-works, tanneries, and the like, cottages in twos and threes, avenues of leafless trees. Have these men deceived us, and taken us back by another road? Is not this the same place twice over? Thank Heaven, no. A village. Look back, look back, and see if we are pursued! Hush! the posting-house.\n\nLeisurely, our four horses are taken out; leisurely, the coach stands in the little street, bereft of horses, and with no likelihood upon it of ever moving again; leisurely, the new horses come into visible existence, one by one; leisurely, the new postilions follow, sucking and plaiting the lashes of their whips; leisurely, the old postilions count their money, make wrong additions, and arrive at dissatisfied results."
+      },
+      "request_id": "463b699fd50ea85ed3b346f2",
+      "request_sha256": "ce37a244b566bb58c846da3ffd3f23606173ddbb9c3749202a065e70332d8cd1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d63dbfaec389b0de8e0154aaeb1031b99f0df85044241a407f494abd38e8ffa5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "03f6cd7f8e594836421ffb1e",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_dickens_great_expectations_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 03f6cd7f8e594836421ffb1e\noriginal_word_count: 453\n\nPassage:\nBiddy cried; the darkening garden, and the lane, and the stars that were coming out, were blurred in my own sight.\n\n“Nothing was ever discovered, Biddy?”\n\n“Nothing.”\n\n“Do you know what is become of Orlick?”\n\n“I should think from the colour of his clothes that he is working in the quarries.”\n\n“Of course you have seen him then?—Why are you looking at that dark tree in the lane?”\n\n“I saw him there, on the night she died.”\n\n“That was not the last time either, Biddy?”\n\n“No; I have seen him there, since we have been walking here.—It is of no use,” said Biddy, laying her hand upon my arm, as I was for running out, “you know I would not deceive you; he was not there a minute, and he is gone.”\n\nIt revived my utmost indignation to find that she was still pursued by this fellow, and I felt inveterate against him. I told her so, and told her that I would spend any money or take any pains to drive him out of that country. By degrees she led me into more temperate talk, and she told me how Joe loved me, and how Joe never complained of anything,—she didn’t say, of me; she had no need; I knew what she meant,—but ever did his duty in his way of life, with a strong hand, a quiet tongue, and a gentle heart.\n\n“Indeed, it would be hard to say too much for him,” said I; “and Biddy, we must often speak of these things, for of course I shall be often down here now. I am not going to leave poor Joe alone.”\n\nBiddy said never a single word.\n\n“Biddy, don’t you hear me?”\n\n“Yes, Mr. Pip.”\n\n“Not to mention your calling me Mr. Pip,—which appears to me to be in bad taste, Biddy,—what do you mean?”\n\n“What do I mean?” asked Biddy, timidly.\n\n“Biddy,” said I, in a virtuously self-asserting manner, “I must request to know what you mean by this?”\n\n“By this?” said Biddy.\n\n“Now, don’t echo,” I retorted. “You used not to echo, Biddy.”\n\n“Used not!” said Biddy. “O Mr. Pip! Used!”\n\nWell! I rather thought I would give up that point too. After another silent turn in the garden, I fell back on the main position.\n\n“Biddy,” said I, “I made a remark respecting my coming down here often, to see Joe, which you received with a marked silence. Have the goodness, Biddy, to tell me why.”\n\n“Are you quite sure, then, that you WILL come to see him often?” asked Biddy, stopping in the narrow garden walk, and looking at me under the stars with a clear and honest eye."
+      },
+      "request_id": "03f6cd7f8e594836421ffb1e",
+      "request_sha256": "9921cf477cbb87902613d62b2de4823a7f834eceaf0f18ee47e70e77d3e27fca",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fffc41c036edac8b03f8669904bd06b40b81a94ae53a1136bdec0861c4446a83"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7282a54910b405c706997125",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_persuasion_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 7282a54910b405c706997125\noriginal_word_count: 465\n\nPassage:\nShe left it all behind her, all but the recollection that such things had been.\n\nAnne had never entered Kellynch since her quitting Lady Russell’s house in September. It had not been necessary, and the few occasions of its being possible for her to go to the Hall she had contrived to evade and escape from. Her first return was to resume her place in the modern and elegant apartments of the Lodge, and to gladden the eyes of its mistress.\n\nThere was some anxiety mixed with Lady Russell’s joy in meeting her. She knew who had been frequenting Uppercross. But happily, either Anne was improved in plumpness and looks, or Lady Russell fancied her so; and Anne, in receiving her compliments on the occasion, had the amusement of connecting them with the silent admiration of her cousin, and of hoping that she was to be blessed with a second spring of youth and beauty.\n\nWhen they came to converse, she was soon sensible of some mental change. The subjects of which her heart had been full on leaving Kellynch, and which she had felt slighted, and been compelled to smother among the Musgroves, were now become but of secondary interest. She had lately lost sight even of her father and sister and Bath. Their concerns had been sunk under those of Uppercross; and when Lady Russell reverted to their former hopes and fears, and spoke her satisfaction in the house in Camden Place, which had been taken, and her regret that Mrs Clay should still be with them, Anne would have been ashamed to have it known how much more she was thinking of Lyme and Louisa Musgrove, and all her acquaintance there; how much more interesting to her was the home and the friendship of the Harvilles and Captain Benwick, than her own father’s house in Camden Place, or her own sister’s intimacy with Mrs Clay. She was actually forced to exert herself to meet Lady Russell with anything like the appearance of equal solicitude, on topics which had by nature the first claim on her.\n\nThere was a little awkwardness at first in their discourse on another subject. They must speak of the accident at Lyme. Lady Russell had not been arrived five minutes the day before, when a full account of the whole had burst on her; but still it must be talked of, she must make enquiries, she must regret the imprudence, lament the result, and Captain Wentworth’s name must be mentioned by both. Anne was conscious of not doing it so well as Lady Russell. She could not speak the name, and look straight forward to Lady Russell’s eye, till she had adopted the expedient of telling her briefly what she thought of the attachment between him and Louisa."
+      },
+      "request_id": "7282a54910b405c706997125",
+      "request_sha256": "72faff28cbd0f84ab85688d5fd2008d30644bb14e75e4ef72311e7b7148dc919",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "90204599da479fa28bf244dcc6929d67dd48b90f10866f2359835787a23ad793"
+    }
+  ],
+  "session_id": "01a0e85c-7f66-73c1-b91c-6413115a4ff4",
+  "worker_id": "astra_s",
+  "worker_identity_sha256": "17b5f2fab7368788746600871fd66c46b6c1c2ea93360ddace6823c5041f0625"
+}

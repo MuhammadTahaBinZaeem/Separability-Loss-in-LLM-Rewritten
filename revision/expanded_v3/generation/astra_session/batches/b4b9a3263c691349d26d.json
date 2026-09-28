@@ -1,0 +1,68 @@
+{
+  "batch_id": "b4b9a3263c691349d26d",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:03:00.695795+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c768f4fc3a45a5ce5a21517f",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_wilde_canterville_ghost_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: c768f4fc3a45a5ce5a21517f\noriginal_word_count: 452\n\nPassage:\nMr. Otis was a good deal distressed at Lord Canterville’s refusal, and begged him to reconsider his decision, but the good-natured peer was quite firm, and finally induced the Minister to allow his daughter to retain the present the ghost had given her, and when, in the spring of 1890, the young Duchess of Cheshire was presented at the Queen’s first drawing-room on the occasion of her marriage, her jewels were the universal theme of admiration. For Virginia received the coronet, which is the reward of all good little American girls, and was married to her boy-lover as soon as he came of age. They were both so charming, and they loved each other so much, that every one was delighted at the match, except the old Marchioness of Dumbleton, who had tried to catch the Duke for one of her seven unmarried daughters, and had given no less than three expensive dinner-parties for that purpose, and, strange to say, Mr. Otis himself. Mr. Otis was extremely fond of the young Duke personally, but, theoretically, he objected to titles, and, to use his own words, ‘was not without apprehension lest, amid the enervating influences of a pleasure-loving aristocracy, the true principles of republican simplicity should be forgotten.’ His objections, however, were completely overruled, and I believe that when he walked up the aisle of St. George’s, Hanover Square, with his daughter leaning on his arm, there was not a prouder man in the whole length and breadth of England.\n\nThe Duke and Duchess, after the honeymoon was over, went down to Canterville Chase, and on the day after their arrival they walked over in the afternoon to the lonely churchyard by the pine-woods. There had been a great deal of difficulty at first about the inscription on Sir Simon’s tombstone, but finally it had been decided to engrave on it simply the initials of the old gentleman’s name, and the verse from the library window. The Duchess had brought with her some lovely roses, which she strewed upon the grave, and after they had stood by it for some time they strolled into the ruined chancel of the old abbey. There the Duchess sat down on a fallen pillar, while her husband lay at her feet smoking a cigarette and looking up at her beautiful eyes. Suddenly he threw his cigarette away, took hold of her hand, and said to her, ‘Virginia, a wife should have no secrets from her husband.’\n\n‘Dear Cecil! I have no secrets from you.’\n\n‘Yes, you have,’ he answered, smiling, ‘you have never told me what happened to you when you were locked up with the ghost.’\n\n‘I have never told any one, Cecil,’ said Virginia gravely."
+      },
+      "request_id": "c768f4fc3a45a5ce5a21517f",
+      "request_sha256": "076f7b544e583ceebd0ec4301b878134fed70c482572af42c18a0c687cf03e49",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a3296ac5c9ac1842f9c4e2d85b6a69de444b69ed5e3ced769c4916779f13a79d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9aa35f6c1b3e5bff9357bb46",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_wilde_dorian_gray_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 9aa35f6c1b3e5bff9357bb46\noriginal_word_count: 450\n\nPassage:\n“Basil, this is extraordinary! I must see Dorian Gray.”\n\nHallward got up from the seat and walked up and down the garden. After some time he came back. “Harry,” he said, “Dorian Gray is to me simply a motive in art. You might see nothing in him. I see everything in him. He is never more present in my work than when no image of him is there. He is a suggestion, as I have said, of a new manner. I find him in the curves of certain lines, in the loveliness and subtleties of certain colours. That is all.”\n\n“Then why won’t you exhibit his portrait?” asked Lord Henry.\n\n“Because, without intending it, I have put into it some expression of all this curious artistic idolatry, of which, of course, I have never cared to speak to him. He knows nothing about it. He shall never know anything about it. But the world might guess it, and I will not bare my soul to their shallow prying eyes. My heart shall never be put under their microscope. There is too much of myself in the thing, Harry—too much of myself!”\n\n“Poets are not so scrupulous as you are. They know how useful passion is for publication. Nowadays a broken heart will run to many editions.”\n\n“I hate them for it,” cried Hallward. “An artist should create beautiful things, but should put nothing of his own life into them. We live in an age when men treat art as if it were meant to be a form of autobiography. We have lost the abstract sense of beauty. Some day I will show the world what it is; and for that reason the world shall never see my portrait of Dorian Gray.”\n\n“I think you are wrong, Basil, but I won’t argue with you. It is only the intellectually lost who ever argue. Tell me, is Dorian Gray very fond of you?”\n\nThe painter considered for a few moments. “He likes me,” he answered after a pause; “I know he likes me. Of course I flatter him dreadfully. I find a strange pleasure in saying things to him that I know I shall be sorry for having said. As a rule, he is charming to me, and we sit in the studio and talk of a thousand things. Now and then, however, he is horribly thoughtless, and seems to take a real delight in giving me pain. Then I feel, Harry, that I have given away my whole soul to some one who treats it as if it were a flower to put in his coat, a bit of decoration to charm his vanity, an ornament for a summer’s day.”"
+      },
+      "request_id": "9aa35f6c1b3e5bff9357bb46",
+      "request_sha256": "af45be12c78cf6b46183a9cd4e69c77cd09a85588370e8dc00240451c87c3a3b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "186d9cd0e304e15d23e4c4fb0dba6dfad2e7f54c0af488ecaf64d68c10d3accd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c50c004c481926b3550bf1a5",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_persuasion_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: c50c004c481926b3550bf1a5\noriginal_word_count: 461\n\nPassage:\n“You have not been long enough in Bath,” said he, “to enjoy the evening parties of the place.”\n\n“Oh! no. The usual character of them has nothing for me. I am no card-player.”\n\n“You were not formerly, I know. You did not use to like cards; but time makes many changes.”\n\n“I am not yet so much changed,” cried Anne, and stopped, fearing she hardly knew what misconstruction. After waiting a few moments he said, and as if it were the result of immediate feeling, “It is a period, indeed! Eight years and a half is a period.”\n\nWhether he would have proceeded farther was left to Anne’s imagination to ponder over in a calmer hour; for while still hearing the sounds he had uttered, she was startled to other subjects by Henrietta, eager to make use of the present leisure for getting out, and calling on her companions to lose no time, lest somebody else should come in.\n\nThey were obliged to move. Anne talked of being perfectly ready, and tried to look it; but she felt that could Henrietta have known the regret and reluctance of her heart in quitting that chair, in preparing to quit the room, she would have found, in all her own sensations for her cousin, in the very security of his affection, wherewith to pity her.\n\nTheir preparations, however, were stopped short. Alarming sounds were heard; other visitors approached, and the door was thrown open for Sir Walter and Miss Elliot, whose entrance seemed to give a general chill. Anne felt an instant oppression, and wherever she looked saw symptoms of the same. The comfort, the freedom, the gaiety of the room was over, hushed into cold composure, determined silence, or insipid talk, to meet the heartless elegance of her father and sister. How mortifying to feel that it was so!\n\nHer jealous eye was satisfied in one particular. Captain Wentworth was acknowledged again by each, by Elizabeth more graciously than before. She even addressed him once, and looked at him more than once. Elizabeth was, in fact, revolving a great measure. The sequel explained it. After the waste of a few minutes in saying the proper nothings, she began to give the invitation which was to comprise all the remaining dues of the Musgroves. “To-morrow evening, to meet a few friends: no formal party.” It was all said very gracefully, and the cards with which she had provided herself, the “Miss Elliot at home,” were laid on the table, with a courteous, comprehensive smile to all, and one smile and one card more decidedly for Captain Wentworth. The truth was, that Elizabeth had been long enough in Bath to understand the importance of a man of such an air and appearance as his."
+      },
+      "request_id": "c50c004c481926b3550bf1a5",
+      "request_sha256": "3292c5db8d5fc306e0253d29a94c9dde6aa777ead6dc750af9b3c2a827b169e8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2d9debeab93317e22608ea4b6f5f9c378f4e4bd2ee098361801ed047e54cb71b"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

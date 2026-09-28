@@ -1,0 +1,68 @@
+{
+  "batch_id": "8a968d4ebc82a1c7e4b9",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:49:14.281882+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2a946bacd1483004c51961ca",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_poe_murders_rue_morgue_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2a946bacd1483004c51961ca\noriginal_word_count: 453\n\nPassage:\nCould not be sure whether it was the voice of a man or of a woman. Could not make out what was said, but believed the language to be Spanish. The state of the room and of the bodies was described by this witness as we described them yesterday.\n\n“_Henri Duval_, a neighbor, and by trade a silver-smith, deposes that he was one of the party who first entered the house. Corroborates the testimony of Musèt in general. As soon as they forced an entrance, they reclosed the door, to keep out the crowd, which collected very fast, notwithstanding the lateness of the hour. The shrill voice, this witness thinks, was that of an Italian. Was certain it was not French. Could not be sure that it was a man’s voice. It might have been a woman’s. Was not acquainted with the Italian language. Could not distinguish the words, but was convinced by the intonation that the speaker was an Italian. Knew Madame L. and her daughter. Had conversed with both frequently. Was sure that the shrill voice was not that of either of the deceased.\n\n“——_Odenheimer, restaurateur._ This witness volunteered his testimony. Not speaking French, was examined through an interpreter. Is a native of Amsterdam. Was passing the house at the time of the shrieks. They lasted for several minutes—probably ten. They were long and loud—very awful and distressing. Was one of those who entered the building. Corroborated the previous evidence in every respect but one. Was sure that the shrill voice was that of a man—of a Frenchman. Could not distinguish the words uttered. They were loud and quick—unequal—spoken apparently in fear as well as in anger. The voice was harsh—not so much shrill as harsh. Could not call it a shrill voice. The gruff voice said repeatedly ‘_sacré_,’ ‘_diable_,’ and once ‘_mon Dieu._’\n\n“_Jules Mignaud_, banker, of the firm of Mignaud et Fils, Rue Deloraine. Is the elder Mignaud. Madame L’Espanaye had some property. Had opened an account with his banking house in the spring of the year—(eight years previously). Made frequent deposits in small sums. Had checked for nothing until the third day before her death, when she took out in person the sum of 4000 francs. This sum was paid in gold, and a clerk went home with the money.\n\n“_Adolphe Le Bon_, clerk to Mignaud et Fils, deposes that on the day in question, about noon, he accompanied Madame L’Espanaye to her residence with the 4000 francs, put up in two bags. Upon the door being opened, Mademoiselle L. appeared and took from his hands one of the bags, while the old lady relieved him of the other."
+      },
+      "request_id": "2a946bacd1483004c51961ca",
+      "request_sha256": "66d204476f80fed777cf6a1982165b7a5bf0fdb499810ee9d8c869257fac9684",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "87e552d288f114a59546682b70253f280f338a3e7ae9d0113532f5c352aed5cf"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "39ff3fb9f85615e93a2bd99d",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_shelley_the_last_man_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 39ff3fb9f85615e93a2bd99d\noriginal_word_count: 471\n\nPassage:\nHe mounted a fiery horse, that which had borne him forward to victory in Greece; he fatigued himself with deadening exercise, losing the pangs of a troubled mind in animal sensation.\n\nHe slowly recovered himself; yet, at last, as one might from the effects of poison, he lifted his head from above the vapours of fever and passion into the still atmosphere of calm reflection. He meditated on what was best to be done. He was first struck by the space of time that had elapsed, since madness, rather than any reasonable impulse, had regulated his actions. A month had gone by, and during that time he had not seen Evadne. Her power, which was linked to few of the enduring emotions of his heart, had greatly decayed. He was no longer her slave—no longer her lover: he would never see her more, and by the completeness of his return, deserve the confidence of Perdita.\n\nYet, as he thus determined, fancy conjured up the miserable abode of the Greek girl. An abode, which from noble and lofty principle, she had refused to exchange for one of greater luxury. He thought of the splendour of her situation and appearance when he first knew her; he thought of her life at Constantinople, attended by every circumstance of oriental magnificence; of her present penury, her daily task of industry, her lorn state, her faded, famine-struck cheek. Compassion swelled his breast; he would see her once again; he would devise some plan for restoring her to society, and the enjoyment of her rank; their separation would then follow, as a matter of course.\n\nAgain he thought, how during this long month, he had avoided Perdita, flying from her as from the stings of his own conscience. But he was awake now; all this should be remedied; and future devotion erase the memory of this only blot on the serenity of their life. He became cheerful, as he thought of this, and soberly and resolutely marked out the line of conduct he would adopt. He remembered that he had promised Perdita to be present this very evening (the 19th of October, anniversary of his election as Protector) at a festival given in his honour. Good augury should this festival be of the happiness of future years. First, he would look in on Evadne; he would not stay; but he owed her some account, some compensation for his long and unannounced absence; and then to Perdita, to the forgotten world, to the duties of society, the splendour of rank, the enjoyment of power.\n\nAfter the scene sketched in the preceding pages, Perdita had contemplated an entire change in the manners and conduct of Raymond. She expected freedom of communication, and a return to those habits of affectionate intercourse which had formed the delight of her life."
+      },
+      "request_id": "39ff3fb9f85615e93a2bd99d",
+      "request_sha256": "4545978eaf817515abaff1c644c196265e7c1da887fd83b1e087ee8fdf4bedcb",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "92c7f3df0bc7e34e1b216ce51c52494bf98c022128b6f0d3364333db916d9557"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "261f15c062ff931e37629e33",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_shelley_frankenstein_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 261f15c062ff931e37629e33\noriginal_word_count: 472\n\nPassage:\nI walked with a quick pace, and we soon arrived at my college. I then reflected, and the thought made me shiver, that the creature whom I had left in my apartment might still be there, alive and walking about. I dreaded to behold this monster, but I feared still more that Henry should see him. Entreating him, therefore, to remain a few minutes at the bottom of the stairs, I darted up towards my own room. My hand was already on the lock of the door before I recollected myself. I then paused, and a cold shivering came over me. I threw the door forcibly open, as children are accustomed to do when they expect a spectre to stand in waiting for them on the other side; but nothing appeared. I stepped fearfully in: the apartment was empty, and my bedroom was also freed from its hideous guest. I could hardly believe that so great a good fortune could have befallen me, but when I became assured that my enemy had indeed fled, I clapped my hands for joy and ran down to Clerval.\n\nWe ascended into my room, and the servant presently brought breakfast; but I was unable to contain myself. It was not joy only that possessed me; I felt my flesh tingle with excess of sensitiveness, and my pulse beat rapidly. I was unable to remain for a single instant in the same place; I jumped over the chairs, clapped my hands, and laughed aloud. Clerval at first attributed my unusual spirits to joy on his arrival, but when he observed me more attentively, he saw a wildness in my eyes for which he could not account, and my loud, unrestrained, heartless laughter frightened and astonished him.\n\n“My dear Victor,” cried he, “what, for God’s sake, is the matter? Do not laugh in that manner. How ill you are! What is the cause of all this?”\n\n“Do not ask me,” cried I, putting my hands before my eyes, for I thought I saw the dreaded spectre glide into the room; “_he_ can tell. Oh, save me! Save me!” I imagined that the monster seized me; I struggled furiously and fell down in a fit.\n\nPoor Clerval! What must have been his feelings? A meeting, which he anticipated with such joy, so strangely turned to bitterness. But I was not the witness of his grief, for I was lifeless and did not recover my senses for a long, long time.\n\nThis was the commencement of a nervous fever which confined me for several months. During all that time Henry was my only nurse. I afterwards learned that, knowing my father’s advanced age and unfitness for so long a journey, and how wretched my sickness would make Elizabeth, he spared them this grief by concealing the extent of my disorder."
+      },
+      "request_id": "261f15c062ff931e37629e33",
+      "request_sha256": "983eb909bb066eb0b117b219d9702a7e10d18fa69b2323d8421db941beef98f6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "70549ac9d5321f233a4c1679b49fa978be1e88ea060ed62b35b2b5325eee2be0"
+    }
+  ],
+  "session_id": "01a0e83d-ac82-75d0-a392-9c53b7dc0442",
+  "worker_id": "astra_k",
+  "worker_identity_sha256": "422750a9fc253bc1ace58d43156fd122722e4dcc870654c7f3796645edd88607"
+}

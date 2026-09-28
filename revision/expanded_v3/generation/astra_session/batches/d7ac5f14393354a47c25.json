@@ -1,0 +1,68 @@
+{
+  "batch_id": "d7ac5f14393354a47c25",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:44:40.748973+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "54fc8f6a436e521b93c295e3",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 507,
+      "passage_id": "V2_austen_persuasion_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 54fc8f6a436e521b93c295e3\noriginal_word_count: 507\n\nPassage:\nOther opportunities of making her observations could not fail to occur. Anne had soon been in company with all the four together often enough to have an opinion, though too wise to acknowledge as much at home, where she knew it would have satisfied neither husband nor wife; for while she considered Louisa to be rather the favourite, she could not but think, as far as she might dare to judge from memory and experience, that Captain Wentworth was not in love with either. They were more in love with him; yet there it was not love. It was a little fever of admiration; but it might, probably must, end in love with some. Charles Hayter seemed aware of being slighted, and yet Henrietta had sometimes the air of being divided between them. Anne longed for the power of representing to them all what they were about, and of pointing out some of the evils they were exposing themselves to. She did not attribute guile to any. It was the highest satisfaction to her to believe Captain Wentworth not in the least aware of the pain he was occasioning. There was no triumph, no pitiful triumph in his manner. He had, probably, never heard, and never thought of any claims of Charles Hayter. He was only wrong in accepting the attentions (for accepting must be the word) of two young women at once.\n\nAfter a short struggle, however, Charles Hayter seemed to quit the field. Three days had passed without his coming once to Uppercross; a most decided change. He had even refused one regular invitation to dinner; and having been found on the occasion by Mr Musgrove with some large books before him, Mr and Mrs Musgrove were sure all could not be right, and talked, with grave faces, of his studying himself to death. It was Mary’s hope and belief that he had received a positive dismissal from Henrietta, and her husband lived under the constant dependence of seeing him to-morrow. Anne could only feel that Charles Hayter was wise.\n\nOne morning, about this time Charles Musgrove and Captain Wentworth being gone a-shooting together, as the sisters in the Cottage were sitting quietly at work, they were visited at the window by the sisters from the Mansion-house.\n\nIt was a very fine November day, and the Miss Musgroves came through the little grounds, and stopped for no other purpose than to say, that they were going to take a _long_ walk, and, therefore, concluded Mary could not like to go with them; and when Mary immediately replied, with some jealousy at not being supposed a good walker, “Oh, yes, I should like to join you very much, I am very fond of a long walk;” Anne felt persuaded, by the looks of the two girls, that it was precisely what they did not wish, and admired again the sort of necessity which the family habits seemed to produce, of everything being to be communicated, and everything being to be done together, however undesired and inconvenient."
+      },
+      "request_id": "54fc8f6a436e521b93c295e3",
+      "request_sha256": "ebca01c326b5740b0216c50e775dcaa782bef867e3acea5f7ab32e99f055c02e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1d651a50c824817283d3507fdf6bbacf384ea2ba52e5c28e38a74c814ab70c2e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c458115f5b21b5e775b834a6",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_twain_huckleberry_finn_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: c458115f5b21b5e775b834a6\noriginal_word_count: 459\n\nPassage:\nWell, three or four months run along, and it was well into the winter now. I had been to school most all the time and could spell and read and write just a little, and could say the multiplication table up to six times seven is thirty-five, and I don’t reckon I could ever get any further than that if I was to live forever. I don’t take no stock in mathematics, anyway.\n\nAt first I hated the school, but by-and-by I got so I could stand it. Whenever I got uncommon tired I played hookey, and the hiding I got next day done me good and cheered me up. So the longer I went to school the easier it got to be. I was getting sort of used to the widow’s ways, too, and they warn’t so raspy on me. Living in a house and sleeping in a bed pulled on me pretty tight mostly, but before the cold weather I used to slide out and sleep in the woods sometimes, and so that was a rest to me. I liked the old ways best, but I was getting so I liked the new ones, too, a little bit. The widow said I was coming along slow but sure, and doing very satisfactory. She said she warn’t ashamed of me.\n\nOne morning I happened to turn over the salt-cellar at breakfast. I reached for some of it as quick as I could to throw over my left shoulder and keep off the bad luck, but Miss Watson was in ahead of me, and crossed me off. She says, “Take your hands away, Huckleberry; what a mess you are always making!” The widow put in a good word for me, but that warn’t going to keep off the bad luck, I knowed that well enough. I started out, after breakfast, feeling worried and shaky, and wondering where it was going to fall on me, and what it was going to be. There is ways to keep off some kinds of bad luck, but this wasn’t one of them kind; so I never tried to do anything, but just poked along low-spirited and on the watch-out.\n\nI went down to the front garden and clumb over the stile where you go through the high board fence. There was an inch of new snow on the ground, and I seen somebody’s tracks. They had come up from the quarry and stood around the stile a while, and then went on around the garden fence. It was funny they hadn’t come in, after standing around so. I couldn’t make it out. It was very curious, somehow. I was going to follow around, but I stooped down to look at the tracks first."
+      },
+      "request_id": "c458115f5b21b5e775b834a6",
+      "request_sha256": "4814af9e86fda8c0deebbd05bbb2bf8160313227ed388b81a25eb52ba626c977",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2ce1a9bfa67b900970e368028ff6d62855ac842b969628c5de66ae2b3d5b0a94"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "23cbd11640847fd041365aa3",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_shelley_mathilda_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 23cbd11640847fd041365aa3\noriginal_word_count: 470\n\nPassage:\nNearly a year had past since my father’s return, and the seasons had almost finished their round--It was now the end of May; the woods were clothed in their freshest verdure, and the sweet smell of the new mown grass was in the fields. I thought that the balmy air and the lovely face of Nature might aid me in inspiring him with mild sensations, and give him gentle feelings of peace and love preparatory to the confidence I determined to win from him.\n\nI chose therefore the evening of one of these days for my attempt. I invited him to walk with me, and led him to a neighbouring wood of beech trees whose light shade shielded us from the slant and dazzling beams of the descending sun--After walking for some time in silence I seated my self with him on a mossy hillock--It is strange but even now I seem to see the spot--the slim and smooth trunks were many of them wound round by ivy whose shining leaves of the darkest green contrasted with the white bark and the light leaves of the young sprouts of beech that grew from their parent trunks--the short grass was mingled with moss and was partly covered by the dead leaves of the last autumn that driven by the winds had here and there collected in little hillocks--there were a few moss grown stumps about--The leaves were gently moved by the breeze and through their green canopy you could see the bright blue sky--As evening came on the distant trunks were reddened by the sun and the wind died entirely away while a few birds flew past us to their evening rest.\n\nWell it was here we sat together, and when you hear all that past--all that of terrible tore our souls even in this placid spot, which but for strange passions might have been a paradise to us, you will not wonder that I remember it as I looked on it that its calm might give me calm, and inspire me not only with courage but with persuasive words. I saw all these things and in a vacant manner noted them in my mind while I endeavoured to arrange my thoughts in fitting order for my attempt. My heart beat fast as I worked myself up to speak to him, for I was determined not to be repulsed but I trembled to imagine what effect my words might have on him; at length, with much hesitation I began:\n\n“Your kindness to me, my dearest father, and the affection--the excessive affection--that you had for me when you first returned will I hope excuse me in your eyes that I dare speak to you, although with the tender affection of a daughter, yet also with the freedom of a friend and equal."
+      },
+      "request_id": "23cbd11640847fd041365aa3",
+      "request_sha256": "f22cc24b0c8591714ec6519b52622086ed229be5b297386806a02e5f0422a9f4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4dfeb1074f5be9a81b84b989773ed05f4c36cae1d407cd0dc256f547682eea87"
+    }
+  ],
+  "session_id": "01a0e876-83f7-78a1-b9d1-9e5cfb4d9073",
+  "worker_id": "astra_z",
+  "worker_identity_sha256": "3c518323fe65160b33818c8fecefe8b58d18bebfd64f52e04e66f555b7fdddb7"
+}

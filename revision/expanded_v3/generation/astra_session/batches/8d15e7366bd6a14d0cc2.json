@@ -1,0 +1,68 @@
+{
+  "batch_id": "8d15e7366bd6a14d0cc2",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:09:40.865707+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "59f27d56785b6bf4b36d5686",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_shelley_mathilda_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 59f27d56785b6bf4b36d5686\noriginal_word_count: 481\n\nPassage:\nMy father had been and his memory was the life of my life. I might feel gratitude to another but I never more could love or hope as I had done; it was all suffering; even my pleasures were endured, not enjoyed. I was as a solitary spot among mountains shut in on all sides by steep black precipices; where no ray of heat could penetrate; and from which there was no outlet to sunnier fields. And thus it was that although the spirit of friendship soothed me for a while it could not restore me. It came as some gentle visitation; it went and I hardly felt the loss. The spirit of existence was dead within me; be not surprised therefore that when it came I welcomed not more gladly, or when it departed I lamented not more bitterly the best gift of heaven--a friend.\n\nThe name of my friend was Woodville. I will briefly relate his history that you may judge how cold my heart must have been not to be warmed by his eloquent words and tender sympathy; and how he also being most unhappy we were well fitted to be a mutual consolation to each other, if I had not been hardened to stone by the Medusa head of Misery. The misfortunes of Woodville were not of the hearts core like mine; his was a natural grief, not to destroy but to purify the heart and from which he might, when its shadow had passed from over him, shine forth brighter and happier than before.\n\nWoodville was the son of a poor clergyman and had received a classical education. He was one of those very few whom fortune favours from their birth; on whom she bestows all gifts of intellect and person with a profusion that knew no bounds, and whom under her peculiar protection, no imperfection however slight, or disappointment however transitory has leave to touch. She seemed to have formed his mind of that excellence which no dross can tarnish, and his understanding was such that no error could pervert. His genius was transcendant, and when it rose as a bright star in the east all eyes were turned towards it in admiration. He was a Poet. That name has so often been degraded that it will not convey the idea of all that he was. He was like a poet of old whom the muses had crowned in his cradle, and on whose lips bees had fed. As he walked among other men he seemed encompassed with a heavenly halo that divided him from and lifted him above them. It was his surpassing beauty, the dazzling fire of his eyes, and his words whose rich accents wrapt the listener in mute and extactic wonder, that made him transcend all others so that before him they appeared only formed to minister to his superior excellence."
+      },
+      "request_id": "59f27d56785b6bf4b36d5686",
+      "request_sha256": "ef433dcb12303bd2956f609928f4c0fd0fd226e8665f157578360064d9dc5e54",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c7c45748bf95e83006d3d361444bfdca901e74702a64f8d6f22794d34b2a1593"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f3b606002bf07298c9fe1c22",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_poe_the_gold_bug_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: f3b606002bf07298c9fe1c22\noriginal_word_count: 450\n\nPassage:\n“Jupiter,” said he, when we reached its foot, “come here! was the skull nailed to the limb with the face outwards, or with the face to the limb?”\n\n“De face was out, massa, so dat de crows could get at de eyes good, widout any trouble.”\n\n“Well, then, was it this eye or that through which you dropped the beetle?”—here Legrand touched each of Jupiter’s eyes.\n\n“’Twas dis eye, massa—de lef eye—jis as you tell me,” and here it was his right eye that the negro indicated.\n\n“That will do—we must try it again.”\n\nHere my friend, about whose madness I now saw, or fancied that I saw, certain indications of method, removed the peg which marked the spot where the beetle fell, to a spot about three inches to the westward of its former position. Taking, now, the tape measure from the nearest point of the trunk to the peg, as before, and continuing the extension in a straight line to the distance of fifty feet, a spot was indicated, removed, by several yards, from the point at which we had been digging.\n\nAround the new position a circle, somewhat larger than in the former instance, was now described, and we again set to work with the spades. I was dreadfully weary, but, scarcely understanding what had occasioned the change in my thoughts, I felt no longer any great aversion from the labor imposed. I had become most unaccountably interested—nay, even excited. Perhaps there was something, amid all the extravagant demeanor of Legrand—some air of forethought, or of deliberation, which impressed me. I dug eagerly, and now and then caught myself actually looking, with something that very much resembled expectation, for the fancied treasure, the vision of which had demented my unfortunate companion. At a period when such vagaries of thought most fully possessed me, and when we had been at work perhaps an hour and a half, we were again interrupted by the violent howlings of the dog. His uneasiness, in the first instance, had been, evidently, but the result of playfulness or caprice, but he now assumed a bitter and serious tone. Upon Jupiter’s again attempting to muzzle him, he made furious resistance, and, leaping into the hole, tore up the mould frantically with his claws. In a few seconds he had uncovered a mass of human bones, forming two complete skeletons, intermingled with several buttons of metal, and what appeared to be the dust of decayed woollen. One or two strokes of a spade upturned the blade of a large Spanish knife, and, as we dug farther, three or four loose pieces of gold and silver coin came to light."
+      },
+      "request_id": "f3b606002bf07298c9fe1c22",
+      "request_sha256": "1c15299fd53370ab8cf009e9b6ef8e5364b4de74a2c935d23b43969ce0619f95",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4af6bf390dd53f71f63921b9aad964b18b37635a7fa6a917ab3da0163042a9aa"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "eddf778637cb97792e532e56",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 474,
+      "passage_id": "V2_dickens_oliver_twist_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: eddf778637cb97792e532e56\noriginal_word_count: 474\n\nPassage:\nCountrymen, butchers, drovers, hawkers, boys, thieves, idlers, and vagabonds of every low grade, were mingled together in a mass; the whistling of drovers, the barking dogs, the bellowing and plunging of the oxen, the bleating of sheep, the grunting and squeaking of pigs, the cries of hawkers, the shouts, oaths, and quarrelling on all sides; the ringing of bells and roar of voices, that issued from every public-house; the crowding, pushing, driving, beating, whooping and yelling; the hideous and discordant dim that resounded from every corner of the market; and the unwashed, unshaven, squalid, and dirty figures constantly running to and fro, and bursting in and out of the throng; rendered it a stunning and bewildering scene, which quite confounded the senses.\n\nMr. Sikes, dragging Oliver after him, elbowed his way through the thickest of the crowd, and bestowed very little attention on the numerous sights and sounds, which so astonished the boy. He nodded, twice or thrice, to a passing friend; and, resisting as many invitations to take a morning dram, pressed steadily onward, until they were clear of the turmoil, and had made their way through Hosier Lane into Holborn.\n\n“Now, young ’un!” said Sikes, looking up at the clock of St. Andrew’s Church, “hard upon seven! you must step out. Come, don’t lag behind already, Lazy-legs!”\n\nMr. Sikes accompanied this speech with a jerk at his little companion’s wrist; Oliver, quickening his pace into a kind of trot between a fast walk and a run, kept up with the rapid strides of the house-breaker as well as he could.\n\nThey held their course at this rate, until they had passed Hyde Park corner, and were on their way to Kensington: when Sikes relaxed his pace, until an empty cart which was at some little distance behind, came up. Seeing “Hounslow” written on it, he asked the driver with as much civility as he could assume, if he would give them a lift as far as Isleworth.\n\n“Jump up,” said the man. “Is that your boy?”\n\n“Yes; he’s my boy,” replied Sikes, looking hard at Oliver, and putting his hand abstractedly into the pocket where the pistol was.\n\n“Your father walks rather too quick for you, don’t he, my man?” inquired the driver: seeing that Oliver was out of breath.\n\n“Not a bit of it,” replied Sikes, interposing. “He’s used to it. Here, take hold of my hand, Ned. In with you!”\n\nThus addressing Oliver, he helped him into the cart; and the driver, pointing to a heap of sacks, told him to lie down there, and rest himself.\n\nAs they passed the different mile-stones, Oliver wondered, more and more, where his companion meant to take him. Kensington, Hammersmith, Chiswick, Kew Bridge, Brentford, were all passed; and yet they went on as steadily as if they had only just begun their journey."
+      },
+      "request_id": "eddf778637cb97792e532e56",
+      "request_sha256": "de26ecf1304e2bc9053bb2b4c11c6c0469adf7ae3cb686e08416ed632ce61771",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "adb14e2cb7d0796ab24d6ae94420d6b2ad8f64d128ed134578479f017b251084"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "1a99062db5dc8daa25df",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:28:44.954590+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "847aa5fa19f98891075ce767",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_shelley_frankenstein_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 847aa5fa19f98891075ce767\noriginal_word_count: 472\n\nPassage:\nWe were brought up together; there was not quite a year difference in our ages. I need not say that we were strangers to any species of disunion or dispute. Harmony was the soul of our companionship, and the diversity and contrast that subsisted in our characters drew us nearer together. Elizabeth was of a calmer and more concentrated disposition; but, with all my ardour, I was capable of a more intense application and was more deeply smitten with the thirst for knowledge. She busied herself with following the aerial creations of the poets; and in the majestic and wondrous scenes which surrounded our Swiss home —the sublime shapes of the mountains, the changes of the seasons, tempest and calm, the silence of winter, and the life and turbulence of our Alpine summers—she found ample scope for admiration and delight. While my companion contemplated with a serious and satisfied spirit the magnificent appearances of things, I delighted in investigating their causes. The world was to me a secret which I desired to divine. Curiosity, earnest research to learn the hidden laws of nature, gladness akin to rapture, as they were unfolded to me, are among the earliest sensations I can remember.\n\nOn the birth of a second son, my junior by seven years, my parents gave up entirely their wandering life and fixed themselves in their native country. We possessed a house in Geneva, and a _campagne_ on Belrive, the eastern shore of the lake, at the distance of rather more than a league from the city. We resided principally in the latter, and the lives of my parents were passed in considerable seclusion. It was my temper to avoid a crowd and to attach myself fervently to a few. I was indifferent, therefore, to my school-fellows in general; but I united myself in the bonds of the closest friendship to one among them. Henry Clerval was the son of a merchant of Geneva. He was a boy of singular talent and fancy. He loved enterprise, hardship, and even danger for its own sake. He was deeply read in books of chivalry and romance. He composed heroic songs and began to write many a tale of enchantment and knightly adventure. He tried to make us act plays and to enter into masquerades, in which the characters were drawn from the heroes of Roncesvalles, of the Round Table of King Arthur, and the chivalrous train who shed their blood to redeem the holy sepulchre from the hands of the infidels.\n\nNo human being could have passed a happier childhood than myself. My parents were possessed by the very spirit of kindness and indulgence. We felt that they were not the tyrants to rule our lot according to their caprice, but the agents and creators of all the many delights which we enjoyed."
+      },
+      "request_id": "847aa5fa19f98891075ce767",
+      "request_sha256": "021694b4643bee12e26932ccd2726e403f6aa02fd03b988c32b12c59b92ed444",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "da4e769dd5be2d3261a30f02438098f9a95dc899ac8a94f0c7ef65433d537951"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2d03326af0c7ba2b1f779d06",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_shelley_mathilda_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2d03326af0c7ba2b1f779d06\noriginal_word_count: 457\n\nPassage:\nBut enough of this. I will begin my tale: it is my last task, and I hope I have strength sufficient to fulfill it. I record no crimes; my faults may easily be pardoned; for they proceeded not from evil motive but from want of judgement; and I believe few would say that they could, by a different conduct and superior wisdom, have avoided the misfortunes to which I am the victim. My fate has been governed by necessity, a hideous necessity. It required hands stronger than mine; stronger I do believe than any human force to break the thick, adamantine chain that has bound me, once breathing nothing but joy, ever possessed by a warm love & delight in goodness,--to misery only to be ended, and now about to be ended, in death. But I forget myself, my tale is yet untold. I will pause a few moments, wipe my dim eyes, and endeavour to lose the present obscure but heavy feeling of unhappiness in the more acute emotions of the past.\n\nI was born in England. My father was a man of rank: he had lost his father early, and was educated by a weak mother with all the indulgence she thought due to a nobleman of wealth. He was sent to Eton and afterwards to college; & allowed from childhood the free use of large sums of money; thus enjoying from his earliest youth the independance which a boy with these advantages, always acquires at a public school.\n\nUnder the influence of these circumstances his passions found a deep soil wherein they might strike their roots and flourish either as flowers or weeds as was their nature. By being always allowed to act for himself his character became strongly and early marked and exhibited a various surface on which a quick sighted observer might see the seeds of virtues and of misfortunes. His careless extravagance, which made him squander immense sums of money to satisfy passing whims, which from their apparent energy he dignified with the name of passions, often displayed itself in unbounded generosity. Yet while he earnestly occupied himself about the wants of others his own desires were gratified to their fullest extent. He gave his money, but none of his own wishes were sacrifised to his gifts; he gave his time, which he did not value, and his affections which he was happy in any manner to have called into action.\n\nI do not say that if his own desires had been put in competition with those of others that he would have displayed undue selfishness, but this trial was never made. He was nurtured in prosperity and attended by all its advantages; every one loved him and wished to gratify him."
+      },
+      "request_id": "2d03326af0c7ba2b1f779d06",
+      "request_sha256": "23eaa1948ce273e20013b19e1222fe87ac9bcacf2b15ac6ba114ae6e013c4667",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bf9a3a37fff9c03bb100ebe88a02fa5cbf4e600b7f2d87e7c6edb11c2d825592"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a585547c705303973f7a97a5",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_dickens_great_expectations_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: a585547c705303973f7a97a5\noriginal_word_count: 457\n\nPassage:\nI thanked him, and apologised. He said, “Not at all,” and resumed.\n\n“Miss Havisham was now an heiress, and you may suppose was looked after as a great match. Her half-brother had now ample means again, but what with debts and what with new madness wasted them most fearfully again. There were stronger differences between him and her than there had been between him and his father, and it is suspected that he cherished a deep and mortal grudge against her as having influenced the father’s anger. Now, I come to the cruel part of the story,—merely breaking off, my dear Handel, to remark that a dinner-napkin will not go into a tumbler.”\n\nWhy I was trying to pack mine into my tumbler, I am wholly unable to say. I only know that I found myself, with a perseverance worthy of a much better cause, making the most strenuous exertions to compress it within those limits. Again I thanked him and apologised, and again he said in the cheerfullest manner, “Not at all, I am sure!” and resumed.\n\n“There appeared upon the scene—say at the races, or the public balls, or anywhere else you like—a certain man, who made love to Miss Havisham. I never saw him (for this happened five-and-twenty years ago, before you and I were, Handel), but I have heard my father mention that he was a showy man, and the kind of man for the purpose. But that he was not to be, without ignorance or prejudice, mistaken for a gentleman, my father most strongly asseverates; because it is a principle of his that no man who was not a true gentleman at heart ever was, since the world began, a true gentleman in manner. He says, no varnish can hide the grain of the wood; and that the more varnish you put on, the more the grain will express itself. Well! This man pursued Miss Havisham closely, and professed to be devoted to her. I believe she had not shown much susceptibility up to that time; but all the susceptibility she possessed certainly came out then, and she passionately loved him. There is no doubt that she perfectly idolized him. He practised on her affection in that systematic way, that he got great sums of money from her, and he induced her to buy her brother out of a share in the brewery (which had been weakly left him by his father) at an immense price, on the plea that when he was her husband he must hold and manage it all. Your guardian was not at that time in Miss Havisham’s counsels, and she was too haughty and too much in love to be advised by any one."
+      },
+      "request_id": "a585547c705303973f7a97a5",
+      "request_sha256": "3624289cdc93123d37518e4602c29b8e128d94ea585a90e0a26a1d9e60937135",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b5b9d8a30d87fc5d6ee1bdcb80a3caae9b880c6a0848edc402918f3c14657dcc"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

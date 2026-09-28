@@ -1,0 +1,68 @@
+{
+  "batch_id": "701eac736906b8811f9f",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:36:30.094111+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3834e3ada01438aa42b227dc",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 489,
+      "passage_id": "V2_shelley_the_last_man_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 3834e3ada01438aa42b227dc\noriginal_word_count: 489\n\nPassage:\nWe both agreed in loving Adrian: although she not having yet escaped from childhood could not appreciate as I did the extent of his merits, or feel the same sympathy in his pursuits and opinions. I was for ever with him. There was a sensibility and sweetness in his disposition, that gave a tender and unearthly tone to our converse. Then he was gay as a lark carolling from its skiey tower, soaring in thought as an eagle, innocent as the mild-eyed dove. He could dispel the seriousness of Perdita, and take the sting from the torturing activity of my nature. I looked back to my restless desires and painful struggles with my fellow beings as to a troubled dream, and felt myself as much changed as if I had transmigrated into another form, whose fresh sensorium and mechanism of nerves had altered the reflection of the apparent universe in the mirror of mind. But it was not so; I was the same in strength, in earnest craving for sympathy, in my yearning for active exertion. My manly virtues did not desert me, for the witch Urania spared the locks of Sampson, while he reposed at her feet; but all was softened and humanized. Nor did Adrian instruct me only in the cold truths of history and philosophy. At the same time that he taught me by their means to subdue my own reckless and uncultured spirit, he opened to my view the living page of his own heart, and gave me to feel and understand its wondrous character.\n\nThe ex-queen of England had, even during infancy, endeavoured to implant daring and ambitious designs in the mind of her son. She saw that he was endowed with genius and surpassing talent; these she cultivated for the sake of afterwards using them for the furtherance of her own views. She encouraged his craving for knowledge and his impetuous courage; she even tolerated his tameless love of freedom, under the hope that this would, as is too often the case, lead to a passion for command. She endeavoured to bring him up in a sense of resentment towards, and a desire to revenge himself upon, those who had been instrumental in bringing about his father’s abdication. In this she did not succeed. The accounts furnished him, however distorted, of a great and wise nation asserting its right to govern itself, excited his admiration: in early days he became a republican from principle. Still his mother did not despair. To the love of rule and haughty pride of birth she added determined ambition, patience, and self-control. She devoted herself to the study of her son’s disposition. By the application of praise, censure, and exhortation, she tried to seek and strike the fitting chords; and though the melody that followed her touch seemed discord to her, she built her hopes on his talents, and felt sure that she would at last win him."
+      },
+      "request_id": "3834e3ada01438aa42b227dc",
+      "request_sha256": "b1d2586caab1d7f6cf3d0c6388b9db57978abea34eec6148c94c9ed5ddd74b96",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "59819b277ba52e4e76a3235c0758df0a0908a73bdd0a72e2b95d94d472b6a0d6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "84671032713b9120ae1ef4c8",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_austen_persuasion_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 84671032713b9120ae1ef4c8\noriginal_word_count: 464\n\nPassage:\n“This must have been about that very period of Mr Elliot’s life,” said Anne, “which has always excited my particular curiosity. It must have been about the same time that he became known to my father and sister. I never knew him myself; I only heard of him; but there was a something in his conduct then, with regard to my father and sister, and afterwards in the circumstances of his marriage, which I never could quite reconcile with present times. It seemed to announce a different sort of man.”\n\n“I know it all, I know it all,” cried Mrs Smith. “He had been introduced to Sir Walter and your sister before I was acquainted with him, but I heard him speak of them for ever. I know he was invited and encouraged, and I know he did not choose to go. I can satisfy you, perhaps, on points which you would little expect; and as to his marriage, I knew all about it at the time. I was privy to all the fors and againsts; I was the friend to whom he confided his hopes and plans; and though I did not know his wife previously, her inferior situation in society, indeed, rendered that impossible, yet I knew her all her life afterwards, or at least till within the last two years of her life, and can answer any question you may wish to put.”\n\n“Nay,” said Anne, “I have no particular enquiry to make about her. I have always understood they were not a happy couple. But I should like to know why, at that time of his life, he should slight my father’s acquaintance as he did. My father was certainly disposed to take very kind and proper notice of him. Why did Mr Elliot draw back?”\n\n“Mr Elliot,” replied Mrs Smith, “at that period of his life, had one object in view: to make his fortune, and by a rather quicker process than the law. He was determined to make it by marriage. He was determined, at least, not to mar it by an imprudent marriage; and I know it was his belief (whether justly or not, of course I cannot decide), that your father and sister, in their civilities and invitations, were designing a match between the heir and the young lady, and it was impossible that such a match should have answered his ideas of wealth and independence. That was his motive for drawing back, I can assure you. He told me the whole story. He had no concealments with me. It was curious, that having just left you behind me in Bath, my first and principal acquaintance on marrying should be your cousin; and that, through him, I should be continually hearing of your father and sister."
+      },
+      "request_id": "84671032713b9120ae1ef4c8",
+      "request_sha256": "ba709b94dd65f94cfb868e63a20e65003a4837085b4c8dd4b43ab27c66e3d936",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3ee628f22820f01f45d6285d995ce67334dd559d7940f62bb91afad40f214d99"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "31287b60986f102638d2499b",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_austen_emma_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 31287b60986f102638d2499b\noriginal_word_count: 466\n\nPassage:\nHe gave her to understand that Frank admired her extremely—thought her very beautiful and very charming; and with so much to be said for him altogether, she found she must not judge him harshly. As Mrs. Weston observed, “all young people would have their little whims.”\n\nThere was one person among his new acquaintance in Surry, not so leniently disposed. In general he was judged, throughout the parishes of Donwell and Highbury, with great candour; liberal allowances were made for the little excesses of such a handsome young man—one who smiled so often and bowed so well; but there was one spirit among them not to be softened, from its power of censure, by bows or smiles—Mr. Knightley. The circumstance was told him at Hartfield; for the moment, he was silent; but Emma heard him almost immediately afterwards say to himself, over a newspaper he held in his hand, “Hum! just the trifling, silly fellow I took him for.” She had half a mind to resent; but an instant’s observation convinced her that it was really said only to relieve his own feelings, and not meant to provoke; and therefore she let it pass.\n\nAlthough in one instance the bearers of not good tidings, Mr. and Mrs. Weston’s visit this morning was in another respect particularly opportune. Something occurred while they were at Hartfield, to make Emma want their advice; and, which was still more lucky, she wanted exactly the advice they gave.\n\nThis was the occurrence:—The Coles had been settled some years in Highbury, and were very good sort of people—friendly, liberal, and unpretending; but, on the other hand, they were of low origin, in trade, and only moderately genteel. On their first coming into the country, they had lived in proportion to their income, quietly, keeping little company, and that little unexpensively; but the last year or two had brought them a considerable increase of means—the house in town had yielded greater profits, and fortune in general had smiled on them. With their wealth, their views increased; their want of a larger house, their inclination for more company. They added to their house, to their number of servants, to their expenses of every sort; and by this time were, in fortune and style of living, second only to the family at Hartfield. Their love of society, and their new dining-room, prepared every body for their keeping dinner-company; and a few parties, chiefly among the single men, had already taken place. The regular and best families Emma could hardly suppose they would presume to invite—neither Donwell, nor Hartfield, nor Randalls. Nothing should tempt _her_ to go, if they did; and she regretted that her father’s known habits would be giving her refusal less meaning than she could wish."
+      },
+      "request_id": "31287b60986f102638d2499b",
+      "request_sha256": "bba961c92ed93b86e2e71f3cc3a0f61ec7d15c20ddbc176978c3f50f00bcb391",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bdfc179d5fcd138fc16f1855723147ba813f3dd3af833056030e663184a750ef"
+    }
+  ],
+  "session_id": "01a0e871-0029-7eb2-b032-b2c22db7d18a",
+  "worker_id": "astra_y",
+  "worker_identity_sha256": "117b62507d566d7e1674868f608b01ea30f8f22336a4d59e5e97eb3a6f4f8842"
+}

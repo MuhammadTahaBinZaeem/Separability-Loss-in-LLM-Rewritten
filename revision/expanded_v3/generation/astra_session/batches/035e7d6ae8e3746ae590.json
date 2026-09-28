@@ -1,0 +1,68 @@
+{
+  "batch_id": "035e7d6ae8e3746ae590",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:44:31.294465+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9d64373d13e8b5fcd7662462",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 478,
+      "passage_id": "V2_shelley_frankenstein_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 9d64373d13e8b5fcd7662462\noriginal_word_count: 478\n\nPassage:\nWhen I run over the frightful catalogue of my sins, I cannot believe that I am the same creature whose thoughts were once filled with sublime and transcendent visions of the beauty and the majesty of goodness. But it is even so; the fallen angel becomes a malignant devil. Yet even that enemy of God and man had friends and associates in his desolation; I am alone.\n\n“You, who call Frankenstein your friend, seem to have a knowledge of my crimes and his misfortunes. But in the detail which he gave you of them he could not sum up the hours and months of misery which I endured wasting in impotent passions. For while I destroyed his hopes, I did not satisfy my own desires. They were for ever ardent and craving; still I desired love and fellowship, and I was still spurned. Was there no injustice in this? Am I to be thought the only criminal, when all humankind sinned against me? Why do you not hate Felix, who drove his friend from his door with contumely? Why do you not execrate the rustic who sought to destroy the saviour of his child? Nay, these are virtuous and immaculate beings! I, the miserable and the abandoned, am an abortion, to be spurned at, and kicked, and trampled on. Even now my blood boils at the recollection of this injustice.\n\n“But it is true that I am a wretch. I have murdered the lovely and the helpless; I have strangled the innocent as they slept and grasped to death his throat who never injured me or any other living thing. I have devoted my creator, the select specimen of all that is worthy of love and admiration among men, to misery; I have pursued him even to that irremediable ruin. There he lies, white and cold in death. You hate me, but your abhorrence cannot equal that with which I regard myself. I look on the hands which executed the deed; I think on the heart in which the imagination of it was conceived and long for the moment when these hands will meet my eyes, when that imagination will haunt my thoughts no more.\n\n“Fear not that I shall be the instrument of future mischief. My work is nearly complete. Neither yours nor any man’s death is needed to consummate the series of my being and accomplish that which must be done, but it requires my own. Do not think that I shall be slow to perform this sacrifice. I shall quit your vessel on the ice raft which brought me thither and shall seek the most northern extremity of the globe; I shall collect my funeral pile and consume to ashes this miserable frame, that its remains may afford no light to any curious and unhallowed wretch who would create such another as I have been."
+      },
+      "request_id": "9d64373d13e8b5fcd7662462",
+      "request_sha256": "3fcd355e8c92b828ec71eadc0ade03fb7d7721c4e965927964d848c397b209b9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "74fd326948356b363d2a77adeb4720d1a1e127660269b11cffe81d9382491393"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6f90de11d7593a28118b8a3a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 6f90de11d7593a28118b8a3a\noriginal_word_count: 460\n\nPassage:\n“Now,” said Mr. Lorry, gently laying his hand on the Doctor’s arm again, after a short silence on both sides, “to what would you refer this attack?”\n\n“I believe,” returned Doctor Manette, “that there had been a strong and extraordinary revival of the train of thought and remembrance that was the first cause of the malady. Some intense associations of a most distressing nature were vividly recalled, I think. It is probable that there had long been a dread lurking in his mind, that those associations would be recalled--say, under certain circumstances--say, on a particular occasion. He tried to prepare himself in vain; perhaps the effort to prepare himself made him less able to bear it.”\n\n“Would he remember what took place in the relapse?” asked Mr. Lorry, with natural hesitation.\n\nThe Doctor looked desolately round the room, shook his head, and answered, in a low voice, “Not at all.”\n\n“Now, as to the future,” hinted Mr. Lorry.\n\n“As to the future,” said the Doctor, recovering firmness, “I should have great hope. As it pleased Heaven in its mercy to restore him so soon, I should have great hope. He, yielding under the pressure of a complicated something, long dreaded and long vaguely foreseen and contended against, and recovering after the cloud had burst and passed, I should hope that the worst was over.”\n\n“Well, well! That’s good comfort. I am thankful!” said Mr. Lorry.\n\n“I am thankful!” repeated the Doctor, bending his head with reverence.\n\n“There are two other points,” said Mr. Lorry, “on which I am anxious to be instructed. I may go on?”\n\n“You cannot do your friend a better service.” The Doctor gave him his hand.\n\n“To the first, then. He is of a studious habit, and unusually energetic; he applies himself with great ardour to the acquisition of professional knowledge, to the conducting of experiments, to many things. Now, does he do too much?”\n\n“I think not. It may be the character of his mind, to be always in singular need of occupation. That may be, in part, natural to it; in part, the result of affliction. The less it was occupied with healthy things, the more it would be in danger of turning in the unhealthy direction. He may have observed himself, and made the discovery.”\n\n“You are sure that he is not under too great a strain?”\n\n“I think I am quite sure of it.”\n\n“My dear Manette, if he were overworked now--”\n\n“My dear Lorry, I doubt if that could easily be. There has been a violent stress in one direction, and it needs a counterweight.”\n\n“Excuse me, as a persistent man of business. Assuming for a moment, that he _was_ overworked; it would show itself in some renewal of this disorder?”"
+      },
+      "request_id": "6f90de11d7593a28118b8a3a",
+      "request_sha256": "ddc6cb9c1ba0ed418e9b441975c99b178d01e1d33ea287b752b93e7dad504327",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "608018a6d9efdd720579fbc463cbf51541a05f1910d275f0fbb1bb57698d13b3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "79ccbd2be1b63aac740f10b9",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 79ccbd2be1b63aac740f10b9\noriginal_word_count: 454\n\nPassage:\nBut I must warn you beforehand that I shall tell Sybil everything. She is coming to lunch with me to-morrow, to talk about bonnets, and if Mr. Podgers finds out that you have a bad temper, or a tendency to gout, or a wife living in Bayswater, I shall certainly let her know all about it.’\n\nLord Arthur smiled, and shook his head. ‘I am not afraid,’ he answered. ‘Sybil knows me as well as I know her.’\n\n‘Ah! I am a little sorry to hear you say that. The proper basis for marriage is a mutual misunderstanding. No, I am not at all cynical, I have merely got experience, which, however, is very much the same thing. Mr. Podgers, Lord Arthur Savile is dying to have his hand read. Don’t tell him that he is engaged to one of the most beautiful girls in London, because that appeared in the _Morning Post_ a month ago.\n\n‘Dear Lady Windermere,’ cried the Marchioness of Jedburgh, ‘do let Mr. Podgers stay here a little longer. He has just told me I should go on the stage, and I am so interested.’\n\n‘If he has told you that, Lady Jedburgh, I shall certainly take him away. Come over at once, Mr. Podgers, and read Lord Arthur’s hand.’\n\n‘Well,’ said Lady Jedburgh, making a little _moue_ as she rose from the sofa, ‘if I am not to be allowed to go on the stage, I must be allowed to be part of the audience at any rate.’\n\n‘Of course; we are all going to be part of the audience,’ said Lady Windermere; ‘and now, Mr. Podgers, be sure and tell us something nice. Lord Arthur is one of my special favourites.’\n\nBut when Mr. Podgers saw Lord Arthur’s hand he grew curiously pale, and said nothing. A shudder seemed to pass through him, and his great bushy eyebrows twitched convulsively, in an odd, irritating way they had when he was puzzled. Then some huge beads of perspiration broke out on his yellow forehead, like a poisonous dew, and his fat fingers grew cold and clammy.\n\nLord Arthur did not fail to notice these strange signs of agitation, and, for the first time in his life, he himself felt fear. His impulse was to rush from the room, but he restrained himself. It was better to know the worst, whatever it was, than to be left in this hideous uncertainty.\n\n‘I am waiting, Mr. Podgers,’ he said.\n\n‘We are all waiting,’ cried Lady Windermere, in her quick, impatient manner, but the cheiromantist made no reply.\n\n‘I believe Arthur is going on the stage,’ said Lady Jedburgh, ‘and that, after your scolding, Mr. Podgers is afraid to tell him so.’"
+      },
+      "request_id": "79ccbd2be1b63aac740f10b9",
+      "request_sha256": "f3e805e3b3d130243b558d88ef9e1669d85a47da43f9906d49c6b5a835c493a5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0fdd3ec7b9f44178c5e14c2149a2a62064bf29186eaafc3da20d567ddae11f78"
+    }
+  ],
+  "session_id": "01a0e83d-4966-70c1-8c6a-f47c6ab2c73c",
+  "worker_id": "astra_j",
+  "worker_identity_sha256": "379c8d043a28d24c0180a7e1508526a74253a4abdfccf2558222841452c29a32"
+}

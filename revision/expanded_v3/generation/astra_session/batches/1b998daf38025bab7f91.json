@@ -1,0 +1,68 @@
+{
+  "batch_id": "1b998daf38025bab7f91",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:17:49.527381+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b12be15318d320c1debe70b8",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_hans_pfaal_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: b12be15318d320c1debe70b8\noriginal_word_count: 455\n\nPassage:\n“April 7th. Arose early, and, to my great joy, at length beheld what there could be no hesitation in supposing the northern Pole itself. It was there, beyond a doubt, and immediately beneath my feet; but, alas! I had now ascended to so vast a distance, that nothing could with accuracy be discerned. Indeed, to judge from the progression of the numbers indicating my various altitudes, respectively, at different periods, between six A.M. on the second of April, and twenty minutes before nine A.M. of the same day (at which time the barometer ran down), it might be fairly inferred that the balloon had now, at four o’clock in the morning of April the seventh, reached a height of not less, certainly, than 7,254 miles above the surface of the sea. This elevation may appear immense, but the estimate upon which it is calculated gave a result in all probability far inferior to the truth. At all events I undoubtedly beheld the whole of the earth’s major diameter; the entire northern hemisphere lay beneath me like a chart orthographically projected: and the great circle of the equator itself formed the boundary line of my horizon. Your Excellencies may, however, readily imagine that the confined regions hitherto unexplored within the limits of the Arctic circle, although situated directly beneath me, and therefore seen without any appearance of being foreshortened, were still, in themselves, comparatively too diminutive, and at too great a distance from the point of sight, to admit of any very accurate examination. Nevertheless, what could be seen was of a nature singular and exciting. Northwardly from that huge rim before mentioned, and which, with slight qualification, may be called the limit of human discovery in these regions, one unbroken, or nearly unbroken, sheet of ice continues to extend. In the first few degrees of this its progress, its surface is very sensibly flattened, farther on depressed into a plane, and finally, becoming not a little concave, it terminates, at the Pole itself, in a circular centre, sharply defined, whose apparent diameter subtended at the balloon an angle of about sixty-five seconds, and whose dusky hue, varying in intensity, was, at all times, darker than any other spot upon the visible hemisphere, and occasionally deepened into the most absolute and impenetrable blackness. Farther than this, little could be ascertained. By twelve o’clock the circular centre had materially decreased in circumference, and by seven P.M. I lost sight of it entirely; the balloon passing over the western limb of the ice, and floating away rapidly in the direction of the equator.\n\n“April 8th. Found a sensible diminution in the earth’s apparent diameter, besides a material alteration in its general color and appearance."
+      },
+      "request_id": "b12be15318d320c1debe70b8",
+      "request_sha256": "f9a56b6297bbbd2de6b31be4c6cdef7a5d7d7afbc9174d4bb0e774d25a1e9bcc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4d607ac8e250fa1504996b27dc1aaf1872f5688d417043127f52995c2608c9c0"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "aa5dab94dd83b7d08ecc0469",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_wilde_canterville_ghost_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: aa5dab94dd83b7d08ecc0469\noriginal_word_count: 466\n\nPassage:\nWHEN Mr. Hiram B. Otis, the American Minister, bought Canterville Chase, every one told him he was doing a very foolish thing, as there was no doubt at all that the place was haunted. Indeed, Lord Canterville himself, who was a man of the most punctilious honour, had felt it his duty to mention the fact to Mr. Otis when they came to discuss terms.\n\n‘We have not cared to live in the place ourselves,’ said Lord Canterville, ‘since my grandaunt, the Dowager Duchess of Bolton, was frightened into a fit, from which she never really recovered, by two skeleton hands being placed on her shoulders as she was dressing for dinner, and I feel bound to tell you, Mr. Otis, that the ghost has been seen by several living members of my family, as well as by the rector of the parish, the Rev. Augustus Dampier, who is a Fellow of King’s College, Cambridge. After the unfortunate accident to the Duchess, none of our younger servants would stay with us, and Lady Canterville often got very little sleep at night, in consequence of the mysterious noises that came from the corridor and the library.’\n\n‘My Lord,’ answered the Minister, ‘I will take the furniture and the ghost at a valuation. I come from a modern country, where we have everything that money can buy; and with all our spry young fellows painting the Old World red, and carrying off your best actresses and prima-donnas, I reckon that if there were such a thing as a ghost in Europe, we’d have it at home in a very short time in one of our public museums, or on the road as a show.’\n\n‘I fear that the ghost exists,’ said Lord Canterville, smiling, ‘though it may have resisted the overtures of your enterprising impresarios. It has been well known for three centuries, since 1584 in fact, and always makes its appearance before the death of any member of our family.’\n\n‘Well, so does the family doctor for that matter, Lord Canterville. But there is no such thing, sir, as a ghost, and I guess the laws of Nature are not going to be suspended for the British aristocracy.’\n\n‘You are certainly very natural in America,’ answered Lord Canterville, who did not quite understand Mr. Otis’s last observation, ‘and if you don’t mind a ghost in the house, it is all right. Only you must remember I warned you.’\n\nA few weeks after this, the purchase was completed, and at the close of the season the Minister and his family went down to Canterville Chase. Mrs. Otis, who, as Miss Lucretia R. Tappan, of West 53rd Street, had been a celebrated New York belle, was now a very handsome, middle-aged woman, with fine eyes, and a superb profile."
+      },
+      "request_id": "aa5dab94dd83b7d08ecc0469",
+      "request_sha256": "3cbec3786c3fe4f8036f0efbbfbf12a653e7479859b3bc3b5906d38ae471b00a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "14e47db24fbf013ec184cf11fa08556d20f41379ca2a141ae47790174044b1b0"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6577616040a05e319474a214",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 6577616040a05e319474a214\noriginal_word_count: 451\n\nPassage:\nIndeed, I have not mentioned the most important one.”\n\n“What is that, Harry?” said the lad listlessly.\n\n“Oh, the obvious consolation. Taking some one else’s admirer when one loses one’s own. In good society that always whitewashes a woman. But really, Dorian, how different Sibyl Vane must have been from all the women one meets! There is something to me quite beautiful about her death. I am glad I am living in a century when such wonders happen. They make one believe in the reality of the things we all play with, such as romance, passion, and love.”\n\n“I was terribly cruel to her. You forget that.”\n\n“I am afraid that women appreciate cruelty, downright cruelty, more than anything else. They have wonderfully primitive instincts. We have emancipated them, but they remain slaves looking for their masters, all the same. They love being dominated. I am sure you were splendid. I have never seen you really and absolutely angry, but I can fancy how delightful you looked. And, after all, you said something to me the day before yesterday that seemed to me at the time to be merely fanciful, but that I see now was absolutely true, and it holds the key to everything.”\n\n“What was that, Harry?”\n\n“You said to me that Sibyl Vane represented to you all the heroines of romance—that she was Desdemona one night, and Ophelia the other; that if she died as Juliet, she came to life as Imogen.”\n\n“She will never come to life again now,” muttered the lad, burying his face in his hands.\n\n“No, she will never come to life. She has played her last part. But you must think of that lonely death in the tawdry dressing-room simply as a strange lurid fragment from some Jacobean tragedy, as a wonderful scene from Webster, or Ford, or Cyril Tourneur. The girl never really lived, and so she has never really died. To you at least she was always a dream, a phantom that flitted through Shakespeare’s plays and left them lovelier for its presence, a reed through which Shakespeare’s music sounded richer and more full of joy. The moment she touched actual life, she marred it, and it marred her, and so she passed away. Mourn for Ophelia, if you like. Put ashes on your head because Cordelia was strangled. Cry out against Heaven because the daughter of Brabantio died. But don’t waste your tears over Sibyl Vane. She was less real than they are.”\n\nThere was a silence. The evening darkened in the room. Noiselessly, and with silver feet, the shadows crept in from the garden. The colours faded wearily out of things.\n\nAfter some time Dorian Gray looked up."
+      },
+      "request_id": "6577616040a05e319474a214",
+      "request_sha256": "2f0f74c4eab24bb292ee729241d4413c832448e4fed2d8aeeab3ac6288ab2fca",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c1dfa62db9d74c6efceae479a159661bdcb33a2f0a44a589cb35259206e6d773"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "7e46f56ab9ab17bd5e38",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:13:32.202999+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1814bfd9e226c3869afd6f4a",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_poe_the_gold_bug_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 1814bfd9e226c3869afd6f4a\noriginal_word_count: 451\n\nPassage:\nDriving a peg, with great nicety, into the ground, at the precise spot where the beetle fell, my friend now produced from his pocket a tape measure. Fastening one end of this at that point of the trunk, of the tree which was nearest the peg, he unrolled it till it reached the peg, and thence farther unrolled it, in the direction already established by the two points of the tree and the peg, for the distance of fifty feet—Jupiter clearing away the brambles with the scythe. At the spot thus attained a second peg was driven, and about this, as a centre, a rude circle, about four feet in diameter, described. Taking now a spade himself, and giving one to Jupiter and one to me, Legrand begged us to set about digging as quickly as possible.\n\nTo speak the truth, I had no especial relish for such amusement at any time, and, at that particular moment, would most willingly have declined it; for the night was coming on, and I felt much fatigued with the exercise already taken; but I saw no mode of escape, and was fearful of disturbing my poor friend’s equanimity by a refusal. Could I have depended, indeed, upon Jupiter’s aid, I would have had no hesitation in attempting to get the lunatic home by force; but I was too well assured of the old negro’s disposition, to hope that he would assist me, under any circumstances, in a personal contest with his master. I made no doubt that the latter had been infected with some of the innumerable Southern superstitions about money buried, and that his phantasy had received confirmation by the finding of the _scarabæus_, or, perhaps, by Jupiter’s obstinacy in maintaining it to be “a bug of real gold.” A mind disposed to lunacy would readily be led away by such suggestions—especially if chiming in with favorite preconceived ideas—and then I called to mind the poor fellow’s speech about the beetle’s being “the index of his fortune.” Upon the whole, I was sadly vexed and puzzled, but, at length, I concluded to make a virtue of necessity—to dig with a good will, and thus the sooner to convince the visionary, by ocular demonstration, of the fallacy of the opinions he entertained.\n\nThe lanterns having been lit, we all fell to work with a zeal worthy a more rational cause; and, as the glare fell upon our persons and implements, I could not help thinking how picturesque a group we composed, and how strange and suspicious our labors must have appeared to any interloper who, by chance, might have stumbled upon our whereabouts.\n\nWe dug very steadily for two hours."
+      },
+      "request_id": "1814bfd9e226c3869afd6f4a",
+      "request_sha256": "381e1bb9fac33c3f9fc3bb2ef898a2822be8265081ec35b557308fff2260022a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c8eeba675815a1c3a15d3053bafa50cbfe13e5166bb411235d588ef6c072093c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1d1d2320c76ad0b0bdff5e52",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_dickens_oliver_twist_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 1d1d2320c76ad0b0bdff5e52\noriginal_word_count: 473\n\nPassage:\nHer situation was, indeed, one of no common trial and difficulty. While she felt the most eager and burning desire to penetrate the mystery in which Oliver’s history was enveloped, she could not but hold sacred the confidence which the miserable woman with whom she had just conversed, had reposed in her, as a young and guileless girl. Her words and manner had touched Rose Maylie’s heart; and, mingled with her love for her young charge, and scarcely less intense in its truth and fervour, was her fond wish to win the outcast back to repentance and hope.\n\nThey purposed remaining in London only three days, prior to departing for some weeks to a distant part of the coast. It was now midnight of the first day. What course of action could she determine upon, which could be adopted in eight-and-forty hours? Or how could she postpone the journey without exciting suspicion?\n\nMr. Losberne was with them, and would be for the next two days; but Rose was too well acquainted with the excellent gentleman’s impetuosity, and foresaw too clearly the wrath with which, in the first explosion of his indignation, he would regard the instrument of Oliver’s recapture, to trust him with the secret, when her representations in the girl’s behalf could be seconded by no experienced person. These were all reasons for the greatest caution and most circumspect behaviour in communicating it to Mrs. Maylie, whose first impulse would infallibly be to hold a conference with the worthy doctor on the subject. As to resorting to any legal adviser, even if she had known how to do so, it was scarcely to be thought of, for the same reason. Once the thought occurred to her of seeking assistance from Harry; but this awakened the recollection of their last parting, and it seemed unworthy of her to call him back, when—the tears rose to her eyes as she pursued this train of reflection—he might have by this time learnt to forget her, and to be happier away.\n\nDisturbed by these different reflections; inclining now to one course and then to another, and again recoiling from all, as each successive consideration presented itself to her mind; Rose passed a sleepless and anxious night. After more communing with herself next day, she arrived at the desperate conclusion of consulting Harry.\n\n“If it be painful to him,” she thought, “to come back here, how painful it will be to me! But perhaps he will not come; he may write, or he may come himself, and studiously abstain from meeting me—he did when he went away. I hardly thought he would; but it was better for us both.” And here Rose dropped the pen, and turned away, as though the very paper which was to be her messenger should not see her weep."
+      },
+      "request_id": "1d1d2320c76ad0b0bdff5e52",
+      "request_sha256": "4e05c188860ba15b4f05a2647ee87acb9cd5809bf3295aca9691aa0408e0d3dc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1569e29994ff99a07f251fa8ef7b41152a6f51777152ff0b1e4747757da0d847"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a110e4976a9d39c7b659ef20",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_poe_hans_pfaal_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: a110e4976a9d39c7b659ef20\noriginal_word_count: 464\n\nPassage:\nPeople who were formerly, the very best customers in the world, had now not a moment of time to think of us at all. They had, so they said, as much as they could do to read about the revolutions, and keep up with the march of intellect and the spirit of the age. If a fire wanted fanning, it could readily be fanned with a newspaper, and as the government grew weaker, I have no doubt that leather and iron acquired durability in proportion, for, in a very short time, there was not a pair of bellows in all Rotterdam that ever stood in need of a stitch or required the assistance of a hammer. This was a state of things not to be endured. I soon grew as poor as a rat, and, having a wife and children to provide for, my burdens at length became intolerable, and I spent hour after hour in reflecting upon the most convenient method of putting an end to my life. Duns, in the meantime, left me little leisure for contemplation. My house was literally besieged from morning till night, so that I began to rave, and foam, and fret like a caged tiger against the bars of his enclosure. There were three fellows in particular who worried me beyond endurance, keeping watch continually about my door, and threatening me with the law. Upon these three I internally vowed the bitterest revenge, if ever I should be so happy as to get them within my clutches; and I believe nothing in the world but the pleasure of this anticipation prevented me from putting my plan of suicide into immediate execution, by blowing my brains out with a blunderbuss. I thought it best, however, to dissemble my wrath, and to treat them with promises and fair words, until, by some good turn of fate, an opportunity of vengeance should be afforded me.\n\n“One day, having given my creditors the slip, and feeling more than usually dejected, I continued for a long time to wander about the most obscure streets without object whatever, until at length I chanced to stumble against the corner of a bookseller’s stall. Seeing a chair close at hand, for the use of customers, I threw myself doggedly into it, and, hardly knowing why, opened the pages of the first volume which came within my reach. It proved to be a small pamphlet treatise on Speculative Astronomy, written either by Professor Encke of Berlin or by a Frenchman of somewhat similar name. I had some little tincture of information on matters of this nature, and soon became more and more absorbed in the contents of the book, reading it actually through twice before I awoke to a recollection of what was passing around me."
+      },
+      "request_id": "a110e4976a9d39c7b659ef20",
+      "request_sha256": "9950d47d52d7a2f554d8869ffcddb3656a2f33195d6715badbce26c5c0f0c2a0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ce727a96c8dae0b4d5d2a9e0f1476738ad22d1429811d26db2b85a984e4d3f60"
+    }
+  ],
+  "session_id": "01a0e85b-f4da-78c2-af90-17d8fea0262a",
+  "worker_id": "astra_r",
+  "worker_identity_sha256": "1a9221512f2af9568b0b6124d87657856f97eb8192807e50db5ed5d6fe4cdc4b"
+}

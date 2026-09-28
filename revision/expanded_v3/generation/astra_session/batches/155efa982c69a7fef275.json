@@ -1,0 +1,68 @@
+{
+  "batch_id": "155efa982c69a7fef275",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:48:54.115643+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d4ecccba6d4d1ab8428fa2ca",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 478,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: d4ecccba6d4d1ab8428fa2ca\noriginal_word_count: 478\n\nPassage:\nI am very ignorant, and it troubles me--just a little.”\n\n“Tell me what it is.”\n\n“I have a cousin, an only relative and an orphan, like myself, whom I love very dearly. She is five years younger than I, and she lives in a farmer’s house in the south country. Poverty parted us, and she knows nothing of my fate--for I cannot write--and if I could, how should I tell her! It is better as it is.”\n\n“Yes, yes: better as it is.”\n\n“What I have been thinking as we came along, and what I am still thinking now, as I look into your kind strong face which gives me so much support, is this:--If the Republic really does good to the poor, and they come to be less hungry, and in all ways to suffer less, she may live a long time: she may even live to be old.”\n\n“What then, my gentle sister?”\n\n“Do you think:” the uncomplaining eyes in which there is so much endurance, fill with tears, and the lips part a little more and tremble: “that it will seem long to me, while I wait for her in the better land where I trust both you and I will be mercifully sheltered?”\n\n“It cannot be, my child; there is no Time there, and no trouble there.”\n\n“You comfort me so much! I am so ignorant. Am I to kiss you now? Is the moment come?”\n\n“Yes.”\n\nShe kisses his lips; he kisses hers; they solemnly bless each other. The spare hand does not tremble as he releases it; nothing worse than a sweet, bright constancy is in the patient face. She goes next before him--is gone; the knitting-women count Twenty-Two.\n\n“I am the Resurrection and the Life, saith the Lord: he that believeth in me, though he were dead, yet shall he live: and whosoever liveth and believeth in me shall never die.”\n\nThe murmuring of many voices, the upturning of many faces, the pressing on of many footsteps in the outskirts of the crowd, so that it swells forward in a mass, like one great heave of water, all flashes away. Twenty-Three.\n\n*****\n\nThey said of him, about the city that night, that it was the peacefullest man’s face ever beheld there. Many added that he looked sublime and prophetic.\n\nOne of the most remarkable sufferers by the same axe--a woman--had asked at the foot of the same scaffold, not long before, to be allowed to write down the thoughts that were inspiring her. If he had given any utterance to his, and they were prophetic, they would have been these:\n\n“I see Barsad, and Cly, Defarge, The Vengeance, the Juryman, the Judge, long ranks of the new oppressors who have risen on the destruction of the old, perishing by this retributive instrument, before it shall cease out of its present use."
+      },
+      "request_id": "d4ecccba6d4d1ab8428fa2ca",
+      "request_sha256": "bb3a767dec3d79112da796b0e9b6680e705b41aec59ebf12e2b1dac7de7b7dbf",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "954376e1cca18d8a87f0e5ec097fb5d4df300362ffd3b40268da6303b2a12ffc"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "cb568ac27e88676f647476dc",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_wilde_canterville_ghost_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: cb568ac27e88676f647476dc\noriginal_word_count: 472\n\nPassage:\n‘Oh, bother my hat! I want Virginia!’ cried the little Duke, laughing, and they galloped on to the railway station. There Mr. Otis inquired of the station-master if any one answering the description of Virginia had been seen on the platform, but could get no news of her. The station-master, however, wired up and down the line, and assured him that a strict watch would be kept for her, and, after having bought a hat for the little Duke from a linen-draper, who was just putting up his shutters, Mr. Otis rode off to Bexley, a village about four miles away, which he was told was a well-known haunt of the gypsies, as there was a large common next to it. Here they roused up the rural policeman, but could get no information from him, and, after riding all over the common, they turned their horses’ heads homewards, and reached the Chase about eleven o’clock, dead-tired and almost heart-broken. They found Washington and the twins waiting for them at the gate-house with lanterns, as the avenue was very dark. Not the slightest trace of Virginia had been discovered. The gypsies had been caught on Brockley meadows, but she was not with them, and they had explained their sudden departure by saying that they had mistaken the date of Chorton Fair, and had gone off in a hurry for fear they might be late. Indeed, they had been quite distressed at hearing of Virginia’s disappearance, as they were very grateful to Mr. Otis for having allowed them to camp in his park, and four of their number had stayed behind to help in the search. The carp-pond had been dragged, and the whole Chase thoroughly gone over, but without any result. It was evident that, for that night at any rate, Virginia was lost to them; and it was in a state of the deepest depression that Mr. Otis and the boys walked up to the house, the groom following behind with the two horses and the pony. In the hall they found a group of frightened servants, and lying on a sofa in the library was poor Mrs. Otis, almost out of her mind with terror and anxiety, and having her forehead bathed with eau-de-cologne by the old housekeeper. Mr. Otis at once insisted on her having something to eat, and ordered up supper for the whole party. It was a melancholy meal, as hardly any one spoke, and even the twins were awestruck and subdued, as they were very fond of their sister. When they had finished, Mr. Otis, in spite of the entreaties of the little Duke, ordered them all to bed, saying that nothing more could be done that night, and that he would telegraph in the morning to Scotland Yard for some detectives to be sent down immediately."
+      },
+      "request_id": "cb568ac27e88676f647476dc",
+      "request_sha256": "50d39a9bda063539d7dd24c977f34c0d9fb400f5b9b09aef662c585d8fc2ffd4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0ce185bba5a831177cf957e15d1e185774a974800fb50d1c375f86ee1b31a876"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e0d7a8519c09e76d53c85f35",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 477,
+      "passage_id": "V2_austen_pride_and_prejudice_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: e0d7a8519c09e76d53c85f35\noriginal_word_count: 477\n\nPassage:\n“Oh, your father, of course, may spare you, if your mother can. Daughters are never of so much consequence to a father. And if you will stay another _month_ complete, it will be in my power to take one of you as far as London, for I am going there early in June, for a week; and as Dawson does not object to the barouche-box, there will be very good room for one of you--and, indeed, if the weather should happen to be cool, I should not object to taking you both, as you are neither of you large.”\n\n“You are all kindness, madam; but I believe we must abide by our original plan.”\n\nLady Catherine seemed resigned. “Mrs. Collins, you must send a servant with them. You know I always speak my mind, and I cannot bear the idea of two young women travelling post by themselves. It is highly improper. You must contrive to send somebody. I have the greatest dislike in the world to that sort of thing. Young women should always be properly guarded and attended, according to their situation in life. When my niece Georgiana went to Ramsgate last summer, I made a point of her having two men-servants go with her. Miss Darcy, the daughter of Mr. Darcy of Pemberley, and Lady Anne, could not have appeared with propriety in a different manner. I am excessively attentive to all those things. You must send John with the young ladies, Mrs. Collins. I am glad it occurred to me to mention it; for it would really be discreditable to _you_ to let them go alone.”\n\n“My uncle is to send a servant for us.”\n\n“Oh! Your uncle! He keeps a man-servant, does he? I am very glad you have somebody who thinks of those things. Where shall you change horses? Oh, Bromley, of course. If you mention my name at the Bell, you will be attended to.”\n\nLady Catherine had many other questions to ask respecting their journey; and as she did not answer them all herself attention was necessary--which Elizabeth believed to be lucky for her; or, with a mind so occupied, she might have forgotten where she was. Reflection must be reserved for solitary hours: whenever she was alone, she gave way to it as the greatest relief; and not a day went by without a solitary walk, in which she might indulge in all the delight of unpleasant recollections.\n\nMr. Darcy’s letter she was in a fair way of soon knowing by heart. She studied every sentence; and her feelings towards its writer were at times widely different. When she remembered the style of his address, she was still full of indignation: but when she considered how unjustly she had condemned and upbraided him, her anger was turned against herself; and his disappointed feelings became the object of compassion."
+      },
+      "request_id": "e0d7a8519c09e76d53c85f35",
+      "request_sha256": "2e5e5e26924a6ea1847da91e33c11607bcbd4dcc8300bcfa996a6ea2f359a2a8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5340d27d5232dcfbd753c2f6389de22c6fe6387edb572014bf79f25df20eec0a"
+    }
+  ],
+  "session_id": "01a0e87b-49a4-73d1-9183-c1526aa2e672",
+  "worker_id": "astra_ab",
+  "worker_identity_sha256": "9f063cc79481da5fa1e91530b35ed3863df2f1d390a463dfb849cb30ea1c9d85"
+}

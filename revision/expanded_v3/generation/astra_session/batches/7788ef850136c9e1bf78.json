@@ -1,0 +1,68 @@
+{
+  "batch_id": "7788ef850136c9e1bf78",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:56:58.357658+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8115a653c329085542b708aa",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8115a653c329085542b708aa\noriginal_word_count: 481\n\nPassage:\nFar into the distance curved the line of flickering gas-lamps, and outside a little walled-in house stood a solitary hansom, the driver asleep inside. He walked hastily in the direction of Portland Place, now and then looking round, as though he feared that he was being followed. At the corner of Rich Street stood two men, reading a small bill upon a hoarding. An odd feeling of curiosity stirred him, and he crossed over. As he came near, the word ‘Murder,’ printed in black letters, met his eye. He started, and a deep flush came into his cheek. It was an advertisement offering a reward for any information leading to the arrest of a man of medium height, between thirty and forty years of age, wearing a billy-cock hat, a black coat, and check trousers, and with a scar upon his right cheek. He read it over and over again, and wondered if the wretched man would be caught, and how he had been scarred. Perhaps, some day, his own name might be placarded on the walls of London. Some day, perhaps, a price would be set on his head also.\n\nThe thought made him sick with horror. He turned on his heel, and hurried on into the night.\n\nWhere he went he hardly knew. He had a dim memory of wandering through a labyrinth of sordid houses, of being lost in a giant web of sombre streets, and it was bright dawn when he found himself at last in Piccadilly Circus. As he strolled home towards Belgrave Square, he met the great waggons on their way to Covent Garden. The white-smocked carters, with their pleasant sunburnt faces and coarse curly hair, strode sturdily on, cracking their whips, and calling out now and then to each other; on the back of a huge grey horse, the leader of a jangling team, sat a chubby boy, with a bunch of primroses in his battered hat, keeping tight hold of the mane with his little hands, and laughing; and the great piles of vegetables looked like masses of jade against the morning sky, like masses of green jade against the pink petals of some marvellous rose. Lord Arthur felt curiously affected, he could not tell why. There was something in the dawn’s delicate loveliness that seemed to him inexpressibly pathetic, and he thought of all the days that break in beauty, and that set in storm. These rustics, too, with their rough, good-humoured voices, and their nonchalant ways, what a strange London they saw! A London free from the sin of night and the smoke of day, a pallid, ghost-like city, a desolate town of tombs! He wondered what they thought of it, and whether they knew anything of its splendour and its shame, of its fierce, fiery-coloured joys, and its horrible hunger, of all it makes and mars from morn to eve."
+      },
+      "request_id": "8115a653c329085542b708aa",
+      "request_sha256": "e175c17848e538932abc457c212177c82b68c5ffa3b21646e9b377d25b411936",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2e5e22626f7599addb1c06e4cefec4d79daea94709ca7ac33d7ae9cebf497a06"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7ed539435bbe4c329acbbed0",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_dickens_oliver_twist_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 7ed539435bbe4c329acbbed0\noriginal_word_count: 462\n\nPassage:\nBut I may ask you two questions, may I?”\n\n“You may ask,” said Monks, with some show of surprise; “but whether I answer or not is another question.”\n\n“—Which makes three,” observed Mr. Bumble, essaying a stroke of facetiousness.\n\n“Is that what you expected to get from me?” demanded the matron.\n\n“It is,” replied Monks. “The other question?”\n\n“What do you propose to do with it? Can it be used against me?”\n\n“Never,” rejoined Monks; “nor against me either. See here! But don’t move a step forward, or your life is not worth a bulrush.”\n\nWith these words, he suddenly wheeled the table aside, and pulling an iron ring in the boarding, threw back a large trap-door which opened close at Mr. Bumble’s feet, and caused that gentleman to retire several paces backward, with great precipitation.\n\n“Look down,” said Monks, lowering the lantern into the gulf. “Don’t fear me. I could have let you down, quietly enough, when you were seated over it, if that had been my game.”\n\nThus encouraged, the matron drew near to the brink; and even Mr. Bumble himself, impelled by curiousity, ventured to do the same. The turbid water, swollen by the heavy rain, was rushing rapidly on below; and all other sounds were lost in the noise of its plashing and eddying against the green and slimy piles. There had once been a water-mill beneath; the tide foaming and chafing round the few rotten stakes, and fragments of machinery that yet remained, seemed to dart onward, with a new impulse, when freed from the obstacles which had unavailingly attempted to stem its headlong course.\n\n“If you flung a man’s body down there, where would it be tomorrow morning?” said Monks, swinging the lantern to and fro in the dark well.\n\n“Twelve miles down the river, and cut to pieces besides,” replied Bumble, recoiling at the thought.\n\nMonks drew the little packet from his breast, where he had hurriedly thrust it; and tying it to a leaden weight, which had formed a part of some pulley, and was lying on the floor, dropped it into the stream. It fell straight, and true as a die; clove the water with a scarcely audible splash; and was gone.\n\nThe three looking into each other’s faces, seemed to breathe more freely.\n\n“There!” said Monks, closing the trap-door, which fell heavily back into its former position. “If the sea ever gives up its dead, as books say it will, it will keep its gold and silver to itself, and that trash among it. We have nothing more to say, and may break up our pleasant party.”\n\n“By all means,” observed Mr. Bumble, with great alacrity.\n\n“You’ll keep a quiet tongue in your head, will you?” said Monks, with a threatening look."
+      },
+      "request_id": "7ed539435bbe4c329acbbed0",
+      "request_sha256": "7f01b5850092ffa46ecec5f3e7842d9b2b5c7e70730c329961b16f717503828b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "873ce719cbc72afe3929b237b3e77b77ec72e0ca45b45b86b14f3823f8ef1163"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ef234069588405899bc11691",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_persuasion_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: ef234069588405899bc11691\noriginal_word_count: 461\n\nPassage:\nThe young people were all wild to see Lyme. Captain Wentworth talked of going there again himself, it was only seventeen miles from Uppercross; though November, the weather was by no means bad; and, in short, Louisa, who was the most eager of the eager, having formed the resolution to go, and besides the pleasure of doing as she liked, being now armed with the idea of merit in maintaining her own way, bore down all the wishes of her father and mother for putting it off till summer; and to Lyme they were to go—Charles, Mary, Anne, Henrietta, Louisa, and Captain Wentworth.\n\nThe first heedless scheme had been to go in the morning and return at night; but to this Mr Musgrove, for the sake of his horses, would not consent; and when it came to be rationally considered, a day in the middle of November would not leave much time for seeing a new place, after deducting seven hours, as the nature of the country required, for going and returning. They were, consequently, to stay the night there, and not to be expected back till the next day’s dinner. This was felt to be a considerable amendment; and though they all met at the Great House at rather an early breakfast hour, and set off very punctually, it was so much past noon before the two carriages, Mr Musgrove’s coach containing the four ladies, and Charles’s curricle, in which he drove Captain Wentworth, were descending the long hill into Lyme, and entering upon the still steeper street of the town itself, that it was very evident they would not have more than time for looking about them, before the light and warmth of the day were gone.\n\nAfter securing accommodations, and ordering a dinner at one of the inns, the next thing to be done was unquestionably to walk directly down to the sea. They were come too late in the year for any amusement or variety which Lyme, as a public place, might offer. The rooms were shut up, the lodgers almost all gone, scarcely any family but of the residents left; and, as there is nothing to admire in the buildings themselves, the remarkable situation of the town, the principal street almost hurrying into the water, the walk to the Cobb, skirting round the pleasant little bay, which, in the season, is animated with bathing machines and company; the Cobb itself, its old wonders and new improvements, with the very beautiful line of cliffs stretching out to the east of the town, are what the stranger’s eye will seek; and a very strange stranger it must be, who does not see charms in the immediate environs of Lyme, to make him wish to know it better."
+      },
+      "request_id": "ef234069588405899bc11691",
+      "request_sha256": "4405bfcf31c49d36ac7db061174770263f97154eb81e3a6d0cbc30c1c148b9fc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "55dd559a4c72cbfd7e422da7fddeb41a6666aa0a340e303f028f2cc286453497"
+    }
+  ],
+  "session_id": "01a0e848-1788-74e3-94b7-8185fb822a0f",
+  "worker_id": "astra_m",
+  "worker_identity_sha256": "a661c68b1db9c5e5d4a06cab3427b000d00cd4134df771893194ef71da9b6fed"
+}

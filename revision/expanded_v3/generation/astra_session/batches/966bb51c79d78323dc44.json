@@ -1,0 +1,68 @@
+{
+  "batch_id": "966bb51c79d78323dc44",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:42:12.826791+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "490d9caea7590c8634185fc0",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_poe_hans_pfaal_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 490d9caea7590c8634185fc0\noriginal_word_count: 472\n\nPassage:\nIndeed I had no fear on her account. She was what people call a notable woman, and could manage matters in the world without my assistance. I believe, to tell the truth, she always looked upon me as an idle boy, a mere make-weight, good for nothing but building castles in the air, and was rather glad to get rid of me. It was a dark night when I bade her good-bye, and taking with me, as aides-de-camp, the three creditors who had given me so much trouble, we carried the balloon, with the car and accoutrements, by a roundabout way, to the station where the other articles were deposited. We there found them all unmolested, and I proceeded immediately to business.\n\n“It was the first of April. The night, as I said before, was dark; there was not a star to be seen; and a drizzling rain, falling at intervals, rendered us very uncomfortable. But my chief anxiety was concerning the balloon, which, in spite of the varnish with which it was defended, began to grow rather heavy with the moisture; the powder also was liable to damage. I therefore kept my three duns working with great diligence, pounding down ice around the central cask, and stirring the acid in the others. They did not cease, however, importuning me with questions as to what I intended to do with all this apparatus, and expressed much dissatisfaction at the terrible labor I made them undergo. They could not perceive, so they said, what good was likely to result from their getting wet to the skin, merely to take a part in such horrible incantations. I began to get uneasy, and worked away with all my might, for I verily believe the idiots supposed that I had entered into a compact with the devil, and that, in short, what I was now doing was nothing better than it should be. I was, therefore, in great fear of their leaving me altogether. I contrived, however, to pacify them by promises of payment of all scores in full, as soon as I could bring the present business to a termination. To these speeches they gave, of course, their own interpretation; fancying, no doubt, that at all events I should come into possession of vast quantities of ready money; and provided I paid them all I owed, and a trifle more, in consideration of their services, I dare say they cared very little what became of either my soul or my carcass.\n\n“In about four hours and a half I found the balloon sufficiently inflated. I attached the car, therefore, and put all my implements in it—not forgetting the condensing apparatus, a copious supply of water, and a large quantity of provisions, such as pemmican, in which much nutriment is contained in comparatively little bulk."
+      },
+      "request_id": "490d9caea7590c8634185fc0",
+      "request_sha256": "84c4b78efe1b4cd3f8289ee731c80187d66680ab0b1ebe151d39de64e858f4de",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8eafe8c2187349d81b82c79983045b2192035bce607d08ead71066ece6662812"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c3ea1250bbd5bc6d482a525b",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_dickens_oliver_twist_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: c3ea1250bbd5bc6d482a525b\noriginal_word_count: 460\n\nPassage:\nIf not, and you appeal to my forbearance, and the mercy of those you have deeply injured, seat yourself, without a word, in that chair. It has waited for you two whole days.”\n\nMonks muttered some unintelligible words, but wavered still.\n\n“You will be prompt,” said Mr. Brownlow. “A word from me, and the alternative has gone for ever.”\n\nStill the man hesitated.\n\n“I have not the inclination to parley,” said Mr. Brownlow, “and, as I advocate the dearest interests of others, I have not the right.”\n\n“Is there—” demanded Monks with a faltering tongue,—“is there—no middle course?”\n\n“None.”\n\nMonks looked at the old gentleman, with an anxious eye; but, reading in his countenance nothing but severity and determination, walked into the room, and, shrugging his shoulders, sat down.\n\n“Lock the door on the outside,” said Mr. Brownlow to the attendants, “and come when I ring.”\n\nThe men obeyed, and the two were left alone together.\n\n“This is pretty treatment, sir,” said Monks, throwing down his hat and cloak, “from my father’s oldest friend.”\n\n“It is because I was your father’s oldest friend, young man,” returned Mr. Brownlow; “it is because the hopes and wishes of young and happy years were bound up with him, and that fair creature of his blood and kindred who rejoined her God in youth, and left me here a solitary, lonely man: it is because he knelt with me beside his only sisters’s death-bed when he was yet a boy, on the morning that would—but Heaven willed otherwise—have made her my young wife; it is because my seared heart clung to him, from that time forth, through all his trials and errors, till he died; it is because old recollections and associations filled my heart, and even the sight of you brings with it old thoughts of him; it is because of all these things that I am moved to treat you gently now—yes, Edward Leeford, even now—and blush for your unworthiness who bear the name.”\n\n“What has the name to do with it?” asked the other, after contemplating, half in silence, and half in dogged wonder, the agitation of his companion. “What is the name to me?”\n\n“Nothing,” replied Mr. Brownlow, “nothing to you. But it was _hers_, and even at this distance of time brings back to me, an old man, the glow and thrill which I once felt, only to hear it repeated by a stranger. I am very glad you have changed it—very—very.”\n\n“This is all mighty fine,” said Monks (to retain his assumed designation) after a long silence, during which he had jerked himself in sullen defiance to and fro, and Mr. Brownlow had sat, shading his face with his hand."
+      },
+      "request_id": "c3ea1250bbd5bc6d482a525b",
+      "request_sha256": "8cf39f711060cdfc2355733e699ff1d1512e1b9bcb64a57da8b37dc0dfb795e2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7bda9030d71e18d1faf13b7c08d788da60da5445399413b8d20d75fa7910d89c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "30ebdb9132df34bb1e7bc53d",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_murders_rue_morgue_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 30ebdb9132df34bb1e7bc53d\noriginal_word_count: 455\n\nPassage:\nThe mental features discoursed of as the analytical, are, in themselves, but little susceptible of analysis. We appreciate them only in their effects. We know of them, among other things, that they are always to their possessor, when inordinately possessed, a source of the liveliest enjoyment. As the strong man exults in his physical ability, delighting in such exercises as call his muscles into action, so glories the analyst in that moral activity which _disentangles._ He derives pleasure from even the most trivial occupations bringing his talent into play. He is fond of enigmas, of conundrums, of hieroglyphics; exhibiting in his solutions of each a degree of _acumen_ which appears to the ordinary apprehension præternatural. His results, brought about by the very soul and essence of method, have, in truth, the whole air of intuition.\n\nThe faculty of re-solution is possibly much invigorated by mathematical study, and especially by that highest branch of it which, unjustly, and merely on account of its retrograde operations, has been called, as if _par excellence_, analysis. Yet to calculate is not in itself to analyse. A chess-player, for example, does the one without effort at the other. It follows that the game of chess, in its effects upon mental character, is greatly misunderstood. I am not now writing a treatise, but simply prefacing a somewhat peculiar narrative by observations very much at random; I will, therefore, take occasion to assert that the higher powers of the reflective intellect are more decidedly and more usefully tasked by the unostentatious game of draughts than by all the elaborate frivolity of chess. In this latter, where the pieces have different and _bizarre_ motions, with various and variable values, what is only complex is mistaken (a not unusual error) for what is profound. The _attention_ is here called powerfully into play. If it flag for an instant, an oversight is committed resulting in injury or defeat. The possible moves being not only manifold but involute, the chances of such oversights are multiplied; and in nine cases out of ten it is the more concentrative rather than the more acute player who conquers. In draughts, on the contrary, where the moves are _unique_ and have but little variation, the probabilities of inadvertence are diminished, and the mere attention being left comparatively unemployed, what advantages are obtained by either party are obtained by superior _acumen_. To be less abstract, let us suppose a game of draughts where the pieces are reduced to four kings, and where, of course, no oversight is to be expected. It is obvious that here the victory can be decided (the players being at all equal) only by some _recherché_ movement, the result of some strong exertion of the intellect."
+      },
+      "request_id": "30ebdb9132df34bb1e7bc53d",
+      "request_sha256": "30190bf62cf7e634d7c85e4dc7697125a551b42d6c5ce288d2c78bba281ab20c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "754866f56ae90bae7100c9f18a0f3ea44352431ea5d482a9c5a39d331f1808ad"
+    }
+  ],
+  "session_id": "01a0e870-b3dc-74f3-b9ee-b27dbd5dd892",
+  "worker_id": "astra_x",
+  "worker_identity_sha256": "7c3a0144cf89773a3dc35b850a0bd602d9bf1a04c8ed1e402a69d4a4892146a6"
+}

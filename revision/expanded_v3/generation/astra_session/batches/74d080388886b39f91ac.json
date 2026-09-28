@@ -1,0 +1,68 @@
+{
+  "batch_id": "74d080388886b39f91ac",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:27:26.498649+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "44fb0ec3d4fd5fa02ca34763",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_poe_the_gold_bug_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 44fb0ec3d4fd5fa02ca34763\noriginal_word_count: 473\n\nPassage:\nI accordingly went over to the plantation, and re-instituted my inquiries among the older negroes of the place. At length one of the most aged of the women said that she had heard of such a place as Bessop’s Castle, and thought that she could guide me to it, but that it was not a castle nor a tavern, but a high rock.\n\n“I offered to pay her well for her trouble, and, after some demur, she consented to accompany me to the spot. We found it without much difficulty, when, dismissing her, I proceeded to examine the place. The ‘castle’ consisted of an irregular assemblage of cliffs and rocks—one of the latter being quite remarkable for its height as well as for its insulated and artificial appearance. I clambered to its apex, and then felt much at a loss as to what should be next done.\n\n“While I was busied in reflection, my eyes fell upon a narrow ledge in the eastern face of the rock, perhaps a yard below the summit upon which I stood. This ledge projected about eighteen inches, and was not more than a foot wide, while a niche in the cliff just above it gave it a rude resemblance to one of the hollow-backed chairs used by our ancestors. I made no doubt that here was the ‘devil’s seat’ alluded to in the MS., and now I seemed to grasp the full secret of the riddle.\n\n“The ‘good glass,’ I knew, could have reference to nothing but a telescope; for the word ‘glass’ is rarely employed in any other sense by seamen. Now here, I at once saw, was a telescope to be used, and a definite point of view, admitting no variation, from which to use it. Nor did I hesitate to believe that the phrases, ‘forty-one degrees and thirteen minutes,’ and ‘northeast and by north,’ were intended as directions for the levelling of the glass. Greatly excited by these discoveries, I hurried home, procured a telescope, and returned to the rock.\n\n“I let myself down to the ledge, and found that it was impossible to retain a seat upon it except in one particular position. This fact confirmed my preconceived idea. I proceeded to use the glass. Of course, the ‘forty-one degrees and thirteen minutes’ could allude to nothing but elevation above the visible horizon, since the horizontal direction was clearly indicated by the words, ‘northeast and by north.’ This latter direction I at once established by means of a pocket-compass; then, pointing the glass as nearly at an angle of forty-one degrees of elevation as I could do it by guess, I moved it cautiously up or down, until my attention was arrested by a circular rift or opening in the foliage of a large tree that overtopped its fellows in the distance."
+      },
+      "request_id": "44fb0ec3d4fd5fa02ca34763",
+      "request_sha256": "74b4ed21d702d065fb8cb3ddb2022dbe5b14590a458c52d272190ce2cbd07db9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "44802a46931f96f9d0a021d554d2f0327761510774bfd27c6c20f0c71b514aa4"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "588ffa34ef1b6d9cb7713cf1",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_shelley_mathilda_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 588ffa34ef1b6d9cb7713cf1\noriginal_word_count: 481\n\nPassage:\nMy father had been and his memory was the life of my life. I might feel gratitude to another but I never more could love or hope as I had done; it was all suffering; even my pleasures were endured, not enjoyed. I was as a solitary spot among mountains shut in on all sides by steep black precipices; where no ray of heat could penetrate; and from which there was no outlet to sunnier fields. And thus it was that although the spirit of friendship soothed me for a while it could not restore me. It came as some gentle visitation; it went and I hardly felt the loss. The spirit of existence was dead within me; be not surprised therefore that when it came I welcomed not more gladly, or when it departed I lamented not more bitterly the best gift of heaven--a friend.\n\nThe name of my friend was Woodville. I will briefly relate his history that you may judge how cold my heart must have been not to be warmed by his eloquent words and tender sympathy; and how he also being most unhappy we were well fitted to be a mutual consolation to each other, if I had not been hardened to stone by the Medusa head of Misery. The misfortunes of Woodville were not of the hearts core like mine; his was a natural grief, not to destroy but to purify the heart and from which he might, when its shadow had passed from over him, shine forth brighter and happier than before.\n\nWoodville was the son of a poor clergyman and had received a classical education. He was one of those very few whom fortune favours from their birth; on whom she bestows all gifts of intellect and person with a profusion that knew no bounds, and whom under her peculiar protection, no imperfection however slight, or disappointment however transitory has leave to touch. She seemed to have formed his mind of that excellence which no dross can tarnish, and his understanding was such that no error could pervert. His genius was transcendant, and when it rose as a bright star in the east all eyes were turned towards it in admiration. He was a Poet. That name has so often been degraded that it will not convey the idea of all that he was. He was like a poet of old whom the muses had crowned in his cradle, and on whose lips bees had fed. As he walked among other men he seemed encompassed with a heavenly halo that divided him from and lifted him above them. It was his surpassing beauty, the dazzling fire of his eyes, and his words whose rich accents wrapt the listener in mute and extactic wonder, that made him transcend all others so that before him they appeared only formed to minister to his superior excellence."
+      },
+      "request_id": "588ffa34ef1b6d9cb7713cf1",
+      "request_sha256": "d8bb1056a3c2b149c2d3505d441eb93674d2de5e0c163b13860bd430553d3c94",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c7c45748bf95e83006d3d361444bfdca901e74702a64f8d6f22794d34b2a1593"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "af643e9d730162ac3c3bc28e",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_shelley_the_last_man_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: af643e9d730162ac3c3bc28e\noriginal_word_count: 462\n\nPassage:\nWere our proud dreams thus to fade? Our name was written “a little lower than the angels;” and, behold, we were no better than ephemera. We had called ourselves the “paragon of animals,” and, lo! we were a “quint-essence of dust.” We repined that the pyramids had outlasted the embalmed body of their builder. Alas! the mere shepherd’s hut of straw we passed on the road, contained in its structure the principle of greater longevity than the whole race of man. How reconcile this sad change to our past aspirations, to our apparent powers!\n\nSudden an internal voice, articulate and clear, seemed to say:—Thus from eternity, it was decreed: the steeds that bear Time onwards had this hour and this fulfilment enchained to them, since the void brought forth its burthen. Would you read backwards the unchangeable laws of Necessity?\n\nMother of the world! Servant of the Omnipotent! eternal, changeless Necessity! who with busy fingers sittest ever weaving the indissoluble chain of events!—I will not murmur at thy acts. If my human mind cannot acknowledge that all that is, is right; yet since what is, must be, I will sit amidst the ruins and smile. Truly we were not born to enjoy, but to submit, and to hope.\n\nWill not the reader tire, if I should minutely describe our long-drawn journey from Paris to Geneva? If, day by day, I should record, in the form of a journal, the thronging miseries of our lot, could my hand write, or language afford words to express, the variety of our woe; the hustling and crowding of one deplorable event upon another? Patience, oh reader! whoever thou art, wherever thou dwellest, whether of race spiritual, or, sprung from some surviving pair, thy nature will be human, thy habitation the earth; thou wilt here read of the acts of the extinct race, and wilt ask wonderingly, if they, who suffered what thou findest recorded, were of frail flesh and soft organization like thyself. Most true, they were— weep therefore; for surely, solitary being, thou wilt be of gentle disposition; shed compassionate tears; but the while lend thy attention to the tale, and learn the deeds and sufferings of thy predecessors.\n\nYet the last events that marked our progress through France were so full of strange horror and gloomy misery, that I dare not pause too long in the narration. If I were to dissect each incident, every small fragment of a second would contain an harrowing tale, whose minutest word would curdle the blood in thy young veins. It is right that I should erect for thy instruction this monument of the foregone race; but not that I should drag thee through the wards of an hospital, nor the secret chambers of the charnel-house."
+      },
+      "request_id": "af643e9d730162ac3c3bc28e",
+      "request_sha256": "ddd00dee5d98a1e052f3c86aec9dfac330c8fd0329a48a5df7dbc6970fdb0ce4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e0a42da3cbb1ce5f6da523a2603a5b2acf1831bbc23fe0150cbca67b958db6b7"
+    }
+  ],
+  "session_id": "01a0e866-9bf1-7e03-8d89-34a75a5436e8",
+  "worker_id": "astra_v",
+  "worker_identity_sha256": "0b2b5de575a91a248a2d744e77077f7abb92d61d159b0293192af3288b1ff4f6"
+}

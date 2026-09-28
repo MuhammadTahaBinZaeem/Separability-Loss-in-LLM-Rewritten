@@ -1,0 +1,68 @@
+{
+  "batch_id": "30cda095f8eaa5d83a12",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:04:08.769928+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9bfe34ba1434039b7f291c67",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_dickens_great_expectations_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 9bfe34ba1434039b7f291c67\noriginal_word_count: 452\n\nPassage:\nThere was a delicious sense of cleaning-up and making a quiet pause before going on in life afresh, in our village on Saturday nights, which stimulated Joe to dare to stay out half an hour longer on Saturdays than at other times. The half-hour and the rum and water running out together, Joe got up to go, and took me by the hand.\n\n“Stop half a moment, Mr. Gargery,” said the strange man. “I think I’ve got a bright new shilling somewhere in my pocket, and if I have, the boy shall have it.”\n\nHe looked it out from a handful of small change, folded it in some crumpled paper, and gave it to me. “Yours!” said he. “Mind! Your own.”\n\nI thanked him, staring at him far beyond the bounds of good manners, and holding tight to Joe. He gave Joe good-night, and he gave Mr. Wopsle good-night (who went out with us), and he gave me only a look with his aiming eye,—no, not a look, for he shut it up, but wonders may be done with an eye by hiding it.\n\nOn the way home, if I had been in a humour for talking, the talk must have been all on my side, for Mr. Wopsle parted from us at the door of the Jolly Bargemen, and Joe went all the way home with his mouth wide open, to rinse the rum out with as much air as possible. But I was in a manner stupefied by this turning up of my old misdeed and old acquaintance, and could think of nothing else.\n\nMy sister was not in a very bad temper when we presented ourselves in the kitchen, and Joe was encouraged by that unusual circumstance to tell her about the bright shilling. “A bad un, I’ll be bound,” said Mrs. Joe triumphantly, “or he wouldn’t have given it to the boy! Let’s look at it.”\n\nI took it out of the paper, and it proved to be a good one. “But what’s this?” said Mrs. Joe, throwing down the shilling and catching up the paper. “Two One-Pound notes?”\n\nNothing less than two fat sweltering one-pound notes that seemed to have been on terms of the warmest intimacy with all the cattle-markets in the county. Joe caught up his hat again, and ran with them to the Jolly Bargemen to restore them to their owner. While he was gone, I sat down on my usual stool and looked vacantly at my sister, feeling pretty sure that the man would not be there.\n\nPresently, Joe came back, saying that the man was gone, but that he, Joe, had left word at the Three Jolly Bargemen concerning the notes."
+      },
+      "request_id": "9bfe34ba1434039b7f291c67",
+      "request_sha256": "5bf1b8543df7d322d6d82005faab7e3585108874998ef93bf49b7ee6ec41b9ff",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f8f0ebedd522d612c05a5feb51a38fd0b0069e77d2e1e9738092b08f25ea2137"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6b6d59c69110f5aeed943ee0",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 534,
+      "passage_id": "V2_twain_tom_sawyer_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 6b6d59c69110f5aeed943ee0\noriginal_word_count: 534\n\nPassage:\nWhen Tom awoke in the morning, he wondered where he was. He sat up and rubbed his eyes and looked around. Then he comprehended. It was the cool gray dawn, and there was a delicious sense of repose and peace in the deep pervading calm and silence of the woods. Not a leaf stirred; not a sound obtruded upon great Nature’s meditation. Beaded dewdrops stood upon the leaves and grasses. A white layer of ashes covered the fire, and a thin blue breath of smoke rose straight into the air. Joe and Huck still slept.\n\nNow, far away in the woods a bird called; another answered; presently the hammering of a woodpecker was heard. Gradually the cool dim gray of the morning whitened, and as gradually sounds multiplied and life manifested itself. The marvel of Nature shaking off sleep and going to work unfolded itself to the musing boy. A little green worm came crawling over a dewy leaf, lifting two-thirds of his body into the air from time to time and “sniffing around,” then proceeding again—for he was measuring, Tom said; and when the worm approached him, of its own accord, he sat as still as a stone, with his hopes rising and falling, by turns, as the creature still came toward him or seemed inclined to go elsewhere; and when at last it considered a painful moment with its curved body in the air and then came decisively down upon Tom’s leg and began a journey over him, his whole heart was glad—for that meant that he was going to have a new suit of clothes—without the shadow of a doubt a gaudy piratical uniform. Now a procession of ants appeared, from nowhere in particular, and went about their labors; one struggled manfully by with a dead spider five times as big as itself in its arms, and lugged it straight up a tree-trunk. A brown spotted lady-bug climbed the dizzy height of a grass blade, and Tom bent down close to it and said, “Lady-bug, lady-bug, fly away home, your house is on fire, your children’s alone,” and she took wing and went off to see about it—which did not surprise the boy, for he knew of old that this insect was credulous about conflagrations, and he had practised upon its simplicity more than once. A tumblebug came next, heaving sturdily at its ball, and Tom touched the creature, to see it shut its legs against its body and pretend to be dead. The birds were fairly rioting by this time. A catbird, the Northern mocker, lit in a tree over Tom’s head, and trilled out her imitations of her neighbors in a rapture of enjoyment; then a shrill jay swept down, a flash of blue flame, and stopped on a twig almost within the boy’s reach, cocked his head to one side and eyed the strangers with a consuming curiosity; a gray squirrel and a big fellow of the “fox” kind came skurrying along, sitting up at intervals to inspect and chatter at the boys, for the wild things had probably never seen a human being before and scarcely knew whether to be afraid or not."
+      },
+      "request_id": "6b6d59c69110f5aeed943ee0",
+      "request_sha256": "c3ec138ec9f054e972b6862ecc38325dcd09ed2f3e2f21cf83c845afeeafa7d2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "057991378a116b23483119635ea0d64109d30b449d07ca054c255cd39cd4150a"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ab460afaacd3ea8006d8cd08",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_twain_huckleberry_finn_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: ab460afaacd3ea8006d8cd08\noriginal_word_count: 454\n\nPassage:\nSo, then, the ring-master he made a little speech, and said he hoped there wouldn’t be no disturbance, and if the man would promise he wouldn’t make no more trouble he would let him ride if he thought he could stay on the horse. So everybody laughed and said all right, and the man got on. The minute he was on, the horse begun to rip and tear and jump and cavort around, with two circus men hanging on to his bridle trying to hold him, and the drunk man hanging on to his neck, and his heels flying in the air every jump, and the whole crowd of people standing up shouting and laughing till tears rolled down. And at last, sure enough, all the circus men could do, the horse broke loose, and away he went like the very nation, round and round the ring, with that sot laying down on him and hanging to his neck, with first one leg hanging most to the ground on one side, and then t’other one on t’other side, and the people just crazy. It warn’t funny to me, though; I was all of a tremble to see his danger. But pretty soon he struggled up astraddle and grabbed the bridle, a-reeling this way and that; and the next minute he sprung up and dropped the bridle and stood! and the horse a-going like a house afire too. He just stood up there, a-sailing around as easy and comfortable as if he warn’t ever drunk in his life—and then he begun to pull off his clothes and sling them. He shed them so thick they kind of clogged up the air, and altogether he shed seventeen suits. And, then, there he was, slim and handsome, and dressed the gaudiest and prettiest you ever saw, and he lit into that horse with his whip and made him fairly hum—and finally skipped off, and made his bow and danced off to the dressing-room, and everybody just a-howling with pleasure and astonishment.\n\nThen the ring-master he see how he had been fooled, and he _was_ the sickest ring-master you ever see, I reckon. Why, it was one of his own men! He had got up that joke all out of his own head, and never let on to nobody. Well, I felt sheepish enough to be took in so, but I wouldn’t a been in that ring-master’s place, not for a thousand dollars. I don’t know; there may be bullier circuses than what that one was, but I never struck them yet. Anyways, it was plenty good enough for _me;_ and wherever I run across it, it can have all of _my_ custom every time."
+      },
+      "request_id": "ab460afaacd3ea8006d8cd08",
+      "request_sha256": "971510da49ec5a12d7fd239378268940226e9b6bf7232e4a163269f33702ce70",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ee5229b469ac64cf2638746b26a3d4c56a683241d52a1203073563a6e7cc2e81"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

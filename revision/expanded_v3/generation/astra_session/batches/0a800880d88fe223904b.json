@@ -1,0 +1,68 @@
+{
+  "batch_id": "0a800880d88fe223904b",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:31:36.160704+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "51cc5f5959681c9d8392c068",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_dickens_oliver_twist_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 51cc5f5959681c9d8392c068\noriginal_word_count: 470\n\nPassage:\n“Never!” returned the girl.\n\n“Tell me why?”\n\n“For one reason,” rejoined the girl firmly, “for one reason, that the lady knows and will stand by me in, I know she will, for I have her promise: and for this other reason, besides, that, bad life as he has led, I have led a bad life too; there are many of us who have kept the same courses together, and I’ll not turn upon them, who might—any of them—have turned upon me, but didn’t, bad as they are.”\n\n“Then,” said the gentleman, quickly, as if this had been the point he had been aiming to attain; “put Monks into my hands, and leave him to me to deal with.”\n\n“What if he turns against the others?”\n\n“I promise you that in that case, if the truth is forced from him, there the matter will rest; there must be circumstances in Oliver’s little history which it would be painful to drag before the public eye, and if the truth is once elicited, they shall go scot free.”\n\n“And if it is not?” suggested the girl.\n\n“Then,” pursued the gentleman, “this Fagin shall not be brought to justice without your consent. In such a case I could show you reasons, I think, which would induce you to yield it.”\n\n“Have I the lady’s promise for that?” asked the girl.\n\n“You have,” replied Rose. “My true and faithful pledge.”\n\n“Monks would never learn how you knew what you do?” said the girl, after a short pause.\n\n“Never,” replied the gentleman. “The intelligence should be brought to bear upon him, that he could never even guess.”\n\n“I have been a liar, and among liars from a little child,” said the girl after another interval of silence, “but I will take your words.”\n\nAfter receiving an assurance from both, that she might safely do so, she proceeded in a voice so low that it was often difficult for the listener to discover even the purport of what she said, to describe, by name and situation, the public-house whence she had been followed that night. From the manner in which she occasionally paused, it appeared as if the gentleman were making some hasty notes of the information she communicated. When she had thoroughly explained the localities of the place, the best position from which to watch it without exciting observation, and the night and hour on which Monks was most in the habit of frequenting it, she seemed to consider for a few moments, for the purpose of recalling his features and appearances more forcibly to her recollection.\n\n“He is tall,” said the girl, “and a strongly made man, but not stout; he has a lurking walk; and as he walks, constantly looks over his shoulder, first on one side, and then on the other."
+      },
+      "request_id": "51cc5f5959681c9d8392c068",
+      "request_sha256": "f459999132becc46018e0fc2a64270d495e504d9072cf49ae4d5e282db39b2ac",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "25736fb97d5048e7cdb122183ba6424207c6a813dd04528ff276a6243480bc12"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3e025e20d0dfa5205db76eab",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_twain_tom_sawyer_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 3e025e20d0dfa5205db76eab\noriginal_word_count: 461\n\nPassage:\nBut there was no hilarity in the little town that same tranquil Saturday afternoon. The Harpers, and Aunt Polly’s family, were being put into mourning, with great grief and many tears. An unusual quiet possessed the village, although it was ordinarily quiet enough, in all conscience. The villagers conducted their concerns with an absent air, and talked little; but they sighed often. The Saturday holiday seemed a burden to the children. They had no heart in their sports, and gradually gave them up.\n\nIn the afternoon Becky Thatcher found herself moping about the deserted schoolhouse yard, and feeling very melancholy. But she found nothing there to comfort her. She soliloquized:\n\n“Oh, if I only had a brass andiron-knob again! But I haven’t got anything now to remember him by.” And she choked back a little sob.\n\nPresently she stopped, and said to herself:\n\n“It was right here. Oh, if it was to do over again, I wouldn’t say that—I wouldn’t say it for the whole world. But he’s gone now; I’ll never, never, never see him any more.”\n\nThis thought broke her down, and she wandered away, with tears rolling down her cheeks. Then quite a group of boys and girls—playmates of Tom’s and Joe’s—came by, and stood looking over the paling fence and talking in reverent tones of how Tom did so-and-so the last time they saw him, and how Joe said this and that small trifle (pregnant with awful prophecy, as they could easily see now!)—and each speaker pointed out the exact spot where the lost lads stood at the time, and then added something like “and I was a-standing just so—just as I am now, and as if you was him—I was as close as that—and he smiled, just this way—and then something seemed to go all over me, like—awful, you know—and I never thought what it meant, of course, but I can see now!”\n\nThen there was a dispute about who saw the dead boys last in life, and many claimed that dismal distinction, and offered evidences, more or less tampered with by the witness; and when it was ultimately decided who _did_ see the departed last, and exchanged the last words with them, the lucky parties took upon themselves a sort of sacred importance, and were gaped at and envied by all the rest. One poor chap, who had no other grandeur to offer, said with tolerably manifest pride in the remembrance:\n\n“Well, Tom Sawyer he licked me once.”\n\nBut that bid for glory was a failure. Most of the boys could say that, and so that cheapened the distinction too much. The group loitered away, still recalling memories of the lost heroes, in awed voices."
+      },
+      "request_id": "3e025e20d0dfa5205db76eab",
+      "request_sha256": "252730d99ace57dbb3228f5e73420c55da7616097b333666b092cd628d61f9f6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fa419a30a0f30e15454c4ad1489f6ef4314c5e7cdf33843d90e742024eb6b149"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "abf47cb2b827ccb973ef3a9a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_pride_and_prejudice_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: abf47cb2b827ccb973ef3a9a\noriginal_word_count: 461\n\nPassage:\nMr. Darcy spoke with affectionate praise of his sister’s proficiency.\n\n“I am very glad to hear such a good account of her,” said Lady Catherine; “and pray tell her from me, that she cannot expect to excel, if she does not practise a great deal.”\n\n“I assure you, madam,” he replied, “that she does not need such advice. She practises very constantly.”\n\n“So much the better. It cannot be done too much; and when I next write to her, I shall charge her not to neglect it on any account. I often tell young ladies, that no excellence in music is to be acquired without constant practice. I have told Miss Bennet several times, that she will never play really well, unless she practises more; and though Mrs. Collins has no instrument, she is very welcome, as I have often told her, to come to Rosings every day, and play on the pianoforte in Mrs. Jenkinson’s room. She would be in nobody’s way, you know, in that part of the house.”\n\nMr. Darcy looked a little ashamed of his aunt’s ill-breeding, and made no answer.\n\nWhen coffee was over, Colonel Fitzwilliam reminded Elizabeth of having promised to play to him; and she sat down directly to the instrument. He drew a chair near her. Lady Catherine listened to half a song, and then talked, as before, to her other nephew; till the latter walked away from her, and moving with his usual deliberation towards the pianoforte, stationed himself so as to command a full view of the fair performer’s countenance. Elizabeth saw what he was doing, and at the first convenient pause turned to him with an arch smile, and said,--\n\n“You mean to frighten me, Mr. Darcy, by coming in all this state to hear me. But I will not be alarmed, though your sister _does_ play so well. There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises with every attempt to intimidate me.”\n\n“I shall not say that you are mistaken,” he replied, “because you could not really believe me to entertain any design of alarming you; and I have had the pleasure of your acquaintance long enough to know, that you find great enjoyment in occasionally professing opinions which, in fact, are not your own.”\n\nElizabeth laughed heartily at this picture of herself, and said to Colonel Fitzwilliam, “Your cousin will give you a very pretty notion of me, and teach you not to believe a word I say. I am particularly unlucky in meeting with a person so well able to expose my real character, in a part of the world where I had hoped to pass myself off with some degree of credit."
+      },
+      "request_id": "abf47cb2b827ccb973ef3a9a",
+      "request_sha256": "d0b6122c8a64e7620383794b1062b89e4eb714d8c361fb57af66769272f80f84",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "db4fdd6a4cf6ea261ef803b5aaf5520d07c4335888e421a75984808603298212"
+    }
+  ],
+  "session_id": "01a0e866-9bf1-7e03-8d89-34a75a5436e8",
+  "worker_id": "astra_v",
+  "worker_identity_sha256": "0b2b5de575a91a248a2d744e77077f7abb92d61d159b0293192af3288b1ff4f6"
+}

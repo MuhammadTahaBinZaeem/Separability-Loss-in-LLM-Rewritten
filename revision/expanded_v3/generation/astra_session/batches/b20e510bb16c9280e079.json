@@ -1,0 +1,68 @@
+{
+  "batch_id": "b20e510bb16c9280e079",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:54:17.656308+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ee7ab87e5fec5450b6b6d313",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 475,
+      "passage_id": "V2_twain_huckleberry_finn_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: ee7ab87e5fec5450b6b6d313\noriginal_word_count: 475\n\nPassage:\nSo, now, le’s know all about it.”\n\n“Well, you see, it ’uz dis way. Ole missus—dat’s Miss Watson—she pecks on me all de time, en treats me pooty rough, but she awluz said she wouldn’ sell me down to Orleans. But I noticed dey wuz a nigger trader roun’ de place considable lately, en I begin to git oneasy. Well, one night I creeps to de do’ pooty late, en de do’ warn’t quite shet, en I hear old missus tell de widder she gwyne to sell me down to Orleans, but she didn’ want to, but she could git eight hund’d dollars for me, en it ’uz sich a big stack o’ money she couldn’ resis’. De widder she try to git her to say she wouldn’ do it, but I never waited to hear de res’. I lit out mighty quick, I tell you.\n\n“I tuck out en shin down de hill, en ’spec to steal a skift ’long de sho’ som’ers ’bove de town, but dey wuz people a-stirring yit, so I hid in de ole tumble-down cooper-shop on de bank to wait for everybody to go ’way. Well, I wuz dah all night. Dey wuz somebody roun’ all de time. ’Long ’bout six in de mawnin’ skifts begin to go by, en ’bout eight er nine every skift dat went ’long wuz talkin’ ’bout how yo’ pap come over to de town en say you’s killed. Dese las’ skifts wuz full o’ ladies en genlmen a-goin’ over for to see de place. Sometimes dey’d pull up at de sho’ en take a res’ b’fo’ dey started acrost, so by de talk I got to know all ’bout de killin’. I ’uz powerful sorry you’s killed, Huck, but I ain’t no mo’ now.\n\n“I laid dah under de shavin’s all day. I ’uz hungry, but I warn’t afeard; bekase I knowed ole missus en de widder wuz goin’ to start to de camp-meet’n’ right arter breakfas’ en be gone all day, en dey knows I goes off wid de cattle ’bout daylight, so dey wouldn’ ’spec to see me roun’ de place, en so dey wouldn’ miss me tell arter dark in de evenin’. De yuther servants wouldn’ miss me, kase dey’d shin out en take holiday soon as de ole folks ’uz out’n de way.\n\n“Well, when it come dark I tuck out up de river road, en went ’bout two mile er more to whah dey warn’t no houses. I’d made up my mine ’bout what I’s agwyne to do. You see, ef I kep’ on tryin’ to git away afoot, de dogs ’ud track me; ef I stole a skift to cross over, dey’d miss dat skift, you see, en dey’d know ’bout whah I’d lan’ on de yuther side, en whah to pick up my track."
+      },
+      "request_id": "ee7ab87e5fec5450b6b6d313",
+      "request_sha256": "4f0295ad63039276aa8b7c367b2e96f145d2f3a12619fe4ffe1fbb7bd374f1b2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "82c72225ca969b2e9e873702d7ab283daf59e3a26783562c832fefcbd154f0b6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6b0588ab787a2c3f6fd62a7d",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 492,
+      "passage_id": "V2_shelley_mathilda_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 6b0588ab787a2c3f6fd62a7d\noriginal_word_count: 492\n\nPassage:\nIt is only four o’clock; but it is winter and the sun has already set: there are no clouds in the clear, frosty sky to reflect its slant beams, but the air itself is tinged with a slight roseate colour which is again reflected on the snow that covers the ground. I live in a lone cottage on a solitary, wide heath: no voice of life reaches me. I see the desolate plain covered with white, save a few black patches that the noonday sun has made at the top of those sharp pointed hillocks from which the snow, sliding as it fell, lay thinner than on the plain ground: a few birds are pecking at the hard ice that covers the pools--for the frost has been of long continuance.\n\nI am in a strange state of mind. I am alone--quite alone--in the world--the blight of misfortune has passed over me and withered me; I know that I am about to die and I feel happy--joyous.--I feel my pulse; it beats fast: I place my thin hand on my cheek; it burns: there is a slight, quick spirit within me which is now emitting its last sparks. I shall never see the snows of another winter--I do believe that I shall never again feel the vivifying warmth of another summer sun; and it is in this persuasion that I begin to write my tragic history. Perhaps a history such as mine had better die with me, but a feeling that I cannot define leads me on and I am too weak both in body and mind to resist the slightest impulse. While life was strong within me I thought indeed that there was a sacred horror in my tale that rendered it unfit for utterance, and now about to die I pollute its mystic terrors. It is as the wood of the Eumenides none but the dying may enter; and Oedipus is about to die.\n\nWhat am I writing?--I must collect my thoughts. I do not know that any will peruse these pages except you, my friend, who will receive them at my death. I do not address them to you alone because it will give me pleasure to dwell upon our friendship in a way that would be needless if you alone read what I shall write. I shall relate my tale therefore as if I wrote for strangers. You have often asked me the cause of my solitary life; my tears; and above all of my impenetrable and unkind silence. In life I dared not; in death I unveil the mystery. Others will toss these pages lightly over: to you, Woodville, kind, affectionate friend, they will be dear--the precious memorials of a heart-broken girl who, dying, is still warmed by gratitude towards you: your tears will fall on the words that record my misfortunes; I know they will--and while I have life I thank you for your sympathy."
+      },
+      "request_id": "6b0588ab787a2c3f6fd62a7d",
+      "request_sha256": "6056055806adbcf8866ae05781ce88fdfbe1d4fb3542bf2be75fda4a22af9129",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "aee8aea64474ba0e3023aa2d108a8c09dada7b7b2f08bf46ab63f236d6d825ab"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "cd5b24827155fd0a2cbf4324",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_twain_tom_sawyer_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: cd5b24827155fd0a2cbf4324\noriginal_word_count: 450\n\nPassage:\nBut no, there was something gaudier even than this. He would be a pirate! That was it! _now_ his future lay plain before him, and glowing with unimaginable splendor. How his name would fill the world, and make people shudder! How gloriously he would go plowing the dancing seas, in his long, low, black-hulled racer, the Spirit of the Storm, with his grisly flag flying at the fore! And at the zenith of his fame, how he would suddenly appear at the old village and stalk into church, brown and weather-beaten, in his black velvet doublet and trunks, his great jack-boots, his crimson sash, his belt bristling with horse-pistols, his crime-rusted cutlass at his side, his slouch hat with waving plumes, his black flag unfurled, with the skull and crossbones on it, and hear with swelling ecstasy the whisperings, “It’s Tom Sawyer the Pirate!—the Black Avenger of the Spanish Main!”\n\nYes, it was settled; his career was determined. He would run away from home and enter upon it. He would start the very next morning. Therefore he must now begin to get ready. He would collect his resources together. He went to a rotten log near at hand and began to dig under one end of it with his Barlow knife. He soon struck wood that sounded hollow. He put his hand there and uttered this incantation impressively:\n\n“What hasn’t come here, come! What’s here, stay here!”\n\nThen he scraped away the dirt, and exposed a pine shingle. He took it up and disclosed a shapely little treasure-house whose bottom and sides were of shingles. In it lay a marble. Tom’s astonishment was boundless! He scratched his head with a perplexed air, and said:\n\n“Well, that beats anything!”\n\nThen he tossed the marble away pettishly, and stood cogitating. The truth was, that a superstition of his had failed, here, which he and all his comrades had always looked upon as infallible. If you buried a marble with certain necessary incantations, and left it alone a fortnight, and then opened the place with the incantation he had just used, you would find that all the marbles you had ever lost had gathered themselves together there, meantime, no matter how widely they had been separated. But now, this thing had actually and unquestionably failed. Tom’s whole structure of faith was shaken to its foundations. He had many a time heard of this thing succeeding but never of its failing before. It did not occur to him that he had tried it several times before, himself, but could never find the hiding-places afterward. He puzzled over the matter some time, and finally decided that some witch had interfered and broken the charm."
+      },
+      "request_id": "cd5b24827155fd0a2cbf4324",
+      "request_sha256": "13c92a1b6a3610568bcaae0bb0af9442c3e5a624babcecbd96582264e7fc8441",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2fa1ad0d27b12ee18a3e3b443b99386a68f6eec8231482507be9e80e2d272551"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

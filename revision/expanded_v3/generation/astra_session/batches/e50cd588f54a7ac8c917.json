@@ -1,0 +1,68 @@
+{
+  "batch_id": "e50cd588f54a7ac8c917",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:45:15.207070+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e101d69acd09194de35655ca",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 517,
+      "passage_id": "V2_shelley_the_last_man_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e101d69acd09194de35655ca\noriginal_word_count: 517\n\nPassage:\nThese deputies had been dispatched by them to Adrian, who had been selected arbiter; and they had journied from Paris to Calais, through the vacant towns and desolate country, indulging the while violent hatred against each other; and now they pleaded their several causes with unmitigated party-spirit.\n\nBy examining the deputies apart, and after much investigation, we learnt the true state of things at Paris. Since parliament had elected him Ryland’s deputy, all the surviving English had submitted to Adrian. He was our captain to lead us from our native soil to unknown lands, our lawgiver and our preserver. On the first arrangement of our scheme of emigration, no continued separation of our members was contemplated, and the command of the whole body in gradual ascent of power had its apex in the Earl of Windsor. But unforeseen circumstances changed our plans for us, and occasioned the greater part of our numbers to be divided for the space of nearly two months, from the supreme chief. They had gone over in two distinct bodies; and on their arrival at Paris dissension arose between them.\n\nThey had found Paris a desert. When first the plague had appeared, the return of travellers and merchants, and communications by letter, informed us regularly of the ravages made by disease on the continent. But with the encreased mortality this intercourse declined and ceased. Even in England itself communication from one part of the island to the other became slow and rare. No vessel stemmed the flood that divided Calais from Dover; or if some melancholy voyager, wishing to assure himself of the life or death of his relatives, put from the French shore to return among us, often the greedy ocean swallowed his little craft, or after a day or two he was infected by the disorder, and died before he could tell the tale of the desolation of France. We were therefore to a great degree ignorant of the state of things on the continent, and were not without some vague hope of finding numerous companions in its wide track. But the same causes that had so fearfully diminished the English nation had had even greater scope for mischief in the sister land. France was a blank; during the long line of road from Calais to Paris not one human being was found. In Paris there were a few, perhaps a hundred, who, resigned to their coming fate, flitted about the streets of the capital and assembled to converse of past times, with that vivacity and even gaiety that seldom deserts the individuals of this nation.\n\nThe English took uncontested possession of Paris. Its high houses and narrow streets were lifeless. A few pale figures were to be distinguished at the accustomed resort at the Tuileries; they wondered wherefore the islanders should approach their ill-fated city—for in the excess of wretchedness, the sufferers always imagine, that their part of the calamity is the bitterest, as, when enduring intense pain, we would exchange the particular torture we writhe under, for any other which should visit a different part of the frame."
+      },
+      "request_id": "e101d69acd09194de35655ca",
+      "request_sha256": "46ca3e0956aa098b60aae68405de95d95435a5d249caa4b1b51aabaae3abbbf1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ce290739289afadf7b9143235b69acd9ffbdb4772a9f7f6a19ae79a9129ebf40"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "70cc491ca14c4befc367b5cc",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 487,
+      "passage_id": "V2_austen_emma_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 70cc491ca14c4befc367b5cc\noriginal_word_count: 487\n\nPassage:\nShall I call upon them? Or Miss Bates? She is still nearer.—And I do not know whether Miss Bates is not as likely to understand the inclinations of the rest of the people as any body. I think we do want a larger council. Suppose I go and invite Miss Bates to join us?”\n\n“Well—if you please,” said Mrs. Weston rather hesitating, “if you think she will be of any use.”\n\n“You will get nothing to the purpose from Miss Bates,” said Emma. “She will be all delight and gratitude, but she will tell you nothing. She will not even listen to your questions. I see no advantage in consulting Miss Bates.”\n\n“But she is so amusing, so extremely amusing! I am very fond of hearing Miss Bates talk. And I need not bring the whole family, you know.”\n\nHere Mr. Weston joined them, and on hearing what was proposed, gave it his decided approbation.\n\n“Aye, do, Frank.—Go and fetch Miss Bates, and let us end the matter at once. She will enjoy the scheme, I am sure; and I do not know a properer person for shewing us how to do away difficulties. Fetch Miss Bates. We are growing a little too nice. She is a standing lesson of how to be happy. But fetch them both. Invite them both.”\n\n“Both sir! Can the old lady?”...\n\n“The old lady! No, the young lady, to be sure. I shall think you a great blockhead, Frank, if you bring the aunt without the niece.”\n\n“Oh! I beg your pardon, sir. I did not immediately recollect. Undoubtedly if you wish it, I will endeavour to persuade them both.” And away he ran.\n\nLong before he reappeared, attending the short, neat, brisk-moving aunt, and her elegant niece,—Mrs. Weston, like a sweet-tempered woman and a good wife, had examined the passage again, and found the evils of it much less than she had supposed before—indeed very trifling; and here ended the difficulties of decision. All the rest, in speculation at least, was perfectly smooth. All the minor arrangements of table and chair, lights and music, tea and supper, made themselves; or were left as mere trifles to be settled at any time between Mrs. Weston and Mrs. Stokes.—Every body invited, was certainly to come; Frank had already written to Enscombe to propose staying a few days beyond his fortnight, which could not possibly be refused. And a delightful dance it was to be.\n\nMost cordially, when Miss Bates arrived, did she agree that it must. As a counsellor she was not wanted; but as an approver, (a much safer character,) she was truly welcome. Her approbation, at once general and minute, warm and incessant, could not but please; and for another half-hour they were all walking to and fro, between the different rooms, some suggesting, some attending, and all in happy enjoyment of the future."
+      },
+      "request_id": "70cc491ca14c4befc367b5cc",
+      "request_sha256": "bb65b4bf07f4237db09aa929a89ce688df8d81f36d4b0911898aec8b828342f0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6b8504585a399fef0cc9b54614252e1a67707fcbd2e945628c37846f757a1947"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "91eb28b9eb0492f8baa561ec",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 91eb28b9eb0492f8baa561ec\noriginal_word_count: 461\n\nPassage:\nSydney Carton paused in the street, not quite decided where to go. “At Tellson’s banking-house at nine,” he said, with a musing face. “Shall I do well, in the mean time, to show myself? I think so. It is best that these people should know there is such a man as I here; it is a sound precaution, and may be a necessary preparation. But care, care, care! Let me think it out!”\n\nChecking his steps which had begun to tend towards an object, he took a turn or two in the already darkening street, and traced the thought in his mind to its possible consequences. His first impression was confirmed. “It is best,” he said, finally resolved, “that these people should know there is such a man as I here.” And he turned his face towards Saint Antoine.\n\nDefarge had described himself, that day, as the keeper of a wine-shop in the Saint Antoine suburb. It was not difficult for one who knew the city well, to find his house without asking any question. Having ascertained its situation, Carton came out of those closer streets again, and dined at a place of refreshment and fell sound asleep after dinner. For the first time in many years, he had no strong drink. Since last night he had taken nothing but a little light thin wine, and last night he had dropped the brandy slowly down on Mr. Lorry’s hearth like a man who had done with it.\n\nIt was as late as seven o’clock when he awoke refreshed, and went out into the streets again. As he passed along towards Saint Antoine, he stopped at a shop-window where there was a mirror, and slightly altered the disordered arrangement of his loose cravat, and his coat-collar, and his wild hair. This done, he went on direct to Defarge’s, and went in.\n\nThere happened to be no customer in the shop but Jacques Three, of the restless fingers and the croaking voice. This man, whom he had seen upon the Jury, stood drinking at the little counter, in conversation with the Defarges, man and wife. The Vengeance assisted in the conversation, like a regular member of the establishment.\n\nAs Carton walked in, took his seat and asked (in very indifferent French) for a small measure of wine, Madame Defarge cast a careless glance at him, and then a keener, and then a keener, and then advanced to him herself, and asked him what it was he had ordered.\n\nHe repeated what he had already said.\n\n“English?” asked Madame Defarge, inquisitively raising her dark eyebrows.\n\nAfter looking at her, as if the sound of even a single French word were slow to express itself to him, he answered, in his former strong foreign accent."
+      },
+      "request_id": "91eb28b9eb0492f8baa561ec",
+      "request_sha256": "5da02c5bc0e9ba4ef43cb7926e70279f5a89600d11ee477ca75683e4c704c53f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4f496cbe4e8a629165ead48d14a58e316ea1ade881d99db24dba5f9c9163a153"
+    }
+  ],
+  "session_id": "01a0e870-b3dc-74f3-b9ee-b27dbd5dd892",
+  "worker_id": "astra_x",
+  "worker_identity_sha256": "7c3a0144cf89773a3dc35b850a0bd602d9bf1a04c8ed1e402a69d4a4892146a6"
+}

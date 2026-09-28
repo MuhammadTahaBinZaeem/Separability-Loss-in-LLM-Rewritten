@@ -1,0 +1,68 @@
+{
+  "batch_id": "08a16e0fb061859e5c55",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:06:57.975415+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4e431694b8e6869d10186680",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_pride_and_prejudice_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 4e431694b8e6869d10186680\noriginal_word_count: 461\n\nPassage:\nThe day passed much as the day before had done. Mrs. Hurst and Miss Bingley had spent some hours of the morning with the invalid, who continued, though slowly, to mend; and, in the evening, Elizabeth joined their party in the drawing-room. The loo table, however, did not appear. Mr. Darcy was writing, and Miss Bingley, seated near him, was watching the progress of his letter, and repeatedly calling off his attention by messages to his sister. Mr. Hurst and Mr. Bingley were at piquet, and Mrs. Hurst was observing their game.\n\nElizabeth took up some needlework, and was sufficiently amused in attending to what passed between Darcy and his companion. The perpetual commendations of the lady either on his hand-writing, or on the evenness of his lines, or on the length of his letter, with the perfect unconcern with which her praises were received, formed a curious dialogue, and was exactly in unison with her opinion of each.\n\n“How delighted Miss Darcy will be to receive such a letter!”\n\nHe made no answer.\n\n“You write uncommonly fast.”\n\n“You are mistaken. I write rather slowly.”\n\n“How many letters you must have occasion to write in the course of a year! Letters of business, too! How odious I should think them!”\n\n“It is fortunate, then, that they fall to my lot instead of to yours.”\n\n“Pray tell your sister that I long to see her.”\n\n“I have already told her so once, by your desire.”\n\n“I am afraid you do not like your pen. Let me mend it for you. I mend pens remarkably well.”\n\n“Thank you--but I always mend my own.”\n\n“How can you contrive to write so even?”\n\nHe was silent.\n\n“Tell your sister I am delighted to hear of her improvement on the harp, and pray let her know that I am quite in raptures with her beautiful little design for a table, and I think it infinitely superior to Miss Grantley’s.”\n\n“Will you give me leave to defer your raptures till I write again? At present I have not room to do them justice.”\n\n“Oh, it is of no consequence. I shall see her in January. But do you always write such charming long letters to her, Mr. Darcy?”\n\n“They are generally long; but whether always charming, it is not for me to determine.”\n\n“It is a rule with me, that a person who can write a long letter with ease cannot write ill.”\n\n“That will not do for a compliment to Darcy, Caroline,” cried her brother, “because he does _not_ write with ease. He studies too much for words of four syllables. Do not you, Darcy?”\n\n“My style of writing is very different from yours.”\n\n“Oh,” cried Miss Bingley, “Charles writes in the most careless way imaginable."
+      },
+      "request_id": "4e431694b8e6869d10186680",
+      "request_sha256": "1c677775adc1f13b65d7bdf04f67d4a7c29fb6f85c5ed9e5e341b2538ec26cd4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e40142ba403dc0639ceee577aac2bc03cb980d3cc99be7e4e8356bc32dd31724"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a8b24d92e8d7983838a11f71",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_austen_emma_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: a8b24d92e8d7983838a11f71\noriginal_word_count: 452\n\nPassage:\nIt is not every body that would have stood out in such a kind way as she did, and refuse to take Jane’s answer; but she positively declared she would _not_ write any such denial yesterday, as Jane wished her; she would wait—and, sure enough, yesterday evening it was all settled that Jane should go. Quite a surprize to me! I had not the least idea!—Jane took Mrs. Elton aside, and told her at once, that upon thinking over the advantages of Mrs. Smallridge’s situation, she had come to the resolution of accepting it.—I did not know a word of it till it was all settled.”\n\n“You spent the evening with Mrs. Elton?”\n\n“Yes, all of us; Mrs. Elton would have us come. It was settled so, upon the hill, while we were walking about with Mr. Knightley. ‘You _must_ _all_ spend your evening with us,’ said she—‘I positively must have you _all_ come.’”\n\n“Mr. Knightley was there too, was he?”\n\n“No, not Mr. Knightley; he declined it from the first; and though I thought he would come, because Mrs. Elton declared she would not let him off, he did not;—but my mother, and Jane, and I, were all there, and a very agreeable evening we had. Such kind friends, you know, Miss Woodhouse, one must always find agreeable, though every body seemed rather fagged after the morning’s party. Even pleasure, you know, is fatiguing—and I cannot say that any of them seemed very much to have enjoyed it. However, _I_ shall always think it a very pleasant party, and feel extremely obliged to the kind friends who included me in it.”\n\n“Miss Fairfax, I suppose, though you were not aware of it, had been making up her mind the whole day?”\n\n“I dare say she had.”\n\n“Whenever the time may come, it must be unwelcome to her and all her friends—but I hope her engagement will have every alleviation that is possible—I mean, as to the character and manners of the family.”\n\n“Thank you, dear Miss Woodhouse. Yes, indeed, there is every thing in the world that can make her happy in it. Except the Sucklings and Bragges, there is not such another nursery establishment, so liberal and elegant, in all Mrs. Elton’s acquaintance. Mrs. Smallridge, a most delightful woman!—A style of living almost equal to Maple Grove—and as to the children, except the little Sucklings and little Bragges, there are not such elegant sweet children anywhere. Jane will be treated with such regard and kindness!—It will be nothing but pleasure, a life of pleasure.—And her salary!—I really cannot venture to name her salary to you, Miss Woodhouse."
+      },
+      "request_id": "a8b24d92e8d7983838a11f71",
+      "request_sha256": "b03ea18224247e229f1f65b3d2556b52b5de4e52277a6663379a5b191eae823c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e9c69e458f9cb1bb6e505434363ac8d3a3dd566cd1f171fa523f0d329bb7c5e4"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4a167f01358911a20feb43a8",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_austen_persuasion_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 4a167f01358911a20feb43a8\noriginal_word_count: 464\n\nPassage:\nNo letter of condolence had been sent to Ireland. The neglect had been visited on the head of the sinner; for when poor Lady Elliot died herself, no letter of condolence was received at Kellynch, and, consequently, there was but too much reason to apprehend that the Dalrymples considered the relationship as closed. How to have this anxious business set to rights, and be admitted as cousins again, was the question: and it was a question which, in a more rational manner, neither Lady Russell nor Mr Elliot thought unimportant. “Family connexions were always worth preserving, good company always worth seeking; Lady Dalrymple had taken a house, for three months, in Laura Place, and would be living in style. She had been at Bath the year before, and Lady Russell had heard her spoken of as a charming woman. It was very desirable that the connexion should be renewed, if it could be done, without any compromise of propriety on the side of the Elliots.”\n\nSir Walter, however, would choose his own means, and at last wrote a very fine letter of ample explanation, regret, and entreaty, to his right honourable cousin. Neither Lady Russell nor Mr Elliot could admire the letter; but it did all that was wanted, in bringing three lines of scrawl from the Dowager Viscountess. “She was very much honoured, and should be happy in their acquaintance.” The toils of the business were over, the sweets began. They visited in Laura Place, they had the cards of Dowager Viscountess Dalrymple, and the Honourable Miss Carteret, to be arranged wherever they might be most visible: and “Our cousins in Laura Place,”—“Our cousin, Lady Dalrymple and Miss Carteret,” were talked of to everybody.\n\nAnne was ashamed. Had Lady Dalrymple and her daughter even been very agreeable, she would still have been ashamed of the agitation they created, but they were nothing. There was no superiority of manner, accomplishment, or understanding. Lady Dalrymple had acquired the name of “a charming woman,” because she had a smile and a civil answer for everybody. Miss Carteret, with still less to say, was so plain and so awkward, that she would never have been tolerated in Camden Place but for her birth.\n\nLady Russell confessed she had expected something better; but yet “it was an acquaintance worth having;” and when Anne ventured to speak her opinion of them to Mr Elliot, he agreed to their being nothing in themselves, but still maintained that, as a family connexion, as good company, as those who would collect good company around them, they had their value. Anne smiled and said,\n\n“My idea of good company, Mr Elliot, is the company of clever, well-informed people, who have a great deal of conversation; that is what I call good company.”"
+      },
+      "request_id": "4a167f01358911a20feb43a8",
+      "request_sha256": "2766dd0453ba88dc29e2c4afc2207fbbaffef405c3e6dcf09c08dda3d59f7d57",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d84b96a285f2c4345ab42c0124aef0364c9648f7f5830eb95b4aa75be209b0af"
+    }
+  ],
+  "session_id": "01a0e851-893e-7833-9978-6adbfb804215",
+  "worker_id": "astra_o",
+  "worker_identity_sha256": "57a742b9cc10271bcec81121c331ed211baefa86bd40e11991144b051b260799"
+}

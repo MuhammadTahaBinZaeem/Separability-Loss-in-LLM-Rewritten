@@ -1,0 +1,68 @@
+{
+  "batch_id": "92cbda23bbb48d7c891c",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:00:18.777727+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "eadc77a30fbf03d14536a406",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 484,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: eadc77a30fbf03d14536a406\noriginal_word_count: 484\n\nPassage:\nMr. Attorney-General had to inform the jury, that the prisoner before them, though young in years, was old in the treasonable practices which claimed the forfeit of his life. That this correspondence with the public enemy was not a correspondence of to-day, or of yesterday, or even of last year, or of the year before. That, it was certain the prisoner had, for longer than that, been in the habit of passing and repassing between France and England, on secret business of which he could give no honest account. That, if it were in the nature of traitorous ways to thrive (which happily it never was), the real wickedness and guilt of his business might have remained undiscovered. That Providence, however, had put it into the heart of a person who was beyond fear and beyond reproach, to ferret out the nature of the prisoner’s schemes, and, struck with horror, to disclose them to his Majesty’s Chief Secretary of State and most honourable Privy Council. That, this patriot would be produced before them. That, his position and attitude were, on the whole, sublime. That, he had been the prisoner’s friend, but, at once in an auspicious and an evil hour detecting his infamy, had resolved to immolate the traitor he could no longer cherish in his bosom, on the sacred altar of his country. That, if statues were decreed in Britain, as in ancient Greece and Rome, to public benefactors, this shining citizen would assuredly have had one. That, as they were not so decreed, he probably would not have one. That, Virtue, as had been observed by the poets (in many passages which he well knew the jury would have, word for word, at the tips of their tongues; whereat the jury’s countenances displayed a guilty consciousness that they knew nothing about the passages), was in a manner contagious; more especially the bright virtue known as patriotism, or love of country. That, the lofty example of this immaculate and unimpeachable witness for the Crown, to refer to whom however unworthily was an honour, had communicated itself to the prisoner’s servant, and had engendered in him a holy determination to examine his master’s table-drawers and pockets, and secrete his papers. That, he (Mr. Attorney-General) was prepared to hear some disparagement attempted of this admirable servant; but that, in a general way, he preferred him to his (Mr. Attorney-General’s) brothers and sisters, and honoured him more than his (Mr. Attorney-General’s) father and mother. That, he called with confidence on the jury to come and do likewise. That, the evidence of these two witnesses, coupled with the documents of their discovering that would be produced, would show the prisoner to have been furnished with lists of his Majesty’s forces, and of their disposition and preparation, both by sea and land, and would leave no doubt that he had habitually conveyed such information to a hostile power."
+      },
+      "request_id": "eadc77a30fbf03d14536a406",
+      "request_sha256": "de40376f2a428d5b3ec1437ddac0fbc13f07d45cf893db466036bc649464dbe3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d1094a0c4f6a79fd2366c9eed0e8443ab9a701e15aa8cd07943f364bed882999"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d80a0f0ae5ac7012bafb77f8",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_twain_tom_sawyer_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: d80a0f0ae5ac7012bafb77f8\noriginal_word_count: 472\n\nPassage:\nHe could not help it. And it maddened him to see, as he thought he saw, that Becky Thatcher never once suspected that he was even in the land of the living. But she did see, nevertheless; and she knew she was winning her fight, too, and was glad to see him suffer as she had suffered.\n\nAmy’s happy prattle became intolerable. Tom hinted at things he had to attend to; things that must be done; and time was fleeting. But in vain—the girl chirped on. Tom thought, “Oh, hang her, ain’t I ever going to get rid of her?” At last he must be attending to those things—and she said artlessly that she would be “around” when school let out. And he hastened away, hating her for it.\n\n“Any other boy!” Tom thought, grating his teeth. “Any boy in the whole town but that Saint Louis smarty that thinks he dresses so fine and is aristocracy! Oh, all right, I licked you the first day you ever saw this town, mister, and I’ll lick you again! You just wait till I catch you out! I’ll just take and—”\n\nAnd he went through the motions of thrashing an imaginary boy—pummelling the air, and kicking and gouging. “Oh, you do, do you? You holler ’nough, do you? Now, then, let that learn you!” And so the imaginary flogging was finished to his satisfaction.\n\nTom fled home at noon. His conscience could not endure any more of Amy’s grateful happiness, and his jealousy could bear no more of the other distress. Becky resumed her picture inspections with Alfred, but as the minutes dragged along and no Tom came to suffer, her triumph began to cloud and she lost interest; gravity and absentmindedness followed, and then melancholy; two or three times she pricked up her ear at a footstep, but it was a false hope; no Tom came. At last she grew entirely miserable and wished she hadn’t carried it so far. When poor Alfred, seeing that he was losing her, he did not know how, kept exclaiming: “Oh, here’s a jolly one! look at this!” she lost patience at last, and said, “Oh, don’t bother me! I don’t care for them!” and burst into tears, and got up and walked away.\n\nAlfred dropped alongside and was going to try to comfort her, but she said:\n\n“Go away and leave me alone, can’t you! I hate you!”\n\nSo the boy halted, wondering what he could have done—for she had said she would look at pictures all through the nooning—and she walked on, crying. Then Alfred went musing into the deserted schoolhouse. He was humiliated and angry. He easily guessed his way to the truth—the girl had simply made a convenience of him to vent her spite upon Tom Sawyer."
+      },
+      "request_id": "d80a0f0ae5ac7012bafb77f8",
+      "request_sha256": "0bc29edc33332ad2e5da650cb63978b14bf01d4863c6554d2899e48aceebcc93",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fd6488efa2f64e254321bf98e66528a2f17c2b892b32513d214ee782e9126298"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b2f971f2af4fe6425d301d75",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: b2f971f2af4fe6425d301d75\noriginal_word_count: 463\n\nPassage:\nThe exquisite gentlemen of the finest breeding wore little pendent trinkets that chinked as they languidly moved; these golden fetters rang like precious little bells; and what with that ringing, and with the rustle of silk and brocade and fine linen, there was a flutter in the air that fanned Saint Antoine and his devouring hunger far away.\n\nDress was the one unfailing talisman and charm used for keeping all things in their places. Everybody was dressed for a Fancy Ball that was never to leave off. From the Palace of the Tuileries, through Monseigneur and the whole Court, through the Chambers, the Tribunals of Justice, and all society (except the scarecrows), the Fancy Ball descended to the Common Executioner: who, in pursuance of the charm, was required to officiate “frizzled, powdered, in a gold-laced coat, pumps, and white silk stockings.” At the gallows and the wheel--the axe was a rarity--Monsieur Paris, as it was the episcopal mode among his brother Professors of the provinces, Monsieur Orleans, and the rest, to call him, presided in this dainty dress. And who among the company at Monseigneur’s reception in that seventeen hundred and eightieth year of our Lord, could possibly doubt, that a system rooted in a frizzled hangman, powdered, gold-laced, pumped, and white-silk stockinged, would see the very stars out!\n\nMonseigneur having eased his four men of their burdens and taken his chocolate, caused the doors of the Holiest of Holiests to be thrown open, and issued forth. Then, what submission, what cringing and fawning, what servility, what abject humiliation! As to bowing down in body and spirit, nothing in that way was left for Heaven--which may have been one among other reasons why the worshippers of Monseigneur never troubled it.\n\nBestowing a word of promise here and a smile there, a whisper on one happy slave and a wave of the hand on another, Monseigneur affably passed through his rooms to the remote region of the Circumference of Truth. There, Monseigneur turned, and came back again, and so in due course of time got himself shut up in his sanctuary by the chocolate sprites, and was seen no more.\n\nThe show being over, the flutter in the air became quite a little storm, and the precious little bells went ringing downstairs. There was soon but one person left of all the crowd, and he, with his hat under his arm and his snuff-box in his hand, slowly passed among the mirrors on his way out.\n\n“I devote you,” said this person, stopping at the last door on his way, and turning in the direction of the sanctuary, “to the Devil!”\n\nWith that, he shook the snuff from his fingers as if he had shaken the dust from his feet, and quietly walked downstairs."
+      },
+      "request_id": "b2f971f2af4fe6425d301d75",
+      "request_sha256": "d96a301440cbde6b7b7696bdb267afe1dff2bfe820494c4751ec6b143f9df6a9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c63a64b8b4fe51dd12a566d6c16d2000c534835fe8499db94b93985d984f3989"
+    }
+  ],
+  "session_id": "01a0e84b-0c07-7f62-8492-38d6630a3d8a",
+  "worker_id": "astra_n",
+  "worker_identity_sha256": "af3df2dfd1bd45965959790098af7e2b94db79efd262f1f2cc3e95a3ae8be86e"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "23720298c3cd8667f911",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:52:18.797207+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b9edc3352b2467042e6b53e0",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_poe_the_gold_bug_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: b9edc3352b2467042e6b53e0\noriginal_word_count: 454\n\nPassage:\nThe winters in the latitude of Sullivan’s Island are seldom very severe, and in the fall of the year it is a rare event indeed when a fire is considered necessary. About the middle of October, 18—, there occurred, however, a day of remarkable chilliness. Just before sunset I scrambled my way through the evergreens to the hut of my friend, whom I had not visited for several weeks—my residence being, at that time, in Charleston, a distance of nine miles from the island, while the facilities of passage and re-passage were very far behind those of the present day. Upon reaching the hut I rapped, as was my custom, and getting no reply, sought for the key where I knew it was secreted, unlocked the door and went in. A fine fire was blazing upon the hearth. It was a novelty, and by no means an ungrateful one. I threw off an overcoat, took an arm-chair by the crackling logs, and awaited patiently the arrival of my hosts.\n\nSoon after dark they arrived, and gave me a most cordial welcome. Jupiter, grinning from ear to ear, bustled about to prepare some marsh-hens for supper. Legrand was in one of his fits—how else shall I term them?—of enthusiasm. He had found an unknown bivalve, forming a new genus, and, more than this, he had hunted down and secured, with Jupiter’s assistance, a _scarabæus_ which he believed to be totally new, but in respect to which he wished to have my opinion on the morrow.\n\n“And why not to-night?” I asked, rubbing my hands over the blaze, and wishing the whole tribe of _scarabæi_ at the devil.\n\n“Ah, if I had only known you were here!” said Legrand, “but it’s so long since I saw you; and how could I foresee that you would pay me a visit this very night of all others? As I was coming home I met Lieutenant G——, from the fort, and, very foolishly, I lent him the bug; so it will be impossible for you to see it until the morning. Stay here to-night, and I will send Jup down for it at sunrise. It is the loveliest thing in creation!”\n\n“What?—sunrise?”\n\n“Nonsense! no!—the bug. It is of a brilliant gold color—about the size of a large hickory-nut—with two jet black spots near one extremity of the back, and another, somewhat longer, at the other. The _antennæ_ are—”\n\n“Dey aint no tin in him, Massa Will, I keep a tellin on you,” here interrupted Jupiter; “de bug is a goole bug, solid, ebery bit of him, inside and all, sep him wing—neber feel half so hebby a bug in my life.”"
+      },
+      "request_id": "b9edc3352b2467042e6b53e0",
+      "request_sha256": "e326e553d7e71a94f8b8d8affaf1f9c293675b7a9701cfd986ac657bfbde32bd",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "007807999ec3acf92d5e502be7d9b76c657b79d9f228dfce475097c4f0e88fd9"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b485c71ca040aabe796a55ad",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: b485c71ca040aabe796a55ad\noriginal_word_count: 455\n\nPassage:\n‘Oh, that is nothing! It is a pleasure to me. I do not work for money; I live entirely for my art.’\n\nLord Arthur laid down £4, 2s. 6d. on the table, thanked the little German for his kindness, and, having succeeded in declining an invitation to meet some Anarchists at a meat-tea on the following Saturday, left the house and went off to the Park.\n\nFor the next two days he was in a state of the greatest excitement, and on Friday at twelve o’clock he drove down to the Buckingham to wait for news. All the afternoon the stolid hall-porter kept posting up telegrams from various parts of the country giving the results of horse-races, the verdicts in divorce suits, the state of the weather, and the like, while the tape ticked out wearisome details about an all-night sitting in the House of Commons, and a small panic on the Stock Exchange. At four o’clock the evening papers came in, and Lord Arthur disappeared into the library with the _Pall Mall_, the _St. James’s_, the _Globe_, and the _Echo_, to the immense indignation of Colonel Goodchild, who wanted to read the reports of a speech he had delivered that morning at the Mansion House, on the subject of South African Missions, and the advisability of having black Bishops in every province, and for some reason or other had a strong prejudice against the _Evening News_. None of the papers, however, contained even the slightest allusion to Chichester, and Lord Arthur felt that the attempt must have failed. It was a terrible blow to him, and for a time he was quite unnerved. Herr Winckelkopf, whom he went to see the next day was full of elaborate apologies, and offered to supply him with another clock free of charge, or with a case of nitro-glycerine bombs at cost price. But he had lost all faith in explosives, and Herr Winckelkopf himself acknowledged that everything is so adulterated nowadays, that even dynamite can hardly be got in a pure condition. The little German, however, while admitting that something must have gone wrong with the machinery, was not without hope that the clock might still go off, and instanced the case of a barometer that he had once sent to the military Governor at Odessa, which, though timed to explode in ten days, had not done so for something like three months. It was quite true that when it did go off, it merely succeeded in blowing a housemaid to atoms, the Governor having gone out of town six weeks before, but at least it showed that dynamite, as a destructive force, was, when under the control of machinery, a powerful, though a somewhat unpunctual agent."
+      },
+      "request_id": "b485c71ca040aabe796a55ad",
+      "request_sha256": "de0a800db976809a25b7235eb74080c6639e47aa4cb1e88434cdec6ef92434ef",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "16234dc867b69cd0fcd43bdeecd6882cf29d99920359053ea67c69567508085a"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b16660e43c0eb307c42a59d9",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 534,
+      "passage_id": "V2_austen_pride_and_prejudice_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: b16660e43c0eb307c42a59d9\noriginal_word_count: 534\n\nPassage:\nOn that head, therefore, I shall be uniformly silent: and you may assure yourself that no ungenerous reproach shall ever pass my lips when we are married.”\n\nIt was absolutely necessary to interrupt him now.\n\n“You are too hasty, sir,” she cried. “You forget that I have made no answer. Let me do it without further loss of time. Accept my thanks for the compliment you are paying me. I am very sensible of the honour of your proposals, but it is impossible for me to do otherwise than decline them.”\n\n“I am not now to learn,” replied Mr. Collins, with a formal wave of the hand, “that it is usual with young ladies to reject the addresses of the man whom they secretly mean to accept, when he first applies for their favour; and that sometimes the refusal is repeated a second or even a third time. I am, therefore, by no means discouraged by what you have just said, and shall hope to lead you to the altar ere long.”\n\n“Upon my word, sir,” cried Elizabeth, “your hope is rather an extraordinary one after my declaration. I do assure you that I am not one of those young ladies (if such young ladies there are) who are so daring as to risk their happiness on the chance of being asked a second time. I am perfectly serious in my refusal. You could not make _me_ happy, and I am convinced that I am the last woman in the world who would make _you_ so. Nay, were your friend Lady Catherine to know me, I am persuaded she would find me in every respect ill qualified for the situation.”\n\n“Were it certain that Lady Catherine would think so,” said Mr. Collins, very gravely--“but I cannot imagine that her Ladyship would at all disapprove of you. And you may be certain that when I have the honour of seeing her again I shall speak in the highest terms of your modesty, economy, and other amiable qualifications.”\n\n“Indeed, Mr. Collins, all praise of me will be unnecessary. You must give me leave to judge for myself, and pay me the compliment of believing what I say. I wish you very happy and very rich, and by refusing your hand, do all in my power to prevent your being otherwise. In making me the offer, you must have satisfied the delicacy of your feelings with regard to my family, and may take possession of Longbourn estate whenever it falls, without any self-reproach. This matter may be considered, therefore, as finally settled.” And rising as she thus spoke, she would have quitted the room, had not Mr. Collins thus addressed her,--\n\n“When I do myself the honour of speaking to you next on the subject, I shall hope to receive a more favourable answer than you have now given me; though I am far from accusing you of cruelty at present, because I know it to be the established custom of your sex to reject a man on the first application, and, perhaps, you have even now said as much to encourage my suit as would be consistent with the true delicacy of the female character.”"
+      },
+      "request_id": "b16660e43c0eb307c42a59d9",
+      "request_sha256": "11fe0d16bce79d1fdd9f7d5b08f33069ea75d7c8afeade6c7c561814336463dd",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bf69cb1fcc08e7484263f277ed0ff37d139c87f0391dbbb6279c89986e673eca"
+    }
+  ],
+  "session_id": "01a0e847-b893-7c52-8311-f3acf99043e1",
+  "worker_id": "astra_l",
+  "worker_identity_sha256": "2c5da61879bebe3353fa66cda11e4cbc6ce4420d78f567ebeb859dde68cb1df4"
+}

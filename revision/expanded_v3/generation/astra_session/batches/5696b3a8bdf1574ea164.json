@@ -1,0 +1,68 @@
+{
+  "batch_id": "5696b3a8bdf1574ea164",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:13:00.091360+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a57b30a0e1e085f3218df73c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 467,
+      "passage_id": "V2_poe_hans_pfaal_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: a57b30a0e1e085f3218df73c\noriginal_word_count: 467\n\nPassage:\nBy late accounts from Rotterdam, that city seems to be in a high state of philosophical excitement. Indeed, phenomena have there occurred of a nature so completely unexpected—so entirely novel—so utterly at variance with preconceived opinions—as to leave no doubt on my mind that long ere this all Europe is in an uproar, all physics in a ferment, all reason and astronomy together by the ears.\n\nIt appears that on the—— day of—— (I am not positive about the date), a vast crowd of people, for purposes not specifically mentioned, were assembled in the great square of the Exchange in the well-conditioned city of Rotterdam. The day was warm—unusually so for the season—there was hardly a breath of air stirring; and the multitude were in no bad humor at being now and then besprinkled with friendly showers of momentary duration, that fell from large white masses of cloud which chequered in a fitful manner the blue vault of the firmament. Nevertheless, about noon, a slight but remarkable agitation became apparent in the assembly: the clattering of ten thousand tongues succeeded; and, in an instant afterward, ten thousand faces were upturned toward the heavens, ten thousand pipes descended simultaneously from the corners of ten thousand mouths, and a shout, which could be compared to nothing but the roaring of Niagara, resounded long, loudly, and furiously, through all the environs of Rotterdam.\n\nThe origin of this hubbub soon became sufficiently evident. From behind the huge bulk of one of those sharply-defined masses of cloud already mentioned, was seen slowly to emerge into an open area of blue space, a queer, heterogeneous, but apparently solid substance, so oddly shaped, so whimsically put together, as not to be in any manner comprehended, and never to be sufficiently admired, by the host of sturdy burghers who stood open-mouthed below. What could it be? In the name of all the vrows and devils in Rotterdam, what could it possibly portend? No one knew, no one could imagine; no one—not even the burgomaster Mynheer Superbus Von Underduk—had the slightest clew by which to unravel the mystery; so, as nothing more reasonable could be done, every one to a man replaced his pipe carefully in the corner of his mouth, and cocking up his right eye towards the phenomenon, puffed, paused, waddled about, and grunted significantly—then waddled back, grunted, paused, and finally—puffed again.\n\nIn the meantime, however, lower and still lower toward the goodly city, came the object of so much curiosity, and the cause of so much smoke. In a very few minutes it arrived near enough to be accurately discerned. It appeared to be—yes! it was undoubtedly a species of balloon; but surely no such balloon had ever been seen in Rotterdam before."
+      },
+      "request_id": "a57b30a0e1e085f3218df73c",
+      "request_sha256": "022795f4aecd7dcc21fa81bddb3d4890bb0af012c2b1d01cb6327ca2c9e01bd5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5f3b57a2101d9c8737365c065927d18c8d2840f37c31dde6dbd5d4ada8c8f2d4"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "30d7733e97c82ab645f906eb",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 30d7733e97c82ab645f906eb\noriginal_word_count: 473\n\nPassage:\n‘Good heavens!’ said the Duchess to herself, ‘he is a sort of cheiropodist after all. How very dreadful. I hope he is a foreigner at any rate. It wouldn’t be quite so bad then.’\n\n‘I must certainly introduce him to you.’\n\n‘Introduce him!’ cried the Duchess; ‘you don’t mean to say he is here?’ and she began looking about for a small tortoise-shell fan and a very tattered lace shawl, so as to be ready to go at a moment’s notice.\n\n‘Of course he is here; I would not dream of giving a party without him. He tells me I have a pure psychic hand, and that if my thumb had been the least little bit shorter, I should have been a confirmed pessimist, and gone into a convent.’\n\n‘Oh, I see!’ said the Duchess, feeling very much relieved; ‘he tells fortunes, I suppose?’\n\n‘And misfortunes, too,’ answered Lady Windermere, ‘any amount of them. Next year, for instance, I am in great danger, both by land and sea, so I am going to live in a balloon, and draw up my dinner in a basket every evening. It is all written down on my little finger, or on the palm of my hand, I forget which.’\n\n‘But surely that is tempting Providence, Gladys.’\n\n‘My dear Duchess, surely Providence can resist temptation by this time. I think every one should have their hands told once a month, so as to know what not to do. Of course, one does it all the same, but it is so pleasant to be warned. Now if some one doesn’t go and fetch Mr. Podgers at once, I shall have to go myself.’\n\n‘Let me go, Lady Windermere,’ said a tall handsome young man, who was standing by, listening to the conversation with an amused smile.\n\n‘Thanks so much, Lord Arthur; but I am afraid you wouldn’t recognise him.’\n\n‘If he is as wonderful as you say, Lady Windermere, I couldn’t well miss him. Tell me what he is like, and I’ll bring him to you at once.’\n\n‘Well, he is not a bit like a cheiromantist. I mean he is not mysterious, or esoteric, or romantic-looking. He is a little, stout man, with a funny, bald head, and great gold-rimmed spectacles; something between a family doctor and a country attorney. I’m really very sorry, but it is not my fault. People are so annoying. All my pianists look exactly like poets, and all my poets look exactly like pianists; and I remember last season asking a most dreadful conspirator to dinner, a man who had blown up ever so many people, and always wore a coat of mail, and carried a dagger up his shirt-sleeve; and do you know that when he came he looked just like a nice old clergyman, and cracked jokes all the evening?"
+      },
+      "request_id": "30d7733e97c82ab645f906eb",
+      "request_sha256": "0a499ae9f4b5b425033dbbd90be219919d215c6846b8d6b1d5eb5d7a654b64e5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "896cb3a6d9707db1072555faec966e5a37999c8696de2e2ec4bd5ff4ea951905"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "169eea286025d807b878b0ea",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V2_poe_hans_pfaal_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 169eea286025d807b878b0ea\noriginal_word_count: 458\n\nPassage:\n“The stupor and surprise produced in my mind by this extraordinary change in the posture of affairs was perhaps, after all, that part of the adventure least susceptible of explanation. For the bouleversement in itself was not only natural and inevitable, but had been long actually anticipated as a circumstance to be expected whenever I should arrive at that exact point of my voyage where the attraction of the planet should be superseded by the attraction of the satellite—or, more precisely, where the gravitation of the balloon toward the earth should be less powerful than its gravitation toward the moon. To be sure I arose from a sound slumber, with all my senses in confusion, to the contemplation of a very startling phenomenon, and one which, although expected, was not expected at the moment. The revolution itself must, of course, have taken place in an easy and gradual manner, and it is by no means clear that, had I even been awake at the time of the occurrence, I should have been made aware of it by any internal evidence of an inversion—that is to say, by any inconvenience or disarrangement, either about my person or about my apparatus.\n\n“It is almost needless to say that, upon coming to a due sense of my situation, and emerging from the terror which had absorbed every faculty of my soul, my attention was, in the first place, wholly directed to the contemplation of the general physical appearance of the moon. It lay beneath me like a chart—and although I judged it to be still at no inconsiderable distance, the indentures of its surface were defined to my vision with a most striking and altogether unaccountable distinctness. The entire absence of ocean or sea, and indeed of any lake or river, or body of water whatsoever, struck me, at first glance, as the most extraordinary feature in its geological condition. Yet, strange to say, I beheld vast level regions of a character decidedly alluvial, although by far the greater portion of the hemisphere in sight was covered with innumerable volcanic mountains, conical in shape, and having more the appearance of artificial than of natural protuberance. The highest among them does not exceed three and three-quarter miles in perpendicular elevation; but a map of the volcanic districts of the Campi Phlegraei would afford to your Excellencies a better idea of their general surface than any unworthy description I might think proper to attempt. The greater part of them were in a state of evident eruption, and gave me fearfully to understand their fury and their power, by the repeated thunders of the miscalled meteoric stones, which now rushed upward by the balloon with a frequency more and more appalling."
+      },
+      "request_id": "169eea286025d807b878b0ea",
+      "request_sha256": "d9c7f41b357b5525be3af8811f9f35cfbbaf9103e3f1695d2f4006a19b25cd3a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1101340f377b1e69c5a156249c47fd36e31d0fb679c69e765c6d8294da853de1"
+    }
+  ],
+  "session_id": "01a0e85c-7f66-73c1-b91c-6413115a4ff4",
+  "worker_id": "astra_s",
+  "worker_identity_sha256": "17b5f2fab7368788746600871fd66c46b6c1c2ea93360ddace6823c5041f0625"
+}

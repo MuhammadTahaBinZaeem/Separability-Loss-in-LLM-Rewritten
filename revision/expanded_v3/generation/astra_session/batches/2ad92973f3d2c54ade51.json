@@ -1,0 +1,68 @@
+{
+  "batch_id": "2ad92973f3d2c54ade51",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:57:04.794705+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c63316378cf0d87e55f4a332",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 467,
+      "passage_id": "V2_twain_connecticut_yankee_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: c63316378cf0d87e55f4a332\noriginal_word_count: 467\n\nPassage:\nIt was in Warwick Castle that I came across the curious stranger whom I am going to talk about. He attracted me by three things: his candid simplicity, his marvelous familiarity with ancient armor, and the restfulness of his company--for he did all the talking. We fell together, as modest people will, in the tail of the herd that was being shown through, and he at once began to say things which interested me. As he talked along, softly, pleasantly, flowingly, he seemed to drift away imperceptibly out of this world and time, and into some remote era and old forgotten country; and so he gradually wove such a spell about me that I seemed to move among the specters and shadows and dust and mold of a gray antiquity, holding speech with a relic of it! Exactly as I would speak of my nearest personal friends or enemies, or my most familiar neighbors, he spoke of Sir Bedivere, Sir Bors de Ganis, Sir Launcelot of the Lake, Sir Galahad, and all the other great names of the Table Round--and how old, old, unspeakably old and faded and dry and musty and ancient he came to look as he went on! Presently he turned to me and said, just as one might speak of the weather, or any other common matter--\n\n“You know about transmigration of souls; do you know about transposition of epochs--and bodies?”\n\nI said I had not heard of it. He was so little interested--just as when people speak of the weather--that he did not notice whether I made him any answer or not. There was half a moment of silence, immediately interrupted by the droning voice of the salaried cicerone:\n\n“Ancient hauberk, date of the sixth century, time of King Arthur and the Round Table; said to have belonged to the knight Sir Sagramor le Desirous; observe the round hole through the chain-mail in the left breast; can't be accounted for; supposed to have been done with a bullet since invention of firearms--perhaps maliciously by Cromwell's soldiers.”\n\nMy acquaintance smiled--not a modern smile, but one that must have gone out of general use many, many centuries ago--and muttered apparently to himself:\n\n“Wit ye well, _I saw it done_.” Then, after a pause, added: “I did it myself.”\n\nBy the time I had recovered from the electric surprise of this remark, he was gone.\n\nAll that evening I sat by my fire at the Warwick Arms, steeped in a dream of the olden time, while the rain beat upon the windows, and the wind roared about the eaves and corners. From time to time I dipped into old Sir Thomas Malory's enchanting book, and fed at its rich feast of prodigies and adventures, breathed in the fragrance of its obsolete names, and dreamed again."
+      },
+      "request_id": "c63316378cf0d87e55f4a332",
+      "request_sha256": "8067172dddf8bb6ddee44c94d8e188b44a23854f1144b7052f1c7a9470aba828",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0bbe3bb81a88f5214422dd14789e0aa6933b868199b2a7ca1d2c881ac9340fde"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0ac6be48371d366d01207a56",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_austen_pride_and_prejudice_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 0ac6be48371d366d01207a56\noriginal_word_count: 473\n\nPassage:\nNot a word, however, passed his lips in allusion to it, till their visitor took his leave for the night; but as soon as he was gone, he turned to his daughter and said,--\n\n“Jane, I congratulate you. You will be a very happy woman.”\n\nJane went to him instantly, kissed him, and thanked him for his goodness.\n\n“You are a good girl,” he replied, “and I have great pleasure in thinking you will be so happily settled. I have not a doubt of your doing very well together. Your tempers are by no means unlike. You are each of you so complying, that nothing will ever be resolved on; so easy, that every servant will cheat you; and so generous, that you will always exceed your income.”\n\n“I hope not so. Imprudence or thoughtlessness in money matters would be unpardonable in _me_.”\n\n“Exceed their income! My dear Mr. Bennet,” cried his wife, “what are you talking of? Why, he has four or five thousand a year, and very likely more.” Then addressing her daughter, “Oh, my dear, dear Jane, I am so happy! I am sure I shan’t get a wink of sleep all night. I knew how it would be. I always said it must be so, at last. I was sure you could not be so beautiful for nothing! I remember, as soon as ever I saw him, when he first came into Hertfordshire last year, I thought how likely it was that you should come together. Oh, he is the handsomest young man that ever was seen!”\n\nWickham, Lydia, were all forgotten. Jane was beyond competition her favourite child. At that moment she cared for no other. Her younger sisters soon began to make interest with her for objects of happiness which she might in future be able to dispense.\n\nMary petitioned for the use of the library at Netherfield; and Kitty begged very hard for a few balls there every winter.\n\nBingley, from this time, was of course a daily visitor at Longbourn; coming frequently before breakfast, and always remaining till after supper; unless when some barbarous neighbour, who could not be enough detested, had given him an invitation to dinner, which he thought himself obliged to accept.\n\nElizabeth had now but little time for conversation with her sister; for while he was present Jane had no attention to bestow on anyone else: but she found herself considerably useful to both of them, in those hours of separation that must sometimes occur. In the absence of Jane, he always attached himself to Elizabeth for the pleasure of talking of her; and when Bingley was gone, Jane constantly sought the same means of relief.\n\n“He has made me so happy,” said she, one evening, “by telling me that he was totally ignorant of my being in town last spring!"
+      },
+      "request_id": "0ac6be48371d366d01207a56",
+      "request_sha256": "a19a1418a8f088084b5dc5d4470c69f818b90013371239802504f2ae77204e1d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "84f02d5bb982a973dd87cd900cf661eac34f400c376dcc322e102b9e78af79e5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e7de856d62197522bd394f51",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 488,
+      "passage_id": "V2_dickens_great_expectations_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: e7de856d62197522bd394f51\noriginal_word_count: 488\n\nPassage:\nAnd if he asked me why I wanted it, and why I thought I had any right to it, I would tell him, little as he cared for such poor dreams, that I had loved Estella dearly and long, and that although I had lost her, and must live a bereaved life, whatever concerned her was still nearer and dearer to me than anything else in the world. And seeing that Mr. Jaggers stood quite still and silent, and apparently quite obdurate, under this appeal, I turned to Wemmick, and said, “Wemmick, I know you to be a man with a gentle heart. I have seen your pleasant home, and your old father, and all the innocent, cheerful playful ways with which you refresh your business life. And I entreat you to say a word for me to Mr. Jaggers, and to represent to him that, all circumstances considered, he ought to be more open with me!”\n\nI have never seen two men look more oddly at one another than Mr. Jaggers and Wemmick did after this apostrophe. At first, a misgiving crossed me that Wemmick would be instantly dismissed from his employment; but it melted as I saw Mr. Jaggers relax into something like a smile, and Wemmick become bolder.\n\n“What’s all this?” said Mr. Jaggers. “You with an old father, and you with pleasant and playful ways?”\n\n“Well!” returned Wemmick. “If I don’t bring ’em here, what does it matter?”\n\n“Pip,” said Mr. Jaggers, laying his hand upon my arm, and smiling openly, “this man must be the most cunning impostor in all London.”\n\n“Not a bit of it,” returned Wemmick, growing bolder and bolder. “I think you’re another.”\n\nAgain they exchanged their former odd looks, each apparently still distrustful that the other was taking him in.\n\n“_You_ with a pleasant home?” said Mr. Jaggers.\n\n“Since it don’t interfere with business,” returned Wemmick, “let it be so. Now, I look at you, sir, I shouldn’t wonder if _you_ might be planning and contriving to have a pleasant home of your own one of these days, when you’re tired of all this work.”\n\nMr. Jaggers nodded his head retrospectively two or three times, and actually drew a sigh. “Pip,” said he, “we won’t talk about ‘poor dreams;’ you know more about such things than I, having much fresher experience of that kind. But now about this other matter. I’ll put a case to you. Mind! I admit nothing.”\n\nHe waited for me to declare that I quite understood that he expressly said that he admitted nothing.\n\n“Now, Pip,” said Mr. Jaggers, “put this case. Put the case that a woman, under such circumstances as you have mentioned, held her child concealed, and was obliged to communicate the fact to her legal adviser, on his representing to her that he must know, with an eye to the latitude of his defence, how the fact stood about that child."
+      },
+      "request_id": "e7de856d62197522bd394f51",
+      "request_sha256": "2d23a724ad77e0cc38a86c97d1d6a72cadb4864542704ee75bd9b0befcb04669",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7c6373c3993132036253d1c9f02873629670598c0b1e2c4217a737737fb05c9d"
+    }
+  ],
+  "session_id": "01a0e84b-0c07-7f62-8492-38d6630a3d8a",
+  "worker_id": "astra_n",
+  "worker_identity_sha256": "af3df2dfd1bd45965959790098af7e2b94db79efd262f1f2cc3e95a3ae8be86e"
+}

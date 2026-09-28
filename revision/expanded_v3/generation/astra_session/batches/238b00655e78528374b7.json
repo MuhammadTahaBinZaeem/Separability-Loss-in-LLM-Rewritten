@@ -1,0 +1,68 @@
+{
+  "batch_id": "238b00655e78528374b7",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:42:33.551800+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1096c5ebda3f3bc9492b71a6",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 478,
+      "passage_id": "V3_austen_pride_and_prejudice_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 1096c5ebda3f3bc9492b71a6\noriginal_word_count: 478\n\nPassage:\nBut I wonder how long you _would_ have gone on, if you had been left to yourself. I wonder when you _would_ have spoken if I had not asked you! My resolution of thanking you for your kindness to Lydia had certainly great effect. _Too much_, I am afraid; for what becomes of the moral, if our comfort springs from a breach of promise, for I ought not to have mentioned the subject? This will never do.”\n\n“You need not distress yourself. The moral will be perfectly fair. Lady Catherine’s unjustifiable endeavours to separate us were the means of removing all my doubts. I am not indebted for my present happiness to your eager desire of expressing your gratitude. I was not in a humour to wait for an opening of yours. My aunt’s intelligence had given me hope, and I was determined at once to know everything.”\n\n“Lady Catherine has been of infinite use, which ought to make her happy, for she loves to be of use. But tell me, what did you come down to Netherfield for? Was it merely to ride to Longbourn and be embarrassed? or had you intended any more serious consequences?”\n\n“My real purpose was to see _you_, and to judge, if I could, whether I might ever hope to make you love me. My avowed one, or what I avowed to myself, was to see whether your sister was still partial to Bingley, and if she were, to make the confession to him which I have since made.”\n\n“Shall you ever have courage to announce to Lady Catherine what is to befall her?”\n\n“I am more likely to want time than courage, Elizabeth. But it ought to be done; and if you will give me a sheet of paper it shall be done directly.”\n\n“And if I had not a letter to write myself, I might sit by you, and admire the evenness of your writing, as another young lady once did. But I have an aunt, too, who must not be longer neglected.”\n\nFrom an unwillingness to confess how much her intimacy with Mr. Darcy had been overrated, Elizabeth had never yet answered Mrs. Gardiner’s long letter; but now, having _that_ to communicate which she knew would be most welcome, she was almost ashamed to find that her uncle and aunt had already lost three days of happiness, and immediately wrote as follows:--\n\n“I would have thanked you before, my dear aunt, as I ought to have done, for your long, kind, satisfactory detail of particulars; but, to say the truth, I was too cross to write. You supposed more than really existed. But _now_ suppose as much as you choose; give a loose to your fancy, indulge your imagination in every possible flight which the subject will afford, and unless you believe me actually married, you cannot greatly err."
+      },
+      "request_id": "1096c5ebda3f3bc9492b71a6",
+      "request_sha256": "3efe7f3fc649710461133c4816de316171c2f9b9c7eb3ac3340d15cf0f86b5d9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "615fb123270ccf5d3b686df79dd64997d05eb83a381fb2d883dbac0099525e99"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "41b500944439f46b40260d41",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 490,
+      "passage_id": "V2_austen_emma_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 41b500944439f46b40260d41\noriginal_word_count: 490\n\nPassage:\nEmma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little to distress or vex her.\n\nShe was the youngest of the two daughters of a most affectionate, indulgent father; and had, in consequence of her sister’s marriage, been mistress of his house from a very early period. Her mother had died too long ago for her to have more than an indistinct remembrance of her caresses; and her place had been supplied by an excellent woman as governess, who had fallen little short of a mother in affection.\n\nSixteen years had Miss Taylor been in Mr. Woodhouse’s family, less as a governess than a friend, very fond of both daughters, but particularly of Emma. Between _them_ it was more the intimacy of sisters. Even before Miss Taylor had ceased to hold the nominal office of governess, the mildness of her temper had hardly allowed her to impose any restraint; and the shadow of authority being now long passed away, they had been living together as friend and friend very mutually attached, and Emma doing just what she liked; highly esteeming Miss Taylor’s judgment, but directed chiefly by her own.\n\nThe real evils, indeed, of Emma’s situation were the power of having rather too much her own way, and a disposition to think a little too well of herself; these were the disadvantages which threatened alloy to her many enjoyments. The danger, however, was at present so unperceived, that they did not by any means rank as misfortunes with her.\n\nSorrow came—a gentle sorrow—but not at all in the shape of any disagreeable consciousness.—Miss Taylor married. It was Miss Taylor’s loss which first brought grief. It was on the wedding-day of this beloved friend that Emma first sat in mournful thought of any continuance. The wedding over, and the bride-people gone, her father and herself were left to dine together, with no prospect of a third to cheer a long evening. Her father composed himself to sleep after dinner, as usual, and she had then only to sit and think of what she had lost.\n\nThe event had every promise of happiness for her friend. Mr. Weston was a man of unexceptionable character, easy fortune, suitable age, and pleasant manners; and there was some satisfaction in considering with what self-denying, generous friendship she had always wished and promoted the match; but it was a black morning’s work for her. The want of Miss Taylor would be felt every hour of every day. She recalled her past kindness—the kindness, the affection of sixteen years—how she had taught and how she had played with her from five years old—how she had devoted all her powers to attach and amuse her in health—and how nursed her through the various illnesses of childhood."
+      },
+      "request_id": "41b500944439f46b40260d41",
+      "request_sha256": "100c1f0194e556e3a7770813736affa95c9351ba62c3888602095ff3b82c439d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f2c1e0f4bbbc06235c1b8a35ad2279801115ca50e93b2fea77b270c25611266d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a26aff43e8dcf6ec94fc400c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_twain_huckleberry_finn_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: a26aff43e8dcf6ec94fc400c\noriginal_word_count: 451\n\nPassage:\nWake up by-and-by, and look to see what done it, and maybe see a steamboat coughing along up-stream, so far off towards the other side you couldn’t tell nothing about her only whether she was a stern-wheel or side-wheel; then for about an hour there wouldn’t be nothing to hear nor nothing to see—just solid lonesomeness. Next you’d see a raft sliding by, away off yonder, and maybe a galoot on it chopping, because they’re most always doing it on a raft; you’d see the axe flash and come down—you don’t hear nothing; you see that axe go up again, and by the time it’s above the man’s head then you hear the _k’chunk!_—it had took all that time to come over the water. So we would put in the day, lazying around, listening to the stillness. Once there was a thick fog, and the rafts and things that went by was beating tin pans so the steamboats wouldn’t run over them. A scow or a raft went by so close we could hear them talking and cussing and laughing—heard them plain; but we couldn’t see no sign of them; it made you feel crawly; it was like spirits carrying on that way in the air. Jim said he believed it was spirits; but I says:\n\n“No; spirits wouldn’t say, ‘Dern the dern fog.’”\n\nSoon as it was night out we shoved; when we got her out to about the middle we let her alone, and let her float wherever the current wanted her to; then we lit the pipes, and dangled our legs in the water, and talked about all kinds of things—we was always naked, day and night, whenever the mosquitoes would let us—the new clothes Buck’s folks made for me was too good to be comfortable, and besides I didn’t go much on clothes, nohow.\n\nSometimes we’d have that whole river all to ourselves for the longest time. Yonder was the banks and the islands, across the water; and maybe a spark—which was a candle in a cabin window; and sometimes on the water you could see a spark or two—on a raft or a scow, you know; and maybe you could hear a fiddle or a song coming over from one of them crafts. It’s lovely to live on a raft. We had the sky up there, all speckled with stars, and we used to lay on our backs and look up at them, and discuss about whether they was made or only just happened. Jim he allowed they was made, but I allowed they happened; I judged it would have took too long to _make_ so many."
+      },
+      "request_id": "a26aff43e8dcf6ec94fc400c",
+      "request_sha256": "c192b3d9ad12a5f8a1b0a253fe43386d746fbd583df26282309d750394145381",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b2343de0cf457566839fc8e7436b318029c5905ba5a411dada06ed7e60b4d03c"
+    }
+  ],
+  "session_id": "01a0e876-83f7-78a1-b9d1-9e5cfb4d9073",
+  "worker_id": "astra_z",
+  "worker_identity_sha256": "3c518323fe65160b33818c8fecefe8b58d18bebfd64f52e04e66f555b7fdddb7"
+}

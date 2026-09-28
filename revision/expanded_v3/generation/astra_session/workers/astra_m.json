@@ -1,0 +1,8 @@
+{
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "reasoning_effort": "xhigh",
+  "registered_utc": "2026-09-28T13:50:41.179340+00:00",
+  "selected_model": "gpt-6-astra",
+  "session_id": "01a0e848-1788-74e3-94b7-8185fb822a0f",
+  "worker_id": "astra_m"
+}

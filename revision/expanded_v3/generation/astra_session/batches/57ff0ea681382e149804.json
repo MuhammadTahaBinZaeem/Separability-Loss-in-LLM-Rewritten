@@ -1,0 +1,68 @@
+{
+  "batch_id": "57ff0ea681382e149804",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:01:43.449510+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "04f31ba0174d484811facb0b",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_twain_connecticut_yankee_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 04f31ba0174d484811facb0b\noriginal_word_count: 454\n\nPassage:\n“Next, we built a wire fence.”\n\n“Wire fence?”\n\n“Yes. You dropped the hint of it yourself, two or three years ago.”\n\n“Oh, I remember--the time the Church tried her strength against us the first time, and presently thought it wise to wait for a hopefuler season. Well, how have you arranged the fence?”\n\n“I start twelve immensely strong wires--naked, not insulated --from a big dynamo in the cave--dynamo with no brushes except a positive and a negative one--”\n\n“Yes, that's right.”\n\n“The wires go out from the cave and fence in a circle of level ground a hundred yards in diameter; they make twelve independent fences, ten feet apart--that is to say, twelve circles within circles--and their ends come into the cave again.”\n\n“Right; go on.”\n\n“The fences are fastened to heavy oaken posts only three feet apart, and these posts are sunk five feet in the ground.”\n\n“That is good and strong.”\n\n“Yes. The wires have no ground-connection outside of the cave. They go out from the positive brush of the dynamo; there is a ground-connection through the negative brush; the other ends of the wire return to the cave, and each is grounded independently.”\n\n“No, no, that won't do!”\n\n“Why?”\n\n“It's too expensive--uses up force for nothing. You don't want any ground-connection except the one through the negative brush. The other end of every wire must be brought back into the cave and fastened independently, and _without_ any ground-connection. Now, then, observe the economy of it. A cavalry charge hurls itself against the fence; you are using no power, you are spending no money, for there is only one ground-connection till those horses come against the wire; the moment they touch it they form a connection with the negative brush _through the ground_, and drop dead. Don't you see?--you are using no energy until it is needed; your lightning is there, and ready, like the load in a gun; but it isn't costing you a cent till you touch it off. Oh, yes, the single ground-connection--”\n\n“Of course! I don't know how I overlooked that. It's not only cheaper, but it's more effectual than the other way, for if wires break or get tangled, no harm is done.”\n\n“No, especially if we have a tell-tale in the cave and disconnect the broken wire. Well, go on. The gatlings?”\n\n“Yes--that's arranged. In the center of the inner circle, on a spacious platform six feet high, I've grouped a battery of thirteen gatling guns, and provided plenty of ammunition.”\n\n“That's it. They command every approach, and when the Church's knights arrive, there's going to be music. The brow of the precipice over the cave--”\n\n“I've got a wire fence there, and a gatling."
+      },
+      "request_id": "04f31ba0174d484811facb0b",
+      "request_sha256": "622e82487339ac6cc6e9251e7280a6a5d1d7da34e76593af29bd05ba9d06953e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c61ab8633e5e7bb6d0ef1d5cf7ceff316cf1f96eb357b415c94d36a7a0f787bb"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "28c3217c1dca62ea5130484d",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 528,
+      "passage_id": "V2_austen_emma_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 28c3217c1dca62ea5130484d\noriginal_word_count: 528\n\nPassage:\nThis little explanation with Mr. Knightley gave Emma considerable pleasure. It was one of the agreeable recollections of the ball, which she walked about the lawn the next morning to enjoy.—She was extremely glad that they had come to so good an understanding respecting the Eltons, and that their opinions of both husband and wife were so much alike; and his praise of Harriet, his concession in her favour, was peculiarly gratifying. The impertinence of the Eltons, which for a few minutes had threatened to ruin the rest of her evening, had been the occasion of some of its highest satisfactions; and she looked forward to another happy result—the cure of Harriet’s infatuation.—From Harriet’s manner of speaking of the circumstance before they quitted the ballroom, she had strong hopes. It seemed as if her eyes were suddenly opened, and she were enabled to see that Mr. Elton was not the superior creature she had believed him. The fever was over, and Emma could harbour little fear of the pulse being quickened again by injurious courtesy. She depended on the evil feelings of the Eltons for supplying all the discipline of pointed neglect that could be farther requisite.—Harriet rational, Frank Churchill not too much in love, and Mr. Knightley not wanting to quarrel with her, how very happy a summer must be before her!\n\nShe was not to see Frank Churchill this morning. He had told her that he could not allow himself the pleasure of stopping at Hartfield, as he was to be at home by the middle of the day. She did not regret it.\n\nHaving arranged all these matters, looked them through, and put them all to rights, she was just turning to the house with spirits freshened up for the demands of the two little boys, as well as of their grandpapa, when the great iron sweep-gate opened, and two persons entered whom she had never less expected to see together—Frank Churchill, with Harriet leaning on his arm—actually Harriet!—A moment sufficed to convince her that something extraordinary had happened. Harriet looked white and frightened, and he was trying to cheer her.—The iron gates and the front-door were not twenty yards asunder;—they were all three soon in the hall, and Harriet immediately sinking into a chair fainted away.\n\nA young lady who faints, must be recovered; questions must be answered, and surprizes be explained. Such events are very interesting, but the suspense of them cannot last long. A few minutes made Emma acquainted with the whole.\n\nMiss Smith, and Miss Bickerton, another parlour boarder at Mrs. Goddard’s, who had been also at the ball, had walked out together, and taken a road, the Richmond road, which, though apparently public enough for safety, had led them into alarm.—About half a mile beyond Highbury, making a sudden turn, and deeply shaded by elms on each side, it became for a considerable stretch very retired; and when the young ladies had advanced some way into it, they had suddenly perceived at a small distance before them, on a broader patch of greensward by the side, a party of gipsies."
+      },
+      "request_id": "28c3217c1dca62ea5130484d",
+      "request_sha256": "d0b02d2a75a16db6d7fbf3e88653f3093127a361f2dc339f795b51d088943c80",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2119db62c7476e2a05077d8b9f21247ff4befda5f35f1efdd5c863de8fe41068"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8d3c70cde69aa2dc4ac1bbef",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_dickens_oliver_twist_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 8d3c70cde69aa2dc4ac1bbef\noriginal_word_count: 453\n\nPassage:\n“And consider, ma’am,” said Oliver, as the tears forced themselves into his eyes, despite of his efforts to the contrary. “Oh! consider how young and good she is, and what pleasure and comfort she gives to all about her. I am sure—certain—quite certain—that, for your sake, who are so good yourself; and for her own; and for the sake of all she makes so happy; she will not die. Heaven will never let her die so young.”\n\n“Hush!” said Mrs. Maylie, laying her hand on Oliver’s head. “You think like a child, poor boy. But you teach me my duty, notwithstanding. I had forgotten it for a moment, Oliver, but I hope I may be pardoned, for I am old, and have seen enough of illness and death to know the agony of separation from the objects of our love. I have seen enough, too, to know that it is not always the youngest and best who are spared to those that love them; but this should give us comfort in our sorrow; for Heaven is just; and such things teach us, impressively, that there is a brighter world than this; and that the passage to it is speedy. God’s will be done! I love her; and He knows how well!”\n\nOliver was surprised to see that as Mrs. Maylie said these words, she checked her lamentations as though by one effort; and drawing herself up as she spoke, became composed and firm. He was still more astonished to find that this firmness lasted; and that, under all the care and watching which ensued, Mrs. Maylie was ever ready and collected: performing all the duties which had devolved upon her, steadily, and, to all external appearances, even cheerfully. But he was young, and did not know what strong minds are capable of, under trying circumstances. How should he, when their possessors so seldom know themselves?\n\nAn anxious night ensued. When morning came, Mrs. Maylie’s predictions were but too well verified. Rose was in the first stage of a high and dangerous fever.\n\n“We must be active, Oliver, and not give way to useless grief,” said Mrs. Maylie, laying her finger on her lip, as she looked steadily into his face; “this letter must be sent, with all possible expedition, to Mr. Losberne. It must be carried to the market-town: which is not more than four miles off, by the footpath across the field: and thence dispatched, by an express on horseback, straight to Chertsey. The people at the inn will undertake to do this: and I can trust to you to see it done, I know.”\n\nOliver could make no reply, but looked his anxiety to be gone at once."
+      },
+      "request_id": "8d3c70cde69aa2dc4ac1bbef",
+      "request_sha256": "41190b8c3398dba8304de0a2d5bf7051cabc1b35ab7e141bd45a39705997e43c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "346895c710b1255cae787acae15d2498b681909162229d1750d047f2698ba022"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

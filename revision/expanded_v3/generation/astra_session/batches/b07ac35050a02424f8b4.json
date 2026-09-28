@@ -1,0 +1,68 @@
+{
+  "batch_id": "b07ac35050a02424f8b4",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:53:49.740360+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2d0a8bac4953bbfb1dfa6bb0",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_poe_hans_pfaal_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 2d0a8bac4953bbfb1dfa6bb0\noriginal_word_count: 453\n\nPassage:\nIn the meantime, the force of gravitation would be constantly diminishing, in proportion to the squares of the distances, and thus, with a velocity prodigiously accelerating, I should at length arrive in those distant regions where the force of the earth’s attraction would be superseded by that of the moon. In accordance with these ideas, I did not think it worth while to encumber myself with more provisions than would be sufficient for a period of forty days.\n\n“There was still, however, another difficulty, which occasioned me some little disquietude. It has been observed, that, in balloon ascensions to any considerable height, besides the pain attending respiration, great uneasiness is experienced about the head and body, often accompanied with bleeding at the nose, and other symptoms of an alarming kind, and growing more and more inconvenient in proportion to the altitude attained. This was a reflection of a nature somewhat startling. Was it not probable that these symptoms would increase indefinitely, or at least until terminated by death itself? I finally thought not. Their origin was to be looked for in the progressive removal of the customary atmospheric pressure upon the surface of the body, and consequent distention of the superficial blood-vessels—not in any positive disorganization of the animal system, as in the case of difficulty in breathing, where the atmospheric density is chemically insufficient for the due renovation of blood in a ventricle of the heart. Unless for default of this renovation, I could see no reason, therefore, why life could not be sustained even in a vacuum; for the expansion and compression of chest, commonly called breathing, is action purely muscular, and the cause, not the effect, of respiration. In a word, I conceived that, as the body should become habituated to the want of atmospheric pressure, the sensations of pain would gradually diminish—and to endure them while they continued, I relied with confidence upon the iron hardihood of my constitution.\n\n“Thus, may it please your Excellencies, I have detailed some, though by no means all, the considerations which led me to form the project of a lunar voyage. I shall now proceed to lay before you the result of an attempt so apparently audacious in conception, and, at all events, so utterly unparalleled in the annals of mankind.\n\n“Having attained the altitude before mentioned, that is to say three miles and three-quarters, I threw out from the car a quantity of feathers, and found that I still ascended with sufficient rapidity; there was, therefore, no necessity for discharging any ballast. I was glad of this, for I wished to retain with me as much weight as I could carry, for reasons which will be explained in the sequel."
+      },
+      "request_id": "2d0a8bac4953bbfb1dfa6bb0",
+      "request_sha256": "a0beab4a815206a0bbf155b838a4d578293941103d2a78ac85c08c102ea09f66",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e450bb7a06c860a1a364f313b8be917bff860b1050b36e7a4121bcf594e54f2b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "36c922bc80cecf5af1dbbb3a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_shelley_frankenstein_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 36c922bc80cecf5af1dbbb3a\noriginal_word_count: 471\n\nPassage:\nAnd I call on you, spirits of the dead, and on you, wandering ministers of vengeance, to aid and conduct me in my work. Let the cursed and hellish monster drink deep of agony; let him feel the despair that now torments me.”\n\nI had begun my adjuration with solemnity and an awe which almost assured me that the shades of my murdered friends heard and approved my devotion, but the furies possessed me as I concluded, and rage choked my utterance.\n\nI was answered through the stillness of night by a loud and fiendish laugh. It rang on my ears long and heavily; the mountains re-echoed it, and I felt as if all hell surrounded me with mockery and laughter. Surely in that moment I should have been possessed by frenzy and have destroyed my miserable existence but that my vow was heard and that I was reserved for vengeance. The laughter died away, when a well-known and abhorred voice, apparently close to my ear, addressed me in an audible whisper, “I am satisfied, miserable wretch! You have determined to live, and I am satisfied.”\n\nI darted towards the spot from which the sound proceeded, but the devil eluded my grasp. Suddenly the broad disk of the moon arose and shone full upon his ghastly and distorted shape as he fled with more than mortal speed.\n\nI pursued him, and for many months this has been my task. Guided by a slight clue, I followed the windings of the Rhone, but vainly. The blue Mediterranean appeared, and by a strange chance, I saw the fiend enter by night and hide himself in a vessel bound for the Black Sea. I took my passage in the same ship, but he escaped, I know not how.\n\nAmidst the wilds of Tartary and Russia, although he still evaded me, I have ever followed in his track. Sometimes the peasants, scared by this horrid apparition, informed me of his path; sometimes he himself, who feared that if I lost all trace of him I should despair and die, left some mark to guide me. The snows descended on my head, and I saw the print of his huge step on the white plain. To you first entering on life, to whom care is new and agony unknown, how can you understand what I have felt and still feel? Cold, want, and fatigue were the least pains which I was destined to endure; I was cursed by some devil and carried about with me my eternal hell; yet still a spirit of good followed and directed my steps and when I most murmured would suddenly extricate me from seemingly insurmountable difficulties. Sometimes, when nature, overcome by hunger, sank under the exhaustion, a repast was prepared for me in the desert that restored and inspirited me."
+      },
+      "request_id": "36c922bc80cecf5af1dbbb3a",
+      "request_sha256": "b977d0e70cf07435455b141dad10685823b3248b45800cb2872229b2d4db4d8b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fa44fa6f1db8d2c0b2856e21c88d588089564ee95fe9469a2311834db2884203"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f2d4ce6a01ae8b4c76be890d",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 467,
+      "passage_id": "V2_wilde_dorian_gray_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: f2d4ce6a01ae8b4c76be890d\noriginal_word_count: 467\n\nPassage:\nSoul and body, body and soul—how mysterious they were! There was animalism in the soul, and the body had its moments of spirituality. The senses could refine, and the intellect could degrade. Who could say where the fleshly impulse ceased, or the psychical impulse began? How shallow were the arbitrary definitions of ordinary psychologists! And yet how difficult to decide between the claims of the various schools! Was the soul a shadow seated in the house of sin? Or was the body really in the soul, as Giordano Bruno thought? The separation of spirit from matter was a mystery, and the union of spirit with matter was a mystery also.\n\nHe began to wonder whether we could ever make psychology so absolute a science that each little spring of life would be revealed to us. As it was, we always misunderstood ourselves and rarely understood others. Experience was of no ethical value. It was merely the name men gave to their mistakes. Moralists had, as a rule, regarded it as a mode of warning, had claimed for it a certain ethical efficacy in the formation of character, had praised it as something that taught us what to follow and showed us what to avoid. But there was no motive power in experience. It was as little of an active cause as conscience itself. All that it really demonstrated was that our future would be the same as our past, and that the sin we had done once, and with loathing, we would do many times, and with joy.\n\nIt was clear to him that the experimental method was the only method by which one could arrive at any scientific analysis of the passions; and certainly Dorian Gray was a subject made to his hand, and seemed to promise rich and fruitful results. His sudden mad love for Sibyl Vane was a psychological phenomenon of no small interest. There was no doubt that curiosity had much to do with it, curiosity and the desire for new experiences, yet it was not a simple, but rather a very complex passion. What there was in it of the purely sensuous instinct of boyhood had been transformed by the workings of the imagination, changed into something that seemed to the lad himself to be remote from sense, and was for that very reason all the more dangerous. It was the passions about whose origin we deceived ourselves that tyrannized most strongly over us. Our weakest motives were those of whose nature we were conscious. It often happened that when we thought we were experimenting on others we were really experimenting on ourselves.\n\nWhile Lord Henry sat dreaming on these things, a knock came to the door, and his valet entered and reminded him it was time to dress for dinner."
+      },
+      "request_id": "f2d4ce6a01ae8b4c76be890d",
+      "request_sha256": "5ce0dee02a862b80d479660e090e2319bcbb9ce98d34665fc8113fa6f1b72d17",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d72aa00ee12f20e1bf14b3b38e621f027628fe23ff590f1a3b1882ba36e6006b"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

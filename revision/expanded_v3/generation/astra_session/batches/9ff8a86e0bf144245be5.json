@@ -1,0 +1,68 @@
+{
+  "batch_id": "9ff8a86e0bf144245be5",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:05:25.257497+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "04f26c8308d3b13cefcf94bd",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_wilde_canterville_ghost_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 04f26c8308d3b13cefcf94bd\noriginal_word_count: 459\n\nPassage:\nRight in front of him he saw, in the wan moonlight, an old man of terrible aspect. His eyes were as red burning coals; long grey hair fell over his shoulders in matted coils; his garments, which were of antique cut, were soiled and ragged, and from his wrists and ankles hung heavy manacles and rusty gyves.\n\n‘My dear sir,’ said Mr. Otis, ‘I really must insist on your oiling those chains, and have brought you for that purpose a small bottle of the Tammany Rising Sun Lubricator. It is said to be completely efficacious upon one application, and there are several testimonials to that effect on the wrapper from some of our most eminent native divines. I shall leave it here for you by the bedroom candles, and will be happy to supply you with more should you require it.’ With these words the United States Minister laid the bottle down on a marble table, and, closing his door, retired to rest.\n\nFor a moment the Canterville ghost stood quite motionless in natural indignation; then, dashing the bottle violently upon the polished floor, he fled down the corridor, uttering hollow groans, and emitting a ghastly green light. Just, however, as he reached the top of the great oak staircase, a door was flung open, two little white-robed figures appeared, and a large pillow whizzed past his head! There was evidently no time to be lost, so, hastily adopting the Fourth Dimension of Space as a means of escape, he vanished through the wainscoting, and the house became quite quiet.\n\nOn reaching a small secret chamber in the left wing, he leaned up against a moonbeam to recover his breath, and began to try and realise his position. Never, in a brilliant and uninterrupted career of three hundred years, had he been so grossly insulted. He thought of the Dowager Duchess, whom he had frightened into a fit as she stood before the glass in her lace and diamonds; of the four housemaids, who had gone off into hysterics when he merely grinned at them through the curtains of one of the spare bedrooms; of the rector of the parish, whose candle he had blown out as he was coming late one night from the library, and who had been under the care of Sir William Gull ever since, a perfect martyr to nervous disorders; and of old Madame de Tremouillac, who, having wakened up one morning early and seen a skeleton seated in an arm-chair by the fire reading her diary, had been confined to her bed for six weeks with an attack of brain fever, and, on her recovery, had become reconciled to the Church, and broken off her connection with that notorious sceptic Monsieur de Voltaire."
+      },
+      "request_id": "04f26c8308d3b13cefcf94bd",
+      "request_sha256": "27c3524d1d1559dfe81a85310118487534c8878f819e07e302b7a30b91ebbbdb",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "aa3d85ff0fbeaa518087b3ddd477ccab5cad526a85b591664e136ee13a8805d8"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a2f5a2620296908bae2f05e1",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_twain_connecticut_yankee_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: a2f5a2620296908bae2f05e1\noriginal_word_count: 451\n\nPassage:\n“Oh, I misunderstood you. I thought you said 'anybody,' and so I supposed 'anybody' included--well, anybody; that is, everybody.”\n\n“It doth--anybody that is of lofty birth; and the better if he be royal.”\n\n“That, it meseemeth, might well be,” said the abbot, who saw his opportunity to smooth things and avert disaster, “for it were not likely that so wonderful a gift as this would be conferred for the revelation of the concerns of lesser beings than such as be born near to the summits of greatness. Our Arthur the king--”\n\n“Would you know of him?” broke in the enchanter.\n\n“Most gladly, yea, and gratefully.”\n\nEverybody was full of awe and interest again right away, the incorrigible idiots. They watched the incantations absorbingly, and looked at me with a “There, now, what can you say to that?” air, when the announcement came:\n\n“The king is weary with the chase, and lieth in his palace these two hours sleeping a dreamless sleep.”\n\n“God's benison upon him!” said the abbot, and crossed himself; “may that sleep be to the refreshment of his body and his soul.”\n\n“And so it might be, if he were sleeping,” I said, “but the king is not sleeping, the king rides.”\n\nHere was trouble again--a conflict of authority. Nobody knew which of us to believe; I still had some reputation left. The magician's scorn was stirred, and he said:\n\n“Lo, I have seen many wonderful soothsayers and prophets and magicians in my life days, but none before that could sit idle and see to the heart of things with never an incantation to help.”\n\n“You have lived in the woods, and lost much by it. I use incantations myself, as this good brotherhood are aware--but only on occasions of moment.”\n\nWhen it comes to sarcasming, I reckon I know how to keep my end up. That jab made this fellow squirm. The abbot inquired after the queen and the court, and got this information:\n\n“They be all on sleep, being overcome by fatigue, like as to the king.”\n\nI said:\n\n“That is merely another lie. Half of them are about their amusements, the queen and the other half are not sleeping, they ride. Now perhaps you can spread yourself a little, and tell us where the king and queen and all that are this moment riding with them are going?”\n\n“They sleep now, as I said; but on the morrow they will ride, for they go a journey toward the sea.”\n\n“And where will they be the day after to-morrow at vespers?”\n\n“Far to the north of Camelot, and half their journey will be done.”\n\n“That is another lie, by the space of a hundred and fifty miles."
+      },
+      "request_id": "a2f5a2620296908bae2f05e1",
+      "request_sha256": "9895fc695cb90f8dd08bcf28f52b832e39af4cdcd119dc9c2dc7ed9f2c86f673",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bbcf698d19b0d77bbda47693355c6a328d6cfde478d0b435c6ab5e157b238b36"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e63683c3b09c8b928596ecf8",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V3_twain_tom_sawyer_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: e63683c3b09c8b928596ecf8\noriginal_word_count: 451\n\nPassage:\nTom joined the new order of Cadets of Temperance, being attracted by the showy character of their “regalia.” He promised to abstain from smoking, chewing, and profanity as long as he remained a member. Now he found out a new thing—namely, that to promise not to do a thing is the surest way in the world to make a body want to go and do that very thing. Tom soon found himself tormented with a desire to drink and swear; the desire grew to be so intense that nothing but the hope of a chance to display himself in his red sash kept him from withdrawing from the order. Fourth of July was coming; but he soon gave that up—gave it up before he had worn his shackles over forty-eight hours—and fixed his hopes upon old Judge Frazer, justice of the peace, who was apparently on his deathbed and would have a big public funeral, since he was so high an official. During three days Tom was deeply concerned about the Judge’s condition and hungry for news of it. Sometimes his hopes ran high—so high that he would venture to get out his regalia and practise before the looking-glass. But the Judge had a most discouraging way of fluctuating. At last he was pronounced upon the mend—and then convalescent. Tom was disgusted; and felt a sense of injury, too. He handed in his resignation at once—and that night the Judge suffered a relapse and died. Tom resolved that he would never trust a man like that again.\n\nThe funeral was a fine thing. The Cadets paraded in a style calculated to kill the late member with envy. Tom was a free boy again, however—there was something in that. He could drink and swear, now—but found to his surprise that he did not want to. The simple fact that he could, took the desire away, and the charm of it.\n\nTom presently wondered to find that his coveted vacation was beginning to hang a little heavily on his hands.\n\nHe attempted a diary—but nothing happened during three days, and so he abandoned it.\n\nThe first of all the negro minstrel shows came to town, and made a sensation. Tom and Joe Harper got up a band of performers and were happy for two days.\n\nEven the Glorious Fourth was in some sense a failure, for it rained hard, there was no procession in consequence, and the greatest man in the world (as Tom supposed), Mr. Benton, an actual United States Senator, proved an overwhelming disappointment—for he was not twenty-five feet high, nor even anywhere in the neighborhood of it.\n\nA circus came."
+      },
+      "request_id": "e63683c3b09c8b928596ecf8",
+      "request_sha256": "48db81bd500382cfd7438c720ad2062c47b5d609831ac1d2f4cce0aa5f5b8a18",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c1af412769c3e64783dd4adf61f8e83c737cac415b30d29b12af465fc2462c84"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

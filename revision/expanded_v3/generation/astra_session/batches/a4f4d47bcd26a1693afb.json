@@ -1,0 +1,68 @@
+{
+  "batch_id": "a4f4d47bcd26a1693afb",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:21:20.930835+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2b0b8204f94d5ad7c7f77956",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_shelley_mathilda_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 2b0b8204f94d5ad7c7f77956\noriginal_word_count: 453\n\nPassage:\nThere were few who could boast of so pure a heart, and so much real humbleness of soul joined to a firm reliance on her own integrity and a belief in that of others. She had from her birth lived a retired life. She had lost her mother when very young, but her father had devoted himself to the care of her education--He had many peculiar ideas which influenced the system he had adopted with regard to her--She was well acquainted with the heroes of Greece and Rome or with those of England who had lived some hundred years ago, while she was nearly ignorant of the passing events of the day: she had read few authors who had written during at least the last fifty years but her reading with this exception was very extensive. Thus although she appeared to be less initiated in the mysteries of life and society than he her knowledge was of a deeper kind and laid on firmer foundations; and if even her beauty and sweetness had not fascinated him her understanding would ever have held his in thrall. He looked up to her as his guide, and such was his adoration that he delighted to augment to his own mind the sense of inferiority with which she sometimes impressed him.\n\nWhen he was nineteen his mother died. He left college on this event and shaking off for a while his old friends he retired to the neighbourhood of his Diana and received all his consolation from her sweet voice and dearer caresses. This short seperation from his companions gave him courage to assert his independance. He had a feeling that however they might express ridicule of his intended marriage they would not dare display it when it had taken place; therefore seeking the consent of his guardian which with some difficulty he obtained, and of the father of his mistress which was more easily given, without acquainting any one else of his intention, by the time he had attained his twentieth birthday he had become the husband of Diana.\n\nHe loved her with passion and her tenderness had a charm for him that would not permit him to think of aught but her. He invited some of his college friends to see him but their frivolity disgusted him. Diana had torn the veil which had before kept him in his boyhood: he was become a man and he was surprised how he could ever have joined in the cant words and ideas of his fellow collegiates or how for a moment he had feared the censure of such as these. He discarded his old friendships not from fickleness but because they were indeed unworthy of him."
+      },
+      "request_id": "2b0b8204f94d5ad7c7f77956",
+      "request_sha256": "532604f84386f6fd3babd07acccef0ccf09378cb5831bba383a5279db4f584e5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "89260d933821f327d5ab079ed165b4238bca6247a55460305a8a7b00edbc1495"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "82e941f3c9749fc9ce9576cd",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 490,
+      "passage_id": "V2_austen_emma_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 82e941f3c9749fc9ce9576cd\noriginal_word_count: 490\n\nPassage:\nEmma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little to distress or vex her.\n\nShe was the youngest of the two daughters of a most affectionate, indulgent father; and had, in consequence of her sister’s marriage, been mistress of his house from a very early period. Her mother had died too long ago for her to have more than an indistinct remembrance of her caresses; and her place had been supplied by an excellent woman as governess, who had fallen little short of a mother in affection.\n\nSixteen years had Miss Taylor been in Mr. Woodhouse’s family, less as a governess than a friend, very fond of both daughters, but particularly of Emma. Between _them_ it was more the intimacy of sisters. Even before Miss Taylor had ceased to hold the nominal office of governess, the mildness of her temper had hardly allowed her to impose any restraint; and the shadow of authority being now long passed away, they had been living together as friend and friend very mutually attached, and Emma doing just what she liked; highly esteeming Miss Taylor’s judgment, but directed chiefly by her own.\n\nThe real evils, indeed, of Emma’s situation were the power of having rather too much her own way, and a disposition to think a little too well of herself; these were the disadvantages which threatened alloy to her many enjoyments. The danger, however, was at present so unperceived, that they did not by any means rank as misfortunes with her.\n\nSorrow came—a gentle sorrow—but not at all in the shape of any disagreeable consciousness.—Miss Taylor married. It was Miss Taylor’s loss which first brought grief. It was on the wedding-day of this beloved friend that Emma first sat in mournful thought of any continuance. The wedding over, and the bride-people gone, her father and herself were left to dine together, with no prospect of a third to cheer a long evening. Her father composed himself to sleep after dinner, as usual, and she had then only to sit and think of what she had lost.\n\nThe event had every promise of happiness for her friend. Mr. Weston was a man of unexceptionable character, easy fortune, suitable age, and pleasant manners; and there was some satisfaction in considering with what self-denying, generous friendship she had always wished and promoted the match; but it was a black morning’s work for her. The want of Miss Taylor would be felt every hour of every day. She recalled her past kindness—the kindness, the affection of sixteen years—how she had taught and how she had played with her from five years old—how she had devoted all her powers to attach and amuse her in health—and how nursed her through the various illnesses of childhood."
+      },
+      "request_id": "82e941f3c9749fc9ce9576cd",
+      "request_sha256": "497f610ad44704af0ddf1eaba4e7cf79a41fb1c122838d1350bdf7505e1a198f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f2c1e0f4bbbc06235c1b8a35ad2279801115ca50e93b2fea77b270c25611266d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "cd71f69c9d6d9e1aca0d95b8",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: cd71f69c9d6d9e1aca0d95b8\noriginal_word_count: 459\n\nPassage:\n“Do you play?”\n\n“I think, sir,” said the spy, in the meanest manner, as he turned to Mr. Lorry, “I may appeal to a gentleman of your years and benevolence, to put it to this other gentleman, so much your junior, whether he can under any circumstances reconcile it to his station to play that Ace of which he has spoken. I admit that _I_ am a spy, and that it is considered a discreditable station--though it must be filled by somebody; but this gentleman is no spy, and why should he so demean himself as to make himself one?”\n\n“I play my Ace, Mr. Barsad,” said Carton, taking the answer on himself, and looking at his watch, “without any scruple, in a very few minutes.”\n\n“I should have hoped, gentlemen both,” said the spy, always striving to hook Mr. Lorry into the discussion, “that your respect for my sister--”\n\n“I could not better testify my respect for your sister than by finally relieving her of her brother,” said Sydney Carton.\n\n“You think not, sir?”\n\n“I have thoroughly made up my mind about it.”\n\nThe smooth manner of the spy, curiously in dissonance with his ostentatiously rough dress, and probably with his usual demeanour, received such a check from the inscrutability of Carton,--who was a mystery to wiser and honester men than he,--that it faltered here and failed him. While he was at a loss, Carton said, resuming his former air of contemplating cards:\n\n“And indeed, now I think again, I have a strong impression that I have another good card here, not yet enumerated. That friend and fellow-Sheep, who spoke of himself as pasturing in the country prisons; who was he?”\n\n“French. You don’t know him,” said the spy, quickly.\n\n“French, eh?” repeated Carton, musing, and not appearing to notice him at all, though he echoed his word. “Well; he may be.”\n\n“Is, I assure you,” said the spy; “though it’s not important.”\n\n“Though it’s not important,” repeated Carton, in the same mechanical way--“though it’s not important--No, it’s not important. No. Yet I know the face.”\n\n“I think not. I am sure not. It can’t be,” said the spy.\n\n“It-can’t-be,” muttered Sydney Carton, retrospectively, and idling his glass (which fortunately was a small one) again. “Can’t-be. Spoke good French. Yet like a foreigner, I thought?”\n\n“Provincial,” said the spy.\n\n“No. Foreign!” cried Carton, striking his open hand on the table, as a light broke clearly on his mind. “Cly! Disguised, but the same man. We had that man before us at the Old Bailey.”\n\n“Now, there you are hasty, sir,” said Barsad, with a smile that gave his aquiline nose an extra inclination to one side; “there you really give me an advantage over you."
+      },
+      "request_id": "cd71f69c9d6d9e1aca0d95b8",
+      "request_sha256": "5291c8537c4e84cedea38540e3b7f1d1ab51df3ece1a9ecaefb5aa2ebd080cfe",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "282134fd40a4b3fde11f345a89702c76f3e9ea52eec69b6fca4c696561535eb6"
+    }
+  ],
+  "session_id": "01a0e85c-7f66-73c1-b91c-6413115a4ff4",
+  "worker_id": "astra_s",
+  "worker_identity_sha256": "17b5f2fab7368788746600871fd66c46b6c1c2ea93360ddace6823c5041f0625"
+}

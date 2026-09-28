@@ -1,0 +1,68 @@
+{
+  "batch_id": "60f1a3cb93072e00711b",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:41:13.434544+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c9da65cc6a7ebf7f26208d97",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_twain_tom_sawyer_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: c9da65cc6a7ebf7f26208d97\noriginal_word_count: 456\n\nPassage:\n“Yes, burglar’s tools. That appears to relieve you a good deal. But what did give you that turn? What were _you_ expecting we’d found?”\n\nHuck was in a close place—the inquiring eye was upon him—he would have given anything for material for a plausible answer—nothing suggested itself—the inquiring eye was boring deeper and deeper—a senseless reply offered—there was no time to weigh it, so at a venture he uttered it—feebly:\n\n“Sunday-school books, maybe.”\n\nPoor Huck was too distressed to smile, but the old man laughed loud and joyously, shook up the details of his anatomy from head to foot, and ended by saying that such a laugh was money in a man’s pocket, because it cut down the doctor’s bill like everything. Then he added:\n\n“Poor old chap, you’re white and jaded—you ain’t well a bit—no wonder you’re a little flighty and off your balance. But you’ll come out of it. Rest and sleep will fetch you out all right, I hope.”\n\nHuck was irritated to think he had been such a goose and betrayed such a suspicious excitement, for he had dropped the idea that the parcel brought from the tavern was the treasure, as soon as he had heard the talk at the widow’s stile. He had only thought it was not the treasure, however—he had not known that it wasn’t—and so the suggestion of a captured bundle was too much for his self-possession. But on the whole he felt glad the little episode had happened, for now he knew beyond all question that that bundle was not _the_ bundle, and so his mind was at rest and exceedingly comfortable. In fact, everything seemed to be drifting just in the right direction, now; the treasure must be still in No. 2, the men would be captured and jailed that day, and he and Tom could seize the gold that night without any trouble or any fear of interruption.\n\nJust as breakfast was completed there was a knock at the door. Huck jumped for a hiding-place, for he had no mind to be connected even remotely with the late event. The Welshman admitted several ladies and gentlemen, among them the Widow Douglas, and noticed that groups of citizens were climbing up the hill—to stare at the stile. So the news had spread. The Welshman had to tell the story of the night to the visitors. The widow’s gratitude for her preservation was outspoken.\n\n“Don’t say a word about it, madam. There’s another that you’re more beholden to than you are to me and my boys, maybe, but he don’t allow me to tell his name. We wouldn’t have been there but for him.”"
+      },
+      "request_id": "c9da65cc6a7ebf7f26208d97",
+      "request_sha256": "f21666df2873c5a1447a6646699bf378ed0ea48a00a157996b1ff04b7272a071",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "644eed05f74710ece4bb051d330ab24febbeb08bd8df93aa824125c151169900"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "273dc5939dec15ac0b3d3a1e",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 468,
+      "passage_id": "V2_poe_hans_pfaal_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 273dc5939dec15ac0b3d3a1e\noriginal_word_count: 468\n\nPassage:\nIt then indicated an altitude on my part of 132,000 feet, or five-and-twenty miles, and I consequently surveyed at that time an extent of the earth’s area amounting to no less than the three hundred-and-twentieth part of its entire superficies. At nine o’clock I had again lost sight of land to the eastward, but not before I became aware that the balloon was drifting rapidly to the N. N. W. The convexity of the ocean beneath me was very evident indeed, although my view was often interrupted by the masses of cloud which floated to and fro. I observed now that even the lightest vapors never rose to more than ten miles above the level of the sea.\n\n“At half past nine I tried the experiment of throwing out a handful of feathers through the valve. They did not float as I had expected; but dropped down perpendicularly, like a bullet, en masse, and with the greatest velocity—being out of sight in a very few seconds. I did not at first know what to make of this extraordinary phenomenon; not being able to believe that my rate of ascent had, of a sudden, met with so prodigious an acceleration. But it soon occurred to me that the atmosphere was now far too rare to sustain even the feathers; that they actually fell, as they appeared to do, with great rapidity; and that I had been surprised by the united velocities of their descent and my own elevation.\n\n“By ten o’clock I found that I had very little to occupy my immediate attention. Affairs went swimmingly, and I believed the balloon to be going upward with a speed increasing momently although I had no longer any means of ascertaining the progression of the increase. I suffered no pain or uneasiness of any kind, and enjoyed better spirits than I had at any period since my departure from Rotterdam, busying myself now in examining the state of my various apparatus, and now in regenerating the atmosphere within the chamber. This latter point I determined to attend to at regular intervals of forty minutes, more on account of the preservation of my health, than from so frequent a renovation being absolutely necessary. In the meanwhile I could not help making anticipations. Fancy revelled in the wild and dreamy regions of the moon. Imagination, feeling herself for once unshackled, roamed at will among the ever-changing wonders of a shadowy and unstable land. Now there were hoary and time-honored forests, and craggy precipices, and waterfalls tumbling with a loud noise into abysses without a bottom. Then I came suddenly into still noonday solitudes, where no wind of heaven ever intruded, and where vast meadows of poppies, and slender, lily-looking flowers spread themselves out a weary distance, all silent and motionless forever."
+      },
+      "request_id": "273dc5939dec15ac0b3d3a1e",
+      "request_sha256": "c2345862830a436aa0641ecb135d7415c25e2c3775912dffd5a93c776450476e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4f8cc7224cbfc661087db8ba39ce6f5b078536811ed9b34e5aa4f69e78009905"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0771b3e4543c4d3a05ccb9ef",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_austen_emma_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 0771b3e4543c4d3a05ccb9ef\noriginal_word_count: 459\n\nPassage:\n“No, no, that’s to-morrow; and I particularly wanted to see Knightley to-day on that very account.—Such a dreadful broiling morning!—I went over the fields too—(speaking in a tone of great ill-usage,) which made it so much the worse. And then not to find him at home! I assure you I am not at all pleased. And no apology left, no message for me. The housekeeper declared she knew nothing of my being expected.—Very extraordinary!—And nobody knew at all which way he was gone. Perhaps to Hartfield, perhaps to the Abbey Mill, perhaps into his woods.—Miss Woodhouse, this is not like our friend Knightley!—Can you explain it?”\n\nEmma amused herself by protesting that it was very extraordinary, indeed, and that she had not a syllable to say for him.\n\n“I cannot imagine,” said Mrs. Elton, (feeling the indignity as a wife ought to do,) “I cannot imagine how he could do such a thing by you, of all people in the world! The very last person whom one should expect to be forgotten!—My dear Mr. E., he must have left a message for you, I am sure he must.—Not even Knightley could be so very eccentric;—and his servants forgot it. Depend upon it, that was the case: and very likely to happen with the Donwell servants, who are all, I have often observed, extremely awkward and remiss.—I am sure I would not have such a creature as his Harry stand at our sideboard for any consideration. And as for Mrs. Hodges, Wright holds her very cheap indeed.—She promised Wright a receipt, and never sent it.”\n\n“I met William Larkins,” continued Mr. Elton, “as I got near the house, and he told me I should not find his master at home, but I did not believe him.—William seemed rather out of humour. He did not know what was come to his master lately, he said, but he could hardly ever get the speech of him. I have nothing to do with William’s wants, but it really is of very great importance that _I_ should see Knightley to-day; and it becomes a matter, therefore, of very serious inconvenience that I should have had this hot walk to no purpose.”\n\nEmma felt that she could not do better than go home directly. In all probability she was at this very time waited for there; and Mr. Knightley might be preserved from sinking deeper in aggression towards Mr. Elton, if not towards William Larkins.\n\nShe was pleased, on taking leave, to find Miss Fairfax determined to attend her out of the room, to go with her even downstairs; it gave her an opportunity which she immediately made use of, to say,"
+      },
+      "request_id": "0771b3e4543c4d3a05ccb9ef",
+      "request_sha256": "b3779ac4af4f84cf2424b121f61b19dfdafc0cf6a62c17e862d52ecffe9a4812",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8a4f721e5eda60e4d31175eb0f97569ece289059151a298ea8bd09f488193c60"
+    }
+  ],
+  "session_id": "01a0e870-b3dc-74f3-b9ee-b27dbd5dd892",
+  "worker_id": "astra_x",
+  "worker_identity_sha256": "7c3a0144cf89773a3dc35b850a0bd602d9bf1a04c8ed1e402a69d4a4892146a6"
+}

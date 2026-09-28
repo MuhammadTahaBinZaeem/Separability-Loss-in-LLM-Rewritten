@@ -1,0 +1,68 @@
+{
+  "batch_id": "cf5b8bd3cc93d08e7d8d",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:46:51.292831+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6606581ccd2758930058fa1c",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 486,
+      "passage_id": "V2_dickens_great_expectations_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 6606581ccd2758930058fa1c\noriginal_word_count: 486\n\nPassage:\nThere was something so remarkable in the increasing glare of Mr. Wopsle’s eye, and he seemed to be turning so many things over in his mind and to grow so confused, that I could not make it out. I sat thinking of it long after he had ascended to the clouds in a large watch-case, and still I could not make it out. I was still thinking of it when I came out of the theatre an hour afterwards, and found him waiting for me near the door.\n\n“How do you do?” said I, shaking hands with him as we turned down the street together. “I saw that you saw me.”\n\n“Saw you, Mr. Pip!” he returned. “Yes, of course I saw you. But who else was there?”\n\n“Who else?”\n\n“It is the strangest thing,” said Mr. Wopsle, drifting into his lost look again; “and yet I could swear to him.”\n\nBecoming alarmed, I entreated Mr. Wopsle to explain his meaning.\n\n“Whether I should have noticed him at first but for your being there,” said Mr. Wopsle, going on in the same lost way, “I can’t be positive; yet I think I should.”\n\nInvoluntarily I looked round me, as I was accustomed to look round me when I went home; for these mysterious words gave me a chill.\n\n“Oh! He can’t be in sight,” said Mr. Wopsle. “He went out before I went off. I saw him go.”\n\nHaving the reason that I had for being suspicious, I even suspected this poor actor. I mistrusted a design to entrap me into some admission. Therefore I glanced at him as we walked on together, but said nothing.\n\n“I had a ridiculous fancy that he must be with you, Mr. Pip, till I saw that you were quite unconscious of him, sitting behind you there like a ghost.”\n\nMy former chill crept over me again, but I was resolved not to speak yet, for it was quite consistent with his words that he might be set on to induce me to connect these references with Provis. Of course, I was perfectly sure and safe that Provis had not been there.\n\n“I dare say you wonder at me, Mr. Pip; indeed, I see you do. But it is so very strange! You’ll hardly believe what I am going to tell you. I could hardly believe it myself, if you told me.”\n\n“Indeed?” said I.\n\n“No, indeed. Mr. Pip, you remember in old times a certain Christmas Day, when you were quite a child, and I dined at Gargery’s, and some soldiers came to the door to get a pair of handcuffs mended?”\n\n“I remember it very well.”\n\n“And you remember that there was a chase after two convicts, and that we joined in it, and that Gargery took you on his back, and that I took the lead, and you kept up with me as well as you could?”"
+      },
+      "request_id": "6606581ccd2758930058fa1c",
+      "request_sha256": "2641f4a88fbc76a53f83645dc30bc7d329ab0830e6cbb89bf77881ba91a76940",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f0648423419afd0f864c71bd77b9c917df03049c99e3e0d1935a18258da491e2"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5279069c5dc9f251f8018fa9",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_poe_murders_rue_morgue_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 5279069c5dc9f251f8018fa9\noriginal_word_count: 471\n\nPassage:\nIt was at length arranged that we should live together during my stay in the city; and as my worldly circumstances were somewhat less embarrassed than his own, I was permitted to be at the expense of renting, and furnishing in a style which suited the rather fantastic gloom of our common temper, a time-eaten and grotesque mansion, long deserted through superstitions into which we did not inquire, and tottering to its fall in a retired and desolate portion of the Faubourg St. Germain.\n\nHad the routine of our life at this place been known to the world, we should have been regarded as madmen—although, perhaps, as madmen of a harmless nature. Our seclusion was perfect. We admitted no visitors. Indeed the locality of our retirement had been carefully kept a secret from my own former associates; and it had been many years since Dupin had ceased to know or be known in Paris. We existed within ourselves alone.\n\nIt was a freak of fancy in my friend (for what else shall I call it?) to be enamored of the night for her own sake; and into this _bizarrerie_, as into all his others, I quietly fell; giving myself up to his wild whims with a perfect _abandon_. The sable divinity would not herself dwell with us always; but we could counterfeit her presence. At the first dawn of the morning we closed all the messy shutters of our old building; lighting a couple of tapers which, strongly perfumed, threw out only the ghastliest and feeblest of rays. By the aid of these we then busied our souls in dreams—reading, writing, or conversing, until warned by the clock of the advent of the true Darkness. Then we sallied forth into the streets arm in arm, continuing the topics of the day, or roaming far and wide until a late hour, seeking, amid the wild lights and shadows of the populous city, that infinity of mental excitement which quiet observation can afford.\n\nAt such times I could not help remarking and admiring (although from his rich ideality I had been prepared to expect it) a peculiar analytic ability in Dupin. He seemed, too, to take an eager delight in its exercise—if not exactly in its display—and did not hesitate to confess the pleasure thus derived. He boasted to me, with a low chuckling laugh, that most men, in respect to himself, wore windows in their bosoms, and was wont to follow up such assertions by direct and very startling proofs of his intimate knowledge of my own. His manner at these moments was frigid and abstract; his eyes were vacant in expression; while his voice, usually a rich tenor, rose into a treble which would have sounded petulantly but for the deliberateness and entire distinctness of the enunciation."
+      },
+      "request_id": "5279069c5dc9f251f8018fa9",
+      "request_sha256": "9ecfb79ab8a2b961d2b59b13a86134079710d1b191fa7f9a67dfce03123c5db3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fa6904088e7d1247e31e042377d84d99f2a109e87b065d65d614af9e3892b498"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8036cbe2355bee5684e66fdf",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 515,
+      "passage_id": "V2_twain_huckleberry_finn_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 8036cbe2355bee5684e66fdf\noriginal_word_count: 515\n\nPassage:\nThey was fetching a very nice-looking old gentleman along, and a nice-looking younger one, with his right arm in a sling. And, my souls, how the people yelled and laughed, and kept it up. But I didn’t see no joke about it, and I judged it would strain the duke and the king some to see any. I reckoned they’d turn pale. But no, nary a pale did _they_ turn. The duke he never let on he suspicioned what was up, but just went a goo-gooing around, happy and satisfied, like a jug that’s googling out buttermilk; and as for the king, he just gazed and gazed down sorrowful on them new-comers like it give him the stomach-ache in his very heart to think there could be such frauds and rascals in the world. Oh, he done it admirable. Lots of the principal people gethered around the king, to let him see they was on his side. That old gentleman that had just come looked all puzzled to death. Pretty soon he begun to speak, and I see straight off he pronounced _like_ an Englishman—not the king’s way, though the king’s _was_ pretty good for an imitation. I can’t give the old gent’s words, nor I can’t imitate him; but he turned around to the crowd, and says, about like this:\n\n“This is a surprise to me which I wasn’t looking for; and I’ll acknowledge, candid and frank, I ain’t very well fixed to meet it and answer it; for my brother and me has had misfortunes; he’s broke his arm, and our baggage got put off at a town above here last night in the night by a mistake. I am Peter Wilks’ brother Harvey, and this is his brother William, which can’t hear nor speak—and can’t even make signs to amount to much, now’t he’s only got one hand to work them with. We are who we say we are; and in a day or two, when I get the baggage, I can prove it. But up till then I won’t say nothing more, but go to the hotel and wait.”\n\nSo him and the new dummy started off; and the king he laughs, and blethers out:\n\n“Broke his arm—_very_ likely, _ain’t_ it?—and very convenient, too, for a fraud that’s got to make signs, and ain’t learnt how. Lost their baggage! That’s _mighty_ good!—and mighty ingenious—under the _circumstances!_”\n\nSo he laughed again; and so did everybody else, except three or four, or maybe half a dozen. One of these was that doctor; another one was a sharp-looking gentleman, with a carpet-bag of the old-fashioned kind made out of carpet-stuff, that had just come off of the steamboat and was talking to him in a low voice, and glancing towards the king now and then and nodding their heads—it was Levi Bell, the lawyer that was gone up to Louisville; and another one was a big rough husky that come along and listened to all the old gentleman said, and was listening to the king now."
+      },
+      "request_id": "8036cbe2355bee5684e66fdf",
+      "request_sha256": "3b96925d6ed57937582c5e15609bee18b71f6c6d7954571b217c5e6d7a0faaaf",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4a1bfb992082ab15545fe3ca8d14aabd15cb98324e8268b141284bd2eecbbffd"
+    }
+  ],
+  "session_id": "01a0e83d-4966-70c1-8c6a-f47c6ab2c73c",
+  "worker_id": "astra_j",
+  "worker_identity_sha256": "379c8d043a28d24c0180a7e1508526a74253a4abdfccf2558222841452c29a32"
+}

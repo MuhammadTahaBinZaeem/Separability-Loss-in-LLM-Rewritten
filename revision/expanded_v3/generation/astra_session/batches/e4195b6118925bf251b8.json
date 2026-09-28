@@ -1,0 +1,68 @@
+{
+  "batch_id": "e4195b6118925bf251b8",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:43:35.896310+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a5c542d385b77bb47e37d369",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 476,
+      "passage_id": "V2_poe_hans_pfaal_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: a5c542d385b77bb47e37d369\noriginal_word_count: 476\n\nPassage:\n“By eight o’clock I had actually attained an elevation of seventeen miles above the surface of the earth. Thus it seemed to me evident that my rate of ascent was not only on the increase, but that the progression would have been apparent in a slight degree even had I not discharged the ballast which I did. The pains in my head and ears returned, at intervals, with violence, and I still continued to bleed occasionally at the nose; but, upon the whole, I suffered much less than might have been expected. I breathed, however, at every moment, with more and more difficulty, and each inhalation was attended with a troublesome spasmodic action of the chest. I now unpacked the condensing apparatus, and got it ready for immediate use.\n\n“The view of the earth, at this period of my ascension, was beautiful indeed. To the westward, the northward, and the southward, as far as I could see, lay a boundless sheet of apparently unruffled ocean, which every moment gained a deeper and a deeper tint of blue and began already to assume a slight appearance of convexity. At a vast distance to the eastward, although perfectly discernible, extended the islands of Great Britain, the entire Atlantic coasts of France and Spain, with a small portion of the northern part of the continent of Africa. Of individual edifices not a trace could be discovered, and the proudest cities of mankind had utterly faded away from the face of the earth. From the rock of Gibraltar, now dwindled into a dim speck, the dark Mediterranean sea, dotted with shining islands as the heaven is dotted with stars, spread itself out to the eastward as far as my vision extended, until its entire mass of waters seemed at length to tumble headlong over the abyss of the horizon, and I found myself listening on tiptoe for the echoes of the mighty cataract. Overhead, the sky was of a jetty black, and the stars were brilliantly visible.\n\n“The pigeons about this time seeming to undergo much suffering, I determined upon giving them their liberty. I first untied one of them, a beautiful gray-mottled pigeon, and placed him upon the rim of the wicker-work. He appeared extremely uneasy, looking anxiously around him, fluttering his wings, and making a loud cooing noise, but could not be persuaded to trust himself from off the car. I took him up at last, and threw him to about half a dozen yards from the balloon. He made, however, no attempt to descend as I had expected, but struggled with great vehemence to get back, uttering at the same time very shrill and piercing cries. He at length succeeded in regaining his former station on the rim, but had hardly done so when his head dropped upon his breast, and he fell dead within the car."
+      },
+      "request_id": "a5c542d385b77bb47e37d369",
+      "request_sha256": "22376a0b2bbb4e9d6a2c87bf003c31c2b4224e1ec71b0f6d0f2240398f0b25c0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "516f4164ccc24a01ac303bf5a363d57289aefb01f58f4db1d1b9c8e6bd0b35e2"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2b35fcd21afcc5acc71714a1",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2b35fcd21afcc5acc71714a1\noriginal_word_count: 454\n\nPassage:\nBut I must warn you beforehand that I shall tell Sybil everything. She is coming to lunch with me to-morrow, to talk about bonnets, and if Mr. Podgers finds out that you have a bad temper, or a tendency to gout, or a wife living in Bayswater, I shall certainly let her know all about it.’\n\nLord Arthur smiled, and shook his head. ‘I am not afraid,’ he answered. ‘Sybil knows me as well as I know her.’\n\n‘Ah! I am a little sorry to hear you say that. The proper basis for marriage is a mutual misunderstanding. No, I am not at all cynical, I have merely got experience, which, however, is very much the same thing. Mr. Podgers, Lord Arthur Savile is dying to have his hand read. Don’t tell him that he is engaged to one of the most beautiful girls in London, because that appeared in the _Morning Post_ a month ago.\n\n‘Dear Lady Windermere,’ cried the Marchioness of Jedburgh, ‘do let Mr. Podgers stay here a little longer. He has just told me I should go on the stage, and I am so interested.’\n\n‘If he has told you that, Lady Jedburgh, I shall certainly take him away. Come over at once, Mr. Podgers, and read Lord Arthur’s hand.’\n\n‘Well,’ said Lady Jedburgh, making a little _moue_ as she rose from the sofa, ‘if I am not to be allowed to go on the stage, I must be allowed to be part of the audience at any rate.’\n\n‘Of course; we are all going to be part of the audience,’ said Lady Windermere; ‘and now, Mr. Podgers, be sure and tell us something nice. Lord Arthur is one of my special favourites.’\n\nBut when Mr. Podgers saw Lord Arthur’s hand he grew curiously pale, and said nothing. A shudder seemed to pass through him, and his great bushy eyebrows twitched convulsively, in an odd, irritating way they had when he was puzzled. Then some huge beads of perspiration broke out on his yellow forehead, like a poisonous dew, and his fat fingers grew cold and clammy.\n\nLord Arthur did not fail to notice these strange signs of agitation, and, for the first time in his life, he himself felt fear. His impulse was to rush from the room, but he restrained himself. It was better to know the worst, whatever it was, than to be left in this hideous uncertainty.\n\n‘I am waiting, Mr. Podgers,’ he said.\n\n‘We are all waiting,’ cried Lady Windermere, in her quick, impatient manner, but the cheiromantist made no reply.\n\n‘I believe Arthur is going on the stage,’ said Lady Jedburgh, ‘and that, after your scolding, Mr. Podgers is afraid to tell him so.’"
+      },
+      "request_id": "2b35fcd21afcc5acc71714a1",
+      "request_sha256": "12da34952564f0c0c291bc31ca9f1a32138ff853b2fd7c7bf3a2f84d0fc19820",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0fdd3ec7b9f44178c5e14c2149a2a62064bf29186eaafc3da20d567ddae11f78"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "14f08d5e602f8aa7bdf448b3",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 474,
+      "passage_id": "V2_twain_connecticut_yankee_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 14f08d5e602f8aa7bdf448b3\noriginal_word_count: 474\n\nPassage:\nDear me, she was a master talker. It would not become me to suggest that it was pretty late and that I was a tired man and very sleepy. I wished I had gone off to bed when I had the chance. Now I must stick it out; there was no other way. So she tinkled along and along, in the otherwise profound and ghostly hush of the sleeping castle, until by and by there came, as if from deep down under us, a far-away sound, as of a muffled shriek --with an expression of agony about it that made my flesh crawl. The queen stopped, and her eyes lighted with pleasure; she tilted her graceful head as a bird does when it listens. The sound bored its way up through the stillness again.\n\n“What is it?” I said.\n\n“It is truly a stubborn soul, and endureth long. It is many hours now.”\n\n“Endureth what?”\n\n“The rack. Come--ye shall see a blithe sight. An he yield not his secret now, ye shall see him torn asunder.”\n\nWhat a silky smooth hellion she was; and so composed and serene, when the cords all down my legs were hurting in sympathy with that man's pain. Conducted by mailed guards bearing flaring torches, we tramped along echoing corridors, and down stone stairways dank and dripping, and smelling of mould and ages of imprisoned night --a chill, uncanny journey and a long one, and not made the shorter or the cheerier by the sorceress's talk, which was about this sufferer and his crime. He had been accused by an anonymous informer, of having killed a stag in the royal preserves. I said:\n\n“Anonymous testimony isn't just the right thing, your Highness. It were fairer to confront the accused with the accuser.”\n\n“I had not thought of that, it being but of small consequence. But an I would, I could not, for that the accuser came masked by night, and told the forester, and straightway got him hence again, and so the forester knoweth him not.”\n\n“Then is this Unknown the only person who saw the stag killed?”\n\n“Marry, _no_ man _saw_ the killing, but this Unknown saw this hardy wretch near to the spot where the stag lay, and came with right loyal zeal and betrayed him to the forester.”\n\n“So the Unknown was near the dead stag, too? Isn't it just possible that he did the killing himself? His loyal zeal--in a mask--looks just a shade suspicious. But what is your highness's idea for racking the prisoner? Where is the profit?”\n\n“He will not confess, else; and then were his soul lost. For his crime his life is forfeited by the law--and of a surety will I see that he payeth it!--but it were peril to my own soul to let him die unconfessed and unabsolved."
+      },
+      "request_id": "14f08d5e602f8aa7bdf448b3",
+      "request_sha256": "5accb13a1408afa533170840ebbfa4acec543001bc397ee43315f4c83b98bc01",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2c8134c130e8f16749b357e80f807ba58b56f9ed200774ed78760eea0da44ba6"
+    }
+  ],
+  "session_id": "01a0e876-83f7-78a1-b9d1-9e5cfb4d9073",
+  "worker_id": "astra_z",
+  "worker_identity_sha256": "3c518323fe65160b33818c8fecefe8b58d18bebfd64f52e04e66f555b7fdddb7"
+}

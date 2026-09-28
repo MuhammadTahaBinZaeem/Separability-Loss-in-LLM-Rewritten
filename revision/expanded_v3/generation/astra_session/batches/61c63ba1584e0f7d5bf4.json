@@ -1,0 +1,68 @@
+{
+  "batch_id": "61c63ba1584e0f7d5bf4",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:25:28.630869+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a5f331a24bec036c19e31896",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_poe_the_gold_bug_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: a5f331a24bec036c19e31896\noriginal_word_count: 473\n\nPassage:\nWe, finally, lightened the box by removing two thirds of its contents, when we were enabled, with some trouble, to raise it from the hole. The articles taken out were deposited among the brambles, and the dog left to guard them, with strict orders from Jupiter neither, upon any pretence, to stir from the spot, nor to open his mouth until our return. We then hurriedly made for home with the chest; reaching the hut in safety, but after excessive toil, at one o’clock in the morning. Worn out as we were, it was not in human nature to do more immediately. We rested until two, and had supper; starting for the hills immediately afterwards, armed with three stout sacks, which, by good luck, were upon the premises. A little before four we arrived at the pit, divided the remainder of the booty, as equally as might be, among us, and, leaving the holes unfilled, again set out for the hut, at which, for the second time, we deposited our golden burthens, just as the first faint streaks of the dawn gleamed from over the tree-tops in the East.\n\nWe were now thoroughly broken down; but the intense excitement of the time denied us repose. After an unquiet slumber of some three or four hours’ duration, we arose, as if by preconcert, to make examination of our treasure.\n\nThe chest had been full to the brim, and we spent the whole day, and the greater part of the next night, in a scrutiny of its contents. There had been nothing like order or arrangement. Every thing had been heaped in promiscuously. Having assorted all with care, we found ourselves possessed of even vaster wealth than we had at first supposed. In coin there was rather more than four hundred and fifty thousand dollars—estimating the value of the pieces, as accurately as we could, by the tables of the period. There was not a particle of silver. All was gold of antique date and of great variety—French, Spanish, and German money, with a few English guineas, and some counters, of which we had never seen specimens before. There were several very large and heavy coins, so worn that we could make nothing of their inscriptions. There was no American money. The value of the jewels we found more difficulty in estimating. There were diamonds—some of them exceedingly large and fine—a hundred and ten in all, and not one of them small; eighteen rubies of remarkable brilliancy;—three hundred and ten emeralds, all very beautiful; and twenty-one sapphires, with an opal. These stones had all been broken from their settings and thrown loose in the chest. The settings themselves, which we picked out from among the other gold, appeared to have been beaten up with hammers, as if to prevent identification."
+      },
+      "request_id": "a5f331a24bec036c19e31896",
+      "request_sha256": "3aa63fa086f80c2b5f0995389c6af5236db968f7463d1d3cc17be0f74d727c69",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9783ce79d055e22efc5fb1613295d5768dcdc90177fa1ae8b9eabfdf5dcc52a7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "12ade6df0b42706407a6522f",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_poe_the_gold_bug_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 12ade6df0b42706407a6522f\noriginal_word_count: 457\n\nPassage:\nI rap him up in de paper and stuff piece ob it in he mouff—dat was de way.”\n\n“And you think, then, that your master was really bitten by the beetle, and that the bite made him sick?”\n\n“I do n’t tink noffin about it—I nose it. What make him dream ’bout de goole so much, if ’taint cause he bit by de goole-bug? Ise heerd ’bout dem goole-bugs fore dis.”\n\n“But how do you know he dreams about gold?”\n\n“How I know? why ’cause he talk about it in he sleep—dat’s how I nose.”\n\n“Well, Jup, perhaps you are right; but to what fortunate circumstance am I to attribute the honor of a visit from you to-day?”\n\n“What de matter, massa?”\n\n“Did you bring any message from Mr. Legrand?”\n\n“No, massa, I bring dis here pissel;” and here Jupiter handed me a note which ran thus:\n\n“MY DEAR ——Why have I not seen you for so long a time? I hope you have not been so foolish as to take offence at any little _brusquerie_ of mine; but no, that is improbable. Since I saw you I have had great cause for anxiety. I have something to tell you, yet scarcely know how to tell it, or whether I should tell it at all.\n\n“I have not been quite well for some days past, and poor old Jup annoys me, almost beyond endurance, by his well-meant attentions. Would you believe it?—he had prepared a huge stick, the other day, with which to chastise me for giving him the slip, and spending the day, _solus_, among the hills on the main land. I verily believe that my ill looks alone saved me a flogging.\n\n“I have made no addition to my cabinet since we met.\n\n“If you can, in any way, make it convenient, come over with Jupiter. _Do_ come. I wish to see you to-_night_, upon business of importance. I assure you that it is of the _highest_ importance.\n\n“Ever yours, “WILLIAM LEGRAND”.\n\nThere was something in the tone of this note which gave me great uneasiness. Its whole style differed materially from that of Legrand. What could he be dreaming of? What new crotchet possessed his excitable brain? What “business of the highest importance” could he possibly have to transact? Jupiter’s account of him boded no good. I dreaded lest the continued pressure of misfortune had, at length, fairly unsettled the reason of my friend. Without a moment’s hesitation, therefore, I prepared to accompany the negro.\n\nUpon reaching the wharf, I noticed a scythe and three spades, all apparently new, lying in the bottom of the boat in which we were to embark.\n\n“What is the meaning of all this, Jup?”"
+      },
+      "request_id": "12ade6df0b42706407a6522f",
+      "request_sha256": "68c693588112b479fc87bfa5efdc6b9efa9a5df93652a6f400c216f31304a71e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8d0da55c704d280e0215034590d80e6d5d9e8eb80c1636eda7e22d52f3e3bc6f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a4d862e801edd829ee921fd9",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_poe_the_gold_bug_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: a4d862e801edd829ee921fd9\noriginal_word_count: 454\n\nPassage:\n“But,” said I, returning him the slip, “I am as much in the dark as ever. Were all the jewels of Golconda awaiting me upon my solution of this enigma, I am quite sure that I should be unable to earn them.”\n\n“And yet,” said Legrand, “the solution is by no means so difficult as you might be lead to imagine from the first hasty inspection of the characters. These characters, as any one might readily guess, form a cipher—that is to say, they convey a meaning; but then, from what is known of Kidd, I could not suppose him capable of constructing any of the more abstruse cryptographs. I made up my mind, at once, that this was of a simple species—such, however, as would appear, to the crude intellect of the sailor, absolutely insoluble without the key.”\n\n“And you really solved it?”\n\n“Readily; I have solved others of an abstruseness ten thousand times greater. Circumstances, and a certain bias of mind, have led me to take interest in such riddles, and it may well be doubted whether human ingenuity can construct an enigma of the kind which human ingenuity may not, by proper application, resolve. In fact, having once established connected and legible characters, I scarcely gave a thought to the mere difficulty of developing their import.\n\n“In the present case—indeed in all cases of secret writing—the first question regards the language of the cipher; for the principles of solution, so far, especially, as the more simple ciphers are concerned, depend upon, and are varied by, the genius of the particular idiom. In general, there is no alternative but experiment (directed by probabilities) of every tongue known to him who attempts the solution, until the true one be attained. But, with the cipher now before us, all difficulty was removed by the signature. The pun upon the word ‘Kidd’ is appreciable in no other language than the English. But for this consideration I should have begun my attempts with the Spanish and French, as the tongues in which a secret of this kind would most naturally have been written by a pirate of the Spanish main. As it was, I assumed the cryptograph to be English.\n\n“You observe there are no divisions between the words. Had there been divisions, the task would have been comparatively easy. In such case I should have commenced with a collation and analysis of the shorter words, and, had a word of a single letter occurred, as is most likely, (a or I, for example,) I should have considered the solution as assured. But, there being no division, my first step was to ascertain the predominant letters, as well as the least frequent."
+      },
+      "request_id": "a4d862e801edd829ee921fd9",
+      "request_sha256": "d77d038affbf1eb49fa9dfe243ba2793e6e67610b06f48c903a1815a7f51f26b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "94a90852fb2727186d2262c4205cbeaa59e39ea8da127c7f7be5e722019bc7da"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

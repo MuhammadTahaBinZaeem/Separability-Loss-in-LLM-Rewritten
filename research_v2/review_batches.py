@@ -59,13 +59,14 @@ class ReviewRouter:
             links = read_json(link_path) if link_path.exists() else []
             links += read_jsonl(store.private / "account_link_additions.jsonl")
             for link in links:
-                if link["from_research"] != str(owner.research) or link["from_session_id"] != original["id"]:
+                if owner.recorded_path(link["from_research"]) != owner.research or link["from_session_id"] != original["id"]:
                     continue
                 target = store.assignment(link["to_session_id"])
                 if (target["mode"] != original["mode"] or target["kind"] != original["kind"]
                         or target["reviewer_id"] != original["reviewer_id"]):
                     raise ReviewError("Packet ownership record does not match the reviewer assignment.", 409)
-                allowed.append({"id": target["id"], "label": label, "status": target["status"]})
+                if target["id"] not in {a["id"] for a in allowed}:
+                    allowed.append({"id": target["id"], "label": label, "status": target["status"]})
         active = next((a for a in reversed(allowed) if a["status"] in {"draft", "awaiting_packet"}), allowed[-1])
         return {"role": "reviewer", "session_id": active["id"], "assignments": allowed}
 

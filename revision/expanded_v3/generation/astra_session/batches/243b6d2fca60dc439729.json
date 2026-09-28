@@ -1,0 +1,68 @@
+{
+  "batch_id": "243b6d2fca60dc439729",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:50:19.400555+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "60efbbdc47847ddaa52b07a8",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_twain_connecticut_yankee_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 60efbbdc47847ddaa52b07a8\noriginal_word_count: 463\n\nPassage:\nThe dawn was come when I laid the Manuscript aside. The rain had almost ceased, the world was gray and sad, the exhausted storm was sighing and sobbing itself to rest. I went to the stranger's room, and listened at his door, which was slightly ajar. I could hear his voice, and so I knocked. There was no answer, but I still heard the voice. I peeped in. The man lay on his back in bed, talking brokenly but with spirit, and punctuating with his arms, which he thrashed about, restlessly, as sick people do in delirium. I slipped in softly and bent over him. His mutterings and ejaculations went on. I spoke--merely a word, to call his attention. His glassy eyes and his ashy face were alight in an instant with pleasure, gratitude, gladness, welcome:\n\n“Oh, Sandy, you are come at last--how I have longed for you! Sit by me--do not leave me--never leave me again, Sandy, never again. Where is your hand?--give it me, dear, let me hold it--there --now all is well, all is peace, and I am happy again--_we_ are happy again, isn't it so, Sandy? You are so dim, so vague, you are but a mist, a cloud, but you are _here_, and that is blessedness sufficient; and I have your hand; don't take it away--it is for only a little while, I shall not require it long.... Was that the child?... Hello-Central!... she doesn't answer. Asleep, perhaps? Bring her when she wakes, and let me touch her hands, her face, her hair, and tell her good-bye.... Sandy! Yes, you are there. I lost myself a moment, and I thought you were gone.... Have I been sick long? It must be so; it seems months to me. And such dreams! such strange and awful dreams, Sandy! Dreams that were as real as reality--delirium, of course, but _so_ real! Why, I thought the king was dead, I thought you were in Gaul and couldn't get home, I thought there was a revolution; in the fantastic frenzy of these dreams, I thought that Clarence and I and a handful of my cadets fought and exterminated the whole chivalry of England! But even that was not the strangest. I seemed to be a creature out of a remote unborn age, centuries hence, and even _that_ was as real as the rest! Yes, I seemed to have flown back out of that age into this of ours, and then forward to it again, and was set down, a stranger and forlorn in that strange England, with an abyss of thirteen centuries yawning between me and you! between me and my home and my friends! between me and all that is dear to me, all that could make life worth the living!"
+      },
+      "request_id": "60efbbdc47847ddaa52b07a8",
+      "request_sha256": "0086cf1c8a735d64f08cf1a76745e73e46952a0185ae0b3bf16fc3062149e1ed",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b8587c5890d6e73f49ddbe5715ad0207c9ae6401c9aae7fb783e5395337be064"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4e0d950d7ade0d03083b430c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_austen_pride_and_prejudice_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 4e0d950d7ade0d03083b430c\noriginal_word_count: 459\n\nPassage:\nMr. Wickham was so perfectly satisfied with this conversation, that he never again distressed himself, or provoked his dear sister Elizabeth, by introducing the subject of it; and she was pleased to find that she had said enough to keep him quiet.\n\nThe day of his and Lydia’s departure soon came; and Mrs. Bennet was forced to submit to a separation, which, as her husband by no means entered into her scheme of their all going to Newcastle, was likely to continue at least a twelvemonth.\n\n“Oh, my dear Lydia,” she cried, “when shall we meet again?”\n\n“Oh, Lord! I don’t know. Not these two or three years, perhaps.”\n\n“Write to me very often, my dear.”\n\n“As often as I can. But you know married women have never much time for writing. My sisters may write to _me_. They will have nothing else to do.”\n\nMr. Wickham’s adieus were much more affectionate than his wife’s. He smiled, looked handsome, and said many pretty things.\n\n“He is as fine a fellow,” said Mr. Bennet, as soon as they were out of the house, “as ever I saw. He simpers, and smirks, and makes love to us all. I am prodigiously proud of him. I defy even Sir William Lucas himself to produce a more valuable son-in-law.”\n\nThe loss of her daughter made Mrs. Bennet very dull for several days.\n\n“I often think,” said she, “that there is nothing so bad as parting with one’s friends. One seems so forlorn without them.”\n\n“This is the consequence, you see, madam, of marrying a daughter,” said Elizabeth. “It must make you better satisfied that your other four are single.”\n\n“It is no such thing. Lydia does not leave me because she is married; but only because her husband’s regiment happens to be so far off. If that had been nearer, she would not have gone so soon.”\n\nBut the spiritless condition which this event threw her into was shortly relieved, and her mind opened again to the agitation of hope, by an article of news which then began to be in circulation. The housekeeper at Netherfield had received orders to prepare for the arrival of her master, who was coming down in a day or two, to shoot there for several weeks. Mrs. Bennet was quite in the fidgets. She looked at Jane, and smiled, and shook her head, by turns.\n\n“Well, well, and so Mr. Bingley is coming down, sister,” (for Mrs. Philips first brought her the news). “Well, so much the better. Not that I care about it, though. He is nothing to us, you know, and I am sure I never want to see him again. But, however, he is very welcome to come to Netherfield, if he likes it."
+      },
+      "request_id": "4e0d950d7ade0d03083b430c",
+      "request_sha256": "6c98ad306527676fa17818a038c2628d65a45a7b9e72f287b78d9c8c4355947e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a261286aa5c02548c6911e949923225d27fd05fd18e7836b154afccdbc260f36"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "90a3e3534040df388189cf11",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 486,
+      "passage_id": "V2_austen_pride_and_prejudice_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 90a3e3534040df388189cf11\noriginal_word_count: 486\n\nPassage:\nThe two ladies were delighted to see their dear friend again, called it an age since they had met, and repeatedly asked what she had been doing with herself since their separation. To the rest of the family they paid little attention; avoiding Mrs. Bennet as much as possible, saying not much to Elizabeth, and nothing at all to the others. They were soon gone again, rising from their seats with an activity which took their brother by surprise, and hurrying off as if eager to escape from Mrs. Bennet’s civilities.\n\nThe prospect of the Netherfield ball was extremely agreeable to every female of the family. Mrs. Bennet chose to consider it as given in compliment to her eldest daughter, and was particularly flattered by receiving the invitation from Mr. Bingley himself, instead of a ceremonious card. Jane pictured to herself a happy evening in the society of her two friends, and the attentions of their brother; and Elizabeth thought with pleasure of dancing a great deal with Mr. Wickham, and of seeing a confirmation of everything in Mr. Darcy’s look and behaviour. The happiness anticipated by Catherine and Lydia depended less on any single event, or any particular person; for though they each, like Elizabeth, meant to dance half the evening with Mr. Wickham, he was by no means the only partner who could satisfy them, and a ball was, at any rate, a ball. And even Mary could assure her family that she had no disinclination for it.\n\n“While I can have my mornings to myself,” said she, “it is enough. I think it is no sacrifice to join occasionally in evening engagements. Society has claims on us all; and I profess myself one of those who consider intervals of recreation and amusement as desirable for everybody.”\n\nElizabeth’s spirits were so high on the occasion, that though she did not often speak unnecessarily to Mr. Collins, she could not help asking him whether he intended to accept Mr. Bingley’s invitation, and if he did, whether he would think it proper to join in the evening’s amusement; and she was rather surprised to find that he entertained no scruple whatever on that head, and was very far from dreading a rebuke, either from the Archbishop or Lady Catherine de Bourgh, by venturing to dance.\n\n“I am by no means of opinion, I assure you,” said he, “that a ball of this kind, given by a young man of character, to respectable people, can have any evil tendency; and I am so far from objecting to dancing myself, that I shall hope to be honoured with the hands of all my fair cousins in the course of the evening; and I take this opportunity of soliciting yours, Miss Elizabeth, for the two first dances especially; a preference which I trust my cousin Jane will attribute to the right cause, and not to any disrespect for her.”"
+      },
+      "request_id": "90a3e3534040df388189cf11",
+      "request_sha256": "4151cefd9f5c9b0d713296a6e51b930ab0b858e608f7d30af684d72e8b39b402",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a98359c6fe60f40dfa7b2fc3062450fefa9f1e1d920934e46200ec4a0bce8fca"
+    }
+  ],
+  "session_id": "01a0e87a-db7a-7303-aca7-ee81da6c50ba",
+  "worker_id": "astra_aa",
+  "worker_identity_sha256": "f89346b92865e535f8532245987e03b9bf1204ea8d86eb06bb80af193eb55d71"
+}

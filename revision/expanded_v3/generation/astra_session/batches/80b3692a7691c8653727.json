@@ -1,0 +1,68 @@
+{
+  "batch_id": "80b3692a7691c8653727",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:01:35.334893+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b8df13627f073dda73c9a5b2",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_wilde_dorian_gray_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: b8df13627f073dda73c9a5b2\noriginal_word_count: 454\n\nPassage:\nThen they passed by lonely brickfields. The fog was lighter here, and he could see the strange, bottle-shaped kilns with their orange, fanlike tongues of fire. A dog barked as they went by, and far away in the darkness some wandering sea-gull screamed. The horse stumbled in a rut, then swerved aside and broke into a gallop.\n\nAfter some time they left the clay road and rattled again over rough-paven streets. Most of the windows were dark, but now and then fantastic shadows were silhouetted against some lamplit blind. He watched them curiously. They moved like monstrous marionettes and made gestures like live things. He hated them. A dull rage was in his heart. As they turned a corner, a woman yelled something at them from an open door, and two men ran after the hansom for about a hundred yards. The driver beat at them with his whip.\n\nIt is said that passion makes one think in a circle. Certainly with hideous iteration the bitten lips of Dorian Gray shaped and reshaped those subtle words that dealt with soul and sense, till he had found in them the full expression, as it were, of his mood, and justified, by intellectual approval, passions that without such justification would still have dominated his temper. From cell to cell of his brain crept the one thought; and the wild desire to live, most terrible of all man’s appetites, quickened into force each trembling nerve and fibre. Ugliness that had once been hateful to him because it made things real, became dear to him now for that very reason. Ugliness was the one reality. The coarse brawl, the loathsome den, the crude violence of disordered life, the very vileness of thief and outcast, were more vivid, in their intense actuality of impression, than all the gracious shapes of art, the dreamy shadows of song. They were what he needed for forgetfulness. In three days he would be free.\n\nSuddenly the man drew up with a jerk at the top of a dark lane. Over the low roofs and jagged chimney-stacks of the houses rose the black masts of ships. Wreaths of white mist clung like ghostly sails to the yards.\n\n“Somewhere about here, sir, ain’t it?” he asked huskily through the trap.\n\nDorian started and peered round. “This will do,” he answered, and having got out hastily and given the driver the extra fare he had promised him, he walked quickly in the direction of the quay. Here and there a lantern gleamed at the stern of some huge merchantman. The light shook and splintered in the puddles. A red glare came from an outward-bound steamer that was coaling. The slimy pavement looked like a wet mackintosh."
+      },
+      "request_id": "b8df13627f073dda73c9a5b2",
+      "request_sha256": "666e67a23d18a688dfc091f02b5549c60aefbcbc7801784d7f3ab49e5ee7ecc0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3ae92dffcf9ab3f05623176e7c6655835597327befcb268819b39125f0f90500"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "dafaa4beb8a6b147fe43177f",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: dafaa4beb8a6b147fe43177f\noriginal_word_count: 452\n\nPassage:\nBut, he had oppressed no man, he had imprisoned no man; he was so far from having harshly exacted payment of his dues, that he had relinquished them of his own will, thrown himself on a world with no favour in it, won his own private place there, and earned his own bread. Monsieur Gabelle had held the impoverished and involved estate on written instructions, to spare the people, to give them what little there was to give--such fuel as the heavy creditors would let them have in the winter, and such produce as could be saved from the same grip in the summer--and no doubt he had put the fact in plea and proof, for his own safety, so that it could not but appear now.\n\nThis favoured the desperate resolution Charles Darnay had begun to make, that he would go to Paris.\n\nYes. Like the mariner in the old story, the winds and streams had driven him within the influence of the Loadstone Rock, and it was drawing him to itself, and he must go. Everything that arose before his mind drifted him on, faster and faster, more and more steadily, to the terrible attraction. His latent uneasiness had been, that bad aims were being worked out in his own unhappy land by bad instruments, and that he who could not fail to know that he was better than they, was not there, trying to do something to stay bloodshed, and assert the claims of mercy and humanity. With this uneasiness half stifled, and half reproaching him, he had been brought to the pointed comparison of himself with the brave old gentleman in whom duty was so strong; upon that comparison (injurious to himself) had instantly followed the sneers of Monseigneur, which had stung him bitterly, and those of Stryver, which above all were coarse and galling, for old reasons. Upon those, had followed Gabelle’s letter: the appeal of an innocent prisoner, in danger of death, to his justice, honour, and good name.\n\nHis resolution was made. He must go to Paris.\n\nYes. The Loadstone Rock was drawing him, and he must sail on, until he struck. He knew of no rock; he saw hardly any danger. The intention with which he had done what he had done, even although he had left it incomplete, presented it before him in an aspect that would be gratefully acknowledged in France on his presenting himself to assert it. Then, that glorious vision of doing good, which is so often the sanguine mirage of so many good minds, arose before him, and he even saw himself in the illusion with some influence to guide this raging Revolution that was running so fearfully wild."
+      },
+      "request_id": "dafaa4beb8a6b147fe43177f",
+      "request_sha256": "b52cc13391fbfcac52414294d5897a937e56e3cf9fe7f5feea615573a486b516",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5ba705b07997750e718517f70cad79ba079dbc6801c11097f1d858ef9cf3d5cd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ad7e7fa736fe83d1327663d9",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_poe_hans_pfaal_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: ad7e7fa736fe83d1327663d9\noriginal_word_count: 459\n\nPassage:\nThis done, a few more of the loops were unfastened from the rim, a farther portion of the cloth introduced, and the disengaged loops then connected with their proper buttons. In this way it was possible to insert the whole upper part of the bag between the net-work and the hoop. It is evident that the hoop would now drop down within the car, while the whole weight of the car itself, with all its contents, would be held up merely by the strength of the buttons. This, at first sight, would seem an inadequate dependence; but it was by no means so, for the buttons were not only very strong in themselves, but so close together that a very slight portion of the whole weight was supported by any one of them. Indeed, had the car and contents been three times heavier than they were, I should not have been at all uneasy. I now raised up the hoop again within the covering of gum-elastic, and propped it at nearly its former height by means of three light poles prepared for the occasion. This was done, of course, to keep the bag distended at the top, and to preserve the lower part of the net-work in its proper situation. All that now remained was to fasten up the mouth of the enclosure; and this was readily accomplished by gathering the folds of the material together, and twisting them up very tightly on the inside by means of a kind of stationary tourniquet.\n\n“In the sides of the covering thus adjusted round the car, had been inserted three circular panes of thick but clear glass, through which I could see without difficulty around me in every horizontal direction. In that portion of the cloth forming the bottom, was likewise, a fourth window, of the same kind, and corresponding with a small aperture in the floor of the car itself. This enabled me to see perpendicularly down, but having found it impossible to place any similar contrivance overhead, on account of the peculiar manner of closing up the opening there, and the consequent wrinkles in the cloth, I could expect to see no objects situated directly in my zenith. This, of course, was a matter of little consequence; for had I even been able to place a window at top, the balloon itself would have prevented my making any use of it.\n\n“About a foot below one of the side windows was a circular opening, eight inches in diameter, and fitted with a brass rim adapted in its inner edge to the windings of a screw. In this rim was screwed the large tube of the condenser, the body of the machine being, of course, within the chamber of gum-elastic."
+      },
+      "request_id": "ad7e7fa736fe83d1327663d9",
+      "request_sha256": "452962aa5fbba5e325b40a32a7b67d2406775324b552a300ddb2faba15a2f4ba",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a9340a4da4be357ad2b9e91aa1a5ab02c47c1b30968d8146777e818b83a15962"
+    }
+  ],
+  "session_id": "01a0e852-0aa6-7ae2-9bb7-b4f8a3387e53",
+  "worker_id": "astra_p",
+  "worker_identity_sha256": "afd3aba6357fe2ec9c9b6492844a9baccd6099faafc29ba8f935f467e4f98adf"
+}

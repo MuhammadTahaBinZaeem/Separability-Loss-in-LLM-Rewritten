@@ -1,0 +1,23 @@
+{
+  "model": "luna56",
+  "attempt": "Windows checkpoint compared with Linux rerun",
+  "byte_identical_replay_passed": false,
+  "inputs_identical": true,
+  "output_artifacts": 115,
+  "compressed_transform_files_changed": 105,
+  "decompressed_transform_differences": [],
+  "header_pairs": [
+    [
+      "1f8b080000000000020a",
+      "1f8b0800000000000203"
+    ]
+  ],
+  "compressed_payload_changes": 0,
+  "all_non_gzip_output_hashes_identical": true,
+  "preserved_original_manifest_sha256": "6959010f2c92a2aaffb155b3031c8eae2632b61e1257f87b02ba0905e1bb3c5e",
+  "linux_manifest_sha256": "0d61138995058940278777cf9898c24856870908fd5cc29cc0c42e60625412d3",
+  "error": "ValueError: Same-input full rerun did not reproduce every evidence artifact byte-for-byte",
+  "difference_scope": "Only gzip OS header byte (Windows 0x0a, Linux 0x03); compressed payload and decompressed content unchanged.",
+  "originals_retained_in_checkpoint": "843c2a8f5cca51d7005174dab75d5bcc6d07db74",
+  "next_verification_scope": "Exact byte replay against preserved Linux run; no cross-platform byte-identity claim."
+}

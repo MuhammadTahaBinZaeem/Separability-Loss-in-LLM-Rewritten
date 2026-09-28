@@ -1,0 +1,68 @@
+{
+  "batch_id": "9d37d9cc57c256dc3274",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:31:33.776526+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8a9acd2248fe58166be49d32",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_dickens_oliver_twist_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8a9acd2248fe58166be49d32\noriginal_word_count: 461\n\nPassage:\nThe narrow streets and courts, at length, terminated in a large open space; scattered about which, were pens for beasts, and other indications of a cattle-market. Sikes slackened his pace when they reached this spot: the girl being quite unable to support any longer, the rapid rate at which they had hitherto walked. Turning to Oliver, he roughly commanded him to take hold of Nancy’s hand.\n\n“Do you hear?” growled Sikes, as Oliver hesitated, and looked round.\n\nThey were in a dark corner, quite out of the track of passengers.\n\nOliver saw, but too plainly, that resistance would be of no avail. He held out his hand, which Nancy clasped tight in hers.\n\n“Give me the other,” said Sikes, seizing Oliver’s unoccupied hand. “Here, Bull’s-Eye!”\n\nThe dog looked up, and growled.\n\n“See here, boy!” said Sikes, putting his other hand to Oliver’s throat; “if he speaks ever so soft a word, hold him! D’ye mind!”\n\nThe dog growled again; and licking his lips, eyed Oliver as if he were anxious to attach himself to his windpipe without delay.\n\n“He’s as willing as a Christian, strike me blind if he isn’t!” said Sikes, regarding the animal with a kind of grim and ferocious approval. “Now, you know what you’ve got to expect, master, so call away as quick as you like; the dog will soon stop that game. Get on, young ’un!”\n\nBull’s-eye wagged his tail in acknowledgment of this unusually endearing form of speech; and, giving vent to another admonitory growl for the benefit of Oliver, led the way onward.\n\nIt was Smithfield that they were crossing, although it might have been Grosvenor Square, for anything Oliver knew to the contrary. The night was dark and foggy. The lights in the shops could scarecely struggle through the heavy mist, which thickened every moment and shrouded the streets and houses in gloom; rendering the strange place still stranger in Oliver’s eyes; and making his uncertainty the more dismal and depressing.\n\nThey had hurried on a few paces, when a deep church-bell struck the hour. With its first stroke, his two conductors stopped, and turned their heads in the direction whence the sound proceeded.\n\n“Eight o’clock, Bill,” said Nancy, when the bell ceased.\n\n“What’s the good of telling me that; I can hear it, can’t I?” replied Sikes.\n\n“I wonder whether _they_ can hear it,” said Nancy.\n\n“Of course they can,” replied Sikes. “It was Bartlemy time when I was shopped; and there warn’t a penny trumpet in the fair, as I couldn’t hear the squeaking on. Arter I was locked up for the night, the row and din outside made the thundering old jail so silent, that I could almost have beat my brains out against the iron plates of the door.”"
+      },
+      "request_id": "8a9acd2248fe58166be49d32",
+      "request_sha256": "613d7d7c62a47e48e4a6ed0d05f27f251cf46c5afd257296c3123ce85f5f4dc7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1f85f8b0e54b53084f27f26ade413172e95ca6d5a4d72e31c01b4d3a4ceaedf7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "476a5b12671145cf8b952ffa",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 476a5b12671145cf8b952ffa\noriginal_word_count: 485\n\nPassage:\nThose venerable and feeble persons were always seen by the public in the act of bowing, and were popularly believed, when they had bowed a customer out, still to keep on bowing in the empty office until they bowed another customer in.\n\nThe barrister was keen enough to divine that the banker would not have gone so far in his expression of opinion on any less solid ground than moral certainty. Unprepared as he was for the large pill he had to swallow, he got it down. “And now,” said Mr. Stryver, shaking his forensic forefinger at the Temple in general, when it was down, “my way out of this, is, to put you all in the wrong.”\n\nIt was a bit of the art of an Old Bailey tactician, in which he found great relief. “You shall not put me in the wrong, young lady,” said Mr. Stryver; “I’ll do that for you.”\n\nAccordingly, when Mr. Lorry called that night as late as ten o’clock, Mr. Stryver, among a quantity of books and papers littered out for the purpose, seemed to have nothing less on his mind than the subject of the morning. He even showed surprise when he saw Mr. Lorry, and was altogether in an absent and preoccupied state.\n\n“Well!” said that good-natured emissary, after a full half-hour of bootless attempts to bring him round to the question. “I have been to Soho.”\n\n“To Soho?” repeated Mr. Stryver, coldly. “Oh, to be sure! What am I thinking of!”\n\n“And I have no doubt,” said Mr. Lorry, “that I was right in the conversation we had. My opinion is confirmed, and I reiterate my advice.”\n\n“I assure you,” returned Mr. Stryver, in the friendliest way, “that I am sorry for it on your account, and sorry for it on the poor father’s account. I know this must always be a sore subject with the family; let us say no more about it.”\n\n“I don’t understand you,” said Mr. Lorry.\n\n“I dare say not,” rejoined Stryver, nodding his head in a smoothing and final way; “no matter, no matter.”\n\n“But it does matter,” Mr. Lorry urged.\n\n“No it doesn’t; I assure you it doesn’t. Having supposed that there was sense where there is no sense, and a laudable ambition where there is not a laudable ambition, I am well out of my mistake, and no harm is done. Young women have committed similar follies often before, and have repented them in poverty and obscurity often before. In an unselfish aspect, I am sorry that the thing is dropped, because it would have been a bad thing for me in a worldly point of view; in a selfish aspect, I am glad that the thing has dropped, because it would have been a bad thing for me in a worldly point of view--it is hardly necessary to say I could have gained nothing by it."
+      },
+      "request_id": "476a5b12671145cf8b952ffa",
+      "request_sha256": "a5595f7ab71477f45cccc5f099d941243c8263a4694c61feacbe39f1cf6c0ff1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3cbf3ce90302855af39a8cd4d2b9562f4e28ebd5f9ae670ee3430ba19fe335a3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "213b7796a3c5f5c5f89d7bfd",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_great_expectations_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 213b7796a3c5f5c5f89d7bfd\noriginal_word_count: 450\n\nPassage:\nShe looked at me keenly for a little while, and then said quietly,—\n\n“What do you want for them?”\n\n“Only,” said I, “that you would not confound them with the others. They may be of the same blood, but, believe me, they are not of the same nature.”\n\nStill looking at me keenly, Miss Havisham repeated,—\n\n“What do you want for them?”\n\n“I am not so cunning, you see,” I said, in answer, conscious that I reddened a little, “as that I could hide from you, even if I desired, that I do want something. Miss Havisham, if you would spare the money to do my friend Herbert a lasting service in life, but which from the nature of the case must be done without his knowledge, I could show you how.”\n\n“Why must it be done without his knowledge?” she asked, settling her hands upon her stick, that she might regard me the more attentively.\n\n“Because,” said I, “I began the service myself, more than two years ago, without his knowledge, and I don’t want to be betrayed. Why I fail in my ability to finish it, I cannot explain. It is a part of the secret which is another person’s and not mine.”\n\nShe gradually withdrew her eyes from me, and turned them on the fire. After watching it for what appeared in the silence and by the light of the slowly wasting candles to be a long time, she was roused by the collapse of some of the red coals, and looked towards me again—at first, vacantly—then, with a gradually concentrating attention. All this time Estella knitted on. When Miss Havisham had fixed her attention on me, she said, speaking as if there had been no lapse in our dialogue,—\n\n“What else?”\n\n“Estella,” said I, turning to her now, and trying to command my trembling voice, “you know I love you. You know that I have loved you long and dearly.”\n\nShe raised her eyes to my face, on being thus addressed, and her fingers plied their work, and she looked at me with an unmoved countenance. I saw that Miss Havisham glanced from me to her, and from her to me.\n\n“I should have said this sooner, but for my long mistake. It induced me to hope that Miss Havisham meant us for one another. While I thought you could not help yourself, as it were, I refrained from saying it. But I must say it now.”\n\nPreserving her unmoved countenance, and with her fingers still going, Estella shook her head.\n\n“I know,” said I, in answer to that action,—“I know. I have no hope that I shall ever call you mine, Estella."
+      },
+      "request_id": "213b7796a3c5f5c5f89d7bfd",
+      "request_sha256": "9b83fb646b897732a45ef31a0ee063bdf563288cc5b353add5e129785a588a5c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "39294001316e512390a626779ab326486027e51e10a0c9a2c0e23b5649be30d5"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

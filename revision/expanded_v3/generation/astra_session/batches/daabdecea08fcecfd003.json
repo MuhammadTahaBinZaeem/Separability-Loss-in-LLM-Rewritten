@@ -1,0 +1,68 @@
+{
+  "batch_id": "daabdecea08fcecfd003",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:39:34.316130+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ead0d451a5160ff8d85c864d",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_wilde_canterville_ghost_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: ead0d451a5160ff8d85c864d\noriginal_word_count: 466\n\nPassage:\nWHEN Mr. Hiram B. Otis, the American Minister, bought Canterville Chase, every one told him he was doing a very foolish thing, as there was no doubt at all that the place was haunted. Indeed, Lord Canterville himself, who was a man of the most punctilious honour, had felt it his duty to mention the fact to Mr. Otis when they came to discuss terms.\n\n‘We have not cared to live in the place ourselves,’ said Lord Canterville, ‘since my grandaunt, the Dowager Duchess of Bolton, was frightened into a fit, from which she never really recovered, by two skeleton hands being placed on her shoulders as she was dressing for dinner, and I feel bound to tell you, Mr. Otis, that the ghost has been seen by several living members of my family, as well as by the rector of the parish, the Rev. Augustus Dampier, who is a Fellow of King’s College, Cambridge. After the unfortunate accident to the Duchess, none of our younger servants would stay with us, and Lady Canterville often got very little sleep at night, in consequence of the mysterious noises that came from the corridor and the library.’\n\n‘My Lord,’ answered the Minister, ‘I will take the furniture and the ghost at a valuation. I come from a modern country, where we have everything that money can buy; and with all our spry young fellows painting the Old World red, and carrying off your best actresses and prima-donnas, I reckon that if there were such a thing as a ghost in Europe, we’d have it at home in a very short time in one of our public museums, or on the road as a show.’\n\n‘I fear that the ghost exists,’ said Lord Canterville, smiling, ‘though it may have resisted the overtures of your enterprising impresarios. It has been well known for three centuries, since 1584 in fact, and always makes its appearance before the death of any member of our family.’\n\n‘Well, so does the family doctor for that matter, Lord Canterville. But there is no such thing, sir, as a ghost, and I guess the laws of Nature are not going to be suspended for the British aristocracy.’\n\n‘You are certainly very natural in America,’ answered Lord Canterville, who did not quite understand Mr. Otis’s last observation, ‘and if you don’t mind a ghost in the house, it is all right. Only you must remember I warned you.’\n\nA few weeks after this, the purchase was completed, and at the close of the season the Minister and his family went down to Canterville Chase. Mrs. Otis, who, as Miss Lucretia R. Tappan, of West 53rd Street, had been a celebrated New York belle, was now a very handsome, middle-aged woman, with fine eyes, and a superb profile."
+      },
+      "request_id": "ead0d451a5160ff8d85c864d",
+      "request_sha256": "9cf03110b999223c15495cd52a8f5f50cf29e6a5718c37c6c74ba51154b4aee3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "14e47db24fbf013ec184cf11fa08556d20f41379ca2a141ae47790174044b1b0"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7bae5a25a5b6a329eec59611",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_shelley_frankenstein_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 7bae5a25a5b6a329eec59611\noriginal_word_count: 472\n\nPassage:\nOn my return, I found the following letter from my father:—\n\n“My dear Victor,\n\n“You have probably waited impatiently for a letter to fix the date of your return to us; and I was at first tempted to write only a few lines, merely mentioning the day on which I should expect you. But that would be a cruel kindness, and I dare not do it. What would be your surprise, my son, when you expected a happy and glad welcome, to behold, on the contrary, tears and wretchedness? And how, Victor, can I relate our misfortune? Absence cannot have rendered you callous to our joys and griefs; and how shall I inflict pain on my long absent son? I wish to prepare you for the woeful news, but I know it is impossible; even now your eye skims over the page to seek the words which are to convey to you the horrible tidings.\n\n“William is dead!—that sweet child, whose smiles delighted and warmed my heart, who was so gentle, yet so gay! Victor, he is murdered!\n\n“I will not attempt to console you; but will simply relate the circumstances of the transaction.\n\n“Last Thursday (May 7th), I, my niece, and your two brothers, went to walk in Plainpalais. The evening was warm and serene, and we prolonged our walk farther than usual. It was already dusk before we thought of returning; and then we discovered that William and Ernest, who had gone on before, were not to be found. We accordingly rested on a seat until they should return. Presently Ernest came, and enquired if we had seen his brother; he said, that he had been playing with him, that William had run away to hide himself, and that he vainly sought for him, and afterwards waited for a long time, but that he did not return.\n\n“This account rather alarmed us, and we continued to search for him until night fell, when Elizabeth conjectured that he might have returned to the house. He was not there. We returned again, with torches; for I could not rest, when I thought that my sweet boy had lost himself, and was exposed to all the damps and dews of night; Elizabeth also suffered extreme anguish. About five in the morning I discovered my lovely boy, whom the night before I had seen blooming and active in health, stretched on the grass livid and motionless; the print of the murder’s finger was on his neck.\n\n“He was conveyed home, and the anguish that was visible in my countenance betrayed the secret to Elizabeth. She was very earnest to see the corpse. At first I attempted to prevent her but she persisted, and entering the room where it lay, hastily examined the neck of the victim, and clasping her hands exclaimed, ‘O God!"
+      },
+      "request_id": "7bae5a25a5b6a329eec59611",
+      "request_sha256": "ed4d2a3b0776793e67c766f207be34c5fe6c606770d4206878d0cec57b3db257",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "88e9fe70212c16ad20f09ea5221e87817d350f2b91ef15fe395b0d210bac1404"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6c1fb3b73d2a1b98f3c744d1",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V2_austen_persuasion_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 6c1fb3b73d2a1b98f3c744d1\noriginal_word_count: 458\n\nPassage:\nBut do not imagine that I did not feel it an evil in itself.”\n\n“Depend upon it, they were all perfectly comfortable.”\n\n“I might not like them the better for that perhaps. Such a number of women and children have no _right_ to be comfortable on board.”\n\n“My dear Frederick, you are talking quite idly. Pray, what would become of us poor sailors’ wives, who often want to be conveyed to one port or another, after our husbands, if everybody had your feelings?”\n\n“My feelings, you see, did not prevent my taking Mrs Harville and all her family to Plymouth.”\n\n“But I hate to hear you talking so like a fine gentleman, and as if women were all fine ladies, instead of rational creatures. We none of us expect to be in smooth water all our days.”\n\n“Ah! my dear,” said the Admiral, “when he has got a wife, he will sing a different tune. When he is married, if we have the good luck to live to another war, we shall see him do as you and I, and a great many others, have done. We shall have him very thankful to anybody that will bring him his wife.”\n\n“Ay, that we shall.”\n\n“Now I have done,” cried Captain Wentworth. “When once married people begin to attack me with,—‘Oh! you will think very differently, when you are married.’ I can only say, ‘No, I shall not;’ and then they say again, ‘Yes, you will,’ and there is an end of it.”\n\nHe got up and moved away.\n\n“What a great traveller you must have been, ma’am!” said Mrs Musgrove to Mrs Croft.\n\n“Pretty well, ma’am, in the fifteen years of my marriage; though many women have done more. I have crossed the Atlantic four times, and have been once to the East Indies, and back again, and only once; besides being in different places about home: Cork, and Lisbon, and Gibraltar. But I never went beyond the Streights, and never was in the West Indies. We do not call Bermuda or Bahama, you know, the West Indies.”\n\nMrs Musgrove had not a word to say in dissent; she could not accuse herself of having ever called them anything in the whole course of her life.\n\n“And I do assure you, ma’am,” pursued Mrs Croft, “that nothing can exceed the accommodations of a man-of-war; I speak, you know, of the higher rates. When you come to a frigate, of course, you are more confined; though any reasonable woman may be perfectly happy in one of them; and I can safely say, that the happiest part of my life has been spent on board a ship. While we were together, you know, there was nothing to be feared."
+      },
+      "request_id": "6c1fb3b73d2a1b98f3c744d1",
+      "request_sha256": "16af30d450d072fbe8cfc5f32b459b7f16f5c6a48dd4e10ee862960ec4831cbf",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "288b86b7afe6858da562c1edcefe61eed6873c58da1e8c61d9cb4b7c708be164"
+    }
+  ],
+  "session_id": "01a0e871-0029-7eb2-b032-b2c22db7d18a",
+  "worker_id": "astra_y",
+  "worker_identity_sha256": "117b62507d566d7e1674868f608b01ea30f8f22336a4d59e5e97eb3a6f4f8842"
+}

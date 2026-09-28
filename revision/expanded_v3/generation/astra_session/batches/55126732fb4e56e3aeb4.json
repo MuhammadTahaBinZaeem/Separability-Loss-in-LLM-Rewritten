@@ -1,0 +1,68 @@
+{
+  "batch_id": "55126732fb4e56e3aeb4",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:15:51.726691+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "80436aca12d7f04ac51d86d2",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_hans_pfaal_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 80436aca12d7f04ac51d86d2\noriginal_word_count: 455\n\nPassage:\n“April 7th. Arose early, and, to my great joy, at length beheld what there could be no hesitation in supposing the northern Pole itself. It was there, beyond a doubt, and immediately beneath my feet; but, alas! I had now ascended to so vast a distance, that nothing could with accuracy be discerned. Indeed, to judge from the progression of the numbers indicating my various altitudes, respectively, at different periods, between six A.M. on the second of April, and twenty minutes before nine A.M. of the same day (at which time the barometer ran down), it might be fairly inferred that the balloon had now, at four o’clock in the morning of April the seventh, reached a height of not less, certainly, than 7,254 miles above the surface of the sea. This elevation may appear immense, but the estimate upon which it is calculated gave a result in all probability far inferior to the truth. At all events I undoubtedly beheld the whole of the earth’s major diameter; the entire northern hemisphere lay beneath me like a chart orthographically projected: and the great circle of the equator itself formed the boundary line of my horizon. Your Excellencies may, however, readily imagine that the confined regions hitherto unexplored within the limits of the Arctic circle, although situated directly beneath me, and therefore seen without any appearance of being foreshortened, were still, in themselves, comparatively too diminutive, and at too great a distance from the point of sight, to admit of any very accurate examination. Nevertheless, what could be seen was of a nature singular and exciting. Northwardly from that huge rim before mentioned, and which, with slight qualification, may be called the limit of human discovery in these regions, one unbroken, or nearly unbroken, sheet of ice continues to extend. In the first few degrees of this its progress, its surface is very sensibly flattened, farther on depressed into a plane, and finally, becoming not a little concave, it terminates, at the Pole itself, in a circular centre, sharply defined, whose apparent diameter subtended at the balloon an angle of about sixty-five seconds, and whose dusky hue, varying in intensity, was, at all times, darker than any other spot upon the visible hemisphere, and occasionally deepened into the most absolute and impenetrable blackness. Farther than this, little could be ascertained. By twelve o’clock the circular centre had materially decreased in circumference, and by seven P.M. I lost sight of it entirely; the balloon passing over the western limb of the ice, and floating away rapidly in the direction of the equator.\n\n“April 8th. Found a sensible diminution in the earth’s apparent diameter, besides a material alteration in its general color and appearance."
+      },
+      "request_id": "80436aca12d7f04ac51d86d2",
+      "request_sha256": "5b0109711147a4971cfb1383f8fb1acd0962fae35e321fec2d558d61196eebbc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4d607ac8e250fa1504996b27dc1aaf1872f5688d417043127f52995c2608c9c0"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7c17d3914dcfa5128a674755",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 476,
+      "passage_id": "V2_poe_hans_pfaal_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 7c17d3914dcfa5128a674755\noriginal_word_count: 476\n\nPassage:\nArising early in the morning, and contriving again to escape the vigilance of my creditors, I repaired eagerly to the bookseller’s stall, and laid out what little ready money I possessed, in the purchase of some volumes of Mechanics and Practical Astronomy. Having arrived at home safely with these, I devoted every spare moment to their perusal, and soon made such proficiency in studies of this nature as I thought sufficient for the execution of my plan. In the intervals of this period, I made every endeavor to conciliate the three creditors who had given me so much annoyance. In this I finally succeeded—partly by selling enough of my household furniture to satisfy a moiety of their claim, and partly by a promise of paying the balance upon completion of a little project which I told them I had in view, and for assistance in which I solicited their services. By these means—for they were ignorant men—I found little difficulty in gaining them over to my purpose.\n\n“Matters being thus arranged, I contrived, by the aid of my wife and with the greatest secrecy and caution, to dispose of what property I had remaining, and to borrow, in small sums, under various pretences, and without paying any attention to my future means of repayment, no inconsiderable quantity of ready money. With the means thus accruing I proceeded to procure at intervals, cambric muslin, very fine, in pieces of twelve yards each; twine; a lot of the varnish of caoutchouc; a large and deep basket of wicker-work, made to order; and several other articles necessary in the construction and equipment of a balloon of extraordinary dimensions. This I directed my wife to make up as soon as possible, and gave her all requisite information as to the particular method of proceeding. In the meantime I worked up the twine into a net-work of sufficient dimensions; rigged it with a hoop and the necessary cords; bought a quadrant, a compass, a spy-glass, a common barometer with some important modifications, and two astronomical instruments not so generally known. I then took opportunities of conveying by night, to a retired situation east of Rotterdam, five iron-bound casks, to contain about fifty gallons each, and one of a larger size; six tinned ware tubes, three inches in diameter, properly shaped, and ten feet in length; a quantity of a particular metallic substance, or semi-metal, which I shall not name, and a dozen demijohns of a very common acid. The gas to be formed from these latter materials is a gas never yet generated by any other person than myself—or at least never applied to any similar purpose. The secret I would make no difficulty in disclosing, but that it of right belongs to a citizen of Nantz, in France, by whom it was conditionally communicated to myself."
+      },
+      "request_id": "7c17d3914dcfa5128a674755",
+      "request_sha256": "8a1c3969822744b80e48da9ff69d0f0740a1c1c108fffcbc80c5e294e9e2088d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ce4309cf1d6bb9addaefb9a3093b4eff2869ef2d950ee9382231a0b44f8a04bb"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "36782ff2beff2f8cd6088211",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_shelley_the_last_man_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 36782ff2beff2f8cd6088211\noriginal_word_count: 450\n\nPassage:\nRaymond strode angrily up and down the room. I stood ready to receive and reply to his reproaches. Adrian leaned against the wall. “This is infinitely ridiculous,” he cried, “if you were school-boys, you could not conduct yourselves more unreasonably.”\n\n“You do not understand,” said Raymond. “This is only part of a system:—a scheme of tyranny to which I will never submit. Because I am Protector of England, am I to be the only slave in its empire? My privacy invaded, my actions censured, my friends insulted? But I will get rid of the whole together.—Be you witnesses,” and he took the star, insignia of office, from his breast, and threw it on the table. “I renounce my office, I abdicate my power—assume it who will!”—-\n\n“Let him assume it,” exclaimed Adrian, “who can pronounce himself, or whom the world will pronounce to be your superior. There does not exist the man in England with adequate presumption. Know yourself, Raymond, and your indignation will cease; your complacency return. A few months ago, whenever we prayed for the prosperity of our country, or our own, we at the same time prayed for the life and welfare of the Protector, as indissolubly linked to it. Your hours were devoted to our benefit, your ambition was to obtain our commendation. You decorated our towns with edifices, you bestowed on us useful establishments, you gifted the soil with abundant fertility. The powerful and unjust cowered at the steps of your judgment-seat, and the poor and oppressed arose like morn-awakened flowers under the sunshine of your protection.\n\n“Can you wonder that we are all aghast and mourn, when this appears changed? But, come, this splenetic fit is already passed; resume your functions; your partizans will hail you; your enemies be silenced; our love, honour, and duty will again be manifested towards you. Master yourself, Raymond, and the world is subject to you.”\n\n“All this would be very good sense, if addressed to another,” replied Raymond, moodily, “con the lesson yourself, and you, the first peer of the land, may become its sovereign. You the good, the wise, the just, may rule all hearts. But I perceive, too soon for my own happiness, too late for England’s good, that I undertook a task to which I am unequal. I cannot rule myself. My passions are my masters; my smallest impulse my tyrant. Do you think that I renounced the Protectorate (and I have renounced it) in a fit of spleen? By the God that lives, I swear never to take up that bauble again; never again to burthen myself with the weight of care and misery, of which that is the visible sign."
+      },
+      "request_id": "36782ff2beff2f8cd6088211",
+      "request_sha256": "6d7204af3d53843304da9f0a4176e1efe5672c6b1f4a972b09278a4d4aeffdaf",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5f617560747aa5bab168d3dd476151ac9e2e9ead271376653670c100990708ed"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

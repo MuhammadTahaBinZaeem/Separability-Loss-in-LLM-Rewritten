@@ -1,0 +1,68 @@
+{
+  "batch_id": "91b51d80fedb00a7e2ac",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:14:29.834819+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "70edcd765268669d89efb5e2",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_twain_connecticut_yankee_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 70edcd765268669d89efb5e2\noriginal_word_count: 456\n\nPassage:\nKnights and horses in heavy armor couldn't travel very fast. These would make the best time they could, and now that the ground was in good condition, and no snow or mud, they would probably make a seven-mile gait; they would have to change horses a couple of times; they would arrive about six, or a little after; it would still be plenty light enough; they would see the white cloth which I should tie around my right arm, and I would take command. We would surround that prison and have the king out in no time. It would be showy and picturesque enough, all things considered, though I would have preferred noonday, on account of the more theatrical aspect the thing would have.\n\nNow, then, in order to increase the strings to my bow, I thought I would look up some of those people whom I had formerly recognized, and make myself known. That would help us out of our scrape, without the knights. But I must proceed cautiously, for it was a risky business. I must get into sumptuous raiment, and it wouldn't do to run and jump into it. No, I must work up to it by degrees, buying suit after suit of clothes, in shops wide apart, and getting a little finer article with each change, until I should finally reach silk and velvet, and be ready for my project. So I started.\n\nBut the scheme fell through like scat! The first corner I turned, I came plump upon one of our slaves, snooping around with a watchman. I coughed at the moment, and he gave me a sudden look that bit right into my marrow. I judge he thought he had heard that cough before. I turned immediately into a shop and worked along down the counter, pricing things and watching out of the corner of my eye. Those people had stopped, and were talking together and looking in at the door. I made up my mind to get out the back way, if there was a back way, and I asked the shopwoman if I could step out there and look for the escaped slave, who was believed to be in hiding back there somewhere, and said I was an officer in disguise, and my pard was yonder at the door with one of the murderers in charge, and would she be good enough to step there and tell him he needn't wait, but had better go at once to the further end of the back alley and be ready to head him off when I rousted him out.\n\nShe was blazing with eagerness to see one of those already celebrated murderers, and she started on the errand at once."
+      },
+      "request_id": "70edcd765268669d89efb5e2",
+      "request_sha256": "85f8d9cbbb87673403a6512d8860c98b7a99777e115687a648de58e868739181",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7419bb49ac58d4fa8742b6e04ce464f3ac0b9e7015177af088291067d5db4a9f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9327880d1396cd59d7d02225",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_dickens_oliver_twist_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 9327880d1396cd59d7d02225\noriginal_word_count: 470\n\nPassage:\n“Listen then! You!” returned Monks. “His father being taken ill at Rome, was joined by his wife, my mother, from whom he had been long separated, who went from Paris and took me with her—to look after his property, for what I know, for she had no great affection for him, nor he for her. He knew nothing of us, for his senses were gone, and he slumbered on till next day, when he died. Among the papers in his desk, were two, dated on the night his illness first came on, directed to yourself”; he addressed himself to Mr. Brownlow; “and enclosed in a few short lines to you, with an intimation on the cover of the package that it was not to be forwarded till after he was dead. One of these papers was a letter to this girl Agnes; the other a will.”\n\n“What of the letter?” asked Mr. Brownlow.\n\n“The letter?—A sheet of paper crossed and crossed again, with a penitent confession, and prayers to God to help her. He had palmed a tale on the girl that some secret mystery—to be explained one day—prevented his marrying her just then; and so she had gone on, trusting patiently to him, until she trusted too far, and lost what none could ever give her back. She was, at that time, within a few months of her confinement. He told her all he had meant to do, to hide her shame, if he had lived, and prayed her, if he died, not to curse his memory, or think the consequences of their sin would be visited on her or their young child; for all the guilt was his. He reminded her of the day he had given her the little locket and the ring with her christian name engraved upon it, and a blank left for that which he hoped one day to have bestowed upon her—prayed her yet to keep it, and wear it next her heart, as she had done before—and then ran on, wildly, in the same words, over and over again, as if he had gone distracted. I believe he had.”\n\n“The will,” said Mr. Brownlow, as Oliver’s tears fell fast.\n\nMonks was silent.\n\n“The will,” said Mr. Brownlow, speaking for him, “was in the same spirit as the letter. He talked of miseries which his wife had brought upon him; of the rebellious disposition, vice, malice, and premature bad passions of you his only son, who had been trained to hate him; and left you, and your mother, each an annuity of eight hundred pounds. The bulk of his property he divided into two equal portions—one for Agnes Fleming, and the other for their child, if it should be born alive, and ever come of age."
+      },
+      "request_id": "9327880d1396cd59d7d02225",
+      "request_sha256": "baa4ce3f02511f32a355fc5afeba8ac35bc3b2d1fe4939abcecb79fe831ff0b7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4865e35f00f7b2d53ffde6ed53c94e141959eef731791aa26b8057368c4c99b7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3fa87a267d7d10e41af84cb2",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_austen_emma_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 3fa87a267d7d10e41af84cb2\noriginal_word_count: 454\n\nPassage:\n“I hope I shall soon have the pleasure of introducing my son to you,” said Mr. Weston.\n\nMrs. Elton, very willing to suppose a particular compliment intended her by such a hope, smiled most graciously.\n\n“You have heard of a certain Frank Churchill, I presume,” he continued—“and know him to be my son, though he does not bear my name.”\n\n“Oh! yes, and I shall be very happy in his acquaintance. I am sure Mr. Elton will lose no time in calling on him; and we shall both have great pleasure in seeing him at the Vicarage.”\n\n“You are very obliging.—Frank will be extremely happy, I am sure.— He is to be in town next week, if not sooner. We have notice of it in a letter to-day. I met the letters in my way this morning, and seeing my son’s hand, presumed to open it—though it was not directed to me—it was to Mrs. Weston. She is his principal correspondent, I assure you. I hardly ever get a letter.”\n\n“And so you absolutely opened what was directed to her! Oh! Mr. Weston—(laughing affectedly) I must protest against that.—A most dangerous precedent indeed!—I beg you will not let your neighbours follow your example.—Upon my word, if this is what I am to expect, we married women must begin to exert ourselves!—Oh! Mr. Weston, I could not have believed it of you!”\n\n“Aye, we men are sad fellows. You must take care of yourself, Mrs. Elton.—This letter tells us—it is a short letter—written in a hurry, merely to give us notice—it tells us that they are all coming up to town directly, on Mrs. Churchill’s account—she has not been well the whole winter, and thinks Enscombe too cold for her—so they are all to move southward without loss of time.”\n\n“Indeed!—from Yorkshire, I think. Enscombe is in Yorkshire?”\n\n“Yes, they are about one hundred and ninety miles from London, a considerable journey.”\n\n“Yes, upon my word, very considerable. Sixty-five miles farther than from Maple Grove to London. But what is distance, Mr. Weston, to people of large fortune?—You would be amazed to hear how my brother, Mr. Suckling, sometimes flies about. You will hardly believe me—but twice in one week he and Mr. Bragge went to London and back again with four horses.”\n\n“The evil of the distance from Enscombe,” said Mr. Weston, “is, that Mrs. Churchill, _as_ _we_ _understand_, has not been able to leave the sofa for a week together. In Frank’s last letter she complained, he said, of being too weak to get into her conservatory without having both his arm and his uncle’s!"
+      },
+      "request_id": "3fa87a267d7d10e41af84cb2",
+      "request_sha256": "24a7cdbe05fd4665f84dc9d145560029e78969ce497ec8f4d38a501de40ae920",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cb371ba1bae13d1fed36dab32b4b254efa584b811df883e49724f59f4bb9bac7"
+    }
+  ],
+  "session_id": "01a0e857-2390-7df1-8f12-e929ca6daadc",
+  "worker_id": "astra_q",
+  "worker_identity_sha256": "3f3cf345f62afb6b7770530219536cddba6b09ed2bde9eacd0dc8a411ac176e1"
+}

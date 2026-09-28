@@ -1,0 +1,68 @@
+{
+  "batch_id": "fad1d61e936dfe6e1b62",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:23:12.751553+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6df873fc49930170d64910f3",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_twain_huckleberry_finn_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 6df873fc49930170d64910f3\noriginal_word_count: 463\n\nPassage:\nThe first time I catched Tom private I asked him what was his idea, time of the evasion?—what it was he’d planned to do if the evasion worked all right and he managed to set a nigger free that was already free before? And he said, what he had planned in his head from the start, if we got Jim out all safe, was for us to run him down the river on the raft, and have adventures plumb to the mouth of the river, and then tell him about his being free, and take him back up home on a steamboat, in style, and pay him for his lost time, and write word ahead and get out all the niggers around, and have them waltz him into town with a torchlight procession and a brass-band, and then he would be a hero, and so would we. But I reckoned it was about as well the way it was.\n\nWe had Jim out of the chains in no time, and when Aunt Polly and Uncle Silas and Aunt Sally found out how good he helped the doctor nurse Tom, they made a heap of fuss over him, and fixed him up prime, and give him all he wanted to eat, and a good time, and nothing to do. And we had him up to the sick-room, and had a high talk; and Tom give Jim forty dollars for being prisoner for us so patient, and doing it up so good, and Jim was pleased most to death, and busted out, and says:\n\n“_Dah_, now, Huck, what I tell you?—what I tell you up dah on Jackson islan’? I _tole_ you I got a hairy breas’, en what’s de sign un it; en I _tole_ you I ben rich wunst, en gwineter to be rich _agin;_ en it’s come true; en heah she _is! Dah_, now! doan’ talk to _me_—signs is _signs_, mine I tell you; en I knowed jis’ ’s well ’at I ’uz gwineter be rich agin as I’s a-stannin’ heah dis minute!”\n\nAnd then Tom he talked along and talked along, and says, le’s all three slide out of here one of these nights and get an outfit, and go for howling adventures amongst the Injuns, over in the Territory, for a couple of weeks or two; and I says, all right, that suits me, but I ain’t got no money for to buy the outfit, and I reckon I couldn’t get none from home, because it’s likely pap’s been back before now, and got it all away from Judge Thatcher and drunk it up.\n\n“No, he hain’t,” Tom says; “it’s all there yet—six thousand dollars and more; and your pap hain’t ever been back since."
+      },
+      "request_id": "6df873fc49930170d64910f3",
+      "request_sha256": "fd1df87e580c2a457377340286f58dae7bff994839015ff31d713e9ec5cc8554",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "abe36c52a9f8f8a8951175e24b5d8d1ad50898f73fc4fe293ae8078982366d8e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ff7e5b05be46a6960fe330fa",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 486,
+      "passage_id": "V2_twain_connecticut_yankee_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: ff7e5b05be46a6960fe330fa\noriginal_word_count: 486\n\nPassage:\nSmallpox!\n\nI sprang to the king, and said in his ear:\n\n“Out of the door on the instant, sire! the woman is dying of that disease that wasted the skirts of Camelot two years ago.”\n\nHe did not budge.\n\n“Of a truth I shall remain--and likewise help.”\n\nI whispered again:\n\n“King, it must not be. You must go.”\n\n“Ye mean well, and ye speak not unwisely. But it were shame that a king should know fear, and shame that belted knight should withhold his hand where be such as need succor. Peace, I will not go. It is you who must go. The Church's ban is not upon me, but it forbiddeth you to be here, and she will deal with you with a heavy hand an word come to her of your trespass.”\n\nIt was a desperate place for him to be in, and might cost him his life, but it was no use to argue with him. If he considered his knightly honor at stake here, that was the end of argument; he would stay, and nothing could prevent it; I was aware of that. And so I dropped the subject. The woman spoke:\n\n“Fair sir, of your kindness will ye climb the ladder there, and bring me news of what ye find? Be not afraid to report, for times can come when even a mother's heart is past breaking --being already broke.”\n\n“Abide,” said the king, “and give the woman to eat. I will go.” And he put down the knapsack.\n\nI turned to start, but the king had already started. He halted, and looked down upon a man who lay in a dim light, and had not noticed us thus far, or spoken.\n\n“Is it your husband?” the king asked.\n\n“Yes.”\n\n“Is he asleep?”\n\n“God be thanked for that one charity, yes--these three hours. Where shall I pay to the full, my gratitude! for my heart is bursting with it for that sleep he sleepeth now.”\n\nI said:\n\n“We will be careful. We will not wake him.”\n\n“Ah, no, that ye will not, for he is dead.”\n\n“Dead?”\n\n“Yes, what triumph it is to know it! None can harm him, none insult him more. He is in heaven now, and happy; or if not there, he bides in hell and is content; for in that place he will find neither abbot nor yet bishop. We were boy and girl together; we were man and wife these five and twenty years, and never separated till this day. Think how long that is to love and suffer together. This morning was he out of his mind, and in his fancy we were boy and girl again and wandering in the happy fields; and so in that innocent glad converse wandered he far and farther, still lightly gossiping, and entered into those other fields we know not of, and was shut away from mortal sight."
+      },
+      "request_id": "ff7e5b05be46a6960fe330fa",
+      "request_sha256": "ce30e171c6b98bfdd88a260bffa29f8142fee9200d7f14368344a217140724be",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "06c02d17f4b81b6dc7580de916b35c535b89efb3cb53ccd00c6431c003427efd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ca2e86af4411c904932f0fca",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: ca2e86af4411c904932f0fca\noriginal_word_count: 463\n\nPassage:\nThe exquisite gentlemen of the finest breeding wore little pendent trinkets that chinked as they languidly moved; these golden fetters rang like precious little bells; and what with that ringing, and with the rustle of silk and brocade and fine linen, there was a flutter in the air that fanned Saint Antoine and his devouring hunger far away.\n\nDress was the one unfailing talisman and charm used for keeping all things in their places. Everybody was dressed for a Fancy Ball that was never to leave off. From the Palace of the Tuileries, through Monseigneur and the whole Court, through the Chambers, the Tribunals of Justice, and all society (except the scarecrows), the Fancy Ball descended to the Common Executioner: who, in pursuance of the charm, was required to officiate “frizzled, powdered, in a gold-laced coat, pumps, and white silk stockings.” At the gallows and the wheel--the axe was a rarity--Monsieur Paris, as it was the episcopal mode among his brother Professors of the provinces, Monsieur Orleans, and the rest, to call him, presided in this dainty dress. And who among the company at Monseigneur’s reception in that seventeen hundred and eightieth year of our Lord, could possibly doubt, that a system rooted in a frizzled hangman, powdered, gold-laced, pumped, and white-silk stockinged, would see the very stars out!\n\nMonseigneur having eased his four men of their burdens and taken his chocolate, caused the doors of the Holiest of Holiests to be thrown open, and issued forth. Then, what submission, what cringing and fawning, what servility, what abject humiliation! As to bowing down in body and spirit, nothing in that way was left for Heaven--which may have been one among other reasons why the worshippers of Monseigneur never troubled it.\n\nBestowing a word of promise here and a smile there, a whisper on one happy slave and a wave of the hand on another, Monseigneur affably passed through his rooms to the remote region of the Circumference of Truth. There, Monseigneur turned, and came back again, and so in due course of time got himself shut up in his sanctuary by the chocolate sprites, and was seen no more.\n\nThe show being over, the flutter in the air became quite a little storm, and the precious little bells went ringing downstairs. There was soon but one person left of all the crowd, and he, with his hat under his arm and his snuff-box in his hand, slowly passed among the mirrors on his way out.\n\n“I devote you,” said this person, stopping at the last door on his way, and turning in the direction of the sanctuary, “to the Devil!”\n\nWith that, he shook the snuff from his fingers as if he had shaken the dust from his feet, and quietly walked downstairs."
+      },
+      "request_id": "ca2e86af4411c904932f0fca",
+      "request_sha256": "4757d162390fb074f826acce908593d2316463d6fff767602647b111dbbaf5b0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c63a64b8b4fe51dd12a566d6c16d2000c534835fe8499db94b93985d984f3989"
+    }
+  ],
+  "session_id": "01a0e865-d34a-75c3-a7b9-6054f384d598",
+  "worker_id": "astra_u",
+  "worker_identity_sha256": "a9ccd4d0505883dcc11e3e0b3f2a87cf0163a5c2fb28ec8e4609d8f10a62a24d"
+}

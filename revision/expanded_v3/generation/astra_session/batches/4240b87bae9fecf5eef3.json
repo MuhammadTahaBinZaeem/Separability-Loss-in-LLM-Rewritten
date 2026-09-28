@@ -1,0 +1,68 @@
+{
+  "batch_id": "4240b87bae9fecf5eef3",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:48:47.579696+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e09cd8ba6619b60d5cc85fd3",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_poe_the_gold_bug_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: e09cd8ba6619b60d5cc85fd3\noriginal_word_count: 453\n\nPassage:\nMany years ago, I contracted an intimacy with a Mr. William Legrand. He was of an ancient Huguenot family, and had once been wealthy; but a series of misfortunes had reduced him to want. To avoid the mortification consequent upon his disasters, he left New Orleans, the city of his forefathers, and took up his residence at Sullivan’s Island, near Charleston, South Carolina.\n\nThis Island is a very singular one. It consists of little else than the sea sand, and is about three miles long. Its breadth at no point exceeds a quarter of a mile. It is separated from the main land by a scarcely perceptible creek, oozing its way through a wilderness of reeds and slime, a favorite resort of the marsh hen. The vegetation, as might be supposed, is scant, or at least dwarfish. No trees of any magnitude are to be seen. Near the western extremity, where Fort Moultrie stands, and where are some miserable frame buildings, tenanted, during summer, by the fugitives from Charleston dust and fever, may be found, indeed, the bristly palmetto; but the whole island, with the exception of this western point, and a line of hard, white beach on the seacoast, is covered with a dense undergrowth of the sweet myrtle, so much prized by the horticulturists of England. The shrub here often attains the height of fifteen or twenty feet, and forms an almost impenetrable coppice, burthening the air with its fragrance.\n\nIn the inmost recesses of this coppice, not far from the eastern or more remote end of the island, Legrand had built himself a small hut, which he occupied when I first, by mere accident, made his acquaintance. This soon ripened into friendship—for there was much in the recluse to excite interest and esteem. I found him well educated, with unusual powers of mind, but infected with misanthropy, and subject to perverse moods of alternate enthusiasm and melancholy. He had with him many books, but rarely employed them. His chief amusements were gunning and fishing, or sauntering along the beach and through the myrtles, in quest of shells or entomological specimens—his collection of the latter might have been envied by a Swammerdamm. In these excursions he was usually accompanied by an old negro, called Jupiter, who had been manumitted before the reverses of the family, but who could be induced, neither by threats nor by promises, to abandon what he considered his right of attendance upon the footsteps of his young “Massa Will.” It is not improbable that the relatives of Legrand, conceiving him to be somewhat unsettled in intellect, had contrived to instil this obstinacy into Jupiter, with a view to the supervision and guardianship of the wanderer."
+      },
+      "request_id": "e09cd8ba6619b60d5cc85fd3",
+      "request_sha256": "89f1d7b1d325e4b9a61dd141d04b5d4005ec003c723ee3b8774166241b8feeb6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bf97a4954f73a7ffb8224d5ea3790cacf70ab230b215a9714b053605a4b261eb"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4810ad59983d65a230d28105",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_twain_connecticut_yankee_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 4810ad59983d65a230d28105\noriginal_word_count: 456\n\nPassage:\nKnights and horses in heavy armor couldn't travel very fast. These would make the best time they could, and now that the ground was in good condition, and no snow or mud, they would probably make a seven-mile gait; they would have to change horses a couple of times; they would arrive about six, or a little after; it would still be plenty light enough; they would see the white cloth which I should tie around my right arm, and I would take command. We would surround that prison and have the king out in no time. It would be showy and picturesque enough, all things considered, though I would have preferred noonday, on account of the more theatrical aspect the thing would have.\n\nNow, then, in order to increase the strings to my bow, I thought I would look up some of those people whom I had formerly recognized, and make myself known. That would help us out of our scrape, without the knights. But I must proceed cautiously, for it was a risky business. I must get into sumptuous raiment, and it wouldn't do to run and jump into it. No, I must work up to it by degrees, buying suit after suit of clothes, in shops wide apart, and getting a little finer article with each change, until I should finally reach silk and velvet, and be ready for my project. So I started.\n\nBut the scheme fell through like scat! The first corner I turned, I came plump upon one of our slaves, snooping around with a watchman. I coughed at the moment, and he gave me a sudden look that bit right into my marrow. I judge he thought he had heard that cough before. I turned immediately into a shop and worked along down the counter, pricing things and watching out of the corner of my eye. Those people had stopped, and were talking together and looking in at the door. I made up my mind to get out the back way, if there was a back way, and I asked the shopwoman if I could step out there and look for the escaped slave, who was believed to be in hiding back there somewhere, and said I was an officer in disguise, and my pard was yonder at the door with one of the murderers in charge, and would she be good enough to step there and tell him he needn't wait, but had better go at once to the further end of the back alley and be ready to head him off when I rousted him out.\n\nShe was blazing with eagerness to see one of those already celebrated murderers, and she started on the errand at once."
+      },
+      "request_id": "4810ad59983d65a230d28105",
+      "request_sha256": "67523f32735e16eb1ad59913c3a908361a93e9f83bcadfc61903c2ae9350fd45",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7419bb49ac58d4fa8742b6e04ce464f3ac0b9e7015177af088291067d5db4a9f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ce562a3cfc3fce826344f6ed",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_austen_persuasion_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: ce562a3cfc3fce826344f6ed\noriginal_word_count: 464\n\nPassage:\nAnd Mrs Musgrove took the first opportunity of being alone with Anne, to say, “Oh! Miss Anne, I cannot help wishing Mrs Charles had a little of your method with those children. They are quite different creatures with you! But to be sure, in general they are so spoilt! It is a pity you cannot put your sister in the way of managing them. They are as fine healthy children as ever were seen, poor little dears! without partiality; but Mrs Charles knows no more how they should be treated—! Bless me! how troublesome they are sometimes. I assure you, Miss Anne, it prevents my wishing to see them at our house so often as I otherwise should. I believe Mrs Charles is not quite pleased with my not inviting them oftener; but you know it is very bad to have children with one that one is obligated to be checking every moment; “don’t do this,” and “don’t do that;” or that one can only keep in tolerable order by more cake than is good for them.”\n\nShe had this communication, moreover, from Mary. “Mrs Musgrove thinks all her servants so steady, that it would be high treason to call it in question; but I am sure, without exaggeration, that her upper house-maid and laundry-maid, instead of being in their business, are gadding about the village, all day long. I meet them wherever I go; and I declare, I never go twice into my nursery without seeing something of them. If Jemima were not the trustiest, steadiest creature in the world, it would be enough to spoil her; for she tells me, they are always tempting her to take a walk with them.” And on Mrs Musgrove’s side, it was, “I make a rule of never interfering in any of my daughter-in-law’s concerns, for I know it would not do; but I shall tell _you_, Miss Anne, because you may be able to set things to rights, that I have no very good opinion of Mrs Charles’s nursery-maid: I hear strange stories of her; she is always upon the gad; and from my own knowledge, I can declare, she is such a fine-dressing lady, that she is enough to ruin any servants she comes near. Mrs Charles quite swears by her, I know; but I just give you this hint, that you may be upon the watch; because, if you see anything amiss, you need not be afraid of mentioning it.”\n\nAgain, it was Mary’s complaint, that Mrs Musgrove was very apt not to give her the precedence that was her due, when they dined at the Great House with other families; and she did not see any reason why she was to be considered so much at home as to lose her place."
+      },
+      "request_id": "ce562a3cfc3fce826344f6ed",
+      "request_sha256": "ceadfdb013cbdc127386e023ff0c9e3638181112bc05a91a892d1b28c405139a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c552395e7d711915b1381af933e13f38591da346a95594d5182f8ddd362d4668"
+    }
+  ],
+  "session_id": "01a0e876-83f7-78a1-b9d1-9e5cfb4d9073",
+  "worker_id": "astra_z",
+  "worker_identity_sha256": "3c518323fe65160b33818c8fecefe8b58d18bebfd64f52e04e66f555b7fdddb7"
+}

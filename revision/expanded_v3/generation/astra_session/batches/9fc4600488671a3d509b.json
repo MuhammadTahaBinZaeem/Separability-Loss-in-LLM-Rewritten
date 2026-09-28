@@ -1,0 +1,68 @@
+{
+  "batch_id": "9fc4600488671a3d509b",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:20:16.422230+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "59e11bded6d4c4f428223f93",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 479,
+      "passage_id": "V2_shelley_mathilda_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 59e11bded6d4c4f428223f93\noriginal_word_count: 479\n\nPassage:\nAnd then I repeated to myself all that lovely passage that relates the entrance of Dante into the terrestrial Paradise; and thought it would be sweet when I wandered on those lovely banks to see the car of light descend with my long lost parent to be restored to me. As I waited there in expectation of that moment, I thought how, of the lovely flowers that grew there, I would wind myself a chaplet and crown myself for joy: I would sing _sul margine d’un rio_, my father’s favourite song, and that my voice gliding through the windless air would announce to him in whatever bower he sat expecting the moment of our union, that his daughter was come. Then the mark of misery would have faded from my brow, and I should raise my eyes fearlessly to meet his, which ever beamed with the soft lustre of innocent love. When I reflected on the magic look of those deep eyes I wept, but gently, lest my sobs should disturb the fairy scene.\n\nI was so entirely wrapt in this reverie that I wandered on, taking no heed of my steps until I actually stooped down to gather a flower for my wreath on that bleak plain where no flower grew, when I awoke from my day dream and found myself I knew not where.\n\nThe sun had set and the roseate hue which the clouds had caught from him in his descent had nearly died away. A wind swept across the plain, I looked around me and saw no object that told me where I was; I had lost myself, and in vain attempted to find my path. I wandered on, and the coming darkness made every trace indistinct by which I might be guided. At length all was veiled in the deep obscurity of blackest night; I became weary and knowing that my servant was to sleep that night at the neighbouring village, so that my absence would alarm no one; and that I was safe in this wild spot from every intruder, I resolved to spend the night where I was. Indeed I was too weary to walk further: the air was chill but I was careless of bodily inconvenience, and I thought that I was well inured to the weather during my two years of solitude, when no change of seasons prevented my perpetual wanderings.\n\nI lay upon the grass surrounded by a darkness which not the slightest beam of light penetrated--There was no sound for the deep night had laid to sleep the insects, the only creatures that lived on the lone spot where no tree or shrub could afford shelter to aught else--There was a wondrous silence in the air that calmed my senses yet which enlivened my soul, my mind hurried from image to image and seemed to grasp an eternity."
+      },
+      "request_id": "59e11bded6d4c4f428223f93",
+      "request_sha256": "5295ddfb38281da362453108258977667e66b7e0614094dcb2faac7696818bce",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7cf6fb4494a854eccb8fb8130df9e863fd49ec25f771fe6ab7c13a6c7f6eafb5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e4fed10d04d5a2aec29ac1b8",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_austen_emma_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e4fed10d04d5a2aec29ac1b8\noriginal_word_count: 466\n\nPassage:\nBut it is very remarkable that she should always hear Jane better than she does me. Jane speaks so distinct! However, she will not find her grandmama at all deafer than she was two years ago; which is saying a great deal at my mother’s time of life—and it really is full two years, you know, since she was here. We never were so long without seeing her before, and as I was telling Mrs. Cole, we shall hardly know how to make enough of her now.”\n\n“Are you expecting Miss Fairfax here soon?”\n\n“Oh yes; next week.”\n\n“Indeed!—that must be a very great pleasure.”\n\n“Thank you. You are very kind. Yes, next week. Every body is so surprized; and every body says the same obliging things. I am sure she will be as happy to see her friends at Highbury, as they can be to see her. Yes, Friday or Saturday; she cannot say which, because Colonel Campbell will be wanting the carriage himself one of those days. So very good of them to send her the whole way! But they always do, you know. Oh yes, Friday or Saturday next. That is what she writes about. That is the reason of her writing out of rule, as we call it; for, in the common course, we should not have heard from her before next Tuesday or Wednesday.”\n\n“Yes, so I imagined. I was afraid there could be little chance of my hearing any thing of Miss Fairfax to-day.”\n\n“So obliging of you! No, we should not have heard, if it had not been for this particular circumstance, of her being to come here so soon. My mother is so delighted!—for she is to be three months with us at least. Three months, she says so, positively, as I am going to have the pleasure of reading to you. The case is, you see, that the Campbells are going to Ireland. Mrs. Dixon has persuaded her father and mother to come over and see her directly. They had not intended to go over till the summer, but she is so impatient to see them again—for till she married, last October, she was never away from them so much as a week, which must make it very strange to be in different kingdoms, I was going to say, but however different countries, and so she wrote a very urgent letter to her mother—or her father, I declare I do not know which it was, but we shall see presently in Jane’s letter—wrote in Mr. Dixon’s name as well as her own, to press their coming over directly, and they would give them the meeting in Dublin, and take them back to their country seat, Baly-craig, a beautiful place, I fancy."
+      },
+      "request_id": "e4fed10d04d5a2aec29ac1b8",
+      "request_sha256": "6e55564f389d0beea3e75a967b1bdac3815947f77fa6c64b266706c5c18440fd",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "67c76997dfd5d92963e1f734f1579c17be468ecd54f33cd6c1aa3d289428c51b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2985212d7e5bef2479d14046",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_dickens_great_expectations_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2985212d7e5bef2479d14046\noriginal_word_count: 451\n\nPassage:\nAt the stairs where we had taken him abroad, and ever since, I had looked warily for any token of our being suspected. I had seen none. We certainly had not been, and at that time as certainly we were not either attended or followed by any boat. If we had been waited on by any boat, I should have run in to shore, and have obliged her to go on, or to make her purpose evident. But we held our own without any appearance of molestation.\n\nHe had his boat-cloak on him, and looked, as I have said, a natural part of the scene. It was remarkable (but perhaps the wretched life he had led accounted for it) that he was the least anxious of any of us. He was not indifferent, for he told me that he hoped to live to see his gentleman one of the best of gentlemen in a foreign country; he was not disposed to be passive or resigned, as I understood it; but he had no notion of meeting danger half way. When it came upon him, he confronted it, but it must come before he troubled himself.\n\n“If you knowed, dear boy,” he said to me, “what it is to sit here alonger my dear boy and have my smoke, arter having been day by day betwixt four walls, you’d envy me. But you don’t know what it is.”\n\n“I think I know the delights of freedom,” I answered.\n\n“Ah,” said he, shaking his head gravely. “But you don’t know it equal to me. You must have been under lock and key, dear boy, to know it equal to me,—but I ain’t a-going to be low.”\n\nIt occurred to me as inconsistent, that, for any mastering idea, he should have endangered his freedom, and even his life. But I reflected that perhaps freedom without danger was too much apart from all the habit of his existence to be to him what it would be to another man. I was not far out, since he said, after smoking a little:—\n\n“You see, dear boy, when I was over yonder, t’other side the world, I was always a looking to this side; and it come flat to be there, for all I was a growing rich. Everybody knowed Magwitch, and Magwitch could come, and Magwitch could go, and nobody’s head would be troubled about him. They ain’t so easy concerning me here, dear boy,—wouldn’t be, leastwise, if they knowed where I was.”\n\n“If all goes well,” said I, “you will be perfectly free and safe again within a few hours.”\n\n“Well,” he returned, drawing a long breath, “I hope so.”\n\n“And think so?”"
+      },
+      "request_id": "2985212d7e5bef2479d14046",
+      "request_sha256": "40c27028c8c858835ece61f187f83f4c6aea5aeb9b736cb5d0188058b5ea26b0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3bb389137c78333871f12f85cb3172d47e36fab4be984231f83cf053948a10d3"
+    }
+  ],
+  "session_id": "01a0e85c-7f66-73c1-b91c-6413115a4ff4",
+  "worker_id": "astra_s",
+  "worker_identity_sha256": "17b5f2fab7368788746600871fd66c46b6c1c2ea93360ddace6823c5041f0625"
+}

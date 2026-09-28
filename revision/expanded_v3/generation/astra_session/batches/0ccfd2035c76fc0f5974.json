@@ -1,0 +1,68 @@
+{
+  "batch_id": "0ccfd2035c76fc0f5974",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:06:05.755175+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4675a795b35474d2cde03c2f",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 490,
+      "passage_id": "V2_austen_emma_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 4675a795b35474d2cde03c2f\noriginal_word_count: 490\n\nPassage:\nAre you speaking of—Mr. Knightley?”\n\n“To be sure I am. I never could have an idea of any body else—and so I thought you knew. When we talked about him, it was as clear as possible.”\n\n“Not quite,” returned Emma, with forced calmness, “for all that you then said, appeared to me to relate to a different person. I could almost assert that you had _named_ Mr. Frank Churchill. I am sure the service Mr. Frank Churchill had rendered you, in protecting you from the gipsies, was spoken of.”\n\n“Oh! Miss Woodhouse, how you do forget!”\n\n“My dear Harriet, I perfectly remember the substance of what I said on the occasion. I told you that I did not wonder at your attachment; that considering the service he had rendered you, it was extremely natural:—and you agreed to it, expressing yourself very warmly as to your sense of that service, and mentioning even what your sensations had been in seeing him come forward to your rescue.—The impression of it is strong on my memory.”\n\n“Oh, dear,” cried Harriet, “now I recollect what you mean; but I was thinking of something very different at the time. It was not the gipsies—it was not Mr. Frank Churchill that I meant. No! (with some elevation) I was thinking of a much more precious circumstance—of Mr. Knightley’s coming and asking me to dance, when Mr. Elton would not stand up with me; and when there was no other partner in the room. That was the kind action; that was the noble benevolence and generosity; that was the service which made me begin to feel how superior he was to every other being upon earth.”\n\n“Good God!” cried Emma, “this has been a most unfortunate—most deplorable mistake!—What is to be done?”\n\n“You would not have encouraged me, then, if you had understood me? At least, however, I cannot be worse off than I should have been, if the other had been the person; and now—it _is_ possible—”\n\nShe paused a few moments. Emma could not speak.\n\n“I do not wonder, Miss Woodhouse,” she resumed, “that you should feel a great difference between the two, as to me or as to any body. You must think one five hundred million times more above me than the other. But I hope, Miss Woodhouse, that supposing—that if—strange as it may appear—. But you know they were your own words, that _more_ wonderful things had happened, matches of _greater_ disparity had taken place than between Mr. Frank Churchill and me; and, therefore, it seems as if such a thing even as this, may have occurred before—and if I should be so fortunate, beyond expression, as to—if Mr. Knightley should really—if _he_ does not mind the disparity, I hope, dear Miss Woodhouse, you will not set yourself against it, and try to put difficulties in the way."
+      },
+      "request_id": "4675a795b35474d2cde03c2f",
+      "request_sha256": "15fb57ecb1c94d5d0038f9480fd0ea86e91436bea4b1b6e4011fe5e4e92ca40f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "efaa64f7e1501d31d6bfd163c839949ab242fb81fd07c5a7712fcd994cec351d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7a9d68d8b62334790c19319a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_twain_tom_sawyer_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 7a9d68d8b62334790c19319a\noriginal_word_count: 455\n\nPassage:\nHe never made a second attempt. The boys lay there counting the dragging moments till it seemed to them that time must be done and eternity growing gray; and then they were grateful to note that at last the sun was setting.\n\nNow one snore ceased. Injun Joe sat up, stared around—smiled grimly upon his comrade, whose head was drooping upon his knees—stirred him up with his foot and said:\n\n“Here! _You’re_ a watchman, ain’t you! All right, though—nothing’s happened.”\n\n“My! have I been asleep?”\n\n“Oh, partly, partly. Nearly time for us to be moving, pard. What’ll we do with what little swag we’ve got left?”\n\n“I don’t know—leave it here as we’ve always done, I reckon. No use to take it away till we start south. Six hundred and fifty in silver’s something to carry.”\n\n“Well—all right—it won’t matter to come here once more.”\n\n“No—but I’d say come in the night as we used to do—it’s better.”\n\n“Yes: but look here; it may be a good while before I get the right chance at that job; accidents might happen; ’tain’t in such a very good place; we’ll just regularly bury it—and bury it deep.”\n\n“Good idea,” said the comrade, who walked across the room, knelt down, raised one of the rearward hearth-stones and took out a bag that jingled pleasantly. He subtracted from it twenty or thirty dollars for himself and as much for Injun Joe, and passed the bag to the latter, who was on his knees in the corner, now, digging with his bowie-knife.\n\nThe boys forgot all their fears, all their miseries in an instant. With gloating eyes they watched every movement. Luck!—the splendor of it was beyond all imagination! Six hundred dollars was money enough to make half a dozen boys rich! Here was treasure-hunting under the happiest auspices—there would not be any bothersome uncertainty as to where to dig. They nudged each other every moment—eloquent nudges and easily understood, for they simply meant—“Oh, but ain’t you glad _now_ we’re here!”\n\nJoe’s knife struck upon something.\n\n“Hello!” said he.\n\n“What is it?” said his comrade.\n\n“Half-rotten plank—no, it’s a box, I believe. Here—bear a hand and we’ll see what it’s here for. Never mind, I’ve broke a hole.”\n\nHe reached his hand in and drew it out—\n\n“Man, it’s money!”\n\nThe two men examined the handful of coins. They were gold. The boys above were as excited as themselves, and as delighted.\n\nJoe’s comrade said:\n\n“We’ll make quick work of this. There’s an old rusty pick over amongst the weeds in the corner the other side of the fireplace—I saw it a minute ago.”"
+      },
+      "request_id": "7a9d68d8b62334790c19319a",
+      "request_sha256": "f03888673b55c5e2a0b6186eae06639a086e4dc9222efc5ba4d5de78ee3c50bd",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bc794c14cb042bdd8139b2d62694aaa8902c0bcc9c2015ceb882c682e1e6a33e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1a681937680d5af596576106",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_twain_tom_sawyer_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 1a681937680d5af596576106\noriginal_word_count: 456\n\nPassage:\nYet notwithstanding all this, the boy grew more and more melancholy and pale and dejected. She added hot baths, sitz baths, shower baths, and plunges. The boy remained as dismal as a hearse. She began to assist the water with a slim oatmeal diet and blister-plasters. She calculated his capacity as she would a jug’s, and filled him up every day with quack cure-alls.\n\nTom had become indifferent to persecution by this time. This phase filled the old lady’s heart with consternation. This indifference must be broken up at any cost. Now she heard of Pain-killer for the first time. She ordered a lot at once. She tasted it and was filled with gratitude. It was simply fire in a liquid form. She dropped the water treatment and everything else, and pinned her faith to Pain-killer. She gave Tom a teaspoonful and watched with the deepest anxiety for the result. Her troubles were instantly at rest, her soul at peace again; for the “indifference” was broken up. The boy could not have shown a wilder, heartier interest, if she had built a fire under him.\n\nTom felt that it was time to wake up; this sort of life might be romantic enough, in his blighted condition, but it was getting to have too little sentiment and too much distracting variety about it. So he thought over various plans for relief, and finally hit upon that of professing to be fond of Pain-killer. He asked for it so often that he became a nuisance, and his aunt ended by telling him to help himself and quit bothering her. If it had been Sid, she would have had no misgivings to alloy her delight; but since it was Tom, she watched the bottle clandestinely. She found that the medicine did really diminish, but it did not occur to her that the boy was mending the health of a crack in the sitting-room floor with it.\n\nOne day Tom was in the act of dosing the crack when his aunt’s yellow cat came along, purring, eyeing the teaspoon avariciously, and begging for a taste. Tom said:\n\n“Don’t ask for it unless you want it, Peter.”\n\nBut Peter signified that he did want it.\n\n“You better make sure.”\n\nPeter was sure.\n\n“Now you’ve asked for it, and I’ll give it to you, because there ain’t anything mean about me; but if you find you don’t like it, you mustn’t blame anybody but your own self.”\n\nPeter was agreeable. So Tom pried his mouth open and poured down the Pain-killer. Peter sprang a couple of yards in the air, and then delivered a war-whoop and set off round and round the room, banging against furniture, upsetting flower-pots, and making general havoc."
+      },
+      "request_id": "1a681937680d5af596576106",
+      "request_sha256": "17c769956f6a13d8226fabf4cf7a919a3a0fa4221af897dc5d0ec6c3bbef070b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1b0665f87ff6d2a0660ed281473a109c98f9cd7e2aca42d7ecd085590ae651b6"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "4657144361538056b7a1",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:38:09.937802+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4d46ea336999e95c91aafb2e",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_shelley_mathilda_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 4d46ea336999e95c91aafb2e\noriginal_word_count: 457\n\nPassage:\nBut enough of this. I will begin my tale: it is my last task, and I hope I have strength sufficient to fulfill it. I record no crimes; my faults may easily be pardoned; for they proceeded not from evil motive but from want of judgement; and I believe few would say that they could, by a different conduct and superior wisdom, have avoided the misfortunes to which I am the victim. My fate has been governed by necessity, a hideous necessity. It required hands stronger than mine; stronger I do believe than any human force to break the thick, adamantine chain that has bound me, once breathing nothing but joy, ever possessed by a warm love & delight in goodness,--to misery only to be ended, and now about to be ended, in death. But I forget myself, my tale is yet untold. I will pause a few moments, wipe my dim eyes, and endeavour to lose the present obscure but heavy feeling of unhappiness in the more acute emotions of the past.\n\nI was born in England. My father was a man of rank: he had lost his father early, and was educated by a weak mother with all the indulgence she thought due to a nobleman of wealth. He was sent to Eton and afterwards to college; & allowed from childhood the free use of large sums of money; thus enjoying from his earliest youth the independance which a boy with these advantages, always acquires at a public school.\n\nUnder the influence of these circumstances his passions found a deep soil wherein they might strike their roots and flourish either as flowers or weeds as was their nature. By being always allowed to act for himself his character became strongly and early marked and exhibited a various surface on which a quick sighted observer might see the seeds of virtues and of misfortunes. His careless extravagance, which made him squander immense sums of money to satisfy passing whims, which from their apparent energy he dignified with the name of passions, often displayed itself in unbounded generosity. Yet while he earnestly occupied himself about the wants of others his own desires were gratified to their fullest extent. He gave his money, but none of his own wishes were sacrifised to his gifts; he gave his time, which he did not value, and his affections which he was happy in any manner to have called into action.\n\nI do not say that if his own desires had been put in competition with those of others that he would have displayed undue selfishness, but this trial was never made. He was nurtured in prosperity and attended by all its advantages; every one loved him and wished to gratify him."
+      },
+      "request_id": "4d46ea336999e95c91aafb2e",
+      "request_sha256": "e5b206e5ae93d727da5e9baf24b64c54f1f93955266f2d6b5ff57804debc1540",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bf9a3a37fff9c03bb100ebe88a02fa5cbf4e600b7f2d87e7c6edb11c2d825592"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2a3497eb7c3f650963cb3e0b",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 498,
+      "passage_id": "V2_shelley_mathilda_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 2a3497eb7c3f650963cb3e0b\noriginal_word_count: 498\n\nPassage:\nIn all this there was a strangeness that attracted and enchanted me. He was, as it were, now awakened from his long, visionary sleep, and he felt some what like one of the seven sleepers, or like Nourjahad, in that sweet imitation of an eastern tale: Diana was gone; his friends were changed or dead, and now on his awakening I was all that he had to love on earth.\n\nHow dear to me were the waters, and mountains, and woods of Loch Lomond now that I had so beloved a companion for my rambles. I visited with my father every delightful spot, either on the islands, or by the side of the tree-sheltered waterfalls; every shady path, or dingle entangled with underwood and fern. My ideas were enlarged by his conversation. I felt as if I were recreated and had about me all the freshness and life of a new being: I was, as it were, transported since his arrival from a narrow spot of earth into a universe boundless to the imagination and the understanding. My life had been before as a pleasing country rill, never destined to leave its native fields, but when its task was fulfilled quietly to be absorbed, and leave no trace. Now it seemed to me to be as a various river flowing through a fertile and lovely lanscape, ever changing and ever beautiful. Alas! I knew not the desart it was about to reach; the rocks that would tear its waters, and the hideous scene that would be reflected in a more distorted manner in its waves. Life was then brilliant; I began to learn to hope and what brings a more bitter despair to the heart than hope destroyed?\n\nIs it not strange that grief should quickly follow so divine a happiness? I drank of an enchanted cup but gall was at the bottom of its long drawn sweetness. My heart was full of deep affection, but it was calm from its very depth and fulness. I had no idea that misery could arise from love, and this lesson that all at last must learn was taught me in a manner few are obliged to receive it. I lament now, I must ever lament, those few short months of Paradisaical bliss; I disobeyed no command, I ate no apple, and yet I was ruthlessly driven from it. Alas! my companion did, and I was precipitated in his fall. But I wander from my relation--let woe come at its appointed time; I may at this stage of my story still talk of happiness.\n\nThree months passed away in this delightful intercourse, when my aunt fell ill. I passed a whole month in her chamber nursing her, but her disease was mortal and she died, leaving me for some time inconsolable, Death is so dreadful to the living; the chains of habit are so strong even when affection does not link them that the heart must be agonized when they break."
+      },
+      "request_id": "2a3497eb7c3f650963cb3e0b",
+      "request_sha256": "622d02d08f91e84222102098c28f9f91a682d99cf758ab2b5a1111487f145cba",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "32508b181bb3a75787c6afc75adcf5596030af48f088725d36e43129428b53d3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4b62d63d0c8d97f1f2e071a8",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_austen_persuasion_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 4b62d63d0c8d97f1f2e071a8\noriginal_word_count: 454\n\nPassage:\nThe party was divided and disposed of on two contiguous benches: Anne was among those on the foremost, and Mr Elliot had manœuvred so well, with the assistance of his friend Colonel Wallis, as to have a seat by her. Miss Elliot, surrounded by her cousins, and the principal object of Colonel Wallis’s gallantry, was quite contented.\n\nAnne’s mind was in a most favourable state for the entertainment of the evening; it was just occupation enough: she had feelings for the tender, spirits for the gay, attention for the scientific, and patience for the wearisome; and had never liked a concert better, at least during the first act. Towards the close of it, in the interval succeeding an Italian song, she explained the words of the song to Mr Elliot. They had a concert bill between them.\n\n“This,” said she, “is nearly the sense, or rather the meaning of the words, for certainly the sense of an Italian love-song must not be talked of, but it is as nearly the meaning as I can give; for I do not pretend to understand the language. I am a very poor Italian scholar.”\n\n“Yes, yes, I see you are. I see you know nothing of the matter. You have only knowledge enough of the language to translate at sight these inverted, transposed, curtailed Italian lines, into clear, comprehensible, elegant English. You need not say anything more of your ignorance. Here is complete proof.”\n\n“I will not oppose such kind politeness; but I should be sorry to be examined by a real proficient.”\n\n“I have not had the pleasure of visiting in Camden Place so long,” replied he, “without knowing something of Miss Anne Elliot; and I do regard her as one who is too modest for the world in general to be aware of half her accomplishments, and too highly accomplished for modesty to be natural in any other woman.”\n\n“For shame! for shame! this is too much flattery. I forget what we are to have next,” turning to the bill.\n\n“Perhaps,” said Mr Elliot, speaking low, “I have had a longer acquaintance with your character than you are aware of.”\n\n“Indeed! How so? You can have been acquainted with it only since I came to Bath, excepting as you might hear me previously spoken of in my own family.”\n\n“I knew you by report long before you came to Bath. I had heard you described by those who knew you intimately. I have been acquainted with you by character many years. Your person, your disposition, accomplishments, manner; they were all present to me.”\n\nMr Elliot was not disappointed in the interest he hoped to raise. No one can withstand the charm of such a mystery."
+      },
+      "request_id": "4b62d63d0c8d97f1f2e071a8",
+      "request_sha256": "9e7f855c690330a82358fac5b1fecfd01d9d2043d7b6e2bd8d5206b367525373",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "19530b3c03e9ee49ce60d8e96b078f300cf541d48bf7d5e529ead7723efa8f6c"
+    }
+  ],
+  "session_id": "01a0e870-b3dc-74f3-b9ee-b27dbd5dd892",
+  "worker_id": "astra_x",
+  "worker_identity_sha256": "7c3a0144cf89773a3dc35b850a0bd602d9bf1a04c8ed1e402a69d4a4892146a6"
+}

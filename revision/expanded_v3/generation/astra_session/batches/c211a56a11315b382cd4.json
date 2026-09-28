@@ -1,0 +1,68 @@
+{
+  "batch_id": "c211a56a11315b382cd4",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:20:57.686507+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "eec5bdac3bec9de6205f1cb2",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: eec5bdac3bec9de6205f1cb2\noriginal_word_count: 451\n\nPassage:\nI am not dining at home, so I shall not want you.”\n\n“Thank you, sir,” said the man, leaving the room.\n\n“Now, Alan, there is not a moment to be lost. How heavy this chest is! I’ll take it for you. You bring the other things.” He spoke rapidly and in an authoritative manner. Campbell felt dominated by him. They left the room together.\n\nWhen they reached the top landing, Dorian took out the key and turned it in the lock. Then he stopped, and a troubled look came into his eyes. He shuddered. “I don’t think I can go in, Alan,” he murmured.\n\n“It is nothing to me. I don’t require you,” said Campbell coldly.\n\nDorian half opened the door. As he did so, he saw the face of his portrait leering in the sunlight. On the floor in front of it the torn curtain was lying. He remembered that the night before he had forgotten, for the first time in his life, to hide the fatal canvas, and was about to rush forward, when he drew back with a shudder.\n\nWhat was that loathsome red dew that gleamed, wet and glistening, on one of the hands, as though the canvas had sweated blood? How horrible it was!—more horrible, it seemed to him for the moment, than the silent thing that he knew was stretched across the table, the thing whose grotesque misshapen shadow on the spotted carpet showed him that it had not stirred, but was still there, as he had left it.\n\nHe heaved a deep breath, opened the door a little wider, and with half-closed eyes and averted head, walked quickly in, determined that he would not look even once upon the dead man. Then, stooping down and taking up the gold-and-purple hanging, he flung it right over the picture.\n\nThere he stopped, feeling afraid to turn round, and his eyes fixed themselves on the intricacies of the pattern before him. He heard Campbell bringing in the heavy chest, and the irons, and the other things that he had required for his dreadful work. He began to wonder if he and Basil Hallward had ever met, and, if so, what they had thought of each other.\n\n“Leave me now,” said a stern voice behind him.\n\nHe turned and hurried out, just conscious that the dead man had been thrust back into the chair and that Campbell was gazing into a glistening yellow face. As he was going downstairs, he heard the key being turned in the lock.\n\nIt was long after seven when Campbell came back into the library. He was pale, but absolutely calm. “I have done what you asked me to do,” he muttered."
+      },
+      "request_id": "eec5bdac3bec9de6205f1cb2",
+      "request_sha256": "7de4c6580247bb8716c0ec24395d3991f04f3af62690c7d8b3c005c234ce41b6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c5079986ef3ad499bf7013a366e925e4051efcd6e50b12db4668991863619f81"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f741567a245554b4895caa4a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_frankenstein_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: f741567a245554b4895caa4a\noriginal_word_count: 466\n\nPassage:\nBut this thought, which supported me in the commencement of my career, now serves only to plunge me lower in the dust. All my speculations and hopes are as nothing, and like the archangel who aspired to omnipotence, I am chained in an eternal hell. My imagination was vivid, yet my powers of analysis and application were intense; by the union of these qualities I conceived the idea and executed the creation of a man. Even now I cannot recollect without passion my reveries while the work was incomplete. I trod heaven in my thoughts, now exulting in my powers, now burning with the idea of their effects. From my infancy I was imbued with high hopes and a lofty ambition; but how am I sunk! Oh! My friend, if you had known me as I once was, you would not recognise me in this state of degradation. Despondency rarely visited my heart; a high destiny seemed to bear me on, until I fell, never, never again to rise.”\n\nMust I then lose this admirable being? I have longed for a friend; I have sought one who would sympathise with and love me. Behold, on these desert seas I have found such a one, but I fear I have gained him only to know his value and lose him. I would reconcile him to life, but he repulses the idea.\n\n“I thank you, Walton,” he said, “for your kind intentions towards so miserable a wretch; but when you speak of new ties and fresh affections, think you that any can replace those who are gone? Can any man be to me as Clerval was, or any woman another Elizabeth? Even where the affections are not strongly moved by any superior excellence, the companions of our childhood always possess a certain power over our minds which hardly any later friend can obtain. They know our infantine dispositions, which, however they may be afterwards modified, are never eradicated; and they can judge of our actions with more certain conclusions as to the integrity of our motives. A sister or a brother can never, unless indeed such symptoms have been shown early, suspect the other of fraud or false dealing, when another friend, however strongly he may be attached, may, in spite of himself, be contemplated with suspicion. But I enjoyed friends, dear not only through habit and association, but from their own merits; and wherever I am, the soothing voice of my Elizabeth and the conversation of Clerval will be ever whispered in my ear. They are dead, and but one feeling in such a solitude can persuade me to preserve my life. If I were engaged in any high undertaking or design, fraught with extensive utility to my fellow creatures, then could I live to fulfil it."
+      },
+      "request_id": "f741567a245554b4895caa4a",
+      "request_sha256": "7567947a167ca02983196d4e6e4f91348978554beca1190c51e7bca679e31353",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "68da21239c4e9684f161cfdac87e58551b40f36fa4871887c5baa3fa171240e1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6360bc95cd82b82e14c917b3",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_twain_huckleberry_finn_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 6360bc95cd82b82e14c917b3\noriginal_word_count: 472\n\nPassage:\nI don’t wish to be mixed up in no such business as that, I says to myself.\n\nWhen I got down stairs in the morning the parlor was shut up, and the watchers was gone. There warn’t nobody around but the family and the widow Bartley and our tribe. I watched their faces to see if anything had been happening, but I couldn’t tell.\n\nTowards the middle of the day the undertaker come with his man, and they set the coffin in the middle of the room on a couple of chairs, and then set all our chairs in rows, and borrowed more from the neighbors till the hall and the parlor and the dining-room was full. I see the coffin lid was the way it was before, but I dasn’t go to look in under it, with folks around.\n\nThen the people begun to flock in, and the beats and the girls took seats in the front row at the head of the coffin, and for a half an hour the people filed around slow, in single rank, and looked down at the dead man’s face a minute, and some dropped in a tear, and it was all very still and solemn, only the girls and the beats holding handkerchiefs to their eyes and keeping their heads bent, and sobbing a little. There warn’t no other sound but the scraping of the feet on the floor and blowing noses—because people always blows them more at a funeral than they do at other places except church.\n\nWhen the place was packed full the undertaker he slid around in his black gloves with his softy soothering ways, putting on the last touches, and getting people and things all ship-shape and comfortable, and making no more sound than a cat. He never spoke; he moved people around, he squeezed in late ones, he opened up passageways, and done it with nods, and signs with his hands. Then he took his place over against the wall. He was the softest, glidingest, stealthiest man I ever see; and there warn’t no more smile to him than there is to a ham.\n\nThey had borrowed a melodeum—a sick one; and when everything was ready a young woman set down and worked it, and it was pretty skreeky and colicky, and everybody joined in and sung, and Peter was the only one that had a good thing, according to my notion. Then the Reverend Hobson opened up, slow and solemn, and begun to talk; and straight off the most outrageous row busted out in the cellar a body ever heard; it was only one dog, but he made a most powerful racket, and he kept it up right along; the parson he had to stand there, over the coffin, and wait—you couldn’t hear yourself think."
+      },
+      "request_id": "6360bc95cd82b82e14c917b3",
+      "request_sha256": "f53fb6223e7c64552d1e0090d91e1a79467607f2cf956d8f666572d3e374a80b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bc6c6680a36cc61f5fadf180cefeac3d152b9c3a103541d42df8c600379c5d4b"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

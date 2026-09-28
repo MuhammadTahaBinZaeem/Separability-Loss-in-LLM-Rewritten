@@ -1,0 +1,68 @@
+{
+  "batch_id": "7ce03deffdc1ad0ae07f",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:32:41.865670+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "80815bb2592f089662b2cd15",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 482,
+      "passage_id": "V2_dickens_great_expectations_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 80815bb2592f089662b2cd15\noriginal_word_count: 482\n\nPassage:\n“Why, you don’t mean to say—” began my sister.\n\n“Yes I do, Mum,” said Pumblechook; “but wait a bit. Go on, Joseph. Good in you! Go on!”\n\n“What would present company say,” proceeded Joe, “to twenty pound?”\n\n“Handsome would be the word,” returned my sister.\n\n“Well, then,” said Joe, “It’s more than twenty pound.”\n\nThat abject hypocrite, Pumblechook, nodded again, and said, with a patronizing laugh, “It’s more than that, Mum. Good again! Follow her up, Joseph!”\n\n“Then to make an end of it,” said Joe, delightedly handing the bag to my sister; “it’s five-and-twenty pound.”\n\n“It’s five-and-twenty pound, Mum,” echoed that basest of swindlers, Pumblechook, rising to shake hands with her; “and it’s no more than your merits (as I said when my opinion was asked), and I wish you joy of the money!”\n\nIf the villain had stopped here, his case would have been sufficiently awful, but he blackened his guilt by proceeding to take me into custody, with a right of patronage that left all his former criminality far behind.\n\n“Now you see, Joseph and wife,” said Pumblechook, as he took me by the arm above the elbow, “I am one of them that always go right through with what they’ve begun. This boy must be bound, out of hand. That’s _my_ way. Bound out of hand.”\n\n“Goodness knows, Uncle Pumblechook,” said my sister (grasping the money), “we’re deeply beholden to you.”\n\n“Never mind me, Mum,” returned that diabolical cornchandler. “A pleasure’s a pleasure all the world over. But this boy, you know; we must have him bound. I said I’d see to it—to tell you the truth.”\n\nThe Justices were sitting in the Town Hall near at hand, and we at once went over to have me bound apprentice to Joe in the Magisterial presence. I say we went over, but I was pushed over by Pumblechook, exactly as if I had that moment picked a pocket or fired a rick; indeed, it was the general impression in Court that I had been taken red-handed; for, as Pumblechook shoved me before him through the crowd, I heard some people say, “What’s he done?” and others, “He’s a young ’un, too, but looks bad, don’t he?” One person of mild and benevolent aspect even gave me a tract ornamented with a woodcut of a malevolent young man fitted up with a perfect sausage-shop of fetters, and entitled TO BE READ IN MY CELL.\n\nThe Hall was a queer place, I thought, with higher pews in it than a church,—and with people hanging over the pews looking on,—and with mighty Justices (one with a powdered head) leaning back in chairs, with folded arms, or taking snuff, or going to sleep, or writing, or reading the newspapers,—and with some shining black portraits on the walls, which my unartistic eye regarded as a composition of hardbake and sticking-plaster."
+      },
+      "request_id": "80815bb2592f089662b2cd15",
+      "request_sha256": "fa2e0b4dc907efc48a8ab866ddbc6b98fd0cb9d3d7f66fef574cc8b3598ea302",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0c5caaed48779fd895db3a8effe3e952f34e1dd54117a1055cef4ec718fd5de3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e79cd60096c67f1e0ba657e9",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_mathilda_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: e79cd60096c67f1e0ba657e9\noriginal_word_count: 466\n\nPassage:\nThe chain of necessity ever bringing misery must have been broken and the malignant fate that presides over it would not permit this breach of her eternal laws. But why should I repine at this? Misery was my element, and nothing but what was miserable could approach me; if Woodville had been happy I should never have known him. And can I who for many years was fed by tears, and nourished under the dew of grief, can I pause to relate a tale of woe and death?\n\nWoodville was obliged to make a journey into the country and was detained from day to day in irksome absence from his lovely bride. He received a letter from her to say that she was slightly ill, but telling him to hasten to her, that from his eyes she would receive health and that his company would be her surest medecine. He was detained three days longer and then he hastened to her. His heart, he knew not why prognosticated misfortune; he had not heard from her again; he feared she might be worse and this fear made him impatient and restless for the moment of beholding her once more stand before him arrayed in health and beauty; for a sinister voice seemed always to whisper to him, “You will never more behold her as she was.”\n\nWhen he arrived at her habitation all was silent in it: he made his way through several rooms; in one he saw a servant weeping bitterly: he was faint with fear and could hardly ask, “Is she dead?” and just listened to the dreadful answer, “Not yet.” These astounding words came on him as of less fearful import than those which he had expected; and to learn that she was still in being, and that he might still hope was an alleviation to him. He remembered the words of her letter and he indulged the wild idea that his kisses breathing warm love and life would infuse new spirit into her, and that with him near her she could not die; that his presence was the talisman of her life.\n\nHe hastened to her sick room; she lay, her cheeks burning with fever, yet her eyes were closed and she was seemingly senseless. He wrapt her in his arms; he imprinted breathless kisses on her burning lips; he called to her in a voice of subdued anguish by the tenderest names; “Return Elinor; I am with you; your life, your love. Return; dearest one, you promised me this boon, that I should bring you health. Let your sweet spirit revive; you cannot die near me: What is death? To see you no more? To part with what is a part of myself; without whom I have no memory and no futurity?"
+      },
+      "request_id": "e79cd60096c67f1e0ba657e9",
+      "request_sha256": "6289e3a75b1bb663167d3f8a3fa962a1e2919f7a296c1bc362fb3e6e07cc9934",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5a866f9c151eb7238b1bc53d488566b4e13f19a31731f8c0b3d398cd6fd6db06"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "fadf4da5951e200d390d8076",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_shelley_the_last_man_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: fadf4da5951e200d390d8076\noriginal_word_count: 462\n\nPassage:\nThe stars still shone brightly when I awoke, and Taurus high in the southern heaven shewed that it was midnight. I awoke from disturbed dreams. Methought I had been invited to Timon’s last feast; I came with keen appetite, the covers were removed, the hot water sent up its unsatisfying steams, while I fled before the anger of the host, who assumed the form of Raymond; while to my diseased fancy, the vessels hurled by him after me, were surcharged with fetid vapour, and my friend’s shape, altered by a thousand distortions, expanded into a gigantic phantom, bearing on its brow the sign of pestilence. The growing shadow rose and rose, filling, and then seeming to endeavour to burst beyond, the adamantine vault that bent over, sustaining and enclosing the world. The night-mare became torture; with a strong effort I threw off sleep, and recalled reason to her wonted functions. My first thought was Perdita; to her I must return; her I must support, drawing such food from despair as might best sustain her wounded heart; recalling her from the wild excesses of grief, by the austere laws of duty, and the soft tenderness of regret.\n\nThe position of the stars was my only guide. I turned from the awful ruin of the Golden City, and, after great exertion, succeeded in extricating myself from its enclosure. I met a company of soldiers outside the walls; I borrowed a horse from one of them, and hastened to my sister. The appearance of the plain was changed during this short interval; the encampment was broken up; the relics of the disbanded army met in small companies here and there; each face was clouded; every gesture spoke astonishment and dismay.\n\nWith an heavy heart I entered the palace, and stood fearful to advance, to speak, to look. In the midst of the hall was Perdita; she sat on the marble pavement, her head fallen on her bosom, her hair dishevelled, her fingers twined busily one within the other; she was pale as marble, and every feature was contracted by agony. She perceived me, and looked up enquiringly; her half glance of hope was misery; the words died before I could articulate them; I felt a ghastly smile wrinkle my lips. She understood my gesture; again her head fell; again her fingers worked restlessly. At last I recovered speech, but my voice terrified her; the hapless girl had understood my look, and for worlds she would not that the tale of her heavy misery should have been shaped out and confirmed by hard, irrevocable words. Nay, she seemed to wish to distract my thoughts from the subject: she rose from the floor: “Hush!” she said, whisperingly; “after much weeping, Clara sleeps; we must not disturb her.”"
+      },
+      "request_id": "fadf4da5951e200d390d8076",
+      "request_sha256": "15b06ceca343a41f5b8befc1eeeb297a8ef32d8ea19aa3be5d09db08cf139bc3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "76880eddc6aa824319567915bb32265af9d03723cbfa5ebb6480d88193bc9340"
+    }
+  ],
+  "session_id": "01a0e865-d34a-75c3-a7b9-6054f384d598",
+  "worker_id": "astra_u",
+  "worker_identity_sha256": "a9ccd4d0505883dcc11e3e0b3f2a87cf0163a5c2fb28ec8e4609d8f10a62a24d"
+}

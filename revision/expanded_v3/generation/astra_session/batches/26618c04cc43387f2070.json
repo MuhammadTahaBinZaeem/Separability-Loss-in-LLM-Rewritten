@@ -1,0 +1,68 @@
+{
+  "batch_id": "26618c04cc43387f2070",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:26:27.612192+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ce048b4db87e31618e4c047a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_the_last_man_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: ce048b4db87e31618e4c047a\noriginal_word_count: 466\n\nPassage:\nI met several funerals; they were slenderly attended by mourners, and were regarded by the spectators as omens of direst import. Some gazed on these processions with wild eagerness— others fled timidly—some wept aloud.\n\nAdrian’s chief endeavour, after the immediate succour of the sick, had been to disguise the symptoms and progress of the plague from the inhabitants of London. He knew that fear and melancholy forebodings were powerful assistants to disease; that desponding and brooding care rendered the physical nature of man peculiarly susceptible of infection. No unseemly sights were therefore discernible: the shops were in general open, the concourse of passengers in some degree kept up. But although the appearance of an infected town was avoided, to me, who had not beheld it since the commencement of the visitation, London appeared sufficiently changed. There were no carriages, and grass had sprung high in the streets; the houses had a desolate look; most of the shutters were closed; and there was a ghast and frightened stare in the persons I met, very different from the usual business-like demeanour of the Londoners. My solitary carriage attracted notice, as it rattled along towards the Protectoral Palace—and the fashionable streets leading to it wore a still more dreary and deserted appearance. I found Adrian’s anti-chamber crowded—it was his hour for giving audience. I was unwilling to disturb his labours, and waited, watching the ingress and egress of the petitioners. They consisted of people of the middling and lower classes of society, whose means of subsistence failed with the cessation of trade, and of the busy spirit of money-making in all its branches, peculiar to our country. There was an air of anxiety, sometimes of terror in the new-comers, strongly contrasted with the resigned and even satisfied mien of those who had had audience. I could read the influence of my friend in their quickened motions and cheerful faces. Two o’clock struck, after which none were admitted; those who had been disappointed went sullenly or sorrowfully away, while I entered the audience-chamber.\n\nI was struck by the improvement that appeared in the health of Adrian. He was no longer bent to the ground, like an over-nursed flower of spring, that, shooting up beyond its strength, is weighed down even by its own coronal of blossoms. His eyes were bright, his countenance composed, an air of concentrated energy was diffused over his whole person, much unlike its former languor. He sat at a table with several secretaries, who were arranging petitions, or registering the notes made during that day’s audience. Two or three petitioners were still in attendance. I admired his justice and patience. Those who possessed a power of living out of London, he advised immediately to quit it, affording them the means of so doing."
+      },
+      "request_id": "ce048b4db87e31618e4c047a",
+      "request_sha256": "673f75dd59fa28cf701e7cd9a0770ea9956131f7d3ed0b9eeefc4e6880731f0c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a2ad7f3402606052391821a2a32c28aa55bc29d8db75f504b9832d5f960aafbb"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a4143239f6a3046ab80727a5",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_wilde_canterville_ghost_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: a4143239f6a3046ab80727a5\noriginal_word_count: 465\n\nPassage:\nTHE next morning when the Otis family met at breakfast, they discussed the ghost at some length. The United States Minister was naturally a little annoyed to find that his present had not been accepted. ‘I have no wish,’ he said, ‘to do the ghost any personal injury, and I must say that, considering the length of time he has been in the house, I don’t think it is at all polite to throw pillows at him’—a very just remark, at which, I am sorry to say, the twins burst into shouts of laughter. ‘Upon the other hand,’ he continued, ‘if he really declines to use the Rising Sun Lubricator, we shall have to take his chains from him. It would be quite impossible to sleep, with such a noise going on outside the bedrooms.’\n\nFor the rest of the week, however, they were undisturbed, the only thing that excited any attention being the continual renewal of the blood-stain on the library floor. This certainly was very strange, as the door was always locked at night by Mr. Otis, and the windows kept closely barred. The chameleon-like colour, also, of the stain excited a good deal of comment. Some mornings it was a dull (almost Indian) red, then it would be vermilion, then a rich purple, and once when they came down for family prayers, according to the simple rites of the Free American Reformed Episcopalian Church, they found it a bright emerald-green. These kaleidoscopic changes naturally amused the party very much, and bets on the subject were freely made every evening. The only person who did not enter into the joke was little Virginia, who, for some unexplained reason, was always a good deal distressed at the sight of the blood-stain, and very nearly cried the morning it was emerald-green.\n\nThe second appearance of the ghost was on Sunday night. Shortly after they had gone to bed they were suddenly alarmed by a fearful crash in the hall. Rushing downstairs, they found that a large suit of old armour had become detached from its stand, and had fallen on the stone floor, while, seated in a high-backed chair, was the Canterville ghost, rubbing his knees with an expression of acute agony on his face. The twins, having brought their pea-shooters with them, at once discharged two pellets on him, with that accuracy of aim which can only be attained by long and careful practice on a writing-master, while the United States Minister covered him with his revolver, and called upon him, in accordance with Californian etiquette, to hold up his hands! The ghost started up with a wild shriek of rage, and swept through them like a mist, extinguishing Washington Otis’s candle as he passed, and so leaving them all in total darkness."
+      },
+      "request_id": "a4143239f6a3046ab80727a5",
+      "request_sha256": "59383a0938d6a17229a32ece14b8a7bae5710afe16c8f527eb57b86e69a6a983",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cf87e287b8eb633fdf3128877b9863aceecce881eb0e215caca0e98addcd568d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6811939512a8054ed26e1f4c",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_twain_connecticut_yankee_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 6811939512a8054ed26e1f4c\noriginal_word_count: 459\n\nPassage:\nI closed up alongside of a burly fellow with a fat good-humored face, purposing to make myself agreeable and pick up some further crumbs of fact; but I had hardly more than scraped acquaintance with him when he began eagerly and awkwardly to lead up, in the immemorial way, to that same old anecdote--the one Sir Dinadan told me, what time I got into trouble with Sir Sagramor and was challenged of him on account of it. I excused myself and dropped to the rear of the procession, sad at heart, willing to go hence from this troubled life, this vale of tears, this brief day of broken rest, of cloud and storm, of weary struggle and monotonous defeat; and yet shrinking from the change, as remembering how long eternity is, and how many have wended thither who know that anecdote.\n\nEarly in the afternoon we overtook another procession of pilgrims; but in this one was no merriment, no jokes, no laughter, no playful ways, nor any happy giddiness, whether of youth or age. Yet both were here, both age and youth; gray old men and women, strong men and women of middle age, young husbands, young wives, little boys and girls, and three babies at the breast. Even the children were smileless; there was not a face among all these half a hundred people but was cast down, and bore that set expression of hopelessness which is bred of long and hard trials and old acquaintance with despair. They were slaves. Chains led from their fettered feet and their manacled hands to a sole-leather belt about their waists; and all except the children were also linked together in a file six feet apart, by a single chain which led from collar to collar all down the line. They were on foot, and had tramped three hundred miles in eighteen days, upon the cheapest odds and ends of food, and stingy rations of that. They had slept in these chains every night, bundled together like swine. They had upon their bodies some poor rags, but they could not be said to be clothed. Their irons had chafed the skin from their ankles and made sores which were ulcerated and wormy. Their naked feet were torn, and none walked without a limp. Originally there had been a hundred of these unfortunates, but about half had been sold on the trip. The trader in charge of them rode a horse and carried a whip with a short handle and a long heavy lash divided into several knotted tails at the end. With this whip he cut the shoulders of any that tottered from weariness and pain, and straightened them up. He did not speak; the whip conveyed his desire without that."
+      },
+      "request_id": "6811939512a8054ed26e1f4c",
+      "request_sha256": "c29df4203f2f629f55362122f84e1f1b24f08adb6d8e2e96cb807fbe88011a13",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "20d3ecc44f35111dbde24d1215bbd3979b2875440f2945ae0a1ce8a6eaeaac16"
+    }
+  ],
+  "session_id": "01a0e866-9bf1-7e03-8d89-34a75a5436e8",
+  "worker_id": "astra_v",
+  "worker_identity_sha256": "0b2b5de575a91a248a2d744e77077f7abb92d61d159b0293192af3288b1ff4f6"
+}

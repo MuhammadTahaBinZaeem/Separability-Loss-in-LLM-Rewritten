@@ -1,0 +1,68 @@
+{
+  "batch_id": "e492d33f2c972b06d287",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:18:10.829208+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4aaeecb644571b3e45bf5b0a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_austen_pride_and_prejudice_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 4aaeecb644571b3e45bf5b0a\noriginal_word_count: 462\n\nPassage:\nWithout allowing herself time for consideration, and scarcely knowing what she felt, Elizabeth, on finishing this letter, instantly seized the other, and opening it with the utmost impatience, read as follows: it had been written a day later than the conclusion of the first.\n\n“By this time, my dearest sister, you have received my hurried letter; I wish this may be more intelligible, but though not confined for time, my head is so bewildered that I cannot answer for being coherent. Dearest Lizzy, I hardly know what I would write, but I have bad news for you, and it cannot be delayed. Imprudent as a marriage between Mr. Wickham and our poor Lydia would be, we are now anxious to be assured it has taken place, for there is but too much reason to fear they are not gone to Scotland. Colonel Forster came yesterday, having left Brighton the day before, not many hours after the express. Though Lydia’s short letter to Mrs. F. gave them to understand that they were going to Gretna Green, something was dropped by Denny expressing his belief that W. never intended to go there, or to marry Lydia at all, which was repeated to Colonel F., who, instantly taking the alarm, set off from B., intending to trace their route. He did trace them easily to Clapham, but no farther; for on entering that place, they removed into a hackney-coach, and dismissed the chaise that brought them from Epsom. All that is known after this is, that they were seen to continue the London road. I know not what to think. After making every possible inquiry on that side of London, Colonel F. came on into Hertfordshire, anxiously renewing them at all the turnpikes, and at the inns in Barnet and Hatfield, but without any success,--no such people had been seen to pass through. With the kindest concern he came on to Longbourn, and broke his apprehensions to us in a manner most creditable to his heart. I am sincerely grieved for him and Mrs. F.; but no one can throw any blame on them. Our distress, my dear Lizzy, is very great. My father and mother believe the worst, but I cannot think so ill of him. Many circumstances might make it more eligible for them to be married privately in town than to pursue their first plan; and even if _he_ could form such a design against a young woman of Lydia’s connections, which is not likely, can I suppose her so lost to everything? Impossible! I grieve to find, however, that Colonel F. is not disposed to depend upon their marriage: he shook his head when I expressed my hopes, and said he feared W. was not a man to be trusted."
+      },
+      "request_id": "4aaeecb644571b3e45bf5b0a",
+      "request_sha256": "4ad4de0e7e5b49ee67493a4a65a911154d092999708ed49ee80343b71e8920b9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7e8e30e5706e4a0752fc42941b2cdab6927daa08116594923137dabc8f45aed2"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ae4893008250459a83f18012",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_pride_and_prejudice_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: ae4893008250459a83f18012\noriginal_word_count: 461\n\nPassage:\nThe day passed much as the day before had done. Mrs. Hurst and Miss Bingley had spent some hours of the morning with the invalid, who continued, though slowly, to mend; and, in the evening, Elizabeth joined their party in the drawing-room. The loo table, however, did not appear. Mr. Darcy was writing, and Miss Bingley, seated near him, was watching the progress of his letter, and repeatedly calling off his attention by messages to his sister. Mr. Hurst and Mr. Bingley were at piquet, and Mrs. Hurst was observing their game.\n\nElizabeth took up some needlework, and was sufficiently amused in attending to what passed between Darcy and his companion. The perpetual commendations of the lady either on his hand-writing, or on the evenness of his lines, or on the length of his letter, with the perfect unconcern with which her praises were received, formed a curious dialogue, and was exactly in unison with her opinion of each.\n\n“How delighted Miss Darcy will be to receive such a letter!”\n\nHe made no answer.\n\n“You write uncommonly fast.”\n\n“You are mistaken. I write rather slowly.”\n\n“How many letters you must have occasion to write in the course of a year! Letters of business, too! How odious I should think them!”\n\n“It is fortunate, then, that they fall to my lot instead of to yours.”\n\n“Pray tell your sister that I long to see her.”\n\n“I have already told her so once, by your desire.”\n\n“I am afraid you do not like your pen. Let me mend it for you. I mend pens remarkably well.”\n\n“Thank you--but I always mend my own.”\n\n“How can you contrive to write so even?”\n\nHe was silent.\n\n“Tell your sister I am delighted to hear of her improvement on the harp, and pray let her know that I am quite in raptures with her beautiful little design for a table, and I think it infinitely superior to Miss Grantley’s.”\n\n“Will you give me leave to defer your raptures till I write again? At present I have not room to do them justice.”\n\n“Oh, it is of no consequence. I shall see her in January. But do you always write such charming long letters to her, Mr. Darcy?”\n\n“They are generally long; but whether always charming, it is not for me to determine.”\n\n“It is a rule with me, that a person who can write a long letter with ease cannot write ill.”\n\n“That will not do for a compliment to Darcy, Caroline,” cried her brother, “because he does _not_ write with ease. He studies too much for words of four syllables. Do not you, Darcy?”\n\n“My style of writing is very different from yours.”\n\n“Oh,” cried Miss Bingley, “Charles writes in the most careless way imaginable."
+      },
+      "request_id": "ae4893008250459a83f18012",
+      "request_sha256": "df2c6f9781dd0129817b694571f2cb454ff56074127ca8a8230500a5e91b0528",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e40142ba403dc0639ceee577aac2bc03cb980d3cc99be7e4e8356bc32dd31724"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "115643ec24fd185d4f39a072",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_dickens_great_expectations_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 115643ec24fd185d4f39a072\noriginal_word_count: 457\n\nPassage:\nI thanked him, and apologised. He said, “Not at all,” and resumed.\n\n“Miss Havisham was now an heiress, and you may suppose was looked after as a great match. Her half-brother had now ample means again, but what with debts and what with new madness wasted them most fearfully again. There were stronger differences between him and her than there had been between him and his father, and it is suspected that he cherished a deep and mortal grudge against her as having influenced the father’s anger. Now, I come to the cruel part of the story,—merely breaking off, my dear Handel, to remark that a dinner-napkin will not go into a tumbler.”\n\nWhy I was trying to pack mine into my tumbler, I am wholly unable to say. I only know that I found myself, with a perseverance worthy of a much better cause, making the most strenuous exertions to compress it within those limits. Again I thanked him and apologised, and again he said in the cheerfullest manner, “Not at all, I am sure!” and resumed.\n\n“There appeared upon the scene—say at the races, or the public balls, or anywhere else you like—a certain man, who made love to Miss Havisham. I never saw him (for this happened five-and-twenty years ago, before you and I were, Handel), but I have heard my father mention that he was a showy man, and the kind of man for the purpose. But that he was not to be, without ignorance or prejudice, mistaken for a gentleman, my father most strongly asseverates; because it is a principle of his that no man who was not a true gentleman at heart ever was, since the world began, a true gentleman in manner. He says, no varnish can hide the grain of the wood; and that the more varnish you put on, the more the grain will express itself. Well! This man pursued Miss Havisham closely, and professed to be devoted to her. I believe she had not shown much susceptibility up to that time; but all the susceptibility she possessed certainly came out then, and she passionately loved him. There is no doubt that she perfectly idolized him. He practised on her affection in that systematic way, that he got great sums of money from her, and he induced her to buy her brother out of a share in the brewery (which had been weakly left him by his father) at an immense price, on the plea that when he was her husband he must hold and manage it all. Your guardian was not at that time in Miss Havisham’s counsels, and she was too haughty and too much in love to be advised by any one."
+      },
+      "request_id": "115643ec24fd185d4f39a072",
+      "request_sha256": "29b7633e3a73f8fa660e47c3fd9ffdf041308d1dff537be057ce598f3cbdd635",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b5b9d8a30d87fc5d6ee1bdcb80a3caae9b880c6a0848edc402918f3c14657dcc"
+    }
+  ],
+  "session_id": "01a0e85c-7f66-73c1-b91c-6413115a4ff4",
+  "worker_id": "astra_s",
+  "worker_identity_sha256": "17b5f2fab7368788746600871fd66c46b6c1c2ea93360ddace6823c5041f0625"
+}

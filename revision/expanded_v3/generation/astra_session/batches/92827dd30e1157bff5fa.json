@@ -1,0 +1,68 @@
+{
+  "batch_id": "92827dd30e1157bff5fa",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:40:37.854790+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "97bb8723849424e8d576f3e9",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_austen_emma_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 97bb8723849424e8d576f3e9\noriginal_word_count: 452\n\nPassage:\nIt is not every body that would have stood out in such a kind way as she did, and refuse to take Jane’s answer; but she positively declared she would _not_ write any such denial yesterday, as Jane wished her; she would wait—and, sure enough, yesterday evening it was all settled that Jane should go. Quite a surprize to me! I had not the least idea!—Jane took Mrs. Elton aside, and told her at once, that upon thinking over the advantages of Mrs. Smallridge’s situation, she had come to the resolution of accepting it.—I did not know a word of it till it was all settled.”\n\n“You spent the evening with Mrs. Elton?”\n\n“Yes, all of us; Mrs. Elton would have us come. It was settled so, upon the hill, while we were walking about with Mr. Knightley. ‘You _must_ _all_ spend your evening with us,’ said she—‘I positively must have you _all_ come.’”\n\n“Mr. Knightley was there too, was he?”\n\n“No, not Mr. Knightley; he declined it from the first; and though I thought he would come, because Mrs. Elton declared she would not let him off, he did not;—but my mother, and Jane, and I, were all there, and a very agreeable evening we had. Such kind friends, you know, Miss Woodhouse, one must always find agreeable, though every body seemed rather fagged after the morning’s party. Even pleasure, you know, is fatiguing—and I cannot say that any of them seemed very much to have enjoyed it. However, _I_ shall always think it a very pleasant party, and feel extremely obliged to the kind friends who included me in it.”\n\n“Miss Fairfax, I suppose, though you were not aware of it, had been making up her mind the whole day?”\n\n“I dare say she had.”\n\n“Whenever the time may come, it must be unwelcome to her and all her friends—but I hope her engagement will have every alleviation that is possible—I mean, as to the character and manners of the family.”\n\n“Thank you, dear Miss Woodhouse. Yes, indeed, there is every thing in the world that can make her happy in it. Except the Sucklings and Bragges, there is not such another nursery establishment, so liberal and elegant, in all Mrs. Elton’s acquaintance. Mrs. Smallridge, a most delightful woman!—A style of living almost equal to Maple Grove—and as to the children, except the little Sucklings and little Bragges, there are not such elegant sweet children anywhere. Jane will be treated with such regard and kindness!—It will be nothing but pleasure, a life of pleasure.—And her salary!—I really cannot venture to name her salary to you, Miss Woodhouse."
+      },
+      "request_id": "97bb8723849424e8d576f3e9",
+      "request_sha256": "94c0838cea1d0ef66e931132c9065257438aa4d73ca2bbac191739a3358dcfe5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e9c69e458f9cb1bb6e505434363ac8d3a3dd566cd1f171fa523f0d329bb7c5e4"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4360ca0bf5ccd21449a13479",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_wilde_canterville_ghost_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 4360ca0bf5ccd21449a13479\noriginal_word_count: 453\n\nPassage:\nOn reaching the top of the staircase he recovered himself, and determined to give his celebrated peal of demoniac laughter. This he had on more than one occasion found extremely useful. It was said to have turned Lord Raker’s wig grey in a single night, and had certainly made three of Lady Canterville’s French governesses give warning before their month was up. He accordingly laughed his most horrible laugh, till the old vaulted roof rang and rang again, but hardly had the fearful echo died away when a door opened, and Mrs. Otis came out in a light blue dressing-gown. ‘I am afraid you are far from well,’ she said, ‘and have brought you a bottle of Dr. Dobell’s tincture. If it is indigestion, you will find it a most excellent remedy.’ The ghost glared at her in fury, and began at once to make preparations for turning himself into a large black dog, an accomplishment for which he was justly renowned, and to which the family doctor always attributed the permanent idiocy of Lord Canterville’s uncle, the Hon. Thomas Horton. The sound of approaching footsteps, however, made him hesitate in his fell purpose, so he contented himself with becoming faintly phosphorescent, and vanished with a deep churchyard groan, just as the twins had come up to him.\n\nOn reaching his room he entirely broke down, and became a prey to the most violent agitation. The vulgarity of the twins, and the gross materialism of Mrs. Otis, were naturally extremely annoying, but what really distressed him most was, that he had been unable to wear the suit of mail. He had hoped that even modern Americans would be thrilled by the sight of a Spectre In Armour, if for no more sensible reason, at least out of respect for their national poet Longfellow, over whose graceful and attractive poetry he himself had whiled away many a weary hour when the Cantervilles were up in town. Besides, it was his own suit. He had worn it with great success at the Kenilworth tournament, and had been highly complimented on it by no less a person than the Virgin Queen herself. Yet when he had put it on, he had been completely overpowered by the weight of the huge breastplate and steel casque, and had fallen heavily on the stone pavement, barking both his knees severely, and bruising the knuckles of his right hand.\n\nFor some days after this he was extremely ill, and hardly stirred out of his room at all, except to keep the blood-stain in proper repair. However, by taking great care of himself, he recovered, and resolved to make a third attempt to frighten the United States Minister and his family."
+      },
+      "request_id": "4360ca0bf5ccd21449a13479",
+      "request_sha256": "aa368f2b8b77853677af7b9c4107a30a64d722196182137c2cec19d1946b53d3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "48bdb9b9a015b42dcc3dbe6018a37858eb5107d9dab5504d1933c8458d870705"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9996df97eff8814349e052b9",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_dickens_great_expectations_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 9996df97eff8814349e052b9\noriginal_word_count: 454\n\nPassage:\nAnd after I had sent them in, I could not keep away from the places where they were, but felt as if they were more hopeful and less desperate when I was near them. In this unreasonable restlessness and pain of mind I would roam the streets of an evening, wandering by those offices and houses where I had left the petitions. To the present hour, the weary western streets of London on a cold, dusty spring night, with their ranges of stern, shut-up mansions, and their long rows of lamps, are melancholy to me from this association.\n\nThe daily visits I could make him were shortened now, and he was more strictly kept. Seeing, or fancying, that I was suspected of an intention of carrying poison to him, I asked to be searched before I sat down at his bedside, and told the officer who was always there, that I was willing to do anything that would assure him of the singleness of my designs. Nobody was hard with him or with me. There was duty to be done, and it was done, but not harshly. The officer always gave me the assurance that he was worse, and some other sick prisoners in the room, and some other prisoners who attended on them as sick nurses, (malefactors, but not incapable of kindness, God be thanked!) always joined in the same report.\n\nAs the days went on, I noticed more and more that he would lie placidly looking at the white ceiling, with an absence of light in his face until some word of mine brightened it for an instant, and then it would subside again. Sometimes he was almost or quite unable to speak, then he would answer me with slight pressures on my hand, and I grew to understand his meaning very well.\n\nThe number of the days had risen to ten, when I saw a greater change in him than I had seen yet. His eyes were turned towards the door, and lighted up as I entered.\n\n“Dear boy,” he said, as I sat down by his bed: “I thought you was late. But I knowed you couldn’t be that.”\n\n“It is just the time,” said I. “I waited for it at the gate.”\n\n“You always waits at the gate; don’t you, dear boy?”\n\n“Yes. Not to lose a moment of the time.”\n\n“Thank’ee dear boy, thank’ee. God bless you! You’ve never deserted me, dear boy.”\n\nI pressed his hand in silence, for I could not forget that I had once meant to desert him.\n\n“And what’s the best of all,” he said, “you’ve been more comfortable alonger me, since I was under a dark cloud, than when the sun shone."
+      },
+      "request_id": "9996df97eff8814349e052b9",
+      "request_sha256": "794ae6f0adf7d90ccfbd91ace9f4cc78c975b345596322076637ff1ac28d5e56",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ff16fc93815cfb1528d60eb7842faf11d12abd97126c185472ec12443ded53e8"
+    }
+  ],
+  "session_id": "01a0e871-0029-7eb2-b032-b2c22db7d18a",
+  "worker_id": "astra_y",
+  "worker_identity_sha256": "117b62507d566d7e1674868f608b01ea30f8f22336a4d59e5e97eb3a6f4f8842"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "67159df6d012f0756533",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:03:59.146184+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e4d0d466d9dcfc5b88202949",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_shelley_the_last_man_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: e4d0d466d9dcfc5b88202949\noriginal_word_count: 453\n\nPassage:\nHis account was, that, journeying from his home, and passing through Datchet, he was surprised to see smoke issue from the chimney of the inn, and supposing that he should find comrades for his journey assembled there, he knocked and was admitted. There was no one in the house but Lucy, and her mother; the latter had been deprived of the use of her limbs by an attack of rheumatism, and so, one by one, all the remaining inhabitants of the country set forward, leaving them alone. Lucy intreated the man to stay with her; in a week or two her mother would be better, and they would then set out; but they must perish, if they were left thus helpless and forlorn. The man said, that his wife and children were already among the emigrants, and it was therefore, according to his notion, impossible for him to remain. Lucy, as a last resource, gave him a letter for Idris, to be delivered to her wherever he should meet us. This commission at least he fulfilled, and Idris received with emotion the following letter:—\n\n“HONOURED LADY,\n\n“I am sure that you will remember and pity me, and I dare hope that you will assist me; what other hope have I? Pardon my manner of writing, I am so bewildered. A month ago my dear mother was deprived of the use of her limbs. She is already better, and in another month would I am sure be able to travel, in the way you were so kind as to say you would arrange for us. But now everybody is gone—everybody—as they went away, each said, that perhaps my mother would be better, before we were quite deserted. But three days ago I went to Samuel Woods, who, on account of his new-born child, remained to the last; and there being a large family of them, I thought I could persuade them to wait a little longer for us; but I found the house deserted. I have not seen a soul since, till this good man came. —What will become of us? My mother does not know our state; she is so ill, that I have hidden it from her.\n\n“Will you not send some one to us? I am sure we must perish miserably as we are. If I were to try to move my mother now, she would die on the road; and if, when she gets better, I were able, I cannot guess how, to find out the roads, and get on so many many miles to the sea, you would all be in France, and the great ocean would be between us, which is so terrible even to sailors."
+      },
+      "request_id": "e4d0d466d9dcfc5b88202949",
+      "request_sha256": "a5208e4f39d80f68555c19afc6529ce84163e1891aa0340a964e2c04edbb6aed",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "04a8b46838ea565ec31588527c010cf03c35f0f05e7119dde4c05f68bc8a7d6a"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "031a3956e93eb652e3294cd3",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_shelley_frankenstein_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 031a3956e93eb652e3294cd3\noriginal_word_count: 452\n\nPassage:\n“Such were the events that preyed on the heart of Felix and rendered him, when I first saw him, the most miserable of his family. He could have endured poverty, and while this distress had been the meed of his virtue, he gloried in it; but the ingratitude of the Turk and the loss of his beloved Safie were misfortunes more bitter and irreparable. The arrival of the Arabian now infused new life into his soul.\n\n“When the news reached Leghorn that Felix was deprived of his wealth and rank, the merchant commanded his daughter to think no more of her lover, but to prepare to return to her native country. The generous nature of Safie was outraged by this command; she attempted to expostulate with her father, but he left her angrily, reiterating his tyrannical mandate.\n\n“A few days after, the Turk entered his daughter’s apartment and told her hastily that he had reason to believe that his residence at Leghorn had been divulged and that he should speedily be delivered up to the French government; he had consequently hired a vessel to convey him to Constantinople, for which city he should sail in a few hours. He intended to leave his daughter under the care of a confidential servant, to follow at her leisure with the greater part of his property, which had not yet arrived at Leghorn.\n\n“When alone, Safie resolved in her own mind the plan of conduct that it would become her to pursue in this emergency. A residence in Turkey was abhorrent to her; her religion and her feelings were alike averse to it. By some papers of her father which fell into her hands she heard of the exile of her lover and learnt the name of the spot where he then resided. She hesitated some time, but at length she formed her determination. Taking with her some jewels that belonged to her and a sum of money, she quitted Italy with an attendant, a native of Leghorn, but who understood the common language of Turkey, and departed for Germany.\n\n“She arrived in safety at a town about twenty leagues from the cottage of De Lacey, when her attendant fell dangerously ill. Safie nursed her with the most devoted affection, but the poor girl died, and the Arabian was left alone, unacquainted with the language of the country and utterly ignorant of the customs of the world. She fell, however, into good hands. The Italian had mentioned the name of the spot for which they were bound, and after her death the woman of the house in which they had lived took care that Safie should arrive in safety at the cottage of her lover.”"
+      },
+      "request_id": "031a3956e93eb652e3294cd3",
+      "request_sha256": "793245d3b6f80319ea7a1a4f859ba111b489b7e43eb13eedaaae6fafcc219159",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3150a08074fd2ae4682bbfb4ea97c8d48bc397eead5b14dfdbf63fd3a9ce77c6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9085807feb823b486c1a1d91",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_twain_huckleberry_finn_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 9085807feb823b486c1a1d91\noriginal_word_count: 454\n\nPassage:\nShe was right about the rats. You’d see one stick his nose out of a hole in the corner every little while. She said she had to have things handy to throw at them when she was alone, or they wouldn’t give her no peace. She showed me a bar of lead twisted up into a knot, and said she was a good shot with it generly, but she’d wrenched her arm a day or two ago, and didn’t know whether she could throw true now. But she watched for a chance, and directly banged away at a rat; but she missed him wide, and said “Ouch!” it hurt her arm so. Then she told me to try for the next one. I wanted to be getting away before the old man got back, but of course I didn’t let on. I got the thing, and the first rat that showed his nose I let drive, and if he’d a stayed where he was he’d a been a tolerable sick rat. She said that was first-rate, and she reckoned I would hive the next one. She went and got the lump of lead and fetched it back, and brought along a hank of yarn which she wanted me to help her with. I held up my two hands and she put the hank over them, and went on talking about her and her husband’s matters. But she broke off to say:\n\n“Keep your eye on the rats. You better have the lead in your lap, handy.”\n\nSo she dropped the lump into my lap just at that moment, and I clapped my legs together on it and she went on talking. But only about a minute. Then she took off the hank and looked me straight in the face, and very pleasant, and says:\n\n“Come, now, what’s your real name?”\n\n“Wh—what, mum?”\n\n“What’s your real name? Is it Bill, or Tom, or Bob?—or what is it?”\n\nI reckon I shook like a leaf, and I didn’t know hardly what to do. But I says:\n\n“Please to don’t poke fun at a poor girl like me, mum. If I’m in the way here, I’ll—”\n\n“No, you won’t. Set down and stay where you are. I ain’t going to hurt you, and I ain’t going to tell on you, nuther. You just tell me your secret, and trust me. I’ll keep it; and, what’s more, I’ll help you. So’ll my old man if you want him to. You see, you’re a runaway ’prentice, that’s all. It ain’t anything. There ain’t no harm in it. You’ve been treated bad, and you made up your mind to cut. Bless you, child, I wouldn’t tell on you."
+      },
+      "request_id": "9085807feb823b486c1a1d91",
+      "request_sha256": "c9c60dfcf1c5a7a026ca00f6d4fc24509f5258774618db5cd98494ae6a911da2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b3668190768e217d0c7be1f2d37dde5b565971d708a27f7fc907681f8595893e"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

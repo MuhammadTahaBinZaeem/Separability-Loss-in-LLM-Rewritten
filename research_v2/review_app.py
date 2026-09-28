@@ -14,7 +14,7 @@ import webbrowser
 from datetime import datetime, timezone
 from contextlib import contextmanager
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
-from pathlib import Path
+from pathlib import Path, PureWindowsPath
 from urllib.parse import urlsplit
 
 from .io import OUT, ROOT, digest_text, file_hash, read_csv, read_json, read_jsonl
@@ -139,6 +139,29 @@ class ReviewStore:
         if row is None:
             raise ReviewError("Assignment not found.", 404)
         return dict(row)
+
+    def recorded_path(self, value):
+        """Resolve explicitly registered former locations without rewriting records."""
+        path = Path(value)
+        aliases = self.private / "path_relocations.json"
+        if not aliases.exists():
+            return path
+        for previous in read_json(aliases)["previous_research_roots"]:
+            path_type = PureWindowsPath if PureWindowsPath(previous).drive else Path
+            root, stored = path_type(previous), path_type(value)
+            if not root.is_absolute() or ".." in root.parts:
+                raise ReviewError("Invalid previous review workspace location.", 409)
+            try:
+                relative = stored.relative_to(root)
+            except ValueError:
+                continue
+            if ".." in relative.parts:
+                raise ReviewError("Recorded review path escapes its workspace.", 409)
+            resolved = self.research.joinpath(*relative.parts)
+            if not resolved.resolve().is_relative_to(self.research):
+                raise ReviewError("Recorded review path escapes its workspace.", 409)
+            return resolved
+        return path
 
     def authenticate(self, token):
         if not token:
@@ -365,10 +388,11 @@ class ReviewStore:
                   "flagged": r.get("verdict") == "needs_correction" or r.get("usable") == "no"
                   or any(r.get(f) == "1" for f in ("added_facts", "omitted_facts", "order_changed", "relationships_changed"))}
                  for i, r in enumerate(rows)]
+        export = self.recorded_path(session["latest_export"])
         return {k: session[k] for k in ("id", "kind", "mode", "reviewer_id", "created_utc", "revision", "status", "completed_utc", "registration_error")} | {
             "total": len(rows), "saved": len(saved), "complete": sum(r["complete"] for r in items),
             "flagged": sum(r["flagged"] for r in items), "items": items,
-            "latest_export": str(Path(session["latest_export"]).relative_to(self.research)) if Path(session["latest_export"]).is_relative_to(self.research) else session["latest_export"],
+            "latest_export": str(export.relative_to(self.research)) if export.is_relative_to(self.research) else session["latest_export"],
             "independent_human_evidence": session["mode"] == "human" and session["status"] == "registered"}
 
     def sessions(self, agent_only=False):
@@ -425,7 +449,7 @@ class ReviewStore:
             session = self.assignment(sid, con)
             if session["status"] == "awaiting_packet":
                 raise ReviewError("There is no review packet or return to download yet.", 409)
-            path = Path(session["latest_export"])
+            path = self.recorded_path(session["latest_export"])
             if not path.resolve().is_relative_to(self.private):
                 raise ReviewError("Export path is outside private review storage.", 409)
             if session["status"] != "draft":
@@ -524,7 +548,9 @@ class ReviewStore:
         if actor != "browser_reviewer" or session["mode"] != "human" or session["status"] not in {"sealed", "registered"}:
             raise ReviewError("Only the assigned reviewer's sealed return can be registered.", 403)
         metadata = read_json(self.private / "sessions" / sid / "completion.json")
-        path = Path(session["final_file"])
+        path = self.recorded_path(session["final_file"])
+        if not path.resolve().is_relative_to(self.private):
+            raise ReviewError("Return path is outside private review storage.", 409)
         if metadata.get("attested_independent_human") is not True or metadata["return_sha256"] != file_hash(path):
             raise ReviewError("Sealed return or completion confirmation changed.", 409)
         if self.registrar is not None:

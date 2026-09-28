@@ -1,0 +1,68 @@
+{
+  "batch_id": "4c00320a722aeffb0e40",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:54:49.054232+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "95b97fe913941cdb13cbc882",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 523,
+      "passage_id": "V2_twain_huckleberry_finn_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 95b97fe913941cdb13cbc882\noriginal_word_count: 523\n\nPassage:\nCol. Grangerford was a gentleman, you see. He was a gentleman all over; and so was his family. He was well born, as the saying is, and that’s worth as much in a man as it is in a horse, so the Widow Douglas said, and nobody ever denied that she was of the first aristocracy in our town; and pap he always said it, too, though he warn’t no more quality than a mudcat himself. Col. Grangerford was very tall and very slim, and had a darkish-paly complexion, not a sign of red in it anywheres; he was clean shaved every morning all over his thin face, and he had the thinnest kind of lips, and the thinnest kind of nostrils, and a high nose, and heavy eyebrows, and the blackest kind of eyes, sunk so deep back that they seemed like they was looking out of caverns at you, as you may say. His forehead was high, and his hair was black and straight and hung to his shoulders. His hands was long and thin, and every day of his life he put on a clean shirt and a full suit from head to foot made out of linen so white it hurt your eyes to look at it; and on Sundays he wore a blue tail-coat with brass buttons on it. He carried a mahogany cane with a silver head to it. There warn’t no frivolishness about him, not a bit, and he warn’t ever loud. He was as kind as he could be—you could feel that, you know, and so you had confidence. Sometimes he smiled, and it was good to see; but when he straightened himself up like a liberty-pole, and the lightning begun to flicker out from under his eyebrows, you wanted to climb a tree first, and find out what the matter was afterwards. He didn’t ever have to tell anybody to mind their manners—everybody was always good-mannered where he was. Everybody loved to have him around, too; he was sunshine most always—I mean he made it seem like good weather. When he turned into a cloudbank it was awful dark for half a minute, and that was enough; there wouldn’t nothing go wrong again for a week.\n\nWhen him and the old lady come down in the morning all the family got up out of their chairs and give them good-day, and didn’t set down again till they had set down. Then Tom and Bob went to the sideboard where the decanter was, and mixed a glass of bitters and handed it to him, and he held it in his hand and waited till Tom’s and Bob’s was mixed, and then they bowed and said, “Our duty to you, sir, and madam;” and _they_ bowed the least bit in the world and said thank you, and so they drank, all three, and Bob and Tom poured a spoonful of water on the sugar and the mite of whisky or apple brandy in the bottom of their tumblers, and give it to me and Buck, and we drank to the old people too."
+      },
+      "request_id": "95b97fe913941cdb13cbc882",
+      "request_sha256": "481ae4fe9916c026741c2366e4790436655c5545a3edd2b7e6a87f25ae81d408",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6bc24f1a44a6cb2b029f2da98f6d13b92182bbe7486c14bd6ee472077de7d780"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ca357fb0049a04eca42ca144",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_twain_tom_sawyer_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: ca357fb0049a04eca42ca144\noriginal_word_count: 460\n\nPassage:\nThere comes a time in every rightly-constructed boy’s life when he has a raging desire to go somewhere and dig for hidden treasure. This desire suddenly came upon Tom one day. He sallied out to find Joe Harper, but failed of success. Next he sought Ben Rogers; he had gone fishing. Presently he stumbled upon Huck Finn the Red-Handed. Huck would answer. Tom took him to a private place and opened the matter to him confidentially. Huck was willing. Huck was always willing to take a hand in any enterprise that offered entertainment and required no capital, for he had a troublesome superabundance of that sort of time which is not money. “Where’ll we dig?” said Huck.\n\n“Oh, most anywhere.”\n\n“Why, is it hid all around?”\n\n“No, indeed it ain’t. It’s hid in mighty particular places, Huck—sometimes on islands, sometimes in rotten chests under the end of a limb of an old dead tree, just where the shadow falls at midnight; but mostly under the floor in ha’nted houses.”\n\n“Who hides it?”\n\n“Why, robbers, of course—who’d you reckon? Sunday-school sup’rintendents?”\n\n“I don’t know. If ’twas mine I wouldn’t hide it; I’d spend it and have a good time.”\n\n“So would I. But robbers don’t do that way. They always hide it and leave it there.”\n\n“Don’t they come after it any more?”\n\n“No, they think they will, but they generally forget the marks, or else they die. Anyway, it lays there a long time and gets rusty; and by and by somebody finds an old yellow paper that tells how to find the marks—a paper that’s got to be ciphered over about a week because it’s mostly signs and hy’roglyphics.”\n\n“Hyro—which?”\n\n“Hy’roglyphics—pictures and things, you know, that don’t seem to mean anything.”\n\n“Have you got one of them papers, Tom?”\n\n“No.”\n\n“Well then, how you going to find the marks?”\n\n“I don’t want any marks. They always bury it under a ha’nted house or on an island, or under a dead tree that’s got one limb sticking out. Well, we’ve tried Jackson’s Island a little, and we can try it again some time; and there’s the old ha’nted house up the Still-House branch, and there’s lots of dead-limb trees—dead loads of ’em.”\n\n“Is it under all of them?”\n\n“How you talk! No!”\n\n“Then how you going to know which one to go for?”\n\n“Go for all of ’em!”\n\n“Why, Tom, it’ll take all summer.”\n\n“Well, what of that? Suppose you find a brass pot with a hundred dollars in it, all rusty and gray, or rotten chest full of di’monds. How’s that?”\n\nHuck’s eyes glowed.\n\n“That’s bully. Plenty bully enough for me. Just you gimme the hundred dollars and I don’t want no di’monds.”"
+      },
+      "request_id": "ca357fb0049a04eca42ca144",
+      "request_sha256": "1a8a144490dad2839481ca62b59a8fdf6bfa0743c230d4f41e84b0f36bbf4a39",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "76458c79095e6352257b5b15d841c063a0b3005065d9814b4e9628f40f43a873"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2b2a3ad9240b7e9fb7908719",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_shelley_mathilda_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2b2a3ad9240b7e9fb7908719\noriginal_word_count: 457\n\nPassage:\nWhen I had ceased to weep reason and memory returned upon me, and I began to reflect with greater calmness on what had happened, and how it became me to act--A few hours only had passed but a mighty revolution had taken place with regard to me--the natural work of years had been transacted since the morning: my father was as dead to me, and I felt for a moment as if he with white hairs were laid in his coffin and I--youth vanished in approaching age, were weeping at his timely dissolution. But it was not so, I was yet young, Oh! far too young, nor was he dead to others; but I, most miserable, must never see or speak to him again. I must fly from him with more earnestness than from my greatest enemy: in solitude or in cities I must never more behold him. That consideration made me breathless with anguish, and impressing itself on my imagination I was unable for a time to follow up any train of ideas. Ever after this, I thought, I would live in the most dreary seclusion. I would retire to the Continent and become a nun; not for religion’s sake, for I was not a Catholic, but that I might be for ever shut out from the world. I should there find solitude where I might weep, and the voices of life might never reach me.\n\nBut my father; my beloved and most wretched father? Would he die? Would he never overcome the fierce passion that now held pityless dominion over him? Might he not many, many years hence, when age had quenched the burning sensations that he now experienced, might he not then be again a father to me? This reflection unwrinkled my brow, and I could feel (and I wept to feel it) a half melancholy smile draw from my lips their expression of suffering: I dared indulge better hopes for my future life; years must pass but they would speed lightly away winged by hope, or if they passed heavily, still they would pass and I had not lost my father for ever. Let him spend another sixteen years of desolate wandering: let him once more utter his wild complaints to the vast woods and the tremendous cataracts of another clime: let him again undergo fearful danger and soul-quelling hardships: let the hot sun of the south again burn his passion worn cheeks and the cold night rains fall on him and chill his blood.\n\nTo this life, miserable father, I devote thee!--Go!--Be thy days passed with savages, and thy nights under the cope of heaven! Be thy limbs worn and thy heart chilled, and all youth be dead within thee!"
+      },
+      "request_id": "2b2a3ad9240b7e9fb7908719",
+      "request_sha256": "bd8135fe5dc6d9b9b62a8fb90b66b7fc44ed517cd13046e2191594ca9da2572a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2a973f756fe77c75d8e3aa2bf378e7283897f9f120b090e57cf14b520456bc7a"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

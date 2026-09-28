@@ -1,0 +1,68 @@
+{
+  "batch_id": "79baea8b1f37b87e7f0e",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:42:28.148162+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a2a3baaba5214111b2507724",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 541,
+      "passage_id": "V2_twain_connecticut_yankee_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: a2a3baaba5214111b2507724\noriginal_word_count: 541\n\nPassage:\nAnd Sir Arnold, and Sir Gauter, knights of the castle, encountered with Sir Brandiles and Sir Kay, and these four knights encountered mightily, and brake their spears to their hands. Then came Sir Pertolope from the castle, and there encountered with him Sir Lionel, and there Sir Pertolope the green knight smote down Sir Lionel, brother to Sir Launcelot. All this was marked by noble heralds, who bare him best, and their names. Then Sir Bleobaris brake his spear upon Sir Gareth, but of that stroke Sir Bleobaris fell to the earth. When Sir Galihodin saw that, he bad Sir Gareth keep him, and Sir Gareth smote him to the earth. Then Sir Galihud gat a spear to avenge his brother, and in the same wise Sir Gareth served him, and Sir Dinadan and his brother La Cote Male Taile, and Sir Sagramore le Disirous, and Sir Dodinas le Savage; all these he bare down with one spear. When King Aswisance of Ireland saw Sir Gareth fare so he marvelled what he might be, that one time seemed green, and another time, at his again coming, he seemed blue. And thus at every course that he rode to and fro he changed his color, so that there might neither king nor knight have ready cognizance of him. Then Sir Agwisance the King of Ireland encountered with Sir Gareth, and there Sir Gareth smote him from his horse, saddle and all. And then came King Carados of Scotland, and Sir Gareth smote him down horse and man. And in the same wise he served King Uriens of the land of Gore. And then there came in Sir Bagdemagus, and Sir Gareth smote him down horse and man to the earth. And Bagdemagus's son Meliganus brake a spear upon Sir Gareth mightily and knightly. And then Sir Galahault the noble prince cried on high, Knight with the many colors, well hast thou justed; now make thee ready that I may just with thee. Sir Gareth heard him, and he gat a great spear, and so they encountered together, and there the prince brake his spear; but Sir Gareth smote him upon the left side of the helm, that he reeled here and there, and he had fallen down had not his men recovered him. Truly, said King Arthur, that knight with the many colors is a good knight. Wherefore the king called unto him Sir Launcelot, and prayed him to encounter with that knight. Sir, said Launcelot, I may as well find in my heart for to forbear him at this time, for he hath had travail enough this day, and when a good knight doth so well upon some day, it is no good knight's part to let him of his worship, and, namely, when he seeth a knight hath done so great labour; for peradventure, said Sir Launcelot, his quarrel is here this day, and peradventure he is best beloved with this lady of all that be here, for I see well he paineth himself and enforceth him to do great deeds, and therefore, said Sir Launcelot, as for me, this day he shall have the honour; though it lay in my power to put him from it, I would not."
+      },
+      "request_id": "a2a3baaba5214111b2507724",
+      "request_sha256": "e3980fbcc54a6ffabf2f06c4cdda86d135d2bcc502ac8dee3db06cb8d6c12ced",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f0b0481a941e93c198a9af924d6006900932e5d03d056dc284979a25aaf656c8"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "dafcaef2aa555cb665a9035c",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_austen_persuasion_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: dafcaef2aa555cb665a9035c\noriginal_word_count: 473\n\nPassage:\nOn the morning appointed for Admiral and Mrs Croft’s seeing Kellynch Hall, Anne found it most natural to take her almost daily walk to Lady Russell’s, and keep out of the way till all was over; when she found it most natural to be sorry that she had missed the opportunity of seeing them.\n\nThis meeting of the two parties proved highly satisfactory, and decided the whole business at once. Each lady was previously well disposed for an agreement, and saw nothing, therefore, but good manners in the other; and with regard to the gentlemen, there was such an hearty good humour, such an open, trusting liberality on the Admiral’s side, as could not but influence Sir Walter, who had besides been flattered into his very best and most polished behaviour by Mr Shepherd’s assurances of his being known, by report, to the Admiral, as a model of good breeding.\n\nThe house and grounds, and furniture, were approved, the Crofts were approved, terms, time, every thing, and every body, was right; and Mr Shepherd’s clerks were set to work, without there having been a single preliminary difference to modify of all that “This indenture sheweth.”\n\nSir Walter, without hesitation, declared the Admiral to be the best-looking sailor he had ever met with, and went so far as to say, that if his own man might have had the arranging of his hair, he should not be ashamed of being seen with him any where; and the Admiral, with sympathetic cordiality, observed to his wife as they drove back through the park, “I thought we should soon come to a deal, my dear, in spite of what they told us at Taunton. The Baronet will never set the Thames on fire, but there seems to be no harm in him.”—reciprocal compliments, which would have been esteemed about equal.\n\nThe Crofts were to have possession at Michaelmas; and as Sir Walter proposed removing to Bath in the course of the preceding month, there was no time to be lost in making every dependent arrangement.\n\nLady Russell, convinced that Anne would not be allowed to be of any use, or any importance, in the choice of the house which they were going to secure, was very unwilling to have her hurried away so soon, and wanted to make it possible for her to stay behind till she might convey her to Bath herself after Christmas; but having engagements of her own which must take her from Kellynch for several weeks, she was unable to give the full invitation she wished, and Anne though dreading the possible heats of September in all the white glare of Bath, and grieving to forego all the influence so sweet and so sad of the autumnal months in the country, did not think that, everything considered, she wished to remain."
+      },
+      "request_id": "dafcaef2aa555cb665a9035c",
+      "request_sha256": "b9fac0ee5d17a2c90e0ce64158f72c640a64955ae9abf27b3c9ffb3fa8011053",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ed9412a75b97f71ae45fcdf2ab2d8a618ae2fe3ae3e15a66a6f934dc665c3d05"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f8eaa87ab7dbf260c05bfb6c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_poe_murders_rue_morgue_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: f8eaa87ab7dbf260c05bfb6c\noriginal_word_count: 453\n\nPassage:\nCould not be sure whether it was the voice of a man or of a woman. Could not make out what was said, but believed the language to be Spanish. The state of the room and of the bodies was described by this witness as we described them yesterday.\n\n“_Henri Duval_, a neighbor, and by trade a silver-smith, deposes that he was one of the party who first entered the house. Corroborates the testimony of Musèt in general. As soon as they forced an entrance, they reclosed the door, to keep out the crowd, which collected very fast, notwithstanding the lateness of the hour. The shrill voice, this witness thinks, was that of an Italian. Was certain it was not French. Could not be sure that it was a man’s voice. It might have been a woman’s. Was not acquainted with the Italian language. Could not distinguish the words, but was convinced by the intonation that the speaker was an Italian. Knew Madame L. and her daughter. Had conversed with both frequently. Was sure that the shrill voice was not that of either of the deceased.\n\n“——_Odenheimer, restaurateur._ This witness volunteered his testimony. Not speaking French, was examined through an interpreter. Is a native of Amsterdam. Was passing the house at the time of the shrieks. They lasted for several minutes—probably ten. They were long and loud—very awful and distressing. Was one of those who entered the building. Corroborated the previous evidence in every respect but one. Was sure that the shrill voice was that of a man—of a Frenchman. Could not distinguish the words uttered. They were loud and quick—unequal—spoken apparently in fear as well as in anger. The voice was harsh—not so much shrill as harsh. Could not call it a shrill voice. The gruff voice said repeatedly ‘_sacré_,’ ‘_diable_,’ and once ‘_mon Dieu._’\n\n“_Jules Mignaud_, banker, of the firm of Mignaud et Fils, Rue Deloraine. Is the elder Mignaud. Madame L’Espanaye had some property. Had opened an account with his banking house in the spring of the year—(eight years previously). Made frequent deposits in small sums. Had checked for nothing until the third day before her death, when she took out in person the sum of 4000 francs. This sum was paid in gold, and a clerk went home with the money.\n\n“_Adolphe Le Bon_, clerk to Mignaud et Fils, deposes that on the day in question, about noon, he accompanied Madame L’Espanaye to her residence with the 4000 francs, put up in two bags. Upon the door being opened, Mademoiselle L. appeared and took from his hands one of the bags, while the old lady relieved him of the other."
+      },
+      "request_id": "f8eaa87ab7dbf260c05bfb6c",
+      "request_sha256": "7454fd36bf99a07549e1593d5bbb9127afbaaa4d9a7b740f2f91317734111b92",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "87e552d288f114a59546682b70253f280f338a3e7ae9d0113532f5c352aed5cf"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

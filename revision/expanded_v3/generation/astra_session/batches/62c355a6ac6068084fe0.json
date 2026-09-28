@@ -1,0 +1,68 @@
+{
+  "batch_id": "62c355a6ac6068084fe0",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:33:10.317755+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "563db78c562ca6566d2d254e",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_persuasion_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 563db78c562ca6566d2d254e\noriginal_word_count: 461\n\nPassage:\n“I must go, uncertain of my fate; but I shall return hither, or follow your party, as soon as possible. A word, a look, will be enough to decide whether I enter your father’s house this evening or never.”\n\nSuch a letter was not to be soon recovered from. Half an hour’s solitude and reflection might have tranquillized her; but the ten minutes only which now passed before she was interrupted, with all the restraints of her situation, could do nothing towards tranquillity. Every moment rather brought fresh agitation. It was overpowering happiness. And before she was beyond the first stage of full sensation, Charles, Mary, and Henrietta all came in.\n\nThe absolute necessity of seeming like herself produced then an immediate struggle; but after a while she could do no more. She began not to understand a word they said, and was obliged to plead indisposition and excuse herself. They could then see that she looked very ill, were shocked and concerned, and would not stir without her for the world. This was dreadful. Would they only have gone away, and left her in the quiet possession of that room it would have been her cure; but to have them all standing or waiting around her was distracting, and in desperation, she said she would go home.\n\n“By all means, my dear,” cried Mrs Musgrove, “go home directly, and take care of yourself, that you may be fit for the evening. I wish Sarah was here to doctor you, but I am no doctor myself. Charles, ring and order a chair. She must not walk.”\n\nBut the chair would never do. Worse than all! To lose the possibility of speaking two words to Captain Wentworth in the course of her quiet, solitary progress up the town (and she felt almost certain of meeting him) could not be borne. The chair was earnestly protested against, and Mrs Musgrove, who thought only of one sort of illness, having assured herself with some anxiety, that there had been no fall in the case; that Anne had not at any time lately slipped down, and got a blow on her head; that she was perfectly convinced of having had no fall; could part with her cheerfully, and depend on finding her better at night.\n\nAnxious to omit no possible precaution, Anne struggled, and said—\n\n“I am afraid, ma’am, that it is not perfectly understood. Pray be so good as to mention to the other gentlemen that we hope to see your whole party this evening. I am afraid there had been some mistake; and I wish you particularly to assure Captain Harville and Captain Wentworth, that we hope to see them both.”\n\n“Oh! my dear, it is quite understood, I give you my word."
+      },
+      "request_id": "563db78c562ca6566d2d254e",
+      "request_sha256": "916484a7c6455d3fde9f282d728b15884a952be8fb43acbcdebc5d857176f6d1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9b8a6b29a879f4f3117e06929fa43c268ac9c4cef1d703fbd4f391380db75821"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "01528290838f4e6fbe8c3d30",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 503,
+      "passage_id": "V2_shelley_mathilda_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 01528290838f4e6fbe8c3d30\noriginal_word_count: 503\n\nPassage:\nI have said that he was a poet: when he was three and twenty years of age he first published a poem, and it was hailed by the whole nation with enthusiasm and delight. His good star perpetually shone upon him; a reputation had never before been made so rapidly: it was universal. The multitude extolled the same poems that formed the wonder of the sage in his closet: there was not one dissentient voice.\n\nIt was at this time, in the height of his glory, that he became acquainted with Elinor. She was a young heiress of exquisite beauty who lived under the care of her guardian: from the moment they were seen together they appeared formed for each other. Elinor had not the genius of Woodville but she was generous and noble, and exalted by her youth and the love that she every where excited above the knowledge of aught but virtue and excellence. She was lovely; her manners were frank and simple; her deep blue eyes swam in a lustre which could only be given by sensibility joined to wisdom.\n\nThey were formed for one another and they soon loved. Woodville for the first time felt the delight of love; and Elinor was enraptured in possessing the heart of one so beautiful and glorious among his fellow men. Could any thing but unmixed joy flow from such a union?\n\nWoodville was a Poet--he was sought for by every society and all eyes were turned on him alone when he appeared; but he was the son of a poor clergyman and Elinor was a rich heiress. Her guardian was not displeased with their mutual affection: the merit of Woodville was too eminent to admit of cavil on account of his inferior wealth; but the dying will of her father did not allow her to marry before she was of age and her fortune depended upon her obeying this injunction. She had just entered her twentieth year, and she and her lover were obliged to submit to this delay. But they were ever together and their happiness seemed that of Paradise: they studied together: formed plans of future occupations, and drinking in love and joy from each other’s eyes and words they hardly repined at the delay to their entire union. Woodville for ever rose in glory; and Elinor become more lovely and wise under the lessons of her accomplished lover.\n\nIn two months Elinor would be twenty one: every thing was prepared for their union. How shall I relate the catastrophe to so much joy; but the earth would not be the earth it is covered with blight and sorrow if one such pair as these angelic creatures had been suffered to exist for one another: search through the world and you will not find the perfect happiness which their marriage would have caused them to enjoy; there must have been a revolution in the order of things as established among us miserable earth-dwellers to have admitted of such consummate joy."
+      },
+      "request_id": "01528290838f4e6fbe8c3d30",
+      "request_sha256": "1bf125ebade4baee9eb1085e4f56814f5ef62a1458eb814fa0461a38cf1a5c92",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "343f851bf55ebf200431951cd943bd329c5e83269700652c9145211a3c29c3da"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f54a9e21788bdf527fcb76a4",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_shelley_mathilda_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: f54a9e21788bdf527fcb76a4\noriginal_word_count: 453\n\nPassage:\nYet he had one secret hidden from these dear friends; a secret he had nurtured from his earliest years, and although he loved his fellow collegiates he would not trust it to the delicacy or sympathy of any one among them. He loved. He feared that the intensity of his passion might become the subject of their ridicule; and he could not bear that they should blaspheme it by considering that trivial and transitory which he felt was the life of his life.\n\nThere was a gentleman of small fortune who lived near his family mansion who had three lovely daughters. The eldest was far the most beautiful, but her beauty was only an addition to her other qualities--her understanding was clear & strong and her disposition angelically gentle. She and my father had been playmates from infancy: Diana, even in her childhood had been a favourite with his mother; this partiality encreased with the years of this beautiful and lively girl and thus during his school & college vacations they were perpetually together. Novels and all the various methods by which youth in civilized life are led to a knowledge of the existence of passions before they really feel them, had produced a strong effect on him who was so peculiarly susceptible of every impression. At eleven years of age Diana was his favourite playmate but he already talked the language of love. Although she was elder than he by nearly two years the nature of her education made her more childish at least in the knowledge and expression of feeling; she received his warm protestations with innocence, and returned them unknowing of what they meant. She had read no novels and associated only with her younger sisters, what could she know of the difference between love and friendship? And when the development of her understanding disclosed the true nature of this intercourse to her, her affections were already engaged to her friend, and all she feared was lest other attractions and fickleness might make him break his infant vows.\n\nBut they became every day more ardent and tender. It was a passion that had grown with his growth; it had become entwined with every faculty and every sentiment and only to be lost with life. None knew of their love except their own two hearts; yet although in all things else, and even in this he dreaded the censure of his companions, for thus truly loving one inferior to him in fortune, nothing was ever able for a moment to shake his purpose of uniting himself to her as soon as he could muster courage sufficient to meet those difficulties he was determined to surmount.\n\nDiana was fully worthy of his deepest affection."
+      },
+      "request_id": "f54a9e21788bdf527fcb76a4",
+      "request_sha256": "136e0851f2f05dca614c47de5803bf84513ff320624d0f142616741dffe14526",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "46b1ccf68fe17295f76f066d0247f2e892331b47c111394c7324ee861bdce457"
+    }
+  ],
+  "session_id": "01a0e86b-c111-7731-bb8d-a8b1262d4d11",
+  "worker_id": "astra_w",
+  "worker_identity_sha256": "02ab474ea794ee28e12552c40deac11a918257ff5dcb600ea6bea9a7ad47fcb2"
+}

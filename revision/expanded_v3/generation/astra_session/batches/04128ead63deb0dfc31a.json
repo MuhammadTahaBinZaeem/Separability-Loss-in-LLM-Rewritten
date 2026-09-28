@@ -1,0 +1,68 @@
+{
+  "batch_id": "04128ead63deb0dfc31a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:00:00.408621+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "32901c8604b5f8fe2e0247b9",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_shelley_mathilda_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 32901c8604b5f8fe2e0247b9\noriginal_word_count: 451\n\nPassage:\nI would feign to die; my contented heirs would seize upon my wealth, and I should purchase freedom. But then my plan must be laid with art; I would not be left destitute, I must secure some money. Alas! to what loathsome shifts must I be driven? Yet a whole life of falsehood was otherwise my portion: and when remorse at being the contriver of any cheat made me shrink from my design I was irresistably led back and confirmed in it by the visit of some aunt or cousin, who would tell me that death was the end of all men. And then say that my father had surely lost his wits ever since my mother’s death; that he was mad and that I was fortunate, for in one of his fits he might have killed me instead of destroying his own crazed being. And all this, to be sure, was delicately put; not in broad words for my feelings might be hurt but\n\nWhispered so and so In dark hint soft and low\n\nwith downcast eyes, and sympathizing smiles or whimpers; and I listened with quiet countenance while every nerve trembled; I that dared not utter aye or no to all this blasphemy. Oh, this was a delicious life quite void of guile! I with my dove’s look and fox’s heart: for indeed I felt only the degradation of falsehood, and not any sacred sentiment of conscious innocence that might redeem it. I who had before clothed myself in the bright garb of sincerity must now borrow one of divers colours: it might sit awkwardly at first, but use would enable me to place it in elegant folds, to lie with grace. Aye, I might die my soul with falsehood untill I had quite hid its native colour. Oh, beloved father! Accept the pure heart of your unhappy daughter; permit me to join you unspotted as I was or you will not recognize my altered semblance. As grief might change Constance so would deceit change me untill in heaven you would say, “This is not my child”--My father, to be happy both now and when again we meet I must fly from all this life which is mockery to one like me. In solitude only shall I be myself; in solitude I shall be thine.\n\nAlas! I even now look back with disgust at my artifices and contrivances by which, after many painful struggles, I effected my retreat. I might enter into a long detail of the means I used, first to secure myself a slight maintenance for the remainder of my life, and afterwards to ensure the conviction of my death: I might, but I will not."
+      },
+      "request_id": "32901c8604b5f8fe2e0247b9",
+      "request_sha256": "a8f9c77e84b4943f3d042785770e308b5c31b63e4d73dd6e8e684cec49dc2551",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e4f0dfd994038ccd642e03633a29b5ab47c2b589273afc6b9bbb18ffce531534"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3ec9c09a68affcb431de52b6",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_poe_murders_rue_morgue_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 3ec9c09a68affcb431de52b6\noriginal_word_count: 450\n\nPassage:\nBut in that bitter _tirade_ upon Chantilly, which appeared in yesterday’s ‘_Musée_,’ the satirist, making some disgraceful allusions to the cobbler’s change of name upon assuming the buskin, quoted a Latin line about which we have often conversed. I mean the line\n\nPerdidit antiquum litera prima sonum.\n\n“I had told you that this was in reference to Orion, formerly written Urion; and, from certain pungencies connected with this explanation, I was aware that you could not have forgotten it. It was clear, therefore, that you would not fail to combine the two ideas of Orion and Chantilly. That you did combine them I saw by the character of the smile which passed over your lips. You thought of the poor cobbler’s immolation. So far, you had been stooping in your gait; but now I saw you draw yourself up to your full height. I was then sure that you reflected upon the diminutive figure of Chantilly. At this point I interrupted your meditations to remark that as, in fact, he was a very little fellow—that Chantilly—he would do better at the _Théâtre des Variétés_.”\n\nNot long after this, we were looking over an evening edition of the “Gazette des Tribunaux,” when the following paragraphs arrested our attention.\n\n“_Extraordinary Murders_.—This morning, about three o’clock, the inhabitants of the Quartier St. Roch were aroused from sleep by a succession of terrific shrieks, issuing, apparently, from the fourth story of a house in the Rue Morgue, known to be in the sole occupancy of one Madame L’Espanaye, and her daughter, Mademoiselle Camille L’Espanaye. After some delay, occasioned by a fruitless attempt to procure admission in the usual manner, the gateway was broken in with a crowbar, and eight or ten of the neighbors entered accompanied by two _gendarmes_. By this time the cries had ceased; but, as the party rushed up the first flight of stairs, two or more rough voices in angry contention were distinguished and seemed to proceed from the upper part of the house. As the second landing was reached, these sounds, also, had ceased and everything remained perfectly quiet. The party spread themselves and hurried from room to room. Upon arriving at a large back chamber in the fourth story, (the door of which, being found locked, with the key inside, was forced open,) a spectacle presented itself which struck every one present not less with horror than with astonishment.\n\n“The apartment was in the wildest disorder—the furniture broken and thrown about in all directions. There was only one bedstead; and from this the bed had been removed, and thrown into the middle of the floor. On a chair lay a razor, besmeared with blood."
+      },
+      "request_id": "3ec9c09a68affcb431de52b6",
+      "request_sha256": "f66e553ab6081ac394e111af89e95ce4d38b2eb339caf3fbe45e4cc85e3c921b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5d1eabbc908de907f44ae635448b02b7f371e8f23de5067656b3cc8bb5303174"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f70307c93be3712efc591063",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_austen_pride_and_prejudice_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: f70307c93be3712efc591063\noriginal_word_count: 450\n\nPassage:\nHer colour changed, and she said no more.\n\nMrs. Gardiner was standing a little behind; and on her pausing, he asked her if she would do him the honour of introducing him to her friends. This was a stroke of civility for which she was quite unprepared; and she could hardly suppress a smile at his being now seeking the acquaintance of some of those very people, against whom his pride had revolted, in his offer to herself. “What will be his surprise,” thought she, “when he knows who they are! He takes them now for people of fashion.”\n\nThe introduction, however, was immediately made; and as she named their relationship to herself, she stole a sly look at him, to see how he bore it; and was not without the expectation of his decamping as fast as he could from such disgraceful companions. That he was _surprised_ by the connection was evident: he sustained it, however, with fortitude: and, so far from going away, turned back with them, and entered into conversation with Mr. Gardiner. Elizabeth could not but be pleased, could not but triumph. It was consoling that he should know she had some relations for whom there was no need to blush. She listened most attentively to all that passed between them, and gloried in every expression, every sentence of her uncle, which marked his intelligence, his taste, or his good manners.\n\nThe conversation soon turned upon fishing; and she heard Mr. Darcy invite him, with the greatest civility, to fish there as often as he chose, while he continued in the neighbourhood, offering at the same time to supply him with fishing tackle, and pointing out those parts of the stream where there was usually most sport. Mrs. Gardiner, who was walking arm in arm with Elizabeth, gave her a look expressive of her wonder. Elizabeth said nothing, but it gratified her exceedingly; the compliment must be all for herself. Her astonishment, however, was extreme; and continually was she repeating, “Why is he so altered? From what can it proceed? It cannot be for _me_, it cannot be for _my_ sake that his manners are thus softened. My reproofs at Hunsford could not work such a change as this. It is impossible that he should still love me.”\n\nAfter walking some time in this way, the two ladies in front, the two gentlemen behind, on resuming their places, after descending to the brink of the river for the better inspection of some curious water-plant, there chanced to be a little alteration. It originated in Mrs. Gardiner, who, fatigued by the exercise of the morning, found Elizabeth’s arm inadequate to her support, and consequently preferred her husband’s."
+      },
+      "request_id": "f70307c93be3712efc591063",
+      "request_sha256": "2ae3720af7e749a62903cb48153211c1a040807017bd4c0989362c71f5b3fee5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8b46b3cf85c417e1e60309770b2e7fc00c32edff9745bb73f8fda045cf3ac90f"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

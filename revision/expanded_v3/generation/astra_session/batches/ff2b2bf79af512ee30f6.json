@@ -1,0 +1,68 @@
+{
+  "batch_id": "ff2b2bf79af512ee30f6",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:55:28.771904+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f6529f8d1626cc7d43d623bf",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_frankenstein_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: f6529f8d1626cc7d43d623bf\noriginal_word_count: 466\n\nPassage:\n“These thoughts calmed me, and in the afternoon I sank into a profound sleep; but the fever of my blood did not allow me to be visited by peaceful dreams. The horrible scene of the preceding day was for ever acting before my eyes; the females were flying and the enraged Felix tearing me from his father’s feet. I awoke exhausted, and finding that it was already night, I crept forth from my hiding-place, and went in search of food.\n\n“When my hunger was appeased, I directed my steps towards the well-known path that conducted to the cottage. All there was at peace. I crept into my hovel and remained in silent expectation of the accustomed hour when the family arose. That hour passed, the sun mounted high in the heavens, but the cottagers did not appear. I trembled violently, apprehending some dreadful misfortune. The inside of the cottage was dark, and I heard no motion; I cannot describe the agony of this suspense.\n\n“Presently two countrymen passed by, but pausing near the cottage, they entered into conversation, using violent gesticulations; but I did not understand what they said, as they spoke the language of the country, which differed from that of my protectors. Soon after, however, Felix approached with another man; I was surprised, as I knew that he had not quitted the cottage that morning, and waited anxiously to discover from his discourse the meaning of these unusual appearances.\n\n“‘Do you consider,’ said his companion to him, ‘that you will be obliged to pay three months’ rent and to lose the produce of your garden? I do not wish to take any unfair advantage, and I beg therefore that you will take some days to consider of your determination.’\n\n“‘It is utterly useless,’ replied Felix; ‘we can never again inhabit your cottage. The life of my father is in the greatest danger, owing to the dreadful circumstance that I have related. My wife and my sister will never recover from their horror. I entreat you not to reason with me any more. Take possession of your tenement and let me fly from this place.’\n\n“Felix trembled violently as he said this. He and his companion entered the cottage, in which they remained for a few minutes, and then departed. I never saw any of the family of De Lacey more.\n\n“I continued for the remainder of the day in my hovel in a state of utter and stupid despair. My protectors had departed and had broken the only link that held me to the world. For the first time the feelings of revenge and hatred filled my bosom, and I did not strive to control them, but allowing myself to be borne away by the stream, I bent my mind towards injury and death."
+      },
+      "request_id": "f6529f8d1626cc7d43d623bf",
+      "request_sha256": "f86029f4335e91bed91bd280c5bf7b3c5ad45baf56f3763eeed0e9e856ee6272",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "806132fd8e5792a20af415f14ec4e8b9d53e3190946d2825e665965da3442bc4"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8caf38e9bc68e7e6e6ad62c8",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 480,
+      "passage_id": "V2_shelley_mathilda_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 8caf38e9bc68e7e6e6ad62c8\noriginal_word_count: 480\n\nPassage:\nBut my father was beside me to console me and to drive away bitter memories by bright hopes: methought that it was sweet to grieve that he might dry my tears.\n\nThen again he distracted my thoughts from my sorrow by comparing it with his despair when he lost my mother. Even at that time I shuddered at the picture he drew of his passions: he had the imagination of a poet, and when he described the whirlwind that then tore his feelings he gave his words the impress of life so vividly that I believed while I trembled. I wondered how he could ever again have entered into the offices of life after his wild thoughts seemed to have given him affinity with the unearthly; while he spoke so tremendous were the ideas which he conveyed that it appeared as if the human heart were far too bounded for their conception. His feelings seemed better fitted for a spirit whose habitation is the earthquake and the volcano than for one confined to a mortal body and human lineaments. But these were merely memories; he was changed since then. He was now all love, all softness; and when I raised my eyes in wonder at him as he spoke the smile on his lips told me that his heart was possessed by the gentlest passions.\n\nTwo months after my aunt’s death we removed to London where I was led by my father to attend to deeper studies than had before occupied me. My improvement was his delight; he was with me during all my studies and assisted or joined with me in every lesson. We saw a great deal of society, and no day passed that my father did not endeavour to embellish by some new enjoyment. The tender attachment that he bore me, and the love and veneration with which I returned it cast a charm over every moment. The hours were slow for each minute was employed; we lived more in one week than many do in the course of several months and the variety and novelty of our pleasures gave zest to each.\n\nWe perpetually made excursions together. And whether it were to visit beautiful scenery, or to see fine pictures, or sometimes for no object but to seek amusement as it might chance to arise, I was always happy when near my father. It was a subject of regret to me whenever we were joined by a third person, yet if I turned with a disturbed look towards my father, his eyes fixed on me and beaming with tenderness instantly restored joy to my heart. O, hours of intense delight! Short as ye were ye are made as long to me as a whole life when looked back upon through the mist of grief that rose immediately after as if to shut ye from my view."
+      },
+      "request_id": "8caf38e9bc68e7e6e6ad62c8",
+      "request_sha256": "ec357e4f16427807b181277a0946af77abdd90e1d4959d165f21c1c828d9556c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "91939a0bd52174197cc686b3cf2bfe0a5a3bf66f27a7625a73abe79d4efaea27"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1c7f0d6a9ff81b3a03e3199e",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_twain_connecticut_yankee_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 1c7f0d6a9ff81b3a03e3199e\noriginal_word_count: 452\n\nPassage:\nIn my day, in my own country, this money was collected from imposts, and the citizen imagined that the foreign importer paid it, and it made him comfortable to think so; whereas, in fact, it was paid by the American people, and was so equally and exactly distributed among them that the annual cost to the 100-millionaire and the annual cost to the sucking child of the day-laborer was precisely the same--each paid $6. Nothing could be equaler than that, I reckon. Well, Scotland and Ireland were tributary to Arthur, and the united populations of the British Islands amounted to something less than 1,000,000. A mechanic's average wage was 3 cents a day, when he paid his own keep. By this rule the national government's expenses were $90,000 a year, or about $250 a day. Thus, by the substitution of nickels for gold on a king's-evil day, I not only injured no one, dissatisfied no one, but pleased all concerned and saved four-fifths of that day's national expense into the bargain--a saving which would have been the equivalent of $800,000 in my day in America. In making this substitution I had drawn upon the wisdom of a very remote source--the wisdom of my boyhood--for the true statesman does not despise any wisdom, howsoever lowly may be its origin: in my boyhood I had always saved my pennies and contributed buttons to the foreign missionary cause. The buttons would answer the ignorant savage as well as the coin, the coin would answer me better than the buttons; all hands were happy and nobody hurt.\n\nMarinel took the patients as they came. He examined the candidate; if he couldn't qualify he was warned off; if he could he was passed along to the king. A priest pronounced the words, “They shall lay their hands on the sick, and they shall recover.” Then the king stroked the ulcers, while the reading continued; finally, the patient graduated and got his nickel--the king hanging it around his neck himself--and was dismissed. Would you think that that would cure? It certainly did. Any mummery will cure if the patient's faith is strong in it. Up by Astolat there was a chapel where the Virgin had once appeared to a girl who used to herd geese around there--the girl said so herself--and they built the chapel upon that spot and hung a picture in it representing the occurrence--a picture which you would think it dangerous for a sick person to approach; whereas, on the contrary, thousands of the lame and the sick came and prayed before it every year and went away whole and sound; and even the well could look upon it and live."
+      },
+      "request_id": "1c7f0d6a9ff81b3a03e3199e",
+      "request_sha256": "afbc2c29b5e590045f3d12821186b38db6aede8f323b863b914c98b30fecb738",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "07a5ab8fa167227463ef0c26d858e32d149ee2bb4d6ca667b280928fbbd3ec63"
+    }
+  ],
+  "session_id": "01a0e847-b893-7c52-8311-f3acf99043e1",
+  "worker_id": "astra_l",
+  "worker_identity_sha256": "2c5da61879bebe3353fa66cda11e4cbc6ce4420d78f567ebeb859dde68cb1df4"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "f01f05ec7d8cd2a23d7c",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:29:36.929258+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "08affb142b7810650d883e15",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_twain_tom_sawyer_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 08affb142b7810650d883e15\noriginal_word_count: 470\n\nPassage:\nI know she would!”\n\nThe Widow Douglas’ splendid hospitality was a tempting bait. It and Tom’s persuasions presently carried the day. So it was decided to say nothing to anybody about the night’s programme. Presently it occurred to Tom that maybe Huck might come this very night and give the signal. The thought took a deal of the spirit out of his anticipations. Still he could not bear to give up the fun at Widow Douglas’. And why should he give it up, he reasoned—the signal did not come the night before, so why should it be any more likely to come tonight? The sure fun of the evening outweighed the uncertain treasure; and, boy-like, he determined to yield to the stronger inclination and not allow himself to think of the box of money another time that day.\n\nThree miles below town the ferryboat stopped at the mouth of a woody hollow and tied up. The crowd swarmed ashore and soon the forest distances and craggy heights echoed far and near with shoutings and laughter. All the different ways of getting hot and tired were gone through with, and by-and-by the rovers straggled back to camp fortified with responsible appetites, and then the destruction of the good things began. After the feast there was a refreshing season of rest and chat in the shade of spreading oaks. By-and-by somebody shouted:\n\n“Who’s ready for the cave?”\n\nEverybody was. Bundles of candles were procured, and straightway there was a general scamper up the hill. The mouth of the cave was up the hillside—an opening shaped like a letter A. Its massive oaken door stood unbarred. Within was a small chamber, chilly as an icehouse, and walled by Nature with solid limestone that was dewy with a cold sweat. It was romantic and mysterious to stand here in the deep gloom and look out upon the green valley shining in the sun. But the impressiveness of the situation quickly wore off, and the romping began again. The moment a candle was lighted there was a general rush upon the owner of it; a struggle and a gallant defence followed, but the candle was soon knocked down or blown out, and then there was a glad clamor of laughter and a new chase. But all things have an end. By-and-by the procession went filing down the steep descent of the main avenue, the flickering rank of lights dimly revealing the lofty walls of rock almost to their point of junction sixty feet overhead. This main avenue was not more than eight or ten feet wide. Every few steps other lofty and still narrower crevices branched from it on either hand—for McDougal’s cave was but a vast labyrinth of crooked aisles that ran into each other and out again and led nowhere."
+      },
+      "request_id": "08affb142b7810650d883e15",
+      "request_sha256": "7567868654c4fec599155f878fa8f322d07e993806eab6fa5f851453022f57c5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5e4147a707d69ff3ee62d501c7ed5b0f16b54be2648c1d8c4613d5eba30eedad"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d4e7de6c3ac0328d2523e44d",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_twain_connecticut_yankee_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: d4e7de6c3ac0328d2523e44d\noriginal_word_count: 457\n\nPassage:\nSaturday noon I went to the well and looked on a while. Merlin was still burning smoke-powders, and pawing the air, and muttering gibberish as hard as ever, but looking pretty down-hearted, for of course he had not started even a perspiration in that well yet. Finally I said:\n\n“How does the thing promise by this time, partner?”\n\n“Behold, I am even now busied with trial of the powerfulest enchantment known to the princes of the occult arts in the lands of the East; an it fail me, naught can avail. Peace, until I finish.”\n\nHe raised a smoke this time that darkened all the region, and must have made matters uncomfortable for the hermits, for the wind was their way, and it rolled down over their dens in a dense and billowy fog. He poured out volumes of speech to match, and contorted his body and sawed the air with his hands in a most extraordinary way. At the end of twenty minutes he dropped down panting, and about exhausted. Now arrived the abbot and several hundred monks and nuns, and behind them a multitude of pilgrims and a couple of acres of foundlings, all drawn by the prodigious smoke, and all in a grand state of excitement. The abbot inquired anxiously for results. Merlin said:\n\n“If any labor of mortal might break the spell that binds these waters, this which I have but just essayed had done it. It has failed; whereby I do now know that that which I had feared is a truth established; the sign of this failure is, that the most potent spirit known to the magicians of the East, and whose name none may utter and live, has laid his spell upon this well. The mortal does not breathe, nor ever will, who can penetrate the secret of that spell, and without that secret none can break it. The water will flow no more forever, good Father. I have done what man could. Suffer me to go.”\n\nOf course this threw the abbot into a good deal of a consternation. He turned to me with the signs of it in his face, and said:\n\n“Ye have heard him. Is it true?”\n\n“Part of it is.”\n\n“Not all, then, not all! What part is true?”\n\n“That that spirit with the Russian name has put his spell upon the well.”\n\n“God's wounds, then are we ruined!”\n\n“Possibly.”\n\n“But not certainly? Ye mean, not certainly?”\n\n“That is it.”\n\n“Wherefore, ye also mean that when he saith none can break the spell--”\n\n“Yes, when he says that, he says what isn't necessarily true. There are conditions under which an effort to break it may have some chance--that is, some small, some trifling chance--of success.”"
+      },
+      "request_id": "d4e7de6c3ac0328d2523e44d",
+      "request_sha256": "6e3492c9436b0cfb2d434c5edccc45e7d431eedc5c8974ad87b0a6b36eb5ac7d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ad54bda0be32e76b8625005a92102bc08a403d5878015634373dedab521f64b5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "610164ec53329c4878b3ff85",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_poe_the_gold_bug_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 610164ec53329c4878b3ff85\noriginal_word_count: 453\n\nPassage:\nMany years ago, I contracted an intimacy with a Mr. William Legrand. He was of an ancient Huguenot family, and had once been wealthy; but a series of misfortunes had reduced him to want. To avoid the mortification consequent upon his disasters, he left New Orleans, the city of his forefathers, and took up his residence at Sullivan’s Island, near Charleston, South Carolina.\n\nThis Island is a very singular one. It consists of little else than the sea sand, and is about three miles long. Its breadth at no point exceeds a quarter of a mile. It is separated from the main land by a scarcely perceptible creek, oozing its way through a wilderness of reeds and slime, a favorite resort of the marsh hen. The vegetation, as might be supposed, is scant, or at least dwarfish. No trees of any magnitude are to be seen. Near the western extremity, where Fort Moultrie stands, and where are some miserable frame buildings, tenanted, during summer, by the fugitives from Charleston dust and fever, may be found, indeed, the bristly palmetto; but the whole island, with the exception of this western point, and a line of hard, white beach on the seacoast, is covered with a dense undergrowth of the sweet myrtle, so much prized by the horticulturists of England. The shrub here often attains the height of fifteen or twenty feet, and forms an almost impenetrable coppice, burthening the air with its fragrance.\n\nIn the inmost recesses of this coppice, not far from the eastern or more remote end of the island, Legrand had built himself a small hut, which he occupied when I first, by mere accident, made his acquaintance. This soon ripened into friendship—for there was much in the recluse to excite interest and esteem. I found him well educated, with unusual powers of mind, but infected with misanthropy, and subject to perverse moods of alternate enthusiasm and melancholy. He had with him many books, but rarely employed them. His chief amusements were gunning and fishing, or sauntering along the beach and through the myrtles, in quest of shells or entomological specimens—his collection of the latter might have been envied by a Swammerdamm. In these excursions he was usually accompanied by an old negro, called Jupiter, who had been manumitted before the reverses of the family, but who could be induced, neither by threats nor by promises, to abandon what he considered his right of attendance upon the footsteps of his young “Massa Will.” It is not improbable that the relatives of Legrand, conceiving him to be somewhat unsettled in intellect, had contrived to instil this obstinacy into Jupiter, with a view to the supervision and guardianship of the wanderer."
+      },
+      "request_id": "610164ec53329c4878b3ff85",
+      "request_sha256": "1d71764fa7e11699f12628e14560594ab9b0684284aeaa75356e62a8d251519d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bf97a4954f73a7ffb8224d5ea3790cacf70ab230b215a9714b053605a4b261eb"
+    }
+  ],
+  "session_id": "01a0e865-d34a-75c3-a7b9-6054f384d598",
+  "worker_id": "astra_u",
+  "worker_identity_sha256": "a9ccd4d0505883dcc11e3e0b3f2a87cf0163a5c2fb28ec8e4609d8f10a62a24d"
+}

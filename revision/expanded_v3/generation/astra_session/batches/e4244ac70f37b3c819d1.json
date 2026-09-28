@@ -1,0 +1,68 @@
+{
+  "batch_id": "e4244ac70f37b3c819d1",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:02:32.514050+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d94e8616f012b41094d7c3c1",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_poe_murders_rue_morgue_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: d94e8616f012b41094d7c3c1\noriginal_word_count: 465\n\nPassage:\nObserving him in these moods, I often dwelt meditatively upon the old philosophy of the Bi-Part Soul, and amused myself with the fancy of a double Dupin—the creative and the resolvent.\n\nLet it not be supposed, from what I have just said, that I am detailing any mystery, or penning any romance. What I have described in the Frenchman, was merely the result of an excited, or perhaps of a diseased intelligence. But of the character of his remarks at the periods in question an example will best convey the idea.\n\nWe were strolling one night down a long dirty street in the vicinity of the Palais Royal. Being both, apparently, occupied with thought, neither of us had spoken a syllable for fifteen minutes at least. All at once Dupin broke forth with these words:\n\n“He is a very little fellow, that’s true, and would do better for the _Théâtre des Variétés_.”\n\n“There can be no doubt of that,” I replied unwittingly, and not at first observing (so much had I been absorbed in reflection) the extraordinary manner in which the speaker had chimed in with my meditations. In an instant afterward I recollected myself, and my astonishment was profound.\n\n“Dupin,” said I, gravely, “this is beyond my comprehension. I do not hesitate to say that I am amazed, and can scarcely credit my senses. How was it possible you should know I was thinking of ——?” Here I paused, to ascertain beyond a doubt whether he really knew of whom I thought.\n\n“—— of Chantilly,” said he, “why do you pause? You were remarking to yourself that his diminutive figure unfitted him for tragedy.”\n\nThis was precisely what had formed the subject of my reflections. Chantilly was a _quondam_ cobbler of the Rue St. Denis, who, becoming stage-mad, had attempted the _rôle_ of Xerxes, in Crébillon’s tragedy so called, and been notoriously Pasquinaded for his pains.\n\n“Tell me, for Heaven’s sake,” I exclaimed, “the method—if method there is—by which you have been enabled to fathom my soul in this matter.” In fact I was even more startled than I would have been willing to express.\n\n“It was the fruiterer,” replied my friend, “who brought you to the conclusion that the mender of soles was not of sufficient height for Xerxes _et id genus omne_.”\n\n“The fruiterer!—you astonish me—I know no fruiterer whomsoever.”\n\n“The man who ran up against you as we entered the street—it may have been fifteen minutes ago.”\n\nI now remembered that, in fact, a fruiterer, carrying upon his head a large basket of apples, had nearly thrown me down, by accident, as we passed from the Rue C—— into the thoroughfare where we stood; but what this had to do with Chantilly I could not possibly understand."
+      },
+      "request_id": "d94e8616f012b41094d7c3c1",
+      "request_sha256": "ed99fbb3cbd56ab92dc5c7d4efaca792a79e3bb5a683b8ac01b3f67f5b723eda",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "17bd420701472ed5ef586ed865261f765fb43518c729afaeb5472f9de4c2f5f6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "39fc7955ae95f6cf5e219505",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 39fc7955ae95f6cf5e219505\noriginal_word_count: 451\n\nPassage:\nSuddenly the painter appeared at the door of the studio and made staccato signs for them to come in. They turned to each other and smiled.\n\n“I am waiting,” he cried. “Do come in. The light is quite perfect, and you can bring your drinks.”\n\nThey rose up and sauntered down the walk together. Two green-and-white butterflies fluttered past them, and in the pear-tree at the corner of the garden a thrush began to sing.\n\n“You are glad you have met me, Mr. Gray,” said Lord Henry, looking at him.\n\n“Yes, I am glad now. I wonder shall I always be glad?”\n\n“Always! That is a dreadful word. It makes me shudder when I hear it. Women are so fond of using it. They spoil every romance by trying to make it last for ever. It is a meaningless word, too. The only difference between a caprice and a lifelong passion is that the caprice lasts a little longer.”\n\nAs they entered the studio, Dorian Gray put his hand upon Lord Henry’s arm. “In that case, let our friendship be a caprice,” he murmured, flushing at his own boldness, then stepped up on the platform and resumed his pose.\n\nLord Henry flung himself into a large wicker arm-chair and watched him. The sweep and dash of the brush on the canvas made the only sound that broke the stillness, except when, now and then, Hallward stepped back to look at his work from a distance. In the slanting beams that streamed through the open doorway the dust danced and was golden. The heavy scent of the roses seemed to brood over everything.\n\nAfter about a quarter of an hour Hallward stopped painting, looked for a long time at Dorian Gray, and then for a long time at the picture, biting the end of one of his huge brushes and frowning. “It is quite finished,” he cried at last, and stooping down he wrote his name in long vermilion letters on the left-hand corner of the canvas.\n\nLord Henry came over and examined the picture. It was certainly a wonderful work of art, and a wonderful likeness as well.\n\n“My dear fellow, I congratulate you most warmly,” he said. “It is the finest portrait of modern times. Mr. Gray, come over and look at yourself.”\n\nThe lad started, as if awakened from some dream.\n\n“Is it really finished?” he murmured, stepping down from the platform.\n\n“Quite finished,” said the painter. “And you have sat splendidly to-day. I am awfully obliged to you.”\n\n“That is entirely due to me,” broke in Lord Henry. “Isn’t it, Mr. Gray?”\n\nDorian made no answer, but passed listlessly in front of his picture and turned towards it."
+      },
+      "request_id": "39fc7955ae95f6cf5e219505",
+      "request_sha256": "4e8570616d25d847a603dd32c6595c86374645e5124be552af720c1230c544b9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b71da560146bcaa89167bd035d6762793f6d400315be2a39a786219f513a08ef"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "17fc4a44b292579be1720bbc",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_twain_huckleberry_finn_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 17fc4a44b292579be1720bbc\noriginal_word_count: 481\n\nPassage:\nWhen we got back to the raft and he come to count up he found he had collected eighty-seven dollars and seventy-five cents. And then he had fetched away a three-gallon jug of whisky, too, that he found under a wagon when he was starting home through the woods. The king said, take it all around, it laid over any day he’d ever put in in the missionarying line. He said it warn’t no use talking, heathens don’t amount to shucks alongside of pirates to work a camp-meeting with.\n\nThe duke was thinking _he’d_ been doing pretty well till the king come to show up, but after that he didn’t think so so much. He had set up and printed off two little jobs for farmers in that printing-office—horse bills—and took the money, four dollars. And he had got in ten dollars’ worth of advertisements for the paper, which he said he would put in for four dollars if they would pay in advance—so they done it. The price of the paper was two dollars a year, but he took in three subscriptions for half a dollar apiece on condition of them paying him in advance; they were going to pay in cordwood and onions as usual, but he said he had just bought the concern and knocked down the price as low as he could afford it, and was going to run it for cash. He set up a little piece of poetry, which he made, himself, out of his own head—three verses—kind of sweet and saddish—the name of it was, “Yes, crush, cold world, this breaking heart”—and he left that all set up and ready to print in the paper, and didn’t charge nothing for it. Well, he took in nine dollars and a half, and said he’d done a pretty square day’s work for it.\n\nThen he showed us another little job he’d printed and hadn’t charged for, because it was for us. It had a picture of a runaway nigger with a bundle on a stick over his shoulder, and “$200 reward” under it. The reading was all about Jim, and just described him to a dot. It said he run away from St. Jacques’ plantation, forty mile below New Orleans, last winter, and likely went north, and whoever would catch him and send him back he could have the reward and expenses.\n\n“Now,” says the duke, “after to-night we can run in the daytime if we want to. Whenever we see anybody coming we can tie Jim hand and foot with a rope, and lay him in the wigwam and show this handbill and say we captured him up the river, and were too poor to travel on a steamboat, so we got this little raft on credit from our friends and are going down to get the reward."
+      },
+      "request_id": "17fc4a44b292579be1720bbc",
+      "request_sha256": "64bafd184794a2bddbda3aeb71b5e8fc877db6d45872308756c3ccc856e53095",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1eeb337f7f19a220be2c3f6f975f4b7a10c0a03462c7cf7b61c6e3933268c4c3"
+    }
+  ],
+  "session_id": "01a0e852-0aa6-7ae2-9bb7-b4f8a3387e53",
+  "worker_id": "astra_p",
+  "worker_identity_sha256": "afd3aba6357fe2ec9c9b6492844a9baccd6099faafc29ba8f935f467e4f98adf"
+}

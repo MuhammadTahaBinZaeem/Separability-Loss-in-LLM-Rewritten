@@ -1,0 +1,68 @@
+{
+  "batch_id": "139b562f6815f4c917b3",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:05:45.677165+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3d23d240eb415a863b60cb80",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 491,
+      "passage_id": "V2_wilde_canterville_ghost_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 3d23d240eb415a863b60cb80\noriginal_word_count: 491\n\nPassage:\nABOUT ten minutes later, the bell rang for tea, and, as Virginia did not come down, Mrs. Otis sent up one of the footmen to tell her. After a little time he returned and said that he could not find Miss Virginia anywhere. As she was in the habit of going out to the garden every evening to get flowers for the dinner-table, Mrs. Otis was not at all alarmed at first, but when six o’clock struck, and Virginia did not appear, she became really agitated, and sent the boys out to look for her, while she herself and Mr. Otis searched every room in the house. At half-past six the boys came back and said that they could find no trace of their sister anywhere. They were all now in the greatest state of excitement, and did not know what to do, when Mr. Otis suddenly remembered that, some few days before, he had given a band of gypsies permission to camp in the park. He accordingly at once set off for Blackfell Hollow, where he knew they were, accompanied by his eldest son and two of the farm-servants. The little Duke of Cheshire, who was perfectly frantic with anxiety, begged hard to be allowed to go too, but Mr. Otis would not allow him, as he was afraid there might be a scuffle. On arriving at the spot, however, he found that the gypsies had gone, and it was evident that their departure had been rather sudden, as the fire was still burning, and some plates were lying on the grass. Having sent off Washington and the two men to scour the district, he ran home, and despatched telegrams to all the police inspectors in the county, telling them to look out for a little girl who had been kidnapped by tramps or gypsies. He then ordered his horse to be brought round, and, after insisting on his wife and the three boys sitting down to dinner, rode off down the Ascot Road with a groom. He had hardly, however, gone a couple of miles when he heard somebody galloping after him, and, looking round, saw the little Duke coming up on his pony, with his face very flushed and no hat. ‘I’m awfully sorry, Mr. Otis,’ gasped out the boy, ‘but I can’t eat any dinner as long as Virginia is lost. Please, don’t be angry with me; if you had let us be engaged last year, there would never have been all this trouble. You won’t send me back, will you? I can’t go! I won’t go!’\n\nThe Minister could not help smiling at the handsome young scapegrace, and was a good deal touched at his devotion to Virginia, so leaning down from his horse, he patted him kindly on the shoulders, and said, ‘Well, Cecil, if you won’t go back I suppose you must come with me, but I must get you a hat at Ascot.’"
+      },
+      "request_id": "3d23d240eb415a863b60cb80",
+      "request_sha256": "7a89f6db718faa377c54d5a0e17d24e1d13a7791d0c4a319b027f66179977e6a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "08ec1bb0212207e7343406e012c9c0de383a52b3f10d1120ca83b432be6ac74f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4da77d292c07707803bc82e3",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 516,
+      "passage_id": "V2_poe_the_gold_bug_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 4da77d292c07707803bc82e3\noriginal_word_count: 516\n\nPassage:\nIn the centre of this rift I perceived a white spot, but could not, at first, distinguish what it was. Adjusting the focus of the telescope, I again looked, and now made it out to be a human skull.\n\n“Upon this discovery I was so sanguine as to consider the enigma solved; for the phrase ‘main branch, seventh limb, east side,’ could refer only to the position of the skull upon the tree, while ‘shoot from the left eye of the death’s head’ admitted, also, of but one interpretation, in regard to a search for buried treasure. I perceived that the design was to drop a bullet from the left eye of the skull, and that a bee-line, or, in other words, a straight line, drawn from the nearest point of the trunk through ‘the shot,’ (or the spot where the bullet fell,) and thence extended to a distance of fifty feet, would indicate a definite point—and beneath this point I thought it at least possible that a deposit of value lay concealed.”\n\n“All this,” I said, “is exceedingly clear, and, although ingenious, still simple and explicit. When you left the Bishop’s Hotel, what then?”\n\n“Why, having carefully taken the bearings of the tree, I turned homewards. The instant that I left ‘the devil’s seat,’ however, the circular rift vanished; nor could I get a glimpse of it afterwards, turn as I would. What seems to me the chief ingenuity in this whole business, is the fact (for repeated experiment has convinced me it is a fact) that the circular opening in question is visible from no other attainable point of view than that afforded by the narrow ledge upon the face of the rock.\n\n“In this expedition to the ‘Bishop’s Hotel’ I had been attended by Jupiter, who had, no doubt, observed, for some weeks past, the abstraction of my demeanor, and took especial care not to leave me alone. But, on the next day, getting up very early, I contrived to give him the slip, and went into the hills in search of the tree. After much toil I found it. When I came home at night my valet proposed to give me a flogging. With the rest of the adventure I believe you are as well acquainted as myself.”\n\n“I suppose,” said I, “you missed the spot, in the first attempt at digging, through Jupiter’s stupidity in letting the bug fall through the right instead of through the left eye of the skull.”\n\n“Precisely. This mistake made a difference of about two inches and a half in the ‘shot’—that is to say, in the position of the peg nearest the tree; and had the treasure been beneath the ‘shot,’ the error would have been of little moment; but ‘the shot,’ together with the nearest point of the tree, were merely two points for the establishment of a line of direction; of course the error, however trivial in the beginning, increased as we proceeded with the line, and by the time we had gone fifty feet, threw us quite off the scent."
+      },
+      "request_id": "4da77d292c07707803bc82e3",
+      "request_sha256": "ed3794926f7c31956df8e9f1e128401b3b07fdb0fae4650521a4f1b9cd52ad9b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "368a08d73f4cf6d52bb24069d574d8be249da34f422496710801ee641791c8a4"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b2740a7dcea323506f5d9c84",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_twain_tom_sawyer_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: b2740a7dcea323506f5d9c84\noriginal_word_count: 456\n\nPassage:\nYet notwithstanding all this, the boy grew more and more melancholy and pale and dejected. She added hot baths, sitz baths, shower baths, and plunges. The boy remained as dismal as a hearse. She began to assist the water with a slim oatmeal diet and blister-plasters. She calculated his capacity as she would a jug’s, and filled him up every day with quack cure-alls.\n\nTom had become indifferent to persecution by this time. This phase filled the old lady’s heart with consternation. This indifference must be broken up at any cost. Now she heard of Pain-killer for the first time. She ordered a lot at once. She tasted it and was filled with gratitude. It was simply fire in a liquid form. She dropped the water treatment and everything else, and pinned her faith to Pain-killer. She gave Tom a teaspoonful and watched with the deepest anxiety for the result. Her troubles were instantly at rest, her soul at peace again; for the “indifference” was broken up. The boy could not have shown a wilder, heartier interest, if she had built a fire under him.\n\nTom felt that it was time to wake up; this sort of life might be romantic enough, in his blighted condition, but it was getting to have too little sentiment and too much distracting variety about it. So he thought over various plans for relief, and finally hit upon that of professing to be fond of Pain-killer. He asked for it so often that he became a nuisance, and his aunt ended by telling him to help himself and quit bothering her. If it had been Sid, she would have had no misgivings to alloy her delight; but since it was Tom, she watched the bottle clandestinely. She found that the medicine did really diminish, but it did not occur to her that the boy was mending the health of a crack in the sitting-room floor with it.\n\nOne day Tom was in the act of dosing the crack when his aunt’s yellow cat came along, purring, eyeing the teaspoon avariciously, and begging for a taste. Tom said:\n\n“Don’t ask for it unless you want it, Peter.”\n\nBut Peter signified that he did want it.\n\n“You better make sure.”\n\nPeter was sure.\n\n“Now you’ve asked for it, and I’ll give it to you, because there ain’t anything mean about me; but if you find you don’t like it, you mustn’t blame anybody but your own self.”\n\nPeter was agreeable. So Tom pried his mouth open and poured down the Pain-killer. Peter sprang a couple of yards in the air, and then delivered a war-whoop and set off round and round the room, banging against furniture, upsetting flower-pots, and making general havoc."
+      },
+      "request_id": "b2740a7dcea323506f5d9c84",
+      "request_sha256": "8951fe51dcdbfca6cbf21026a85a7f9a071344d08a8c3e01009105a195682066",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1b0665f87ff6d2a0660ed281473a109c98f9cd7e2aca42d7ecd085590ae651b6"
+    }
+  ],
+  "session_id": "01a0e851-893e-7833-9978-6adbfb804215",
+  "worker_id": "astra_o",
+  "worker_identity_sha256": "57a742b9cc10271bcec81121c331ed211baefa86bd40e11991144b051b260799"
+}

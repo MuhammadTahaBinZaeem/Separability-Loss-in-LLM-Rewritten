@@ -1,0 +1,68 @@
+{
+  "batch_id": "4590d1e33b8174a71676",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:22:54.960973+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4f6f11bfb39537aa3bd4834a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_twain_tom_sawyer_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 4f6f11bfb39537aa3bd4834a\noriginal_word_count: 472\n\nPassage:\nHe could not help it. And it maddened him to see, as he thought he saw, that Becky Thatcher never once suspected that he was even in the land of the living. But she did see, nevertheless; and she knew she was winning her fight, too, and was glad to see him suffer as she had suffered.\n\nAmy’s happy prattle became intolerable. Tom hinted at things he had to attend to; things that must be done; and time was fleeting. But in vain—the girl chirped on. Tom thought, “Oh, hang her, ain’t I ever going to get rid of her?” At last he must be attending to those things—and she said artlessly that she would be “around” when school let out. And he hastened away, hating her for it.\n\n“Any other boy!” Tom thought, grating his teeth. “Any boy in the whole town but that Saint Louis smarty that thinks he dresses so fine and is aristocracy! Oh, all right, I licked you the first day you ever saw this town, mister, and I’ll lick you again! You just wait till I catch you out! I’ll just take and—”\n\nAnd he went through the motions of thrashing an imaginary boy—pummelling the air, and kicking and gouging. “Oh, you do, do you? You holler ’nough, do you? Now, then, let that learn you!” And so the imaginary flogging was finished to his satisfaction.\n\nTom fled home at noon. His conscience could not endure any more of Amy’s grateful happiness, and his jealousy could bear no more of the other distress. Becky resumed her picture inspections with Alfred, but as the minutes dragged along and no Tom came to suffer, her triumph began to cloud and she lost interest; gravity and absentmindedness followed, and then melancholy; two or three times she pricked up her ear at a footstep, but it was a false hope; no Tom came. At last she grew entirely miserable and wished she hadn’t carried it so far. When poor Alfred, seeing that he was losing her, he did not know how, kept exclaiming: “Oh, here’s a jolly one! look at this!” she lost patience at last, and said, “Oh, don’t bother me! I don’t care for them!” and burst into tears, and got up and walked away.\n\nAlfred dropped alongside and was going to try to comfort her, but she said:\n\n“Go away and leave me alone, can’t you! I hate you!”\n\nSo the boy halted, wondering what he could have done—for she had said she would look at pictures all through the nooning—and she walked on, crying. Then Alfred went musing into the deserted schoolhouse. He was humiliated and angry. He easily guessed his way to the truth—the girl had simply made a convenience of him to vent her spite upon Tom Sawyer."
+      },
+      "request_id": "4f6f11bfb39537aa3bd4834a",
+      "request_sha256": "3e0c12a749c10ac6f3a320fc32b5a4cecf61ff21cb2bf3883b5a32f92effc61e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fd6488efa2f64e254321bf98e66528a2f17c2b892b32513d214ee782e9126298"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "554003e0f063a7be3cc3c1d5",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_poe_hans_pfaal_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 554003e0f063a7be3cc3c1d5\noriginal_word_count: 485\n\nPassage:\n“April 12th. A singular alteration took place in regard to the direction of the balloon, and although fully anticipated, afforded me the most unequivocal delight. Having reached, in its former course, about the twentieth parallel of southern latitude, it turned off suddenly, at an acute angle, to the eastward, and thus proceeded throughout the day, keeping nearly, if not altogether, in the exact plane of the lunar ellipse. What was worthy of remark, a very perceptible vacillation in the car was a consequence of this change of route—a vacillation which prevailed, in a more or less degree, for a period of many hours.\n\n“April 13th. Was again very much alarmed by a repetition of the loud, crackling noise which terrified me on the tenth. Thought long upon the subject, but was unable to form any satisfactory conclusion. Great decrease in the earth’s apparent diameter, which now subtended from the balloon an angle of very little more than twenty-five degrees. The moon could not be seen at all, being nearly in my zenith. I still continued in the plane of the ellipse, but made little progress to the eastward.\n\n“April 14th. Extremely rapid decrease in the diameter of the earth. To-day I became strongly impressed with the idea, that the balloon was now actually running up the line of apsides to the point of perigee—in other words, holding the direct course which would bring it immediately to the moon in that part of its orbit the nearest to the earth. The moon itself was directly overhead, and consequently hidden from my view. Great and long-continued labor necessary for the condensation of the atmosphere.\n\n“April 15th. Not even the outlines of continents and seas could now be traced upon the earth with anything approaching distinctness. About twelve o’clock I became aware, for the third time, of that appalling sound which had so astonished me before. It now, however, continued for some moments, and gathered intensity as it continued. At length, while, stupefied and terror-stricken, I stood in expectation of I knew not what hideous destruction, the car vibrated with excessive violence, and a gigantic and flaming mass of some material which I could not distinguish, came with a voice of a thousand thunders, roaring and booming by the balloon. When my fears and astonishment had in some degree subsided, I had little difficulty in supposing it to be some mighty volcanic fragment ejected from that world to which I was so rapidly approaching, and, in all probability, one of that singular class of substances occasionally picked up on the earth, and termed meteoric stones for want of a better appellation.\n\n“April 16th. To-day, looking upward as well as I could, through each of the side windows alternately, I beheld, to my great delight, a very small portion of the moon’s disk protruding, as it were, on all sides beyond the huge circumference of the balloon."
+      },
+      "request_id": "554003e0f063a7be3cc3c1d5",
+      "request_sha256": "68cc04fbeb27a3c53e325bff9ee3b0f69ed306eb835e1427b165ac2b09b66462",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e33d9cc3429e31c379c872f8e159c33fc6ce1ec50aee3a9b003bbef61e9bad55"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2c0ecbf522ac34005476540d",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_austen_pride_and_prejudice_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 2c0ecbf522ac34005476540d\noriginal_word_count: 457\n\nPassage:\nI do not at all comprehend her reason for wishing to be intimate with me; but, if the same circumstances were to happen again, I am sure I should be deceived again. Caroline did not return my visit till yesterday; and not a note, not a line, did I receive in the meantime. When she did come, it was very evident that she had no pleasure in it; she made a slight, formal apology for not calling before, said not a word of wishing to see me again, and was, in every respect, so altered a creature, that when she went away I was perfectly resolved to continue the acquaintance no longer. I pity, though I cannot help blaming, her. She was very wrong in singling me out as she did; I can safely say, that every advance to intimacy began on her side. But I pity her, because she must feel that she has been acting wrong, and because I am very sure that anxiety for her brother is the cause of it. I need not explain myself farther; and though _we_ know this anxiety to be quite needless, yet if she feels it, it will easily account for her behaviour to me; and so deservedly dear as he is to his sister, whatever anxiety she may feel on his behalf is natural and amiable. I cannot but wonder, however, at her having any such fears now, because if he had at all cared about me, we must have met long, long ago. He knows of my being in town, I am certain, from something she said herself; and yet it would seem, by her manner of talking, as if she wanted to persuade herself that he is really partial to Miss Darcy. I cannot understand it. If I were not afraid of judging harshly, I should be almost tempted to say, that there is a strong appearance of duplicity in all this. I will endeavour to banish every painful thought, and think only of what will make me happy, your affection, and the invariable kindness of my dear uncle and aunt. Let me hear from you very soon. Miss Bingley said something of his never returning to Netherfield again, of giving up the house, but not with any certainty. We had better not mention it. I am extremely glad that you have such pleasant accounts from our friends at Hunsford. Pray go to see them, with Sir William and Maria. I am sure you will be very comfortable there.\n\n“Yours, etc.”\n\nThis letter gave Elizabeth some pain; but her spirits returned, as she considered that Jane would no longer be duped, by the sister at least. All expectation from the brother was now absolutely over."
+      },
+      "request_id": "2c0ecbf522ac34005476540d",
+      "request_sha256": "4cc207e427b947f5ef0b6a8b686efc2ac0a07cd4e104ca8125d92ab842159d1d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2055af95bc528653362223b17660caccfdf3843c23efa6b99c72ca127a74515d"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "0592665f4bca3483c5e6",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:50:18.524146+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9daa874647c766f53d96ce37",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_dickens_oliver_twist_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 9daa874647c766f53d96ce37\noriginal_word_count: 470\n\nPassage:\n“Listen then! You!” returned Monks. “His father being taken ill at Rome, was joined by his wife, my mother, from whom he had been long separated, who went from Paris and took me with her—to look after his property, for what I know, for she had no great affection for him, nor he for her. He knew nothing of us, for his senses were gone, and he slumbered on till next day, when he died. Among the papers in his desk, were two, dated on the night his illness first came on, directed to yourself”; he addressed himself to Mr. Brownlow; “and enclosed in a few short lines to you, with an intimation on the cover of the package that it was not to be forwarded till after he was dead. One of these papers was a letter to this girl Agnes; the other a will.”\n\n“What of the letter?” asked Mr. Brownlow.\n\n“The letter?—A sheet of paper crossed and crossed again, with a penitent confession, and prayers to God to help her. He had palmed a tale on the girl that some secret mystery—to be explained one day—prevented his marrying her just then; and so she had gone on, trusting patiently to him, until she trusted too far, and lost what none could ever give her back. She was, at that time, within a few months of her confinement. He told her all he had meant to do, to hide her shame, if he had lived, and prayed her, if he died, not to curse his memory, or think the consequences of their sin would be visited on her or their young child; for all the guilt was his. He reminded her of the day he had given her the little locket and the ring with her christian name engraved upon it, and a blank left for that which he hoped one day to have bestowed upon her—prayed her yet to keep it, and wear it next her heart, as she had done before—and then ran on, wildly, in the same words, over and over again, as if he had gone distracted. I believe he had.”\n\n“The will,” said Mr. Brownlow, as Oliver’s tears fell fast.\n\nMonks was silent.\n\n“The will,” said Mr. Brownlow, speaking for him, “was in the same spirit as the letter. He talked of miseries which his wife had brought upon him; of the rebellious disposition, vice, malice, and premature bad passions of you his only son, who had been trained to hate him; and left you, and your mother, each an annuity of eight hundred pounds. The bulk of his property he divided into two equal portions—one for Agnes Fleming, and the other for their child, if it should be born alive, and ever come of age."
+      },
+      "request_id": "9daa874647c766f53d96ce37",
+      "request_sha256": "a36e0bb4b9a4beb4185046ce417de30d591d773ef980ab9a73cbccb580116412",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4865e35f00f7b2d53ffde6ed53c94e141959eef731791aa26b8057368c4c99b7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3726928d477e37360790b1c9",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_austen_persuasion_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 3726928d477e37360790b1c9\noriginal_word_count: 452\n\nPassage:\nSir Walter had taken a very good house in Camden Place, a lofty dignified situation, such as becomes a man of consequence; and both he and Elizabeth were settled there, much to their satisfaction.\n\nAnne entered it with a sinking heart, anticipating an imprisonment of many months, and anxiously saying to herself, “Oh! when shall I leave you again?” A degree of unexpected cordiality, however, in the welcome she received, did her good. Her father and sister were glad to see her, for the sake of shewing her the house and furniture, and met her with kindness. Her making a fourth, when they sat down to dinner, was noticed as an advantage.\n\nMrs Clay was very pleasant, and very smiling, but her courtesies and smiles were more a matter of course. Anne had always felt that she would pretend what was proper on her arrival, but the complaisance of the others was unlooked for. They were evidently in excellent spirits, and she was soon to listen to the causes. They had no inclination to listen to her. After laying out for some compliments of being deeply regretted in their old neighbourhood, which Anne could not pay, they had only a few faint enquiries to make, before the talk must be all their own. Uppercross excited no interest, Kellynch very little: it was all Bath.\n\nThey had the pleasure of assuring her that Bath more than answered their expectations in every respect. Their house was undoubtedly the best in Camden Place; their drawing-rooms had many decided advantages over all the others which they had either seen or heard of, and the superiority was not less in the style of the fitting-up, or the taste of the furniture. Their acquaintance was exceedingly sought after. Everybody was wanting to visit them. They had drawn back from many introductions, and still were perpetually having cards left by people of whom they knew nothing.\n\nHere were funds of enjoyment. Could Anne wonder that her father and sister were happy? She might not wonder, but she must sigh that her father should feel no degradation in his change, should see nothing to regret in the duties and dignity of the resident landholder, should find so much to be vain of in the littlenesses of a town; and she must sigh, and smile, and wonder too, as Elizabeth threw open the folding-doors and walked with exultation from one drawing-room to the other, boasting of their space; at the possibility of that woman, who had been mistress of Kellynch Hall, finding extent to be proud of between two walls, perhaps thirty feet asunder.\n\nBut this was not all which they had to make them happy. They had Mr Elliot too."
+      },
+      "request_id": "3726928d477e37360790b1c9",
+      "request_sha256": "f0f7270751d777fe9cad9dd10f2cda51b928740e48f621b0e76311849b4ad3da",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1c0e7e89c60ad7bb2b3a1d0f937bd74178c1d8a3f17636229d8cf024ed322d95"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "87cf3b84ce4ab105adf4f600",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_dickens_great_expectations_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 87cf3b84ce4ab105adf4f600\noriginal_word_count: 455\n\nPassage:\nNext day was appointed for the production (lest our honour should take cold from delay), and next day Drummle appeared with a polite little avowal in Estella’s hand, that she had had the honour of dancing with him several times. This left me no course but to regret that I had been “betrayed into a warmth which,” and on the whole to repudiate, as untenable, the idea that I was to be found anywhere. Drummle and I then sat snorting at one another for an hour, while the Grove engaged in indiscriminate contradiction, and finally the promotion of good feeling was declared to have gone ahead at an amazing rate.\n\nI tell this lightly, but it was no light thing to me. For, I cannot adequately express what pain it gave me to think that Estella should show any favour to a contemptible, clumsy, sulky booby, so very far below the average. To the present moment, I believe it to have been referable to some pure fire of generosity and disinterestedness in my love for her, that I could not endure the thought of her stooping to that hound. No doubt I should have been miserable whomsoever she had favoured; but a worthier object would have caused me a different kind and degree of distress.\n\nIt was easy for me to find out, and I did soon find out, that Drummle had begun to follow her closely, and that she allowed him to do it. A little while, and he was always in pursuit of her, and he and I crossed one another every day. He held on, in a dull persistent way, and Estella held him on; now with encouragement, now with discouragement, now almost flattering him, now openly despising him, now knowing him very well, now scarcely remembering who he was.\n\nThe Spider, as Mr. Jaggers had called him, was used to lying in wait, however, and had the patience of his tribe. Added to that, he had a blockhead confidence in his money and in his family greatness, which sometimes did him good service,—almost taking the place of concentration and determined purpose. So, the Spider, doggedly watching Estella, outwatched many brighter insects, and would often uncoil himself and drop at the right nick of time.\n\nAt a certain Assembly Ball at Richmond (there used to be Assembly Balls at most places then), where Estella had outshone all other beauties, this blundering Drummle so hung about her, and with so much toleration on her part, that I resolved to speak to her concerning him. I took the next opportunity; which was when she was waiting for Mrs. Blandley to take her home, and was sitting apart among some flowers, ready to go."
+      },
+      "request_id": "87cf3b84ce4ab105adf4f600",
+      "request_sha256": "7275da3a3996625bae5badea76f35674feeddaeb8c12015280d456226dd829d9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9851a58cebdb4e2d5f0971e6d038cf9ab8c748ef76fb6f15b6677fa33f8afeac"
+    }
+  ],
+  "session_id": "01a0e847-b893-7c52-8311-f3acf99043e1",
+  "worker_id": "astra_l",
+  "worker_identity_sha256": "2c5da61879bebe3353fa66cda11e4cbc6ce4420d78f567ebeb859dde68cb1df4"
+}

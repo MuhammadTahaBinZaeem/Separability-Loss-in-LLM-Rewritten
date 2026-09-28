@@ -1,0 +1,68 @@
+{
+  "batch_id": "2fff176b0401f30daa3c",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:40:25.943473+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1a321ae34fe52a134558f7da",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_dickens_great_expectations_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 1a321ae34fe52a134558f7da\noriginal_word_count: 453\n\nPassage:\n“Joseph!! Joseph!!!” Thereupon he shook his head and tapped it, expressing his sense of deficiency in Joseph.\n\n“But my dear young friend,” said Mr. Pumblechook, “you must be hungry, you must be exhausted. Be seated. Here is a chicken had round from the Boar, here is a tongue had round from the Boar, here’s one or two little things had round from the Boar, that I hope you may not despise. But do I,” said Mr. Pumblechook, getting up again the moment after he had sat down, “see afore me, him as I ever sported with in his times of happy infancy? And may I—_may_ I—?”\n\nThis May I, meant might he shake hands? I consented, and he was fervent, and then sat down again.\n\n“Here is wine,” said Mr. Pumblechook. “Let us drink, Thanks to Fortune, and may she ever pick out her favourites with equal judgment! And yet I cannot,” said Mr. Pumblechook, getting up again, “see afore me One—and likewise drink to One—without again expressing—May I—_may_ I—?”\n\nI said he might, and he shook hands with me again, and emptied his glass and turned it upside down. I did the same; and if I had turned myself upside down before drinking, the wine could not have gone more direct to my head.\n\nMr. Pumblechook helped me to the liver wing, and to the best slice of tongue (none of those out-of-the-way No Thoroughfares of Pork now), and took, comparatively speaking, no care of himself at all. “Ah! poultry, poultry! You little thought,” said Mr. Pumblechook, apostrophising the fowl in the dish, “when you was a young fledgling, what was in store for you. You little thought you was to be refreshment beneath this humble roof for one as—Call it a weakness, if you will,” said Mr. Pumblechook, getting up again, “but may I? _may_ I—?”\n\nIt began to be unnecessary to repeat the form of saying he might, so he did it at once. How he ever did it so often without wounding himself with my knife, I don’t know.\n\n“And your sister,” he resumed, after a little steady eating, “which had the honour of bringing you up by hand! It’s a sad picter, to reflect that she’s no longer equal to fully understanding the honour. May—”\n\nI saw he was about to come at me again, and I stopped him.\n\n“We’ll drink her health,” said I.\n\n“Ah!” cried Mr. Pumblechook, leaning back in his chair, quite flaccid with admiration, “that’s the way you know ’em, sir!” (I don’t know who Sir was, but he certainly was not I, and there was no third person present); “that’s the way you know the noble-minded, sir!"
+      },
+      "request_id": "1a321ae34fe52a134558f7da",
+      "request_sha256": "f902dd31c1d43fca6fe2b2756c8bbe243bfe2a0dd478fbf355ee6ff4389f31ae",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a8eba07377de662432c6f8a560fa2314328669d77ac66751767a40b6811f433c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "bdbb6c1fc6121c9c922f03b7",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 476,
+      "passage_id": "V2_poe_hans_pfaal_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: bdbb6c1fc6121c9c922f03b7\noriginal_word_count: 476\n\nPassage:\n“By eight o’clock I had actually attained an elevation of seventeen miles above the surface of the earth. Thus it seemed to me evident that my rate of ascent was not only on the increase, but that the progression would have been apparent in a slight degree even had I not discharged the ballast which I did. The pains in my head and ears returned, at intervals, with violence, and I still continued to bleed occasionally at the nose; but, upon the whole, I suffered much less than might have been expected. I breathed, however, at every moment, with more and more difficulty, and each inhalation was attended with a troublesome spasmodic action of the chest. I now unpacked the condensing apparatus, and got it ready for immediate use.\n\n“The view of the earth, at this period of my ascension, was beautiful indeed. To the westward, the northward, and the southward, as far as I could see, lay a boundless sheet of apparently unruffled ocean, which every moment gained a deeper and a deeper tint of blue and began already to assume a slight appearance of convexity. At a vast distance to the eastward, although perfectly discernible, extended the islands of Great Britain, the entire Atlantic coasts of France and Spain, with a small portion of the northern part of the continent of Africa. Of individual edifices not a trace could be discovered, and the proudest cities of mankind had utterly faded away from the face of the earth. From the rock of Gibraltar, now dwindled into a dim speck, the dark Mediterranean sea, dotted with shining islands as the heaven is dotted with stars, spread itself out to the eastward as far as my vision extended, until its entire mass of waters seemed at length to tumble headlong over the abyss of the horizon, and I found myself listening on tiptoe for the echoes of the mighty cataract. Overhead, the sky was of a jetty black, and the stars were brilliantly visible.\n\n“The pigeons about this time seeming to undergo much suffering, I determined upon giving them their liberty. I first untied one of them, a beautiful gray-mottled pigeon, and placed him upon the rim of the wicker-work. He appeared extremely uneasy, looking anxiously around him, fluttering his wings, and making a loud cooing noise, but could not be persuaded to trust himself from off the car. I took him up at last, and threw him to about half a dozen yards from the balloon. He made, however, no attempt to descend as I had expected, but struggled with great vehemence to get back, uttering at the same time very shrill and piercing cries. He at length succeeded in regaining his former station on the rim, but had hardly done so when his head dropped upon his breast, and he fell dead within the car."
+      },
+      "request_id": "bdbb6c1fc6121c9c922f03b7",
+      "request_sha256": "604b9db663cda4699593f99e2ed7ce0c8693abea7f37634fd560151adc3c9315",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "516f4164ccc24a01ac303bf5a363d57289aefb01f58f4db1d1b9c8e6bd0b35e2"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6c1d01f17aedde27acd845e5",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V3_twain_connecticut_yankee_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 6c1d01f17aedde27acd845e5\noriginal_word_count: 457\n\nPassage:\nIt seemed to me that this quaint lie was most simply and beautifully told; but then I had heard it only once, and that makes a difference; it was pleasant to the others when it was fresh, no doubt.\n\nSir Dinadan the Humorist was the first to awake, and he soon roused the rest with a practical joke of a sufficiently poor quality. He tied some metal mugs to a dog's tail and turned him loose, and he tore around and around the place in a frenzy of fright, with all the other dogs bellowing after him and battering and crashing against everything that came in their way and making altogether a chaos of confusion and a most deafening din and turmoil; at which every man and woman of the multitude laughed till the tears flowed, and some fell out of their chairs and wallowed on the floor in ecstasy. It was just like so many children. Sir Dinadan was so proud of his exploit that he could not keep from telling over and over again, to weariness, how the immortal idea happened to occur to him; and as is the way with humorists of his breed, he was still laughing at it after everybody else had got through. He was so set up that he concluded to make a speech --of course a humorous speech. I think I never heard so many old played-out jokes strung together in my life. He was worse than the minstrels, worse than the clown in the circus. It seemed peculiarly sad to sit here, thirteen hundred years before I was born, and listen again to poor, flat, worm-eaten jokes that had given me the dry gripes when I was a boy thirteen hundred years afterwards. It about convinced me that there isn't any such thing as a new joke possible. Everybody laughed at these antiquities --but then they always do; I had noticed that, centuries later. However, of course the scoffer didn't laugh--I mean the boy. No, he scoffed; there wasn't anything he wouldn't scoff at. He said the most of Sir Dinadan's jokes were rotten and the rest were petrified. I said “petrified” was good; as I believed, myself, that the only right way to classify the majestic ages of some of those jokes was by geologic periods. But that neat idea hit the boy in a blank place, for geology hadn't been invented yet. However, I made a note of the remark, and calculated to educate the commonwealth up to it if I pulled through. It is no use to throw a good thing away merely because the market isn't ripe yet.\n\nNow Sir Kay arose and began to fire up on his history-mill with me for fuel."
+      },
+      "request_id": "6c1d01f17aedde27acd845e5",
+      "request_sha256": "f3e39752fa85559f0847c916bfe8df6fc4d718c274b4ac2a33c80daa98e38e16",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8f198e4c900073c6358855feba8b15322fb7837f34c783f8d997383f7d789a0e"
+    }
+  ],
+  "session_id": "01a0e83d-ac82-75d0-a392-9c53b7dc0442",
+  "worker_id": "astra_k",
+  "worker_identity_sha256": "422750a9fc253bc1ace58d43156fd122722e4dcc870654c7f3796645edd88607"
+}

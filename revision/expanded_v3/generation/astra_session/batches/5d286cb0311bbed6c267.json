@@ -1,0 +1,68 @@
+{
+  "batch_id": "5d286cb0311bbed6c267",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:53:35.380694+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "55ed69e04e8ea87a6f4ad82c",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_twain_huckleberry_finn_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 55ed69e04e8ea87a6f4ad82c\noriginal_word_count: 451\n\nPassage:\nWake up by-and-by, and look to see what done it, and maybe see a steamboat coughing along up-stream, so far off towards the other side you couldn’t tell nothing about her only whether she was a stern-wheel or side-wheel; then for about an hour there wouldn’t be nothing to hear nor nothing to see—just solid lonesomeness. Next you’d see a raft sliding by, away off yonder, and maybe a galoot on it chopping, because they’re most always doing it on a raft; you’d see the axe flash and come down—you don’t hear nothing; you see that axe go up again, and by the time it’s above the man’s head then you hear the _k’chunk!_—it had took all that time to come over the water. So we would put in the day, lazying around, listening to the stillness. Once there was a thick fog, and the rafts and things that went by was beating tin pans so the steamboats wouldn’t run over them. A scow or a raft went by so close we could hear them talking and cussing and laughing—heard them plain; but we couldn’t see no sign of them; it made you feel crawly; it was like spirits carrying on that way in the air. Jim said he believed it was spirits; but I says:\n\n“No; spirits wouldn’t say, ‘Dern the dern fog.’”\n\nSoon as it was night out we shoved; when we got her out to about the middle we let her alone, and let her float wherever the current wanted her to; then we lit the pipes, and dangled our legs in the water, and talked about all kinds of things—we was always naked, day and night, whenever the mosquitoes would let us—the new clothes Buck’s folks made for me was too good to be comfortable, and besides I didn’t go much on clothes, nohow.\n\nSometimes we’d have that whole river all to ourselves for the longest time. Yonder was the banks and the islands, across the water; and maybe a spark—which was a candle in a cabin window; and sometimes on the water you could see a spark or two—on a raft or a scow, you know; and maybe you could hear a fiddle or a song coming over from one of them crafts. It’s lovely to live on a raft. We had the sky up there, all speckled with stars, and we used to lay on our backs and look up at them, and discuss about whether they was made or only just happened. Jim he allowed they was made, but I allowed they happened; I judged it would have took too long to _make_ so many."
+      },
+      "request_id": "55ed69e04e8ea87a6f4ad82c",
+      "request_sha256": "6f9bd06d25dd7cfd9032e5bcab37257fea25576daaf5b9214db58c2113317acf",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b2343de0cf457566839fc8e7436b318029c5905ba5a411dada06ed7e60b4d03c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "26af782494bc7141403664bb",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 26af782494bc7141403664bb\noriginal_word_count: 451\n\nPassage:\nThe studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn.\n\nFrom the corner of the divan of Persian saddle-bags on which he was lying, smoking, as was his custom, innumerable cigarettes, Lord Henry Wotton could just catch the gleam of the honey-sweet and honey-coloured blossoms of a laburnum, whose tremulous branches seemed hardly able to bear the burden of a beauty so flamelike as theirs; and now and then the fantastic shadows of birds in flight flitted across the long tussore-silk curtains that were stretched in front of the huge window, producing a kind of momentary Japanese effect, and making him think of those pallid, jade-faced painters of Tokyo who, through the medium of an art that is necessarily immobile, seek to convey the sense of swiftness and motion. The sullen murmur of the bees shouldering their way through the long unmown grass, or circling with monotonous insistence round the dusty gilt horns of the straggling woodbine, seemed to make the stillness more oppressive. The dim roar of London was like the bourdon note of a distant organ.\n\nIn the centre of the room, clamped to an upright easel, stood the full-length portrait of a young man of extraordinary personal beauty, and in front of it, some little distance away, was sitting the artist himself, Basil Hallward, whose sudden disappearance some years ago caused, at the time, such public excitement and gave rise to so many strange conjectures.\n\nAs the painter looked at the gracious and comely form he had so skilfully mirrored in his art, a smile of pleasure passed across his face, and seemed about to linger there. But he suddenly started up, and closing his eyes, placed his fingers upon the lids, as though he sought to imprison within his brain some curious dream from which he feared he might awake.\n\n“It is your best work, Basil, the best thing you have ever done,” said Lord Henry languidly. “You must certainly send it next year to the Grosvenor. The Academy is too large and too vulgar. Whenever I have gone there, there have been either so many people that I have not been able to see the pictures, which was dreadful, or so many pictures that I have not been able to see the people, which was worse. The Grosvenor is really the only place.”\n\n“I don’t think I shall send it anywhere,” he answered, tossing his head back in that odd way that used to make his friends laugh at him at Oxford."
+      },
+      "request_id": "26af782494bc7141403664bb",
+      "request_sha256": "4115053c10b940d39e0add63f28c4b84b85eb8cdda8dad352d12fa1a1e7a1658",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e113594331bf76d9a6673249e58e7ac80d15b7c6806ccac15c1dd529df66f7d8"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d5938494109a8ec6549c1cae",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_pride_and_prejudice_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: d5938494109a8ec6549c1cae\noriginal_word_count: 465\n\nPassage:\nBut it is of small importance.”\n\n“I might as well inquire,” replied she, “why, with so evident a design of offending and insulting me, you chose to tell me that you liked me against your will, against your reason, and even against your character? Was not this some excuse for incivility, if I _was_ uncivil? But I have other provocations. You know I have. Had not my own feelings decided against you, had they been indifferent, or had they even been favourable, do you think that any consideration would tempt me to accept the man who has been the means of ruining, perhaps for ever, the happiness of a most beloved sister?”\n\nAs she pronounced these words, Mr. Darcy changed colour; but the emotion was short, and he listened without attempting to interrupt her while she continued,--\n\n“I have every reason in the world to think ill of you. No motive can excuse the unjust and ungenerous part you acted _there_. You dare not, you cannot deny that you have been the principal, if not the only means of dividing them from each other, of exposing one to the censure of the world for caprice and instability, the other to its derision for disappointed hopes, and involving them both in misery of the acutest kind.”\n\nShe paused, and saw with no slight indignation that he was listening with an air which proved him wholly unmoved by any feeling of remorse. He even looked at her with a smile of affected incredulity.\n\n“Can you deny that you have done it?” she repeated.\n\nWith assumed tranquillity he then replied, “I have no wish of denying that I did everything in my power to separate my friend from your sister, or that I rejoice in my success. Towards _him_ I have been kinder than towards myself.”\n\nElizabeth disdained the appearance of noticing this civil reflection, but its meaning did not escape, nor was it likely to conciliate her.\n\n“But it is not merely this affair,” she continued, “on which my dislike is founded. Long before it had taken place, my opinion of you was decided. Your character was unfolded in the recital which I received many months ago from Mr. Wickham. On this subject, what can you have to say? In what imaginary act of friendship can you here defend yourself? or under what misrepresentation can you here impose upon others?”\n\n“You take an eager interest in that gentleman’s concerns,” said Darcy, in a less tranquil tone, and with a heightened colour.\n\n“Who that knows what his misfortunes have been can help feeling an interest in him?”\n\n“His misfortunes!” repeated Darcy, contemptuously,--“yes, his misfortunes have been great indeed.”\n\n“And of your infliction,” cried Elizabeth, with energy; “You have reduced him to his present state of poverty--comparative poverty."
+      },
+      "request_id": "d5938494109a8ec6549c1cae",
+      "request_sha256": "354ffa58659667437846745e13bd400248940d84b8f193433632f3e4e8a770c4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "409d6fafe5614d0db79824448c3a550448fa60fe6247e7de8d5d532052a771b5"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

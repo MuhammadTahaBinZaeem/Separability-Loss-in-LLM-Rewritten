@@ -1,0 +1,68 @@
+{
+  "batch_id": "03ebcf04ec3646829221",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:10:49.008174+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "07ee9fbdbb0023cf504cecff",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 476,
+      "passage_id": "V2_poe_hans_pfaal_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 07ee9fbdbb0023cf504cecff\noriginal_word_count: 476\n\nPassage:\n“By eight o’clock I had actually attained an elevation of seventeen miles above the surface of the earth. Thus it seemed to me evident that my rate of ascent was not only on the increase, but that the progression would have been apparent in a slight degree even had I not discharged the ballast which I did. The pains in my head and ears returned, at intervals, with violence, and I still continued to bleed occasionally at the nose; but, upon the whole, I suffered much less than might have been expected. I breathed, however, at every moment, with more and more difficulty, and each inhalation was attended with a troublesome spasmodic action of the chest. I now unpacked the condensing apparatus, and got it ready for immediate use.\n\n“The view of the earth, at this period of my ascension, was beautiful indeed. To the westward, the northward, and the southward, as far as I could see, lay a boundless sheet of apparently unruffled ocean, which every moment gained a deeper and a deeper tint of blue and began already to assume a slight appearance of convexity. At a vast distance to the eastward, although perfectly discernible, extended the islands of Great Britain, the entire Atlantic coasts of France and Spain, with a small portion of the northern part of the continent of Africa. Of individual edifices not a trace could be discovered, and the proudest cities of mankind had utterly faded away from the face of the earth. From the rock of Gibraltar, now dwindled into a dim speck, the dark Mediterranean sea, dotted with shining islands as the heaven is dotted with stars, spread itself out to the eastward as far as my vision extended, until its entire mass of waters seemed at length to tumble headlong over the abyss of the horizon, and I found myself listening on tiptoe for the echoes of the mighty cataract. Overhead, the sky was of a jetty black, and the stars were brilliantly visible.\n\n“The pigeons about this time seeming to undergo much suffering, I determined upon giving them their liberty. I first untied one of them, a beautiful gray-mottled pigeon, and placed him upon the rim of the wicker-work. He appeared extremely uneasy, looking anxiously around him, fluttering his wings, and making a loud cooing noise, but could not be persuaded to trust himself from off the car. I took him up at last, and threw him to about half a dozen yards from the balloon. He made, however, no attempt to descend as I had expected, but struggled with great vehemence to get back, uttering at the same time very shrill and piercing cries. He at length succeeded in regaining his former station on the rim, but had hardly done so when his head dropped upon his breast, and he fell dead within the car."
+      },
+      "request_id": "07ee9fbdbb0023cf504cecff",
+      "request_sha256": "84c8547b2d5a43fd3405106fa9167c99e498870bf7b84d954290b7d5cb2cf44a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "516f4164ccc24a01ac303bf5a363d57289aefb01f58f4db1d1b9c8e6bd0b35e2"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "426de81b9f4ab5526a782613",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_poe_murders_rue_morgue_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 426de81b9f4ab5526a782613\noriginal_word_count: 457\n\nPassage:\nEach likens it—not to the voice of an individual of any nation with whose language he is conversant—but the converse. The Frenchman supposes it the voice of a Spaniard, and ‘might have distinguished some words _had he been acquainted with the Spanish._’ The Dutchman maintains it to have been that of a Frenchman; but we find it stated that ‘_not understanding French this witness was examined through an interpreter._’ The Englishman thinks it the voice of a German, and ‘_does not understand German._’ The Spaniard ‘is sure’ that it was that of an Englishman, but ‘judges by the intonation’ altogether, ‘_as he has no knowledge of the English._’ The Italian believes it the voice of a Russian, but ‘_has never conversed with a native of Russia._’ A second Frenchman differs, moreover, with the first, and is positive that the voice was that of an Italian; but, _not being cognizant of that tongue_, is, like the Spaniard, ‘convinced by the intonation.’ Now, how strangely unusual must that voice have really been, about which such testimony as this _could_ have been elicited!—in whose _tones_, even, denizens of the five great divisions of Europe could recognise nothing familiar! You will say that it might have been the voice of an Asiatic—of an African. Neither Asiatics nor Africans abound in Paris; but, without denying the inference, I will now merely call your attention to three points. The voice is termed by one witness ‘harsh rather than shrill.’ It is represented by two others to have been ‘quick and _unequal._’ No words—no sounds resembling words—were by any witness mentioned as distinguishable.\n\n“I know not,” continued Dupin, “what impression I may have made, so far, upon your own understanding; but I do not hesitate to say that legitimate deductions even from this portion of the testimony—the portion respecting the gruff and shrill voices—are in themselves sufficient to engender a suspicion which should give direction to all farther progress in the investigation of the mystery. I said ‘legitimate deductions;’ but my meaning is not thus fully expressed. I designed to imply that the deductions are the _sole_ proper ones, and that the suspicion arises _inevitably_ from them as the single result. What the suspicion is, however, I will not say just yet. I merely wish you to bear in mind that, with myself, it was sufficiently forcible to give a definite form—a certain tendency—to my inquiries in the chamber.\n\n“Let us now transport ourselves, in fancy, to this chamber. What shall we first seek here? The means of egress employed by the murderers. It is not too much to say that neither of us believe in præternatural events."
+      },
+      "request_id": "426de81b9f4ab5526a782613",
+      "request_sha256": "e939f20da1be737cc47504e094e454e8b38e6f4670938d29c2c9e28e2198ea52",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0f88da859568460fece1b1ef3d9b70d7a3a03b8bc47868b3e3fcb85a8014928a"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "99c02c3ea1cac6cf82b2a35c",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 469,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 99c02c3ea1cac6cf82b2a35c\noriginal_word_count: 469\n\nPassage:\nMR. Merton was a good deal distressed at the second postponement of the marriage, and Lady Julia, who had already ordered her dress for the wedding, did all in her power to make Sybil break off the match. Dearly, however, as Sybil loved her mother, she had given her whole life into Lord Arthur’s hands, and nothing that Lady Julia could say could make her waver in her faith. As for Lord Arthur himself, it took him days to get over his terrible disappointment, and for a time his nerves were completely unstrung. His excellent common sense, however, soon asserted itself, and his sound, practical mind did not leave him long in doubt about what to do. Poison having proved a complete failure, dynamite, or some other form of explosive, was obviously the proper thing to try.\n\nHe accordingly looked again over the list of his friends and relatives, and, after careful consideration, determined to blow up his uncle, the Dean of Chichester. The Dean, who was a man of great culture and learning, was extremely fond of clocks, and had a wonderful collection of timepieces, ranging from the fifteenth century to the present day, and it seemed to Lord Arthur that this hobby of the good Dean’s offered him an excellent opportunity for carrying out his scheme. Where to procure an explosive machine was, of course, quite another matter. The London Directory gave him no information on the point, and he felt that there was very little use in going to Scotland Yard about it, as they never seemed to know anything about the movements of the dynamite faction till after an explosion had taken place, and not much even then.\n\nSuddenly he thought of his friend Rouvaloff, a young Russian of very revolutionary tendencies, whom he had met at Lady Windermere’s in the winter. Count Rouvaloff was supposed to be writing a life of Peter the Great, and to have come over to England for the purpose of studying the documents relating to that Tsar’s residence in this country as a ship carpenter; but it was generally suspected that he was a Nihilist agent, and there was no doubt that the Russian Embassy did not look with any favour upon his presence in London. Lord Arthur felt that he was just the man for his purpose, and drove down one morning to his lodgings in Bloomsbury, to ask his advice and assistance.\n\n‘So you are taking up politics seriously?’ said Count Rouvaloff, when Lord Arthur had told him the object of his mission; but Lord Arthur, who hated swagger of any kind, felt bound to admit to him that he had not the slightest interest in social questions, and simply wanted the explosive machine for a purely family matter, in which no one was concerned but himself."
+      },
+      "request_id": "99c02c3ea1cac6cf82b2a35c",
+      "request_sha256": "c3c2ca71bb8a8c7badd951c477693159b2105a5da8e79ba542d3b7bfa6bb4413",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "042839af64933edd39563c13a0961135ed7b8cead7a018085516fb4101a0512b"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

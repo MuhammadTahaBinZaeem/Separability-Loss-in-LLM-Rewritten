@@ -1,0 +1,68 @@
+{
+  "batch_id": "b4f72e3121a110d65dbb",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:07:36.546745+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1ae8518ae6b972460e095512",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 502,
+      "passage_id": "V2_poe_murders_rue_morgue_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 1ae8518ae6b972460e095512\noriginal_word_count: 502\n\nPassage:\nDeprived of ordinary resources, the analyst throws himself into the spirit of his opponent, identifies himself therewith, and not unfrequently sees thus, at a glance, the sole methods (sometime indeed absurdly simple ones) by which he may seduce into error or hurry into miscalculation.\n\nWhist has long been noted for its influence upon what is termed the calculating power; and men of the highest order of intellect have been known to take an apparently unaccountable delight in it, while eschewing chess as frivolous. Beyond doubt there is nothing of a similar nature so greatly tasking the faculty of analysis. The best chess-player in Christendom _may_ be little more than the best player of chess; but proficiency in whist implies capacity for success in all those more important undertakings where mind struggles with mind. When I say proficiency, I mean that perfection in the game which includes a comprehension of _all_ the sources whence legitimate advantage may be derived. These are not only manifold but multiform, and lie frequently among recesses of thought altogether inaccessible to the ordinary understanding. To observe attentively is to remember distinctly; and, so far, the concentrative chess-player will do very well at whist; while the rules of Hoyle (themselves based upon the mere mechanism of the game) are sufficiently and generally comprehensible. Thus to have a retentive memory, and to proceed by “the book,” are points commonly regarded as the sum total of good playing. But it is in matters beyond the limits of mere rule that the skill of the analyst is evinced. He makes, in silence, a host of observations and inferences. So, perhaps, do his companions; and the difference in the extent of the information obtained, lies not so much in the validity of the inference as in the quality of the observation. The necessary knowledge is that of _what_ to observe. Our player confines himself not at all; nor, because the game is the object, does he reject deductions from things external to the game. He examines the countenance of his partner, comparing it carefully with that of each of his opponents. He considers the mode of assorting the cards in each hand; often counting trump by trump, and honor by honor, through the glances bestowed by their holders upon each. He notes every variation of face as the play progresses, gathering a fund of thought from the differences in the expression of certainty, of surprise, of triumph, or of chagrin. From the manner of gathering up a trick he judges whether the person taking it can make another in the suit. He recognises what is played through feint, by the manner with which it is thrown upon the table. A casual or inadvertent word; the accidental dropping or turning of a card, with the accompanying anxiety or carelessness in regard to its concealment; the counting of the tricks, with the order of their arrangement; embarrassment, hesitation, eagerness or trepidation—all afford, to his apparently intuitive perception, indications of the true state of affairs."
+      },
+      "request_id": "1ae8518ae6b972460e095512",
+      "request_sha256": "c0b611fc1285fe82067a29c77581cf3cf2c08bef177e59434b8a30f33c53b629",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0e7afc2bebf3002079c5dd398dd2dd1e7459a02d06bcf76f3099c6926446a363"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "361d5e42a0e27225002f9cac",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_poe_hans_pfaal_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 361d5e42a0e27225002f9cac\noriginal_word_count: 459\n\nPassage:\nI now bored a hole in the end of the keg over the pitcher, and fitted in a plug of soft wood, cut in a tapering or conical shape. This plug I pushed in or pulled out, as might happen, until, after a few experiments, it arrived at that exact degree of tightness, at which the water, oozing from the hole, and falling into the pitcher below, would fill the latter to the brim in the period of sixty minutes. This, of course, was a matter briefly and easily ascertained, by noticing the proportion of the pitcher filled in any given time. Having arranged all this, the rest of the plan is obvious. My bed was so contrived upon the floor of the car, as to bring my head, in lying down, immediately below the mouth of the pitcher. It was evident, that, at the expiration of an hour, the pitcher, getting full, would be forced to run over, and to run over at the mouth, which was somewhat lower than the rim. It was also evident, that the water thus falling from a height of more than four feet, could not do otherwise than fall upon my face, and that the sure consequences would be, to waken me up instantaneously, even from the soundest slumber in the world.\n\n“It was fully eleven by the time I had completed these arrangements, and I immediately betook myself to bed, with full confidence in the efficiency of my invention. Nor in this matter was I disappointed. Punctually every sixty minutes was I aroused by my trusty chronometer, when, having emptied the pitcher into the bung-hole of the keg, and performed the duties of the condenser, I retired again to bed. These regular interruptions to my slumber caused me even less discomfort than I had anticipated; and when I finally arose for the day, it was seven o’clock, and the sun had attained many degrees above the line of my horizon.\n\n“April 3d. I found the balloon at an immense height indeed, and the earth’s apparent convexity increased in a material degree. Below me in the ocean lay a cluster of black specks, which undoubtedly were islands. Far away to the northward I perceived a thin, white, and exceedingly brilliant line, or streak, on the edge of the horizon, and I had no hesitation in supposing it to be the southern disk of the ices of the Polar Sea. My curiosity was greatly excited, for I had hopes of passing on much farther to the north, and might possibly, at some period, find myself placed directly above the Pole itself. I now lamented that my great elevation would, in this case, prevent my taking as accurate a survey as I could wish."
+      },
+      "request_id": "361d5e42a0e27225002f9cac",
+      "request_sha256": "f52b19a17b552038fb79fe015da0302eda1ec5200ddbcef5df55f0b468ef1b3a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4d252635fa67ba4c7d8065dbd9817dbead02563c625b4596c028459ea5c358b2"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "867c1e3be9efc4b38c82934c",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 486,
+      "passage_id": "V2_austen_pride_and_prejudice_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 867c1e3be9efc4b38c82934c\noriginal_word_count: 486\n\nPassage:\nThe two ladies were delighted to see their dear friend again, called it an age since they had met, and repeatedly asked what she had been doing with herself since their separation. To the rest of the family they paid little attention; avoiding Mrs. Bennet as much as possible, saying not much to Elizabeth, and nothing at all to the others. They were soon gone again, rising from their seats with an activity which took their brother by surprise, and hurrying off as if eager to escape from Mrs. Bennet’s civilities.\n\nThe prospect of the Netherfield ball was extremely agreeable to every female of the family. Mrs. Bennet chose to consider it as given in compliment to her eldest daughter, and was particularly flattered by receiving the invitation from Mr. Bingley himself, instead of a ceremonious card. Jane pictured to herself a happy evening in the society of her two friends, and the attentions of their brother; and Elizabeth thought with pleasure of dancing a great deal with Mr. Wickham, and of seeing a confirmation of everything in Mr. Darcy’s look and behaviour. The happiness anticipated by Catherine and Lydia depended less on any single event, or any particular person; for though they each, like Elizabeth, meant to dance half the evening with Mr. Wickham, he was by no means the only partner who could satisfy them, and a ball was, at any rate, a ball. And even Mary could assure her family that she had no disinclination for it.\n\n“While I can have my mornings to myself,” said she, “it is enough. I think it is no sacrifice to join occasionally in evening engagements. Society has claims on us all; and I profess myself one of those who consider intervals of recreation and amusement as desirable for everybody.”\n\nElizabeth’s spirits were so high on the occasion, that though she did not often speak unnecessarily to Mr. Collins, she could not help asking him whether he intended to accept Mr. Bingley’s invitation, and if he did, whether he would think it proper to join in the evening’s amusement; and she was rather surprised to find that he entertained no scruple whatever on that head, and was very far from dreading a rebuke, either from the Archbishop or Lady Catherine de Bourgh, by venturing to dance.\n\n“I am by no means of opinion, I assure you,” said he, “that a ball of this kind, given by a young man of character, to respectable people, can have any evil tendency; and I am so far from objecting to dancing myself, that I shall hope to be honoured with the hands of all my fair cousins in the course of the evening; and I take this opportunity of soliciting yours, Miss Elizabeth, for the two first dances especially; a preference which I trust my cousin Jane will attribute to the right cause, and not to any disrespect for her.”"
+      },
+      "request_id": "867c1e3be9efc4b38c82934c",
+      "request_sha256": "9784ed664cac7cf13093715a5d0ac669e5ae302c166fa62b0cb823f13519f4f6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a98359c6fe60f40dfa7b2fc3062450fefa9f1e1d920934e46200ec4a0bce8fca"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

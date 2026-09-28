@@ -1,0 +1,68 @@
+{
+  "batch_id": "a94f79026ba60755c459",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:29:37.391839+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c76440c267590c0c2c29e834",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 502,
+      "passage_id": "V2_poe_murders_rue_morgue_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: c76440c267590c0c2c29e834\noriginal_word_count: 502\n\nPassage:\nDeprived of ordinary resources, the analyst throws himself into the spirit of his opponent, identifies himself therewith, and not unfrequently sees thus, at a glance, the sole methods (sometime indeed absurdly simple ones) by which he may seduce into error or hurry into miscalculation.\n\nWhist has long been noted for its influence upon what is termed the calculating power; and men of the highest order of intellect have been known to take an apparently unaccountable delight in it, while eschewing chess as frivolous. Beyond doubt there is nothing of a similar nature so greatly tasking the faculty of analysis. The best chess-player in Christendom _may_ be little more than the best player of chess; but proficiency in whist implies capacity for success in all those more important undertakings where mind struggles with mind. When I say proficiency, I mean that perfection in the game which includes a comprehension of _all_ the sources whence legitimate advantage may be derived. These are not only manifold but multiform, and lie frequently among recesses of thought altogether inaccessible to the ordinary understanding. To observe attentively is to remember distinctly; and, so far, the concentrative chess-player will do very well at whist; while the rules of Hoyle (themselves based upon the mere mechanism of the game) are sufficiently and generally comprehensible. Thus to have a retentive memory, and to proceed by “the book,” are points commonly regarded as the sum total of good playing. But it is in matters beyond the limits of mere rule that the skill of the analyst is evinced. He makes, in silence, a host of observations and inferences. So, perhaps, do his companions; and the difference in the extent of the information obtained, lies not so much in the validity of the inference as in the quality of the observation. The necessary knowledge is that of _what_ to observe. Our player confines himself not at all; nor, because the game is the object, does he reject deductions from things external to the game. He examines the countenance of his partner, comparing it carefully with that of each of his opponents. He considers the mode of assorting the cards in each hand; often counting trump by trump, and honor by honor, through the glances bestowed by their holders upon each. He notes every variation of face as the play progresses, gathering a fund of thought from the differences in the expression of certainty, of surprise, of triumph, or of chagrin. From the manner of gathering up a trick he judges whether the person taking it can make another in the suit. He recognises what is played through feint, by the manner with which it is thrown upon the table. A casual or inadvertent word; the accidental dropping or turning of a card, with the accompanying anxiety or carelessness in regard to its concealment; the counting of the tricks, with the order of their arrangement; embarrassment, hesitation, eagerness or trepidation—all afford, to his apparently intuitive perception, indications of the true state of affairs."
+      },
+      "request_id": "c76440c267590c0c2c29e834",
+      "request_sha256": "ef5d234171d4791a8c5a6301bd46dbbe344155c870b077a9054b530ce28afc47",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0e7afc2bebf3002079c5dd398dd2dd1e7459a02d06bcf76f3099c6926446a363"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a938e5c0eaf435f03097e233",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_dickens_oliver_twist_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: a938e5c0eaf435f03097e233\noriginal_word_count: 485\n\nPassage:\nMatters being thus amicably and satisfactorily arranged, the contract was solemnly ratified in another teacupful of the peppermint mixture; which was rendered the more necessary, by the flutter and agitation of the lady’s spirits. While it was being disposed of, she acquainted Mr. Bumble with the old woman’s decease.\n\n“Very good,” said that gentleman, sipping his peppermint; “I’ll call at Sowerberry’s as I go home, and tell him to send tomorrow morning. Was it that as frightened you, love?”\n\n“It wasn’t anything particular, dear,” said the lady evasively.\n\n“It must have been something, love,” urged Mr. Bumble. “Won’t you tell your own B.?”\n\n“Not now,” rejoined the lady; “one of these days. After we’re married, dear.”\n\n“After we’re married!” exclaimed Mr. Bumble. “It wasn’t any impudence from any of them male paupers as—”\n\n“No, no, love!” interposed the lady, hastily.\n\n“If I thought it was,” continued Mr. Bumble; “if I thought as any one of ’em had dared to lift his wulgar eyes to that lovely countenance—”\n\n“They wouldn’t have dared to do it, love,” responded the lady.\n\n“They had better not!” said Mr. Bumble, clenching his fist. “Let me see any man, porochial or extra-porochial, as would presume to do it; and I can tell him that he wouldn’t do it a second time!”\n\nUnembellished by any violence of gesticulation, this might have seemed no very high compliment to the lady’s charms; but, as Mr. Bumble accompanied the threat with many warlike gestures, she was much touched with this proof of his devotion, and protested, with great admiration, that he was indeed a dove.\n\nThe dove then turned up his coat-collar, and put on his cocked hat; and, having exchanged a long and affectionate embrace with his future partner, once again braved the cold wind of the night: merely pausing, for a few minutes, in the male paupers’ ward, to abuse them a little, with the view of satisfying himself that he could fill the office of workhouse-master with needful acerbity. Assured of his qualifications, Mr. Bumble left the building with a light heart, and bright visions of his future promotion: which served to occupy his mind until he reached the shop of the undertaker.\n\nNow, Mr. and Mrs. Sowerberry having gone out to tea and supper: and Noah Claypole not being at any time disposed to take upon himself a greater amount of physical exertion than is necessary to a convenient performance of the two functions of eating and drinking, the shop was not closed, although it was past the usual hour of shutting-up. Mr. Bumble tapped with his cane on the counter several times; but, attracting no attention, and beholding a light shining through the glass-window of the little parlour at the back of the shop, he made bold to peep in and see what was going forward; and when he saw what was going forward, he was not a little surprised."
+      },
+      "request_id": "a938e5c0eaf435f03097e233",
+      "request_sha256": "7fa52bbb15d2e84c2544d42bfcb2cb848029b4a57feecc0f663bc3dc3a7f906e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7d0ad7902a20b926194cf57c17bbec679bada66fdb36f320f2a719368ad2837f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b3bfdc8807ac399c3b602abe",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_austen_persuasion_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: b3bfdc8807ac399c3b602abe\noriginal_word_count: 473\n\nPassage:\nOn the morning appointed for Admiral and Mrs Croft’s seeing Kellynch Hall, Anne found it most natural to take her almost daily walk to Lady Russell’s, and keep out of the way till all was over; when she found it most natural to be sorry that she had missed the opportunity of seeing them.\n\nThis meeting of the two parties proved highly satisfactory, and decided the whole business at once. Each lady was previously well disposed for an agreement, and saw nothing, therefore, but good manners in the other; and with regard to the gentlemen, there was such an hearty good humour, such an open, trusting liberality on the Admiral’s side, as could not but influence Sir Walter, who had besides been flattered into his very best and most polished behaviour by Mr Shepherd’s assurances of his being known, by report, to the Admiral, as a model of good breeding.\n\nThe house and grounds, and furniture, were approved, the Crofts were approved, terms, time, every thing, and every body, was right; and Mr Shepherd’s clerks were set to work, without there having been a single preliminary difference to modify of all that “This indenture sheweth.”\n\nSir Walter, without hesitation, declared the Admiral to be the best-looking sailor he had ever met with, and went so far as to say, that if his own man might have had the arranging of his hair, he should not be ashamed of being seen with him any where; and the Admiral, with sympathetic cordiality, observed to his wife as they drove back through the park, “I thought we should soon come to a deal, my dear, in spite of what they told us at Taunton. The Baronet will never set the Thames on fire, but there seems to be no harm in him.”—reciprocal compliments, which would have been esteemed about equal.\n\nThe Crofts were to have possession at Michaelmas; and as Sir Walter proposed removing to Bath in the course of the preceding month, there was no time to be lost in making every dependent arrangement.\n\nLady Russell, convinced that Anne would not be allowed to be of any use, or any importance, in the choice of the house which they were going to secure, was very unwilling to have her hurried away so soon, and wanted to make it possible for her to stay behind till she might convey her to Bath herself after Christmas; but having engagements of her own which must take her from Kellynch for several weeks, she was unable to give the full invitation she wished, and Anne though dreading the possible heats of September in all the white glare of Bath, and grieving to forego all the influence so sweet and so sad of the autumnal months in the country, did not think that, everything considered, she wished to remain."
+      },
+      "request_id": "b3bfdc8807ac399c3b602abe",
+      "request_sha256": "013d32f42e85eeae7282dde4d6f4a41bf6ebf9f58b51de2e82acf08747eb2aa6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ed9412a75b97f71ae45fcdf2ab2d8a618ae2fe3ae3e15a66a6f934dc665c3d05"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

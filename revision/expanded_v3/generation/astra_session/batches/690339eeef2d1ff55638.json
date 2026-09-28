@@ -1,0 +1,68 @@
+{
+  "batch_id": "690339eeef2d1ff55638",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:25:16.070472+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "103cf34168b9b499e3507173",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_pride_and_prejudice_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 103cf34168b9b499e3507173\noriginal_word_count: 465\n\nPassage:\nAfter joining in general lamentations over the dreadful sequel of this event, which Elizabeth considered as all but certain, and Miss Bennet could not assert to be wholly impossible, the former continued the subject by saying, “But tell me all and everything about it which I have not already heard. Give me further particulars. What did Colonel Forster say? Had they no apprehension of anything before the elopement took place? They must have seen them together for ever.”\n\n“Colonel Forster did own that he had often suspected some partiality, especially on Lydia’s side, but nothing to give him any alarm. I am so grieved for him. His behaviour was attentive and kind to the utmost. He _was_ coming to us, in order to assure us of his concern, before he had any idea of their not being gone to Scotland: when that apprehension first got abroad, it hastened his journey.”\n\n“And was Denny convinced that Wickham would not marry? Did he know of their intending to go off? Had Colonel Forster seen Denny himself?”\n\n“Yes; but when questioned by _him_, Denny denied knowing anything of their plan, and would not give his real opinion about it. He did not repeat his persuasion of their not marrying, and from _that_ I am inclined to hope he might have been misunderstood before.”\n\n“And till Colonel Forster came himself, not one of you entertained a doubt, I suppose, of their being really married?”\n\n“How was it possible that such an idea should enter our brains? I felt a little uneasy--a little fearful of my sister’s happiness with him in marriage, because I knew that his conduct had not been always quite right. My father and mother knew nothing of that; they only felt how imprudent a match it must be. Kitty then owned, with a very natural triumph on knowing more than the rest of us, that in Lydia’s last letter she had prepared her for such a step. She had known, it seems, of their being in love with each other many weeks.”\n\n“But not before they went to Brighton?”\n\n“No, I believe not.”\n\n“And did Colonel Forster appear to think ill of Wickham himself? Does he know his real character?”\n\n“I must confess that he did not speak so well of Wickham as he formerly did. He believed him to be imprudent and extravagant; and since this sad affair has taken place, it is said that he left Meryton greatly in debt: but I hope this may be false.”\n\n“Oh, Jane, had we been less secret, had we told what we knew of him, this could not have happened!”\n\n“Perhaps it would have been better,” replied her sister.\n\n“But to expose the former faults of any person, without knowing what their present feelings were, seemed unjustifiable.”"
+      },
+      "request_id": "103cf34168b9b499e3507173",
+      "request_sha256": "73de21d2dde1a28fc0c8f7215fa7f4e71b17852446ed3db86f38cfdec7f4c9b4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c6022dc49370119593b084597bb732e504dbb91faaa47ad926e72669ec1812d0"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ff4abb2b32ea028d62f2396b",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_dickens_oliver_twist_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: ff4abb2b32ea028d62f2396b\noriginal_word_count: 460\n\nPassage:\nIf not, and you appeal to my forbearance, and the mercy of those you have deeply injured, seat yourself, without a word, in that chair. It has waited for you two whole days.”\n\nMonks muttered some unintelligible words, but wavered still.\n\n“You will be prompt,” said Mr. Brownlow. “A word from me, and the alternative has gone for ever.”\n\nStill the man hesitated.\n\n“I have not the inclination to parley,” said Mr. Brownlow, “and, as I advocate the dearest interests of others, I have not the right.”\n\n“Is there—” demanded Monks with a faltering tongue,—“is there—no middle course?”\n\n“None.”\n\nMonks looked at the old gentleman, with an anxious eye; but, reading in his countenance nothing but severity and determination, walked into the room, and, shrugging his shoulders, sat down.\n\n“Lock the door on the outside,” said Mr. Brownlow to the attendants, “and come when I ring.”\n\nThe men obeyed, and the two were left alone together.\n\n“This is pretty treatment, sir,” said Monks, throwing down his hat and cloak, “from my father’s oldest friend.”\n\n“It is because I was your father’s oldest friend, young man,” returned Mr. Brownlow; “it is because the hopes and wishes of young and happy years were bound up with him, and that fair creature of his blood and kindred who rejoined her God in youth, and left me here a solitary, lonely man: it is because he knelt with me beside his only sisters’s death-bed when he was yet a boy, on the morning that would—but Heaven willed otherwise—have made her my young wife; it is because my seared heart clung to him, from that time forth, through all his trials and errors, till he died; it is because old recollections and associations filled my heart, and even the sight of you brings with it old thoughts of him; it is because of all these things that I am moved to treat you gently now—yes, Edward Leeford, even now—and blush for your unworthiness who bear the name.”\n\n“What has the name to do with it?” asked the other, after contemplating, half in silence, and half in dogged wonder, the agitation of his companion. “What is the name to me?”\n\n“Nothing,” replied Mr. Brownlow, “nothing to you. But it was _hers_, and even at this distance of time brings back to me, an old man, the glow and thrill which I once felt, only to hear it repeated by a stranger. I am very glad you have changed it—very—very.”\n\n“This is all mighty fine,” said Monks (to retain his assumed designation) after a long silence, during which he had jerked himself in sullen defiance to and fro, and Mr. Brownlow had sat, shading his face with his hand."
+      },
+      "request_id": "ff4abb2b32ea028d62f2396b",
+      "request_sha256": "00a741d2016cd0c6c8893972644a23928a8289470547de212a9d12999a9ba54b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7bda9030d71e18d1faf13b7c08d788da60da5445399413b8d20d75fa7910d89c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e824a5043bc9a0cb09456f2a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e824a5043bc9a0cb09456f2a\noriginal_word_count: 481\n\nPassage:\n“_What’s_ the matter?”\n\n“Ten o’clock, sir.”\n\n“What do you mean? Ten o’clock at night?”\n\n“Yes, sir. Your honour told me to call you.”\n\n“Oh! I remember. Very well, very well.”\n\nAfter a few dull efforts to get to sleep again, which the man dexterously combated by stirring the fire continuously for five minutes, he got up, tossed his hat on, and walked out. He turned into the Temple, and, having revived himself by twice pacing the pavements of King’s Bench-walk and Paper-buildings, turned into the Stryver chambers.\n\nThe Stryver clerk, who never assisted at these conferences, had gone home, and the Stryver principal opened the door. He had his slippers on, and a loose bed-gown, and his throat was bare for his greater ease. He had that rather wild, strained, seared marking about the eyes, which may be observed in all free livers of his class, from the portrait of Jeffries downward, and which can be traced, under various disguises of Art, through the portraits of every Drinking Age.\n\n“You are a little late, Memory,” said Stryver.\n\n“About the usual time; it may be a quarter of an hour later.”\n\nThey went into a dingy room lined with books and littered with papers, where there was a blazing fire. A kettle steamed upon the hob, and in the midst of the wreck of papers a table shone, with plenty of wine upon it, and brandy, and rum, and sugar, and lemons.\n\n“You have had your bottle, I perceive, Sydney.”\n\n“Two to-night, I think. I have been dining with the day’s client; or seeing him dine--it’s all one!”\n\n“That was a rare point, Sydney, that you brought to bear upon the identification. How did you come by it? When did it strike you?”\n\n“I thought he was rather a handsome fellow, and I thought I should have been much the same sort of fellow, if I had had any luck.”\n\nMr. Stryver laughed till he shook his precocious paunch.\n\n“You and your luck, Sydney! Get to work, get to work.”\n\nSullenly enough, the jackal loosened his dress, went into an adjoining room, and came back with a large jug of cold water, a basin, and a towel or two. Steeping the towels in the water, and partially wringing them out, he folded them on his head in a manner hideous to behold, sat down at the table, and said, “Now I am ready!”\n\n“Not much boiling down to be done to-night, Memory,” said Mr. Stryver, gaily, as he looked among his papers.\n\n“How much?”\n\n“Only two sets of them.”\n\n“Give me the worst first.”\n\n“There they are, Sydney. Fire away!”\n\nThe lion then composed himself on his back on a sofa on one side of the drinking-table, while the jackal sat at his own paper-bestrewn table proper, on the other side of it, with the bottles and glasses ready to his hand."
+      },
+      "request_id": "e824a5043bc9a0cb09456f2a",
+      "request_sha256": "1dd180aad5bf056e27436224d430e09d6ef4a517fe0024b0b234ada279df1798",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d9830cec6819d4cad95ec95d5b48080e2a431bfbc5f7c59f0d2f02b9d34e412b"
+    }
+  ],
+  "session_id": "01a0e866-9bf1-7e03-8d89-34a75a5436e8",
+  "worker_id": "astra_v",
+  "worker_identity_sha256": "0b2b5de575a91a248a2d744e77077f7abb92d61d159b0293192af3288b1ff4f6"
+}

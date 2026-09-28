@@ -1,0 +1,68 @@
+{
+  "batch_id": "fdf1591c1c8f18d6ce46",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:45:43.672244+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "63c12ec47d6176d0c38de1d6",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 63c12ec47d6176d0c38de1d6\noriginal_word_count: 450\n\nPassage:\n‘Well, _monsieur le mauvais sujet_,’ cried the old lady, as he entered the room, ‘why haven’t you been to see me all this time?’\n\n‘My dear Lady Clem, I never have a moment to myself,’ said Lord Arthur, smiling.\n\n‘I suppose you mean that you go about all day long with Miss Sybil Merton, buying _chiffons_ and talking nonsense? I cannot understand why people make such a fuss about being married. In my day we never dreamed of billing and cooing in public, or in private for that matter.’\n\n‘I assure you I have not seen Sybil for twenty-four hours, Lady Clem. As far as I can make out, she belongs entirely to her milliners.’\n\n‘Of course; that is the only reason you come to see an ugly old woman like myself. I wonder you men don’t take warning. _On a fait des folies pour moi_, and here I am, a poor rheumatic creature, with a false front and a bad temper. Why, if it were not for dear Lady Jansen, who sends me all the worst French novels she can find, I don’t think I could get through the day. Doctors are no use at all, except to get fees out of one. They can’t even cure my heartburn.’\n\n‘I have brought you a cure for that, Lady Clem,’ said Lord Arthur gravely. ‘It is a wonderful thing, invented by an American.’\n\n‘I don’t think I like American inventions, Arthur. I am quite sure I don’t. I read some American novels lately, and they were quite nonsensical.’\n\n‘Oh, but there is no nonsense at all about this, Lady Clem! I assure you it is a perfect cure. You must promise to try it’; and Lord Arthur brought the little box out of his pocket, and handed it to her.\n\n‘Well, the box is charming, Arthur. Is it really a present? That is very sweet of you. And is this the wonderful medicine? It looks like a _bonbon_. I’ll take it at once.’\n\n‘Good heavens! Lady Clem,’ cried Lord Arthur, catching hold of her hand, ‘you mustn’t do anything of the kind. It is a homoeopathic medicine, and if you take it without having heartburn, it might do you no end of harm. Wait till you have an attack, and take it then. You will be astonished at the result.’\n\n‘I should like to take it now,’ said Lady Clementina, holding up to the light the little transparent capsule, with its floating bubble of liquid aconitine. I am sure it is delicious. The fact is that, though I hate doctors, I love medicines. However, I’ll keep it till my next attack.’\n\n‘And when will that be?’ asked Lord Arthur eagerly."
+      },
+      "request_id": "63c12ec47d6176d0c38de1d6",
+      "request_sha256": "8ffbef82298d8a7f09c0956f4399f37ea77b50b0a23c32d82d57fa6285337a8d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f1ccb87c3d62f86805b9501b8bd7b5daad314314e862d37254fd3c46b35e64a2"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "aea75fad6f493a2691c1fba0",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 497,
+      "passage_id": "V2_wilde_dorian_gray_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: aea75fad6f493a2691c1fba0\noriginal_word_count: 497\n\nPassage:\nFor years, Dorian Gray could not free himself from the influence of this book. Or perhaps it would be more accurate to say that he never sought to free himself from it. He procured from Paris no less than nine large-paper copies of the first edition, and had them bound in different colours, so that they might suit his various moods and the changing fancies of a nature over which he seemed, at times, to have almost entirely lost control. The hero, the wonderful young Parisian in whom the romantic and the scientific temperaments were so strangely blended, became to him a kind of prefiguring type of himself. And, indeed, the whole book seemed to him to contain the story of his own life, written before he had lived it.\n\nIn one point he was more fortunate than the novel’s fantastic hero. He never knew—never, indeed, had any cause to know—that somewhat grotesque dread of mirrors, and polished metal surfaces, and still water which came upon the young Parisian so early in his life, and was occasioned by the sudden decay of a beau that had once, apparently, been so remarkable. It was with an almost cruel joy—and perhaps in nearly every joy, as certainly in every pleasure, cruelty has its place—that he used to read the latter part of the book, with its really tragic, if somewhat overemphasized, account of the sorrow and despair of one who had himself lost what in others, and the world, he had most dearly valued.\n\nFor the wonderful beauty that had so fascinated Basil Hallward, and many others besides him, seemed never to leave him. Even those who had heard the most evil things against him—and from time to time strange rumours about his mode of life crept through London and became the chatter of the clubs—could not believe anything to his dishonour when they saw him. He had always the look of one who had kept himself unspotted from the world. Men who talked grossly became silent when Dorian Gray entered the room. There was something in the purity of his face that rebuked them. His mere presence seemed to recall to them the memory of the innocence that they had tarnished. They wondered how one so charming and graceful as he was could have escaped the stain of an age that was at once sordid and sensual.\n\nOften, on returning home from one of those mysterious and prolonged absences that gave rise to such strange conjecture among those who were his friends, or thought that they were so, he himself would creep upstairs to the locked room, open the door with the key that never left him now, and stand, with a mirror, in front of the portrait that Basil Hallward had painted of him, looking now at the evil and aging face on the canvas, and now at the fair young face that laughed back at him from the polished glass."
+      },
+      "request_id": "aea75fad6f493a2691c1fba0",
+      "request_sha256": "5849736e5f704d9636cab4a58e5a597540e194e121058d20f5eb252010d66002",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c38acc09c939e3e3a36a5d5bbdfef17335910df5393987b738434bf377042ae9"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e97728a0a410d8ef4df5c476",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_austen_persuasion_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e97728a0a410d8ef4df5c476\noriginal_word_count: 464\n\nPassage:\nNo letter of condolence had been sent to Ireland. The neglect had been visited on the head of the sinner; for when poor Lady Elliot died herself, no letter of condolence was received at Kellynch, and, consequently, there was but too much reason to apprehend that the Dalrymples considered the relationship as closed. How to have this anxious business set to rights, and be admitted as cousins again, was the question: and it was a question which, in a more rational manner, neither Lady Russell nor Mr Elliot thought unimportant. “Family connexions were always worth preserving, good company always worth seeking; Lady Dalrymple had taken a house, for three months, in Laura Place, and would be living in style. She had been at Bath the year before, and Lady Russell had heard her spoken of as a charming woman. It was very desirable that the connexion should be renewed, if it could be done, without any compromise of propriety on the side of the Elliots.”\n\nSir Walter, however, would choose his own means, and at last wrote a very fine letter of ample explanation, regret, and entreaty, to his right honourable cousin. Neither Lady Russell nor Mr Elliot could admire the letter; but it did all that was wanted, in bringing three lines of scrawl from the Dowager Viscountess. “She was very much honoured, and should be happy in their acquaintance.” The toils of the business were over, the sweets began. They visited in Laura Place, they had the cards of Dowager Viscountess Dalrymple, and the Honourable Miss Carteret, to be arranged wherever they might be most visible: and “Our cousins in Laura Place,”—“Our cousin, Lady Dalrymple and Miss Carteret,” were talked of to everybody.\n\nAnne was ashamed. Had Lady Dalrymple and her daughter even been very agreeable, she would still have been ashamed of the agitation they created, but they were nothing. There was no superiority of manner, accomplishment, or understanding. Lady Dalrymple had acquired the name of “a charming woman,” because she had a smile and a civil answer for everybody. Miss Carteret, with still less to say, was so plain and so awkward, that she would never have been tolerated in Camden Place but for her birth.\n\nLady Russell confessed she had expected something better; but yet “it was an acquaintance worth having;” and when Anne ventured to speak her opinion of them to Mr Elliot, he agreed to their being nothing in themselves, but still maintained that, as a family connexion, as good company, as those who would collect good company around them, they had their value. Anne smiled and said,\n\n“My idea of good company, Mr Elliot, is the company of clever, well-informed people, who have a great deal of conversation; that is what I call good company.”"
+      },
+      "request_id": "e97728a0a410d8ef4df5c476",
+      "request_sha256": "2243a5b784fded4ac5f0f133e72436ca08b84a1272f5303450dafd34d89ccc51",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d84b96a285f2c4345ab42c0124aef0364c9648f7f5830eb95b4aa75be209b0af"
+    }
+  ],
+  "session_id": "01a0e876-83f7-78a1-b9d1-9e5cfb4d9073",
+  "worker_id": "astra_z",
+  "worker_identity_sha256": "3c518323fe65160b33818c8fecefe8b58d18bebfd64f52e04e66f555b7fdddb7"
+}

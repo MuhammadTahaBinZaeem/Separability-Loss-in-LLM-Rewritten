@@ -1,0 +1,68 @@
+{
+  "batch_id": "72b56274762eb7f4c5b3",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:10:43.630617+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "dc40ada8f371e25ccac7e467",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_the_last_man_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: dc40ada8f371e25ccac7e467\noriginal_word_count: 466\n\nPassage:\nHaving seen our friend properly installed in his new office, we turned our eyes towards Windsor. The nearness of this place to London was such, as to take away the idea of painful separation, when we quitted Raymond and Perdita. We took leave of them in the Protectoral Palace. It was pretty enough to see my sister enter as it were into the spirit of the drama, and endeavour to fill her station with becoming dignity. Her internal pride and humility of manner were now more than ever at war. Her timidity was not artificial, but arose from that fear of not being properly appreciated, that slight estimation of the neglect of the world, which also characterized Raymond. But then Perdita thought more constantly of others than he; and part of her bashfulness arose from a wish to take from those around her a sense of inferiority; a feeling which never crossed her mind. From the circumstances of her birth and education, Idris would have been better fitted for the formulae of ceremony; but the very ease which accompanied such actions with her, arising from habit, rendered them tedious; while, with every drawback, Perdita evidently enjoyed her situation. She was too full of new ideas to feel much pain when we departed; she took an affectionate leave of us, and promised to visit us soon; but she did not regret the circumstances that caused our separation. The spirits of Raymond were unbounded; he did not know what to do with his new got power; his head was full of plans; he had as yet decided on none— but he promised himself, his friends, and the world, that the aera of his Protectorship should be signalized by some act of surpassing glory. Thus, we talked of them, and moralized, as with diminished numbers we returned to Windsor Castle. We felt extreme delight at our escape from political turmoil, and sought our solitude with redoubled zest. We did not want for occupation; but my eager disposition was now turned to the field of intellectual exertion only; and hard study I found to be an excellent medicine to allay a fever of spirit with which in indolence, I should doubtless have been assailed. Perdita had permitted us to take Clara back with us to Windsor; and she and my two lovely infants were perpetual sources of interest and amusement.\n\nThe only circumstance that disturbed our peace, was the health of Adrian. It evidently declined, without any symptom which could lead us to suspect his disease, unless indeed his brightened eyes, animated look, and flustering cheeks, made us dread consumption; but he was without pain or fear. He betook himself to books with ardour, and reposed from study in the society he best loved, that of his sister and myself."
+      },
+      "request_id": "dc40ada8f371e25ccac7e467",
+      "request_sha256": "249d2833f6dec3a310e5047cacbb2f98c49a65c6a5f22e27d38803df85e1c386",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "39530f63c78e03c6ec554e7dcb54bb21752a0782f7f17c6b3a0de21df39855d0"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "eaf8b2d9e91dd837e07f8a6b",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: eaf8b2d9e91dd837e07f8a6b\noriginal_word_count: 460\n\nPassage:\nTEN minutes later, with face blanched by terror, and eyes wild with grief, Lord Arthur Savile rushed from Bentinck House, crushing his way through the crowd of fur-coated footmen that stood round the large striped awning, and seeming not to see or hear anything. The night was bitter cold, and the gas-lamps round the square flared and flickered in the keen wind; but his hands were hot with fever, and his forehead burned like fire. On and on he went, almost with the gait of a drunken man. A policeman looked curiously at him as he passed, and a beggar, who slouched from an archway to ask for alms, grew frightened, seeing misery greater than his own. Once he stopped under a lamp, and looked at his hands. He thought he could detect the stain of blood already upon them, and a faint cry broke from his trembling lips.\n\nMurder! that is what the cheiromantist had seen there. Murder! The very night seemed to know it, and the desolate wind to howl it in his ear. The dark corners of the streets were full of it. It grinned at him from the roofs of the houses.\n\nFirst he came to the Park, whose sombre woodland seemed to fascinate him. He leaned wearily up against the railings, cooling his brow against the wet metal, and listening to the tremulous silence of the trees. ‘Murder! murder!’ he kept repeating, as though iteration could dim the horror of the word. The sound of his own voice made him shudder, yet he almost hoped that Echo might hear him, and wake the slumbering city from its dreams. He felt a mad desire to stop the casual passer-by, and tell him everything.\n\nThen he wandered across Oxford Street into narrow, shameful alleys. Two women with painted faces mocked at him as he went by. From a dark courtyard came a sound of oaths and blows, followed by shrill screams, and, huddled upon a damp door-step, he saw the crook-backed forms of poverty and eld. A strange pity came over him. Were these children of sin and misery predestined to their end, as he to his? Were they, like him, merely the puppets of a monstrous show?\n\nAnd yet it was not the mystery, but the comedy of suffering that struck him; its absolute uselessness, its grotesque want of meaning. How incoherent everything seemed! How lacking in all harmony! He was amazed at the discord between the shallow optimism of the day, and the real facts of existence. He was still very young.\n\nAfter a time he found himself in front of Marylebone Church. The silent roadway looked like a long riband of polished silver, flecked here and there by the dark arabesques of waving shadows."
+      },
+      "request_id": "eaf8b2d9e91dd837e07f8a6b",
+      "request_sha256": "38501efcd748f8309aa03adca8d62c76da837fbc04c7bc850f506fa9536b8b07",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bb1d07c00dc77bd63a554488c064feef14dc3361bf707d3654cc76cc7342481f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "157eb7759572aa851995dc50",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_dickens_oliver_twist_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 157eb7759572aa851995dc50\noriginal_word_count: 453\n\nPassage:\n“And consider, ma’am,” said Oliver, as the tears forced themselves into his eyes, despite of his efforts to the contrary. “Oh! consider how young and good she is, and what pleasure and comfort she gives to all about her. I am sure—certain—quite certain—that, for your sake, who are so good yourself; and for her own; and for the sake of all she makes so happy; she will not die. Heaven will never let her die so young.”\n\n“Hush!” said Mrs. Maylie, laying her hand on Oliver’s head. “You think like a child, poor boy. But you teach me my duty, notwithstanding. I had forgotten it for a moment, Oliver, but I hope I may be pardoned, for I am old, and have seen enough of illness and death to know the agony of separation from the objects of our love. I have seen enough, too, to know that it is not always the youngest and best who are spared to those that love them; but this should give us comfort in our sorrow; for Heaven is just; and such things teach us, impressively, that there is a brighter world than this; and that the passage to it is speedy. God’s will be done! I love her; and He knows how well!”\n\nOliver was surprised to see that as Mrs. Maylie said these words, she checked her lamentations as though by one effort; and drawing herself up as she spoke, became composed and firm. He was still more astonished to find that this firmness lasted; and that, under all the care and watching which ensued, Mrs. Maylie was ever ready and collected: performing all the duties which had devolved upon her, steadily, and, to all external appearances, even cheerfully. But he was young, and did not know what strong minds are capable of, under trying circumstances. How should he, when their possessors so seldom know themselves?\n\nAn anxious night ensued. When morning came, Mrs. Maylie’s predictions were but too well verified. Rose was in the first stage of a high and dangerous fever.\n\n“We must be active, Oliver, and not give way to useless grief,” said Mrs. Maylie, laying her finger on her lip, as she looked steadily into his face; “this letter must be sent, with all possible expedition, to Mr. Losberne. It must be carried to the market-town: which is not more than four miles off, by the footpath across the field: and thence dispatched, by an express on horseback, straight to Chertsey. The people at the inn will undertake to do this: and I can trust to you to see it done, I know.”\n\nOliver could make no reply, but looked his anxiety to be gone at once."
+      },
+      "request_id": "157eb7759572aa851995dc50",
+      "request_sha256": "b5e729c18aed0c8ccc8204b16b50fd9449899a2b061f0b6cc356a2092b41fc8a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "346895c710b1255cae787acae15d2498b681909162229d1750d047f2698ba022"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "d5b815be3850babd5c62",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:13:50.744014+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0f316e018e9002965b2efc22",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 498,
+      "passage_id": "V2_shelley_mathilda_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 0f316e018e9002965b2efc22\noriginal_word_count: 498\n\nPassage:\nIn all this there was a strangeness that attracted and enchanted me. He was, as it were, now awakened from his long, visionary sleep, and he felt some what like one of the seven sleepers, or like Nourjahad, in that sweet imitation of an eastern tale: Diana was gone; his friends were changed or dead, and now on his awakening I was all that he had to love on earth.\n\nHow dear to me were the waters, and mountains, and woods of Loch Lomond now that I had so beloved a companion for my rambles. I visited with my father every delightful spot, either on the islands, or by the side of the tree-sheltered waterfalls; every shady path, or dingle entangled with underwood and fern. My ideas were enlarged by his conversation. I felt as if I were recreated and had about me all the freshness and life of a new being: I was, as it were, transported since his arrival from a narrow spot of earth into a universe boundless to the imagination and the understanding. My life had been before as a pleasing country rill, never destined to leave its native fields, but when its task was fulfilled quietly to be absorbed, and leave no trace. Now it seemed to me to be as a various river flowing through a fertile and lovely lanscape, ever changing and ever beautiful. Alas! I knew not the desart it was about to reach; the rocks that would tear its waters, and the hideous scene that would be reflected in a more distorted manner in its waves. Life was then brilliant; I began to learn to hope and what brings a more bitter despair to the heart than hope destroyed?\n\nIs it not strange that grief should quickly follow so divine a happiness? I drank of an enchanted cup but gall was at the bottom of its long drawn sweetness. My heart was full of deep affection, but it was calm from its very depth and fulness. I had no idea that misery could arise from love, and this lesson that all at last must learn was taught me in a manner few are obliged to receive it. I lament now, I must ever lament, those few short months of Paradisaical bliss; I disobeyed no command, I ate no apple, and yet I was ruthlessly driven from it. Alas! my companion did, and I was precipitated in his fall. But I wander from my relation--let woe come at its appointed time; I may at this stage of my story still talk of happiness.\n\nThree months passed away in this delightful intercourse, when my aunt fell ill. I passed a whole month in her chamber nursing her, but her disease was mortal and she died, leaving me for some time inconsolable, Death is so dreadful to the living; the chains of habit are so strong even when affection does not link them that the heart must be agonized when they break."
+      },
+      "request_id": "0f316e018e9002965b2efc22",
+      "request_sha256": "bfd492057197bc7f954d0f08437f997602108e7315c7fe45f5c7386d34cf2c9c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "32508b181bb3a75787c6afc75adcf5596030af48f088725d36e43129428b53d3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d8f521dafd56bf1e0fba44b1",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 528,
+      "passage_id": "V2_wilde_canterville_ghost_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: d8f521dafd56bf1e0fba44b1\noriginal_word_count: 528\n\nPassage:\nTHE next day the ghost was very weak and tired. The terrible excitement of the last four weeks was beginning to have its effect. His nerves were completely shattered, and he started at the slightest noise. For five days he kept his room, and at last made up his mind to give up the point of the blood-stain on the library floor. If the Otis family did not want it, they clearly did not deserve it. They were evidently people on a low, material plane of existence, and quite incapable of appreciating the symbolic value of sensuous phenomena. The question of phantasmic apparitions, and the development of astral bodies, was of course quite a different matter, and really not under his control. It was his solemn duty to appear in the corridor once a week, and to gibber from the large oriel window on the first and third Wednesday in every month, and he did not see how he could honourably escape from his obligations. It is quite true that his life had been very evil, but, upon the other hand, he was most conscientious in all things connected with the supernatural. For the next three Saturdays, accordingly, he traversed the corridor as usual between midnight and three o’clock, taking every possible precaution against being either heard or seen. He removed his boots, trod as lightly as possible on the old worm-eaten boards, wore a large black velvet cloak, and was careful to use the Rising Sun Lubricator for oiling his chains. I am bound to acknowledge that it was with a good deal of difficulty that he brought himself to adopt this last mode of protection. However, one night, while the family were at dinner, he slipped into Mr. Otis’s bedroom and carried off the bottle. He felt a little humiliated at first, but afterwards was sensible enough to see that there was a great deal to be said for the invention, and, to a certain degree, it served his purpose. Still, in spite of everything, he was not left unmolested. Strings were continually being stretched across the corridor, over which he tripped in the dark, and on one occasion, while dressed for the part of ‘Black Isaac, or the Huntsman of Hogley Woods,’ he met with a severe fall, through treading on a butter-slide, which the twins had constructed from the entrance of the Tapestry Chamber to the top of the oak staircase. This last insult so enraged him, that he resolved to make one final effort to assert his dignity and social position, and determined to visit the insolent young Etonians the next night in his celebrated character of ‘Reckless Rupert, or the Headless Earl.’\n\nHe had not appeared in this disguise for more than seventy years; in fact, not since he had so frightened pretty Lady Barbara Modish by means of it, that she suddenly broke off her engagement with the present Lord Canterville’s grandfather, and ran away to Gretna Green with handsome Jack Castleton, declaring that nothing in the world would induce her to marry into a family that allowed such a horrible phantom to walk up and down the terrace at twilight."
+      },
+      "request_id": "d8f521dafd56bf1e0fba44b1",
+      "request_sha256": "ba724c499e3525241a7137a8693ba0b659719049f30eff56b0092919c05f9ade",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7c0a6858e2326509dd4e871a0d4b5aee80e8a2b67f61e05560018db10f5457fc"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "50b84b22b65827f4ef7abfa1",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_dickens_great_expectations_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 50b84b22b65827f4ef7abfa1\noriginal_word_count: 454\n\nPassage:\nMy father’s family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So, I called myself Pip, and came to be called Pip.\n\nI give Pirrip as my father’s family name, on the authority of his tombstone and my sister,—Mrs. Joe Gargery, who married the blacksmith. As I never saw my father or my mother, and never saw any likeness of either of them (for their days were long before the days of photographs), my first fancies regarding what they were like were unreasonably derived from their tombstones. The shape of the letters on my father’s, gave me an odd idea that he was a square, stout, dark man, with curly black hair. From the character and turn of the inscription, “_Also Georgiana Wife of the Above_,” I drew a childish conclusion that my mother was freckled and sickly. To five little stone lozenges, each about a foot and a half long, which were arranged in a neat row beside their grave, and were sacred to the memory of five little brothers of mine,—who gave up trying to get a living, exceedingly early in that universal struggle,—I am indebted for a belief I religiously entertained that they had all been born on their backs with their hands in their trousers-pockets, and had never taken them out in this state of existence.\n\nOurs was the marsh country, down by the river, within, as the river wound, twenty miles of the sea. My first most vivid and broad impression of the identity of things seems to me to have been gained on a memorable raw afternoon towards evening. At such a time I found out for certain that this bleak place overgrown with nettles was the churchyard; and that Philip Pirrip, late of this parish, and also Georgiana wife of the above, were dead and buried; and that Alexander, Bartholomew, Abraham, Tobias, and Roger, infant children of the aforesaid, were also dead and buried; and that the dark flat wilderness beyond the churchyard, intersected with dikes and mounds and gates, with scattered cattle feeding on it, was the marshes; and that the low leaden line beyond was the river; and that the distant savage lair from which the wind was rushing was the sea; and that the small bundle of shivers growing afraid of it all and beginning to cry, was Pip.\n\n“Hold your noise!” cried a terrible voice, as a man started up from among the graves at the side of the church porch. “Keep still, you little devil, or I’ll cut your throat!”\n\nA fearful man, all in coarse grey, with a great iron on his leg."
+      },
+      "request_id": "50b84b22b65827f4ef7abfa1",
+      "request_sha256": "ba02c72637584d243a78a9bbadb5c012e069cd2e8a434e07e1527eec9a9b3c0d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c7a78f87c417ada1e0e470f0bb377e703b522bd95d6872a11dd60b743d371e03"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

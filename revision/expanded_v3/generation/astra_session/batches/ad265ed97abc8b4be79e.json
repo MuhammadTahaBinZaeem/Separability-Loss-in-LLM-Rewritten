@@ -1,0 +1,68 @@
+{
+  "batch_id": "ad265ed97abc8b4be79e",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:57:30.924011+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c0bf2151c1b3ed2243d3269c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_dickens_oliver_twist_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: c0bf2151c1b3ed2243d3269c\noriginal_word_count: 454\n\nPassage:\nThey know what a clever lad he is; he’ll be a lifer. They’ll make the Artful nothing less than a lifer.”\n\n“What do you mean by lagging and a lifer?” demanded Mr. Bolter. “What’s the good of talking in that way to me; why don’t yer speak so as I can understand yer?”\n\nFagin was about to translate these mysterious expressions into the vulgar tongue; and, being interpreted, Mr. Bolter would have been informed that they represented that combination of words, “transportation for life,” when the dialogue was cut short by the entry of Master Bates, with his hands in his breeches-pockets, and his face twisted into a look of semi-comical woe.\n\n“It’s all up, Fagin,” said Charley, when he and his new companion had been made known to each other.\n\n“What do you mean?”\n\n“They’ve found the gentleman as owns the box; two or three more’s a coming to ’dentify him; and the Artful’s booked for a passage out,” replied Master Bates. “I must have a full suit of mourning, Fagin, and a hatband, to wisit him in, afore he sets out upon his travels. To think of Jack Dawkins—lummy Jack—the Dodger—the Artful Dodger—going abroad for a common twopenny-halfpenny sneeze-box! I never thought he’d a done it under a gold watch, chain, and seals, at the lowest. Oh, why didn’t he rob some rich old gentleman of all his walables, and go out as a gentleman, and not like a common prig, without no honour nor glory!”\n\nWith this expression of feeling for his unfortunate friend, Master Bates sat himself on the nearest chair with an aspect of chagrin and despondency.\n\n“What do you talk about his having neither honour nor glory for!” exclaimed Fagin, darting an angry look at his pupil. “Wasn’t he always the top-sawyer among you all! Is there one of you that could touch him or come near him on any scent! Eh?”\n\n“Not one,” replied Master Bates, in a voice rendered husky by regret; “not one.”\n\n“Then what do you talk of?” replied Fagin angrily; “what are you blubbering for?”\n\n“’Cause it isn’t on the rec-ord, is it?” said Charley, chafed into perfect defiance of his venerable friend by the current of his regrets; “’cause it can’t come out in the ’dictment; ’cause nobody will never know half of what he was. How will he stand in the Newgate Calendar? P’raps not be there at all. Oh, my eye, my eye, wot a blow it is!”\n\n“Ha! ha!” cried Fagin, extending his right hand, and turning to Mr. Bolter in a fit of chuckling which shook him as though he had the palsy; “see what a pride they take in their profession, my dear."
+      },
+      "request_id": "c0bf2151c1b3ed2243d3269c",
+      "request_sha256": "86ec5e946b79a2b8fee301c34cb9a1a6013e87a76d623339e6ade250b4e0fe24",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7d90d478780b060191792edb33420377adf972bc11d50273c0d5e293a806149e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5d517214bff22cc63c28505a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_poe_the_gold_bug_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 5d517214bff22cc63c28505a\noriginal_word_count: 456\n\nPassage:\nFor a moment I was too much amazed to think with accuracy. I knew that my design was very different in detail from this—although there was a certain similarity in general outline. Presently I took a candle, and seating myself at the other end of the room, proceeded to scrutinize the parchment more closely. Upon turning it over, I saw my own sketch upon the reverse, just as I had made it. My first idea, now, was mere surprise at the really remarkable similarity of outline—at the singular coincidence involved in the fact, that unknown to me, there should have been a skull upon the other side of the parchment, immediately beneath my figure of the _scarabæus_, and that this skull, not only in outline, but in size, should so closely resemble my drawing. I say the singularity of this coincidence absolutely stupefied me for a time. This is the usual effect of such coincidences. The mind struggles to establish a connexion—a sequence of cause and effect—and, being unable to do so, suffers a species of temporary paralysis. But, when I recovered from this stupor, there dawned upon me gradually a conviction which startled me even far more than the coincidence. I began distinctly, positively, to remember that there had been no drawing upon the parchment when I made my sketch of the _scarabæus_. I became perfectly certain of this; for I recollected turning up first one side and then the other, in search of the cleanest spot. Had the skull been then there, of course I could not have failed to notice it. Here was indeed a mystery which I felt it impossible to explain; but, even at that early moment, there seemed to glimmer, faintly, within the most remote and secret chambers of my intellect, a glow-worm-like conception of that truth which last night’s adventure brought to so magnificent a demonstration. I arose at once, and putting the parchment securely away, dismissed all farther reflection until I should be alone.\n\n“When you had gone, and when Jupiter was fast asleep, I betook myself to a more methodical investigation of the affair. In the first place I considered the manner in which the parchment had come into my possession. The spot where we discovered the _scarabæus_ was on the coast of the main land, about a mile eastward of the island, and but a short distance above high water mark. Upon my taking hold of it, it gave me a sharp bite, which caused me to let it drop. Jupiter, with his accustomed caution, before seizing the insect, which had flown towards him, looked about him for a leaf, or something of that nature, by which to take hold of it."
+      },
+      "request_id": "5d517214bff22cc63c28505a",
+      "request_sha256": "2def5d96bc7a354e58099da2001e2979a30dff57d02b5fb1e69a84f2c7268956",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "05cf7eaf941cd0d00d3d5f3ed7c2d2203a51f96cef8bc9e99a7121de2f891af9"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4076612b2f170a614ae5a5dd",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_hans_pfaal_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 4076612b2f170a614ae5a5dd\noriginal_word_count: 455\n\nPassage:\n“April 7th. Arose early, and, to my great joy, at length beheld what there could be no hesitation in supposing the northern Pole itself. It was there, beyond a doubt, and immediately beneath my feet; but, alas! I had now ascended to so vast a distance, that nothing could with accuracy be discerned. Indeed, to judge from the progression of the numbers indicating my various altitudes, respectively, at different periods, between six A.M. on the second of April, and twenty minutes before nine A.M. of the same day (at which time the barometer ran down), it might be fairly inferred that the balloon had now, at four o’clock in the morning of April the seventh, reached a height of not less, certainly, than 7,254 miles above the surface of the sea. This elevation may appear immense, but the estimate upon which it is calculated gave a result in all probability far inferior to the truth. At all events I undoubtedly beheld the whole of the earth’s major diameter; the entire northern hemisphere lay beneath me like a chart orthographically projected: and the great circle of the equator itself formed the boundary line of my horizon. Your Excellencies may, however, readily imagine that the confined regions hitherto unexplored within the limits of the Arctic circle, although situated directly beneath me, and therefore seen without any appearance of being foreshortened, were still, in themselves, comparatively too diminutive, and at too great a distance from the point of sight, to admit of any very accurate examination. Nevertheless, what could be seen was of a nature singular and exciting. Northwardly from that huge rim before mentioned, and which, with slight qualification, may be called the limit of human discovery in these regions, one unbroken, or nearly unbroken, sheet of ice continues to extend. In the first few degrees of this its progress, its surface is very sensibly flattened, farther on depressed into a plane, and finally, becoming not a little concave, it terminates, at the Pole itself, in a circular centre, sharply defined, whose apparent diameter subtended at the balloon an angle of about sixty-five seconds, and whose dusky hue, varying in intensity, was, at all times, darker than any other spot upon the visible hemisphere, and occasionally deepened into the most absolute and impenetrable blackness. Farther than this, little could be ascertained. By twelve o’clock the circular centre had materially decreased in circumference, and by seven P.M. I lost sight of it entirely; the balloon passing over the western limb of the ice, and floating away rapidly in the direction of the equator.\n\n“April 8th. Found a sensible diminution in the earth’s apparent diameter, besides a material alteration in its general color and appearance."
+      },
+      "request_id": "4076612b2f170a614ae5a5dd",
+      "request_sha256": "ce472d33530edce3e55a53d106af6c7d7bc7ef1633013d0d5b55e1d29bc92e09",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4d607ac8e250fa1504996b27dc1aaf1872f5688d417043127f52995c2608c9c0"
+    }
+  ],
+  "session_id": "01a0e847-b893-7c52-8311-f3acf99043e1",
+  "worker_id": "astra_l",
+  "worker_identity_sha256": "2c5da61879bebe3353fa66cda11e4cbc6ce4420d78f567ebeb859dde68cb1df4"
+}

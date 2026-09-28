@@ -1,0 +1,68 @@
+{
+  "batch_id": "32687795ae05cd3e9b46",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:35:24.931615+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "90dd503052f619b81f5df576",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_shelley_the_last_man_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 90dd503052f619b81f5df576\noriginal_word_count: 452\n\nPassage:\nPerdita’s name was not mentioned; yet I could not doubt that love for her caused the vacillation of purpose that he exhibited. And who was so worthy of love as my noble-minded sister? Who deserved the hand of this self-exalted king more than she whose glance belonged to a queen of nations? who loved him, as he did her; notwithstanding that disappointment quelled her passion, and ambition held strong combat with his.\n\nWe went together to the House in the evening. Raymond, while he knew that his plans and prospects were to be discussed and decided during the expected debate, was gay and careless. An hum, like that of ten thousand hives of swarming bees, stunned us as we entered the coffee-room. Knots of politicians were assembled with anxious brows and loud or deep voices. The aristocratical party, the richest and most influential men in England, appeared less agitated than the others, for the question was to be discussed without their interference. Near the fire was Ryland and his supporters. Ryland was a man of obscure birth and of immense wealth, inherited from his father, who had been a manufacturer. He had witnessed, when a young man, the abdication of the king, and the amalgamation of the two houses of Lords and Commons; he had sympathized with these popular encroachments, and it had been the business of his life to consolidate and encrease them. Since then, the influence of the landed proprietors had augmented; and at first Ryland was not sorry to observe the machinations of Lord Raymond, which drew off many of his opponent’s partizans. But the thing was now going too far. The poorer nobility hailed the return of sovereignty, as an event which would restore them to their power and rights, now lost. The half extinct spirit of royalty roused itself in the minds of men; and they, willing slaves, self-constituted subjects, were ready to bend their necks to the yoke. Some erect and manly spirits still remained, pillars of state; but the word republic had grown stale to the vulgar ear; and many—the event would prove whether it was a majority— pined for the tinsel and show of royalty. Ryland was roused to resistance; he asserted that his sufferance alone had permitted the encrease of this party; but the time for indulgence was passed, and with one motion of his arm he would sweep away the cobwebs that blinded his countrymen.\n\nWhen Raymond entered the coffee-room, his presence was hailed by his friends almost with a shout. They gathered round him, counted their numbers, and detailed the reasons why they were now to receive an addition of such and such members, who had not yet declared themselves."
+      },
+      "request_id": "90dd503052f619b81f5df576",
+      "request_sha256": "ef94b07be637310112994f83429ce70786b37845bc797b9c8943e2865575cd4f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e2f37157d5b71b1838ab116281482e43dbf1c2e0b51c9fa74f0be9ec2825f15b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a17945717712b8d8860c58f5",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 468,
+      "passage_id": "V2_twain_tom_sawyer_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: a17945717712b8d8860c58f5\noriginal_word_count: 468\n\nPassage:\nAfter dinner all the gang turned out to hunt for turtle eggs on the bar. They went about poking sticks into the sand, and when they found a soft place they went down on their knees and dug with their hands. Sometimes they would take fifty or sixty eggs out of one hole. They were perfectly round white things a trifle smaller than an English walnut. They had a famous fried-egg feast that night, and another on Friday morning.\n\nAfter breakfast they went whooping and prancing out on the bar, and chased each other round and round, shedding clothes as they went, until they were naked, and then continued the frolic far away up the shoal water of the bar, against the stiff current, which latter tripped their legs from under them from time to time and greatly increased the fun. And now and then they stooped in a group and splashed water in each other’s faces with their palms, gradually approaching each other, with averted faces to avoid the strangling sprays, and finally gripping and struggling till the best man ducked his neighbor, and then they all went under in a tangle of white legs and arms and came up blowing, sputtering, laughing, and gasping for breath at one and the same time.\n\nWhen they were well exhausted, they would run out and sprawl on the dry, hot sand, and lie there and cover themselves up with it, and by and by break for the water again and go through the original performance once more. Finally it occurred to them that their naked skin represented flesh-colored “tights” very fairly; so they drew a ring in the sand and had a circus—with three clowns in it, for none would yield this proudest post to his neighbor.\n\nNext they got their marbles and played “knucks” and “ringtaw” and “keeps” till that amusement grew stale. Then Joe and Huck had another swim, but Tom would not venture, because he found that in kicking off his trousers he had kicked his string of rattlesnake rattles off his ankle, and he wondered how he had escaped cramp so long without the protection of this mysterious charm. He did not venture again until he had found it, and by that time the other boys were tired and ready to rest. They gradually wandered apart, dropped into the “dumps,” and fell to gazing longingly across the wide river to where the village lay drowsing in the sun. Tom found himself writing “BECKY” in the sand with his big toe; he scratched it out, and was angry with himself for his weakness. But he wrote it again, nevertheless; he could not help it. He erased it once more and then took himself out of temptation by driving the other boys together and joining them."
+      },
+      "request_id": "a17945717712b8d8860c58f5",
+      "request_sha256": "c6218140494eafb1efe2f1a335396d6321a0160ebcc2788302b6c422eb4a2fb7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b559f58c5fea977e2530a5c2e0a9791d2a3db01f22ca50437fe09c271b7e7f55"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "883cb1726d41d14e33dc5eda",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 883cb1726d41d14e33dc5eda\noriginal_word_count: 459\n\nPassage:\n“Do you play?”\n\n“I think, sir,” said the spy, in the meanest manner, as he turned to Mr. Lorry, “I may appeal to a gentleman of your years and benevolence, to put it to this other gentleman, so much your junior, whether he can under any circumstances reconcile it to his station to play that Ace of which he has spoken. I admit that _I_ am a spy, and that it is considered a discreditable station--though it must be filled by somebody; but this gentleman is no spy, and why should he so demean himself as to make himself one?”\n\n“I play my Ace, Mr. Barsad,” said Carton, taking the answer on himself, and looking at his watch, “without any scruple, in a very few minutes.”\n\n“I should have hoped, gentlemen both,” said the spy, always striving to hook Mr. Lorry into the discussion, “that your respect for my sister--”\n\n“I could not better testify my respect for your sister than by finally relieving her of her brother,” said Sydney Carton.\n\n“You think not, sir?”\n\n“I have thoroughly made up my mind about it.”\n\nThe smooth manner of the spy, curiously in dissonance with his ostentatiously rough dress, and probably with his usual demeanour, received such a check from the inscrutability of Carton,--who was a mystery to wiser and honester men than he,--that it faltered here and failed him. While he was at a loss, Carton said, resuming his former air of contemplating cards:\n\n“And indeed, now I think again, I have a strong impression that I have another good card here, not yet enumerated. That friend and fellow-Sheep, who spoke of himself as pasturing in the country prisons; who was he?”\n\n“French. You don’t know him,” said the spy, quickly.\n\n“French, eh?” repeated Carton, musing, and not appearing to notice him at all, though he echoed his word. “Well; he may be.”\n\n“Is, I assure you,” said the spy; “though it’s not important.”\n\n“Though it’s not important,” repeated Carton, in the same mechanical way--“though it’s not important--No, it’s not important. No. Yet I know the face.”\n\n“I think not. I am sure not. It can’t be,” said the spy.\n\n“It-can’t-be,” muttered Sydney Carton, retrospectively, and idling his glass (which fortunately was a small one) again. “Can’t-be. Spoke good French. Yet like a foreigner, I thought?”\n\n“Provincial,” said the spy.\n\n“No. Foreign!” cried Carton, striking his open hand on the table, as a light broke clearly on his mind. “Cly! Disguised, but the same man. We had that man before us at the Old Bailey.”\n\n“Now, there you are hasty, sir,” said Barsad, with a smile that gave his aquiline nose an extra inclination to one side; “there you really give me an advantage over you."
+      },
+      "request_id": "883cb1726d41d14e33dc5eda",
+      "request_sha256": "7de52250b6b4b4137a96c16078e5031c3d4af455dbf52aa11b2c299a0929b0f5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "282134fd40a4b3fde11f345a89702c76f3e9ea52eec69b6fca4c696561535eb6"
+    }
+  ],
+  "session_id": "01a0e86b-c111-7731-bb8d-a8b1262d4d11",
+  "worker_id": "astra_w",
+  "worker_identity_sha256": "02ab474ea794ee28e12552c40deac11a918257ff5dcb600ea6bea9a7ad47fcb2"
+}

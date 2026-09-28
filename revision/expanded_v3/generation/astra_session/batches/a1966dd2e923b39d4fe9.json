@@ -1,0 +1,68 @@
+{
+  "batch_id": "a1966dd2e923b39d4fe9",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:15:02.370261+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6d682f993f89ac518f39a88e",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_pride_and_prejudice_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 6d682f993f89ac518f39a88e\noriginal_word_count: 461\n\nPassage:\nThis was invitation enough.\n\n“Why, my dear, you must know, Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England; that he came down on Monday in a chaise and four to see the place, and was so much delighted with it that he agreed with Mr. Morris immediately; that he is to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week.”\n\n“What is his name?”\n\n“Bingley.”\n\n“Is he married or single?”\n\n“Oh, single, my dear, to be sure! A single man of large fortune; four or five thousand a year. What a fine thing for our girls!”\n\n“How so? how can it affect them?”\n\n“My dear Mr. Bennet,” replied his wife, “how can you be so tiresome? You must know that I am thinking of his marrying one of them.”\n\n“Is that his design in settling here?”\n\n“Design? Nonsense, how can you talk so! But it is very likely that he _may_ fall in love with one of them, and therefore you must visit him as soon as he comes.”\n\n“I see no occasion for that. You and the girls may go--or you may send them by themselves, which perhaps will be still better; for as you are as handsome as any of them, Mr. Bingley might like you the best of the party.”\n\n“My dear, you flatter me. I certainly _have_ had my share of beauty, but I do not pretend to be anything extraordinary now. When a woman has five grown-up daughters, she ought to give over thinking of her own beauty.”\n\n“In such cases, a woman has not often much beauty to think of.”\n\n“But, my dear, you must indeed go and see Mr. Bingley when he comes into the neighbourhood.”\n\n“It is more than I engage for, I assure you.”\n\n“But consider your daughters. Only think what an establishment it would be for one of them. Sir William and Lady Lucas are determined to go, merely on that account; for in general, you know, they visit no new comers. Indeed you must go, for it will be impossible for _us_ to visit him, if you do not.”\n\n“You are over scrupulous, surely. I dare say Mr. Bingley will be very glad to see you; and I will send a few lines by you to assure him of my hearty consent to his marrying whichever he chooses of the girls--though I must throw in a good word for my little Lizzy.”\n\n“I desire you will do no such thing. Lizzy is not a bit better than the others: and I am sure she is not half so handsome as Jane, nor half so good-humoured as Lydia."
+      },
+      "request_id": "6d682f993f89ac518f39a88e",
+      "request_sha256": "d8765bd8d5c6292096a83f7445eefec84ccabbce9ce4c16e1bd2f53c42299038",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "45e23fc20a98d83333c71988b1ca48b365e85213fd84624915254b5abd783127"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b11aa25d6a4f3931e5e4dcf0",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_poe_murders_rue_morgue_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: b11aa25d6a4f3931e5e4dcf0\noriginal_word_count: 460\n\nPassage:\nThe examination occupied us until dark, when we took our departure. On our way home my companion stepped in for a moment at the office of one of the daily papers.\n\nI have said that the whims of my friend were manifold, and that _Je les ménageais_:—for this phrase there is no English equivalent. It was his humor, now, to decline all conversation on the subject of the murder, until about noon the next day. He then asked me, suddenly, if I had observed any thing _peculiar_ at the scene of the atrocity.\n\nThere was something in his manner of emphasizing the word “peculiar,” which caused me to shudder, without knowing why.\n\n“No, nothing _peculiar_,” I said; “nothing more, at least, than we both saw stated in the paper.”\n\n“The ‘Gazette,’” he replied, “has not entered, I fear, into the unusual horror of the thing. But dismiss the idle opinions of this print. It appears to me that this mystery is considered insoluble, for the very reason which should cause it to be regarded as easy of solution—I mean for the _outré_ character of its features. The police are confounded by the seeming absence of motive—not for the murder itself—but for the atrocity of the murder. They are puzzled, too, by the seeming impossibility of reconciling the voices heard in contention, with the facts that no one was discovered up stairs but the assassinated Mademoiselle L’Espanaye, and that there were no means of egress without the notice of the party ascending. The wild disorder of the room; the corpse thrust, with the head downward, up the chimney; the frightful mutilation of the body of the old lady; these considerations, with those just mentioned, and others which I need not mention, have sufficed to paralyze the powers, by putting completely at fault the boasted _acumen_, of the government agents. They have fallen into the gross but common error of confounding the unusual with the abstruse. But it is by these deviations from the plane of the ordinary, that reason feels its way, if at all, in its search for the true. In investigations such as we are now pursuing, it should not be so much asked ‘what has occurred,’ as ‘what has occurred that has never occurred before.’ In fact, the facility with which I shall arrive, or have arrived, at the solution of this mystery, is in the direct ratio of its apparent insolubility in the eyes of the police.”\n\nI stared at the speaker in mute astonishment.\n\n“I am now awaiting,” continued he, looking toward the door of our apartment—“I am now awaiting a person who, although perhaps not the perpetrator of these butcheries, must have been in some measure implicated in their perpetration."
+      },
+      "request_id": "b11aa25d6a4f3931e5e4dcf0",
+      "request_sha256": "7bc83fb0612cac22ac1fe7610621511d4eb5592156e854b27d1ec97ecf39a6a9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "515fae9f1fe82b1fc70f51571182aaefe67262cc9768cd5f83109ae825db7d0c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e0ef9fcffa7e02bcbda8119a",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V3_twain_tom_sawyer_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: e0ef9fcffa7e02bcbda8119a\noriginal_word_count: 451\n\nPassage:\nTom joined the new order of Cadets of Temperance, being attracted by the showy character of their “regalia.” He promised to abstain from smoking, chewing, and profanity as long as he remained a member. Now he found out a new thing—namely, that to promise not to do a thing is the surest way in the world to make a body want to go and do that very thing. Tom soon found himself tormented with a desire to drink and swear; the desire grew to be so intense that nothing but the hope of a chance to display himself in his red sash kept him from withdrawing from the order. Fourth of July was coming; but he soon gave that up—gave it up before he had worn his shackles over forty-eight hours—and fixed his hopes upon old Judge Frazer, justice of the peace, who was apparently on his deathbed and would have a big public funeral, since he was so high an official. During three days Tom was deeply concerned about the Judge’s condition and hungry for news of it. Sometimes his hopes ran high—so high that he would venture to get out his regalia and practise before the looking-glass. But the Judge had a most discouraging way of fluctuating. At last he was pronounced upon the mend—and then convalescent. Tom was disgusted; and felt a sense of injury, too. He handed in his resignation at once—and that night the Judge suffered a relapse and died. Tom resolved that he would never trust a man like that again.\n\nThe funeral was a fine thing. The Cadets paraded in a style calculated to kill the late member with envy. Tom was a free boy again, however—there was something in that. He could drink and swear, now—but found to his surprise that he did not want to. The simple fact that he could, took the desire away, and the charm of it.\n\nTom presently wondered to find that his coveted vacation was beginning to hang a little heavily on his hands.\n\nHe attempted a diary—but nothing happened during three days, and so he abandoned it.\n\nThe first of all the negro minstrel shows came to town, and made a sensation. Tom and Joe Harper got up a band of performers and were happy for two days.\n\nEven the Glorious Fourth was in some sense a failure, for it rained hard, there was no procession in consequence, and the greatest man in the world (as Tom supposed), Mr. Benton, an actual United States Senator, proved an overwhelming disappointment—for he was not twenty-five feet high, nor even anywhere in the neighborhood of it.\n\nA circus came."
+      },
+      "request_id": "e0ef9fcffa7e02bcbda8119a",
+      "request_sha256": "7d55eb7f33cc445e3d391b0625c7a51f68781c763804303c584b516ac0190b3e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c1af412769c3e64783dd4adf61f8e83c737cac415b30d29b12af465fc2462c84"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

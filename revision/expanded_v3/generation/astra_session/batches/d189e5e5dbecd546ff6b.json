@@ -1,0 +1,68 @@
+{
+  "batch_id": "d189e5e5dbecd546ff6b",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:03:34.598983+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f7ba84a0d22353c8e4ea4883",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_dickens_oliver_twist_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: f7ba84a0d22353c8e4ea4883\noriginal_word_count: 473\n\nPassage:\nHer situation was, indeed, one of no common trial and difficulty. While she felt the most eager and burning desire to penetrate the mystery in which Oliver’s history was enveloped, she could not but hold sacred the confidence which the miserable woman with whom she had just conversed, had reposed in her, as a young and guileless girl. Her words and manner had touched Rose Maylie’s heart; and, mingled with her love for her young charge, and scarcely less intense in its truth and fervour, was her fond wish to win the outcast back to repentance and hope.\n\nThey purposed remaining in London only three days, prior to departing for some weeks to a distant part of the coast. It was now midnight of the first day. What course of action could she determine upon, which could be adopted in eight-and-forty hours? Or how could she postpone the journey without exciting suspicion?\n\nMr. Losberne was with them, and would be for the next two days; but Rose was too well acquainted with the excellent gentleman’s impetuosity, and foresaw too clearly the wrath with which, in the first explosion of his indignation, he would regard the instrument of Oliver’s recapture, to trust him with the secret, when her representations in the girl’s behalf could be seconded by no experienced person. These were all reasons for the greatest caution and most circumspect behaviour in communicating it to Mrs. Maylie, whose first impulse would infallibly be to hold a conference with the worthy doctor on the subject. As to resorting to any legal adviser, even if she had known how to do so, it was scarcely to be thought of, for the same reason. Once the thought occurred to her of seeking assistance from Harry; but this awakened the recollection of their last parting, and it seemed unworthy of her to call him back, when—the tears rose to her eyes as she pursued this train of reflection—he might have by this time learnt to forget her, and to be happier away.\n\nDisturbed by these different reflections; inclining now to one course and then to another, and again recoiling from all, as each successive consideration presented itself to her mind; Rose passed a sleepless and anxious night. After more communing with herself next day, she arrived at the desperate conclusion of consulting Harry.\n\n“If it be painful to him,” she thought, “to come back here, how painful it will be to me! But perhaps he will not come; he may write, or he may come himself, and studiously abstain from meeting me—he did when he went away. I hardly thought he would; but it was better for us both.” And here Rose dropped the pen, and turned away, as though the very paper which was to be her messenger should not see her weep."
+      },
+      "request_id": "f7ba84a0d22353c8e4ea4883",
+      "request_sha256": "1d67db104388e2317d45f1c07e399d5282f35e0677547e9a2ce3de95a70f3230",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1569e29994ff99a07f251fa8ef7b41152a6f51777152ff0b1e4747757da0d847"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c0a34184acf6d55e67c986b9",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 476,
+      "passage_id": "V2_shelley_mathilda_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: c0a34184acf6d55e67c986b9\noriginal_word_count: 476\n\nPassage:\nWith a beating heart and fearful, I knew not why, I dismissed the servant and locking my door, sat down to read my father’s letter. These are the words that it contained.\n\n“My dear Child\n\n“I have betrayed your confidence; I have endeavoured to pollute your mind, and have made your innocent heart acquainted with the looks and language of unlawful and monstrous passion. I must expiate these crimes, and must endeavour in some degree to proportionate my punishment to my guilt. You are I doubt not prepared for what I am about to announce; we must seperate and be divided for ever.\n\n“I deprive you of your parent and only friend. You are cast out shelterless on the world: your hopes are blasted; the peace and security of your pure mind destroyed; memory will bring to you frightful images of guilt, and the anguish of innocent love betrayed. Yet I who draw down all this misery upon you; I who cast you forth and remorselessly have set the seal of distrust and agony on the heart and brow of my own child, who with devilish levity have endeavoured to steal away her loveliness to place in its stead the foul deformity of sin; I, in the overflowing anguish of my heart, supplicate you to forgive me.\n\n“I do not ask your pity; you must and do abhor me: but pardon me, Mathilda, and let not your thoughts follow me in my banishment with unrelenting anger. I must never more behold you; never more hear your voice; but the soft whisperings of your forgiveness will reach me and cool the burning of my disordered brain and heart; I am sure I should feel it even in my grave. And I dare enforce this request by relating how miserably I was betrayed into this net of fiery anguish and all my struggles to release myself: indeed if your soul were less pure and bright I would not attempt to exculpate myself to you; I should fear that if I led you to regard me with less abhorrence you might hate vice less: but in addressing you I feel as if I appealed to an angelic judge. I cannot depart without your forgiveness and I must endeavour to gain it, or I must despair. I conjure you therefore to listen to my words, and if with the good guilt may be in any degree extenuated by sharp agony, and remorse that rends the brain as madness perhaps you may think, though I dare not, that I have some claim to your compassion.\n\n“I entreat you to call to your remembrance our first happy life on the shores of Loch Lomond. I had arrived from a weary wandering of sixteen years, during which, although I had gone through many dangers and misfortunes, my affections had been an entire blank."
+      },
+      "request_id": "c0a34184acf6d55e67c986b9",
+      "request_sha256": "9f62315a9a088b49c54b74a1b2364f3a346a442bf91c27d178b8ba422e220981",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2f1c9c116a265707bad98e655cef5de017a66a485b872774c1cec2f3b775baaf"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "60faeb6e1a219fd809d4168c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_twain_huckleberry_finn_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 60faeb6e1a219fd809d4168c\noriginal_word_count: 466\n\nPassage:\n“Yes, it is—and _I_ could a had it if I’d been big enough; I see him _first_. Who nailed him?”\n\n“It was an old fellow—a stranger—and he sold out his chance in him for forty dollars, becuz he’s got to go up the river and can’t wait. Think o’ that, now! You bet _I’d_ wait, if it was seven year.”\n\n“That’s me, every time,” says I. “But maybe his chance ain’t worth no more than that, if he’ll sell it so cheap. Maybe there’s something ain’t straight about it.”\n\n“But it _is_, though—straight as a string. I see the handbill myself. It tells all about him, to a dot—paints him like a picture, and tells the plantation he’s frum, below Newr_leans_. No-sirree-_bob_, they ain’t no trouble ’bout _that_ speculation, you bet you. Say, gimme a chaw tobacker, won’t ye?”\n\nI didn’t have none, so he left. I went to the raft, and set down in the wigwam to think. But I couldn’t come to nothing. I thought till I wore my head sore, but I couldn’t see no way out of the trouble. After all this long journey, and after all we’d done for them scoundrels, here it was all come to nothing, everything all busted up and ruined, because they could have the heart to serve Jim such a trick as that, and make him a slave again all his life, and amongst strangers, too, for forty dirty dollars.\n\nOnce I said to myself it would be a thousand times better for Jim to be a slave at home where his family was, as long as he’d _got_ to be a slave, and so I’d better write a letter to Tom Sawyer and tell him to tell Miss Watson where he was. But I soon give up that notion for two things: she’d be mad and disgusted at his rascality and ungratefulness for leaving her, and so she’d sell him straight down the river again; and if she didn’t, everybody naturally despises an ungrateful nigger, and they’d make Jim feel it all the time, and so he’d feel ornery and disgraced. And then think of _me!_ It would get all around that Huck Finn helped a nigger to get his freedom; and if I was ever to see anybody from that town again I’d be ready to get down and lick his boots for shame. That’s just the way: a person does a low-down thing, and then he don’t want to take no consequences of it. Thinks as long as he can hide it, it ain’t no disgrace. That was my fix exactly. The more I studied about this, the more my conscience went to grinding me, and the more wicked and low-down and ornery I got to feeling."
+      },
+      "request_id": "60faeb6e1a219fd809d4168c",
+      "request_sha256": "5901749c826458e3d1495ebb3efcccf118d033f7360c721e2f153b251ac8260a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "129a82c92524858eab208c1dd5a03153147e7a26b2ee8f7b69468f1bc2beee5c"
+    }
+  ],
+  "session_id": "01a0e84b-0c07-7f62-8492-38d6630a3d8a",
+  "worker_id": "astra_n",
+  "worker_identity_sha256": "af3df2dfd1bd45965959790098af7e2b94db79efd262f1f2cc3e95a3ae8be86e"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "26db77c581e3dba2e51a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:25:05.073588+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b6328a9d431c7e7f2084b52d",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_austen_emma_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: b6328a9d431c7e7f2084b52d\noriginal_word_count: 460\n\nPassage:\nBut now, she would rather it had not happened. She believed he had been drinking too much of Mr. Weston’s good wine, and felt sure that he would want to be talking nonsense.\n\nTo restrain him as much as might be, by her own manners, she was immediately preparing to speak with exquisite calmness and gravity of the weather and the night; but scarcely had she begun, scarcely had they passed the sweep-gate and joined the other carriage, than she found her subject cut up—her hand seized—her attention demanded, and Mr. Elton actually making violent love to her: availing himself of the precious opportunity, declaring sentiments which must be already well known, hoping—fearing—adoring—ready to die if she refused him; but flattering himself that his ardent attachment and unequalled love and unexampled passion could not fail of having some effect, and in short, very much resolved on being seriously accepted as soon as possible. It really was so. Without scruple—without apology—without much apparent diffidence, Mr. Elton, the lover of Harriet, was professing himself _her_ lover. She tried to stop him; but vainly; he would go on, and say it all. Angry as she was, the thought of the moment made her resolve to restrain herself when she did speak. She felt that half this folly must be drunkenness, and therefore could hope that it might belong only to the passing hour. Accordingly, with a mixture of the serious and the playful, which she hoped would best suit his half and half state, she replied,\n\n“I am very much astonished, Mr. Elton. This to _me_! you forget yourself—you take me for my friend—any message to Miss Smith I shall be happy to deliver; but no more of this to _me_, if you please.”\n\n“Miss Smith!—message to Miss Smith!—What could she possibly mean!”—And he repeated her words with such assurance of accent, such boastful pretence of amazement, that she could not help replying with quickness,\n\n“Mr. Elton, this is the most extraordinary conduct! and I can account for it only in one way; you are not yourself, or you could not speak either to me, or of Harriet, in such a manner. Command yourself enough to say no more, and I will endeavour to forget it.”\n\nBut Mr. Elton had only drunk wine enough to elevate his spirits, not at all to confuse his intellects. He perfectly knew his own meaning; and having warmly protested against her suspicion as most injurious, and slightly touched upon his respect for Miss Smith as her friend,—but acknowledging his wonder that Miss Smith should be mentioned at all,—he resumed the subject of his own passion, and was very urgent for a favourable answer."
+      },
+      "request_id": "b6328a9d431c7e7f2084b52d",
+      "request_sha256": "8e00c5b49b0635fcd55fac50e7aee13afc1db9d23aaec8c08abdf136e363ae6e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5ac1eb58b964de10cf284d81045dc8e0d068a5eb87b6664b421e0984f125fe67"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ffd2434712d8313234b73481",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_twain_huckleberry_finn_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: ffd2434712d8313234b73481\noriginal_word_count: 452\n\nPassage:\nAnd he always let on that Peter wrote him the things; but that was a lie: he got every blessed one of them out of that young flathead that we canoed up to the steamboat.\n\nThen Mary Jane she fetched the letter her father left behind, and the king he read it out loud and cried over it. It give the dwelling-house and three thousand dollars, gold, to the girls; and it give the tanyard (which was doing a good business), along with some other houses and land (worth about seven thousand), and three thousand dollars in gold to Harvey and William, and told where the six thousand cash was hid down cellar. So these two frauds said they’d go and fetch it up, and have everything square and above-board; and told me to come with a candle. We shut the cellar door behind us, and when they found the bag they spilt it out on the floor, and it was a lovely sight, all them yaller-boys. My, the way the king’s eyes did shine! He slaps the duke on the shoulder and says:\n\n“Oh, _this_ ain’t bully nor noth’n! Oh, no, I reckon not! Why, Bilji, it beats the Nonesuch, _don’t_ it?”\n\nThe duke allowed it did. They pawed the yaller-boys, and sifted them through their fingers and let them jingle down on the floor; and the king says:\n\n“It ain’t no use talkin’; bein’ brothers to a rich dead man and representatives of furrin heirs that’s got left is the line for you and me, Bilge. Thish yer comes of trust’n to Providence. It’s the best way, in the long run. I’ve tried ’em all, and ther’ ain’t no better way.”\n\nMost everybody would a been satisfied with the pile, and took it on trust; but no, they must count it. So they counts it, and it comes out four hundred and fifteen dollars short. Says the king:\n\n“Dern him, I wonder what he done with that four hundred and fifteen dollars?”\n\nThey worried over that awhile, and ransacked all around for it. Then the duke says:\n\n“Well, he was a pretty sick man, and likely he made a mistake—I reckon that’s the way of it. The best way’s to let it go, and keep still about it. We can spare it.”\n\n“Oh, shucks, yes, we can _spare_ it. I don’t k’yer noth’n ’bout that—it’s the _count_ I’m thinkin’ about. We want to be awful square and open and above-board here, you know. We want to lug this h-yer money up stairs and count it before everybody—then ther’ ain’t noth’n suspicious. But when the dead man says ther’s six thous’n dollars, you know, we don’t want to—”"
+      },
+      "request_id": "ffd2434712d8313234b73481",
+      "request_sha256": "20349d6aed97785c5a6fb7fabf093d17f1d291180998a20c6533ed347e7c6a4a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "39db1c71f62698af61e885b2178c1de3c44cbc97937eda2d9a98234810489156"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7025890c794ab226f8f9ed5f",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_emma_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 7025890c794ab226f8f9ed5f\noriginal_word_count: 461\n\nPassage:\nShe would be placed in the midst of those who loved her, and who had better sense than herself; retired enough for safety, and occupied enough for cheerfulness. She would be never led into temptation, nor left for it to find her out. She would be respectable and happy; and Emma admitted her to be the luckiest creature in the world, to have created so steady and persevering an affection in such a man;—or, if not quite the luckiest, to yield only to herself.\n\nHarriet, necessarily drawn away by her engagements with the Martins, was less and less at Hartfield; which was not to be regretted.—The intimacy between her and Emma must sink; their friendship must change into a calmer sort of goodwill; and, fortunately, what ought to be, and must be, seemed already beginning, and in the most gradual, natural manner.\n\nBefore the end of September, Emma attended Harriet to church, and saw her hand bestowed on Robert Martin with so complete a satisfaction, as no remembrances, even connected with Mr. Elton as he stood before them, could impair.—Perhaps, indeed, at that time she scarcely saw Mr. Elton, but as the clergyman whose blessing at the altar might next fall on herself.—Robert Martin and Harriet Smith, the latest couple engaged of the three, were the first to be married.\n\nJane Fairfax had already quitted Highbury, and was restored to the comforts of her beloved home with the Campbells.—The Mr. Churchills were also in town; and they were only waiting for November.\n\nThe intermediate month was the one fixed on, as far as they dared, by Emma and Mr. Knightley.—They had determined that their marriage ought to be concluded while John and Isabella were still at Hartfield, to allow them the fortnight’s absence in a tour to the seaside, which was the plan.—John and Isabella, and every other friend, were agreed in approving it. But Mr. Woodhouse—how was Mr. Woodhouse to be induced to consent?—he, who had never yet alluded to their marriage but as a distant event.\n\nWhen first sounded on the subject, he was so miserable, that they were almost hopeless.—A second allusion, indeed, gave less pain.—He began to think it was to be, and that he could not prevent it—a very promising step of the mind on its way to resignation. Still, however, he was not happy. Nay, he appeared so much otherwise, that his daughter’s courage failed. She could not bear to see him suffering, to know him fancying himself neglected; and though her understanding almost acquiesced in the assurance of both the Mr. Knightleys, that when once the event were over, his distress would be soon over too, she hesitated—she could not proceed."
+      },
+      "request_id": "7025890c794ab226f8f9ed5f",
+      "request_sha256": "8b0d328679a4a9fa2c4441fa8faee48ceafb556e52df7e51504da799d6963d4a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3cfb39f0c48bc397c187ab85b68c7194b97124b1d127c3756726775614f659b5"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "407f7d94028d5a43cdce",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:01:24.091215+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e7117ceda65c032197eb37ff",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_shelley_the_last_man_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: e7117ceda65c032197eb37ff\noriginal_word_count: 471\n\nPassage:\nHe mounted a fiery horse, that which had borne him forward to victory in Greece; he fatigued himself with deadening exercise, losing the pangs of a troubled mind in animal sensation.\n\nHe slowly recovered himself; yet, at last, as one might from the effects of poison, he lifted his head from above the vapours of fever and passion into the still atmosphere of calm reflection. He meditated on what was best to be done. He was first struck by the space of time that had elapsed, since madness, rather than any reasonable impulse, had regulated his actions. A month had gone by, and during that time he had not seen Evadne. Her power, which was linked to few of the enduring emotions of his heart, had greatly decayed. He was no longer her slave—no longer her lover: he would never see her more, and by the completeness of his return, deserve the confidence of Perdita.\n\nYet, as he thus determined, fancy conjured up the miserable abode of the Greek girl. An abode, which from noble and lofty principle, she had refused to exchange for one of greater luxury. He thought of the splendour of her situation and appearance when he first knew her; he thought of her life at Constantinople, attended by every circumstance of oriental magnificence; of her present penury, her daily task of industry, her lorn state, her faded, famine-struck cheek. Compassion swelled his breast; he would see her once again; he would devise some plan for restoring her to society, and the enjoyment of her rank; their separation would then follow, as a matter of course.\n\nAgain he thought, how during this long month, he had avoided Perdita, flying from her as from the stings of his own conscience. But he was awake now; all this should be remedied; and future devotion erase the memory of this only blot on the serenity of their life. He became cheerful, as he thought of this, and soberly and resolutely marked out the line of conduct he would adopt. He remembered that he had promised Perdita to be present this very evening (the 19th of October, anniversary of his election as Protector) at a festival given in his honour. Good augury should this festival be of the happiness of future years. First, he would look in on Evadne; he would not stay; but he owed her some account, some compensation for his long and unannounced absence; and then to Perdita, to the forgotten world, to the duties of society, the splendour of rank, the enjoyment of power.\n\nAfter the scene sketched in the preceding pages, Perdita had contemplated an entire change in the manners and conduct of Raymond. She expected freedom of communication, and a return to those habits of affectionate intercourse which had formed the delight of her life."
+      },
+      "request_id": "e7117ceda65c032197eb37ff",
+      "request_sha256": "7aa6acbaff410698fe8558da8d6794eaa918988a7145d2b8c40942ffe2cb01aa",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "92c7f3df0bc7e34e1b216ce51c52494bf98c022128b6f0d3364333db916d9557"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3ee12c141267b474d5c704cf",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_wilde_canterville_ghost_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 3ee12c141267b474d5c704cf\noriginal_word_count: 459\n\nPassage:\nA FEW days after this, Virginia and her curly-haired cavalier went out riding on Brockley meadows, where she tore her habit so badly in getting through a hedge, that, on her return home, she made up her mind to go up by the back staircase so as not to be seen. As she was running past the Tapestry Chamber, the door of which happened to be open, she fancied she saw some one inside, and thinking it was her mother’s maid, who sometimes used to bring her work there, looked in to ask her to mend her habit. To her immense surprise, however, it was the Canterville Ghost himself! He was sitting by the window, watching the ruined gold of the yellowing trees fly through the air, and the red leaves dancing madly down the long avenue. His head was leaning on his hand, and his whole attitude was one of extreme depression. Indeed, so forlorn, and so much out of repair did he look, that little Virginia, whose first idea had been to run away and lock herself in her room, was filled with pity, and determined to try and comfort him. So light was her footfall, and so deep his melancholy, that he was not aware of her presence till she spoke to him.\n\n‘I am so sorry for you,’ she said, ‘but my brothers are going back to Eton to-morrow, and then, if you behave yourself, no one will annoy you.’\n\n‘It is absurd asking me to behave myself,’ he answered, looking round in astonishment at the pretty little girl who had ventured to address him, ‘quite absurd. I must rattle my chains, and groan through keyholes, and walk about at night, if that is what you mean. It is my only reason for existing.’\n\n‘It is no reason at all for existing, and you know you have been very wicked. Mrs. Umney told us, the first day we arrived here, that you had killed your wife.’\n\n‘Well, I quite admit it,’ said the Ghost petulantly, ‘but it was a purely family matter, and concerned no one else.’\n\n‘It is very wrong to kill any one,’ said Virginia, who at times had a sweet Puritan gravity, caught from some old New England ancestor.\n\n‘Oh, I hate the cheap severity of abstract ethics! My wife was very plain, never had my ruffs properly starched, and knew nothing about cookery. Why, there was a buck I had shot in Hogley Woods, a magnificent pricket, and do you know how she had it sent up to table? However, it is no matter now, for it is all over, and I don’t think it was very nice of her brothers to starve me to death, though I did kill her.’"
+      },
+      "request_id": "3ee12c141267b474d5c704cf",
+      "request_sha256": "96644017b7fb876c0040336e04b108af1bbde3f2056bcfe5a03704aefb2503fc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "24e8c85196f6dc968c7398d1708868291330edf0851a924c89ad57201dea4c2e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "228c28ce6621f0aba76daddf",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 228c28ce6621f0aba76daddf\noriginal_word_count: 454\n\nPassage:\nIf, however, you want one for home use, I can supply you with an excellent article, and guarantee that you will he satisfied with the result. May I ask for whom it is intended? If it is for the police, or for any one connected with Scotland Yard, I am afraid I cannot do anything for you. The English detectives are really our best friends, and I have always found that by relying on their stupidity, we can do exactly what we like. I could not spare one of them.’\n\n‘I assure you,’ said Lord Arthur, ‘that it has nothing to do with the police at all. In fact, the clock is intended for the Dean of Chichester.’\n\n‘Dear me! I had no idea that you felt so strongly about religion, Lord Arthur. Few young men do nowadays.’\n\n‘I am afraid you overrate me, Herr Winckelkopf,’ said Lord Arthur, blushing. ‘The fact is, I really know nothing about theology.’\n\n‘It is a purely private matter then?’\n\n‘Purely private.’\n\nHerr Winckelkopf shrugged his shoulders, and left the room, returning in a few minutes with a round cake of dynamite about the size of a penny, and a pretty little French clock, surmounted by an ormolu figure of Liberty trampling on the hydra of Despotism.\n\nLord Arthur’s face brightened up when he saw it. ‘That is just what I want,’ he cried, ‘and now tell me how it goes off.’\n\n‘Ah! there is my secret,’ answered Herr Winckelkopf, contemplating his invention with a justifiable look of pride; ‘let me know when you wish it to explode, and I will set the machine to the moment.’\n\n‘Well, to-day is Tuesday, and if you could send it off at once—’\n\n‘That is impossible; I have a great deal of important work on hand for some friends of mine in Moscow. Still, I might send it off to-morrow.’\n\n‘Oh, it will be quite time enough!’ said Lord Arthur politely, ‘if it is delivered to-morrow night or Thursday morning. For the moment of the explosion, say Friday at noon exactly. The Dean is always at home at that hour.’\n\n‘Friday, at noon,’ repeated Herr Winckelkopf, and he made a note to that effect in a large ledger that was lying on a bureau near the fireplace.\n\n‘And now,’ said Lord Arthur, rising from his seat, ‘pray let me know how much I am in your debt.’\n\n‘It is such a small matter, Lord Arthur, that I do not care to make any charge. The dynamite comes to seven and sixpence, the clock will be three pounds ten, and the carriage about five shillings. I am only too pleased to oblige any friend of Count Rouvaloff’s.’\n\n‘But your trouble, Herr Winckelkopf?’"
+      },
+      "request_id": "228c28ce6621f0aba76daddf",
+      "request_sha256": "00929390d66a7bf9f35e4ecf3efef522d1b9872ac9e8f5215af9e59e3c71b230",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "20ddb375329305b47d960aa9e9dafc7300acad38407a60623dcfa08452a3fcc6"
+    }
+  ],
+  "session_id": "01a0e84b-0c07-7f62-8492-38d6630a3d8a",
+  "worker_id": "astra_n",
+  "worker_identity_sha256": "af3df2dfd1bd45965959790098af7e2b94db79efd262f1f2cc3e95a3ae8be86e"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "f8a48fceb8314e49b793",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:58:58.243317+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e3723b54bd332e4613757e69",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_dickens_oliver_twist_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e3723b54bd332e4613757e69\noriginal_word_count: 453\n\nPassage:\nMaster Charles Bates, appalled by Sikes’s crime, fell into a train of reflection whether an honest life was not, after all, the best. Arriving at the conclusion that it certainly was, he turned his back upon the scenes of the past, resolved to amend it in some new sphere of action. He struggled hard, and suffered much, for some time; but, having a contented disposition, and a good purpose, succeeded in the end; and, from being a farmer’s drudge, and a carrier’s lad, he is now the merriest young grazier in all Northamptonshire.\n\nAnd now, the hand that traces these words, falters, as it approaches the conclusion of its task; and would weave, for a little longer space, the thread of these adventures.\n\nI would fain linger yet with a few of those among whom I have so long moved, and share their happiness by endeavouring to depict it. I would show Rose Maylie in all the bloom and grace of early womanhood, shedding on her secluded path in life soft and gentle light, that fell on all who trod it with her, and shone into their hearts. I would paint her the life and joy of the fire-side circle and the lively summer group; I would follow her through the sultry fields at noon, and hear the low tones of her sweet voice in the moonlit evening walk; I would watch her in all her goodness and charity abroad, and the smiling untiring discharge of domestic duties at home; I would paint her and her dead sister’s child happy in their love for one another, and passing whole hours together in picturing the friends whom they had so sadly lost; I would summon before me, once again, those joyous little faces that clustered round her knee, and listen to their merry prattle; I would recall the tones of that clear laugh, and conjure up the sympathising tear that glistened in the soft blue eye. These, and a thousand looks and smiles, and turns of thought and speech—I would fain recall them every one.\n\nHow Mr. Brownlow went on, from day to day, filling the mind of his adopted child with stores of knowledge, and becoming attached to him, more and more, as his nature developed itself, and showed the thriving seeds of all he wished him to become—how he traced in him new traits of his early friend, that awakened in his own bosom old remembrances, melancholy and yet sweet and soothing—how the two orphans, tried by adversity, remembered its lessons in mercy to others, and mutual love, and fervent thanks to Him who had protected and preserved them—these are all matters which need not to be told."
+      },
+      "request_id": "e3723b54bd332e4613757e69",
+      "request_sha256": "b4ce3541df8d479277df320e276bbcd2e90a329eb4dcb2a7e5c585c287c2d076",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1cd1cb7f07d128f484d0f84b1e93dfd2759e7e81f2bd388b80a85a881d34bfbb"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "08a191b0e9c3fbea24586506",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_wilde_dorian_gray_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 08a191b0e9c3fbea24586506\noriginal_word_count: 464\n\nPassage:\nHe jumped up and seized her roughly by the arm. “Show him to me. Which is he? Point him out. I must see him!” he exclaimed; but at that moment the Duke of Berwick’s four-in-hand came between, and when it had left the space clear, the carriage had swept out of the park.\n\n“He is gone,” murmured Sibyl sadly. “I wish you had seen him.”\n\n“I wish I had, for as sure as there is a God in heaven, if he ever does you any wrong, I shall kill him.”\n\nShe looked at him in horror. He repeated his words. They cut the air like a dagger. The people round began to gape. A lady standing close to her tittered.\n\n“Come away, Jim; come away,” she whispered. He followed her doggedly as she passed through the crowd. He felt glad at what he had said.\n\nWhen they reached the Achilles Statue, she turned round. There was pity in her eyes that became laughter on her lips. She shook her head at him. “You are foolish, Jim, utterly foolish; a bad-tempered boy, that is all. How can you say such horrible things? You don’t know what you are talking about. You are simply jealous and unkind. Ah! I wish you would fall in love. Love makes people good, and what you said was wicked.”\n\n“I am sixteen,” he answered, “and I know what I am about. Mother is no help to you. She doesn’t understand how to look after you. I wish now that I was not going to Australia at all. I have a great mind to chuck the whole thing up. I would, if my articles hadn’t been signed.”\n\n“Oh, don’t be so serious, Jim. You are like one of the heroes of those silly melodramas Mother used to be so fond of acting in. I am not going to quarrel with you. I have seen him, and oh! to see him is perfect happiness. We won’t quarrel. I know you would never harm any one I love, would you?”\n\n“Not as long as you love him, I suppose,” was the sullen answer.\n\n“I shall love him for ever!” she cried.\n\n“And he?”\n\n“For ever, too!”\n\n“He had better.”\n\nShe shrank from him. Then she laughed and put her hand on his arm. He was merely a boy.\n\nAt the Marble Arch they hailed an omnibus, which left them close to their shabby home in the Euston Road. It was after five o’clock, and Sibyl had to lie down for a couple of hours before acting. Jim insisted that she should do so. He said that he would sooner part with her when their mother was not present. She would be sure to make a scene, and he detested scenes of every kind."
+      },
+      "request_id": "08a191b0e9c3fbea24586506",
+      "request_sha256": "b50b758ccfe752cc404fd1093b7a4d794998c8e3007947475d550e747ddc6f03",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ddc94823911f71e607473fd69d6683244b4310c34be82c31c6baf0884df41774"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "62f55ceb91b57b1013014cfe",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_poe_hans_pfaal_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 62f55ceb91b57b1013014cfe\noriginal_word_count: 485\n\nPassage:\n“April 12th. A singular alteration took place in regard to the direction of the balloon, and although fully anticipated, afforded me the most unequivocal delight. Having reached, in its former course, about the twentieth parallel of southern latitude, it turned off suddenly, at an acute angle, to the eastward, and thus proceeded throughout the day, keeping nearly, if not altogether, in the exact plane of the lunar ellipse. What was worthy of remark, a very perceptible vacillation in the car was a consequence of this change of route—a vacillation which prevailed, in a more or less degree, for a period of many hours.\n\n“April 13th. Was again very much alarmed by a repetition of the loud, crackling noise which terrified me on the tenth. Thought long upon the subject, but was unable to form any satisfactory conclusion. Great decrease in the earth’s apparent diameter, which now subtended from the balloon an angle of very little more than twenty-five degrees. The moon could not be seen at all, being nearly in my zenith. I still continued in the plane of the ellipse, but made little progress to the eastward.\n\n“April 14th. Extremely rapid decrease in the diameter of the earth. To-day I became strongly impressed with the idea, that the balloon was now actually running up the line of apsides to the point of perigee—in other words, holding the direct course which would bring it immediately to the moon in that part of its orbit the nearest to the earth. The moon itself was directly overhead, and consequently hidden from my view. Great and long-continued labor necessary for the condensation of the atmosphere.\n\n“April 15th. Not even the outlines of continents and seas could now be traced upon the earth with anything approaching distinctness. About twelve o’clock I became aware, for the third time, of that appalling sound which had so astonished me before. It now, however, continued for some moments, and gathered intensity as it continued. At length, while, stupefied and terror-stricken, I stood in expectation of I knew not what hideous destruction, the car vibrated with excessive violence, and a gigantic and flaming mass of some material which I could not distinguish, came with a voice of a thousand thunders, roaring and booming by the balloon. When my fears and astonishment had in some degree subsided, I had little difficulty in supposing it to be some mighty volcanic fragment ejected from that world to which I was so rapidly approaching, and, in all probability, one of that singular class of substances occasionally picked up on the earth, and termed meteoric stones for want of a better appellation.\n\n“April 16th. To-day, looking upward as well as I could, through each of the side windows alternately, I beheld, to my great delight, a very small portion of the moon’s disk protruding, as it were, on all sides beyond the huge circumference of the balloon."
+      },
+      "request_id": "62f55ceb91b57b1013014cfe",
+      "request_sha256": "a8d8b1d3c48c4f625af7f7f11a72effa137b2ef2d85f77275aa905190ec204b2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e33d9cc3429e31c379c872f8e159c33fc6ce1ec50aee3a9b003bbef61e9bad55"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

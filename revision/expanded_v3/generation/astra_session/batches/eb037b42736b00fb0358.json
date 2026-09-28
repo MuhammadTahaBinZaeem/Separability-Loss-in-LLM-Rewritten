@@ -1,0 +1,68 @@
+{
+  "batch_id": "eb037b42736b00fb0358",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:52:17.609753+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c277719191affc3d167cfd13",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_wilde_canterville_ghost_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: c277719191affc3d167cfd13\noriginal_word_count: 485\n\nPassage:\nHe stepped stealthily out of the wainscoting, with an evil smile on his cruel, wrinkled mouth, and the moon hid her face in a cloud as he stole past the great oriel window, where his own arms and those of his murdered wife were blazoned in azure and gold. On and on he glided, like an evil shadow, the very darkness seeming to loathe him as he passed. Once he thought he heard something call, and stopped; but it was only the baying of a dog from the Red Farm, and he went on, muttering strange sixteenth-century curses, and ever and anon brandishing the rusty dagger in the midnight air. Finally he reached the corner of the passage that led to luckless Washington’s room. For a moment he paused there, the wind blowing his long grey locks about his head, and twisting into grotesque and fantastic folds the nameless horror of the dead man’s shroud. Then the clock struck the quarter, and he felt the time was come. He chuckled to himself, and turned the corner; but no sooner had he done so, than, with a piteous wail of terror, he fell back, and hid his blanched face in his long, bony hands. Right in front of him was standing a horrible spectre, motionless as a carven image, and monstrous as a madman’s dream! Its head was bald and burnished; its face round, and fat, and white; and hideous laughter seemed to have writhed its features into an eternal grin. From the eyes streamed rays of scarlet light, the mouth was a wide well of fire, and a hideous garment, like to his own, swathed with its silent snows the Titan form. On its breast was a placard with strange writing in antique characters, some scroll of shame it seemed, some record of wild sins, some awful calendar of crime, and, with its right hand, it bore aloft a falchion of gleaming steel.\n\nNever having seen a ghost before, he naturally was terribly frightened, and, after a second hasty glance at the awful phantom, he fled back to his room, tripping up in his long winding-sheet as he sped down the corridor, and finally dropping the rusty dagger into the Minister’s jack-boots, where it was found in the morning by the butler. Once in the privacy of his own apartment, he flung himself down on a small pallet-bed, and hid his face under the clothes. After a time, however, the brave old Canterville spirit asserted itself, and he determined to go and speak to the other ghost as soon as it was daylight. Accordingly, just as the dawn was touching the hills with silver, he returned towards the spot where he had first laid eyes on the grisly phantom, feeling that, after all, two ghosts were better than one, and that, by the aid of his new friend, he might safely grapple with the twins."
+      },
+      "request_id": "c277719191affc3d167cfd13",
+      "request_sha256": "29d0c9fbfdd76c67d63bf9b52c291a8be9be2c2082002c17a3e45160cfdea081",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a4e1341cc39a43e66402427ac7cef8908e07b0261bd77bc340aafec28b040dcc"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4d6847b0e06eca424bb86be5",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 468,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 4d6847b0e06eca424bb86be5\noriginal_word_count: 468\n\nPassage:\nSuddenly Mr. Podgers dropped Lord Arthur’s right hand, and seized hold of his left, bending down so low to examine it that the gold rims of his spectacles seemed almost to touch the palm. For a moment his face became a white mask of horror, but he soon recovered his _sang-froid_, and looking up at Lady Windermere, said with a forced smile, ‘It is the hand of a charming young man.\n\n‘Of course it is!’ answered Lady Windermere, ‘but will he be a charming husband? That is what I want to know.’\n\n‘All charming young men are,’ said Mr. Podgers.\n\n‘I don’t think a husband should be too fascinating,’ murmured Lady Jedburgh pensively, ‘it is so dangerous.’\n\n‘My dear child, they never are too fascinating,’ cried Lady Windermere. ‘But what I want are details. Details are the only things that interest. What is going to happen to Lord Arthur?’\n\n‘Well, within the next few months Lord Arthur will go a voyage—’\n\n‘Oh yes, his honeymoon, of course!’\n\n‘And lose a relative.’\n\n‘Not his sister, I hope?’ said Lady Jedburgh, in a piteous tone of voice.\n\n‘Certainly not his sister,’ answered Mr. Podgers, with a deprecating wave of the hand, ‘a distant relative merely.’\n\n‘Well, I am dreadfully disappointed,’ said Lady Windermere. ‘I have absolutely nothing to tell Sybil to-morrow. No one cares about distant relatives nowadays. They went out of fashion years ago. However, I suppose she had better have a black silk by her; it always does for church, you know. And now let us go to supper. They are sure to have eaten everything up, but we may find some hot soup. François used to make excellent soup once, but he is so agitated about politics at present, that I never feel quite certain about him. I do wish General Boulanger would keep quiet. Duchess, I am sure you are tired?’\n\n‘Not at all, dear Gladys,’ answered the Duchess, waddling towards the door. ‘I have enjoyed myself immensely, and the cheiropodist, I mean the cheiromantist, is most interesting. Flora, where can my tortoise-shell fan be? Oh, thank you, Sir Thomas, so much. And my lace shawl, Flora? Oh, thank you, Sir Thomas, very kind, I’m sure’; and the worthy creature finally managed to get downstairs without dropping her scent-bottle more than twice.\n\nAll this time Lord Arthur Savile had remained standing by the fireplace, with the same feeling of dread over him, the same sickening sense of coming evil. He smiled sadly at his sister, as she swept past him on Lord Plymdale’s arm, looking lovely in her pink brocade and pearls, and he hardly heard Lady Windermere when she called to him to follow her. He thought of Sybil Merton, and the idea that anything could come between them made his eyes dim with tears."
+      },
+      "request_id": "4d6847b0e06eca424bb86be5",
+      "request_sha256": "940d700b6c1a45e521de4b440852d699ac2f38473df2323ae031cd3dcc072492",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ed62511bba607353a6247e283771f8bfdbb6b6db1e60a964f520bb6ed0c35dcc"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "57bf64b3cf4d443209b6a129",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 528,
+      "passage_id": "V2_austen_emma_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 57bf64b3cf4d443209b6a129\noriginal_word_count: 528\n\nPassage:\nThis little explanation with Mr. Knightley gave Emma considerable pleasure. It was one of the agreeable recollections of the ball, which she walked about the lawn the next morning to enjoy.—She was extremely glad that they had come to so good an understanding respecting the Eltons, and that their opinions of both husband and wife were so much alike; and his praise of Harriet, his concession in her favour, was peculiarly gratifying. The impertinence of the Eltons, which for a few minutes had threatened to ruin the rest of her evening, had been the occasion of some of its highest satisfactions; and she looked forward to another happy result—the cure of Harriet’s infatuation.—From Harriet’s manner of speaking of the circumstance before they quitted the ballroom, she had strong hopes. It seemed as if her eyes were suddenly opened, and she were enabled to see that Mr. Elton was not the superior creature she had believed him. The fever was over, and Emma could harbour little fear of the pulse being quickened again by injurious courtesy. She depended on the evil feelings of the Eltons for supplying all the discipline of pointed neglect that could be farther requisite.—Harriet rational, Frank Churchill not too much in love, and Mr. Knightley not wanting to quarrel with her, how very happy a summer must be before her!\n\nShe was not to see Frank Churchill this morning. He had told her that he could not allow himself the pleasure of stopping at Hartfield, as he was to be at home by the middle of the day. She did not regret it.\n\nHaving arranged all these matters, looked them through, and put them all to rights, she was just turning to the house with spirits freshened up for the demands of the two little boys, as well as of their grandpapa, when the great iron sweep-gate opened, and two persons entered whom she had never less expected to see together—Frank Churchill, with Harriet leaning on his arm—actually Harriet!—A moment sufficed to convince her that something extraordinary had happened. Harriet looked white and frightened, and he was trying to cheer her.—The iron gates and the front-door were not twenty yards asunder;—they were all three soon in the hall, and Harriet immediately sinking into a chair fainted away.\n\nA young lady who faints, must be recovered; questions must be answered, and surprizes be explained. Such events are very interesting, but the suspense of them cannot last long. A few minutes made Emma acquainted with the whole.\n\nMiss Smith, and Miss Bickerton, another parlour boarder at Mrs. Goddard’s, who had been also at the ball, had walked out together, and taken a road, the Richmond road, which, though apparently public enough for safety, had led them into alarm.—About half a mile beyond Highbury, making a sudden turn, and deeply shaded by elms on each side, it became for a considerable stretch very retired; and when the young ladies had advanced some way into it, they had suddenly perceived at a small distance before them, on a broader patch of greensward by the side, a party of gipsies."
+      },
+      "request_id": "57bf64b3cf4d443209b6a129",
+      "request_sha256": "ffe0cc8c8c1fc478cea6947c46f1b2c1c8ba1847c421e14ce82cf0e989d26a8e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2119db62c7476e2a05077d8b9f21247ff4befda5f35f1efdd5c863de8fe41068"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

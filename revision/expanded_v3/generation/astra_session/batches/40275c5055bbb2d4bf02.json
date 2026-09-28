@@ -1,0 +1,68 @@
+{
+  "batch_id": "40275c5055bbb2d4bf02",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:35:04.783551+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "32e11247bf9b4c66393cd30a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_poe_murders_rue_morgue_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 32e11247bf9b4c66393cd30a\noriginal_word_count: 457\n\nPassage:\nMadame and Mademoiselle L’Espanaye were not destroyed by spirits. The doers of the deed were material, and escaped materially. Then how? Fortunately, there is but one mode of reasoning upon the point, and that mode _must_ lead us to a definite decision. Let us examine, each by each, the possible means of egress. It is clear that the assassins were in the room where Mademoiselle L’Espanaye was found, or at least in the room adjoining, when the party ascended the stairs. It is then only from these two apartments that we have to seek issues. The police have laid bare the floors, the ceilings, and the masonry of the walls, in every direction. No _secret_ issues could have escaped their vigilance. But, not trusting to _their_ eyes, I examined with my own. There were, then, no secret issues. Both doors leading from the rooms into the passage were securely locked, with the keys inside. Let us turn to the chimneys. These, although of ordinary width for some eight or ten feet above the hearths, will not admit, throughout their extent, the body of a large cat. The impossibility of egress, by means already stated, being thus absolute, we are reduced to the windows. Through those of the front room no one could have escaped without notice from the crowd in the street. The murderers _must_ have passed, then, through those of the back room. Now, brought to this conclusion in so unequivocal a manner as we are, it is not our part, as reasoners, to reject it on account of apparent impossibilities. It is only left for us to prove that these apparent ‘impossibilities’ are, in reality, not such.\n\n“There are two windows in the chamber. One of them is unobstructed by furniture, and is wholly visible. The lower portion of the other is hidden from view by the head of the unwieldy bedstead which is thrust close up against it. The former was found securely fastened from within. It resisted the utmost force of those who endeavored to raise it. A large gimlet-hole had been pierced in its frame to the left, and a very stout nail was found fitted therein, nearly to the head. Upon examining the other window, a similar nail was seen similarly fitted in it; and a vigorous attempt to raise this sash, failed also. The police were now entirely satisfied that egress had not been in these directions. And, _therefore_, it was thought a matter of supererogation to withdraw the nails and open the windows.\n\n“My own examination was somewhat more particular, and was so for the reason I have just given—because here it was, I knew, that all apparent impossibilities _must_ be proved to be not such in reality."
+      },
+      "request_id": "32e11247bf9b4c66393cd30a",
+      "request_sha256": "6f90f5aee2a06716567604b5104ddcece039283ca3283ee987679646887ebcb0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "87b698a41d9f3be3b5c6feb62523b020839ff52dacda0a15dd7c5ca3b503c4dd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "346a15b2863e3c83e927058d",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 468,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 346a15b2863e3c83e927058d\noriginal_word_count: 468\n\nPassage:\nSuddenly Mr. Podgers dropped Lord Arthur’s right hand, and seized hold of his left, bending down so low to examine it that the gold rims of his spectacles seemed almost to touch the palm. For a moment his face became a white mask of horror, but he soon recovered his _sang-froid_, and looking up at Lady Windermere, said with a forced smile, ‘It is the hand of a charming young man.\n\n‘Of course it is!’ answered Lady Windermere, ‘but will he be a charming husband? That is what I want to know.’\n\n‘All charming young men are,’ said Mr. Podgers.\n\n‘I don’t think a husband should be too fascinating,’ murmured Lady Jedburgh pensively, ‘it is so dangerous.’\n\n‘My dear child, they never are too fascinating,’ cried Lady Windermere. ‘But what I want are details. Details are the only things that interest. What is going to happen to Lord Arthur?’\n\n‘Well, within the next few months Lord Arthur will go a voyage—’\n\n‘Oh yes, his honeymoon, of course!’\n\n‘And lose a relative.’\n\n‘Not his sister, I hope?’ said Lady Jedburgh, in a piteous tone of voice.\n\n‘Certainly not his sister,’ answered Mr. Podgers, with a deprecating wave of the hand, ‘a distant relative merely.’\n\n‘Well, I am dreadfully disappointed,’ said Lady Windermere. ‘I have absolutely nothing to tell Sybil to-morrow. No one cares about distant relatives nowadays. They went out of fashion years ago. However, I suppose she had better have a black silk by her; it always does for church, you know. And now let us go to supper. They are sure to have eaten everything up, but we may find some hot soup. François used to make excellent soup once, but he is so agitated about politics at present, that I never feel quite certain about him. I do wish General Boulanger would keep quiet. Duchess, I am sure you are tired?’\n\n‘Not at all, dear Gladys,’ answered the Duchess, waddling towards the door. ‘I have enjoyed myself immensely, and the cheiropodist, I mean the cheiromantist, is most interesting. Flora, where can my tortoise-shell fan be? Oh, thank you, Sir Thomas, so much. And my lace shawl, Flora? Oh, thank you, Sir Thomas, very kind, I’m sure’; and the worthy creature finally managed to get downstairs without dropping her scent-bottle more than twice.\n\nAll this time Lord Arthur Savile had remained standing by the fireplace, with the same feeling of dread over him, the same sickening sense of coming evil. He smiled sadly at his sister, as she swept past him on Lord Plymdale’s arm, looking lovely in her pink brocade and pearls, and he hardly heard Lady Windermere when she called to him to follow her. He thought of Sybil Merton, and the idea that anything could come between them made his eyes dim with tears."
+      },
+      "request_id": "346a15b2863e3c83e927058d",
+      "request_sha256": "88b265b828c0a289aef00d398f354146d6a071d16c0a19d14a0d93048e5eadc0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ed62511bba607353a6247e283771f8bfdbb6b6db1e60a964f520bb6ed0c35dcc"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8202c95d551617f58968471c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_great_expectations_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8202c95d551617f58968471c\noriginal_word_count: 450\n\nPassage:\nShe looked at me keenly for a little while, and then said quietly,—\n\n“What do you want for them?”\n\n“Only,” said I, “that you would not confound them with the others. They may be of the same blood, but, believe me, they are not of the same nature.”\n\nStill looking at me keenly, Miss Havisham repeated,—\n\n“What do you want for them?”\n\n“I am not so cunning, you see,” I said, in answer, conscious that I reddened a little, “as that I could hide from you, even if I desired, that I do want something. Miss Havisham, if you would spare the money to do my friend Herbert a lasting service in life, but which from the nature of the case must be done without his knowledge, I could show you how.”\n\n“Why must it be done without his knowledge?” she asked, settling her hands upon her stick, that she might regard me the more attentively.\n\n“Because,” said I, “I began the service myself, more than two years ago, without his knowledge, and I don’t want to be betrayed. Why I fail in my ability to finish it, I cannot explain. It is a part of the secret which is another person’s and not mine.”\n\nShe gradually withdrew her eyes from me, and turned them on the fire. After watching it for what appeared in the silence and by the light of the slowly wasting candles to be a long time, she was roused by the collapse of some of the red coals, and looked towards me again—at first, vacantly—then, with a gradually concentrating attention. All this time Estella knitted on. When Miss Havisham had fixed her attention on me, she said, speaking as if there had been no lapse in our dialogue,—\n\n“What else?”\n\n“Estella,” said I, turning to her now, and trying to command my trembling voice, “you know I love you. You know that I have loved you long and dearly.”\n\nShe raised her eyes to my face, on being thus addressed, and her fingers plied their work, and she looked at me with an unmoved countenance. I saw that Miss Havisham glanced from me to her, and from her to me.\n\n“I should have said this sooner, but for my long mistake. It induced me to hope that Miss Havisham meant us for one another. While I thought you could not help yourself, as it were, I refrained from saying it. But I must say it now.”\n\nPreserving her unmoved countenance, and with her fingers still going, Estella shook her head.\n\n“I know,” said I, in answer to that action,—“I know. I have no hope that I shall ever call you mine, Estella."
+      },
+      "request_id": "8202c95d551617f58968471c",
+      "request_sha256": "e7cc480b279e3135fea373fa00770deaba5408fa950c5d8147ebe664733c29f6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "39294001316e512390a626779ab326486027e51e10a0c9a2c0e23b5649be30d5"
+    }
+  ],
+  "session_id": "01a0e870-b3dc-74f3-b9ee-b27dbd5dd892",
+  "worker_id": "astra_x",
+  "worker_identity_sha256": "7c3a0144cf89773a3dc35b850a0bd602d9bf1a04c8ed1e402a69d4a4892146a6"
+}

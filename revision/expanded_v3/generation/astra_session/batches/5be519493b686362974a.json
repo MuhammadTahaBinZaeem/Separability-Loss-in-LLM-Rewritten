@@ -1,0 +1,68 @@
+{
+  "batch_id": "5be519493b686362974a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:52:42.457679+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5e083a8ee5881b4b23ebaa0d",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_poe_murders_rue_morgue_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 5e083a8ee5881b4b23ebaa0d\noriginal_word_count: 452\n\nPassage:\nOn the hearth were two or three long and thick tresses of grey human hair, also dabbled in blood, and seeming to have been pulled out by the roots. Upon the floor were found four Napoleons, an ear-ring of topaz, three large silver spoons, three smaller of _métal d’Alger_, and two bags, containing nearly four thousand francs in gold. The drawers of a _bureau_, which stood in one corner were open, and had been, apparently, rifled, although many articles still remained in them. A small iron safe was discovered under the _bed_ (not under the bedstead). It was open, with the key still in the door. It had no contents beyond a few old letters, and other papers of little consequence.\n\n“Of Madame L’Espanaye no traces were here seen; but an unusual quantity of soot being observed in the fire-place, a search was made in the chimney, and (horrible to relate!) the corpse of the daughter, head downward, was dragged therefrom; it having been thus forced up the narrow aperture for a considerable distance. The body was quite warm. Upon examining it, many excoriations were perceived, no doubt occasioned by the violence with which it had been thrust up and disengaged. Upon the face were many severe scratches, and, upon the throat, dark bruises, and deep indentations of finger nails, as if the deceased had been throttled to death.\n\n“After a thorough investigation of every portion of the house, without farther discovery, the party made its way into a small paved yard in the rear of the building, where lay the corpse of the old lady, with her throat so entirely cut that, upon an attempt to raise her, the head fell off. The body, as well as the head, was fearfully mutilated—the former so much so as scarcely to retain any semblance of humanity.\n\n“To this horrible mystery there is not as yet, we believe, the slightest clew.”\n\nThe next day’s paper had these additional particulars.\n\n“_The Tragedy in the Rue Morgue._—Many individuals have been examined in relation to this most extraordinary and frightful affair” [The word ‘affaire’ has not yet, in France, that levity of import which it conveys with us], “but nothing whatever has transpired to throw light upon it. We give below all the material testimony elicited.\n\n“_Pauline Dubourg_, laundress, deposes that she has known both the deceased for three years, having washed for them during that period. The old lady and her daughter seemed on good terms—very affectionate towards each other. They were excellent pay. Could not speak in regard to their mode or means of living. Believed that Madame L. told fortunes for a living. Was reputed to have money put by."
+      },
+      "request_id": "5e083a8ee5881b4b23ebaa0d",
+      "request_sha256": "908d581beb6ca9936d6a41eb70ebf3d4bc17563ead431a1c5b99e1841de6f853",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "edfbf35c412db13b15409709d2db58f00413689b358e713fc8c046ed799231fa"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e9674e04f906519adf726597",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_twain_tom_sawyer_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e9674e04f906519adf726597\noriginal_word_count: 454\n\nPassage:\nA trifle after noon the boys borrowed a small skiff from a citizen who was absent, and got under way at once. When they were several miles below “Cave Hollow,” Tom said:\n\n“Now you see this bluff here looks all alike all the way down from the cave hollow—no houses, no wood-yards, bushes all alike. But do you see that white place up yonder where there’s been a landslide? Well, that’s one of my marks. We’ll get ashore, now.”\n\nThey landed.\n\n“Now, Huck, where we’re a-standing you could touch that hole I got out of with a fishing-pole. See if you can find it.”\n\nHuck searched all the place about, and found nothing. Tom proudly marched into a thick clump of sumach bushes and said:\n\n“Here you are! Look at it, Huck; it’s the snuggest hole in this country. You just keep mum about it. All along I’ve been wanting to be a robber, but I knew I’d got to have a thing like this, and where to run across it was the bother. We’ve got it now, and we’ll keep it quiet, only we’ll let Joe Harper and Ben Rogers in—because of course there’s got to be a Gang, or else there wouldn’t be any style about it. Tom Sawyer’s Gang—it sounds splendid, don’t it, Huck?”\n\n“Well, it just does, Tom. And who’ll we rob?”\n\n“Oh, most anybody. Waylay people—that’s mostly the way.”\n\n“And kill them?”\n\n“No, not always. Hive them in the cave till they raise a ransom.”\n\n“What’s a ransom?”\n\n“Money. You make them raise all they can, off’n their friends; and after you’ve kept them a year, if it ain’t raised then you kill them. That’s the general way. Only you don’t kill the women. You shut up the women, but you don’t kill them. They’re always beautiful and rich, and awfully scared. You take their watches and things, but you always take your hat off and talk polite. They ain’t anybody as polite as robbers—you’ll see that in any book. Well, the women get to loving you, and after they’ve been in the cave a week or two weeks they stop crying and after that you couldn’t get them to leave. If you drove them out they’d turn right around and come back. It’s so in all the books.”\n\n“Why, it’s real bully, Tom. I believe it’s better’n to be a pirate.”\n\n“Yes, it’s better in some ways, because it’s close to home and circuses and all that.”\n\nBy this time everything was ready and the boys entered the hole, Tom in the lead. They toiled their way to the farther end of the tunnel, then made their spliced kite-strings fast and moved on."
+      },
+      "request_id": "e9674e04f906519adf726597",
+      "request_sha256": "f56f88a9da68cf25f8a6e4655f893e5411a1a984d239ccd7d824f3a3fe70fc5d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a13d57a078f1666fdadd2e50276172914f25ee67613d4cff2383572f23cc2c1d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f4b3ca140542531d920f5d24",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_persuasion_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: f4b3ca140542531d920f5d24\noriginal_word_count: 461\n\nPassage:\n“I must go, uncertain of my fate; but I shall return hither, or follow your party, as soon as possible. A word, a look, will be enough to decide whether I enter your father’s house this evening or never.”\n\nSuch a letter was not to be soon recovered from. Half an hour’s solitude and reflection might have tranquillized her; but the ten minutes only which now passed before she was interrupted, with all the restraints of her situation, could do nothing towards tranquillity. Every moment rather brought fresh agitation. It was overpowering happiness. And before she was beyond the first stage of full sensation, Charles, Mary, and Henrietta all came in.\n\nThe absolute necessity of seeming like herself produced then an immediate struggle; but after a while she could do no more. She began not to understand a word they said, and was obliged to plead indisposition and excuse herself. They could then see that she looked very ill, were shocked and concerned, and would not stir without her for the world. This was dreadful. Would they only have gone away, and left her in the quiet possession of that room it would have been her cure; but to have them all standing or waiting around her was distracting, and in desperation, she said she would go home.\n\n“By all means, my dear,” cried Mrs Musgrove, “go home directly, and take care of yourself, that you may be fit for the evening. I wish Sarah was here to doctor you, but I am no doctor myself. Charles, ring and order a chair. She must not walk.”\n\nBut the chair would never do. Worse than all! To lose the possibility of speaking two words to Captain Wentworth in the course of her quiet, solitary progress up the town (and she felt almost certain of meeting him) could not be borne. The chair was earnestly protested against, and Mrs Musgrove, who thought only of one sort of illness, having assured herself with some anxiety, that there had been no fall in the case; that Anne had not at any time lately slipped down, and got a blow on her head; that she was perfectly convinced of having had no fall; could part with her cheerfully, and depend on finding her better at night.\n\nAnxious to omit no possible precaution, Anne struggled, and said—\n\n“I am afraid, ma’am, that it is not perfectly understood. Pray be so good as to mention to the other gentlemen that we hope to see your whole party this evening. I am afraid there had been some mistake; and I wish you particularly to assure Captain Harville and Captain Wentworth, that we hope to see them both.”\n\n“Oh! my dear, it is quite understood, I give you my word."
+      },
+      "request_id": "f4b3ca140542531d920f5d24",
+      "request_sha256": "377e52d27c1bf2f7ea5c7be0a6000be9e5ab053659e85917ffc0c00727d079d5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9b8a6b29a879f4f3117e06929fa43c268ac9c4cef1d703fbd4f391380db75821"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}
