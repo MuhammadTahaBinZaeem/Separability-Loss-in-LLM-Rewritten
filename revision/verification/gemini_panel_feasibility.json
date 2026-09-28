@@ -1,0 +1,47 @@
+{
+  "generation_accounting_complete": true,
+  "not_scientific_results": true,
+  "panels": [
+    {
+      "eligible_passages": 359,
+      "feasible": true,
+      "panel": "valid_full",
+      "works": 18
+    },
+    {
+      "eligible_passages": 339,
+      "feasible": true,
+      "panel": "matched200_full",
+      "works": 18
+    },
+    {
+      "eligible_passages": 339,
+      "feasible": true,
+      "panel": "w200_prefix",
+      "works": 18
+    },
+    {
+      "eligible_passages": 339,
+      "feasible": true,
+      "panel": "w200_middle",
+      "works": 18
+    },
+    {
+      "eligible_passages": 339,
+      "feasible": true,
+      "panel": "w200_suffix",
+      "works": 18
+    },
+    {
+      "feasible": false,
+      "panel": "matched300_full",
+      "reason": "A whole author/work is unavailable in this panel"
+    },
+    {
+      "feasible": false,
+      "panel": "w300_middle",
+      "reason": "A whole author/work is unavailable in this panel"
+    }
+  ],
+  "read_only_eligibility_check": true
+}

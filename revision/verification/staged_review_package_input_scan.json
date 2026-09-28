@@ -1,0 +1,10 @@
+{
+  "checked_utc": "2026-09-26T05:15:47.952025+00:00",
+  "exact_credential_scan": true,
+  "files_scanned": 303,
+  "matched_files": [],
+  "package_created": false,
+  "passed": true,
+  "scope": "Selected package bytes only; not proof that all possible secrets or private reviewer notes are absent.",
+  "uploaded": false
+}

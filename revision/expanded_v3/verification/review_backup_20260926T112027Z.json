@@ -1,0 +1,42 @@
+[
+  {
+    "backup_sha256": "d60657b240ebbc7b06d9762847728d95676453be1b157cf99bcf4c3f7149f59c",
+    "packet_group": "Original packet",
+    "sessions": [
+      {
+        "id": "ddd2d102bd02a314",
+        "kind": "source",
+        "saved": 360,
+        "status": "registered",
+        "total": 360
+      },
+      {
+        "id": "6fee5c68ea3d7e42",
+        "kind": "semantic_B",
+        "saved": 0,
+        "status": "draft",
+        "total": 270
+      },
+      {
+        "id": "e9151af6d14b168e",
+        "kind": "semantic_A",
+        "saved": 0,
+        "status": "draft",
+        "total": 270
+      }
+    ]
+  },
+  {
+    "backup_sha256": "834228b12f890cfc368ce2efb33868f7e9ad099cefbd88c245bcca9578816cb7",
+    "packet_group": "Updated study",
+    "sessions": [
+      {
+        "id": "456b3a1b2b35e02c",
+        "kind": "source",
+        "saved": 0,
+        "status": "draft",
+        "total": 4
+      }
+    ]
+  }
+]

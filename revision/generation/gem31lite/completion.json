@@ -1,0 +1,21 @@
+{
+  "accounted": 1080,
+  "accounting_complete": true,
+  "complete": false,
+  "expected": 1080,
+  "fail": 1,
+  "missing": 0,
+  "model_key": "gem31lite",
+  "parsed_sha256": "18ca8a59e9c4a03256e27a0bc236eb5d6d1216b62737aa495e8f90cb1b56ff52",
+  "pass": 28,
+  "qc_rules": "research_v2/generation.py:parse_response,parse_terminal",
+  "qc_version": "v2.1",
+  "raw_sha256": "ab6d6505544e9a5155a643f196980cf3c268739b9dd4c6ca88d834d01cf652e2",
+  "received": 1080,
+  "request_manifest_sha256": "ae4674a185d4a125a5e34cae42f6863b579d332121194ffd8120dfa7bfd7cf02",
+  "responses_complete": true,
+  "terminal_http_failures": 0,
+  "terminal_sha256": "",
+  "valid_outputs": 1079,
+  "warning": 1051
+}

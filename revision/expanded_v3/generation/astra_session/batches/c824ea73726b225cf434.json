@@ -1,0 +1,68 @@
+{
+  "batch_id": "c824ea73726b225cf434",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T07:57:05.119993+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3592621436234499773a00a4",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 477,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 3592621436234499773a00a4\noriginal_word_count: 477\n\nPassage:\nAfter some time, twelve o’clock boomed from the tall tower at Westminster, and at each stroke of the sonorous bell the night seemed to tremble. Then the railway lights went out, one solitary lamp left gleaming like a large ruby on a giant mast, and the roar of the city became fainter.\n\nAt two o’clock he got up, and strolled towards Blackfriars. How unreal everything looked! How like a strange dream! The houses on the other side of the river seemed built out of darkness. One would have said that silver and shadow had fashioned the world anew. The huge dome of St. Paul’s loomed like a bubble through the dusky air.\n\nAs he approached Cleopatra’s Needle he saw a man leaning over the parapet, and as he came nearer the man looked up, the gas-light falling full upon his face.\n\nIt was Mr. Podgers, the cheiromantist! No one could mistake the fat, flabby face, the gold-rimmed spectacles, the sickly feeble smile, the sensual mouth.\n\nLord Arthur stopped. A brilliant idea flashed across him, and he stole softly up behind. In a moment he had seized Mr. Podgers by the legs, and flung him into the Thames. There was a coarse oath, a heavy splash, and all was still. Lord Arthur looked anxiously over, but could see nothing of the cheiromantist but a tall hat, pirouetting in an eddy of moonlit water. After a time it also sank, and no trace of Mr. Podgers was visible. Once he thought that he caught sight of the bulky misshapen figure striking out for the staircase by the bridge, and a horrible feeling of failure came over him, but it turned out to be merely a reflection, and when the moon shone out from behind a cloud it passed away. At last he seemed to have realised the decree of destiny. He heaved a deep sigh of relief, and Sybil’s name came to his lips.\n\n‘Have you dropped anything, sir?’ said a voice behind him suddenly.\n\nHe turned round, and saw a policeman with a bull’s-eye lantern.\n\n‘Nothing of importance, sergeant,’ he answered, smiling, and hailing a passing hansom, he jumped in, and told the man to drive to Belgrave Square.\n\nFor the next few days he alternated between hope and fear. There were moments when he almost expected Mr. Podgers to walk into the room, and yet at other times he felt that Fate could not be so unjust to him. Twice he went to the cheiromantist’s address in West Moon Street, but he could not bring himself to ring the bell. He longed for certainty, and was afraid of it.\n\nFinally it came. He was sitting in the smoking-room of the club having tea, and listening rather wearily to Surbiton’s account of the last comic song at the Gaiety, when the waiter came in with the evening papers."
+      },
+      "request_id": "3592621436234499773a00a4",
+      "request_sha256": "fb0f56dad6c181ded375828c435fadce261c2c1e44f56131bfe72417eef881b9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "508c94a83fa2eefbb5d1ea0acedcd8a34193baa87a3b3ed6ebd1142a97a78d74"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "eaae25c2e10f029500461b3c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_oliver_twist_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: eaae25c2e10f029500461b3c\noriginal_word_count: 450\n\nPassage:\n“One word more, Rose. Dearest Rose! one more!” cried Harry, throwing himself before her. “If I had been less—less fortunate, the world would call it—if some obscure and peaceful life had been my destiny—if I had been poor, sick, helpless—would you have turned from me then? Or has my probable advancement to riches and honour, given this scruple birth?”\n\n“Do not press me to reply,” answered Rose. “The question does not arise, and never will. It is unfair, almost unkind, to urge it.”\n\n“If your answer be what I almost dare to hope it is,” retorted Harry, “it will shed a gleam of happiness upon my lonely way, and light the path before me. It is not an idle thing to do so much, by the utterance of a few brief words, for one who loves you beyond all else. Oh, Rose: in the name of my ardent and enduring attachment; in the name of all I have suffered for you, and all you doom me to undergo; answer me this one question!”\n\n“Then, if your lot had been differently cast,” rejoined Rose; “if you had been even a little, but not so far, above me; if I could have been a help and comfort to you in any humble scene of peace and retirement, and not a blot and drawback in ambitious and distinguished crowds; I should have been spared this trial. I have every reason to be happy, very happy, now; but then, Harry, I own I should have been happier.”\n\nBusy recollections of old hopes, cherished as a girl, long ago, crowded into the mind of Rose, while making this avowal; but they brought tears with them, as old hopes will when they come back withered; and they relieved her.\n\n“I cannot help this weakness, and it makes my purpose stronger,” said Rose, extending her hand. “I must leave you now, indeed.”\n\n“I ask one promise,” said Harry. “Once, and only once more,—say within a year, but it may be much sooner,—I may speak to you again on this subject, for the last time.”\n\n“Not to press me to alter my right determination,” replied Rose, with a melancholy smile; “it will be useless.”\n\n“No,” said Harry; “to hear you repeat it, if you will—finally repeat it! I will lay at your feet, whatever of station of fortune I may possess; and if you still adhere to your present resolution, will not seek, by word or act, to change it.”\n\n“Then let it be so,” rejoined Rose; “it is but one pang the more, and by that time I may be enabled to bear it better.”\n\nShe extended her hand again."
+      },
+      "request_id": "eaae25c2e10f029500461b3c",
+      "request_sha256": "4e6abd803354684db43ac05ce320c965591172d8fd787e5fc8a603ce83d90987",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "30c9045edfacdb0ed42780228e67753876df496f3c202bd5a0b3365bc84253a3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ba564d66ebe9c9b37a6b75ed",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_wilde_dorian_gray_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: ba564d66ebe9c9b37a6b75ed\noriginal_word_count: 450\n\nPassage:\nIt was long past noon when he awoke. His valet had crept several times on tiptoe into the room to see if he was stirring, and had wondered what made his young master sleep so late. Finally his bell sounded, and Victor came in softly with a cup of tea, and a pile of letters, on a small tray of old Sevres china, and drew back the olive-satin curtains, with their shimmering blue lining, that hung in front of the three tall windows.\n\n“Monsieur has well slept this morning,” he said, smiling.\n\n“What o’clock is it, Victor?” asked Dorian Gray drowsily.\n\n“One hour and a quarter, Monsieur.”\n\nHow late it was! He sat up, and having sipped some tea, turned over his letters. One of them was from Lord Henry, and had been brought by hand that morning. He hesitated for a moment, and then put it aside. The others he opened listlessly. They contained the usual collection of cards, invitations to dinner, tickets for private views, programmes of charity concerts, and the like that are showered on fashionable young men every morning during the season. There was a rather heavy bill for a chased silver Louis-Quinze toilet-set that he had not yet had the courage to send on to his guardians, who were extremely old-fashioned people and did not realize that we live in an age when unnecessary things are our only necessities; and there were several very courteously worded communications from Jermyn Street money-lenders offering to advance any sum of money at a moment’s notice and at the most reasonable rates of interest.\n\nAfter about ten minutes he got up, and throwing on an elaborate dressing-gown of silk-embroidered cashmere wool, passed into the onyx-paved bathroom. The cool water refreshed him after his long sleep. He seemed to have forgotten all that he had gone through. A dim sense of having taken part in some strange tragedy came to him once or twice, but there was the unreality of a dream about it.\n\nAs soon as he was dressed, he went into the library and sat down to a light French breakfast that had been laid out for him on a small round table close to the open window. It was an exquisite day. The warm air seemed laden with spices. A bee flew in and buzzed round the blue-dragon bowl that, filled with sulphur-yellow roses, stood before him. He felt perfectly happy.\n\nSuddenly his eye fell on the screen that he had placed in front of the portrait, and he started.\n\n“Too cold for Monsieur?” asked his valet, putting an omelette on the table. “I shut the window?”\n\nDorian shook his head. “I am not cold,” he murmured."
+      },
+      "request_id": "ba564d66ebe9c9b37a6b75ed",
+      "request_sha256": "51016c4713ded1382e910f503a1bb88ce3c61108c506aa19112b967694f73f35",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "661547539c4d062225a1c0277228d1dcfbe471eee63a86bc33d4f1a5ce43dd47"
+    }
+  ],
+  "session_id": "01a0e1dc-db77-7ca2-a44b-20de81379df6",
+  "worker_id": "astra_c",
+  "worker_identity_sha256": "85385f96362fb7155bec4ef09a1c5c0d6a7ab633c57687871b698abad7715535"
+}

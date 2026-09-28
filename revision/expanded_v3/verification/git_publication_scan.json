@@ -1,0 +1,8 @@
+{
+  "candidate_files": 1671,
+  "compressed_members_scanned": true,
+  "known_secret_values_checked": 21,
+  "matches": [],
+  "passed": true,
+  "scope": "Nonignored Git candidates; exact configured secrets and key patterns, not a proof that every possible private detail is absent."
+}

@@ -1,0 +1,31 @@
+{
+  "checked_utc": "2026-09-26T11:00:42.385978+00:00",
+  "checks": [
+    {
+      "address_count": 1,
+      "hostname_sha256": "5aa54e14ca78a78abcb5f5d5ce2c0f378b6a9fb76d5ad5c2657af8e900f60591",
+      "resolved": true,
+      "target": "configured_azure"
+    },
+    {
+      "address_count": 2,
+      "hostname_sha256": "934d38a346a7d76108a273a94c52797cfee5f360a01e9bfd1af0aca38a435a2b",
+      "resolved": true,
+      "target": "openai_public"
+    },
+    {
+      "address_count": 1,
+      "hostname_sha256": "3be1be2cbd942bce7b8b3d499ad61fa2ab6810349912dab2af2d0f0d29163b65",
+      "resolved": true,
+      "target": "microsoft_public"
+    },
+    {
+      "address_count": 8,
+      "hostname_sha256": "61ff97e6dbc79ac10aeeaaf1cf79c1a75aac683efe9a5ac49528997d5d1df65a",
+      "resolved": true,
+      "target": "gemini_public"
+    }
+  ],
+  "network_settings_changed": false,
+  "proxy_schemes_configured": []
+}

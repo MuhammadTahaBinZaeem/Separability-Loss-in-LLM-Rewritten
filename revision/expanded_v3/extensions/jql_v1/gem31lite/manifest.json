@@ -1,0 +1,381 @@
+{
+  "analysis_kind": "exploratory_after_v2_results",
+  "bootstrap_replicates": 5000,
+  "completed_utc": "2026-09-26T11:20:35.834135+00:00",
+  "contrast_rows": 135,
+  "estimable_panels": [
+    "valid_full",
+    "matched200_full",
+    "w200_prefix",
+    "w200_middle",
+    "w200_suffix"
+  ],
+  "human_validation_complete": false,
+  "input_fingerprint": "9adfe7174804a529193c8ead8c902d9de1098b71e54e8782b28e5b0474146d53",
+  "inputs": {
+    "requirements-v2.lock": "8396f22f2d90ab5c355f7db0fde3d979e1c242c9e75afcb98bc4da22db4d0701",
+    "research_v2/analysis.py": "a970f901e215d005bd80f108991e6e3e320c34d6e20ff138840cc9972703b99d",
+    "research_v2/corpus.py": "7c95c924a8210b390e044928a9f47e52eaf1188582ab9f694730ec58cc2b2f1a",
+    "research_v2/expanded_analysis.py": "777e2d500ffb569f68923a8cf7a251cb4efe975d8de5ef09f6e2365979a00e00",
+    "research_v2/expanded_generation.py": "18c0962d53bc2ce6d5d22818e526c36b2f00b88c44aa74ac9287fd66e239f4cf",
+    "research_v2/expanded_study.py": "89f4eef0c4fbb86b8a02053d64ab90cfe2cf9a5b556816026d86bc93201cc2f2",
+    "research_v2/features.py": "b71b92f10a8b819529f39e0ef4ebc4312a7db036944e7374e66ae7ae45bcfab7",
+    "research_v2/generation.py": "098a06c2bf732b8ecab51eb20e5e0249f228140ac384a55ec151d805ea948d8a",
+    "research_v2/inference.py": "ea5c3f9c528913ae94cb1b318e2e4f073af5b88e6b647601dbac9d17491891c3",
+    "research_v2/io.py": "87bd1528755cb2c09709cc4de5f120911f3d53ba5ef50a20666a74d84d7b24d2",
+    "research_v2/providers.py": "3fa2cf7888d2797e207899fd92af53122c827135e8ffc405c0e27bbd8dc9ec5e",
+    "research_v2/session_generation.py": "b9975f4184afa21f97a9c3489b222ff5d4cb5dfb1ee88ba3a4fe18b28e72966d",
+    "research_v2/transfer_extension.py": "2496bf0b78f005d56d165752ea56d1562ef6edbf7d3096fc4cd1b7ff35b69259",
+    "revision/expanded_v3/PROTOCOL.md": "c618117f43dc7d27cf38ffe3a5c41bf4e19f125ff3266924108e1c96ca5667b9",
+    "revision/expanded_v3/corpus/freeze.json": "693ffc158690122a3e1e9923975788d2a27a5f42a84bdca3bcb4a7e682a86c22",
+    "revision/expanded_v3/corpus/lineage.csv": "30ee8dea56000d5d2a30db9600f1dfc3d700217812f3d88fbb0ae7cf554e79a6",
+    "revision/expanded_v3/corpus/originals.csv": "6d29a22c905fc8bedd31e74684fa4e9370b7af768a0d5727ed82df66340844f5",
+    "revision/expanded_v3/extensions/jql_v1/PLAN.md": "9860e15795b8b7375261a4c3f44e95fff416c4868678a4a5b63901e7df182492",
+    "revision/expanded_v3/generation/gem31lite/assignments.jsonl": "9a887edd440b6c0a63ed91bab061c7576de7e5961ce7d0cee123abd32c08ea8d",
+    "revision/expanded_v3/generation/gem31lite/completion.json": "f97322e99b608b8360ef8156e40e6619f7323fcabef94b850e6341a96978049c",
+    "revision/expanded_v3/generation/gem31lite/outcomes.jsonl": "1b684e9cd08739d0d41785d4c89ef7de5b75c5b73c70d468784b339a6c8f47bd",
+    "revision/expanded_v3/generation/gem31lite/request_manifest.json": "0b55112a948b9bde10295ddbe8db0bf1d2252b0ec053605010626c7d943c670b",
+    "revision/expanded_v3/generation/gem31lite/requests.jsonl": "67ed76a60a44501c52a0c8162c6d3d26dd737c258f22962403c547bc917ab621",
+    "revision/expanded_v3/generation/gem31lite/rewrites.csv": "44602493441462e3529b75aa79a2ddc1906e4db3970270f02fff693b6202d6c5",
+    "revision/expanded_v3/generation_plan.json": "0de3eff73e707e13a5ccf84b0f29066359ccd9a0bcfb373a4eb10574918a0867",
+    "revision/expanded_v3/scope_amendment.json": "d9e54c0d1d9ff1b26910f1524329718186297382c8cbcb33967cce9b76e8a913",
+    "revision/generation/gem31lite/raw_responses.jsonl": "ab6d6505544e9a5155a643f196980cf3c268739b9dd4c6ca88d834d01cf652e2",
+    "revision/generation/gem31lite/request_manifest.json": "ae4674a185d4a125a5e34cae42f6863b579d332121194ffd8120dfa7bfd7cf02",
+    "revision/generation/gem31lite/requests.jsonl": "a549d8c679ddcf946ed5f51923fffc80d5a35dee902e0202b7de440543a0a1c2",
+    "revision/generation/gem31lite/rewrites.csv": "18ca8a59e9c4a03256e27a0bc236eb5d6d1216b62737aa495e8f90cb1b56ff52",
+    "scripts/13_extract_stylometric_features.py": "a6999b04f715bdfdb20d9c56f7dc72525c937513ec24362ae27af668223b6504"
+  },
+  "metric_rows": 240,
+  "model_key": "gem31lite",
+  "no_new_confirmatory_tests": true,
+  "not_estimable_panels": [
+    {
+      "crop_size": 0,
+      "eligible_passages": 70,
+      "location": "full",
+      "minimum_words": 300,
+      "missing_works": [
+        [
+          "poe",
+          "hans_pfaal"
+        ],
+        [
+          "shelley",
+          "the_last_man"
+        ]
+      ],
+      "panel": "matched300_full",
+      "reason": "entire_author_work_unavailable",
+      "status": "not_estimable",
+      "work_counts": [
+        {
+          "author_id": "austen",
+          "passages": 3,
+          "work_id": "emma"
+        },
+        {
+          "author_id": "austen",
+          "passages": 3,
+          "work_id": "persuasion"
+        },
+        {
+          "author_id": "austen",
+          "passages": 7,
+          "work_id": "pride_and_prejudice"
+        },
+        {
+          "author_id": "dickens",
+          "passages": 3,
+          "work_id": "a_tale_of_two_cities"
+        },
+        {
+          "author_id": "dickens",
+          "passages": 5,
+          "work_id": "great_expectations"
+        },
+        {
+          "author_id": "dickens",
+          "passages": 5,
+          "work_id": "oliver_twist"
+        },
+        {
+          "author_id": "poe",
+          "passages": 0,
+          "work_id": "hans_pfaal"
+        },
+        {
+          "author_id": "poe",
+          "passages": 5,
+          "work_id": "murders_rue_morgue"
+        },
+        {
+          "author_id": "poe",
+          "passages": 3,
+          "work_id": "the_gold_bug"
+        },
+        {
+          "author_id": "shelley",
+          "passages": 8,
+          "work_id": "frankenstein"
+        },
+        {
+          "author_id": "shelley",
+          "passages": 5,
+          "work_id": "mathilda"
+        },
+        {
+          "author_id": "shelley",
+          "passages": 0,
+          "work_id": "the_last_man"
+        },
+        {
+          "author_id": "twain",
+          "passages": 1,
+          "work_id": "connecticut_yankee"
+        },
+        {
+          "author_id": "twain",
+          "passages": 4,
+          "work_id": "huckleberry_finn"
+        },
+        {
+          "author_id": "twain",
+          "passages": 7,
+          "work_id": "tom_sawyer"
+        },
+        {
+          "author_id": "wilde",
+          "passages": 1,
+          "work_id": "canterville_ghost"
+        },
+        {
+          "author_id": "wilde",
+          "passages": 3,
+          "work_id": "dorian_gray"
+        },
+        {
+          "author_id": "wilde",
+          "passages": 7,
+          "work_id": "lord_arthur_saviles_crime"
+        }
+      ]
+    },
+    {
+      "crop_size": 300,
+      "eligible_passages": 70,
+      "location": "middle",
+      "minimum_words": 300,
+      "missing_works": [
+        [
+          "poe",
+          "hans_pfaal"
+        ],
+        [
+          "shelley",
+          "the_last_man"
+        ]
+      ],
+      "panel": "w300_middle",
+      "reason": "entire_author_work_unavailable",
+      "status": "not_estimable",
+      "work_counts": [
+        {
+          "author_id": "austen",
+          "passages": 3,
+          "work_id": "emma"
+        },
+        {
+          "author_id": "austen",
+          "passages": 3,
+          "work_id": "persuasion"
+        },
+        {
+          "author_id": "austen",
+          "passages": 7,
+          "work_id": "pride_and_prejudice"
+        },
+        {
+          "author_id": "dickens",
+          "passages": 3,
+          "work_id": "a_tale_of_two_cities"
+        },
+        {
+          "author_id": "dickens",
+          "passages": 5,
+          "work_id": "great_expectations"
+        },
+        {
+          "author_id": "dickens",
+          "passages": 5,
+          "work_id": "oliver_twist"
+        },
+        {
+          "author_id": "poe",
+          "passages": 0,
+          "work_id": "hans_pfaal"
+        },
+        {
+          "author_id": "poe",
+          "passages": 5,
+          "work_id": "murders_rue_morgue"
+        },
+        {
+          "author_id": "poe",
+          "passages": 3,
+          "work_id": "the_gold_bug"
+        },
+        {
+          "author_id": "shelley",
+          "passages": 8,
+          "work_id": "frankenstein"
+        },
+        {
+          "author_id": "shelley",
+          "passages": 5,
+          "work_id": "mathilda"
+        },
+        {
+          "author_id": "shelley",
+          "passages": 0,
+          "work_id": "the_last_man"
+        },
+        {
+          "author_id": "twain",
+          "passages": 1,
+          "work_id": "connecticut_yankee"
+        },
+        {
+          "author_id": "twain",
+          "passages": 4,
+          "work_id": "huckleberry_finn"
+        },
+        {
+          "author_id": "twain",
+          "passages": 7,
+          "work_id": "tom_sawyer"
+        },
+        {
+          "author_id": "wilde",
+          "passages": 1,
+          "work_id": "canterville_ghost"
+        },
+        {
+          "author_id": "wilde",
+          "passages": 3,
+          "work_id": "dorian_gray"
+        },
+        {
+          "author_id": "wilde",
+          "passages": 7,
+          "work_id": "lord_arthur_saviles_crime"
+        }
+      ]
+    }
+  ],
+  "output_hashes": {
+    "REPORT.md": "e6e6f0ad76978abc9a47bbbc176c24be1d0bd507c8a551d5e8e2e30ec3893f1a",
+    "cohort_counts.csv": "14997229e6ae30c9c98f0b427fee8a5b2d75012efedfda6a17d3c09b9272ad5b",
+    "contrasts.csv": "2658186bbcb1447e423e9de79eda300a144cb814f907cc2ccf3e014de584b09f",
+    "eligibility.csv": "3a1de93b1c7fc87d9682317dd04e2464c01d527065ef3d152d44902920d9a1b7",
+    "feature_changes.csv": "be579830f1470e594cb864eec4bb46cd4fd0d58a0badad2852188d517314568c",
+    "geometry.csv": "6454dbcf9bc766ccd37e6f13d63102d4a7043194f0c9c7f7c1026ed17b56ef40",
+    "metrics.csv": "3d8d748d022147b59a080d045c8eace6b31bda8155d48a7c3acb0c64c70d4d70",
+    "panel_status.json": "8899264e11e2d261800645dbf5463717f2f55e52068596c87bb2a4f780907fcf",
+    "predictions.csv": "b15a9ce3d90c5a16c7e7832e4617483cf7403558da35a20759795b1f712aa6cc",
+    "transforms/matched200_full_fold0_modernize_tfidf.json.gz": "8f5ff5efcf63f85368dd15c4cd427d0bcbee8213754a4c05dbdb64afcfb2ddf8",
+    "transforms/matched200_full_fold0_original_tfidf.json.gz": "736d9ed196cd349df3b1150b497490a0abfd27ab396776f82cbbebc8ed80ad88",
+    "transforms/matched200_full_fold0_paraphrase_tfidf.json.gz": "9132c5e76c157399120193d26fbb6a848951d28ddf56d5892f6fab16bf82c991",
+    "transforms/matched200_full_fold0_shared.json.gz": "da41886ab83faf844d23cdebae3687fd37c00b4b5a959d983a1654f17d254ec6",
+    "transforms/matched200_full_fold0_simplify_tfidf.json.gz": "ecbe002e595dcdf7c0ed895a90c03694c84b64d77ce20ccea16a1ab88e676ea7",
+    "transforms/matched200_full_fold1_modernize_tfidf.json.gz": "35603a6aa99324f873fa392bd9814249c4740418152e34dab13e609bdbdeb446",
+    "transforms/matched200_full_fold1_original_tfidf.json.gz": "357600e34c255a9b3be4551c28d6236412f4301b8bdbd534e31f88e0eff20f78",
+    "transforms/matched200_full_fold1_paraphrase_tfidf.json.gz": "c62c7524818339a956450a912019ba76b4d7ea1e8321621f942716cadb2ca144",
+    "transforms/matched200_full_fold1_shared.json.gz": "55946c9b531c408a7c03dd6b3e5515613e217778e4237e19d5c88e523dff1847",
+    "transforms/matched200_full_fold1_simplify_tfidf.json.gz": "0959a8bfd67a2c44ddd9a5ae2a6387bc61d5fd809d9d3185959434342ef72121",
+    "transforms/matched200_full_fold2_modernize_tfidf.json.gz": "c2856e80eceed4b15c9fc6fd1d7f51de602f6a77d1bca8fd8175cac6a9c78941",
+    "transforms/matched200_full_fold2_original_tfidf.json.gz": "8b542157990938c6a7b7b37f2cace846cab759e06afde292a01bf01c3beb59e2",
+    "transforms/matched200_full_fold2_paraphrase_tfidf.json.gz": "f87be82868f9ab781f95058d44115c93e8dba5dcea9371561fbc99d5e2985e36",
+    "transforms/matched200_full_fold2_shared.json.gz": "3c15a6ff0484dbbd5d192c60db0e20ba714454f66c270c4d74a8961a886a5173",
+    "transforms/matched200_full_fold2_simplify_tfidf.json.gz": "5e26368b2f6aec882549d5769a75098e22833f998cd53424ca41a78ba615280d",
+    "transforms/valid_full_fold0_modernize_tfidf.json.gz": "e9133c568d8d3141117bc6fb6e7b7489703aebeccd82e08e014925f9cf5ad053",
+    "transforms/valid_full_fold0_original_tfidf.json.gz": "adff3d6abb6e72381c1ae915b9505f8fa17ff990d78b108437f146af10d60dee",
+    "transforms/valid_full_fold0_paraphrase_tfidf.json.gz": "85bbe1b908053c84e4bcf31cf3d92cbff3382e531c2a51a22215c5124c166001",
+    "transforms/valid_full_fold0_shared.json.gz": "04c3ea9fc27141c17fefa229551199ce8c6b5cdc20b9bf02499bb44bec4c8ea4",
+    "transforms/valid_full_fold0_simplify_tfidf.json.gz": "15b44b55909bdacaeb8a04c99244e72730a7b086633053e0be491533d2c94a0f",
+    "transforms/valid_full_fold1_modernize_tfidf.json.gz": "c58a446be9a06814844599abc314f8039cdce5e76fb5649530b1a22cd66e8e4a",
+    "transforms/valid_full_fold1_original_tfidf.json.gz": "4e46b31dd94dd15d391bdecbacc2cf2194f11485af1ddd6e89be8bf79c276efc",
+    "transforms/valid_full_fold1_paraphrase_tfidf.json.gz": "5f495edc3a7d48903cfeb44f01635ebc866b16ffddd573a41669edb9114c3b5e",
+    "transforms/valid_full_fold1_shared.json.gz": "bc61e9bd8759b5653fd10517dffc2ffe023ee382c4237689ae252eea2bb8983f",
+    "transforms/valid_full_fold1_simplify_tfidf.json.gz": "1dc8f246186821ac65f3ec25cea5bcdf9ae74c3b8266abe44f2f7363b55518bc",
+    "transforms/valid_full_fold2_modernize_tfidf.json.gz": "7eae3b3a3f1925bc8b93952ec3acf233fdfc9943c30843067c6b982d998f68e4",
+    "transforms/valid_full_fold2_original_tfidf.json.gz": "c4411b320948d14acaf76360ae6a27757a0bbbdb85c52a2caf9b2cc12beee570",
+    "transforms/valid_full_fold2_paraphrase_tfidf.json.gz": "d3dab746cd941d0083c8f094d42d7d8ced6eedeed6a7f3a13335c55d9d9866f2",
+    "transforms/valid_full_fold2_shared.json.gz": "d96de97c55ceab5f1ed62ddbbca6ec5a1f31c2225dbc5ce4f9b2ffc8fb16a538",
+    "transforms/valid_full_fold2_simplify_tfidf.json.gz": "6ef2ed0564e22131d4d1dca110c78a6e13134339ab14f751f3ea1401e5eb6fea",
+    "transforms/w200_middle_fold0_modernize_tfidf.json.gz": "14f9c53a29777f6e3acfb09488d9d24348a7314917ecfb96a77ed43768ca254b",
+    "transforms/w200_middle_fold0_original_tfidf.json.gz": "3250fa56506032701001774b4deecf966097f5942b2b538b025d024d28a858d8",
+    "transforms/w200_middle_fold0_paraphrase_tfidf.json.gz": "371f2aff5e7cfb28a6b602e78062bfda2028019ff12c4ead14571f0e6a7c5e31",
+    "transforms/w200_middle_fold0_shared.json.gz": "5229815ca91a2ccf5fc4228a4e0095ce33f18285186446adb81841dd02854bce",
+    "transforms/w200_middle_fold0_simplify_tfidf.json.gz": "ec63bd6cbeb54770966f95faca1335a31384a9b95653d8d084c43a9cb731b21f",
+    "transforms/w200_middle_fold1_modernize_tfidf.json.gz": "12c496a1c91bfaed76b11ab5430628c816845bc86e3601d1df5a85e2e35ceba5",
+    "transforms/w200_middle_fold1_original_tfidf.json.gz": "8f2d9a0a6e32a2eda8a0e5258136acd39f503bad8d778b33acc4acf60e9454af",
+    "transforms/w200_middle_fold1_paraphrase_tfidf.json.gz": "a3b5f83f2356340bf438569fe7b7eb1b11ba6ba28eae2286f6138af04720440a",
+    "transforms/w200_middle_fold1_shared.json.gz": "bf9f98033af1571787bc745b36f8c0fa9e982fb9c31ddd8bdd17e13380a8d2c9",
+    "transforms/w200_middle_fold1_simplify_tfidf.json.gz": "59218f5a37e49943a333ac19de99cab1d0699c36f03a7536292a13668e6a5c4f",
+    "transforms/w200_middle_fold2_modernize_tfidf.json.gz": "1831794dbf4a61f2507c4ae927a39e728a71eb9cfdf3d473f51639edcf13713f",
+    "transforms/w200_middle_fold2_original_tfidf.json.gz": "86c7725ea2177f47c58c0c32bdc723ffa3d6f653494d42c0969f36165e8c0bc1",
+    "transforms/w200_middle_fold2_paraphrase_tfidf.json.gz": "7d4e2a7e29bd9415dca2ba1e2e79159e38f7c738128342c924b6c12be8369f41",
+    "transforms/w200_middle_fold2_shared.json.gz": "e7abeb7dd624bcff04299e80e5929248a1dc2376f76c061f43b18c4379bdc5ad",
+    "transforms/w200_middle_fold2_simplify_tfidf.json.gz": "11b70d5cc1fadfa3ac9742f9c2cb01bc54c1cf4ef8e8c601964fe328d579c9ea",
+    "transforms/w200_prefix_fold0_modernize_tfidf.json.gz": "6985bc1fda244b62bd9b859bce24d1b3118df93a1dfd4460f6fcda24a964ad4f",
+    "transforms/w200_prefix_fold0_original_tfidf.json.gz": "03eca9b65ea29e93f891c7b9ebb4438a0e0532e7ad9b6d254ab85c3715753634",
+    "transforms/w200_prefix_fold0_paraphrase_tfidf.json.gz": "6389321417b0a8613d3ead2d94aba9b70d2f7ca0cbd032b260844949b1dae64a",
+    "transforms/w200_prefix_fold0_shared.json.gz": "b3b6b5affedc247660f839ccd33bed8689fd731348d0f48be216c0bb4ca5ecb6",
+    "transforms/w200_prefix_fold0_simplify_tfidf.json.gz": "3d8197d25579f4dc2d9b37a01b78de6a1f73e2fdb5871878ee0bb87da517f462",
+    "transforms/w200_prefix_fold1_modernize_tfidf.json.gz": "7b840b7f8a0625733d8f44a85f99118a9701e8bb618d74a17462b51bdbb000f2",
+    "transforms/w200_prefix_fold1_original_tfidf.json.gz": "b881e136b119c5f860286fd457bc9060229cf08b0193710759c47756ef58adca",
+    "transforms/w200_prefix_fold1_paraphrase_tfidf.json.gz": "e9a8d710e2e48b243657e420c199855efc5782ecb36708f47f19791310aa6616",
+    "transforms/w200_prefix_fold1_shared.json.gz": "5e9a0a78aaeb6371451140a188c1c391caf676a843a2a9303c96e77646eb5343",
+    "transforms/w200_prefix_fold1_simplify_tfidf.json.gz": "0d7df5c4688317bf7e1a98bd97b0c409ea97bcbf9c6c6e0b1f72cbab2274b6c3",
+    "transforms/w200_prefix_fold2_modernize_tfidf.json.gz": "7162f9f6c978b016e44a2f3c88a82ac1ff477126b24f20626eb6b9428452968c",
+    "transforms/w200_prefix_fold2_original_tfidf.json.gz": "b93c131a91a9be185f0183cab6a2a1e839f97f5619efa958051edaa691e3a06a",
+    "transforms/w200_prefix_fold2_paraphrase_tfidf.json.gz": "8add25239e72f336c41e9b4d7b1e81e8af3f5b403e8d47202df2b686ce92a134",
+    "transforms/w200_prefix_fold2_shared.json.gz": "bb2eef3fbca9af5af22c7209ad858c57d643c330ddf275228c8310a56b655e05",
+    "transforms/w200_prefix_fold2_simplify_tfidf.json.gz": "e3236cd8d10dc0f362008a04fbe69871e58a11d212ae24dfebe640789160d891",
+    "transforms/w200_suffix_fold0_modernize_tfidf.json.gz": "686d2a1f94935eba2d30a3a81d3da480a7bf8758a8415f388a1b96895d69be2a",
+    "transforms/w200_suffix_fold0_original_tfidf.json.gz": "e86c1ec0d3be557704ff03e0d10decb0d8630f565d42705728a8ea8ba0e83754",
+    "transforms/w200_suffix_fold0_paraphrase_tfidf.json.gz": "0673598f87c96d1d74774d472df4538f0628666115f849e6ce48c9cbaf4d2867",
+    "transforms/w200_suffix_fold0_shared.json.gz": "39584377dabc5fe8d3c9cfe10cd2b118c5860c116fc2631ef5fbf4fb99c089aa",
+    "transforms/w200_suffix_fold0_simplify_tfidf.json.gz": "0b85f0548d03a27e6dfca267ef8fdb75e67067d2bbeec02ac725daa2c2aa3f06",
+    "transforms/w200_suffix_fold1_modernize_tfidf.json.gz": "72d4f31fd3d23092df3344b2528a667c9cde8f08dc63ddb4acc425c4ceacf0ca",
+    "transforms/w200_suffix_fold1_original_tfidf.json.gz": "e1e3d3421c2332d6b4aff2e91aee7e7b66dcb3619dca46975cdfc52946c3b563",
+    "transforms/w200_suffix_fold1_paraphrase_tfidf.json.gz": "1ecaf2d748115c1234945146deee40dcc87d6177ad98a98bc4c2dbc2d6591f8e",
+    "transforms/w200_suffix_fold1_shared.json.gz": "0d0f1dbdc2eb51e2879a8165a324da3eae03b007c6aed8c4e5cfb7cf3a698c4a",
+    "transforms/w200_suffix_fold1_simplify_tfidf.json.gz": "2d987e29a88e4b79f3be08234f625019e1dce9cb7961c432fb4596e709cb86ae",
+    "transforms/w200_suffix_fold2_modernize_tfidf.json.gz": "4abdb477ddb161be516a56481ced9cb6f694beb583ffc8791edcbb23bcce91d0",
+    "transforms/w200_suffix_fold2_original_tfidf.json.gz": "9d666eae42fe548d4255d14277aeb32367c8429ad7f69629252422f3b5b18d36",
+    "transforms/w200_suffix_fold2_paraphrase_tfidf.json.gz": "931b46f9899fec4e44d77e1656f70da4ac05834acad3882e7bb442dd7f1db671",
+    "transforms/w200_suffix_fold2_shared.json.gz": "fc1a546b2c8518b879d9be484b35f936b00d862e7fe520b670972d69eec8be73",
+    "transforms/w200_suffix_fold2_simplify_tfidf.json.gz": "e59a6f973232368de0aa5c42a2e94aa3a6b5ab66dd56710445f611cd5615627d",
+    "views.csv": "8a88c0628a042505f92bcd22402c8184ca6d7238535a26e5ec2842ce6605e18f"
+  },
+  "panels": [
+    "valid_full",
+    "matched200_full",
+    "w200_prefix",
+    "w200_middle",
+    "w200_suffix",
+    "matched300_full",
+    "w300_middle"
+  ],
+  "pipelines": [
+    "shared_stylometry_nc",
+    "shared_function_words_nc",
+    "char3_5_tfidf_svm"
+  ],
+  "prediction_rows": 82320,
+  "seed": 20260922,
+  "session_arm_not_equivalent_to_api": false,
+  "study_root": "revision/expanded_v3",
+  "submission_ready": false
+}

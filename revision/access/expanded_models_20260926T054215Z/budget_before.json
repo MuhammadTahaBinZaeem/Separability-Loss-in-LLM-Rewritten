@@ -1,0 +1,8 @@
+{
+  "diagnostic_reserved_upper_usd": 0.0392336,
+  "max_output_per_model": 512,
+  "no_retries": true,
+  "rates_basis": "Official OpenAI Standard planning reference; not a verified account-specific Azure tariff.",
+  "requests": 4,
+  "user_total_new_spending_cap_usd": 35
+}

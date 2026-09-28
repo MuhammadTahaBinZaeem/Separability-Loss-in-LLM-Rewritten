@@ -1,0 +1,68 @@
+{
+  "batch_id": "8288b9de29bf47296c17",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:30:39.541329+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "40d47fd9a2f244396c2d29b5",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_dickens_oliver_twist_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 40d47fd9a2f244396c2d29b5\noriginal_word_count: 461\n\nPassage:\nThe narrow streets and courts, at length, terminated in a large open space; scattered about which, were pens for beasts, and other indications of a cattle-market. Sikes slackened his pace when they reached this spot: the girl being quite unable to support any longer, the rapid rate at which they had hitherto walked. Turning to Oliver, he roughly commanded him to take hold of Nancy’s hand.\n\n“Do you hear?” growled Sikes, as Oliver hesitated, and looked round.\n\nThey were in a dark corner, quite out of the track of passengers.\n\nOliver saw, but too plainly, that resistance would be of no avail. He held out his hand, which Nancy clasped tight in hers.\n\n“Give me the other,” said Sikes, seizing Oliver’s unoccupied hand. “Here, Bull’s-Eye!”\n\nThe dog looked up, and growled.\n\n“See here, boy!” said Sikes, putting his other hand to Oliver’s throat; “if he speaks ever so soft a word, hold him! D’ye mind!”\n\nThe dog growled again; and licking his lips, eyed Oliver as if he were anxious to attach himself to his windpipe without delay.\n\n“He’s as willing as a Christian, strike me blind if he isn’t!” said Sikes, regarding the animal with a kind of grim and ferocious approval. “Now, you know what you’ve got to expect, master, so call away as quick as you like; the dog will soon stop that game. Get on, young ’un!”\n\nBull’s-eye wagged his tail in acknowledgment of this unusually endearing form of speech; and, giving vent to another admonitory growl for the benefit of Oliver, led the way onward.\n\nIt was Smithfield that they were crossing, although it might have been Grosvenor Square, for anything Oliver knew to the contrary. The night was dark and foggy. The lights in the shops could scarecely struggle through the heavy mist, which thickened every moment and shrouded the streets and houses in gloom; rendering the strange place still stranger in Oliver’s eyes; and making his uncertainty the more dismal and depressing.\n\nThey had hurried on a few paces, when a deep church-bell struck the hour. With its first stroke, his two conductors stopped, and turned their heads in the direction whence the sound proceeded.\n\n“Eight o’clock, Bill,” said Nancy, when the bell ceased.\n\n“What’s the good of telling me that; I can hear it, can’t I?” replied Sikes.\n\n“I wonder whether _they_ can hear it,” said Nancy.\n\n“Of course they can,” replied Sikes. “It was Bartlemy time when I was shopped; and there warn’t a penny trumpet in the fair, as I couldn’t hear the squeaking on. Arter I was locked up for the night, the row and din outside made the thundering old jail so silent, that I could almost have beat my brains out against the iron plates of the door.”"
+      },
+      "request_id": "40d47fd9a2f244396c2d29b5",
+      "request_sha256": "6978c5529dc18cfbba4814ff161ed2c93d2acf886224ec135193c0c3ed9afc5a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1f85f8b0e54b53084f27f26ade413172e95ca6d5a4d72e31c01b4d3a4ceaedf7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "179be45398e1501cae2e0ad5",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_poe_murders_rue_morgue_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 179be45398e1501cae2e0ad5\noriginal_word_count: 463\n\nPassage:\nTo look at a star by glances—to view it in a side-long way, by turning toward it the exterior portions of the _retina_ (more susceptible of feeble impressions of light than the interior), is to behold the star distinctly—is to have the best appreciation of its lustre—a lustre which grows dim just in proportion as we turn our vision _fully_ upon it. A greater number of rays actually fall upon the eye in the latter case, but, in the former, there is the more refined capacity for comprehension. By undue profundity we perplex and enfeeble thought; and it is possible to make even Venus herself vanish from the firmament by a scrutiny too sustained, too concentrated, or too direct.\n\n“As for these murders, let us enter into some examinations for ourselves, before we make up an opinion respecting them. An inquiry will afford us amusement,” [I thought this an odd term, so applied, but said nothing] “and, besides, Le Bon once rendered me a service for which I am not ungrateful. We will go and see the premises with our own eyes. I know G——, the Prefect of Police, and shall have no difficulty in obtaining the necessary permission.”\n\nThe permission was obtained, and we proceeded at once to the Rue Morgue. This is one of those miserable thoroughfares which intervene between the Rue Richelieu and the Rue St. Roch. It was late in the afternoon when we reached it, as this quarter is at a great distance from that in which we resided. The house was readily found; for there were still many persons gazing up at the closed shutters, with an objectless curiosity, from the opposite side of the way. It was an ordinary Parisian house, with a gateway, on one side of which was a glazed watch-box, with a sliding panel in the window, indicating a _loge de concierge._ Before going in we walked up the street, turned down an alley, and then, again turning, passed in the rear of the building—Dupin, meanwhile examining the whole neighborhood, as well as the house, with a minuteness of attention for which I could see no possible object.\n\nRetracing our steps, we came again to the front of the dwelling, rang, and, having shown our credentials, were admitted by the agents in charge. We went up stairs—into the chamber where the body of Mademoiselle L’Espanaye had been found, and where both the deceased still lay. The disorders of the room had, as usual, been suffered to exist. I saw nothing beyond what had been stated in the “Gazette des Tribunaux.” Dupin scrutinized every thing—not excepting the bodies of the victims. We then went into the other rooms, and into the yard; a _gendarme_ accompanying us throughout."
+      },
+      "request_id": "179be45398e1501cae2e0ad5",
+      "request_sha256": "9a0b371938de9938233d44e6cbc6ad8c285c96f692a57c95b976766d85b8c167",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "97ba71bd15a53280c53ea4571335a07d577c9bf2576f7c1d1eca6ddf67cd9466"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0ed8c7f4b05c8a45791cf6e6",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_austen_pride_and_prejudice_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 0ed8c7f4b05c8a45791cf6e6\noriginal_word_count: 462\n\nPassage:\nWithout allowing herself time for consideration, and scarcely knowing what she felt, Elizabeth, on finishing this letter, instantly seized the other, and opening it with the utmost impatience, read as follows: it had been written a day later than the conclusion of the first.\n\n“By this time, my dearest sister, you have received my hurried letter; I wish this may be more intelligible, but though not confined for time, my head is so bewildered that I cannot answer for being coherent. Dearest Lizzy, I hardly know what I would write, but I have bad news for you, and it cannot be delayed. Imprudent as a marriage between Mr. Wickham and our poor Lydia would be, we are now anxious to be assured it has taken place, for there is but too much reason to fear they are not gone to Scotland. Colonel Forster came yesterday, having left Brighton the day before, not many hours after the express. Though Lydia’s short letter to Mrs. F. gave them to understand that they were going to Gretna Green, something was dropped by Denny expressing his belief that W. never intended to go there, or to marry Lydia at all, which was repeated to Colonel F., who, instantly taking the alarm, set off from B., intending to trace their route. He did trace them easily to Clapham, but no farther; for on entering that place, they removed into a hackney-coach, and dismissed the chaise that brought them from Epsom. All that is known after this is, that they were seen to continue the London road. I know not what to think. After making every possible inquiry on that side of London, Colonel F. came on into Hertfordshire, anxiously renewing them at all the turnpikes, and at the inns in Barnet and Hatfield, but without any success,--no such people had been seen to pass through. With the kindest concern he came on to Longbourn, and broke his apprehensions to us in a manner most creditable to his heart. I am sincerely grieved for him and Mrs. F.; but no one can throw any blame on them. Our distress, my dear Lizzy, is very great. My father and mother believe the worst, but I cannot think so ill of him. Many circumstances might make it more eligible for them to be married privately in town than to pursue their first plan; and even if _he_ could form such a design against a young woman of Lydia’s connections, which is not likely, can I suppose her so lost to everything? Impossible! I grieve to find, however, that Colonel F. is not disposed to depend upon their marriage: he shook his head when I expressed my hopes, and said he feared W. was not a man to be trusted."
+      },
+      "request_id": "0ed8c7f4b05c8a45791cf6e6",
+      "request_sha256": "0c9e93a70a7f0fd6d742042179a2361f8855268a7a1d1f0b2fd7b8dff8f11ccc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7e8e30e5706e4a0752fc42941b2cdab6927daa08116594923137dabc8f45aed2"
+    }
+  ],
+  "session_id": "01a0e30c-4c57-7d42-8a5b-552475b979db",
+  "worker_id": "astra_d",
+  "worker_identity_sha256": "eb64fa28df048da360ccadb632274663ddef6a5ea680edeef0e51177dd1c0af7"
+}

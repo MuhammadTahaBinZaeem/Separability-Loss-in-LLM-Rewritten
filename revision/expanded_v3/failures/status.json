@@ -1,0 +1,9 @@
+{
+  "failed_observations": 95,
+  "limitation": "Historical HTTP error bodies were not retained by the old runner; hashes/events remain. Missing text is not reconstructed.",
+  "native_visible_text_records": 68,
+  "v2_rewrite_hashes": {
+    "azure_replication": "f065ab44163c1ba65970f97be53a1200f82565f0efeb35b22c0d27409a6fdf7c",
+    "gem31lite": "18ca8a59e9c4a03256e27a0bc236eb5d6d1216b62737aa495e8f90cb1b56ff52"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "abfb488d3291590af0ae",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T08:05:06.519377+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "de18cdb6b4d40cf30d53746e",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 476,
+      "passage_id": "V2_twain_huckleberry_finn_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: de18cdb6b4d40cf30d53746e\noriginal_word_count: 476\n\nPassage:\nThe doctor was an old man; a very nice, kind-looking old man when I got him up. I told him me and my brother was over on Spanish Island hunting yesterday afternoon, and camped on a piece of a raft we found, and about midnight he must a kicked his gun in his dreams, for it went off and shot him in the leg, and we wanted him to go over there and fix it and not say nothing about it, nor let anybody know, because we wanted to come home this evening and surprise the folks.\n\n“Who is your folks?” he says.\n\n“The Phelpses, down yonder.”\n\n“Oh,” he says. And after a minute, he says:\n\n“How’d you say he got shot?”\n\n“He had a dream,” I says, “and it shot him.”\n\n“Singular dream,” he says.\n\nSo he lit up his lantern, and got his saddle-bags, and we started. But when he sees the canoe he didn’t like the look of her—said she was big enough for one, but didn’t look pretty safe for two. I says:\n\n“Oh, you needn’t be afeard, sir, she carried the three of us easy enough.”\n\n“What three?”\n\n“Why, me and Sid, and—and—and _the guns;_ that’s what I mean.”\n\n“Oh,” he says.\n\nBut he put his foot on the gunnel and rocked her, and shook his head, and said he reckoned he’d look around for a bigger one. But they was all locked and chained; so he took my canoe, and said for me to wait till he come back, or I could hunt around further, or maybe I better go down home and get them ready for the surprise if I wanted to. But I said I didn’t; so I told him just how to find the raft, and then he started.\n\nI struck an idea pretty soon. I says to myself, spos’n he can’t fix that leg just in three shakes of a sheep’s tail, as the saying is? spos’n it takes him three or four days? What are we going to do?—lay around there till he lets the cat out of the bag? No, sir; I know what _I’ll_ do. I’ll wait, and when he comes back if he says he’s got to go any more I’ll get down there, too, if I swim; and we’ll take and tie him, and keep him, and shove out down the river; and when Tom’s done with him we’ll give him what it’s worth, or all we got, and then let him get ashore.\n\nSo then I crept into a lumber-pile to get some sleep; and next time I waked up the sun was away up over my head! I shot out and went for the doctor’s house, but they told me he’d gone away in the night some time or other, and warn’t back yet."
+      },
+      "request_id": "de18cdb6b4d40cf30d53746e",
+      "request_sha256": "62240471deebdfab48da15d81b45ce2fa90c1f3577a0dbba0cb1aeedbed7e011",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3d536e1bbfc46e07c3710e2f8a1c70ec8d714a5cf4e607c47df3113bf79bfd5e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "bd164b2d331fdf63c73c6da2",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 484,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: bd164b2d331fdf63c73c6da2\noriginal_word_count: 484\n\nPassage:\nMr. Attorney-General had to inform the jury, that the prisoner before them, though young in years, was old in the treasonable practices which claimed the forfeit of his life. That this correspondence with the public enemy was not a correspondence of to-day, or of yesterday, or even of last year, or of the year before. That, it was certain the prisoner had, for longer than that, been in the habit of passing and repassing between France and England, on secret business of which he could give no honest account. That, if it were in the nature of traitorous ways to thrive (which happily it never was), the real wickedness and guilt of his business might have remained undiscovered. That Providence, however, had put it into the heart of a person who was beyond fear and beyond reproach, to ferret out the nature of the prisoner’s schemes, and, struck with horror, to disclose them to his Majesty’s Chief Secretary of State and most honourable Privy Council. That, this patriot would be produced before them. That, his position and attitude were, on the whole, sublime. That, he had been the prisoner’s friend, but, at once in an auspicious and an evil hour detecting his infamy, had resolved to immolate the traitor he could no longer cherish in his bosom, on the sacred altar of his country. That, if statues were decreed in Britain, as in ancient Greece and Rome, to public benefactors, this shining citizen would assuredly have had one. That, as they were not so decreed, he probably would not have one. That, Virtue, as had been observed by the poets (in many passages which he well knew the jury would have, word for word, at the tips of their tongues; whereat the jury’s countenances displayed a guilty consciousness that they knew nothing about the passages), was in a manner contagious; more especially the bright virtue known as patriotism, or love of country. That, the lofty example of this immaculate and unimpeachable witness for the Crown, to refer to whom however unworthily was an honour, had communicated itself to the prisoner’s servant, and had engendered in him a holy determination to examine his master’s table-drawers and pockets, and secrete his papers. That, he (Mr. Attorney-General) was prepared to hear some disparagement attempted of this admirable servant; but that, in a general way, he preferred him to his (Mr. Attorney-General’s) brothers and sisters, and honoured him more than his (Mr. Attorney-General’s) father and mother. That, he called with confidence on the jury to come and do likewise. That, the evidence of these two witnesses, coupled with the documents of their discovering that would be produced, would show the prisoner to have been furnished with lists of his Majesty’s forces, and of their disposition and preparation, both by sea and land, and would leave no doubt that he had habitually conveyed such information to a hostile power."
+      },
+      "request_id": "bd164b2d331fdf63c73c6da2",
+      "request_sha256": "d5a035b37d0b84fae470a141d2204e548a14f162ca5d3695e404f989c0b733c6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d1094a0c4f6a79fd2366c9eed0e8443ab9a701e15aa8cd07943f364bed882999"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f4c180b42cbe5a7dec25e797",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_poe_the_gold_bug_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: f4c180b42cbe5a7dec25e797\noriginal_word_count: 461\n\nPassage:\nIt was at this moment that his eyes, and mine also, fell upon the scrap of parchment, which I then supposed to be paper. It was lying half buried in the sand, a corner sticking up. Near the spot where we found it, I observed the remnants of the hull of what appeared to have been a ship’s long boat. The wreck seemed to have been there for a very great while; for the resemblance to boat timbers could scarcely be traced.\n\n“Well, Jupiter picked up the parchment, wrapped the beetle in it, and gave it to me. Soon afterwards we turned to go home, and on the way met Lieutenant G——. I showed him the insect, and he begged me to let him take it to the fort. Upon my consenting, he thrust it forthwith into his waistcoat pocket, without the parchment in which it had been wrapped, and which I had continued to hold in my hand during his inspection. Perhaps he dreaded my changing my mind, and thought it best to make sure of the prize at once—you know how enthusiastic he is on all subjects connected with Natural History. At the same time, without being conscious of it, I must have deposited the parchment in my own pocket.\n\n“You remember that when I went to the table, for the purpose of making a sketch of the beetle, I found no paper where it was usually kept. I looked in the drawer, and found none there. I searched my pockets, hoping to find an old letter, when my hand fell upon the parchment. I thus detail the precise mode in which it came into my possession; for the circumstances impressed me with peculiar force.\n\n“No doubt you will think me fanciful—but I had already established a kind of connexion. I had put together two links of a great chain. There was a boat lying upon a sea-coast, and not far from the boat was a parchment—not a paper—with a skull depicted upon it. You will, of course, ask ‘where is the connexion?’ I reply that the skull, or death’s-head, is the well-known emblem of the pirate. The flag of the death’s head is hoisted in all engagements.\n\n“I have said that the scrap was parchment, and not paper. Parchment is durable—almost imperishable. Matters of little moment are rarely consigned to parchment; since, for the mere ordinary purposes of drawing or writing, it is not nearly so well adapted as paper. This reflection suggested some meaning—some relevancy—in the death’s-head. I did not fail to observe, also, the form of the parchment. Although one of its corners had been, by some accident, destroyed, it could be seen that the original form was oblong."
+      },
+      "request_id": "f4c180b42cbe5a7dec25e797",
+      "request_sha256": "6e92541c96e3ec82fe15f01d3a8f06467a29da853d05f72227b907ca842cc680",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "27840f656fbe40cde0d845fd65d89fea338193e81f8b2ad02f6c65381a53ee2f"
+    }
+  ],
+  "session_id": "01a0e1dc-5c35-7b31-a9b6-a38e1d6af01b",
+  "worker_id": "astra_a",
+  "worker_identity_sha256": "1dbcb4b943cd599b768ad84fa4e0ccc355a69f663720cc130c5d030c1b9e8505"
+}

@@ -22,3 +22,20 @@ requirements-v2.in text eol=lf
 requirements-v2.lock text eol=lf
 revision/annotations/returns/*.csv -text
 .github/workflows/*.yml text eol=lf
+
+# Preserve hashed compressed transforms and rendered artifacts byte-for-byte.
+*.gz -text
+*.zip -text
+*.docx -text
+*.pdf -text
+*.png -text
+*.jpg -text
+*.jpeg -text
+revision/paper_assets/document_build.json -text
+
+# Whitespace inside preserved provider prose and historical receipts is evidence.
+revision/**/*.csv -whitespace
+revision/verification/*.xml -text -whitespace
+revision/expanded_v3/verification/*.xml -text -whitespace
+revision/paper_assets/document_build.json -whitespace
+revision/extensions/codex51_audit/20260925T211904Z/AUDIT.md -whitespace

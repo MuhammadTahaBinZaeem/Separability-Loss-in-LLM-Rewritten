@@ -4,15 +4,11 @@ from __future__ import annotations
 import argparse
 import json
 import os
-import re
-import time
-import urllib.error
-import urllib.request
 from collections import Counter
-from datetime import datetime, timezone
 from pathlib import Path
 
 from .corpus import words
+from .providers import make_payload, response_view
 from .io import OUT, digest_text, file_hash, read_csv, read_json, read_jsonl, write_csv, write_json, write_jsonl
 
 SYSTEM = """You are performing a controlled rewrite of a fiction passage.
@@ -32,7 +28,7 @@ INSTRUCTIONS = {
 FIELDS = ["request_id", "passage_id", "condition", "model_key", "requested_model", "returned_model",
           "source_sha256", "request_sha256", "response_id", "received_utc", "finish_reason",
           "rewritten_text", "rewrite_sha256", "original_words", "rewrite_words", "length_ratio",
-          "qc_status", "qc_flags", "raw_record_sha256"]
+          "qc_status", "qc_flags", "raw_record_sha256", "outcome_type"]
 
 
 def verify_corpus() -> dict:
@@ -47,38 +43,47 @@ def prepare() -> None:
     originals = read_csv(OUT / "corpus/originals.csv")
     plan = read_json(OUT / "generation_plan.json")
     for key, config in plan["models"].items():
+        if not config.get("enabled",True):
+            print(f"Not prepared: {key}; provider/deployment still pending",flush=True)
+            continue
         requests = []
         for row in originals:
             for condition in plan["conditions"]:
                 opaque = digest_text(f"{freeze['corpus_sha256']}:{row['passage_id']}:{condition}")[:24]
                 user = f"{INSTRUCTIONS[condition]}\n\nrequest_id: {opaque}\noriginal_word_count: {words(row['text'])}\n\nPassage:\n{row['text']}"
-                payload = {"model": config["model"], "messages": [{"role": "system", "content": SYSTEM},
-                           {"role": "user", "content": user}], "temperature": plan["temperature"],
-                           "top_p": plan["top_p"], "max_completion_tokens": plan["max_completion_tokens"],
-                           "response_format": {"type": "json_object"}}
-                for option in ("reasoning_effort", "reasoning_format"):
-                    if option in config:
-                        payload[option] = config[option]
+                payload = make_payload(config,plan,SYSTEM,user)
                 serialized = json.dumps(payload, ensure_ascii=False, sort_keys=True, separators=(",", ":"))
                 requests.append({"request_id": opaque, "passage_id": row["passage_id"], "condition": condition,
                                  "source_sha256": row["text_sha256"], "original_words": words(row["text"]),
-                                 "model_key": key, "payload": payload, "request_sha256": digest_text(serialized)})
+                                 "model_key": key, "payload": payload, "request_sha256": digest_text(serialized),
+                                 "requested_model":config["model"],"api":config.get("api","groq_chat"),
+                                 "accepted_returned_models":config.get("accepted_returned_models",[config["model"]])})
         # Interleave authors/conditions deterministically to avoid a partial run covering only one author.
         requests.sort(key=lambda r: digest_text(f"20260915:{r['request_id']}"))
         path = OUT / f"generation/{key}/requests.jsonl"
         if path.exists() and read_jsonl(path) != requests:
             raise ValueError(f"Refusing to change frozen generation requests for {key}")
-        write_jsonl(path, requests)
-        write_json(path.with_name("request_manifest.json"), {"model_key": key, "model": config["model"],
+        if not path.exists():
+            write_jsonl(path, requests)
+        manifest={"model_key": key, "model": config["model"],
                    "request_count": len(requests), "requests_sha256": file_hash(path),
-                   "corpus_sha256": freeze["corpus_sha256"], "plan_sha256": file_hash(OUT / "generation_plan.json")})
+                   "corpus_sha256": freeze["corpus_sha256"], "plan_sha256_at_freeze": file_hash(OUT / "generation_plan.json"),
+                   "model_config_sha256":digest_text(json.dumps(config,sort_keys=True))}
+        manifest_path=path.with_name("request_manifest.json")
+        if manifest_path.exists():
+            previous=read_json(manifest_path)
+            if any(previous.get(k)!=v for k,v in manifest.items() if k!="plan_sha256_at_freeze"):
+                raise ValueError(f"Frozen request provenance changed for {key}")
+        else:
+            write_json(manifest_path,manifest)
         print(f"Prepared {len(requests)} frozen requests for {key}", flush=True)
 
 
 def parse_response(request: dict, record: dict) -> dict:
     response = record["response"]
-    choice = (response.get("choices") or [{}])[0]
-    content = choice.get("message", {}).get("content") or ""
+    view=response_view(request,response)
+    content=view["content"]
+    requested_model=request.get("requested_model",request["payload"].get("model",""))
     flags, rewritten = [], ""
     try:
         obj = json.loads(content)
@@ -95,9 +100,9 @@ def parse_response(request: dict, record: dict) -> dict:
         flags.append("invalid_json")
     if not rewritten:
         flags.append("empty_text")
-    if choice.get("finish_reason") != "stop":
+    if view["finish_reason"] != "stop":
         flags.append("incomplete_generation")
-    if response.get("model") != request["payload"]["model"]:
+    if view["model"] not in request.get("accepted_returned_models",[requested_model]):
         flags.append("returned_model_mismatch")
     if digest_text(rewritten) == request["source_sha256"]:
         flags.append("identical_to_original")
@@ -109,15 +114,54 @@ def parse_response(request: dict, record: dict) -> dict:
         flags.append("length_deviation_over_15pct")
     return {"request_id": request["request_id"], "passage_id": request["passage_id"],
             "condition": request["condition"], "model_key": request["model_key"],
-            "requested_model": request["payload"]["model"], "returned_model": response.get("model", ""),
+            "requested_model": requested_model, "returned_model": view["model"],
             "source_sha256": request["source_sha256"], "request_sha256": request["request_sha256"],
-            "response_id": response.get("id", ""), "received_utc": record["received_utc"],
-            "finish_reason": choice.get("finish_reason", ""), "rewritten_text": rewritten,
+            "response_id": view["id"], "received_utc": record["received_utc"],
+            "finish_reason": view["native_finish_reason"], "rewritten_text": rewritten,
             "rewrite_sha256": digest_text(rewritten), "original_words": request["original_words"],
             "rewrite_words": words(rewritten), "length_ratio": round(ratio, 8),
             "qc_status": "fail" if failures else ("warning" if flags else "pass"),
             "qc_flags": ";".join(flags),
-            "raw_record_sha256": digest_text(json.dumps(record, ensure_ascii=False, sort_keys=True))}
+            "raw_record_sha256": digest_text(json.dumps(record, ensure_ascii=False, sort_keys=True)),
+            "outcome_type":"native_response"}
+
+
+def terminal_from_event(request: dict, event: dict) -> dict:
+    """Record an actual HTTP refusal, not a synthetic model response."""
+    if event.get("http_status")!=400 or event.get("error_code")!="content_filter" or event.get("request_id")!=request["request_id"]:
+        raise ValueError("Only a matching recorded HTTP content-filter refusal is terminal")
+    return {"request_id":request["request_id"],"request_sha256":request["request_sha256"],
+            "received_utc":event["timestamp"],"outcome_type":"http_content_filter",
+            "http_status":400,"error_code":"content_filter",
+            "transport_event_sha256":digest_text(json.dumps(event,ensure_ascii=False,sort_keys=True))}
+
+
+def parse_terminal(request: dict, record: dict) -> dict:
+    if record.get("outcome_type")!="http_content_filter" or record.get("http_status")!=400 or record.get("error_code")!="content_filter":
+        raise ValueError("Unsupported terminal outcome")
+    return {"request_id":request["request_id"],"passage_id":request["passage_id"],
+            "condition":request["condition"],"model_key":request["model_key"],
+            "requested_model":request["requested_model"],"returned_model":"",
+            "source_sha256":request["source_sha256"],"request_sha256":request["request_sha256"],
+            "response_id":"","received_utc":record["received_utc"],"finish_reason":"http_content_filter",
+            "rewritten_text":"","rewrite_sha256":"","original_words":request["original_words"],
+            "rewrite_words":0,"length_ratio":"","qc_status":"fail","qc_flags":"provider_content_filter",
+            "raw_record_sha256":digest_text(json.dumps(record,ensure_ascii=False,sort_keys=True)),
+            "outcome_type":"http_content_filter"}
+
+
+def recover_terminal_events(key: str) -> None:
+    """Recover recorded refusals after an interrupted/older runner without resending."""
+    folder=OUT / f"generation/{key}"
+    requests={r["request_id"]:r for r in read_jsonl(folder / "requests.jsonl")}
+    done={r["request_id"] for name in ("raw_responses.jsonl","terminal_outcomes.jsonl") for r in read_jsonl(folder / name)}
+    for event in read_jsonl(folder / "transport_events.jsonl"):
+        rid=event.get("request_id")
+        if rid not in done and event.get("http_status")==400 and event.get("error_code")=="content_filter":
+            if rid not in requests:
+                raise ValueError("Terminal event refers to an unknown request")
+            append_record(folder / "terminal_outcomes.jsonl",terminal_from_event(requests[rid],event))
+            done.add(rid)
 
 
 def consolidate(key: str) -> dict:
@@ -127,7 +171,10 @@ def consolidate(key: str) -> dict:
     if file_hash(folder / "requests.jsonl") != read_json(folder / "request_manifest.json")["requests_sha256"]:
         raise ValueError("Request manifest hash mismatch")
     by_id = {r["request_id"]: r for r in requests}
+    if not requests or len(by_id)!=len(requests):
+        raise ValueError("Missing/duplicate frozen generation requests")
     raw = read_jsonl(folder / "raw_responses.jsonl")
+    terminal=read_jsonl(folder / "terminal_outcomes.jsonl")
     seen, response_ids, parsed = set(), set(), []
     for record in raw:
         rid = record["request_id"]
@@ -140,21 +187,35 @@ def consolidate(key: str) -> dict:
         serialized = json.dumps(by_id[rid]["payload"], ensure_ascii=False, sort_keys=True, separators=(",", ":"))
         if digest_text(serialized) != by_id[rid]["request_sha256"]:
             raise ValueError("Retained request payload hash mismatch")
-        response_id = record["response"].get("id")
+        response_id = response_view(by_id[rid],record["response"])["id"]
         if not response_id or response_id in response_ids:
             raise ValueError("Missing/duplicate provider response ID")
         seen.add(rid); response_ids.add(response_id)
         parsed.append(parse_response(by_id[rid], record))
+    events={digest_text(json.dumps(e,ensure_ascii=False,sort_keys=True)):e for e in read_jsonl(folder / "transport_events.jsonl")}
+    for record in terminal:
+        rid=record["request_id"]
+        if rid in seen or rid not in by_id or record["request_sha256"]!=by_id[rid]["request_sha256"]:
+            raise ValueError("Duplicate, unexpected or mismatched terminal outcome")
+        event=events.get(record.get("transport_event_sha256"))
+        if event is None or terminal_from_event(by_id[rid],event)!=record:
+            raise ValueError("Terminal outcome is not supported by its retained transport event")
+        seen.add(rid)
+        parsed.append(parse_terminal(by_id[rid],record))
     parsed.sort(key=lambda r: r["request_id"])
     write_csv(folder / "rewrites.csv", parsed, FIELDS)
     counts = Counter(r["qc_status"] for r in parsed)
     manifest = {"model_key": key, "expected": len(requests), "received": len(raw),
-                "missing": len(requests) - len(raw), "pass": counts["pass"], "warning": counts["warning"],
+                "terminal_http_failures":len(terminal),"accounted":len(seen),
+                "missing": len(requests) - len(seen), "pass": counts["pass"], "warning": counts["warning"],
                 "fail": counts["fail"], "complete": len(raw) == len(requests) and counts["fail"] == 0,
+                "responses_complete":len(raw)==len(requests),"valid_outputs":counts["pass"]+counts["warning"],
+                "accounting_complete":len(seen)==len(requests),
                 "request_manifest_sha256": file_hash(folder / "request_manifest.json"),
                 "parsed_sha256": file_hash(folder / "rewrites.csv"),
                 "raw_sha256": file_hash(folder / "raw_responses.jsonl") if raw else "",
-                "qc_version": "v2.0", "qc_rules": "research_v2/generation.py:parse_response"}
+                "terminal_sha256":file_hash(folder / "terminal_outcomes.jsonl") if terminal else "",
+                "qc_version": "v2.1", "qc_rules": "research_v2/generation.py:parse_response,parse_terminal"}
     write_json(folder / "completion.json", manifest)
     return manifest
 
@@ -167,91 +228,25 @@ def append_record(path: Path, row: dict) -> None:
         os.fsync(stream.fileno())
 
 
-def run(key: str, limit: int, minutes: float) -> None:
-    prepare()
-    config = read_json(OUT / "generation_plan.json")["models"][key]
-    api_key = os.environ.get(config["key_env"], "")
-    if not api_key:
-        raise SystemExit(f"Missing environment variable {config['key_env']}; no API call made")
-    folder = OUT / f"generation/{key}"
-    requests = read_jsonl(folder / "requests.jsonl")
-    consolidate(key)
-    done = {r["request_id"] for r in read_jsonl(folder / "raw_responses.jsonl")}
-    pending = [r for r in requests if r["request_id"] not in done]
-    deadline, completed = time.monotonic() + minutes * 60, 0
-    for item in pending[:limit or None]:
-        if time.monotonic() >= deadline:
-            break
-        payload = json.dumps(item["payload"], ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
-        for attempt in range(6):
-            req = urllib.request.Request("https://api.groq.com/openai/v1/chat/completions", data=payload,
-                  headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json",
-                           "User-Agent": "SeparabilityResearch/2.0"})
-            try:
-                with urllib.request.urlopen(req, timeout=180) as response:
-                    raw_bytes = response.read()
-                    decoded = json.loads(raw_bytes)
-                    safe_headers = {k.lower(): v for k, v in response.headers.items()
-                                    if k.lower().startswith("x-ratelimit") or k.lower() in {"date", "x-request-id"}}
-                append_record(folder / "raw_responses.jsonl", {"request_id": item["request_id"],
-                              "request_sha256": item["request_sha256"], "received_utc": datetime.now(timezone.utc).isoformat(),
-                              "response": decoded, "response_body": raw_bytes.decode("utf-8"), "response_headers": safe_headers})
-                completed += 1
-                parsed = parse_response(item, {"response": decoded, "received_utc": datetime.now(timezone.utc).isoformat()})
-                print(f"{key}: received {len(done)+completed}/{len(requests)}; QC={parsed['qc_status']}", flush=True)
-                break
-            except urllib.error.HTTPError as exc:
-                # Error bodies can contain account identifiers; retain only code/type and reset delay.
-                body = exc.read().decode("utf-8", errors="replace")
-                try:
-                    err = json.loads(body).get("error", {})
-                except json.JSONDecodeError:
-                    err = {}
-                append_record(folder / "transport_events.jsonl", {"request_id": item["request_id"],
-                              "timestamp": datetime.now(timezone.utc).isoformat(), "http_status": exc.code,
-                              "error_type": err.get("type", ""), "error_code": err.get("code", ""), "attempt": attempt+1})
-                if exc.code not in {429, 500, 502, 503, 504}:
-                    consolidate(key)
-                    raise SystemExit(f"Provider rejected request: HTTP {exc.code}; type={err.get('type','')}; code={err.get('code','')}")
-                wait = 65.0 * (attempt + 1)
-                retry_after = exc.headers.get("retry-after", "")
-                if retry_after.replace(".", "", 1).isdigit():
-                    wait = max(wait, float(retry_after) + 1)
-                duration = re.search(r"try again in\s+((?:[\d.]+[hms]\s*)+)", body, re.I)
-                if duration:
-                    parsed_wait = sum(float(n) * {"h":3600,"m":60,"s":1}[unit] for n, unit in re.findall(r"([\d.]+)([hms])", duration.group(1)))
-                    wait = max(wait, parsed_wait + 3)
-                if attempt == 5 or time.monotonic() + wait >= deadline:
-                    consolidate(key)
-                    raise SystemExit("Rate limit/provider outage exceeds this run; checkpoint preserved for resume")
-                print(f"{key}: provider rate limit/unavailability; waiting {wait:.0f}s", flush=True)
-                time.sleep(wait)
-            except (urllib.error.URLError, TimeoutError) as exc:
-                append_record(folder / "transport_events.jsonl", {"request_id": item["request_id"],
-                              "timestamp": datetime.now(timezone.utc).isoformat(), "error_type": type(exc).__name__, "attempt": attempt+1})
-                if attempt == 5:
-                    consolidate(key)
-                    raise
-                time.sleep(min(60, 5 * 2**attempt))
-        if completed % 20 == 0:
-            consolidate(key)
-        time.sleep(2)
-    print(json.dumps(consolidate(key), indent=2), flush=True)
+def run(key: str, limit: int, minutes: float, env_file: Path | None=None, pause: float=0.0) -> None:
+    raise SystemExit("Use research_v2.parallel_generation --workers 1 (or up to 4); the legacy serial runner is retired")
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("action", choices=["prepare", "run", "consolidate"])
-    parser.add_argument("--model", choices=["gptoss120", "qwen27"])
+    parser.add_argument("--model")
     parser.add_argument("--limit", type=int, default=0, help="0 means all remaining requests")
     parser.add_argument("--minutes", type=float, default=290)
+    parser.add_argument("--env-file",type=Path)
+    parser.add_argument("--pause",type=float,default=0.0)
     args = parser.parse_args()
     if args.action == "prepare":
         prepare()
     elif not args.model:
         parser.error("--model is required")
     elif args.action == "run":
-        run(args.model, args.limit, args.minutes)
+        run(args.model, args.limit, args.minutes,args.env_file,args.pause)
     else:
         print(json.dumps(consolidate(args.model), indent=2))
 

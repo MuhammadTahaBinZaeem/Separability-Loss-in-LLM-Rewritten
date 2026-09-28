@@ -1,0 +1,168 @@
+{
+  "checked_utc": "2026-09-25T15:43:20.478265+00:00",
+  "model": "gemini-3.1-flash-lite",
+  "primary_experiment": false,
+  "purpose": "one_connection_check_per_distinct_user_supplied_key",
+  "results": [
+    {
+      "credential_variables": [
+        "gemchat"
+      ],
+      "finish_reasons": [],
+      "returned_model": null,
+      "status": {
+        "error_code": "503",
+        "http_status": 503,
+        "ok": false,
+        "reasons": []
+      },
+      "text_received": false,
+      "usage": {
+        "candidatesTokenCount": null,
+        "promptTokenCount": null,
+        "thoughtsTokenCount": null,
+        "totalTokenCount": null
+      }
+    },
+    {
+      "credential_variables": [
+        "gemtest"
+      ],
+      "finish_reasons": [
+        "STOP"
+      ],
+      "returned_model": "gemini-3.1-flash-lite",
+      "status": {
+        "http_status": 200,
+        "ok": true
+      },
+      "text_received": true,
+      "usage": {
+        "candidatesTokenCount": 2,
+        "promptTokenCount": 6,
+        "thoughtsTokenCount": null,
+        "totalTokenCount": 8
+      }
+    },
+    {
+      "credential_variables": [
+        "gemchat1"
+      ],
+      "finish_reasons": [
+        "STOP"
+      ],
+      "returned_model": "gemini-3.1-flash-lite",
+      "status": {
+        "http_status": 200,
+        "ok": true
+      },
+      "text_received": true,
+      "usage": {
+        "candidatesTokenCount": 2,
+        "promptTokenCount": 6,
+        "thoughtsTokenCount": null,
+        "totalTokenCount": 8
+      }
+    },
+    {
+      "credential_variables": [
+        "gemtest1"
+      ],
+      "finish_reasons": [
+        "STOP"
+      ],
+      "returned_model": "gemini-3.1-flash-lite",
+      "status": {
+        "http_status": 200,
+        "ok": true
+      },
+      "text_received": true,
+      "usage": {
+        "candidatesTokenCount": 2,
+        "promptTokenCount": 6,
+        "thoughtsTokenCount": null,
+        "totalTokenCount": 8
+      }
+    },
+    {
+      "credential_variables": [
+        "gemchat2"
+      ],
+      "finish_reasons": [
+        "STOP"
+      ],
+      "returned_model": "gemini-3.1-flash-lite",
+      "status": {
+        "http_status": 200,
+        "ok": true
+      },
+      "text_received": true,
+      "usage": {
+        "candidatesTokenCount": 2,
+        "promptTokenCount": 6,
+        "thoughtsTokenCount": null,
+        "totalTokenCount": 8
+      }
+    },
+    {
+      "credential_variables": [
+        "gemtest2"
+      ],
+      "finish_reasons": [
+        "STOP"
+      ],
+      "returned_model": "gemini-3.1-flash-lite",
+      "status": {
+        "http_status": 200,
+        "ok": true
+      },
+      "text_received": true,
+      "usage": {
+        "candidatesTokenCount": 2,
+        "promptTokenCount": 6,
+        "thoughtsTokenCount": null,
+        "totalTokenCount": 8
+      }
+    },
+    {
+      "credential_variables": [
+        "gemchat3"
+      ],
+      "finish_reasons": [
+        "STOP"
+      ],
+      "returned_model": "gemini-3.1-flash-lite",
+      "status": {
+        "http_status": 200,
+        "ok": true
+      },
+      "text_received": true,
+      "usage": {
+        "candidatesTokenCount": 2,
+        "promptTokenCount": 6,
+        "thoughtsTokenCount": null,
+        "totalTokenCount": 8
+      }
+    },
+    {
+      "credential_variables": [
+        "gemtest3"
+      ],
+      "finish_reasons": [
+        "STOP"
+      ],
+      "returned_model": "gemini-3.1-flash-lite",
+      "status": {
+        "http_status": 200,
+        "ok": true
+      },
+      "text_received": true,
+      "usage": {
+        "candidatesTokenCount": 2,
+        "promptTokenCount": 6,
+        "thoughtsTokenCount": null,
+        "totalTokenCount": 8
+      }
+    }
+  ]
+}

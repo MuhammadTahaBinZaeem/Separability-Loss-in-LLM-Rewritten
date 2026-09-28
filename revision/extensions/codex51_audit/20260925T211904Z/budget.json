@@ -1,0 +1,10 @@
+{
+  "attempts": 1,
+  "includes_reasoning": true,
+  "prior_reserved_upper": 6628,
+  "purpose": "focused_automated_methods_audit_not_reviewer_evidence",
+  "reason": "Previous response used 2496 output tokens entirely for reasoning with no answer; increase answer allowance and narrow scope.",
+  "this_request_max_output_tokens": 5000,
+  "total_reserved_upper": 11628,
+  "user_output_ceiling_exclusive": 3000000
+}

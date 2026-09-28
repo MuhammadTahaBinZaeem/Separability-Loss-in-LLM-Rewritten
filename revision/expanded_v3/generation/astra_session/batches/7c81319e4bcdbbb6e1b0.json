@@ -1,0 +1,68 @@
+{
+  "batch_id": "7c81319e4bcdbbb6e1b0",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T07:58:58.596870+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8664fb358e13156770518eca",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_dickens_great_expectations_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8664fb358e13156770518eca\noriginal_word_count: 454\n\nPassage:\nMy father’s family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So, I called myself Pip, and came to be called Pip.\n\nI give Pirrip as my father’s family name, on the authority of his tombstone and my sister,—Mrs. Joe Gargery, who married the blacksmith. As I never saw my father or my mother, and never saw any likeness of either of them (for their days were long before the days of photographs), my first fancies regarding what they were like were unreasonably derived from their tombstones. The shape of the letters on my father’s, gave me an odd idea that he was a square, stout, dark man, with curly black hair. From the character and turn of the inscription, “_Also Georgiana Wife of the Above_,” I drew a childish conclusion that my mother was freckled and sickly. To five little stone lozenges, each about a foot and a half long, which were arranged in a neat row beside their grave, and were sacred to the memory of five little brothers of mine,—who gave up trying to get a living, exceedingly early in that universal struggle,—I am indebted for a belief I religiously entertained that they had all been born on their backs with their hands in their trousers-pockets, and had never taken them out in this state of existence.\n\nOurs was the marsh country, down by the river, within, as the river wound, twenty miles of the sea. My first most vivid and broad impression of the identity of things seems to me to have been gained on a memorable raw afternoon towards evening. At such a time I found out for certain that this bleak place overgrown with nettles was the churchyard; and that Philip Pirrip, late of this parish, and also Georgiana wife of the above, were dead and buried; and that Alexander, Bartholomew, Abraham, Tobias, and Roger, infant children of the aforesaid, were also dead and buried; and that the dark flat wilderness beyond the churchyard, intersected with dikes and mounds and gates, with scattered cattle feeding on it, was the marshes; and that the low leaden line beyond was the river; and that the distant savage lair from which the wind was rushing was the sea; and that the small bundle of shivers growing afraid of it all and beginning to cry, was Pip.\n\n“Hold your noise!” cried a terrible voice, as a man started up from among the graves at the side of the church porch. “Keep still, you little devil, or I’ll cut your throat!”\n\nA fearful man, all in coarse grey, with a great iron on his leg."
+      },
+      "request_id": "8664fb358e13156770518eca",
+      "request_sha256": "1d248892ce6441bbe97a7a07350e35586fed31419a0013b988522569ee469559",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c7a78f87c417ada1e0e470f0bb377e703b522bd95d6872a11dd60b743d371e03"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a1f552492feca4081f782d5e",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_twain_huckleberry_finn_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: a1f552492feca4081f782d5e\noriginal_word_count: 472\n\nPassage:\nI don’t wish to be mixed up in no such business as that, I says to myself.\n\nWhen I got down stairs in the morning the parlor was shut up, and the watchers was gone. There warn’t nobody around but the family and the widow Bartley and our tribe. I watched their faces to see if anything had been happening, but I couldn’t tell.\n\nTowards the middle of the day the undertaker come with his man, and they set the coffin in the middle of the room on a couple of chairs, and then set all our chairs in rows, and borrowed more from the neighbors till the hall and the parlor and the dining-room was full. I see the coffin lid was the way it was before, but I dasn’t go to look in under it, with folks around.\n\nThen the people begun to flock in, and the beats and the girls took seats in the front row at the head of the coffin, and for a half an hour the people filed around slow, in single rank, and looked down at the dead man’s face a minute, and some dropped in a tear, and it was all very still and solemn, only the girls and the beats holding handkerchiefs to their eyes and keeping their heads bent, and sobbing a little. There warn’t no other sound but the scraping of the feet on the floor and blowing noses—because people always blows them more at a funeral than they do at other places except church.\n\nWhen the place was packed full the undertaker he slid around in his black gloves with his softy soothering ways, putting on the last touches, and getting people and things all ship-shape and comfortable, and making no more sound than a cat. He never spoke; he moved people around, he squeezed in late ones, he opened up passageways, and done it with nods, and signs with his hands. Then he took his place over against the wall. He was the softest, glidingest, stealthiest man I ever see; and there warn’t no more smile to him than there is to a ham.\n\nThey had borrowed a melodeum—a sick one; and when everything was ready a young woman set down and worked it, and it was pretty skreeky and colicky, and everybody joined in and sung, and Peter was the only one that had a good thing, according to my notion. Then the Reverend Hobson opened up, slow and solemn, and begun to talk; and straight off the most outrageous row busted out in the cellar a body ever heard; it was only one dog, but he made a most powerful racket, and he kept it up right along; the parson he had to stand there, over the coffin, and wait—you couldn’t hear yourself think."
+      },
+      "request_id": "a1f552492feca4081f782d5e",
+      "request_sha256": "0d57653d2669c5b0872d318cb9cbedb520748fa64b69ebf49a238e93aa4533dc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bc6c6680a36cc61f5fadf180cefeac3d152b9c3a103541d42df8c600379c5d4b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5bbbfcf4870f996c8619e81c",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_poe_the_gold_bug_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 5bbbfcf4870f996c8619e81c\noriginal_word_count: 456\n\nPassage:\nFor a moment I was too much amazed to think with accuracy. I knew that my design was very different in detail from this—although there was a certain similarity in general outline. Presently I took a candle, and seating myself at the other end of the room, proceeded to scrutinize the parchment more closely. Upon turning it over, I saw my own sketch upon the reverse, just as I had made it. My first idea, now, was mere surprise at the really remarkable similarity of outline—at the singular coincidence involved in the fact, that unknown to me, there should have been a skull upon the other side of the parchment, immediately beneath my figure of the _scarabæus_, and that this skull, not only in outline, but in size, should so closely resemble my drawing. I say the singularity of this coincidence absolutely stupefied me for a time. This is the usual effect of such coincidences. The mind struggles to establish a connexion—a sequence of cause and effect—and, being unable to do so, suffers a species of temporary paralysis. But, when I recovered from this stupor, there dawned upon me gradually a conviction which startled me even far more than the coincidence. I began distinctly, positively, to remember that there had been no drawing upon the parchment when I made my sketch of the _scarabæus_. I became perfectly certain of this; for I recollected turning up first one side and then the other, in search of the cleanest spot. Had the skull been then there, of course I could not have failed to notice it. Here was indeed a mystery which I felt it impossible to explain; but, even at that early moment, there seemed to glimmer, faintly, within the most remote and secret chambers of my intellect, a glow-worm-like conception of that truth which last night’s adventure brought to so magnificent a demonstration. I arose at once, and putting the parchment securely away, dismissed all farther reflection until I should be alone.\n\n“When you had gone, and when Jupiter was fast asleep, I betook myself to a more methodical investigation of the affair. In the first place I considered the manner in which the parchment had come into my possession. The spot where we discovered the _scarabæus_ was on the coast of the main land, about a mile eastward of the island, and but a short distance above high water mark. Upon my taking hold of it, it gave me a sharp bite, which caused me to let it drop. Jupiter, with his accustomed caution, before seizing the insect, which had flown towards him, looked about him for a leaf, or something of that nature, by which to take hold of it."
+      },
+      "request_id": "5bbbfcf4870f996c8619e81c",
+      "request_sha256": "208497e718ec6ee35b92c48f309d5b435122eb8614fdd908d26544c31519e6c0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "05cf7eaf941cd0d00d3d5f3ed7c2d2203a51f96cef8bc9e99a7121de2f891af9"
+    }
+  ],
+  "session_id": "01a0e1dc-98ec-7c60-82e0-33192a6dbb6d",
+  "worker_id": "astra_b",
+  "worker_identity_sha256": "63e655afad929d2df43c7a786df30c2f77ef9616368896382b0782c5fc9c466d"
+}

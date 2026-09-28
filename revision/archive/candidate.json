@@ -1,0 +1,16 @@
+{
+  "file_count": 159,
+  "final_archive_ready": false,
+  "local_package": "revision/archive/REVIEW_ONLY_v2_f1c5c6a9cba7b7d1.zip",
+  "package_bytes": 15282540,
+  "package_sha256": "7adc5275d1847d41bab71117d849a35e130f27c4c57cb5b87ff49e0950267543",
+  "private_human_returns_included": false,
+  "publication_status": "not_published",
+  "secret_scan": {
+    "exact_credential_scan": true,
+    "files_scanned": 159,
+    "matched_files": [],
+    "passed": true,
+    "scope": "Selected package bytes only; not proof that all possible secrets or private reviewer notes are absent."
+  }
+}

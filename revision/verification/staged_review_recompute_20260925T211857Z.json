@@ -1,0 +1,17 @@
+{
+  "changed_input_paths": {
+    "explanatory_model/manifest.json": [
+      "revision/AMENDMENTS.md",
+      "revision/extensions/jql_v1/azure_replication/manifest.json"
+    ],
+    "manifest.json": [
+      "revision/AMENDMENTS.md"
+    ]
+  },
+  "checked_utc": "2026-09-25T21:27:50.667782+00:00",
+  "outputs_unchanged": {
+    "explanatory_model/manifest.json": true,
+    "manifest.json": true
+  },
+  "reason": "Staged review amendment changed protocol provenance; full recomputation without changing model/data/numerical methods."
+}

@@ -1,0 +1,14 @@
+{
+  "checked_utc": "2026-09-25T15:38:28.901429+00:00",
+  "completion_received": true,
+  "primary_experiment": false,
+  "provider": "azure",
+  "purpose": "connection_only",
+  "requested_model": "gpt-5.4-nano",
+  "response_status": "completed",
+  "returned_model": "gpt-5.4-nano",
+  "status": {
+    "http_status": 200,
+    "ok": true
+  }
+}

@@ -1,5 +1,10 @@
 # Rewriting the Author: Semantic Fidelity and Stylometric Degradation under Large Language Model Paraphrase, Modernization, and Simplification
 
+> HISTORICAL V1 SKELETON — NOT CURRENT EVIDENCE. Its semantic-preservation and
+> result claims are not verified for the corrected study. Retained for audit;
+> do not submit or reuse its numbers. The current [v2 review draft](../revision/paper_assets/manuscript_REVIEW_DRAFT.md)
+> and [readiness status](../revision/STATUS.md) supersede this document.
+
 > Manuscript skeleton for a Digital Scholarship in the Humanities-style full paper. This is a structural draft, not final prose. It fixes section order, equation placement, table/figure callouts, evidence placement, and safe wording before full writing begins.
 
 ## Target journal and article constraints

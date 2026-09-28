@@ -1,0 +1,26 @@
+{
+  "checked_utc": "2026-09-20T08:59:07.734786+00:00",
+  "primary_experiment": false,
+  "provider": "azure",
+  "purpose": "connection_and_format_only",
+  "request": {
+    "input": "Return JSON with exactly two strings: request_id=\"connectivity-only\" and rewritten_text=\"The door was open.\"",
+    "max_output_tokens": 128,
+    "model": "gpt-4.1-mini",
+    "store": false,
+    "temperature": 0.2,
+    "text": {
+      "format": {
+        "type": "json_object"
+      }
+    }
+  },
+  "requested_model": "gpt-4.1-mini",
+  "response": {},
+  "status": {
+    "error_code": "DeploymentNotFound",
+    "http_status": 404,
+    "ok": false,
+    "reasons": []
+  }
+}

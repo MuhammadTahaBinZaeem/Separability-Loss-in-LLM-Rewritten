@@ -1,0 +1,68 @@
+{
+  "batch_id": "ef4a07e73c0f9dfbc1fe",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T07:57:50.439961+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5618b53c5cb196fc5b70e951",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_twain_huckleberry_finn_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 5618b53c5cb196fc5b70e951\noriginal_word_count: 452\n\nPassage:\nWhat’s the trouble?”\n\nI says:\n\n“Pap, and mam, and sis, and—”\n\nThen I broke down. He says:\n\n“Oh, dang it now, _don’t_ take on so; we all has to have our troubles, and this’n ’ll come out all right. What’s the matter with ’em?”\n\n“They’re—they’re—are you the watchman of the boat?”\n\n“Yes,” he says, kind of pretty-well-satisfied like. “I’m the captain and the owner and the mate and the pilot and watchman and head deck-hand; and sometimes I’m the freight and passengers. I ain’t as rich as old Jim Hornback, and I can’t be so blame’ generous and good to Tom, Dick and Harry as what he is, and slam around money the way he does; but I’ve told him a many a time ’t I wouldn’t trade places with him; for, says I, a sailor’s life’s the life for me, and I’m derned if _I’d_ live two mile out o’ town, where there ain’t nothing ever goin’ on, not for all his spondulicks and as much more on top of it. Says I—”\n\nI broke in and says:\n\n“They’re in an awful peck of trouble, and—”\n\n“_Who_ is?”\n\n“Why, pap and mam and sis and Miss Hooker; and if you’d take your ferry-boat and go up there—”\n\n“Up where? Where are they?”\n\n“On the wreck.”\n\n“What wreck?”\n\n“Why, there ain’t but one.”\n\n“What, you don’t mean the _Walter Scott?_”\n\n“Yes.”\n\n“Good land! what are they doin’ _there_, for gracious sakes?”\n\n“Well, they didn’t go there a-purpose.”\n\n“I bet they didn’t! Why, great goodness, there ain’t no chance for ’em if they don’t git off mighty quick! Why, how in the nation did they ever git into such a scrape?”\n\n“Easy enough. Miss Hooker was a-visiting up there to the town—”\n\n“Yes, Booth’s Landing—go on.”\n\n“She was a-visiting there at Booth’s Landing, and just in the edge of the evening she started over with her nigger woman in the horse-ferry to stay all night at her friend’s house, Miss What-you-may-call-her I disremember her name—and they lost their steering-oar, and swung around and went a-floating down, stern first, about two mile, and saddle-baggsed on the wreck, and the ferryman and the nigger woman and the horses was all lost, but Miss Hooker she made a grab and got aboard the wreck. Well, about an hour after dark we come along down in our trading-scow, and it was so dark we didn’t notice the wreck till we was right on it; and so _we_ saddle-baggsed; but all of us was saved but Bill Whipple—and oh, he _was_ the best cretur!—I most wish’t it had been me, I do.”\n\n“My George! It’s the beatenest thing I ever struck."
+      },
+      "request_id": "5618b53c5cb196fc5b70e951",
+      "request_sha256": "f38f727297d7b984c96dc58c04443e9b4751602b144c2865350d19ed67bebd7b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0507a515b2ece231409428cb096a23a6578848c498179cf69dd39d436af12990"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8fdf178d0fba641be1e34035",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_shelley_mathilda_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 8fdf178d0fba641be1e34035\noriginal_word_count: 453\n\nPassage:\nThere were few who could boast of so pure a heart, and so much real humbleness of soul joined to a firm reliance on her own integrity and a belief in that of others. She had from her birth lived a retired life. She had lost her mother when very young, but her father had devoted himself to the care of her education--He had many peculiar ideas which influenced the system he had adopted with regard to her--She was well acquainted with the heroes of Greece and Rome or with those of England who had lived some hundred years ago, while she was nearly ignorant of the passing events of the day: she had read few authors who had written during at least the last fifty years but her reading with this exception was very extensive. Thus although she appeared to be less initiated in the mysteries of life and society than he her knowledge was of a deeper kind and laid on firmer foundations; and if even her beauty and sweetness had not fascinated him her understanding would ever have held his in thrall. He looked up to her as his guide, and such was his adoration that he delighted to augment to his own mind the sense of inferiority with which she sometimes impressed him.\n\nWhen he was nineteen his mother died. He left college on this event and shaking off for a while his old friends he retired to the neighbourhood of his Diana and received all his consolation from her sweet voice and dearer caresses. This short seperation from his companions gave him courage to assert his independance. He had a feeling that however they might express ridicule of his intended marriage they would not dare display it when it had taken place; therefore seeking the consent of his guardian which with some difficulty he obtained, and of the father of his mistress which was more easily given, without acquainting any one else of his intention, by the time he had attained his twentieth birthday he had become the husband of Diana.\n\nHe loved her with passion and her tenderness had a charm for him that would not permit him to think of aught but her. He invited some of his college friends to see him but their frivolity disgusted him. Diana had torn the veil which had before kept him in his boyhood: he was become a man and he was surprised how he could ever have joined in the cant words and ideas of his fellow collegiates or how for a moment he had feared the censure of such as these. He discarded his old friendships not from fickleness but because they were indeed unworthy of him."
+      },
+      "request_id": "8fdf178d0fba641be1e34035",
+      "request_sha256": "d11e2302223aa5f5d5f0deb79ec6d550dd75b54076e08b3861e4d1c401b0553e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "89260d933821f327d5ab079ed165b4238bca6247a55460305a8a7b00edbc1495"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8db0e1fbb96b0236b9072796",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 503,
+      "passage_id": "V2_dickens_oliver_twist_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8db0e1fbb96b0236b9072796\noriginal_word_count: 503\n\nPassage:\nYou won’t, won’t you? Oh, you precious flat!”\n\n“It’s naughty, ain’t it, Oliver?” inquired Charley Bates. “He’ll come to be scragged, won’t he?”\n\n“I don’t know what that means,” replied Oliver.\n\n“Something in this way, old feller,” said Charley. As he said it, Master Bates caught up an end of his neckerchief; and, holding it erect in the air, dropped his head on his shoulder, and jerked a curious sound through his teeth; thereby indicating, by a lively pantomimic representation, that scragging and hanging were one and the same thing.\n\n“That’s what it means,” said Charley. “Look how he stares, Jack! I never did see such prime company as that ’ere boy; he’ll be the death of me, I know he will.” Master Charley Bates, having laughed heartily again, resumed his pipe with tears in his eyes.\n\n“You’ve been brought up bad,” said the Dodger, surveying his boots with much satisfaction when Oliver had polished them. “Fagin will make something of you, though, or you’ll be the first he ever had that turned out unprofitable. You’d better begin at once; for you’ll come to the trade long before you think of it; and you’re only losing time, Oliver.”\n\nMaster Bates backed this advice with sundry moral admonitions of his own: which, being exhausted, he and his friend Mr. Dawkins launched into a glowing description of the numerous pleasures incidental to the life they led, interspersed with a variety of hints to Oliver that the best thing he could do, would be to secure Fagin’s favour without more delay, by the means which they themselves had employed to gain it.\n\n“And always put this in your pipe, Nolly,” said the Dodger, as the Jew was heard unlocking the door above, “if you don’t take fogels and tickers—”\n\n“What’s the good of talking in that way?” interposed Master Bates; “he don’t know what you mean.”\n\n“If you don’t take pocket-handkechers and watches,” said the Dodger, reducing his conversation to the level of Oliver’s capacity, “some other cove will; so that the coves that lose ’em will be all the worse, and you’ll be all the worse, too, and nobody half a ha’p’orth the better, except the chaps wot gets them—and you’ve just as good a right to them as they have.”\n\n“To be sure, to be sure!” said the Jew, who had entered unseen by Oliver. “It all lies in a nutshell my dear; in a nutshell, take the Dodger’s word for it. Ha! ha! ha! He understands the catechism of his trade.”\n\nThe old man rubbed his hands gleefully together, as he corroborated the Dodger’s reasoning in these terms; and chuckled with delight at his pupil’s proficiency.\n\nThe conversation proceeded no farther at this time, for the Jew had returned home accompanied by Miss Betsy, and a gentleman whom Oliver had never seen before, but who was accosted by the Dodger as Tom Chitling; and who, having lingered on the stairs to exchange a few gallantries with the lady, now made his appearance."
+      },
+      "request_id": "8db0e1fbb96b0236b9072796",
+      "request_sha256": "9028eac12cc2f7707ba4c6836e512c05a43c1538412e253a16ddece3b1aa72a4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "36e701c9f656fcec9f82a346441ad79f68c23a97978a79adb2072088f2666950"
+    }
+  ],
+  "session_id": "01a0e1dc-98ec-7c60-82e0-33192a6dbb6d",
+  "worker_id": "astra_b",
+  "worker_identity_sha256": "63e655afad929d2df43c7a786df30c2f77ef9616368896382b0782c5fc9c466d"
+}

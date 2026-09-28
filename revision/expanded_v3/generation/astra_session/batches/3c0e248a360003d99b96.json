@@ -1,0 +1,68 @@
+{
+  "batch_id": "3c0e248a360003d99b96",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T07:59:43.554029+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1025b15b032c18491f137569",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_wilde_dorian_gray_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 1025b15b032c18491f137569\noriginal_word_count: 452\n\nPassage:\nWeeks and weeks went on, and I grew more and more absorbed in you. Then came a new development. I had drawn you as Paris in dainty armour, and as Adonis with huntsman’s cloak and polished boar-spear. Crowned with heavy lotus-blossoms you had sat on the prow of Adrian’s barge, gazing across the green turbid Nile. You had leaned over the still pool of some Greek woodland and seen in the water’s silent silver the marvel of your own face. And it had all been what art should be—unconscious, ideal, and remote. One day, a fatal day I sometimes think, I determined to paint a wonderful portrait of you as you actually are, not in the costume of dead ages, but in your own dress and in your own time. Whether it was the realism of the method, or the mere wonder of your own personality, thus directly presented to me without mist or veil, I cannot tell. But I know that as I worked at it, every flake and film of colour seemed to me to reveal my secret. I grew afraid that others would know of my idolatry. I felt, Dorian, that I had told too much, that I had put too much of myself into it. Then it was that I resolved never to allow the picture to be exhibited. You were a little annoyed; but then you did not realize all that it meant to me. Harry, to whom I talked about it, laughed at me. But I did not mind that. When the picture was finished, and I sat alone with it, I felt that I was right.... Well, after a few days the thing left my studio, and as soon as I had got rid of the intolerable fascination of its presence, it seemed to me that I had been foolish in imagining that I had seen anything in it, more than that you were extremely good-looking and that I could paint. Even now I cannot help feeling that it is a mistake to think that the passion one feels in creation is ever really shown in the work one creates. Art is always more abstract than we fancy. Form and colour tell us of form and colour—that is all. It often seems to me that art conceals the artist far more completely than it ever reveals him. And so when I got this offer from Paris, I determined to make your portrait the principal thing in my exhibition. It never occurred to me that you would refuse. I see now that you were right. The picture cannot be shown. You must not be angry with me, Dorian, for what I have told you."
+      },
+      "request_id": "1025b15b032c18491f137569",
+      "request_sha256": "5fb010423f5682fa90db0abac50df82f1e0bb03e2312445bf34e493cf5ef289b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "924ea6c362678657282b47400e5fb6105f3501fda918f6d3cbf0cd30705954a3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5e340d1b8ea003fbb673b76f",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_dickens_oliver_twist_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 5e340d1b8ea003fbb673b76f\noriginal_word_count: 470\n\nPassage:\n“Never!” returned the girl.\n\n“Tell me why?”\n\n“For one reason,” rejoined the girl firmly, “for one reason, that the lady knows and will stand by me in, I know she will, for I have her promise: and for this other reason, besides, that, bad life as he has led, I have led a bad life too; there are many of us who have kept the same courses together, and I’ll not turn upon them, who might—any of them—have turned upon me, but didn’t, bad as they are.”\n\n“Then,” said the gentleman, quickly, as if this had been the point he had been aiming to attain; “put Monks into my hands, and leave him to me to deal with.”\n\n“What if he turns against the others?”\n\n“I promise you that in that case, if the truth is forced from him, there the matter will rest; there must be circumstances in Oliver’s little history which it would be painful to drag before the public eye, and if the truth is once elicited, they shall go scot free.”\n\n“And if it is not?” suggested the girl.\n\n“Then,” pursued the gentleman, “this Fagin shall not be brought to justice without your consent. In such a case I could show you reasons, I think, which would induce you to yield it.”\n\n“Have I the lady’s promise for that?” asked the girl.\n\n“You have,” replied Rose. “My true and faithful pledge.”\n\n“Monks would never learn how you knew what you do?” said the girl, after a short pause.\n\n“Never,” replied the gentleman. “The intelligence should be brought to bear upon him, that he could never even guess.”\n\n“I have been a liar, and among liars from a little child,” said the girl after another interval of silence, “but I will take your words.”\n\nAfter receiving an assurance from both, that she might safely do so, she proceeded in a voice so low that it was often difficult for the listener to discover even the purport of what she said, to describe, by name and situation, the public-house whence she had been followed that night. From the manner in which she occasionally paused, it appeared as if the gentleman were making some hasty notes of the information she communicated. When she had thoroughly explained the localities of the place, the best position from which to watch it without exciting observation, and the night and hour on which Monks was most in the habit of frequenting it, she seemed to consider for a few moments, for the purpose of recalling his features and appearances more forcibly to her recollection.\n\n“He is tall,” said the girl, “and a strongly made man, but not stout; he has a lurking walk; and as he walks, constantly looks over his shoulder, first on one side, and then on the other."
+      },
+      "request_id": "5e340d1b8ea003fbb673b76f",
+      "request_sha256": "dcf087cad4436156c86de83410703b96b200fdf29b7d0e9959f61eda6a7956ba",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "25736fb97d5048e7cdb122183ba6424207c6a813dd04528ff276a6243480bc12"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1a9fd709929302112a1e6ca3",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_shelley_mathilda_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 1a9fd709929302112a1e6ca3\noriginal_word_count: 451\n\nPassage:\nI would feign to die; my contented heirs would seize upon my wealth, and I should purchase freedom. But then my plan must be laid with art; I would not be left destitute, I must secure some money. Alas! to what loathsome shifts must I be driven? Yet a whole life of falsehood was otherwise my portion: and when remorse at being the contriver of any cheat made me shrink from my design I was irresistably led back and confirmed in it by the visit of some aunt or cousin, who would tell me that death was the end of all men. And then say that my father had surely lost his wits ever since my mother’s death; that he was mad and that I was fortunate, for in one of his fits he might have killed me instead of destroying his own crazed being. And all this, to be sure, was delicately put; not in broad words for my feelings might be hurt but\n\nWhispered so and so In dark hint soft and low\n\nwith downcast eyes, and sympathizing smiles or whimpers; and I listened with quiet countenance while every nerve trembled; I that dared not utter aye or no to all this blasphemy. Oh, this was a delicious life quite void of guile! I with my dove’s look and fox’s heart: for indeed I felt only the degradation of falsehood, and not any sacred sentiment of conscious innocence that might redeem it. I who had before clothed myself in the bright garb of sincerity must now borrow one of divers colours: it might sit awkwardly at first, but use would enable me to place it in elegant folds, to lie with grace. Aye, I might die my soul with falsehood untill I had quite hid its native colour. Oh, beloved father! Accept the pure heart of your unhappy daughter; permit me to join you unspotted as I was or you will not recognize my altered semblance. As grief might change Constance so would deceit change me untill in heaven you would say, “This is not my child”--My father, to be happy both now and when again we meet I must fly from all this life which is mockery to one like me. In solitude only shall I be myself; in solitude I shall be thine.\n\nAlas! I even now look back with disgust at my artifices and contrivances by which, after many painful struggles, I effected my retreat. I might enter into a long detail of the means I used, first to secure myself a slight maintenance for the remainder of my life, and afterwards to ensure the conviction of my death: I might, but I will not."
+      },
+      "request_id": "1a9fd709929302112a1e6ca3",
+      "request_sha256": "e5f709a800f0f6984fedb874ba868e1c4ff922f2ea8b0f39527428cfb2c678b1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e4f0dfd994038ccd642e03633a29b5ab47c2b589273afc6b9bbb18ffce531534"
+    }
+  ],
+  "session_id": "01a0e1dc-5c35-7b31-a9b6-a38e1d6af01b",
+  "worker_id": "astra_a",
+  "worker_identity_sha256": "1dbcb4b943cd599b768ad84fa4e0ccc355a69f663720cc130c5d030c1b9e8505"
+}

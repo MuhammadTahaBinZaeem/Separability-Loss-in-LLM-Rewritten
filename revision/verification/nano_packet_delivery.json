@@ -1,0 +1,25 @@
+{
+  "batch_id": "nano_20260925",
+  "checked_utc": "2026-09-25T21:23:34.950566+00:00",
+  "checks": [
+    {
+      "credential_reissued": false,
+      "http_ok": true,
+      "issued_form_unchanged": true,
+      "issued_items": 270,
+      "reviewer": "A",
+      "saved_items": 0
+    },
+    {
+      "credential_reissued": false,
+      "http_ok": true,
+      "issued_form_unchanged": true,
+      "issued_items": 270,
+      "reviewer": "B",
+      "saved_items": 0
+    }
+  ],
+  "delivery_scope": "Attached to existing local accounts; not emailed or externally hosted.",
+  "ratings_created_by_this_check": 0,
+  "website": "http://127.0.0.1:8765"
+}

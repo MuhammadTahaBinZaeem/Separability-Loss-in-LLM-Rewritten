@@ -1,0 +1,25 @@
+{
+  "checked_utc": "2026-09-25T15:35:47.017840+00:00",
+  "completion_received": false,
+  "generation_status": {
+    "error_code": "subscription_required",
+    "http_status": 403,
+    "ok": false,
+    "reasons": []
+  },
+  "metadata_status": {
+    "http_status": 200,
+    "ok": true
+  },
+  "model_metadata": {
+    "available_on_current_plan": false,
+    "id": "Qwen/Qwen2.5-7B-Instruct",
+    "is_gated": false,
+    "status": "active"
+  },
+  "primary_experiment": false,
+  "provider": "featherless",
+  "purpose": "connection_only",
+  "requested_model": "Qwen/Qwen2.5-7B-Instruct",
+  "returned_model": null
+}

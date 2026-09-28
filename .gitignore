@@ -21,5 +21,32 @@ tmp/
 .cache/
 *.log
 
+# Credentials must never enter research artifacts or Git history.
+.env
+.env.*
+*.env
+!.env.example
+
+# Live execution and private reviewer administration are never published.
+RUNNING.lock
+STOP_AFTER_CURRENT
+revision/annotations/returns/
+revision/annotations/reviewer_registry.json
+revision/annotations/independence_check.json
+revision/annotations/private_join_key.csv
+revision/agent_rewrite/private_join_key.csv
+revision/source_review/private/
+revision/archive/*.zip
+revision/verification/watch*.json
+revision/verification/research_watch_status.json
+revision/review_app/private/
+revision/expanded_v3/private/
+revision/expanded_v3/source_review/private/
+revision/expanded_v3/annotations/private/
+revision/expanded_v3/annotations/private_join_key.csv
+revision/expanded_v3/annotations/returns/
+revision/expanded_v3/annotations/reviewer_registry.json
+revision/expanded_v3/archive/*.zip
+
 # Large raw source files should be managed deliberately
 # Keep manifests in Git; use Git LFS for raw PDFs if committed.

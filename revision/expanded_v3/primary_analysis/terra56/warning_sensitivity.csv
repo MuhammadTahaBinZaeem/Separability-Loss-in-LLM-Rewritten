@@ -1,0 +1,10 @@
+model_key,classifier,condition,selection,paired_rows,excluded_warning_rows,all_authors_present,original_macro_f1,rewrite_macro_f1,macro_f1_loss
+terra56,nearest_centroid,paraphrase,warning_free_paired,331,0,True,0.633202573548102,0.5605043481261093,0.07269822542199278
+terra56,nearest_centroid,modernize,warning_free_paired,329,2,True,0.6302435644046889,0.5292365772010271,0.10100698720366175
+terra56,nearest_centroid,simplify,warning_free_paired,320,6,True,0.6306539951829876,0.45977779009876735,0.17087620508422025
+terra56,gaussian_nb,paraphrase,warning_free_paired,331,0,True,0.5661073880021207,0.5159021796151388,0.05020520838698184
+terra56,gaussian_nb,modernize,warning_free_paired,329,2,True,0.5756907006554612,0.4964740098381946,0.07921669081726662
+terra56,gaussian_nb,simplify,warning_free_paired,320,6,True,0.5685664598849827,0.4794308344179718,0.08913562546701087
+terra56,lda_ledoit_wolf_shrinkage,paraphrase,warning_free_paired,331,0,True,0.7260679411154114,0.6081587035807573,0.1179092375346541
+terra56,lda_ledoit_wolf_shrinkage,modernize,warning_free_paired,329,2,True,0.7193594768889895,0.6082221999440398,0.11113727694494968
+terra56,lda_ledoit_wolf_shrinkage,simplify,warning_free_paired,320,6,True,0.7265052945149036,0.5502151362874627,0.17629015822744099

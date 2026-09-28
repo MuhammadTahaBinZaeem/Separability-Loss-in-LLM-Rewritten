@@ -1,0 +1,10 @@
+model_key,classifier,condition,selection,paired_rows,excluded_rows,all_authors_present,original_macro_f1,rewrite_macro_f1
+azure_replication,nearest_centroid,paraphrase,warning_free_paired,328,0,True,0.6327659278133252,0.5182192583428386
+azure_replication,nearest_centroid,modernize,warning_free_paired,332,0,True,0.6391495194667994,0.5466998969775988
+azure_replication,nearest_centroid,simplify,warning_free_paired,324,2,True,0.6372919792488255,0.40862045400000896
+azure_replication,gaussian_nb,paraphrase,warning_free_paired,328,0,True,0.5672784802617554,0.4852820961734181
+azure_replication,gaussian_nb,modernize,warning_free_paired,332,0,True,0.5783910079937116,0.46150014689107227
+azure_replication,gaussian_nb,simplify,warning_free_paired,324,2,True,0.5714299035508016,0.44601978852944696
+azure_replication,lda_ledoit_wolf_shrinkage,paraphrase,warning_free_paired,328,0,True,0.7222811414776422,0.6153864357343035
+azure_replication,lda_ledoit_wolf_shrinkage,modernize,warning_free_paired,332,0,True,0.7217776148821288,0.5927457830112697
+azure_replication,lda_ledoit_wolf_shrinkage,simplify,warning_free_paired,324,2,True,0.7218777345076863,0.46143103099060356

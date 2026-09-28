@@ -16,12 +16,62 @@ from .corpus import AUTHORS
 from .features import FoldFeatures, feature_family
 from .generation import consolidate, verify_corpus
 from .inference import holm, paired_uncertainty
-from .io import OUT, file_hash, read_csv, read_json, write_csv, write_json
+from .io import OUT, ROOT, digest_text, file_hash, read_csv, read_json, write_csv, write_json
 
 CLASSIFIERS = ["nearest_centroid", "gaussian_nb", "lda_ledoit_wolf_shrinkage"]
 FAMILIES = ["char3", "function_word", "length_rhythm", "punctuation", "lexical_richness", "register_marker"]
 PRED_FIELDS = ["model_key","classifier","feature_set","fold","passage_id","author_id","work_id",
                "condition","predicted_author","qc_status"]
+
+
+def analysis_fingerprint() -> str:
+    paths=[ROOT / f"research_v2/{name}.py" for name in ("analysis","features","inference","corpus","generation","providers","annotations","qc_report","io")]
+    paths += [ROOT / "scripts/13_extract_stylometric_features.py",ROOT / "requirements-v2.lock",
+              OUT / "PROTOCOL.md",OUT / "AMENDMENTS.md",OUT / "generation_plan.json",OUT / "corpus/freeze.json"]
+    return digest_text("\n".join(f"{p.relative_to(ROOT).as_posix()}:{file_hash(p)}" for p in paths))
+
+
+def semantic_sensitivity(predictions: list[dict]) -> dict:
+    from .annotations import validate
+    verification=validate()
+    if not verification["complete"]:
+        status={"complete":False,"reason":"No verified pair of independent human reviews"}
+        write_json(OUT / "results/semantic_sensitivity_status.json",status)
+        return status
+    flags=read_csv(OUT / "annotations/verified_flags.csv")
+    lookup={(r["model_key"],r["passage_id"],r["condition"]):r for r in flags}
+    base={(r["model_key"],r["classifier"],r["passage_id"]):r for r in predictions
+          if r["feature_set"]=="full" and r["condition"]=="original"}
+    groups=defaultdict(list)
+    for row in predictions:
+        key=(row["model_key"],row["passage_id"],row["condition"])
+        if row["feature_set"]=="full" and key in lookup:
+            groups[(row["model_key"],row["classifier"],row["condition"])].append(row)
+    results=[]
+    for (model,name,condition),audited in sorted(groups.items()):
+        for selection in ("all_audited_pairs","audited_pairs_without_either_reviewer_risk"):
+            selected=audited if selection=="all_audited_pairs" else [r for r in audited
+                      if lookup[(model,r["passage_id"],condition)]["risk_union"]=="0"]
+            present={r["author_id"] for r in selected}
+            result={"model_key":model,"classifier":name,"condition":condition,"selection":selection,
+                    "audited_rows":len(audited),"paired_rows":len(selected),"excluded_rows":len(audited)-len(selected),
+                    "all_authors_present":present==set(AUTHORS),"original_macro_f1":"","rewrite_macro_f1":"","macro_f1_loss":""}
+            if present==set(AUTHORS):
+                y=[r["author_id"] for r in selected]
+                original=[base[(model,name,r["passage_id"])]["predicted_author"] for r in selected]
+                rewritten=[r["predicted_author"] for r in selected]
+                a=float(f1_score(y,original,labels=AUTHORS,average="macro",zero_division=0))
+                b=float(f1_score(y,rewritten,labels=AUTHORS,average="macro",zero_division=0))
+                result.update(original_macro_f1=a,rewrite_macro_f1=b,macro_f1_loss=a-b)
+            results.append(result)
+    write_csv(OUT / "results/semantic_sensitivity.csv",results,
+              list(results[0]) if results else ["model_key","classifier","condition","selection"])
+    status={"complete":bool(results),"audited_pairs":len(flags),"comparison_rows":len(results),
+            "limitations":"Descriptive paired sensitivity on the audited subset only; unaudited pairs are not certified clean.",
+            "flags_sha256":file_hash(OUT / "annotations/verified_flags.csv"),
+            "predictions_sha256":file_hash(OUT / "results/predictions.csv")}
+    write_json(OUT / "results/semantic_sensitivity_status.json",status)
+    return status
 
 
 def classifier(name: str):
@@ -52,16 +102,20 @@ def distance_rows(fold: int, model_key: str, features: FoldFeatures, conditions:
         mask = np.array([family == "all_features" or feature_family(n)==family for n in features.feature_names_])
         if not mask.any():
             continue
-        centroids = {}
-        for condition, (matrix, rows) in conditions.items():
-            centroids[condition] = {author: matrix[[r["author_id"]==author for r in rows]][:,mask].mean(axis=0) for author in AUTHORS}
-        base = centroids["original"]
-        base_dist = float(np.mean([np.mean(np.abs(base[a]-base[b])) for a,b in combinations(AUTHORS,2)]))
-        for condition, current in centroids.items():
+        original_matrix,original_rows=conditions["original"]
+        original_index={r["passage_id"]:i for i,r in enumerate(original_rows)}
+        for condition,(matrix,rows) in conditions.items():
+            if {r["author_id"] for r in rows}!=set(AUTHORS):
+                continue
+            paired_original=original_matrix[[original_index[r["passage_id"]] for r in rows]]
+            current={author:matrix[[r["author_id"]==author for r in rows]][:,mask].mean(axis=0) for author in AUTHORS}
+            base={author:paired_original[[r["author_id"]==author for r in rows]][:,mask].mean(axis=0) for author in AUTHORS}
+            base_dist=float(np.mean([np.mean(np.abs(base[a]-base[b])) for a,b in combinations(AUTHORS,2)]))
             distances = [np.mean(np.abs(current[a]-current[b])) for a,b in combinations(AUTHORS,2)]
             distance = float(np.mean(distances))
             result.append({"model_key":model_key,"fold":fold,"feature_set":family,"condition":condition,
                            "mean_inter_author_delta":distance,"ratio_to_original":distance/base_dist if base_dist>0 else "",
+                           "paired_original_delta":base_dist,"paired_rows":len(rows),
                            "mean_original_to_rewrite_centroid_shift":float(np.mean([np.mean(np.abs(current[a]-base[a])) for a in AUTHORS])),
                            "reference_scaler":"original_training_only","inference":"descriptive_dependent_author_pairs"})
     return result
@@ -77,14 +131,17 @@ def run(bootstraps: int = 5000, permutations: int = 9999, ablations: bool = True
             model_status[key] = {"complete":False,"reason":"requests_not_prepared"}
             continue
         model_status[key] = consolidate(key)
-        if model_status[key]["complete"]:
-            rows = read_csv(OUT / f"generation/{key}/rewrites.csv")
+        if model_status[key].get("accounting_complete",False):
+            all_rows = read_csv(OUT / f"generation/{key}/rewrites.csv")
+            rows=[r for r in all_rows if r["qc_status"]!="fail"]
             mapping = {(r["passage_id"],r["condition"]):r for r in rows}
-            if len(mapping) != 3*len(originals):
+            if len(mapping)!=len(rows) or len(all_rows)!=3*len(originals):
                 raise ValueError("Generation join is not one-to-one")
             for original in originals:
                 for condition in plan["conditions"]:
-                    row = mapping[(original["passage_id"],condition)]
+                    row = mapping.get((original["passage_id"],condition))
+                    if row is None:
+                        continue
                     if row["source_sha256"] != original["text_sha256"]:
                         raise ValueError("Rewrite paired with a different original")
             rewrites[key] = mapping
@@ -102,8 +159,10 @@ def run(bootstraps: int = 5000, permutations: int = 9999, ablations: bool = True
                 conditions = {"original":(x_test,test)}
                 if model_key in rewrites:
                     for condition in plan["conditions"]:
-                        rr = [{**original, **rewrites[model_key][(original["passage_id"],condition)]} for original in test]
-                        conditions[condition] = (features.transform([r["rewritten_text"] for r in rr]),rr)
+                        rr = [{**original, **rewrites[model_key][(original["passage_id"],condition)]} for original in test
+                              if (original["passage_id"],condition) in rewrites[model_key]]
+                        if rr:
+                            conditions[condition] = (features.transform([r["rewritten_text"] for r in rr]),rr)
                 for name,model in fitted.items():
                     for condition,(matrix,rows) in conditions.items():
                         predicted = model.predict(matrix)
@@ -116,6 +175,7 @@ def run(bootstraps: int = 5000, permutations: int = 9999, ablations: bool = True
                     distances.extend(distance_rows(fold,model_key,features,conditions))
             print(f"Fitted {feature_set}, held-out-work fold {fold}; train={len(train)}, test={len(test)}",flush=True)
     write_csv(OUT / "results/predictions.csv",predictions,PRED_FIELDS)
+    semantic_sensitivity(predictions)
     write_csv(OUT / "results/distances.csv",distances)
     groups = defaultdict(list)
     for row in predictions:
@@ -151,16 +211,24 @@ def run(bootstraps: int = 5000, permutations: int = 9999, ablations: bool = True
                            "original_prediction":original[r["passage_id"]]["predicted_author"],
                            "rewrite_prediction":r["predicted_author"],"qc_status":r["qc_status"]}
                           for r in groups[(model_key,name,"full",condition)]]
+                if {r["author_id"] for r in paired}!=set(AUTHORS):
+                    print(f"Insufficient author coverage: {model_key}/{condition}; no inference reported",flush=True)
+                    continue
                 comparison = {"model_key":model_key,"classifier":name,"condition":condition,
+                              "estimand":"paired_loss_conditional_on_valid_output","failed_outputs_excluded":len(originals)-len(paired),
                               **paired_uncertainty(paired,bootstraps,permutations)}
                 comparisons.append(comparison)
                 clean = [r for r in paired if r["qc_status"]=="pass"]
-                if {r["author_id"] for r in clean}==set(AUTHORS):
+                sensitivity={"model_key":model_key,"classifier":name,"condition":condition,
+                    "selection":"warning_free_paired","paired_rows":len(clean),"excluded_rows":len(paired)-len(clean),
+                    "all_authors_present":{r["author_id"] for r in clean}==set(AUTHORS),
+                    "original_macro_f1":"","rewrite_macro_f1":""}
+                if sensitivity["all_authors_present"]:
                     y=[r["author_id"] for r in clean]
-                    sensitivities.append({"model_key":model_key,"classifier":name,"condition":condition,
-                        "selection":"warning_free_paired","paired_rows":len(clean),"excluded_rows":len(paired)-len(clean),
+                    sensitivity.update({
                         "original_macro_f1":float(f1_score(y,[r["original_prediction"] for r in clean],labels=AUTHORS,average="macro",zero_division=0)),
                         "rewrite_macro_f1":float(f1_score(y,[r["rewrite_prediction"] for r in clean],labels=AUTHORS,average="macro",zero_division=0))})
+                sensitivities.append(sensitivity)
                 print(f"Computed work-aware inference: {model_key}/{name}/{condition}",flush=True)
     adjusted = holm([r["p_work_swap_two_sided"] for r in comparisons],family_size=len(plan["models"])*len(CLASSIFIERS)*3)
     for row,value in zip(comparisons,adjusted):
@@ -170,10 +238,16 @@ def run(bootstraps: int = 5000, permutations: int = 9999, ablations: bool = True
     if sensitivities:
         write_csv(OUT / "results/warning_sensitivity.csv",sensitivities)
     status = {"corpus_sha256":freeze["corpus_sha256"],"model_status":model_status,
+              "analysis_fingerprint":analysis_fingerprint(),
               "analysis_complete":len(rewrites)==len(plan["models"]),"prediction_rows":len(predictions),
+              "estimand":"paired_loss_conditional_on_valid_output",
+              "full_intention_to_rewrite_complete":all(s.get("complete",False) for s in model_status.values()),
               "comparison_count":len(comparisons),"primary_classifier":"nearest_centroid",
               "primary_model":plan["primary_model"],"bootstraps":bootstraps,"permutations":permutations,
               "ablations_included":ablations and bool(rewrites),"predictions_sha256":file_hash(OUT / "results/predictions.csv")}
+    status["analysis_complete"] &= len(comparisons)==len(plan["models"])*len(CLASSIFIERS)*len(plan["conditions"])
+    status["output_hashes"]={p.relative_to(OUT / "results").as_posix():file_hash(p)
+        for p in sorted((OUT / "results").rglob("*")) if p.is_file() and p.name!="analysis_status.json"}
     write_json(OUT / "results/analysis_status.json",status)
     print(f"Analysis complete={status['analysis_complete']}; complete generated models={list(rewrites)}")
 

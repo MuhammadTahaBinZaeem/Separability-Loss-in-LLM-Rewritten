@@ -1,0 +1,68 @@
+{
+  "batch_id": "88140bf71a0a52293998",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T08:00:49.024608+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2aa0c827c2b400d64beec80d",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_poe_murders_rue_morgue_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2aa0c827c2b400d64beec80d\noriginal_word_count: 457\n\nPassage:\nMadame and Mademoiselle L’Espanaye were not destroyed by spirits. The doers of the deed were material, and escaped materially. Then how? Fortunately, there is but one mode of reasoning upon the point, and that mode _must_ lead us to a definite decision. Let us examine, each by each, the possible means of egress. It is clear that the assassins were in the room where Mademoiselle L’Espanaye was found, or at least in the room adjoining, when the party ascended the stairs. It is then only from these two apartments that we have to seek issues. The police have laid bare the floors, the ceilings, and the masonry of the walls, in every direction. No _secret_ issues could have escaped their vigilance. But, not trusting to _their_ eyes, I examined with my own. There were, then, no secret issues. Both doors leading from the rooms into the passage were securely locked, with the keys inside. Let us turn to the chimneys. These, although of ordinary width for some eight or ten feet above the hearths, will not admit, throughout their extent, the body of a large cat. The impossibility of egress, by means already stated, being thus absolute, we are reduced to the windows. Through those of the front room no one could have escaped without notice from the crowd in the street. The murderers _must_ have passed, then, through those of the back room. Now, brought to this conclusion in so unequivocal a manner as we are, it is not our part, as reasoners, to reject it on account of apparent impossibilities. It is only left for us to prove that these apparent ‘impossibilities’ are, in reality, not such.\n\n“There are two windows in the chamber. One of them is unobstructed by furniture, and is wholly visible. The lower portion of the other is hidden from view by the head of the unwieldy bedstead which is thrust close up against it. The former was found securely fastened from within. It resisted the utmost force of those who endeavored to raise it. A large gimlet-hole had been pierced in its frame to the left, and a very stout nail was found fitted therein, nearly to the head. Upon examining the other window, a similar nail was seen similarly fitted in it; and a vigorous attempt to raise this sash, failed also. The police were now entirely satisfied that egress had not been in these directions. And, _therefore_, it was thought a matter of supererogation to withdraw the nails and open the windows.\n\n“My own examination was somewhat more particular, and was so for the reason I have just given—because here it was, I knew, that all apparent impossibilities _must_ be proved to be not such in reality."
+      },
+      "request_id": "2aa0c827c2b400d64beec80d",
+      "request_sha256": "e85904c275ab36b356dea2e27af7134d7e3576862c88fd43b8d1598277fc9e89",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "87b698a41d9f3be3b5c6feb62523b020839ff52dacda0a15dd7c5ca3b503c4dd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a0c3bbb8edeeaea3045b07eb",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 491,
+      "passage_id": "V2_wilde_canterville_ghost_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: a0c3bbb8edeeaea3045b07eb\noriginal_word_count: 491\n\nPassage:\nABOUT ten minutes later, the bell rang for tea, and, as Virginia did not come down, Mrs. Otis sent up one of the footmen to tell her. After a little time he returned and said that he could not find Miss Virginia anywhere. As she was in the habit of going out to the garden every evening to get flowers for the dinner-table, Mrs. Otis was not at all alarmed at first, but when six o’clock struck, and Virginia did not appear, she became really agitated, and sent the boys out to look for her, while she herself and Mr. Otis searched every room in the house. At half-past six the boys came back and said that they could find no trace of their sister anywhere. They were all now in the greatest state of excitement, and did not know what to do, when Mr. Otis suddenly remembered that, some few days before, he had given a band of gypsies permission to camp in the park. He accordingly at once set off for Blackfell Hollow, where he knew they were, accompanied by his eldest son and two of the farm-servants. The little Duke of Cheshire, who was perfectly frantic with anxiety, begged hard to be allowed to go too, but Mr. Otis would not allow him, as he was afraid there might be a scuffle. On arriving at the spot, however, he found that the gypsies had gone, and it was evident that their departure had been rather sudden, as the fire was still burning, and some plates were lying on the grass. Having sent off Washington and the two men to scour the district, he ran home, and despatched telegrams to all the police inspectors in the county, telling them to look out for a little girl who had been kidnapped by tramps or gypsies. He then ordered his horse to be brought round, and, after insisting on his wife and the three boys sitting down to dinner, rode off down the Ascot Road with a groom. He had hardly, however, gone a couple of miles when he heard somebody galloping after him, and, looking round, saw the little Duke coming up on his pony, with his face very flushed and no hat. ‘I’m awfully sorry, Mr. Otis,’ gasped out the boy, ‘but I can’t eat any dinner as long as Virginia is lost. Please, don’t be angry with me; if you had let us be engaged last year, there would never have been all this trouble. You won’t send me back, will you? I can’t go! I won’t go!’\n\nThe Minister could not help smiling at the handsome young scapegrace, and was a good deal touched at his devotion to Virginia, so leaning down from his horse, he patted him kindly on the shoulders, and said, ‘Well, Cecil, if you won’t go back I suppose you must come with me, but I must get you a hat at Ascot.’"
+      },
+      "request_id": "a0c3bbb8edeeaea3045b07eb",
+      "request_sha256": "5da07a8172fd1f7a81e3d8f24e05899872ab538060c4540daaa0b01283935e63",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "08ec1bb0212207e7343406e012c9c0de383a52b3f10d1120ca83b432be6ac74f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e387d7dfe6c76c9cdbf3cd2e",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_poe_murders_rue_morgue_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e387d7dfe6c76c9cdbf3cd2e\noriginal_word_count: 465\n\nPassage:\nObserving him in these moods, I often dwelt meditatively upon the old philosophy of the Bi-Part Soul, and amused myself with the fancy of a double Dupin—the creative and the resolvent.\n\nLet it not be supposed, from what I have just said, that I am detailing any mystery, or penning any romance. What I have described in the Frenchman, was merely the result of an excited, or perhaps of a diseased intelligence. But of the character of his remarks at the periods in question an example will best convey the idea.\n\nWe were strolling one night down a long dirty street in the vicinity of the Palais Royal. Being both, apparently, occupied with thought, neither of us had spoken a syllable for fifteen minutes at least. All at once Dupin broke forth with these words:\n\n“He is a very little fellow, that’s true, and would do better for the _Théâtre des Variétés_.”\n\n“There can be no doubt of that,” I replied unwittingly, and not at first observing (so much had I been absorbed in reflection) the extraordinary manner in which the speaker had chimed in with my meditations. In an instant afterward I recollected myself, and my astonishment was profound.\n\n“Dupin,” said I, gravely, “this is beyond my comprehension. I do not hesitate to say that I am amazed, and can scarcely credit my senses. How was it possible you should know I was thinking of ——?” Here I paused, to ascertain beyond a doubt whether he really knew of whom I thought.\n\n“—— of Chantilly,” said he, “why do you pause? You were remarking to yourself that his diminutive figure unfitted him for tragedy.”\n\nThis was precisely what had formed the subject of my reflections. Chantilly was a _quondam_ cobbler of the Rue St. Denis, who, becoming stage-mad, had attempted the _rôle_ of Xerxes, in Crébillon’s tragedy so called, and been notoriously Pasquinaded for his pains.\n\n“Tell me, for Heaven’s sake,” I exclaimed, “the method—if method there is—by which you have been enabled to fathom my soul in this matter.” In fact I was even more startled than I would have been willing to express.\n\n“It was the fruiterer,” replied my friend, “who brought you to the conclusion that the mender of soles was not of sufficient height for Xerxes _et id genus omne_.”\n\n“The fruiterer!—you astonish me—I know no fruiterer whomsoever.”\n\n“The man who ran up against you as we entered the street—it may have been fifteen minutes ago.”\n\nI now remembered that, in fact, a fruiterer, carrying upon his head a large basket of apples, had nearly thrown me down, by accident, as we passed from the Rue C—— into the thoroughfare where we stood; but what this had to do with Chantilly I could not possibly understand."
+      },
+      "request_id": "e387d7dfe6c76c9cdbf3cd2e",
+      "request_sha256": "1d937d0f1c9122885609424b56b89a8295df581f5a47b6ef9b548dd58372da5c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "17bd420701472ed5ef586ed865261f765fb43518c729afaeb5472f9de4c2f5f6"
+    }
+  ],
+  "session_id": "01a0e1dc-5c35-7b31-a9b6-a38e1d6af01b",
+  "worker_id": "astra_a",
+  "worker_identity_sha256": "1dbcb4b943cd599b768ad84fa4e0ccc355a69f663720cc130c5d030c1b9e8505"
+}

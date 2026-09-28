@@ -1,0 +1,11 @@
+{
+  "accounted": 2160,
+  "accounting_complete": true,
+  "assigned": 2160,
+  "failed": 95,
+  "human_sampling_cells_sufficient": true,
+  "length_warnings_are_included_in_main_available_output_analysis": true,
+  "native_responses": 2134,
+  "terminal_http_failures": 26,
+  "warnings": 1053
+}

@@ -1,0 +1,15 @@
+{
+  "checked_utc": "2026-09-21T18:33:12+00:00",
+  "reviewer_type": "AI visual layout review; not human scientific annotation",
+  "source_sha256": "f191789e1a1523b64b1e7c06070a1c042f654bcb787ebd6afa13b5d73a8a119d",
+  "docx_sha256": "2a5f0674984e3cc01315b6f0ed3687463ec997e6e78072c8bb584ae95770d1b7",
+  "pdf_sha256": "1fa615b81f7cfc4dd0606584571e8e44e3ffae18d119643b9a4c3c986e3411b1",
+  "pages_reviewed": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+  "raster_dpi": 120,
+  "inspection": "Every full-size page image was opened; no clipping, overlap, missing glyphs or broken cells observed. Multipage tables repeat headers.",
+  "renderer": "Installed Microsoft Word PDF export, followed by bundled Poppler",
+  "canonical_renderer_limitation": "The packaged render_docx.py was attempted but LibreOffice/soffice is absent. The same DOCX was then rendered through Microsoft Word.",
+  "visual_layout_passed": true,
+  "scientific_submission_ready": false,
+  "valid_only_for_matching_hashes": true
+}

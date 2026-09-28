@@ -1,0 +1,14 @@
+{
+  "accounted": 0,
+  "accounting_complete": false,
+  "expected": 1080,
+  "fail": 0,
+  "missing": 1080,
+  "model_key": "sol56",
+  "new_native_responses": 0,
+  "parsed_sha256": "ab657c2b6aa691d4f526d9b843cc1e2789f305ef014b3147258299bd6e65b9c9",
+  "request_manifest_sha256": "9a06b8e74d3a2b6144844666cc7b96f2ec2a7c019f7bc3214bae94f25a76e019",
+  "reused_v2_observations": 0,
+  "review_complete": false,
+  "valid_outputs": 0
+}

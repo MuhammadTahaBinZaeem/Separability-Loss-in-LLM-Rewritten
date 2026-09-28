@@ -1,5 +1,12 @@
 # litpaper
 
+**Current takeover checkpoint:** use branch `repair/research-validity-v2` and
+start with [the Astra handoff](revision/ASTRA_HANDOFF.md). All five API arms have
+1,080 outcomes accounted for; Astra is intentionally stopped at 162/1,080, with
+918 remaining. [Private local dependencies](revision/PRIVATE_HANDOFF.md) are not
+published. The corrected live study is [expanded_v3](revision/expanded_v3/README.md).
+The v2 and older descriptions below are historical context, not live completion claims.
+
 > **Research-validity revision in progress (v2).** The historical completion and
 > publication-readiness claims below are superseded. The corrected experiment is
 > specified in [revision/PROTOCOL.md](revision/PROTOCOL.md); its code is in
@@ -9,11 +16,37 @@
 > generations, independent human reviews, and an actual archival DOI must not be
 > described as completed. See [revision/STATUS.md](revision/STATUS.md).
 
+Current v2 entry points: [review manuscript](revision/paper_assets/manuscript_REVIEW_DRAFT.md),
+[offline reproduction instructions](revision/REPRODUCE.md),
+[prospective amendments](revision/AMENDMENTS.md), and
+[focused literature/novelty check](revision/LITERATURE_CHECK.md).
+The manuscript is explicitly a review draft, not a submission-ready paper.
+
+**Research-first JQL extension (2026-09-22):** manuscript polishing is paused.
+The [scientific assessment](revision/extensions/jql_v1/ASSESSMENT.md) distinguishes
+original-trained attribution loss from recoverable domain shift and a remaining
+within-domain gap. See the [recorded exploratory plan](revision/extensions/jql_v1/PLAN.md),
+[Azure domain-transfer evidence](revision/extensions/jql_v1/azure_replication/REPORT.md),
+and [held-out explanatory-model check](revision/extensions/jql_v1/azure_replication/explanatory_model/REPORT.md).
+These results do not replace the frozen v2 primary analysis or supply the
+still-missing independent human review and untouched-work validation.
+
+**Local review app:** run `scripts/start_review_app.ps1` for a localhost editor
+with source context, blinded reviewer workspaces, canonical CSV/JSONL saves,
+and an explicitly AI-assisted CLI. [Instructions and API contract](review_app/README.md).
+Creating or filling an AI workspace does not satisfy independent human review.
+
 Repository for the research project **Authorial Style Separability Loss in LLM-Rewritten Fiction**.
 
 This repository contains a traceable, reproducible dataset-building and analysis pipeline for measuring how LLM rewriting affects computationally detectable author-specific literary style signals.
 
-## Locked research direction
+## Historical project description — not v2 evidence
+
+The material below documents the earlier experiment. Its results and completion
+claims are retained for audit and must not be used as current publication
+evidence. Use the v2 entry points above for the corrected study.
+
+## Historical research direction
 
 **Title:** Authorial Style Separability Loss in LLM-Rewritten Fiction: A Controlled Stylometric Framework for Measuring Literary Style Flattening
 

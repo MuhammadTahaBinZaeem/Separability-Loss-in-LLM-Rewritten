@@ -1,0 +1,68 @@
+{
+  "batch_id": "6e2c5260d71841c7b113",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T08:01:16.312013+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b7b50f8f58fb9bb94b540a39",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_poe_murders_rue_morgue_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: b7b50f8f58fb9bb94b540a39\noriginal_word_count: 450\n\nPassage:\nBut in that bitter _tirade_ upon Chantilly, which appeared in yesterday’s ‘_Musée_,’ the satirist, making some disgraceful allusions to the cobbler’s change of name upon assuming the buskin, quoted a Latin line about which we have often conversed. I mean the line\n\nPerdidit antiquum litera prima sonum.\n\n“I had told you that this was in reference to Orion, formerly written Urion; and, from certain pungencies connected with this explanation, I was aware that you could not have forgotten it. It was clear, therefore, that you would not fail to combine the two ideas of Orion and Chantilly. That you did combine them I saw by the character of the smile which passed over your lips. You thought of the poor cobbler’s immolation. So far, you had been stooping in your gait; but now I saw you draw yourself up to your full height. I was then sure that you reflected upon the diminutive figure of Chantilly. At this point I interrupted your meditations to remark that as, in fact, he was a very little fellow—that Chantilly—he would do better at the _Théâtre des Variétés_.”\n\nNot long after this, we were looking over an evening edition of the “Gazette des Tribunaux,” when the following paragraphs arrested our attention.\n\n“_Extraordinary Murders_.—This morning, about three o’clock, the inhabitants of the Quartier St. Roch were aroused from sleep by a succession of terrific shrieks, issuing, apparently, from the fourth story of a house in the Rue Morgue, known to be in the sole occupancy of one Madame L’Espanaye, and her daughter, Mademoiselle Camille L’Espanaye. After some delay, occasioned by a fruitless attempt to procure admission in the usual manner, the gateway was broken in with a crowbar, and eight or ten of the neighbors entered accompanied by two _gendarmes_. By this time the cries had ceased; but, as the party rushed up the first flight of stairs, two or more rough voices in angry contention were distinguished and seemed to proceed from the upper part of the house. As the second landing was reached, these sounds, also, had ceased and everything remained perfectly quiet. The party spread themselves and hurried from room to room. Upon arriving at a large back chamber in the fourth story, (the door of which, being found locked, with the key inside, was forced open,) a spectacle presented itself which struck every one present not less with horror than with astonishment.\n\n“The apartment was in the wildest disorder—the furniture broken and thrown about in all directions. There was only one bedstead; and from this the bed had been removed, and thrown into the middle of the floor. On a chair lay a razor, besmeared with blood."
+      },
+      "request_id": "b7b50f8f58fb9bb94b540a39",
+      "request_sha256": "9b725824e50f99a20152f1735da6481954c402cc1b362d0c81a732cb6a002cbb",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5d1eabbc908de907f44ae635448b02b7f371e8f23de5067656b3cc8bb5303174"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d94f916aac3bfebadd4d65b2",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 523,
+      "passage_id": "V2_twain_huckleberry_finn_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: d94f916aac3bfebadd4d65b2\noriginal_word_count: 523\n\nPassage:\nCol. Grangerford was a gentleman, you see. He was a gentleman all over; and so was his family. He was well born, as the saying is, and that’s worth as much in a man as it is in a horse, so the Widow Douglas said, and nobody ever denied that she was of the first aristocracy in our town; and pap he always said it, too, though he warn’t no more quality than a mudcat himself. Col. Grangerford was very tall and very slim, and had a darkish-paly complexion, not a sign of red in it anywheres; he was clean shaved every morning all over his thin face, and he had the thinnest kind of lips, and the thinnest kind of nostrils, and a high nose, and heavy eyebrows, and the blackest kind of eyes, sunk so deep back that they seemed like they was looking out of caverns at you, as you may say. His forehead was high, and his hair was black and straight and hung to his shoulders. His hands was long and thin, and every day of his life he put on a clean shirt and a full suit from head to foot made out of linen so white it hurt your eyes to look at it; and on Sundays he wore a blue tail-coat with brass buttons on it. He carried a mahogany cane with a silver head to it. There warn’t no frivolishness about him, not a bit, and he warn’t ever loud. He was as kind as he could be—you could feel that, you know, and so you had confidence. Sometimes he smiled, and it was good to see; but when he straightened himself up like a liberty-pole, and the lightning begun to flicker out from under his eyebrows, you wanted to climb a tree first, and find out what the matter was afterwards. He didn’t ever have to tell anybody to mind their manners—everybody was always good-mannered where he was. Everybody loved to have him around, too; he was sunshine most always—I mean he made it seem like good weather. When he turned into a cloudbank it was awful dark for half a minute, and that was enough; there wouldn’t nothing go wrong again for a week.\n\nWhen him and the old lady come down in the morning all the family got up out of their chairs and give them good-day, and didn’t set down again till they had set down. Then Tom and Bob went to the sideboard where the decanter was, and mixed a glass of bitters and handed it to him, and he held it in his hand and waited till Tom’s and Bob’s was mixed, and then they bowed and said, “Our duty to you, sir, and madam;” and _they_ bowed the least bit in the world and said thank you, and so they drank, all three, and Bob and Tom poured a spoonful of water on the sugar and the mite of whisky or apple brandy in the bottom of their tumblers, and give it to me and Buck, and we drank to the old people too."
+      },
+      "request_id": "d94f916aac3bfebadd4d65b2",
+      "request_sha256": "56f7faf462001dbec6d67b9d5553c5ca38f835615beb3bfb8a64089fb5b6d15b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6bc24f1a44a6cb2b029f2da98f6d13b92182bbe7486c14bd6ee472077de7d780"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "594474173ad76115aa1ea295",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_pride_and_prejudice_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 594474173ad76115aa1ea295\noriginal_word_count: 465\n\nPassage:\nAfter joining in general lamentations over the dreadful sequel of this event, which Elizabeth considered as all but certain, and Miss Bennet could not assert to be wholly impossible, the former continued the subject by saying, “But tell me all and everything about it which I have not already heard. Give me further particulars. What did Colonel Forster say? Had they no apprehension of anything before the elopement took place? They must have seen them together for ever.”\n\n“Colonel Forster did own that he had often suspected some partiality, especially on Lydia’s side, but nothing to give him any alarm. I am so grieved for him. His behaviour was attentive and kind to the utmost. He _was_ coming to us, in order to assure us of his concern, before he had any idea of their not being gone to Scotland: when that apprehension first got abroad, it hastened his journey.”\n\n“And was Denny convinced that Wickham would not marry? Did he know of their intending to go off? Had Colonel Forster seen Denny himself?”\n\n“Yes; but when questioned by _him_, Denny denied knowing anything of their plan, and would not give his real opinion about it. He did not repeat his persuasion of their not marrying, and from _that_ I am inclined to hope he might have been misunderstood before.”\n\n“And till Colonel Forster came himself, not one of you entertained a doubt, I suppose, of their being really married?”\n\n“How was it possible that such an idea should enter our brains? I felt a little uneasy--a little fearful of my sister’s happiness with him in marriage, because I knew that his conduct had not been always quite right. My father and mother knew nothing of that; they only felt how imprudent a match it must be. Kitty then owned, with a very natural triumph on knowing more than the rest of us, that in Lydia’s last letter she had prepared her for such a step. She had known, it seems, of their being in love with each other many weeks.”\n\n“But not before they went to Brighton?”\n\n“No, I believe not.”\n\n“And did Colonel Forster appear to think ill of Wickham himself? Does he know his real character?”\n\n“I must confess that he did not speak so well of Wickham as he formerly did. He believed him to be imprudent and extravagant; and since this sad affair has taken place, it is said that he left Meryton greatly in debt: but I hope this may be false.”\n\n“Oh, Jane, had we been less secret, had we told what we knew of him, this could not have happened!”\n\n“Perhaps it would have been better,” replied her sister.\n\n“But to expose the former faults of any person, without knowing what their present feelings were, seemed unjustifiable.”"
+      },
+      "request_id": "594474173ad76115aa1ea295",
+      "request_sha256": "de6edb06f576c342030dd7e5f373d20d8ecf432f5c10c14ed2f6c06dbbfe29ba",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c6022dc49370119593b084597bb732e504dbb91faaa47ad926e72669ec1812d0"
+    }
+  ],
+  "session_id": "01a0e1dc-db77-7ca2-a44b-20de81379df6",
+  "worker_id": "astra_c",
+  "worker_identity_sha256": "85385f96362fb7155bec4ef09a1c5c0d6a7ab633c57687871b698abad7715535"
+}

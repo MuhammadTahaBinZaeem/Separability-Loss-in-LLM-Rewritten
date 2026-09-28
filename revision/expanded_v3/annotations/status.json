@@ -1,0 +1,11 @@
+{
+  "complete": false,
+  "existing_packets_unchanged": true,
+  "missing_models": [
+    "codex51",
+    "luna56",
+    "terra56",
+    "astra_session"
+  ],
+  "stage": "waiting_for_complete_generation"
+}

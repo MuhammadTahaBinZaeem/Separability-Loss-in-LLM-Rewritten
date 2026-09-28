@@ -1,0 +1,19 @@
+{
+  "additional_generation_budget_approved": false,
+  "azure_explanatory_replay": true,
+  "azure_transfer_replay": true,
+  "azure_transfer_verified": true,
+  "checked_utc": "2026-09-22T17:12:27.317240+00:00",
+  "gemini_missing": 115,
+  "gemini_native_responses": 965,
+  "generator_active": true,
+  "human_review_complete": false,
+  "journal_target": "Journal of Quantitative Linguistics",
+  "manuscript_rewritten_this_checkpoint": false,
+  "public_release_made": false,
+  "scientific_watcher": "waiting_for_existing_writers",
+  "submission_ready": false,
+  "tests_current": true,
+  "untouched_work_validation_collected": false,
+  "writing_paused": true
+}

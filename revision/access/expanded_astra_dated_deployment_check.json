@@ -1,0 +1,15 @@
+{
+  "checked_utc": "2026-09-26T05:45:16.444891+00:00",
+  "max_output_tokens": 128,
+  "not_study_generation": true,
+  "requested_model": "gpt-6-astra-2026-09-03",
+  "reserved_upper_usd": 0.00781,
+  "returned_model": null,
+  "status": {
+    "error_code": "DeploymentNotFound",
+    "http_status": 404,
+    "ok": false,
+    "reasons": []
+  },
+  "usage": null
+}

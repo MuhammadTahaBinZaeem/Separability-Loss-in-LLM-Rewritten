@@ -1,0 +1,68 @@
+{
+  "batch_id": "0eb5141c6a85e0b12e4e",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T08:02:22.571050+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "667612165b14dda2726e5262",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_dickens_great_expectations_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 667612165b14dda2726e5262\noriginal_word_count: 453\n\nPassage:\n“Joseph!! Joseph!!!” Thereupon he shook his head and tapped it, expressing his sense of deficiency in Joseph.\n\n“But my dear young friend,” said Mr. Pumblechook, “you must be hungry, you must be exhausted. Be seated. Here is a chicken had round from the Boar, here is a tongue had round from the Boar, here’s one or two little things had round from the Boar, that I hope you may not despise. But do I,” said Mr. Pumblechook, getting up again the moment after he had sat down, “see afore me, him as I ever sported with in his times of happy infancy? And may I—_may_ I—?”\n\nThis May I, meant might he shake hands? I consented, and he was fervent, and then sat down again.\n\n“Here is wine,” said Mr. Pumblechook. “Let us drink, Thanks to Fortune, and may she ever pick out her favourites with equal judgment! And yet I cannot,” said Mr. Pumblechook, getting up again, “see afore me One—and likewise drink to One—without again expressing—May I—_may_ I—?”\n\nI said he might, and he shook hands with me again, and emptied his glass and turned it upside down. I did the same; and if I had turned myself upside down before drinking, the wine could not have gone more direct to my head.\n\nMr. Pumblechook helped me to the liver wing, and to the best slice of tongue (none of those out-of-the-way No Thoroughfares of Pork now), and took, comparatively speaking, no care of himself at all. “Ah! poultry, poultry! You little thought,” said Mr. Pumblechook, apostrophising the fowl in the dish, “when you was a young fledgling, what was in store for you. You little thought you was to be refreshment beneath this humble roof for one as—Call it a weakness, if you will,” said Mr. Pumblechook, getting up again, “but may I? _may_ I—?”\n\nIt began to be unnecessary to repeat the form of saying he might, so he did it at once. How he ever did it so often without wounding himself with my knife, I don’t know.\n\n“And your sister,” he resumed, after a little steady eating, “which had the honour of bringing you up by hand! It’s a sad picter, to reflect that she’s no longer equal to fully understanding the honour. May—”\n\nI saw he was about to come at me again, and I stopped him.\n\n“We’ll drink her health,” said I.\n\n“Ah!” cried Mr. Pumblechook, leaning back in his chair, quite flaccid with admiration, “that’s the way you know ’em, sir!” (I don’t know who Sir was, but he certainly was not I, and there was no third person present); “that’s the way you know the noble-minded, sir!"
+      },
+      "request_id": "667612165b14dda2726e5262",
+      "request_sha256": "53cc2f2b2f87435d8f94453d393f2f143bc52c3729150c183de8f0075a5f7729",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a8eba07377de662432c6f8a560fa2314328669d77ac66751767a40b6811f433c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "86be118635dda221a4b31ccd",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_poe_the_gold_bug_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 86be118635dda221a4b31ccd\noriginal_word_count: 472\n\nPassage:\nAt sight of these the joy of Jupiter could scarcely be restrained, but the countenance of his master wore an air of extreme disappointment. He urged us, however, to continue our exertions, and the words were hardly uttered when I stumbled and fell forward, having caught the toe of my boot in a large ring of iron that lay half buried in the loose earth.\n\nWe now worked in earnest, and never did I pass ten minutes of more intense excitement. During this interval we had fairly unearthed an oblong chest of wood, which, from its perfect preservation and wonderful hardness, had plainly been subjected to some mineralizing process—perhaps that of the bi-chloride of mercury. This box was three feet and a half long, three feet broad, and two and a half feet deep. It was firmly secured by bands of wrought iron, riveted, and forming a kind of open trelliswork over the whole. On each side of the chest, near the top, were three rings of iron—six in all—by means of which a firm hold could be obtained by six persons. Our utmost united endeavors served only to disturb the coffer very slightly in its bed. We at once saw the impossibility of removing so great a weight. Luckily, the sole fastenings of the lid consisted of two sliding bolts. These we drew back—trembling and panting with anxiety. In an instant, a treasure of incalculable value lay gleaming before us. As the rays of the lanterns fell within the pit, there flashed upwards a glow and a glare, from a confused heap of gold and of jewels, that absolutely dazzled our eyes.\n\nI shall not pretend to describe the feelings with which I gazed. Amazement was, of course, predominant. Legrand appeared exhausted with excitement, and spoke very few words. Jupiter’s countenance wore, for some minutes, as deadly a pallor as it is possible, in nature of things, for any negro’s visage to assume. He seemed stupefied—thunderstricken. Presently he fell upon his knees in the pit, and, burying his naked arms up to the elbows in gold, let them there remain, as if enjoying the luxury of a bath. At length, with a deep sigh, he exclaimed, as if in a soliloquy:\n\n“And dis all cum ob de goole-bug! de putty goole-bug! de poor little goole-bug, what I boosed in dat sabage kind ob style! Aint you shamed ob yourself, nigger?—answer me dat!”\n\nIt became necessary, at last, that I should arouse both master and valet to the expediency of removing the treasure. It was growing late, and it behooved us to make exertion, that we might get every thing housed before daylight. It was difficult to say what should be done, and much time was spent in deliberation—so confused were the ideas of all."
+      },
+      "request_id": "86be118635dda221a4b31ccd",
+      "request_sha256": "c740444e42d1e3a3cee9e660c8c0a641ef2c68bd4734b93a6736a896bc411f92",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "222c621dc7086459f19963d741acd72c0f6d9a907400e22d9d859e4c54a136f6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5715d1bb79fb0b11cffcd2c5",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_great_expectations_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 5715d1bb79fb0b11cffcd2c5\noriginal_word_count: 450\n\nPassage:\nOne day when I was busy with my books and Mr. Pocket, I received a note by the post, the mere outside of which threw me into a great flutter; for, though I had never seen the handwriting in which it was addressed, I divined whose hand it was. It had no set beginning, as Dear Mr. Pip, or Dear Pip, or Dear Sir, or Dear Anything, but ran thus:—\n\n“I am to come to London the day after to-morrow by the midday coach. I believe it was settled you should meet me? At all events Miss Havisham has that impression, and I write in obedience to it. She sends you her regard.\n\n“Yours, ESTELLA.”\n\nIf there had been time, I should probably have ordered several suits of clothes for this occasion; but as there was not, I was fain to be content with those I had. My appetite vanished instantly, and I knew no peace or rest until the day arrived. Not that its arrival brought me either; for, then I was worse than ever, and began haunting the coach-office in Wood Street, Cheapside, before the coach had left the Blue Boar in our town. For all that I knew this perfectly well, I still felt as if it were not safe to let the coach-office be out of my sight longer than five minutes at a time; and in this condition of unreason I had performed the first half-hour of a watch of four or five hours, when Wemmick ran against me.\n\n“Halloa, Mr. Pip,” said he; “how do you do? I should hardly have thought this was _your_ beat.”\n\nI explained that I was waiting to meet somebody who was coming up by coach, and I inquired after the Castle and the Aged.\n\n“Both flourishing thankye,” said Wemmick, “and particularly the Aged. He’s in wonderful feather. He’ll be eighty-two next birthday. I have a notion of firing eighty-two times, if the neighbourhood shouldn’t complain, and that cannon of mine should prove equal to the pressure. However, this is not London talk. Where do you think I am going to?”\n\n“To the office?” said I, for he was tending in that direction.\n\n“Next thing to it,” returned Wemmick, “I am going to Newgate. We are in a banker’s-parcel case just at present, and I have been down the road taking a squint at the scene of action, and thereupon must have a word or two with our client.”\n\n“Did your client commit the robbery?” I asked.\n\n“Bless your soul and body, no,” answered Wemmick, very drily. “But he is accused of it. So might you or I be. Either of us might be accused of it, you know.”"
+      },
+      "request_id": "5715d1bb79fb0b11cffcd2c5",
+      "request_sha256": "c4b5666cfbfa51e96bee47fcddb7308a975b6f5d12819f4de714c319800b8c0d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "75e8dbf7fdc6ae15b69803db1f8281aec79b863c959608505d2127095ae041ab"
+    }
+  ],
+  "session_id": "01a0e1dc-98ec-7c60-82e0-33192a6dbb6d",
+  "worker_id": "astra_b",
+  "worker_identity_sha256": "63e655afad929d2df43c7a786df30c2f77ef9616368896382b0782c5fc9c466d"
+}

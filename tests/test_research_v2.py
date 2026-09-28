@@ -8,7 +8,7 @@ import pytest
 from research_v2.analysis import classifier, split_rows
 from research_v2.corpus import AUTHORS, bounds, candidates, clean_text, editorial_spans, source_text, words
 from research_v2.features import FoldFeatures
-from research_v2.generation import parse_response
+from research_v2.generation import parse_response, parse_terminal, terminal_from_event
 from research_v2.inference import confusion, f1_from_confusion, holm, paired_uncertainty
 from research_v2.io import OUT, digest_text, file_hash, read_csv, read_json
 
@@ -121,3 +121,43 @@ def test_holm_correction_uses_full_predeclared_family():
 def test_macro_f1_keeps_all_six_labels():
     matrix=confusion(np.array([0]),np.array([0]))
     assert f1_from_confusion(matrix)==pytest.approx(1/6)
+
+
+def test_http_refusal_is_not_a_fabricated_model_completion():
+    request={"request_id":"blocked","passage_id":"p","condition":"simplify","model_key":"azure",
+             "requested_model":"gpt-5.4-nano","source_sha256":"source","request_sha256":"request","original_words":500}
+    event={"request_id":"blocked","http_status":400,"error_code":"content_filter","timestamp":"2026-09-20T09:14:23+00:00"}
+    record=terminal_from_event(request,event)
+    row=parse_terminal(request,record)
+    assert row["qc_status"]=="fail" and row["outcome_type"]=="http_content_filter"
+    assert row["response_id"]==row["returned_model"]==row["rewritten_text"]==row["rewrite_sha256"]==""
+    assert "response" not in record and "response_body" not in record
+    with pytest.raises(ValueError):
+        terminal_from_event(request,{**event,"http_status":429})
+    with pytest.raises(ValueError):
+        terminal_from_event(request,{**event,"request_id":"other"})
+
+
+def test_terminal_accounting_rejects_duplicates_and_unsupported_evidence(tmp_path,monkeypatch):
+    import research_v2.generation as module
+    from research_v2.io import write_jsonl,write_json
+    folder=tmp_path / "generation/test"
+    request={"request_id":"blocked","passage_id":"p","condition":"simplify","model_key":"azure",
+             "requested_model":"gpt-5.4-nano","source_sha256":"source","request_sha256":"request","original_words":500}
+    event={"request_id":"blocked","http_status":400,"error_code":"content_filter","timestamp":"2026-09-20T09:14:23+00:00"}
+    record=terminal_from_event(request,event)
+    write_jsonl(folder / "requests.jsonl",[request])
+    write_json(folder / "request_manifest.json",{"requests_sha256":file_hash(folder / "requests.jsonl")})
+    write_jsonl(folder / "transport_events.jsonl",[event])
+    write_jsonl(folder / "terminal_outcomes.jsonl",[record])
+    monkeypatch.setattr(module,"OUT",tmp_path)
+    monkeypatch.setattr(module,"verify_corpus",lambda: {})
+    result=module.consolidate("test")
+    assert result["accounting_complete"] and not result["complete"] and not result["responses_complete"]
+    assert result["received"]==0 and result["terminal_http_failures"]==result["fail"]==1
+    write_jsonl(folder / "terminal_outcomes.jsonl",[record,record])
+    with pytest.raises(ValueError,match="Duplicate"):
+        module.consolidate("test")
+    write_jsonl(folder / "terminal_outcomes.jsonl",[{**record,"received_utc":"invented"}])
+    with pytest.raises(ValueError,match="supported"):
+        module.consolidate("test")

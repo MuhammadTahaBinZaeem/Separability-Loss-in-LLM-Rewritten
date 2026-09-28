@@ -1,0 +1,14 @@
+{
+  "accounted": 1080,
+  "accounting_complete": true,
+  "expected": 1080,
+  "fail": 78,
+  "missing": 0,
+  "model_key": "codex51",
+  "new_native_responses": 1053,
+  "parsed_sha256": "83baea6ce3ed9dfc979cdc68d7c5e26cfa245f3d3c5c640b36513f22eaee7c3e",
+  "request_manifest_sha256": "95f0ea6642be1fb7318106d1f9dcaa21bed67eed054edaa46b2d11461072570d",
+  "reused_v2_observations": 0,
+  "review_complete": false,
+  "valid_outputs": 1002
+}

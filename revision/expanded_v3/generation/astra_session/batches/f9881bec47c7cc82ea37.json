@@ -1,0 +1,68 @@
+{
+  "batch_id": "f9881bec47c7cc82ea37",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T07:55:19.553450+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9c77017d3de8937e8e029a94",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_poe_murders_rue_morgue_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 9c77017d3de8937e8e029a94\noriginal_word_count: 463\n\nPassage:\nTo look at a star by glances—to view it in a side-long way, by turning toward it the exterior portions of the _retina_ (more susceptible of feeble impressions of light than the interior), is to behold the star distinctly—is to have the best appreciation of its lustre—a lustre which grows dim just in proportion as we turn our vision _fully_ upon it. A greater number of rays actually fall upon the eye in the latter case, but, in the former, there is the more refined capacity for comprehension. By undue profundity we perplex and enfeeble thought; and it is possible to make even Venus herself vanish from the firmament by a scrutiny too sustained, too concentrated, or too direct.\n\n“As for these murders, let us enter into some examinations for ourselves, before we make up an opinion respecting them. An inquiry will afford us amusement,” [I thought this an odd term, so applied, but said nothing] “and, besides, Le Bon once rendered me a service for which I am not ungrateful. We will go and see the premises with our own eyes. I know G——, the Prefect of Police, and shall have no difficulty in obtaining the necessary permission.”\n\nThe permission was obtained, and we proceeded at once to the Rue Morgue. This is one of those miserable thoroughfares which intervene between the Rue Richelieu and the Rue St. Roch. It was late in the afternoon when we reached it, as this quarter is at a great distance from that in which we resided. The house was readily found; for there were still many persons gazing up at the closed shutters, with an objectless curiosity, from the opposite side of the way. It was an ordinary Parisian house, with a gateway, on one side of which was a glazed watch-box, with a sliding panel in the window, indicating a _loge de concierge._ Before going in we walked up the street, turned down an alley, and then, again turning, passed in the rear of the building—Dupin, meanwhile examining the whole neighborhood, as well as the house, with a minuteness of attention for which I could see no possible object.\n\nRetracing our steps, we came again to the front of the dwelling, rang, and, having shown our credentials, were admitted by the agents in charge. We went up stairs—into the chamber where the body of Mademoiselle L’Espanaye had been found, and where both the deceased still lay. The disorders of the room had, as usual, been suffered to exist. I saw nothing beyond what had been stated in the “Gazette des Tribunaux.” Dupin scrutinized every thing—not excepting the bodies of the victims. We then went into the other rooms, and into the yard; a _gendarme_ accompanying us throughout."
+      },
+      "request_id": "9c77017d3de8937e8e029a94",
+      "request_sha256": "b9812dc2c189bc4f29ad565f71d6bd6c038cc1bdefc00e3a5464bfd8d4870c47",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "97ba71bd15a53280c53ea4571335a07d577c9bf2576f7c1d1eca6ddf67cd9466"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "47848df68888810996cd71dc",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_twain_huckleberry_finn_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 47848df68888810996cd71dc\noriginal_word_count: 453\n\nPassage:\nWell, I says, I needed the watermelon. But he said I didn’t need it to get out of prison with; there’s where the difference was. He said if I’d a wanted it to hide a knife in, and smuggle it to Jim to kill the seneskal with, it would a been all right. So I let it go at that, though I couldn’t see no advantage in my representing a prisoner if I got to set down and chaw over a lot of gold-leaf distinctions like that every time I see a chance to hog a watermelon.\n\nWell, as I was saying, we waited that morning till everybody was settled down to business, and nobody in sight around the yard; then Tom he carried the sack into the lean-to whilst I stood off a piece to keep watch. By-and-by he come out, and we went and set down on the woodpile to talk. He says:\n\n“Everything’s all right now except tools; and that’s easy fixed.”\n\n“Tools?” I says.\n\n“Yes.”\n\n“Tools for what?”\n\n“Why, to dig with. We ain’t a-going to _gnaw_ him out, are we?”\n\n“Ain’t them old crippled picks and things in there good enough to dig a nigger out with?” I says.\n\nHe turns on me, looking pitying enough to make a body cry, and says:\n\n“Huck Finn, did you _ever_ hear of a prisoner having picks and shovels, and all the modern conveniences in his wardrobe to dig himself out with? Now I want to ask you—if you got any reasonableness in you at all—what kind of a show would _that_ give him to be a hero? Why, they might as well lend him the key and done with it. Picks and shovels—why, they wouldn’t furnish ’em to a king.”\n\n“Well, then,” I says, “if we don’t want the picks and shovels, what do we want?”\n\n“A couple of case-knives.”\n\n“To dig the foundations out from under that cabin with?”\n\n“Yes.”\n\n“Confound it, it’s foolish, Tom.”\n\n“It don’t make no difference how foolish it is, it’s the _right_ way—and it’s the regular way. And there ain’t no _other_ way, that ever _I_ heard of, and I’ve read all the books that gives any information about these things. They always dig out with a case-knife—and not through dirt, mind you; generly it’s through solid rock. And it takes them weeks and weeks and weeks, and for ever and ever. Why, look at one of them prisoners in the bottom dungeon of the Castle Deef, in the harbor of Marseilles, that dug himself out that way; how long was _he_ at it, you reckon?”\n\n“I don’t know.”\n\n“Well, guess.”\n\n“I don’t know. A month and a half.”"
+      },
+      "request_id": "47848df68888810996cd71dc",
+      "request_sha256": "0714585f5a2c16f942cef4bf5ed829f31893dc7720922ad3fc693a136e25cf58",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "da2e3b031ef10d29b2a0e3e08657cd4c32f8e178e2eac64df8d787b737bdd54c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "553873658e8e7a4316270c73",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 500,
+      "passage_id": "V2_twain_connecticut_yankee_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 553873658e8e7a4316270c73\noriginal_word_count: 500\n\nPassage:\nI could remember how it was in the time of our great civil war in the nineteenth century. In the North a carpenter got three dollars a day, gold valuation; in the South he got fifty--payable in Confederate shinplasters worth a dollar a bushel. In the North a suit of overalls cost three dollars--a day's wages; in the South it cost seventy-five --which was two days' wages. Other things were in proportion. Consequently, wages were twice as high in the North as they were in the South, because the one wage had that much more purchasing power than the other had.\n\nYes, I made various acquaintances in the hamlet and a thing that gratified me a good deal was to find our new coins in circulation --lots of milrays, lots of mills, lots of cents, a good many nickels, and some silver; all this among the artisans and commonalty generally; yes, and even some gold--but that was at the bank, that is to say, the goldsmith's. I dropped in there while Marco, the son of Marco, was haggling with a shopkeeper over a quarter of a pound of salt, and asked for change for a twenty-dollar gold piece. They furnished it--that is, after they had chewed the piece, and rung it on the counter, and tried acid on it, and asked me where I got it, and who I was, and where I was from, and where I was going to, and when I expected to get there, and perhaps a couple of hundred more questions; and when they got aground, I went right on and furnished them a lot of information voluntarily; told them I owned a dog, and his name was Watch, and my first wife was a Free Will Baptist, and her grandfather was a Prohibitionist, and I used to know a man who had two thumbs on each hand and a wart on the inside of his upper lip, and died in the hope of a glorious resurrection, and so on, and so on, and so on, till even that hungry village questioner began to look satisfied, and also a shade put out; but he had to respect a man of my financial strength, and so he didn't give me any lip, but I noticed he took it out of his underlings, which was a perfectly natural thing to do. Yes, they changed my twenty, but I judged it strained the bank a little, which was a thing to be expected, for it was the same as walking into a paltry village store in the nineteenth century and requiring the boss of it to change a two thousand-dollar bill for you all of a sudden. He could do it, maybe; but at the same time he would wonder how a small farmer happened to be carrying so much money around in his pocket; which was probably this goldsmith's thought, too; for he followed me to the door and stood there gazing after me with reverent admiration."
+      },
+      "request_id": "553873658e8e7a4316270c73",
+      "request_sha256": "0d3f761db91312ea9d7846824640b36766b6dae61e41c063e017f82f1bc70f69",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "21e1f1325434f3f7d7ffaef4c726e7c71caadaa2fc3e223cade78476e07e93e7"
+    }
+  ],
+  "session_id": "01a0e1dc-5c35-7b31-a9b6-a38e1d6af01b",
+  "worker_id": "astra_a",
+  "worker_identity_sha256": "1dbcb4b943cd599b768ad84fa4e0ccc355a69f663720cc130c5d030c1b9e8505"
+}

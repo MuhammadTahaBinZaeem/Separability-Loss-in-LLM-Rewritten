@@ -1,0 +1,68 @@
+{
+  "batch_id": "207dbcf2b5ceea3756a5",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:27:19.638843+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "72ac279e2201b76a0d52aef6",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 474,
+      "passage_id": "V2_dickens_oliver_twist_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 72ac279e2201b76a0d52aef6\noriginal_word_count: 474\n\nPassage:\nCountrymen, butchers, drovers, hawkers, boys, thieves, idlers, and vagabonds of every low grade, were mingled together in a mass; the whistling of drovers, the barking dogs, the bellowing and plunging of the oxen, the bleating of sheep, the grunting and squeaking of pigs, the cries of hawkers, the shouts, oaths, and quarrelling on all sides; the ringing of bells and roar of voices, that issued from every public-house; the crowding, pushing, driving, beating, whooping and yelling; the hideous and discordant dim that resounded from every corner of the market; and the unwashed, unshaven, squalid, and dirty figures constantly running to and fro, and bursting in and out of the throng; rendered it a stunning and bewildering scene, which quite confounded the senses.\n\nMr. Sikes, dragging Oliver after him, elbowed his way through the thickest of the crowd, and bestowed very little attention on the numerous sights and sounds, which so astonished the boy. He nodded, twice or thrice, to a passing friend; and, resisting as many invitations to take a morning dram, pressed steadily onward, until they were clear of the turmoil, and had made their way through Hosier Lane into Holborn.\n\n“Now, young ’un!” said Sikes, looking up at the clock of St. Andrew’s Church, “hard upon seven! you must step out. Come, don’t lag behind already, Lazy-legs!”\n\nMr. Sikes accompanied this speech with a jerk at his little companion’s wrist; Oliver, quickening his pace into a kind of trot between a fast walk and a run, kept up with the rapid strides of the house-breaker as well as he could.\n\nThey held their course at this rate, until they had passed Hyde Park corner, and were on their way to Kensington: when Sikes relaxed his pace, until an empty cart which was at some little distance behind, came up. Seeing “Hounslow” written on it, he asked the driver with as much civility as he could assume, if he would give them a lift as far as Isleworth.\n\n“Jump up,” said the man. “Is that your boy?”\n\n“Yes; he’s my boy,” replied Sikes, looking hard at Oliver, and putting his hand abstractedly into the pocket where the pistol was.\n\n“Your father walks rather too quick for you, don’t he, my man?” inquired the driver: seeing that Oliver was out of breath.\n\n“Not a bit of it,” replied Sikes, interposing. “He’s used to it. Here, take hold of my hand, Ned. In with you!”\n\nThus addressing Oliver, he helped him into the cart; and the driver, pointing to a heap of sacks, told him to lie down there, and rest himself.\n\nAs they passed the different mile-stones, Oliver wondered, more and more, where his companion meant to take him. Kensington, Hammersmith, Chiswick, Kew Bridge, Brentford, were all passed; and yet they went on as steadily as if they had only just begun their journey."
+      },
+      "request_id": "72ac279e2201b76a0d52aef6",
+      "request_sha256": "dec73d031819197d676a68a82bf953ed0b410bd0f660d0a7ad2a1f64f92699fa",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "adb14e2cb7d0796ab24d6ae94420d6b2ad8f64d128ed134578479f017b251084"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "52cf8c1a44cd447e3ebe56e1",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_wilde_canterville_ghost_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 52cf8c1a44cd447e3ebe56e1\noriginal_word_count: 485\n\nPassage:\nHe stepped stealthily out of the wainscoting, with an evil smile on his cruel, wrinkled mouth, and the moon hid her face in a cloud as he stole past the great oriel window, where his own arms and those of his murdered wife were blazoned in azure and gold. On and on he glided, like an evil shadow, the very darkness seeming to loathe him as he passed. Once he thought he heard something call, and stopped; but it was only the baying of a dog from the Red Farm, and he went on, muttering strange sixteenth-century curses, and ever and anon brandishing the rusty dagger in the midnight air. Finally he reached the corner of the passage that led to luckless Washington’s room. For a moment he paused there, the wind blowing his long grey locks about his head, and twisting into grotesque and fantastic folds the nameless horror of the dead man’s shroud. Then the clock struck the quarter, and he felt the time was come. He chuckled to himself, and turned the corner; but no sooner had he done so, than, with a piteous wail of terror, he fell back, and hid his blanched face in his long, bony hands. Right in front of him was standing a horrible spectre, motionless as a carven image, and monstrous as a madman’s dream! Its head was bald and burnished; its face round, and fat, and white; and hideous laughter seemed to have writhed its features into an eternal grin. From the eyes streamed rays of scarlet light, the mouth was a wide well of fire, and a hideous garment, like to his own, swathed with its silent snows the Titan form. On its breast was a placard with strange writing in antique characters, some scroll of shame it seemed, some record of wild sins, some awful calendar of crime, and, with its right hand, it bore aloft a falchion of gleaming steel.\n\nNever having seen a ghost before, he naturally was terribly frightened, and, after a second hasty glance at the awful phantom, he fled back to his room, tripping up in his long winding-sheet as he sped down the corridor, and finally dropping the rusty dagger into the Minister’s jack-boots, where it was found in the morning by the butler. Once in the privacy of his own apartment, he flung himself down on a small pallet-bed, and hid his face under the clothes. After a time, however, the brave old Canterville spirit asserted itself, and he determined to go and speak to the other ghost as soon as it was daylight. Accordingly, just as the dawn was touching the hills with silver, he returned towards the spot where he had first laid eyes on the grisly phantom, feeling that, after all, two ghosts were better than one, and that, by the aid of his new friend, he might safely grapple with the twins."
+      },
+      "request_id": "52cf8c1a44cd447e3ebe56e1",
+      "request_sha256": "57e1d2f95c7b408d9836e8caea553ae12446f9af41caebc245744330d219dfae",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a4e1341cc39a43e66402427ac7cef8908e07b0261bd77bc340aafec28b040dcc"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "586907ffd8c6bd1c10c8cdb3",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_twain_tom_sawyer_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 586907ffd8c6bd1c10c8cdb3\noriginal_word_count: 470\n\nPassage:\nI know she would!”\n\nThe Widow Douglas’ splendid hospitality was a tempting bait. It and Tom’s persuasions presently carried the day. So it was decided to say nothing to anybody about the night’s programme. Presently it occurred to Tom that maybe Huck might come this very night and give the signal. The thought took a deal of the spirit out of his anticipations. Still he could not bear to give up the fun at Widow Douglas’. And why should he give it up, he reasoned—the signal did not come the night before, so why should it be any more likely to come tonight? The sure fun of the evening outweighed the uncertain treasure; and, boy-like, he determined to yield to the stronger inclination and not allow himself to think of the box of money another time that day.\n\nThree miles below town the ferryboat stopped at the mouth of a woody hollow and tied up. The crowd swarmed ashore and soon the forest distances and craggy heights echoed far and near with shoutings and laughter. All the different ways of getting hot and tired were gone through with, and by-and-by the rovers straggled back to camp fortified with responsible appetites, and then the destruction of the good things began. After the feast there was a refreshing season of rest and chat in the shade of spreading oaks. By-and-by somebody shouted:\n\n“Who’s ready for the cave?”\n\nEverybody was. Bundles of candles were procured, and straightway there was a general scamper up the hill. The mouth of the cave was up the hillside—an opening shaped like a letter A. Its massive oaken door stood unbarred. Within was a small chamber, chilly as an icehouse, and walled by Nature with solid limestone that was dewy with a cold sweat. It was romantic and mysterious to stand here in the deep gloom and look out upon the green valley shining in the sun. But the impressiveness of the situation quickly wore off, and the romping began again. The moment a candle was lighted there was a general rush upon the owner of it; a struggle and a gallant defence followed, but the candle was soon knocked down or blown out, and then there was a glad clamor of laughter and a new chase. But all things have an end. By-and-by the procession went filing down the steep descent of the main avenue, the flickering rank of lights dimly revealing the lofty walls of rock almost to their point of junction sixty feet overhead. This main avenue was not more than eight or ten feet wide. Every few steps other lofty and still narrower crevices branched from it on either hand—for McDougal’s cave was but a vast labyrinth of crooked aisles that ran into each other and out again and led nowhere."
+      },
+      "request_id": "586907ffd8c6bd1c10c8cdb3",
+      "request_sha256": "5ffc48fadd6245de3b1f857830a1d3f56e4153ec8606745dae0df08d9222b271",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5e4147a707d69ff3ee62d501c7ed5b0f16b54be2648c1d8c4613d5eba30eedad"
+    }
+  ],
+  "session_id": "01a0e30c-4c57-7d42-8a5b-552475b979db",
+  "worker_id": "astra_d",
+  "worker_identity_sha256": "eb64fa28df048da360ccadb632274663ddef6a5ea680edeef0e51177dd1c0af7"
+}

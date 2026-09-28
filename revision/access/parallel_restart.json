@@ -1,0 +1,20 @@
+{
+  "reason": "bounded parallel execution requested for speed; serial workers interrupted; unpersisted in-flight attempts have unknown outcome and may be retried as transport interruptions",
+  "records": [
+    {
+      "model_key": "gem31lite",
+      "persisted_responses": 52,
+      "unresolved_started_request_ids": [
+        "a27c5b9a7136b728a8d33c91"
+      ]
+    },
+    {
+      "model_key": "azure_replication",
+      "persisted_responses": 40,
+      "unresolved_started_request_ids": [
+        "7c6faceabcaaf48178f5f6c7"
+      ]
+    }
+  ],
+  "timestamp": "2026-09-20T09:12:29.961420+00:00"
+}

@@ -1,0 +1,89 @@
+{
+  "checked_utc": "2026-09-26T05:42:21.815694+00:00",
+  "results": [
+    {
+      "requested_model": "gpt-5.6-terra",
+      "reserved_upper_usd": 0.006408,
+      "response_status": "completed",
+      "returned_model": "gpt-5.6-terra",
+      "status": {
+        "http_status": 200,
+        "ok": true
+      },
+      "text_received": true,
+      "usage": {
+        "input_tokens": 11,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 0
+        },
+        "output_tokens": 5,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 16
+      }
+    },
+    {
+      "requested_model": "gpt-5.6-luna",
+      "reserved_upper_usd": 0.0006406000000000001,
+      "response_status": "completed",
+      "returned_model": "gpt-5.6-luna",
+      "status": {
+        "http_status": 200,
+        "ok": true
+      },
+      "text_received": true,
+      "usage": {
+        "input_tokens": 11,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 0
+        },
+        "output_tokens": 5,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 16
+      }
+    },
+    {
+      "requested_model": "gpt-6-astra",
+      "reserved_upper_usd": 0.0269,
+      "response_status": null,
+      "returned_model": null,
+      "status": {
+        "error_code": "DeploymentNotFound",
+        "http_status": 404,
+        "ok": false,
+        "reasons": []
+      },
+      "text_received": false,
+      "usage": null
+    },
+    {
+      "requested_model": "gpt-5.1-codex",
+      "reserved_upper_usd": 0.005285,
+      "response_status": "completed",
+      "returned_model": "gpt-5.1-codex",
+      "status": {
+        "http_status": 200,
+        "ok": true
+      },
+      "text_received": true,
+      "usage": {
+        "input_tokens": 11,
+        "input_tokens_details": {
+          "cache_write_tokens": 0,
+          "cached_tokens": 0
+        },
+        "output_tokens": 14,
+        "output_tokens_details": {
+          "reasoning_tokens": 0
+        },
+        "total_tokens": 25
+      }
+    }
+  ],
+  "study_outputs": false
+}

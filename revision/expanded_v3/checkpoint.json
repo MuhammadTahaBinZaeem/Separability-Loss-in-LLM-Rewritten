@@ -1,0 +1,241 @@
+{
+  "all_model_multiplicity_table_exists": false,
+  "analyses": {
+    "astra_session": {
+      "primary": {
+        "current": false
+      },
+      "shift_contraction": {
+        "current": false
+      },
+      "transfer": {
+        "current": false
+      }
+    },
+    "azure_replication": {
+      "primary": {
+        "current": true,
+        "replay_verified": true,
+        "running": false
+      },
+      "shift_contraction": {
+        "current": true,
+        "replay_verified": true,
+        "running": false
+      },
+      "transfer": {
+        "current": true,
+        "replay_verified": true,
+        "running": false
+      }
+    },
+    "codex51": {
+      "primary": {
+        "current": true,
+        "replay_verified": true,
+        "running": false
+      },
+      "shift_contraction": {
+        "current": false,
+        "running": false
+      },
+      "transfer": {
+        "current": false,
+        "running": false
+      }
+    },
+    "gem31lite": {
+      "primary": {
+        "current": true,
+        "replay_verified": true,
+        "running": false
+      },
+      "shift_contraction": {
+        "current": true,
+        "replay_verified": true,
+        "running": false
+      },
+      "transfer": {
+        "current": true,
+        "replay_verified": true,
+        "running": false
+      }
+    },
+    "luna56": {
+      "primary": {
+        "current": true,
+        "replay_verified": true,
+        "running": false
+      },
+      "shift_contraction": {
+        "current": false,
+        "running": false
+      },
+      "transfer": {
+        "current": false,
+        "reason": "missing_or_invalid_evidence",
+        "running": false
+      }
+    },
+    "terra56": {
+      "primary": {
+        "current": true,
+        "replay_verified": true,
+        "running": false
+      },
+      "shift_contraction": {
+        "current": false,
+        "running": false
+      },
+      "transfer": {
+        "current": false,
+        "running": false
+      }
+    }
+  },
+  "astra_provenance_audit": {
+    "accounting_complete": false,
+    "expected": 1080,
+    "passed": true,
+    "quality_verified": false,
+    "recorded": 162,
+    "verification_scope": "recorded prompt/output and requested orchestration identity",
+    "worker_counts": {
+      "astra_a": 30,
+      "astra_b": 30,
+      "astra_c": 30,
+      "astra_d": 21,
+      "astra_e": 21,
+      "astra_f": 21,
+      "original_main_session": 9
+    }
+  },
+  "budget": {
+    "actual_dollar_charges_known": false,
+    "azure_account_tariff_verified": false,
+    "cap_usd": 35.0,
+    "models": {
+      "azure_replication": {
+        "attempts": 12,
+        "output_tokens_used_or_reserved": 7243,
+        "unsettled_calls": 0,
+        "used_or_reserved_usd": 0.023844377
+      },
+      "codex51": {
+        "attempts": 1087,
+        "output_tokens_used_or_reserved": 748391,
+        "unsettled_calls": 34,
+        "used_or_reserved_usd": 9.012121228
+      },
+      "gem31lite": {
+        "attempts": 12,
+        "output_tokens_used_or_reserved": 4510,
+        "unsettled_calls": 0,
+        "used_or_reserved_usd": 0.009590629
+      },
+      "luna56": {
+        "attempts": 1082,
+        "output_tokens_used_or_reserved": 730222,
+        "unsettled_calls": 28,
+        "used_or_reserved_usd": 1.114512954
+      },
+      "sol56": {
+        "attempts": 1,
+        "output_tokens_used_or_reserved": 4096,
+        "unsettled_calls": 1,
+        "used_or_reserved_usd": 0.10365
+      },
+      "terra56": {
+        "attempts": 1083,
+        "output_tokens_used_or_reserved": 748073,
+        "unsettled_calls": 30,
+        "used_or_reserved_usd": 11.382733531
+      }
+    },
+    "reference_cost_remaining_usd": 13.306503681,
+    "reference_cost_used_or_reserved_usd": 21.693496319
+  },
+  "checked_utc": "2026-09-28T12:18:11.805267+00:00",
+  "computational_checks_complete": false,
+  "local_archive_exists": false,
+  "mandatory_later_steps": [
+    "Actual source follow-up and independent semantic reviews",
+    "Review-gated sensitivity and any independence/adjudication follow-up",
+    "Final validated release package and investigator rights/ethics/authorship/AI-use disclosures",
+    "Actual archival deposit/DOI and journal submission checks",
+    "Manuscript writing"
+  ],
+  "models": {
+    "astra_session": {
+      "accounted": 162,
+      "accounting_complete": false,
+      "expected": 1080,
+      "fail": 0,
+      "missing": 918,
+      "running": false,
+      "valid_outputs": 162
+    },
+    "azure_replication": {
+      "accounted": 1080,
+      "accounting_complete": true,
+      "expected": 1080,
+      "fail": 97,
+      "missing": 0,
+      "running": false,
+      "valid_outputs": 983
+    },
+    "codex51": {
+      "accounted": 1080,
+      "accounting_complete": true,
+      "expected": 1080,
+      "fail": 78,
+      "missing": 0,
+      "running": false,
+      "valid_outputs": 1002
+    },
+    "gem31lite": {
+      "accounted": 1080,
+      "accounting_complete": true,
+      "expected": 1080,
+      "fail": 1,
+      "missing": 0,
+      "running": false,
+      "valid_outputs": 1079
+    },
+    "luna56": {
+      "accounted": 1080,
+      "accounting_complete": true,
+      "expected": 1080,
+      "fail": 94,
+      "missing": 0,
+      "running": false,
+      "valid_outputs": 986
+    },
+    "terra56": {
+      "accounted": 1080,
+      "accounting_complete": true,
+      "expected": 1080,
+      "fail": 92,
+      "missing": 0,
+      "running": false,
+      "valid_outputs": 988
+    }
+  },
+  "reviews_only_remaining": false,
+  "semantic_packets_issued": false,
+  "semantic_review": {
+    "complete": false,
+    "stage": "awaiting_independent_returns"
+  },
+  "source_review": {
+    "passed": false,
+    "previously_reviewed_unchanged": 356,
+    "replacement_reviews_pending": 4
+  },
+  "submission_ready": false,
+  "tests": {
+    "current": true,
+    "passed": true,
+    "test_count": 121
+  }
+}

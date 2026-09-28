@@ -1,0 +1,23 @@
+{
+  "artifact_directory": "C:\\Users\\Empty\\Documents\\Paper\\revision\\extensions\\codex51_audit\\20260925T155426Z",
+  "audit_text_received": false,
+  "checked_utc": "2026-09-25T15:54:49.641964+00:00",
+  "returned_model": "gpt-5.1-codex",
+  "status": {
+    "http_status": 200,
+    "ok": true
+  },
+  "total_output_reserved_upper": 6628,
+  "usage": {
+    "input_tokens": 5312,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cached_tokens": 0
+    },
+    "output_tokens": 2496,
+    "output_tokens_details": {
+      "reasoning_tokens": 2496
+    },
+    "total_tokens": 7808
+  }
+}

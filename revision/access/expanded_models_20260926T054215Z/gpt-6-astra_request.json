@@ -1,0 +1,9 @@
+{
+  "input": "Reply with only OK.",
+  "max_output_tokens": 512,
+  "model": "gpt-6-astra",
+  "reasoning": {
+    "effort": "low"
+  },
+  "store": false
+}

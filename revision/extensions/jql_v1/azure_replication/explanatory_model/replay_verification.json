@@ -1,0 +1,10 @@
+{
+  "fits_recomputed": 162,
+  "held_out_work_prediction_rows": 972,
+  "manifest_sha256": "2a2099ac9a482cb372b822b2d8c975c74788657301b6da4b81388f5133bceb0f",
+  "not_human_scientific_validation": true,
+  "passed": true,
+  "same_input_output_hashes": true,
+  "unchanged_result_files": 6,
+  "verified_utc": "2026-09-26T05:13:42.977341+00:00"
+}

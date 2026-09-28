@@ -1,0 +1,7 @@
+model_key,condition,assigned,accounted,native_responses,terminal_http_failures,missing,valid,pass,warning,failed,mean_length_ratio,median_length_ratio,minimum_length_ratio,maximum_length_ratio,returned_models,response_accounting_complete
+gem31lite,paraphrase,360,360,360,0,0,360,11,349,0,0.6274922141111111,0.618318015,0.35357918,0.95333333,gemini-3.1-flash-lite,True
+gem31lite,modernize,360,360,360,0,0,360,12,348,0,0.6263698957777778,0.62392435,0.38636364,0.90870488,gemini-3.1-flash-lite,True
+gem31lite,simplify,360,360,360,0,0,359,5,354,1,0.6063036746239554,0.60488798,0.36681223,0.89777778,gemini-3.1-flash-lite,True
+azure_replication,paraphrase,360,360,352,8,0,328,328,0,32,1.00373198875,1.004439515,0.89782609,1.10480349,;gpt-5.4-nano,True
+azure_replication,modernize,360,360,352,8,0,332,332,0,28,0.9850695007228916,0.985751385,0.90517241,1.0974026,;gpt-5.4-nano,True
+azure_replication,simplify,360,360,350,10,0,326,324,2,34,0.9785935969938651,0.977875995,0.83406114,1.10615711,;gpt-5.4-nano,True

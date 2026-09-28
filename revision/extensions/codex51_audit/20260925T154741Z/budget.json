@@ -1,0 +1,9 @@
+{
+  "attempts": 1,
+  "audit_reserved_upper": 4000,
+  "connectivity_reserved_upper": 128,
+  "includes_reasoning": true,
+  "purpose": "automated_methods_code_audit_not_experimental_rewrites",
+  "total_reserved_upper": 4128,
+  "user_output_ceiling_exclusive": 3000000
+}

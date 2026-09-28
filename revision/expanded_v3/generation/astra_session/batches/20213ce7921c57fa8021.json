@@ -1,0 +1,68 @@
+{
+  "batch_id": "20213ce7921c57fa8021",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:29:33.075435+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4cb02fd38aef24317d130260",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 4cb02fd38aef24317d130260\noriginal_word_count: 472\n\nPassage:\nCount Rouvaloff looked at him for some moments in amazement, and then seeing that he was quite serious, wrote an address on a piece of paper, initialled it, and handed it to him across the table.\n\n‘Scotland Yard would give a good deal to know this address, my dear fellow.’\n\n‘They shan’t have it,’ cried Lord Arthur, laughing; and after shaking the young Russian warmly by the hand he ran downstairs, examined the paper, and told the coachman to drive to Soho Square.\n\nThere he dismissed him, and strolled down Greek Street, till he came to a place called Bayle’s Court. He passed under the archway, and found himself in a curious _cul-de-sac_, that was apparently occupied by a French Laundry, as a perfect network of clothes-lines was stretched across from house to house, and there was a flutter of white linen in the morning air. He walked right to the end, and knocked at a little green house. After some delay, during which every window in the court became a blurred mass of peering faces, the door was opened by a rather rough-looking foreigner, who asked him in very bad English what his business was. Lord Arthur handed him the paper Count Rouvaloff had given him. When the man saw it he bowed, and invited Lord Arthur into a very shabby front parlour on the ground floor, and in a few moments Herr Winckelkopf, as he was called in England, bustled into the room, with a very wine-stained napkin round his neck, and a fork in his left hand.\n\n‘Count Rouvaloff has given me an introduction to you,’ said Lord Arthur, bowing, ‘and I am anxious to have a short interview with you on a matter of business. My name is Smith, Mr. Robert Smith, and I want you to supply me with an explosive clock.’\n\n‘Charmed to meet you, Lord Arthur,’ said the genial little German, laughing. ‘Don’t look so alarmed, it is my duty to know everybody, and I remember seeing you one evening at Lady Windermere’s. I hope her ladyship is quite well. Do you mind sitting with me while I finish my breakfast? There is an excellent _pâté_, and my friends are kind enough to say that my Rhine wine is better than any they get at the German Embassy,’ and before Lord Arthur had got over his surprise at being recognised, he found himself seated in the back-room, sipping the most delicious Marcobrünner out of a pale yellow hock-glass marked with the Imperial monogram, and chatting in the friendliest manner possible to the famous conspirator.\n\n‘Explosive clocks,’ said Herr Winckelkopf, ‘are not very good things for foreign exportation, as, even if they succeed in passing the Custom House, the train service is so irregular, that they usually go off before they have reached their proper destination."
+      },
+      "request_id": "4cb02fd38aef24317d130260",
+      "request_sha256": "25b837de4c6b68cad6ce03dbfbe74fb5cc2b4baea133d11999e34e8437d9cb24",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "110b0512b5195d5a919e6d67724e50a0cb627d51701ae8063a1a83ff94bca848"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "aa78ba0daf8b138a75a7ebe3",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_emma_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: aa78ba0daf8b138a75a7ebe3\noriginal_word_count: 465\n\nPassage:\nEmma did not repent her condescension in going to the Coles. The visit afforded her many pleasant recollections the next day; and all that she might be supposed to have lost on the side of dignified seclusion, must be amply repaid in the splendour of popularity. She must have delighted the Coles—worthy people, who deserved to be made happy!—And left a name behind her that would not soon die away.\n\nPerfect happiness, even in memory, is not common; and there were two points on which she was not quite easy. She doubted whether she had not transgressed the duty of woman by woman, in betraying her suspicions of Jane Fairfax’s feelings to Frank Churchill. It was hardly right; but it had been so strong an idea, that it would escape her, and his submission to all that she told, was a compliment to her penetration, which made it difficult for her to be quite certain that she ought to have held her tongue.\n\nThe other circumstance of regret related also to Jane Fairfax; and there she had no doubt. She did unfeignedly and unequivocally regret the inferiority of her own playing and singing. She did most heartily grieve over the idleness of her childhood—and sat down and practised vigorously an hour and a half.\n\nShe was then interrupted by Harriet’s coming in; and if Harriet’s praise could have satisfied her, she might soon have been comforted.\n\n“Oh! if I could but play as well as you and Miss Fairfax!”\n\n“Don’t class us together, Harriet. My playing is no more like her’s, than a lamp is like sunshine.”\n\n“Oh! dear—I think you play the best of the two. I think you play quite as well as she does. I am sure I had much rather hear you. Every body last night said how well you played.”\n\n“Those who knew any thing about it, must have felt the difference. The truth is, Harriet, that my playing is just good enough to be praised, but Jane Fairfax’s is much beyond it.”\n\n“Well, I always shall think that you play quite as well as she does, or that if there is any difference nobody would ever find it out. Mr. Cole said how much taste you had; and Mr. Frank Churchill talked a great deal about your taste, and that he valued taste much more than execution.”\n\n“Ah! but Jane Fairfax has them both, Harriet.”\n\n“Are you sure? I saw she had execution, but I did not know she had any taste. Nobody talked about it. And I hate Italian singing.—There is no understanding a word of it. Besides, if she does play so very well, you know, it is no more than she is obliged to do, because she will have to teach."
+      },
+      "request_id": "aa78ba0daf8b138a75a7ebe3",
+      "request_sha256": "15630af1a09597e9f713580454fc29356449539083e830487057e8d45092652d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cc2038ca78e34bff730c9efe80f711727ab8dc28aaac0b2b91dfd7357e1559e5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "56d2876b2921e8dda6846dd3",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_twain_tom_sawyer_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 56d2876b2921e8dda6846dd3\noriginal_word_count: 454\n\nPassage:\nA trifle after noon the boys borrowed a small skiff from a citizen who was absent, and got under way at once. When they were several miles below “Cave Hollow,” Tom said:\n\n“Now you see this bluff here looks all alike all the way down from the cave hollow—no houses, no wood-yards, bushes all alike. But do you see that white place up yonder where there’s been a landslide? Well, that’s one of my marks. We’ll get ashore, now.”\n\nThey landed.\n\n“Now, Huck, where we’re a-standing you could touch that hole I got out of with a fishing-pole. See if you can find it.”\n\nHuck searched all the place about, and found nothing. Tom proudly marched into a thick clump of sumach bushes and said:\n\n“Here you are! Look at it, Huck; it’s the snuggest hole in this country. You just keep mum about it. All along I’ve been wanting to be a robber, but I knew I’d got to have a thing like this, and where to run across it was the bother. We’ve got it now, and we’ll keep it quiet, only we’ll let Joe Harper and Ben Rogers in—because of course there’s got to be a Gang, or else there wouldn’t be any style about it. Tom Sawyer’s Gang—it sounds splendid, don’t it, Huck?”\n\n“Well, it just does, Tom. And who’ll we rob?”\n\n“Oh, most anybody. Waylay people—that’s mostly the way.”\n\n“And kill them?”\n\n“No, not always. Hive them in the cave till they raise a ransom.”\n\n“What’s a ransom?”\n\n“Money. You make them raise all they can, off’n their friends; and after you’ve kept them a year, if it ain’t raised then you kill them. That’s the general way. Only you don’t kill the women. You shut up the women, but you don’t kill them. They’re always beautiful and rich, and awfully scared. You take their watches and things, but you always take your hat off and talk polite. They ain’t anybody as polite as robbers—you’ll see that in any book. Well, the women get to loving you, and after they’ve been in the cave a week or two weeks they stop crying and after that you couldn’t get them to leave. If you drove them out they’d turn right around and come back. It’s so in all the books.”\n\n“Why, it’s real bully, Tom. I believe it’s better’n to be a pirate.”\n\n“Yes, it’s better in some ways, because it’s close to home and circuses and all that.”\n\nBy this time everything was ready and the boys entered the hole, Tom in the lead. They toiled their way to the farther end of the tunnel, then made their spliced kite-strings fast and moved on."
+      },
+      "request_id": "56d2876b2921e8dda6846dd3",
+      "request_sha256": "c084b6b71bd5434db2ddb5d41380914fbb614326312297713f97de6e62739f84",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a13d57a078f1666fdadd2e50276172914f25ee67613d4cff2383572f23cc2c1d"
+    }
+  ],
+  "session_id": "01a0e30c-4c57-7d42-8a5b-552475b979db",
+  "worker_id": "astra_d",
+  "worker_identity_sha256": "eb64fa28df048da360ccadb632274663ddef6a5ea680edeef0e51177dd1c0af7"
+}

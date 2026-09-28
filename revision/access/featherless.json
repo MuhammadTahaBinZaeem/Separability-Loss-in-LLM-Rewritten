@@ -1,0 +1,18 @@
+{
+  "catalogue_status": {
+    "http_status": 200,
+    "ok": true
+  },
+  "checked_utc": "2026-09-20T08:57:23.379278+00:00",
+  "http_status": 200,
+  "models": [],
+  "ok": true,
+  "plan": {
+    "concurrency": 2,
+    "max_context_length": null,
+    "max_model_size": 15,
+    "name": "Feather Lite"
+  },
+  "provider": "featherless",
+  "read_only": true
+}

@@ -1,0 +1,17 @@
+{
+  "analysis_fingerprint": "f2c03fbc31d573aa34715bfb5c7422530db49a316c87e828f89e729af435656b",
+  "artifact_sha256": {
+    "INTERIM_COMPLETED_MODEL_RESULTS.md": "2695db794a62034ce436642b69203ac267b1943f01bb20838c2e841b3b6217c0",
+    "document_build.json": "fe7d16c65e579be24e28aa317a389193859f814628987fc13c8699e1ef821ef4",
+    "document_visual_qa.json": "260d29c7e684a97cffb40364e7c86d5cc45b1ec64254066647caff692ea8b9e5",
+    "manuscript_REVIEW_DRAFT.docx": "2a5f0674984e3cc01315b6f0ed3687463ec997e6e78072c8bb584ae95770d1b7",
+    "manuscript_REVIEW_DRAFT.md": "f191789e1a1523b64b1e7c06070a1c042f654bcb787ebd6afa13b5d73a8a119d",
+    "manuscript_REVIEW_DRAFT.pdf": "1fa615b81f7cfc4dd0606584571e8e44e3ffae18d119643b9a4c3c986e3411b1"
+  },
+  "computational_results_included": false,
+  "full_two_model_results_included": false,
+  "independent_human_reviews_verified": false,
+  "interim_companion_included": true,
+  "submission_ready": false,
+  "template_sha256": "9b66350be2bb36e578f9c6352351ceb165fde5479b7cedb142aa3aca4e26fc00"
+}

@@ -3,8 +3,12 @@
 Status: no human reviews have been supplied. Do not fill these ratings using an
 LLM and do not duplicate one person's ratings under two IDs.
 
-After complete generation, `python -m research_v2.annotations prepare` creates
-two separately randomized CSV forms. Give each person only their own form and
+The first issued batch contains 270 pairs per reviewer. Each reviewer assesses
+all 270 pairs independently. Any later batch is issued separately; current
+forms and returned judgments must not be expanded or overwritten.
+
+`python -m research_v2.annotations prepare` creates two separately randomized
+CSV forms for the fixed batch. Give each person only their own form and
 these instructions. Keep the private join key, model identities, author identities,
 condition names, analysis results, and the other person's ratings away from them.
 Reviewers can infer some sources from text; blinding is not a guarantee of anonymity.
@@ -38,3 +42,12 @@ kappa are computed from the two original reviews. Disagreements are retained in
 a separate table for adjudication. For sensitivity, either reviewer's factual or
 major meaning flag excludes the pair under the rule fixed before rating; unaudited
 items remain unknown and are not counted as semantically certified.
+
+If both returned reviews have identical choices on every field, automated
+readiness pauses for a separate human provenance check. This is not a finding
+of misconduct: genuine agreement is possible. A human administrator must check
+independence with the reviewers, preserve the evidence privately, and supply
+`independence_check.json` containing `checked_by_human: true`, their `checker_id`,
+actual timezone-aware `checked_utc`, the SHA-256 of `reviewer_registry.json`,
+`outcome: independence_confirmed`, and substantive `method` and `notes`. Do not
+ask an AI to attest that it performed a human check or to make up that record.

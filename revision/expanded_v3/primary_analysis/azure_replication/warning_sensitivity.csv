@@ -1,0 +1,10 @@
+model_key,classifier,condition,selection,paired_rows,excluded_warning_rows,all_authors_present,original_macro_f1,rewrite_macro_f1,macro_f1_loss
+azure_replication,nearest_centroid,paraphrase,warning_free_paired,327,0,True,0.6341378559410346,0.5282680098273028,0.10586984611373174
+azure_replication,nearest_centroid,modernize,warning_free_paired,331,0,True,0.6370367401499533,0.5440366763711655,0.09300006377878778
+azure_replication,nearest_centroid,simplify,warning_free_paired,323,2,True,0.6351313903829213,0.4118906881146438,0.22324070226827752
+azure_replication,gaussian_nb,paraphrase,warning_free_paired,327,0,True,0.5650656713643946,0.4833131455712088,0.08175252579318576
+azure_replication,gaussian_nb,modernize,warning_free_paired,331,0,True,0.5765477226810988,0.45730595007842734,0.11924177260267144
+azure_replication,gaussian_nb,simplify,warning_free_paired,323,2,True,0.5696114715982654,0.4574811278321209,0.1121303437661445
+azure_replication,lda_ledoit_wolf_shrinkage,paraphrase,warning_free_paired,327,0,True,0.7276585574880209,0.6087370714135186,0.11892148607450226
+azure_replication,lda_ledoit_wolf_shrinkage,modernize,warning_free_paired,331,0,True,0.7270517058496052,0.6112683054254225,0.11578340042418267
+azure_replication,lda_ledoit_wolf_shrinkage,simplify,warning_free_paired,323,2,True,0.7266834002892053,0.46632625543105943,0.2603571448581459

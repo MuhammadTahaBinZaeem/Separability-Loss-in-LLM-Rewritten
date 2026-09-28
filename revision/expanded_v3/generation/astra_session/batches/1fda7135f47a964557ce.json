@@ -1,0 +1,68 @@
+{
+  "batch_id": "1fda7135f47a964557ce",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T08:02:29.166360+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "cb8ed62245971ee8a3316b92",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 486,
+      "passage_id": "V2_twain_connecticut_yankee_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: cb8ed62245971ee8a3316b92\noriginal_word_count: 486\n\nPassage:\nWe so loudly and so earnestly proclaimed ourselves freemen, that we got the interested attention of that liberty-mouthing orator and his patriotic crowd, and they gathered about us and assumed a very determined attitude. The orator said:\n\n“If, indeed, ye are freemen, ye have nought to fear--the God-given liberties of Britain are about ye for your shield and shelter! (Applause.) Ye shall soon see. Bring forth your proofs.”\n\n“What proofs?”\n\n“Proof that ye are freemen.”\n\nAh--I remembered! I came to myself; I said nothing. But the king stormed out:\n\n“Thou'rt insane, man. It were better, and more in reason, that this thief and scoundrel here prove that we are _not_ freemen.”\n\nYou see, he knew his own laws just as other people so often know the laws; by words, not by effects. They take a _meaning_, and get to be very vivid, when you come to apply them to yourself.\n\nAll hands shook their heads and looked disappointed; some turned away, no longer interested. The orator said--and this time in the tones of business, not of sentiment:\n\n“An ye do not know your country's laws, it were time ye learned them. Ye are strangers to us; ye will not deny that. Ye may be freemen, we do not deny that; but also ye may be slaves. The law is clear: it doth not require the claimant to prove ye are slaves, it requireth you to prove ye are not.”\n\nI said:\n\n“Dear sir, give us only time to send to Astolat; or give us only time to send to the Valley of Holiness--”\n\n“Peace, good man, these are extraordinary requests, and you may not hope to have them granted. It would cost much time, and would unwarrantably inconvenience your master--”\n\n“_Master_, idiot!” stormed the king. “I have no master, I myself am the m--”\n\n“Silence, for God's sake!”\n\nI got the words out in time to stop the king. We were in trouble enough already; it could not help us any to give these people the notion that we were lunatics.\n\nThere is no use in stringing out the details. The earl put us up and sold us at auction. This same infernal law had existed in our own South in my own time, more than thirteen hundred years later, and under it hundreds of freemen who could not prove that they were freemen had been sold into lifelong slavery without the circumstance making any particular impression upon me; but the minute law and the auction block came into my personal experience, a thing which had been merely improper before became suddenly hellish. Well, that's the way we are made.\n\nYes, we were sold at auction, like swine. In a big town and an active market we should have brought a good price; but this place was utterly stagnant and so we sold at a figure which makes me ashamed, every time I think of it."
+      },
+      "request_id": "cb8ed62245971ee8a3316b92",
+      "request_sha256": "fabd8248fd6e6e3cb7184d22e87618a694e995038f1465d79ce482d592d73745",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a75ea9930e69e0035079f9d067523f431c7103b5739797fed82c8e76d5d64c17"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2a74762167294d9695f6460e",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_austen_pride_and_prejudice_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2a74762167294d9695f6460e\noriginal_word_count: 460\n\nPassage:\nI consider it as one of the first refinements of polished societies.”\n\n“Certainly, sir; and it has the advantage also of being in vogue amongst the less polished societies of the world: every savage can dance.”\n\nSir William only smiled. “Your friend performs delightfully,” he continued, after a pause, on seeing Bingley join the group; “and I doubt not that you are an adept in the science yourself, Mr. Darcy.”\n\n“You saw me dance at Meryton, I believe, sir.”\n\n“Yes, indeed, and received no inconsiderable pleasure from the sight. Do you often dance at St. James’s?”\n\n“Never, sir.”\n\n“Do you not think it would be a proper compliment to the place?”\n\n“It is a compliment which I never pay to any place if I can avoid it.”\n\n“You have a house in town, I conclude?”\n\nMr. Darcy bowed.\n\n“I had once some thoughts of fixing in town myself, for I am fond of superior society; but I did not feel quite certain that the air of London would agree with Lady Lucas.”\n\nHe paused in hopes of an answer: but his companion was not disposed to make any; and Elizabeth at that instant moving towards them, he was struck with the notion of doing a very gallant thing, and called out to her,--\n\n“My dear Miss Eliza, why are not you dancing? Mr. Darcy, you must allow me to present this young lady to you as a very desirable partner. You cannot refuse to dance, I am sure, when so much beauty is before you.” And, taking her hand, he would have given it to Mr. Darcy, who, though extremely surprised, was not unwilling to receive it, when she instantly drew back, and said with some discomposure to Sir William,--\n\n“Indeed, sir, I have not the least intention of dancing. I entreat you not to suppose that I moved this way in order to beg for a partner.”\n\nMr. Darcy, with grave propriety, requested to be allowed the honour of her hand, but in vain. Elizabeth was determined; nor did Sir William at all shake her purpose by his attempt at persuasion.\n\n“You excel so much in the dance, Miss Eliza, that it is cruel to deny me the happiness of seeing you; and though this gentleman dislikes the amusement in general, he can have no objection, I am sure, to oblige us for one half hour.”\n\n“Mr. Darcy is all politeness,” said Elizabeth, smiling.\n\n“He is, indeed: but considering the inducement, my dear Miss Eliza, we cannot wonder at his complaisance; for who would object to such a partner?”\n\nElizabeth looked archly, and turned away. Her resistance had not injured her with the gentleman, and he was thinking of her with some complacency, when thus accosted by Miss Bingley,--"
+      },
+      "request_id": "2a74762167294d9695f6460e",
+      "request_sha256": "17d48a57fccc08dfe437d64b19d86764f1b45ad8482745daecb0533cd189cc5a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8fc13c73685d8c6c7df5fa08af985adc752f784203e44fbef2304bc64f7ceb56"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f056ec4d89da8e12b4f07b78",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_wilde_canterville_ghost_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: f056ec4d89da8e12b4f07b78\noriginal_word_count: 462\n\nPassage:\nTHE storm raged fiercely all that night, but nothing of particular note occurred. The next morning, however, when they came down to breakfast, they found the terrible stain of blood once again on the floor. ‘I don’t think it can be the fault of the Paragon Detergent,’ said Washington, ‘for I have tried it with everything. It must be the ghost.’ He accordingly rubbed out the stain a second time, but the second morning it appeared again. The third morning also it was there, though the library had been locked up at night by Mr. Otis himself, and the key carried upstairs. The whole family were now quite interested; Mr. Otis began to suspect that he had been too dogmatic in his denial of the existence of ghosts, Mrs. Otis expressed her intention of joining the Psychical Society, and Washington prepared a long letter to Messrs. Myers and Podmore on the subject of the Permanence of Sanguineous Stains when connected with Crime. That night all doubts about the objective existence of phantasmata were removed for ever.\n\nThe day had been warm and sunny; and, in the cool of the evening, the whole family went out for a drive. They did not return home till nine o’clock, when they had a light supper. The conversation in no way turned upon ghosts, so there were not even those primary conditions of receptive expectation which so often precede the presentation of psychical phenomena. The subjects discussed, as I have since learned from Mr. Otis, were merely such as form the ordinary conversation of cultured Americans of the better class, such as the immense superiority of Miss Fanny Davenport over Sarah Bernhardt as an actress; the difficulty of obtaining green corn, buckwheat cakes, and hominy, even in the best English houses; the importance of Boston in the development of the world-soul; the advantages of the baggage check system in railway travelling; and the sweetness of the New York accent as compared to the London drawl. No mention at all was made of the supernatural, nor was Sir Simon de Canterville alluded to in any way. At eleven o’clock the family retired, and by half-past all the lights were out. Some time after, Mr. Otis was awakened by a curious noise in the corridor, outside his room. It sounded like the clank of metal, and seemed to be coming nearer every moment. He got up at once, struck a match, and looked at the time. It was exactly one o’clock. He was quite calm, and felt his pulse, which was not at all feverish. The strange noise still continued, and with it he heard distinctly the sound of footsteps. He put on his slippers, took a small oblong phial out of his dressing-case, and opened the door."
+      },
+      "request_id": "f056ec4d89da8e12b4f07b78",
+      "request_sha256": "927aecd2b6ca2c99d27fbebaaee0465b1937d726318cd812150b74fb066c5c0a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3bc78e4e92b160921194691c42d38ddac8db100b01cad66ada8be1fe70955ede"
+    }
+  ],
+  "session_id": "01a0e1dc-db77-7ca2-a44b-20de81379df6",
+  "worker_id": "astra_c",
+  "worker_identity_sha256": "85385f96362fb7155bec4ef09a1c5c0d6a7ab633c57687871b698abad7715535"
+}

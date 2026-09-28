@@ -1,0 +1,62 @@
+{
+  "checked_utc": "2026-09-20T09:00:17.499610+00:00",
+  "primary_experiment": false,
+  "provider": "gemini",
+  "purpose": "connection_and_format_only",
+  "request": {
+    "contents": [
+      {
+        "parts": [
+          {
+            "text": "Return JSON with exactly two strings: request_id=\"connectivity-only\" and rewritten_text=\"The door was open.\""
+          }
+        ],
+        "role": "user"
+      }
+    ],
+    "generationConfig": {
+      "maxOutputTokens": 128,
+      "responseMimeType": "application/json",
+      "temperature": 0.2,
+      "thinkingConfig": {
+        "thinkingLevel": "minimal"
+      }
+    }
+  },
+  "requested_model": "gemini-3.1-flash-lite",
+  "response": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"request_id\": \"connectivity-only\",\n  \"rewritten_text\": \"The door was open.\"\n}",
+              "thoughtSignature": "EnEKbwFpFH0TI96xWr+fZ7leBBsIUkSob3RQCoW2SnpbexuRAHN3nmClmp2BlctgKcEH6ieUOBpQaukBfTZT2lvZVYMz0KKa0U34GCgodEGEWS+JK4pGamiutjEZka494ZGKywJXGK49Kz/pcPuphrF3oQ=="
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0
+      }
+    ],
+    "modelVersion": "gemini-3.1-flash-lite",
+    "responseId": "oKCvaoOQM_ugnsEP2suiiA0",
+    "usageMetadata": {
+      "candidatesTokenCount": 29,
+      "promptTokenCount": 26,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 26
+        }
+      ],
+      "serviceTier": "standard",
+      "totalTokenCount": 55
+    }
+  },
+  "status": {
+    "http_status": 200,
+    "ok": true
+  }
+}

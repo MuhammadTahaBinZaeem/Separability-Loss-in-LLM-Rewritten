@@ -202,6 +202,11 @@ def legacy_audit(specs: list[dict], sources: dict[int, str]) -> list[dict]:
 
 
 def build(supersede_draft: bool = False) -> None:
+    existing_freeze=OUT / "corpus/freeze.json"
+    if existing_freeze.exists():
+        previous=read_json(existing_freeze)
+        if file_hash(OUT / "PROTOCOL.md")!=previous["protocol_sha256_at_freeze"] or file_hash(OUT / "work_specs.json")!=previous["work_specs_sha256"]:
+            raise ValueError("Frozen protocol/work specifications changed; record amendments separately, never overwrite the original freeze")
     specs = read_json(OUT / "work_specs.json")
     sources = {gid: source_text(gid) for gid in sorted({s["source_id"] for s in specs} | {2148})}
     selected, all_excluded, registry = [], [], []

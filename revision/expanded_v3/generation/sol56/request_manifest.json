@@ -1,0 +1,9 @@
+{
+  "assignments": 1080,
+  "assignments_sha256": "7bd09c51415309166ca660639e96661bae2b2a2fd499b3bc0e95577aff24c267",
+  "corpus_sha256": "5363aa9717afdbd74fd7c3ee3b819b78add8d31c8d7f017e6f7961cfa3e8ad95",
+  "new_requests": 1080,
+  "plan_sha256": "0de3eff73e707e13a5ccf84b0f29066359ccd9a0bcfb373a4eb10574918a0867",
+  "requests_sha256": "9c7388fe7fa0d05a30dcc87a3aa831fd5fe803f1a71bbac1f2cf9b4bb4070433",
+  "reused_v2_observations": 0
+}

@@ -1,0 +1,14 @@
+{
+  "accounted": 1080,
+  "accounting_complete": true,
+  "expected": 1080,
+  "fail": 1,
+  "missing": 0,
+  "model_key": "gem31lite",
+  "new_native_responses": 12,
+  "parsed_sha256": "44602493441462e3529b75aa79a2ddc1906e4db3970270f02fff693b6202d6c5",
+  "request_manifest_sha256": "0b55112a948b9bde10295ddbe8db0bf1d2252b0ec053605010626c7d943c670b",
+  "reused_v2_observations": 1068,
+  "review_complete": false,
+  "valid_outputs": 1079
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "57a51f6fc8848b5e6ecc",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:28:32.523970+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "16bd3cd2da4b01dda280dd7c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_poe_the_gold_bug_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 16bd3cd2da4b01dda280dd7c\noriginal_word_count: 451\n\nPassage:\nDriving a peg, with great nicety, into the ground, at the precise spot where the beetle fell, my friend now produced from his pocket a tape measure. Fastening one end of this at that point of the trunk, of the tree which was nearest the peg, he unrolled it till it reached the peg, and thence farther unrolled it, in the direction already established by the two points of the tree and the peg, for the distance of fifty feet—Jupiter clearing away the brambles with the scythe. At the spot thus attained a second peg was driven, and about this, as a centre, a rude circle, about four feet in diameter, described. Taking now a spade himself, and giving one to Jupiter and one to me, Legrand begged us to set about digging as quickly as possible.\n\nTo speak the truth, I had no especial relish for such amusement at any time, and, at that particular moment, would most willingly have declined it; for the night was coming on, and I felt much fatigued with the exercise already taken; but I saw no mode of escape, and was fearful of disturbing my poor friend’s equanimity by a refusal. Could I have depended, indeed, upon Jupiter’s aid, I would have had no hesitation in attempting to get the lunatic home by force; but I was too well assured of the old negro’s disposition, to hope that he would assist me, under any circumstances, in a personal contest with his master. I made no doubt that the latter had been infected with some of the innumerable Southern superstitions about money buried, and that his phantasy had received confirmation by the finding of the _scarabæus_, or, perhaps, by Jupiter’s obstinacy in maintaining it to be “a bug of real gold.” A mind disposed to lunacy would readily be led away by such suggestions—especially if chiming in with favorite preconceived ideas—and then I called to mind the poor fellow’s speech about the beetle’s being “the index of his fortune.” Upon the whole, I was sadly vexed and puzzled, but, at length, I concluded to make a virtue of necessity—to dig with a good will, and thus the sooner to convince the visionary, by ocular demonstration, of the fallacy of the opinions he entertained.\n\nThe lanterns having been lit, we all fell to work with a zeal worthy a more rational cause; and, as the glare fell upon our persons and implements, I could not help thinking how picturesque a group we composed, and how strange and suspicious our labors must have appeared to any interloper who, by chance, might have stumbled upon our whereabouts.\n\nWe dug very steadily for two hours."
+      },
+      "request_id": "16bd3cd2da4b01dda280dd7c",
+      "request_sha256": "dd2f674e821bff1de73fd1f09ea111b1656d5efb4ce8695f3cdfb1ac623eb9ea",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c8eeba675815a1c3a15d3053bafa50cbfe13e5166bb411235d588ef6c072093c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "70d2cf51fbf6bb351f812365",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_oliver_twist_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 70d2cf51fbf6bb351f812365\noriginal_word_count: 450\n\nPassage:\nWhile these things were passing in the country workhouse, Mr. Fagin sat in the old den—the same from which Oliver had been removed by the girl—brooding over a dull, smoky fire. He held a pair of bellows upon his knee, with which he had apparently been endeavouring to rouse it into more cheerful action; but he had fallen into deep thought; and with his arms folded on them, and his chin resting on his thumbs, fixed his eyes, abstractedly, on the rusty bars.\n\nAt a table behind him sat the Artful Dodger, Master Charles Bates, and Mr. Chitling: all intent upon a game of whist; the Artful taking dummy against Master Bates and Mr. Chitling. The countenance of the first-named gentleman, peculiarly intelligent at all times, acquired great additional interest from his close observance of the game, and his attentive perusal of Mr. Chitling’s hand; upon which, from time to time, as occasion served, he bestowed a variety of earnest glances: wisely regulating his own play by the result of his observations upon his neighbour’s cards. It being a cold night, the Dodger wore his hat, as, indeed, was often his custom within doors. He also sustained a clay pipe between his teeth, which he only removed for a brief space when he deemed it necessary to apply for refreshment to a quart pot upon the table, which stood ready filled with gin-and-water for the accommodation of the company.\n\nMaster Bates was also attentive to the play; but being of a more excitable nature than his accomplished friend, it was observable that he more frequently applied himself to the gin-and-water, and moreover indulged in many jests and irrelevant remarks, all highly unbecoming a scientific rubber. Indeed, the Artful, presuming upon their close attachment, more than once took occasion to reason gravely with his companion upon these improprieties; all of which remonstrances, Master Bates received in extremely good part; merely requesting his friend to be “blowed,” or to insert his head in a sack, or replying with some other neatly-turned witticism of a similar kind, the happy application of which, excited considerable admiration in the mind of Mr. Chitling. It was remarkable that the latter gentleman and his partner invariably lost; and that the circumstance, so far from angering Master Bates, appeared to afford him the highest amusement, inasmuch as he laughed most uproariously at the end of every deal, and protested that he had never seen such a jolly game in all his born days.\n\n“That’s two doubles and the rub,” said Mr. Chitling, with a very long face, as he drew half-a-crown from his waistcoat-pocket. “I never see such a feller as you, Jack; you win everything."
+      },
+      "request_id": "70d2cf51fbf6bb351f812365",
+      "request_sha256": "db40db535474478f5ef6341127a9d6e263f6b9692dffdb9c3272f938a6dfc150",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a5601bef52fd7a673957194a65e08cbf509298658ca9de132658546b1e22f344"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7be8d068b98aa697b16cf6cf",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_dickens_great_expectations_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 7be8d068b98aa697b16cf6cf\noriginal_word_count: 459\n\nPassage:\nNo bringing up by hand then. Not a bit of it!”\n\nJoe offered me more gravy, which I was afraid to take.\n\n“He was a world of trouble to you, ma’am,” said Mrs. Hubble, commiserating my sister.\n\n“Trouble?” echoed my sister; “trouble?” and then entered on a fearful catalogue of all the illnesses I had been guilty of, and all the acts of sleeplessness I had committed, and all the high places I had tumbled from, and all the low places I had tumbled into, and all the injuries I had done myself, and all the times she had wished me in my grave, and I had contumaciously refused to go there.\n\nI think the Romans must have aggravated one another very much, with their noses. Perhaps, they became the restless people they were, in consequence. Anyhow, Mr. Wopsle’s Roman nose so aggravated me, during the recital of my misdemeanours, that I should have liked to pull it until he howled. But, all I had endured up to this time was nothing in comparison with the awful feelings that took possession of me when the pause was broken which ensued upon my sister’s recital, and in which pause everybody had looked at me (as I felt painfully conscious) with indignation and abhorrence.\n\n“Yet,” said Mr. Pumblechook, leading the company gently back to the theme from which they had strayed, “Pork—regarded as biled—is rich, too; ain’t it?”\n\n“Have a little brandy, uncle,” said my sister.\n\nO Heavens, it had come at last! He would find it was weak, he would say it was weak, and I was lost! I held tight to the leg of the table under the cloth, with both hands, and awaited my fate.\n\nMy sister went for the stone bottle, came back with the stone bottle, and poured his brandy out: no one else taking any. The wretched man trifled with his glass,—took it up, looked at it through the light, put it down,—prolonged my misery. All this time Mrs. Joe and Joe were briskly clearing the table for the pie and pudding.\n\nI couldn’t keep my eyes off him. Always holding tight by the leg of the table with my hands and feet, I saw the miserable creature finger his glass playfully, take it up, smile, throw his head back, and drink the brandy off. Instantly afterwards, the company were seized with unspeakable consternation, owing to his springing to his feet, turning round several times in an appalling spasmodic whooping-cough dance, and rushing out at the door; he then became visible through the window, violently plunging and expectorating, making the most hideous faces, and apparently out of his mind.\n\nI held on tight, while Mrs. Joe and Joe ran to him."
+      },
+      "request_id": "7be8d068b98aa697b16cf6cf",
+      "request_sha256": "15cc93b9051d4e734a98c04ca4a055076fe070080ba3fd4edad875fe90cebf59",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "85884beab6bb6f0df51611cdde62cb79197a514bfaf5b9d50e3cc4e820619c44"
+    }
+  ],
+  "session_id": "01a0e30c-4c57-7d42-8a5b-552475b979db",
+  "worker_id": "astra_d",
+  "worker_identity_sha256": "eb64fa28df048da360ccadb632274663ddef6a5ea680edeef0e51177dd1c0af7"
+}

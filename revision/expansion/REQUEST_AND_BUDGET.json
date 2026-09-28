@@ -1,0 +1,51 @@
+{
+  "status": "scope_clarified_api_models_plus_separate_codex_session_arm",
+  "requested_date": "2026-09-26",
+  "user_total_new_model_call_cap_usd": 35,
+  "codex_output_ceiling_exclusive": 3000000,
+  "codex_limit_scope_assumption": "The earlier GPT-5.1 Codex-specific limit remains specific to that model; all new calls share the new dollar cap.",
+  "codex_previous_reserved_output_tokens": 11628,
+  "codex_new_access_check_max_output_tokens": 512,
+  "all_new_diagnostic_reserved_upper_usd": 0.0470436,
+  "budget_remaining_after_conservative_diagnostic_reservations_usd": 34.9529564,
+  "pricing_basis": "OpenAI published Standard rates used only as a planning reference; account-specific Azure tariff is not verified. These are not observed dollar charges.",
+  "pricing_reference": "https://developers.openai.com/api/docs/pricing",
+  "new_models_requested": ["gpt-5.1-codex", "gpt-5.6-terra", "gpt-5.6-luna", "gpt-6-astra"],
+  "paid_new_model_runs": ["gpt-5.1-codex", "gpt-5.6-terra", "gpt-5.6-luna"],
+  "astra_delivery": "Codex session generation, not Azure/API generation; explicitly clarified by the user.",
+  "astra_api_calls_authorized_from_this_clarification": false,
+  "astra_session_display_label": "GPT-6 Astra via Codex, Extra High",
+  "astra_selection_evidence": "User-supplied screenshot visibly shows GPT-6 Astra and Extra High in this Codex interface. See session_arm_provenance.json for the exact verification scope.",
+  "planned_assignments_per_model": 1080,
+  "access_checks": {
+    "gpt-5.1-codex": "Successful tiny non-study response with expected model identifier.",
+    "gpt-5.6-terra": "Successful tiny non-study response with expected model identifier.",
+    "gpt-5.6-luna": "Successful tiny non-study response with expected model identifier.",
+    "gpt-6-astra": "DeploymentNotFound for gpt-6-astra and gpt-6-astra-2026-09-03; catalogue listing is not deployment access."
+  },
+  "rough_1080_call_costs_using_observed_nano_mean_token_counts_usd": {
+    "gpt-5.1-codex": 7.9,
+    "gpt-5.6-terra": 9.9,
+    "gpt-5.6-luna": 0.99,
+    "gpt-6-astra": 42.68
+  },
+  "cost_limitations": "These estimates exclude added reasoning, retries and source-correction generations; new models need separately recorded pilots and enforced reservations. No bulk run is authorized above the cap.",
+  "study_rewrites_generated_by_this_expansion": 0,
+  "bulk_generation_started": false,
+  "frozen_v2_data_modified": false,
+  "review_packets_modified": false,
+  "source_review_state": {
+    "reviewed": 360,
+    "flagged": 4,
+    "flagged_passages": [
+      "V2_austen_pride_and_prejudice_020",
+      "V2_twain_connecticut_yankee_002",
+      "V2_twain_connecticut_yankee_008",
+      "V2_twain_tom_sawyer_013"
+    ],
+    "required_handling": "Preserve the original review and frozen corpus. A separately versioned correction needs exact source spans and a dated check of replacement passages; never mark the original flags passed on the reviewer's behalf."
+  },
+  "required_retry_handling": "Record the retry protocol before new study outputs. Preserve all old outcomes; keep first-attempt and retry-assisted results separate. Archive native failed or partial output verbatim with hashes. Mark unavailable historical HTTP bodies and no-generated-text refusals honestly; do not invent failed text or relabel successful retries as first attempts.",
+  "astra_provenance_requirement": "Model selection is supported by the user-supplied Codex screenshot. Label future linked session outputs GPT-6 Astra via Codex, Extra High, with verification_scope=interface_model_selection. Do not claim provider-response verification, identical API sampling, verified text quality, or retrospective verification of earlier outputs. Preserve per-output source/prompt/output lineage and disclose the persistent session context.",
+  "submission_ready": false
+}

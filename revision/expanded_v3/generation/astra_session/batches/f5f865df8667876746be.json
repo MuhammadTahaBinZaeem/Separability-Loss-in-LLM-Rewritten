@@ -1,0 +1,68 @@
+{
+  "batch_id": "f5f865df8667876746be",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T08:04:27.369015+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c36b0d9a97e728143aef0076",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_persuasion_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: c36b0d9a97e728143aef0076\noriginal_word_count: 461\n\nPassage:\n“You have not been long enough in Bath,” said he, “to enjoy the evening parties of the place.”\n\n“Oh! no. The usual character of them has nothing for me. I am no card-player.”\n\n“You were not formerly, I know. You did not use to like cards; but time makes many changes.”\n\n“I am not yet so much changed,” cried Anne, and stopped, fearing she hardly knew what misconstruction. After waiting a few moments he said, and as if it were the result of immediate feeling, “It is a period, indeed! Eight years and a half is a period.”\n\nWhether he would have proceeded farther was left to Anne’s imagination to ponder over in a calmer hour; for while still hearing the sounds he had uttered, she was startled to other subjects by Henrietta, eager to make use of the present leisure for getting out, and calling on her companions to lose no time, lest somebody else should come in.\n\nThey were obliged to move. Anne talked of being perfectly ready, and tried to look it; but she felt that could Henrietta have known the regret and reluctance of her heart in quitting that chair, in preparing to quit the room, she would have found, in all her own sensations for her cousin, in the very security of his affection, wherewith to pity her.\n\nTheir preparations, however, were stopped short. Alarming sounds were heard; other visitors approached, and the door was thrown open for Sir Walter and Miss Elliot, whose entrance seemed to give a general chill. Anne felt an instant oppression, and wherever she looked saw symptoms of the same. The comfort, the freedom, the gaiety of the room was over, hushed into cold composure, determined silence, or insipid talk, to meet the heartless elegance of her father and sister. How mortifying to feel that it was so!\n\nHer jealous eye was satisfied in one particular. Captain Wentworth was acknowledged again by each, by Elizabeth more graciously than before. She even addressed him once, and looked at him more than once. Elizabeth was, in fact, revolving a great measure. The sequel explained it. After the waste of a few minutes in saying the proper nothings, she began to give the invitation which was to comprise all the remaining dues of the Musgroves. “To-morrow evening, to meet a few friends: no formal party.” It was all said very gracefully, and the cards with which she had provided herself, the “Miss Elliot at home,” were laid on the table, with a courteous, comprehensive smile to all, and one smile and one card more decidedly for Captain Wentworth. The truth was, that Elizabeth had been long enough in Bath to understand the importance of a man of such an air and appearance as his."
+      },
+      "request_id": "c36b0d9a97e728143aef0076",
+      "request_sha256": "cf8597ccd5ed20647026fb27928d96320f553459555fbb6ca724ee5189662165",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2d9debeab93317e22608ea4b6f5f9c378f4e4bd2ee098361801ed047e54cb71b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1f10e32fbdc7fa5317151edc",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_wilde_dorian_gray_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 1f10e32fbdc7fa5317151edc\noriginal_word_count: 453\n\nPassage:\n“They must interest you, Dorian. Every gentleman is interested in his good name. You don’t want people to talk of you as something vile and degraded. Of course, you have your position, and your wealth, and all that kind of thing. But position and wealth are not everything. Mind you, I don’t believe these rumours at all. At least, I can’t believe them when I see you. Sin is a thing that writes itself across a man’s face. It cannot be concealed. People talk sometimes of secret vices. There are no such things. If a wretched man has a vice, it shows itself in the lines of his mouth, the droop of his eyelids, the moulding of his hands even. Somebody—I won’t mention his name, but you know him—came to me last year to have his portrait done. I had never seen him before, and had never heard anything about him at the time, though I have heard a good deal since. He offered an extravagant price. I refused him. There was something in the shape of his fingers that I hated. I know now that I was quite right in what I fancied about him. His life is dreadful. But you, Dorian, with your pure, bright, innocent face, and your marvellous untroubled youth—I can’t believe anything against you. And yet I see you very seldom, and you never come down to the studio now, and when I am away from you, and I hear all these hideous things that people are whispering about you, I don’t know what to say. Why is it, Dorian, that a man like the Duke of Berwick leaves the room of a club when you enter it? Why is it that so many gentlemen in London will neither go to your house or invite you to theirs? You used to be a friend of Lord Staveley. I met him at dinner last week. Your name happened to come up in conversation, in connection with the miniatures you have lent to the exhibition at the Dudley. Staveley curled his lip and said that you might have the most artistic tastes, but that you were a man whom no pure-minded girl should be allowed to know, and whom no chaste woman should sit in the same room with. I reminded him that I was a friend of yours, and asked him what he meant. He told me. He told me right out before everybody. It was horrible! Why is your friendship so fatal to young men? There was that wretched boy in the Guards who committed suicide. You were his great friend. There was Sir Henry Ashton, who had to leave England with a tarnished name."
+      },
+      "request_id": "1f10e32fbdc7fa5317151edc",
+      "request_sha256": "043e66328a804b507dafa7d46e46bb3924c344d188a1334ff2a17074f3907af0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ebfe5d2c013c956bc041c1b70936a88e1a500f1e67d372520efdf7574ca8b6fe"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9bc5d2b3b38e23090745ea3a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_shelley_frankenstein_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 9bc5d2b3b38e23090745ea3a\noriginal_word_count: 463\n\nPassage:\nI uncovered it, and a gentle breeze quickly fanned it into a flame. I observed this also and contrived a fan of branches, which roused the embers when they were nearly extinguished. When night came again I found, with pleasure, that the fire gave light as well as heat and that the discovery of this element was useful to me in my food, for I found some of the offals that the travellers had left had been roasted, and tasted much more savoury than the berries I gathered from the trees. I tried, therefore, to dress my food in the same manner, placing it on the live embers. I found that the berries were spoiled by this operation, and the nuts and roots much improved.\n\n“Food, however, became scarce, and I often spent the whole day searching in vain for a few acorns to assuage the pangs of hunger. When I found this, I resolved to quit the place that I had hitherto inhabited, to seek for one where the few wants I experienced would be more easily satisfied. In this emigration I exceedingly lamented the loss of the fire which I had obtained through accident and knew not how to reproduce it. I gave several hours to the serious consideration of this difficulty, but I was obliged to relinquish all attempt to supply it, and wrapping myself up in my cloak, I struck across the wood towards the setting sun. I passed three days in these rambles and at length discovered the open country. A great fall of snow had taken place the night before, and the fields were of one uniform white; the appearance was disconsolate, and I found my feet chilled by the cold damp substance that covered the ground.\n\n“It was about seven in the morning, and I longed to obtain food and shelter; at length I perceived a small hut, on a rising ground, which had doubtless been built for the convenience of some shepherd. This was a new sight to me, and I examined the structure with great curiosity. Finding the door open, I entered. An old man sat in it, near a fire, over which he was preparing his breakfast. He turned on hearing a noise, and perceiving me, shrieked loudly, and quitting the hut, ran across the fields with a speed of which his debilitated form hardly appeared capable. His appearance, different from any I had ever before seen, and his flight somewhat surprised me. But I was enchanted by the appearance of the hut; here the snow and rain could not penetrate; the ground was dry; and it presented to me then as exquisite and divine a retreat as Pandæmonium appeared to the dæmons of hell after their sufferings in the lake of fire."
+      },
+      "request_id": "9bc5d2b3b38e23090745ea3a",
+      "request_sha256": "7422a020cddef6d834c375d536af93d27c93b75d5cb11a71ae248e9b3755e7d1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "564dfd66eaed502f09568997b7f92462318be6fcceeca96602fcf1ce52809da8"
+    }
+  ],
+  "session_id": "01a0e1dc-98ec-7c60-82e0-33192a6dbb6d",
+  "worker_id": "astra_b",
+  "worker_identity_sha256": "63e655afad929d2df43c7a786df30c2f77ef9616368896382b0782c5fc9c466d"
+}

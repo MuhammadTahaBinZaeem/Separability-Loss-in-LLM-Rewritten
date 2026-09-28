@@ -1,0 +1,33 @@
+{
+  "arm_id": "codex_session_astra_extra_high",
+  "display_label": "GPT-6 Astra via Codex, Extra High",
+  "generation_method": "codex_session_not_direct_model_api",
+  "observed_interface_model": "GPT-6 Astra",
+  "observed_interface_reasoning_setting": "Extra High",
+  "model_selection_verified": true,
+  "verification_scope": "interface_model_selection",
+  "verification_method": "Assistant visual inspection of the user-supplied screenshot in the active conversation.",
+  "evidence_description": "The screenshot shows GPT-6 Astra and Extra High in the model selector at the lower right of the Codex composer, with this research conversation visible above.",
+  "evidence_original_archived_locally": false,
+  "evidence_archive_requirement": "Retain the original screenshot/export with the study records before release. No local image path or image hash is asserted here because one was not supplied.",
+  "backend_checkpoint_independently_verified": false,
+  "provider_response_ids_available": false,
+  "api_sampling_parameters_verified": false,
+  "rewrite_quality_verified": false,
+  "independent_review_complete": false,
+  "primary_api_comparison_eligible": false,
+  "comparison_role": "separately reported session-generation arm; not an identically configured API condition",
+  "scope_start": "User supplied the model-selector screenshot on 2026-09-26. This evidence does not retrospectively identify earlier outputs or establish future selections after a model change.",
+  "previous_feasibility_outputs_relabelled": false,
+  "study_outputs_linked_so_far": 0,
+  "future_output_requirements": [
+    "Bind each output to an immutable request ID, source hash and exact requested rewrite condition.",
+    "Preserve the prompt, original output, failed or partial output, chronology and output hash.",
+    "Record this provenance reference and actual session or transcript evidence where available.",
+    "Do not assert fresh independent context: this research conversation contains source identities, analyses and prior outputs.",
+    "Reconfirm model selection if the session/model changes.",
+    "Apply the same declared technical checks and independently completed review requirements to the text."
+  ],
+  "api_budget_effect": "No Astra API calls are to be made. The 35 USD cap remains in force for the authorized additional API work. No claim is made that Codex subscription usage is unmetered or free.",
+  "submission_ready": false
+}

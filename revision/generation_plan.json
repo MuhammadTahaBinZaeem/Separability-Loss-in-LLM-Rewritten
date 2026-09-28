@@ -1,14 +1,24 @@
 {
-  "version": 2,
+  "version": "2.1",
   "conditions": ["paraphrase", "modernize", "simplify"],
-  "primary_model": "gptoss120",
+  "primary_model": "gem31lite",
   "models": {
-    "gptoss120": {"model": "openai/gpt-oss-120b", "key_env": "GROQ_GPTOSS_API_KEY", "reasoning_effort": "low"},
-    "qwen27": {"model": "qwen/qwen3.6-27b", "key_env": "GROQ_QWEN_API_KEY", "reasoning_format": "hidden"}
+    "gem31lite": {
+      "model": "gemini-3.1-flash-lite", "api": "gemini_native", "key_env": "gemchat",
+      "thinking_level": "minimal", "accepted_returned_models": ["gemini-3.1-flash-lite"],
+      "input_usd_per_million": 0.25, "output_usd_per_million": 1.50, "run_reservation_cap_usd": 10.0
+    },
+    "azure_replication": {
+      "enabled": true, "model": "gpt-5.4-nano", "api": "azure_responses", "key_env": "open_key", "endpoint_env": "open_url",
+      "reasoning_effort": "none", "accepted_returned_models": ["gpt-5.4-nano", "gpt-5.4-nano-2026-03-17"],
+      "input_usd_per_million": 0.5, "output_usd_per_million": 2.5, "run_reservation_cap_usd": 20.0,
+      "cost_estimate_basis": "Conservative planning assumptions, not a verified account-specific Azure tariff."
+    }
   },
   "temperature": 0.2,
   "top_p": 1.0,
   "max_completion_tokens": 4096,
   "prompt_version": "v2_opaque_id_fidelity",
-  "response_selection": "first_received_completion_no_quality_reroll"
+  "response_selection": "first_received_completion_no_quality_reroll",
+  "amendment": "revision/AMENDMENTS.md#2026-09-20-provider-availability"
 }

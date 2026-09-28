@@ -1,0 +1,734 @@
+[
+  {
+    "crop_size": 0,
+    "eligible_passages": 359,
+    "location": "full",
+    "minimum_words": 0,
+    "missing_works": [],
+    "panel": "valid_full",
+    "reason": "all_planned_works_present",
+    "status": "estimable",
+    "work_counts": [
+      {
+        "author_id": "austen",
+        "passages": 19,
+        "work_id": "emma"
+      },
+      {
+        "author_id": "austen",
+        "passages": 20,
+        "work_id": "persuasion"
+      },
+      {
+        "author_id": "austen",
+        "passages": 20,
+        "work_id": "pride_and_prejudice"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 20,
+        "work_id": "a_tale_of_two_cities"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 20,
+        "work_id": "great_expectations"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 20,
+        "work_id": "oliver_twist"
+      },
+      {
+        "author_id": "poe",
+        "passages": 20,
+        "work_id": "hans_pfaal"
+      },
+      {
+        "author_id": "poe",
+        "passages": 20,
+        "work_id": "murders_rue_morgue"
+      },
+      {
+        "author_id": "poe",
+        "passages": 20,
+        "work_id": "the_gold_bug"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 20,
+        "work_id": "frankenstein"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 20,
+        "work_id": "mathilda"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 20,
+        "work_id": "the_last_man"
+      },
+      {
+        "author_id": "twain",
+        "passages": 20,
+        "work_id": "connecticut_yankee"
+      },
+      {
+        "author_id": "twain",
+        "passages": 20,
+        "work_id": "huckleberry_finn"
+      },
+      {
+        "author_id": "twain",
+        "passages": 20,
+        "work_id": "tom_sawyer"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "canterville_ghost"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "dorian_gray"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "lord_arthur_saviles_crime"
+      }
+    ]
+  },
+  {
+    "crop_size": 0,
+    "eligible_passages": 339,
+    "location": "full",
+    "minimum_words": 200,
+    "missing_works": [],
+    "panel": "matched200_full",
+    "reason": "all_planned_works_present",
+    "status": "estimable",
+    "work_counts": [
+      {
+        "author_id": "austen",
+        "passages": 18,
+        "work_id": "emma"
+      },
+      {
+        "author_id": "austen",
+        "passages": 19,
+        "work_id": "persuasion"
+      },
+      {
+        "author_id": "austen",
+        "passages": 19,
+        "work_id": "pride_and_prejudice"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 17,
+        "work_id": "a_tale_of_two_cities"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 20,
+        "work_id": "great_expectations"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 17,
+        "work_id": "oliver_twist"
+      },
+      {
+        "author_id": "poe",
+        "passages": 18,
+        "work_id": "hans_pfaal"
+      },
+      {
+        "author_id": "poe",
+        "passages": 19,
+        "work_id": "murders_rue_morgue"
+      },
+      {
+        "author_id": "poe",
+        "passages": 18,
+        "work_id": "the_gold_bug"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 19,
+        "work_id": "frankenstein"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 19,
+        "work_id": "mathilda"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 20,
+        "work_id": "the_last_man"
+      },
+      {
+        "author_id": "twain",
+        "passages": 17,
+        "work_id": "connecticut_yankee"
+      },
+      {
+        "author_id": "twain",
+        "passages": 20,
+        "work_id": "huckleberry_finn"
+      },
+      {
+        "author_id": "twain",
+        "passages": 19,
+        "work_id": "tom_sawyer"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "canterville_ghost"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "dorian_gray"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "lord_arthur_saviles_crime"
+      }
+    ]
+  },
+  {
+    "crop_size": 200,
+    "eligible_passages": 339,
+    "location": "prefix",
+    "minimum_words": 200,
+    "missing_works": [],
+    "panel": "w200_prefix",
+    "reason": "all_planned_works_present",
+    "status": "estimable",
+    "work_counts": [
+      {
+        "author_id": "austen",
+        "passages": 18,
+        "work_id": "emma"
+      },
+      {
+        "author_id": "austen",
+        "passages": 19,
+        "work_id": "persuasion"
+      },
+      {
+        "author_id": "austen",
+        "passages": 19,
+        "work_id": "pride_and_prejudice"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 17,
+        "work_id": "a_tale_of_two_cities"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 20,
+        "work_id": "great_expectations"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 17,
+        "work_id": "oliver_twist"
+      },
+      {
+        "author_id": "poe",
+        "passages": 18,
+        "work_id": "hans_pfaal"
+      },
+      {
+        "author_id": "poe",
+        "passages": 19,
+        "work_id": "murders_rue_morgue"
+      },
+      {
+        "author_id": "poe",
+        "passages": 18,
+        "work_id": "the_gold_bug"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 19,
+        "work_id": "frankenstein"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 19,
+        "work_id": "mathilda"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 20,
+        "work_id": "the_last_man"
+      },
+      {
+        "author_id": "twain",
+        "passages": 17,
+        "work_id": "connecticut_yankee"
+      },
+      {
+        "author_id": "twain",
+        "passages": 20,
+        "work_id": "huckleberry_finn"
+      },
+      {
+        "author_id": "twain",
+        "passages": 19,
+        "work_id": "tom_sawyer"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "canterville_ghost"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "dorian_gray"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "lord_arthur_saviles_crime"
+      }
+    ]
+  },
+  {
+    "crop_size": 200,
+    "eligible_passages": 339,
+    "location": "middle",
+    "minimum_words": 200,
+    "missing_works": [],
+    "panel": "w200_middle",
+    "reason": "all_planned_works_present",
+    "status": "estimable",
+    "work_counts": [
+      {
+        "author_id": "austen",
+        "passages": 18,
+        "work_id": "emma"
+      },
+      {
+        "author_id": "austen",
+        "passages": 19,
+        "work_id": "persuasion"
+      },
+      {
+        "author_id": "austen",
+        "passages": 19,
+        "work_id": "pride_and_prejudice"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 17,
+        "work_id": "a_tale_of_two_cities"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 20,
+        "work_id": "great_expectations"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 17,
+        "work_id": "oliver_twist"
+      },
+      {
+        "author_id": "poe",
+        "passages": 18,
+        "work_id": "hans_pfaal"
+      },
+      {
+        "author_id": "poe",
+        "passages": 19,
+        "work_id": "murders_rue_morgue"
+      },
+      {
+        "author_id": "poe",
+        "passages": 18,
+        "work_id": "the_gold_bug"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 19,
+        "work_id": "frankenstein"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 19,
+        "work_id": "mathilda"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 20,
+        "work_id": "the_last_man"
+      },
+      {
+        "author_id": "twain",
+        "passages": 17,
+        "work_id": "connecticut_yankee"
+      },
+      {
+        "author_id": "twain",
+        "passages": 20,
+        "work_id": "huckleberry_finn"
+      },
+      {
+        "author_id": "twain",
+        "passages": 19,
+        "work_id": "tom_sawyer"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "canterville_ghost"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "dorian_gray"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "lord_arthur_saviles_crime"
+      }
+    ]
+  },
+  {
+    "crop_size": 200,
+    "eligible_passages": 339,
+    "location": "suffix",
+    "minimum_words": 200,
+    "missing_works": [],
+    "panel": "w200_suffix",
+    "reason": "all_planned_works_present",
+    "status": "estimable",
+    "work_counts": [
+      {
+        "author_id": "austen",
+        "passages": 18,
+        "work_id": "emma"
+      },
+      {
+        "author_id": "austen",
+        "passages": 19,
+        "work_id": "persuasion"
+      },
+      {
+        "author_id": "austen",
+        "passages": 19,
+        "work_id": "pride_and_prejudice"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 17,
+        "work_id": "a_tale_of_two_cities"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 20,
+        "work_id": "great_expectations"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 17,
+        "work_id": "oliver_twist"
+      },
+      {
+        "author_id": "poe",
+        "passages": 18,
+        "work_id": "hans_pfaal"
+      },
+      {
+        "author_id": "poe",
+        "passages": 19,
+        "work_id": "murders_rue_morgue"
+      },
+      {
+        "author_id": "poe",
+        "passages": 18,
+        "work_id": "the_gold_bug"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 19,
+        "work_id": "frankenstein"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 19,
+        "work_id": "mathilda"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 20,
+        "work_id": "the_last_man"
+      },
+      {
+        "author_id": "twain",
+        "passages": 17,
+        "work_id": "connecticut_yankee"
+      },
+      {
+        "author_id": "twain",
+        "passages": 20,
+        "work_id": "huckleberry_finn"
+      },
+      {
+        "author_id": "twain",
+        "passages": 19,
+        "work_id": "tom_sawyer"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "canterville_ghost"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "dorian_gray"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 20,
+        "work_id": "lord_arthur_saviles_crime"
+      }
+    ]
+  },
+  {
+    "crop_size": 0,
+    "eligible_passages": 70,
+    "location": "full",
+    "minimum_words": 300,
+    "missing_works": [
+      [
+        "poe",
+        "hans_pfaal"
+      ],
+      [
+        "shelley",
+        "the_last_man"
+      ]
+    ],
+    "panel": "matched300_full",
+    "reason": "entire_author_work_unavailable",
+    "status": "not_estimable",
+    "work_counts": [
+      {
+        "author_id": "austen",
+        "passages": 3,
+        "work_id": "emma"
+      },
+      {
+        "author_id": "austen",
+        "passages": 3,
+        "work_id": "persuasion"
+      },
+      {
+        "author_id": "austen",
+        "passages": 7,
+        "work_id": "pride_and_prejudice"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 3,
+        "work_id": "a_tale_of_two_cities"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 5,
+        "work_id": "great_expectations"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 5,
+        "work_id": "oliver_twist"
+      },
+      {
+        "author_id": "poe",
+        "passages": 0,
+        "work_id": "hans_pfaal"
+      },
+      {
+        "author_id": "poe",
+        "passages": 5,
+        "work_id": "murders_rue_morgue"
+      },
+      {
+        "author_id": "poe",
+        "passages": 3,
+        "work_id": "the_gold_bug"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 8,
+        "work_id": "frankenstein"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 5,
+        "work_id": "mathilda"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 0,
+        "work_id": "the_last_man"
+      },
+      {
+        "author_id": "twain",
+        "passages": 1,
+        "work_id": "connecticut_yankee"
+      },
+      {
+        "author_id": "twain",
+        "passages": 4,
+        "work_id": "huckleberry_finn"
+      },
+      {
+        "author_id": "twain",
+        "passages": 7,
+        "work_id": "tom_sawyer"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 1,
+        "work_id": "canterville_ghost"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 3,
+        "work_id": "dorian_gray"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 7,
+        "work_id": "lord_arthur_saviles_crime"
+      }
+    ]
+  },
+  {
+    "crop_size": 300,
+    "eligible_passages": 70,
+    "location": "middle",
+    "minimum_words": 300,
+    "missing_works": [
+      [
+        "poe",
+        "hans_pfaal"
+      ],
+      [
+        "shelley",
+        "the_last_man"
+      ]
+    ],
+    "panel": "w300_middle",
+    "reason": "entire_author_work_unavailable",
+    "status": "not_estimable",
+    "work_counts": [
+      {
+        "author_id": "austen",
+        "passages": 3,
+        "work_id": "emma"
+      },
+      {
+        "author_id": "austen",
+        "passages": 3,
+        "work_id": "persuasion"
+      },
+      {
+        "author_id": "austen",
+        "passages": 7,
+        "work_id": "pride_and_prejudice"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 3,
+        "work_id": "a_tale_of_two_cities"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 5,
+        "work_id": "great_expectations"
+      },
+      {
+        "author_id": "dickens",
+        "passages": 5,
+        "work_id": "oliver_twist"
+      },
+      {
+        "author_id": "poe",
+        "passages": 0,
+        "work_id": "hans_pfaal"
+      },
+      {
+        "author_id": "poe",
+        "passages": 5,
+        "work_id": "murders_rue_morgue"
+      },
+      {
+        "author_id": "poe",
+        "passages": 3,
+        "work_id": "the_gold_bug"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 8,
+        "work_id": "frankenstein"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 5,
+        "work_id": "mathilda"
+      },
+      {
+        "author_id": "shelley",
+        "passages": 0,
+        "work_id": "the_last_man"
+      },
+      {
+        "author_id": "twain",
+        "passages": 1,
+        "work_id": "connecticut_yankee"
+      },
+      {
+        "author_id": "twain",
+        "passages": 4,
+        "work_id": "huckleberry_finn"
+      },
+      {
+        "author_id": "twain",
+        "passages": 7,
+        "work_id": "tom_sawyer"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 1,
+        "work_id": "canterville_ghost"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 3,
+        "work_id": "dorian_gray"
+      },
+      {
+        "author_id": "wilde",
+        "passages": 7,
+        "work_id": "lord_arthur_saviles_crime"
+      }
+    ]
+  }
+]

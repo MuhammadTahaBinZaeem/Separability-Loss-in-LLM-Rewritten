@@ -1,0 +1,62 @@
+{
+  "accounted": 1080,
+  "accounting_complete": true,
+  "budget": {
+    "actual_dollar_charges_known": false,
+    "azure_account_tariff_verified": false,
+    "cap_usd": 35.0,
+    "models": {
+      "azure_replication": {
+        "attempts": 12,
+        "output_tokens_used_or_reserved": 7243,
+        "unsettled_calls": 0,
+        "used_or_reserved_usd": 0.023844377
+      },
+      "codex51": {
+        "attempts": 1054,
+        "output_tokens_used_or_reserved": 729607,
+        "unsettled_calls": 34,
+        "used_or_reserved_usd": 8.783365594
+      },
+      "gem31lite": {
+        "attempts": 12,
+        "output_tokens_used_or_reserved": 4510,
+        "unsettled_calls": 0,
+        "used_or_reserved_usd": 0.009590629
+      },
+      "luna56": {
+        "attempts": 1082,
+        "output_tokens_used_or_reserved": 730222,
+        "unsettled_calls": 28,
+        "used_or_reserved_usd": 1.114512954
+      },
+      "sol56": {
+        "attempts": 1,
+        "output_tokens_used_or_reserved": 4096,
+        "unsettled_calls": 1,
+        "used_or_reserved_usd": 0.10365
+      },
+      "terra56": {
+        "attempts": 1083,
+        "output_tokens_used_or_reserved": 748073,
+        "unsettled_calls": 30,
+        "used_or_reserved_usd": 11.382733531
+      }
+    },
+    "reference_cost_remaining_usd": 13.535259315,
+    "reference_cost_used_or_reserved_usd": 21.464740685
+  },
+  "expected": 1080,
+  "fail": 92,
+  "missing": 0,
+  "model_key": "terra56",
+  "new_attempts": 68,
+  "new_native_responses": 1053,
+  "parsed_sha256": "2468792789922ba76d0acbc6ab1b236770430c916c3dca04697252f461acb928",
+  "request_manifest_sha256": "7c363d2a7e65f33165855b3bfb4e1019ff69ca7d361136b8d63f204fd822567b",
+  "reused_v2_observations": 0,
+  "review_complete": false,
+  "runner_errors": [],
+  "updated_utc": "2026-09-27T08:10:01.065968+00:00",
+  "valid_outputs": 988
+}

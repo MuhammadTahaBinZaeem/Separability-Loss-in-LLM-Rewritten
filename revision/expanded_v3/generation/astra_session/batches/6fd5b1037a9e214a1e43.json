@@ -1,0 +1,68 @@
+{
+  "batch_id": "6fd5b1037a9e214a1e43",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T08:06:42.100510+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "036842b870bbbf24abd661f4",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 479,
+      "passage_id": "V2_wilde_dorian_gray_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 036842b870bbbf24abd661f4\noriginal_word_count: 479\n\nPassage:\n“Good-bye, Uncle George. I shall be late for lunch, if I stop any longer. Thanks for giving me the information I wanted. I always like to know everything about my new friends, and nothing about my old ones.”\n\n“Where are you lunching, Harry?”\n\n“At Aunt Agatha’s. I have asked myself and Mr. Gray. He is her latest _protégé_.”\n\n“Humph! tell your Aunt Agatha, Harry, not to bother me any more with her charity appeals. I am sick of them. Why, the good woman thinks that I have nothing to do but to write cheques for her silly fads.”\n\n“All right, Uncle George, I’ll tell her, but it won’t have any effect. Philanthropic people lose all sense of humanity. It is their distinguishing characteristic.”\n\nThe old gentleman growled approvingly and rang the bell for his servant. Lord Henry passed up the low arcade into Burlington Street and turned his steps in the direction of Berkeley Square.\n\nSo that was the story of Dorian Gray’s parentage. Crudely as it had been told to him, it had yet stirred him by its suggestion of a strange, almost modern romance. A beautiful woman risking everything for a mad passion. A few wild weeks of happiness cut short by a hideous, treacherous crime. Months of voiceless agony, and then a child born in pain. The mother snatched away by death, the boy left to solitude and the tyranny of an old and loveless man. Yes; it was an interesting background. It posed the lad, made him more perfect, as it were. Behind every exquisite thing that existed, there was something tragic. Worlds had to be in travail, that the meanest flower might blow.... And how charming he had been at dinner the night before, as with startled eyes and lips parted in frightened pleasure he had sat opposite to him at the club, the red candleshades staining to a richer rose the wakening wonder of his face. Talking to him was like playing upon an exquisite violin. He answered to every touch and thrill of the bow.... There was something terribly enthralling in the exercise of influence. No other activity was like it. To project one’s soul into some gracious form, and let it tarry there for a moment; to hear one’s own intellectual views echoed back to one with all the added music of passion and youth; to convey one’s temperament into another as though it were a subtle fluid or a strange perfume: there was a real joy in that—perhaps the most satisfying joy left to us in an age so limited and vulgar as our own, an age grossly carnal in its pleasures, and grossly common in its aims.... He was a marvellous type, too, this lad, whom by so curious a chance he had met in Basil’s studio, or could be fashioned into a marvellous type, at any rate."
+      },
+      "request_id": "036842b870bbbf24abd661f4",
+      "request_sha256": "cde88761aa379accebd6dd1924e9d910319d93363e134b659c1cac4855475b58",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7713a8986c1459bb7adb55afd0eafc5704aadd4b52a661ef17ea7099bbf0903f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ba5f6ba14fc9fed8ee987a62",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_poe_the_gold_bug_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: ba5f6ba14fc9fed8ee987a62\noriginal_word_count: 473\n\nPassage:\nI accordingly went over to the plantation, and re-instituted my inquiries among the older negroes of the place. At length one of the most aged of the women said that she had heard of such a place as Bessop’s Castle, and thought that she could guide me to it, but that it was not a castle nor a tavern, but a high rock.\n\n“I offered to pay her well for her trouble, and, after some demur, she consented to accompany me to the spot. We found it without much difficulty, when, dismissing her, I proceeded to examine the place. The ‘castle’ consisted of an irregular assemblage of cliffs and rocks—one of the latter being quite remarkable for its height as well as for its insulated and artificial appearance. I clambered to its apex, and then felt much at a loss as to what should be next done.\n\n“While I was busied in reflection, my eyes fell upon a narrow ledge in the eastern face of the rock, perhaps a yard below the summit upon which I stood. This ledge projected about eighteen inches, and was not more than a foot wide, while a niche in the cliff just above it gave it a rude resemblance to one of the hollow-backed chairs used by our ancestors. I made no doubt that here was the ‘devil’s seat’ alluded to in the MS., and now I seemed to grasp the full secret of the riddle.\n\n“The ‘good glass,’ I knew, could have reference to nothing but a telescope; for the word ‘glass’ is rarely employed in any other sense by seamen. Now here, I at once saw, was a telescope to be used, and a definite point of view, admitting no variation, from which to use it. Nor did I hesitate to believe that the phrases, ‘forty-one degrees and thirteen minutes,’ and ‘northeast and by north,’ were intended as directions for the levelling of the glass. Greatly excited by these discoveries, I hurried home, procured a telescope, and returned to the rock.\n\n“I let myself down to the ledge, and found that it was impossible to retain a seat upon it except in one particular position. This fact confirmed my preconceived idea. I proceeded to use the glass. Of course, the ‘forty-one degrees and thirteen minutes’ could allude to nothing but elevation above the visible horizon, since the horizontal direction was clearly indicated by the words, ‘northeast and by north.’ This latter direction I at once established by means of a pocket-compass; then, pointing the glass as nearly at an angle of forty-one degrees of elevation as I could do it by guess, I moved it cautiously up or down, until my attention was arrested by a circular rift or opening in the foliage of a large tree that overtopped its fellows in the distance."
+      },
+      "request_id": "ba5f6ba14fc9fed8ee987a62",
+      "request_sha256": "e1b7258ecb40af849b208d5cc8b74ca94693610ee404f595503da1974914e00f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "44802a46931f96f9d0a021d554d2f0327761510774bfd27c6c20f0c71b514aa4"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0d1989062f5c58481253020a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 0d1989062f5c58481253020a\noriginal_word_count: 456\n\nPassage:\nTheir arrival had lighted a kind of fire in the breast of Saint Antoine, fast spreading as they came along, which stirred and flickered in flames of faces at most doors and windows. Yet, no one had followed them, and no man spoke when they entered the wine-shop, though the eyes of every man there were turned upon them.\n\n“Good day, gentlemen!” said Monsieur Defarge.\n\nIt may have been a signal for loosening the general tongue. It elicited an answering chorus of “Good day!”\n\n“It is bad weather, gentlemen,” said Defarge, shaking his head.\n\nUpon which, every man looked at his neighbour, and then all cast down their eyes and sat silent. Except one man, who got up and went out.\n\n“My wife,” said Defarge aloud, addressing Madame Defarge: “I have travelled certain leagues with this good mender of roads, called Jacques. I met him--by accident--a day and half’s journey out of Paris. He is a good child, this mender of roads, called Jacques. Give him to drink, my wife!”\n\nA second man got up and went out. Madame Defarge set wine before the mender of roads called Jacques, who doffed his blue cap to the company, and drank. In the breast of his blouse he carried some coarse dark bread; he ate of this between whiles, and sat munching and drinking near Madame Defarge’s counter. A third man got up and went out.\n\nDefarge refreshed himself with a draught of wine--but, he took less than was given to the stranger, as being himself a man to whom it was no rarity--and stood waiting until the countryman had made his breakfast. He looked at no one present, and no one now looked at him; not even Madame Defarge, who had taken up her knitting, and was at work.\n\n“Have you finished your repast, friend?” he asked, in due season.\n\n“Yes, thank you.”\n\n“Come, then! You shall see the apartment that I told you you could occupy. It will suit you to a marvel.”\n\nOut of the wine-shop into the street, out of the street into a courtyard, out of the courtyard up a steep staircase, out of the staircase into a garret--formerly the garret where a white-haired man sat on a low bench, stooping forward and very busy, making shoes.\n\nNo white-haired man was there now; but, the three men were there who had gone out of the wine-shop singly. And between them and the white-haired man afar off, was the one small link, that they had once looked in at him through the chinks in the wall.\n\nDefarge closed the door carefully, and spoke in a subdued voice:\n\n“Jacques One, Jacques Two, Jacques Three! This is the witness encountered by appointment, by me, Jacques Four."
+      },
+      "request_id": "0d1989062f5c58481253020a",
+      "request_sha256": "13bbd5e61718fff225d7f8d7ddd963a22824fec7295edb598145ffa60affd5ad",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d9d9d29844963db3d0808705adc2abf396299d478990c38ea11a92fa04324142"
+    }
+  ],
+  "session_id": "01a0e1dc-db77-7ca2-a44b-20de81379df6",
+  "worker_id": "astra_c",
+  "worker_identity_sha256": "85385f96362fb7155bec4ef09a1c5c0d6a7ab633c57687871b698abad7715535"
+}

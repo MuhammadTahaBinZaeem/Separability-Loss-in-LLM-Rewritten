@@ -1,0 +1,7 @@
+{
+  "complete": false,
+  "errors": [
+    "Two registered original human review files are required."
+  ],
+  "stage": "missing_independent_human_reviews"
+}

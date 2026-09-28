@@ -1,0 +1,1 @@
+request_id,passage_id,condition,model_key,requested_model,returned_model,source_sha256,request_sha256,response_id,received_utc,finish_reason,rewritten_text,rewrite_sha256,original_words,rewrite_words,length_ratio,qc_status,qc_flags,raw_record_sha256,outcome_type,assignment_id,delivery

@@ -1,0 +1,35 @@
+{
+  "checked_utc": "2026-09-26T11:26:01.942850+00:00",
+  "checks": [
+    {
+      "active_packet": "57d31c3ea389eb56",
+      "available_packets": 2,
+      "kind": "semantic_A",
+      "original_account": "e9151af6d14b168e",
+      "saved": 0,
+      "status": "awaiting_packet",
+      "total": 0
+    },
+    {
+      "active_packet": "6c71fdbe6ed480f2",
+      "available_packets": 2,
+      "kind": "semantic_B",
+      "original_account": "6fee5c68ea3d7e42",
+      "saved": 0,
+      "status": "awaiting_packet",
+      "total": 0
+    },
+    {
+      "active_packet": "456b3a1b2b35e02c",
+      "available_packets": 2,
+      "kind": "source",
+      "original_account": "ddd2d102bd02a314",
+      "saved": 0,
+      "status": "draft",
+      "total": 4
+    }
+  ],
+  "credentials_unchanged": true,
+  "origin": "http://127.0.0.1:8765",
+  "ratings_written": false
+}

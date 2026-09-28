@@ -1,0 +1,29 @@
+{
+  "accounts": [
+    {
+      "assignments": 2,
+      "kind": "source",
+      "saved": 0,
+      "status": "draft",
+      "total": 4
+    },
+    {
+      "assignments": 2,
+      "kind": "semantic_B",
+      "saved": 0,
+      "status": "awaiting_packet",
+      "total": 0
+    },
+    {
+      "assignments": 2,
+      "kind": "semantic_A",
+      "saved": 0,
+      "status": "awaiting_packet",
+      "total": 0
+    }
+  ],
+  "checked_utc": "2026-09-27T13:33:34.492297+00:00",
+  "homepage_http": 200,
+  "passed": true,
+  "url": "http://127.0.0.1:8765"
+}

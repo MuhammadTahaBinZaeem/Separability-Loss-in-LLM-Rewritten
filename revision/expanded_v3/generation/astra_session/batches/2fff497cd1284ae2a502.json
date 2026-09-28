@@ -1,0 +1,68 @@
+{
+  "batch_id": "2fff497cd1284ae2a502",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:31:51.220723+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2a2bbba419f624e25fef69c0",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_wilde_canterville_ghost_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 2a2bbba419f624e25fef69c0\noriginal_word_count: 471\n\nPassage:\nJust as they were passing out of the dining-room, midnight began to boom from the clock tower, and when the last stroke sounded they heard a crash and a sudden shrill cry; a dreadful peal of thunder shook the house, a strain of unearthly music floated through the air, a panel at the top of the staircase flew back with a loud noise, and out on the landing, looking very pale and white, with a little casket in her hand, stepped Virginia. In a moment they had all rushed up to her. Mrs. Otis clasped her passionately in her arms, the Duke smothered her with violent kisses, and the twins executed a wild war-dance round the group.\n\n‘Good heavens! child, where have you been?’ said Mr. Otis, rather angrily, thinking that she had been playing some foolish trick on them. ‘Cecil and I have been riding all over the country looking for you, and your mother has been frightened to death. You must never play these practical jokes any more.’\n\n‘Except on the Ghost! except on the Ghost!’ shrieked the twins, as they capered about.\n\n‘My own darling, thank God you are found; you must never leave my side again,’ murmured Mrs. Otis, as she kissed the trembling child, and smoothed the tangled gold of her hair.\n\n‘Papa,’ said Virginia quietly, ‘I have been with the Ghost. He is dead, and you must come and see him. He had been very wicked, but he was really sorry for all that he had done, and he gave me this box of beautiful jewels before he died.’\n\nThe whole family gazed at her in mute amazement, but she was quite grave and serious; and, turning round, she led them through the opening in the wainscoting down a narrow secret corridor, Washington following with a lighted candle, which he had caught up from the table. Finally, they came to a great oak door, studded with rusty nails. When Virginia touched it, it swung back on its heavy hinges, and they found themselves in a little low room, with a vaulted ceiling, and one tiny grated window. Imbedded in the wall was a huge iron ring, and chained to it was a gaunt skeleton, that was stretched out at full length on the stone floor, and seemed to be trying to grasp with its long fleshless fingers an old-fashioned trencher and ewer, that were placed just out of its reach. The jug had evidently been once filled with water, as it was covered inside with green mould. There was nothing on the trencher but a pile of dust. Virginia knelt down beside the skeleton, and, folding her little hands together, began to pray silently, while the rest of the party looked on in wonder at the terrible tragedy whose secret was now disclosed to them."
+      },
+      "request_id": "2a2bbba419f624e25fef69c0",
+      "request_sha256": "75cdb402d78093316464764723c7133168093fc2422d06d40e42443201e7bf8b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a5314ef4398a30eb236ef4621b7cf64008d98a0aa1e43df1c98b489851992e1f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7377638f073826f8fd3cf937",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 510,
+      "passage_id": "V2_austen_emma_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 7377638f073826f8fd3cf937\noriginal_word_count: 510\n\nPassage:\nEmma was not required, by any subsequent discovery, to retract her ill opinion of Mrs. Elton. Her observation had been pretty correct. Such as Mrs. Elton appeared to her on this second interview, such she appeared whenever they met again,—self-important, presuming, familiar, ignorant, and ill-bred. She had a little beauty and a little accomplishment, but so little judgment that she thought herself coming with superior knowledge of the world, to enliven and improve a country neighbourhood; and conceived Miss Hawkins to have held such a place in society as Mrs. Elton’s consequence only could surpass.\n\nThere was no reason to suppose Mr. Elton thought at all differently from his wife. He seemed not merely happy with her, but proud. He had the air of congratulating himself on having brought such a woman to Highbury, as not even Miss Woodhouse could equal; and the greater part of her new acquaintance, disposed to commend, or not in the habit of judging, following the lead of Miss Bates’s good-will, or taking it for granted that the bride must be as clever and as agreeable as she professed herself, were very well satisfied; so that Mrs. Elton’s praise passed from one mouth to another as it ought to do, unimpeded by Miss Woodhouse, who readily continued her first contribution and talked with a good grace of her being “very pleasant and very elegantly dressed.”\n\nIn one respect Mrs. Elton grew even worse than she had appeared at first. Her feelings altered towards Emma.—Offended, probably, by the little encouragement which her proposals of intimacy met with, she drew back in her turn and gradually became much more cold and distant; and though the effect was agreeable, the ill-will which produced it was necessarily increasing Emma’s dislike. Her manners, too—and Mr. Elton’s, were unpleasant towards Harriet. They were sneering and negligent. Emma hoped it must rapidly work Harriet’s cure; but the sensations which could prompt such behaviour sunk them both very much.—It was not to be doubted that poor Harriet’s attachment had been an offering to conjugal unreserve, and her own share in the story, under a colouring the least favourable to her and the most soothing to him, had in all likelihood been given also. She was, of course, the object of their joint dislike.—When they had nothing else to say, it must be always easy to begin abusing Miss Woodhouse; and the enmity which they dared not shew in open disrespect to her, found a broader vent in contemptuous treatment of Harriet.\n\nMrs. Elton took a great fancy to Jane Fairfax; and from the first. Not merely when a state of warfare with one young lady might be supposed to recommend the other, but from the very first; and she was not satisfied with expressing a natural and reasonable admiration—but without solicitation, or plea, or privilege, she must be wanting to assist and befriend her.—Before Emma had forfeited her confidence, and about the third time of their meeting, she heard all Mrs. Elton’s knight-errantry on the subject.—"
+      },
+      "request_id": "7377638f073826f8fd3cf937",
+      "request_sha256": "03de06ecdc73548970fdd62ab9b5814895127ffbc9016206a8593d11bb2f90d2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3a74b6a5116f4dfd8ef90e13b3a3e4b50dc88f9fdcb6fbef4fcaa9e128b271a4"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "25da85652df066d36fe1fbfb",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_poe_hans_pfaal_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 25da85652df066d36fe1fbfb\noriginal_word_count: 453\n\nPassage:\nIn the meantime, the force of gravitation would be constantly diminishing, in proportion to the squares of the distances, and thus, with a velocity prodigiously accelerating, I should at length arrive in those distant regions where the force of the earth’s attraction would be superseded by that of the moon. In accordance with these ideas, I did not think it worth while to encumber myself with more provisions than would be sufficient for a period of forty days.\n\n“There was still, however, another difficulty, which occasioned me some little disquietude. It has been observed, that, in balloon ascensions to any considerable height, besides the pain attending respiration, great uneasiness is experienced about the head and body, often accompanied with bleeding at the nose, and other symptoms of an alarming kind, and growing more and more inconvenient in proportion to the altitude attained. This was a reflection of a nature somewhat startling. Was it not probable that these symptoms would increase indefinitely, or at least until terminated by death itself? I finally thought not. Their origin was to be looked for in the progressive removal of the customary atmospheric pressure upon the surface of the body, and consequent distention of the superficial blood-vessels—not in any positive disorganization of the animal system, as in the case of difficulty in breathing, where the atmospheric density is chemically insufficient for the due renovation of blood in a ventricle of the heart. Unless for default of this renovation, I could see no reason, therefore, why life could not be sustained even in a vacuum; for the expansion and compression of chest, commonly called breathing, is action purely muscular, and the cause, not the effect, of respiration. In a word, I conceived that, as the body should become habituated to the want of atmospheric pressure, the sensations of pain would gradually diminish—and to endure them while they continued, I relied with confidence upon the iron hardihood of my constitution.\n\n“Thus, may it please your Excellencies, I have detailed some, though by no means all, the considerations which led me to form the project of a lunar voyage. I shall now proceed to lay before you the result of an attempt so apparently audacious in conception, and, at all events, so utterly unparalleled in the annals of mankind.\n\n“Having attained the altitude before mentioned, that is to say three miles and three-quarters, I threw out from the car a quantity of feathers, and found that I still ascended with sufficient rapidity; there was, therefore, no necessity for discharging any ballast. I was glad of this, for I wished to retain with me as much weight as I could carry, for reasons which will be explained in the sequel."
+      },
+      "request_id": "25da85652df066d36fe1fbfb",
+      "request_sha256": "ec888b96053a6a938d88a8eebd4b67e8b1aa1472bf3c2b20a2c224090579d3cb",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e450bb7a06c860a1a364f313b8be917bff860b1050b36e7a4121bcf594e54f2b"
+    }
+  ],
+  "session_id": "01a0e30c-832e-7091-82d9-9a1c50247dd2",
+  "worker_id": "astra_e",
+  "worker_identity_sha256": "fe64415c9c767776a8e298c2de728f21bcc0f3109b7370a076e3e422966eefd2"
+}

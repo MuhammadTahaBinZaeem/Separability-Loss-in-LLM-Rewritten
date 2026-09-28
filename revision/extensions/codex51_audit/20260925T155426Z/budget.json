@@ -1,0 +1,9 @@
+{
+  "attempts": 1,
+  "includes_reasoning": true,
+  "prior_reserved_upper": 4128,
+  "purpose": "focused_automated_methods_audit_not_reviewer_evidence",
+  "this_request_max_output_tokens": 2500,
+  "total_reserved_upper": 6628,
+  "user_output_ceiling_exclusive": 3000000
+}

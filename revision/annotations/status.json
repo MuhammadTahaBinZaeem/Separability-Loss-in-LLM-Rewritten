@@ -1,0 +1,15 @@
+{
+  "complete": false,
+  "forms_sha256": {
+    "A": "3dba656dc6853b3aa4a74298af6775bdc7a0b835a3226181fa9c87a5e4c5d125",
+    "B": "193bf7a01c451f61384c06af59968c38c806084be1ed9fa04a2328424e57d97d"
+  },
+  "items_per_reviewer": 270,
+  "models_in_scope": [
+    "azure_replication"
+  ],
+  "pending_models": [
+    "gem31lite"
+  ],
+  "stage": "awaiting_two_independent_human_reviews"
+}

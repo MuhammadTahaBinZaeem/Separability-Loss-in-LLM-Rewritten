@@ -1,0 +1,34 @@
+{
+  "checked_utc": "2026-09-20T08:59:07.753302+00:00",
+  "primary_experiment": false,
+  "provider": "gemini",
+  "purpose": "connection_and_format_only",
+  "request": {
+    "contents": [
+      {
+        "parts": [
+          {
+            "text": "Return JSON with exactly two strings: request_id=\"connectivity-only\" and rewritten_text=\"The door was open.\""
+          }
+        ],
+        "role": "user"
+      }
+    ],
+    "generationConfig": {
+      "maxOutputTokens": 128,
+      "responseMimeType": "application/json",
+      "temperature": 0.2,
+      "thinkingConfig": {
+        "thinkingBudget": 0
+      }
+    }
+  },
+  "requested_model": "gemini-2.5-flash",
+  "response": {},
+  "status": {
+    "error_code": "404",
+    "http_status": 404,
+    "ok": false,
+    "reasons": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "contrast_rows": 189,
+  "manifest_sha256": "67129e4e1a79cacf91498233883bb884545abf0c6ab35deecb91c7e588a80df6",
+  "matrix_cells": 336,
+  "model_key": "azure_replication",
+  "not_independent_human_review": true,
+  "passed": true,
+  "prediction_rows": 106176,
+  "submission_ready": false,
+  "transforms_refitted": 105,
+  "verified_scope": "hashes_cohorts_views_fold_alignment_transform_refits_scores_and_paired_CIs",
+  "verified_utc": "2026-09-25T21:41:57.334676+00:00",
+  "verifier_sha256": "a05a06f663d770227832207f6aeb17370de96ded8615b5a2576799e10a265529"
+}

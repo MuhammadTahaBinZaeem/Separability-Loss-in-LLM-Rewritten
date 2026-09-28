@@ -1,0 +1,18 @@
+{
+  "batch_id": "nano_20260925",
+  "corpus_sha256": "ce6c6a3687b3545460fa014b348cb2ed6dd49a8283006f866a8b9680dc5ca7ef",
+  "forms_sha256": {
+    "A": "3dba656dc6853b3aa4a74298af6775bdc7a0b835a3226181fa9c87a5e4c5d125",
+    "B": "193bf7a01c451f61384c06af59968c38c806084be1ed9fa04a2328424e57d97d"
+  },
+  "generation_sha256": {
+    "azure_replication": "f065ab44163c1ba65970f97be53a1200f82565f0efeb35b22c0d27409a6fdf7c"
+  },
+  "issued_utc": "2026-09-25T15:48:10.370157+00:00",
+  "items_per_reviewer": 270,
+  "join_key_sha256": "e4f594066aee798a4a10deb6993ea1168c7b63e1df67015015762ea078293e1f",
+  "models_in_scope": [
+    "azure_replication"
+  ],
+  "review_scope_sha256": "935198c0fbb79aa3704fc7ea04775d6ef61f948574dc1476118fdab3989dd79f"
+}

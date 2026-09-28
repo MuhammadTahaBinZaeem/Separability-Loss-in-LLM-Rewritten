@@ -1,0 +1,12 @@
+{
+  "user_authorization": "continue n ys u can use subagents for astra rewrites",
+  "mechanism": "Codex collaboration.spawn_agent",
+  "api_calls": false,
+  "verification_scope": "explicit orchestration model selection; not independent backend attestation",
+  "launches": [
+    {"worker_id": "astra_a", "agent_path": "/root/astra_worker_a", "model": "gpt-6-astra", "reasoning_effort": "xhigh", "fork_turns": "none", "initial_task_limit": 90},
+    {"worker_id": "astra_b", "agent_path": "/root/astra_worker_b", "model": "gpt-6-astra", "reasoning_effort": "xhigh", "fork_turns": "none", "initial_task_limit": 90},
+    {"worker_id": "astra_c", "agent_path": "/root/astra_worker_c", "model": "gpt-6-astra", "reasoning_effort": "xhigh", "fork_turns": "none", "initial_task_limit": 90}
+  ],
+  "worker_instruction_summary": "Read the exact blinded payloads; compose actual rewrites in batches of three; preserve content and requested length; use the exact two-field schema; save original JSONL with apply_patch and ingest through session_workers; no API calls, other models, source-identity/analysis inspection, copied originals, fabricated completion, or reviewer ratings; preserve first outcomes."
+}

@@ -1,0 +1,71 @@
+{
+  "blockers": [
+    "generation_gem31lite",
+    "analysis",
+    "independent_human_reviews",
+    "human_source_review",
+    "verified_semantic_sensitivity",
+    "published_archive"
+  ],
+  "checked_utc": "2026-09-22T17:16:16.116774+00:00",
+  "checks": {
+    "analysis": {
+      "passed": false,
+      "reason": "Both complete-response model analyses and all 18 comparisons are required"
+    },
+    "corpus": {
+      "legacy_audit_rows": 360,
+      "passages": 360,
+      "passed": true,
+      "review_method": "AI-assisted source-boundary audit; not claimed to be independent human review",
+      "works": 18
+    },
+    "environment": {
+      "locked_distributions": 24,
+      "mismatches": [],
+      "passed": true,
+      "python": "3.12.11"
+    },
+    "generation_azure_replication": {
+      "accounted": 1080,
+      "expected": 1080,
+      "failed": 94,
+      "passed": true,
+      "received": 1054,
+      "terminal_http_failures": 26,
+      "warning": 2
+    },
+    "generation_gem31lite": {
+      "accounted": 965,
+      "expected": 1080,
+      "failed": 1,
+      "passed": false,
+      "received": 965,
+      "terminal_http_failures": 0,
+      "warning": 938
+    },
+    "human_source_review": {
+      "passed": false,
+      "reason": "No registered human source review of all 360 passages"
+    },
+    "independent_human_reviews": {
+      "passed": false,
+      "stage": "missing_independent_human_reviews"
+    },
+    "published_archive": {
+      "passed": false,
+      "reason": "No published archival record and checksum evidence yet"
+    },
+    "tests": {
+      "completed_utc": "2026-09-22T17:16:16.021299+00:00",
+      "passed": true
+    },
+    "verified_semantic_sensitivity": {
+      "passed": false
+    }
+  },
+  "computational_work_complete": false,
+  "no_journal_acceptance_guarantee": true,
+  "ready_for_archive": false,
+  "ready_for_writing": false
+}

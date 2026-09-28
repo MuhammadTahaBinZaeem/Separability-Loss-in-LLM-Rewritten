@@ -1,0 +1,14 @@
+{
+  "accounted": 1080,
+  "accounting_complete": true,
+  "expected": 1080,
+  "fail": 94,
+  "missing": 0,
+  "model_key": "luna56",
+  "new_native_responses": 1054,
+  "parsed_sha256": "2297a3fb1a196a34f3482af06d52d3892caf409c65ff57e372300a23c6d82bf9",
+  "request_manifest_sha256": "b9cf57614362c2827d9b7b398df77e1088100e41bd4e8912049e2fb55b483812",
+  "reused_v2_observations": 0,
+  "review_complete": false,
+  "valid_outputs": 986
+}

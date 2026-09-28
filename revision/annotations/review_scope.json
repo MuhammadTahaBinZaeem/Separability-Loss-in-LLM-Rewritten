@@ -1,0 +1,9 @@
+{
+  "batch_id": "nano_20260925",
+  "models": ["azure_replication"],
+  "sampling_rule": "human_audit_v2",
+  "authorization": "User requested that the completed Nano portion be issued for review independently of Gemini on 2026-09-25.",
+  "scope": "Five technically valid outputs per author/work/condition cell from the completed Nano ledger; identical underlying pairs for A and B with separate opaque IDs and random orders.",
+  "later_models": "Issue additional immutable review batches; never append items to or overwrite this batch after issue.",
+  "source_findings": "Four source passages have unresolved correction findings. This batch assesses rewrite fidelity on the frozen v2 corpus and does not clear source integrity or publication readiness."
+}

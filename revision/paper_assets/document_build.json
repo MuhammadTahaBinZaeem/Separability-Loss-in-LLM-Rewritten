@@ -1,0 +1,15 @@
+{
+  "source_sha256": "f191789e1a1523b64b1e7c06070a1c042f654bcb787ebd6afa13b5d73a8a119d",
+  "docx_sha256": "2a5f0674984e3cc01315b6f0ed3687463ec997e6e78072c8bb584ae95770d1b7",
+  "tables": 2,
+  "preset": "narrative_proposal",
+  "header_pattern": "memo_masthead",
+  "named_overrides": [
+    "academic_black_hierarchy",
+    "compact_22pt_title",
+    "9pt_table_text",
+    "no_rules"
+  ],
+  "structural_checks_passed": true,
+  "visual_qa_completed": false
+}

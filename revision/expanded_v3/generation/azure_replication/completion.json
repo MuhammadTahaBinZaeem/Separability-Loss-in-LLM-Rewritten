@@ -1,0 +1,14 @@
+{
+  "accounted": 1080,
+  "accounting_complete": true,
+  "expected": 1080,
+  "fail": 97,
+  "missing": 0,
+  "model_key": "azure_replication",
+  "new_native_responses": 12,
+  "parsed_sha256": "76476f1fbd4ddfc28c6c0556517dd70f17443720227e423c16568fe63c59c530",
+  "request_manifest_sha256": "c5444be7639c56415420a8928321765c0951fba5a598c308ab913fbcb0a499a6",
+  "reused_v2_observations": 1068,
+  "review_complete": false,
+  "valid_outputs": 983
+}

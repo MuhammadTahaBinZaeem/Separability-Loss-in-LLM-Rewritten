@@ -1,0 +1,14 @@
+{
+  "accounted": 1080,
+  "accounting_complete": true,
+  "expected": 1080,
+  "fail": 92,
+  "missing": 0,
+  "model_key": "terra56",
+  "new_native_responses": 1053,
+  "parsed_sha256": "2468792789922ba76d0acbc6ab1b236770430c916c3dca04697252f461acb928",
+  "request_manifest_sha256": "7c363d2a7e65f33165855b3bfb4e1019ff69ca7d361136b8d63f204fd822567b",
+  "reused_v2_observations": 0,
+  "review_complete": false,
+  "valid_outputs": 988
+}

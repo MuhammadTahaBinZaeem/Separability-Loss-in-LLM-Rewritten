@@ -1,0 +1,68 @@
+{
+  "batch_id": "dabde3a8720d5b284ada",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T08:05:40.910157+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "31abd22f5f71ed8cbc89b881",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_poe_murders_rue_morgue_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 31abd22f5f71ed8cbc89b881\noriginal_word_count: 460\n\nPassage:\nDoes not understand the English language, but judges by the intonation.\n\n“_Alberto Montani_, confectioner, deposes that he was among the first to ascend the stairs. Heard the voices in question. The gruff voice was that of a Frenchman. Distinguished several words. The speaker appeared to be expostulating. Could not make out the words of the shrill voice. Spoke quick and unevenly. Thinks it the voice of a Russian. Corroborates the general testimony. Is an Italian. Never conversed with a native of Russia.\n\n“Several witnesses, recalled, here testified that the chimneys of all the rooms on the fourth story were too narrow to admit the passage of a human being. By ‘sweeps’ were meant cylindrical sweeping brushes, such as are employed by those who clean chimneys. These brushes were passed up and down every flue in the house. There is no back passage by which any one could have descended while the party proceeded up stairs. The body of Mademoiselle L’Espanaye was so firmly wedged in the chimney that it could not be got down until four or five of the party united their strength.\n\n“_Paul Dumas_, physician, deposes that he was called to view the bodies about day-break. They were both then lying on the sacking of the bedstead in the chamber where Mademoiselle L. was found. The corpse of the young lady was much bruised and excoriated. The fact that it had been thrust up the chimney would sufficiently account for these appearances. The throat was greatly chafed. There were several deep scratches just below the chin, together with a series of livid spots which were evidently the impression of fingers. The face was fearfully discolored, and the eye-balls protruded. The tongue had been partially bitten through. A large bruise was discovered upon the pit of the stomach, produced, apparently, by the pressure of a knee. In the opinion of M. Dumas, Mademoiselle L’Espanaye had been throttled to death by some person or persons unknown. The corpse of the mother was horribly mutilated. All the bones of the right leg and arm were more or less shattered. The left _tibia_ much splintered, as well as all the ribs of the left side. Whole body dreadfully bruised and discolored. It was not possible to say how the injuries had been inflicted. A heavy club of wood, or a broad bar of iron—a chair—any large, heavy, and obtuse weapon would have produced such results, if wielded by the hands of a very powerful man. No woman could have inflicted the blows with any weapon. The head of the deceased, when seen by witness, was entirely separated from the body, and was also greatly shattered. The throat had evidently been cut with some very sharp instrument—probably with a razor."
+      },
+      "request_id": "31abd22f5f71ed8cbc89b881",
+      "request_sha256": "b5ef5f111243871e7d8fc2ee295ad50356b2211ef36718b2fbbdb744f2c49fb3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1ba2b2c8ec6dd4e7b01f0aacc829532c1ffa914886ca569bd240bf032cc4891e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c2dbc3c9891c699dff091b42",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 523,
+      "passage_id": "V2_twain_huckleberry_finn_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: c2dbc3c9891c699dff091b42\noriginal_word_count: 523\n\nPassage:\nCol. Grangerford was a gentleman, you see. He was a gentleman all over; and so was his family. He was well born, as the saying is, and that’s worth as much in a man as it is in a horse, so the Widow Douglas said, and nobody ever denied that she was of the first aristocracy in our town; and pap he always said it, too, though he warn’t no more quality than a mudcat himself. Col. Grangerford was very tall and very slim, and had a darkish-paly complexion, not a sign of red in it anywheres; he was clean shaved every morning all over his thin face, and he had the thinnest kind of lips, and the thinnest kind of nostrils, and a high nose, and heavy eyebrows, and the blackest kind of eyes, sunk so deep back that they seemed like they was looking out of caverns at you, as you may say. His forehead was high, and his hair was black and straight and hung to his shoulders. His hands was long and thin, and every day of his life he put on a clean shirt and a full suit from head to foot made out of linen so white it hurt your eyes to look at it; and on Sundays he wore a blue tail-coat with brass buttons on it. He carried a mahogany cane with a silver head to it. There warn’t no frivolishness about him, not a bit, and he warn’t ever loud. He was as kind as he could be—you could feel that, you know, and so you had confidence. Sometimes he smiled, and it was good to see; but when he straightened himself up like a liberty-pole, and the lightning begun to flicker out from under his eyebrows, you wanted to climb a tree first, and find out what the matter was afterwards. He didn’t ever have to tell anybody to mind their manners—everybody was always good-mannered where he was. Everybody loved to have him around, too; he was sunshine most always—I mean he made it seem like good weather. When he turned into a cloudbank it was awful dark for half a minute, and that was enough; there wouldn’t nothing go wrong again for a week.\n\nWhen him and the old lady come down in the morning all the family got up out of their chairs and give them good-day, and didn’t set down again till they had set down. Then Tom and Bob went to the sideboard where the decanter was, and mixed a glass of bitters and handed it to him, and he held it in his hand and waited till Tom’s and Bob’s was mixed, and then they bowed and said, “Our duty to you, sir, and madam;” and _they_ bowed the least bit in the world and said thank you, and so they drank, all three, and Bob and Tom poured a spoonful of water on the sugar and the mite of whisky or apple brandy in the bottom of their tumblers, and give it to me and Buck, and we drank to the old people too."
+      },
+      "request_id": "c2dbc3c9891c699dff091b42",
+      "request_sha256": "efe58e65a7d0cc6270b87a840fa4e4d100660e6bccada03e47d21e8a860f8031",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6bc24f1a44a6cb2b029f2da98f6d13b92182bbe7486c14bd6ee472077de7d780"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "626b05a5248407dd6119b19e",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_austen_pride_and_prejudice_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 626b05a5248407dd6119b19e\noriginal_word_count: 454\n\nPassage:\nDuring dinner, Mr. Bennet scarcely spoke at all; but when the servants were withdrawn, he thought it time to have some conversation with his guest, and therefore started a subject in which he expected him to shine, by observing that he seemed very fortunate in his patroness. Lady Catherine de Bourgh’s attention to his wishes, and consideration for his comfort, appeared very remarkable. Mr. Bennet could not have chosen better. Mr. Collins was eloquent in her praise. The subject elevated him to more than usual solemnity of manner; and with a most important aspect he protested that he had never in his life witnessed such behaviour in a person of rank--such affability and condescension, as he had himself experienced from Lady Catherine. She had been graciously pleased to approve of both the discourses which he had already had the honour of preaching before her. She had also asked him twice to dine at Rosings, and had sent for him only the Saturday before, to make up her pool of quadrille in the evening. Lady Catherine was reckoned proud by many people, he knew, but _he_ had never seen anything but affability in her. She had always spoken to him as she would to any other gentleman; she made not the smallest objection to his joining in the society of the neighbourhood, nor to his leaving his parish occasionally for a week or two to visit his relations. She had even condescended to advise him to marry as soon as he could, provided he chose with discretion; and had once paid him a visit in his humble parsonage, where she had perfectly approved all the alterations he had been making, and had even vouchsafed to suggest some herself,--some shelves in the closets upstairs.\n\n“That is all very proper and civil, I am sure,” said Mrs. Bennet, “and I dare say she is a very agreeable woman. It is a pity that great ladies in general are not more like her. Does she live near you, sir?”\n\n“The garden in which stands my humble abode is separated only by a lane from Rosings Park, her Ladyship’s residence.”\n\n“I think you said she was a widow, sir? has she any family?”\n\n“She has one only daughter, the heiress of Rosings, and of very extensive property.”\n\n“Ah,” cried Mrs. Bennet, shaking her head, “then she is better off than many girls. And what sort of young lady is she? Is she handsome?”\n\n“She is a most charming young lady, indeed. Lady Catherine herself says that, in point of true beauty, Miss de Bourgh is far superior to the handsomest of her sex; because there is that in her features which marks the young woman of distinguished birth."
+      },
+      "request_id": "626b05a5248407dd6119b19e",
+      "request_sha256": "c7e2d261fc245638b033259d066103a819278dcd766775ac43879265624e081e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "602167e38793ec45707584ae040d2273fbb2002c9f6531c6c35e01aafc2a75a9"
+    }
+  ],
+  "session_id": "01a0e1dc-db77-7ca2-a44b-20de81379df6",
+  "worker_id": "astra_c",
+  "worker_identity_sha256": "85385f96362fb7155bec4ef09a1c5c0d6a7ab633c57687871b698abad7715535"
+}

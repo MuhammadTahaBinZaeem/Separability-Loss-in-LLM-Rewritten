@@ -1,0 +1,28 @@
+{
+  "active_models": [
+    "gem31lite",
+    "azure_replication",
+    "codex51",
+    "luna56",
+    "terra56",
+    "astra_session"
+  ],
+  "additional_models": {
+    "luna56": {
+      "api": "azure_responses",
+      "endpoint_env": "open_url",
+      "input_usd_per_million": 0.2,
+      "key_env": "open_key",
+      "model": "gpt-5.6-luna",
+      "output_usd_per_million": 1.2,
+      "reasoning_effort": "none"
+    }
+  },
+  "base_plan_sha256": "0de3eff73e707e13a5ccf84b0f29066359ccd9a0bcfb373a4eb10574918a0867",
+  "preserve_retired_requests_and_attempts": true,
+  "reason": "User corrected Sol to Luna after the Sol DeploymentNotFound check and six pilot outputs from Codex/Terra. This is a user scope correction, not selection based on effect estimates.",
+  "recorded_utc": "2026-09-26T10:51:06.986253+00:00",
+  "retired_models": [
+    "sol56"
+  ]
+}

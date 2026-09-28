@@ -1,0 +1,176 @@
+{
+  "analysis_kind": "exploratory_restricted_mapping_held_out_work_validation",
+  "completed_utc": "2026-09-27T08:04:47.499443+00:00",
+  "estimable_panels": [
+    "valid_full",
+    "w200_middle"
+  ],
+  "fits": 108,
+  "held_out_work_prediction_rows": 648,
+  "human_review_complete": false,
+  "inputs": {
+    "requirements-v2.lock": "8396f22f2d90ab5c355f7db0fde3d979e1c242c9e75afcb98bc4da22db4d0701",
+    "research_v2/analysis.py": "a970f901e215d005bd80f108991e6e3e320c34d6e20ff138840cc9972703b99d",
+    "research_v2/corpus.py": "7c95c924a8210b390e044928a9f47e52eaf1188582ab9f694730ec58cc2b2f1a",
+    "research_v2/expanded_analysis.py": "777e2d500ffb569f68923a8cf7a251cb4efe975d8de5ef09f6e2365979a00e00",
+    "research_v2/expanded_generation.py": "18c0962d53bc2ce6d5d22818e526c36b2f00b88c44aa74ac9287fd66e239f4cf",
+    "research_v2/expanded_study.py": "89f4eef0c4fbb86b8a02053d64ab90cfe2cf9a5b556816026d86bc93201cc2f2",
+    "research_v2/features.py": "b71b92f10a8b819529f39e0ef4ebc4312a7db036944e7374e66ae7ae45bcfab7",
+    "research_v2/generation.py": "098a06c2bf732b8ecab51eb20e5e0249f228140ac384a55ec151d805ea948d8a",
+    "research_v2/inference.py": "ea5c3f9c528913ae94cb1b318e2e4f073af5b88e6b647601dbac9d17491891c3",
+    "research_v2/io.py": "87bd1528755cb2c09709cc4de5f120911f3d53ba5ef50a20666a74d84d7b24d2",
+    "research_v2/providers.py": "3fa2cf7888d2797e207899fd92af53122c827135e8ffc405c0e27bbd8dc9ec5e",
+    "research_v2/session_generation.py": "b9975f4184afa21f97a9c3489b222ff5d4cb5dfb1ee88ba3a4fe18b28e72966d",
+    "research_v2/shift_contraction.py": "687bff1cdd09c933f8b06be0d7ea476e9ffe4d4390de9497f52b3b3c24ecbcd6",
+    "research_v2/transfer_extension.py": "2496bf0b78f005d56d165752ea56d1562ef6edbf7d3096fc4cd1b7ff35b69259",
+    "revision/expanded_v3/PROTOCOL.md": "c618117f43dc7d27cf38ffe3a5c41bf4e19f125ff3266924108e1c96ca5667b9",
+    "revision/expanded_v3/corpus/freeze.json": "693ffc158690122a3e1e9923975788d2a27a5f42a84bdca3bcb4a7e682a86c22",
+    "revision/expanded_v3/corpus/lineage.csv": "30ee8dea56000d5d2a30db9600f1dfc3d700217812f3d88fbb0ae7cf554e79a6",
+    "revision/expanded_v3/corpus/originals.csv": "6d29a22c905fc8bedd31e74684fa4e9370b7af768a0d5727ed82df66340844f5",
+    "revision/expanded_v3/extensions/jql_v1/EXPLANATORY_MODEL_PLAN.md": "326c02b5aba4ed5ff361ed5f4a512ec489c06892d2bc86de046c730bcd8a967a",
+    "revision/expanded_v3/extensions/jql_v1/PLAN.md": "9860e15795b8b7375261a4c3f44e95fff416c4868678a4a5b63901e7df182492",
+    "revision/expanded_v3/extensions/jql_v1/gem31lite/manifest.json": "48e34afd6cdd015f6d317ff90421ccce368ca5064a603abe53e290032684fb59",
+    "revision/expanded_v3/generation/gem31lite/assignments.jsonl": "9a887edd440b6c0a63ed91bab061c7576de7e5961ce7d0cee123abd32c08ea8d",
+    "revision/expanded_v3/generation/gem31lite/completion.json": "f97322e99b608b8360ef8156e40e6619f7323fcabef94b850e6341a96978049c",
+    "revision/expanded_v3/generation/gem31lite/outcomes.jsonl": "1b684e9cd08739d0d41785d4c89ef7de5b75c5b73c70d468784b339a6c8f47bd",
+    "revision/expanded_v3/generation/gem31lite/request_manifest.json": "0b55112a948b9bde10295ddbe8db0bf1d2252b0ec053605010626c7d943c670b",
+    "revision/expanded_v3/generation/gem31lite/requests.jsonl": "67ed76a60a44501c52a0c8162c6d3d26dd737c258f22962403c547bc917ab621",
+    "revision/expanded_v3/generation/gem31lite/rewrites.csv": "44602493441462e3529b75aa79a2ddc1906e4db3970270f02fff693b6202d6c5",
+    "revision/expanded_v3/generation_plan.json": "0de3eff73e707e13a5ccf84b0f29066359ccd9a0bcfb373a4eb10574918a0867",
+    "revision/expanded_v3/scope_amendment.json": "d9e54c0d1d9ff1b26910f1524329718186297382c8cbcb33967cce9b76e8a913",
+    "revision/generation/gem31lite/raw_responses.jsonl": "ab6d6505544e9a5155a643f196980cf3c268739b9dd4c6ca88d834d01cf652e2",
+    "revision/generation/gem31lite/request_manifest.json": "ae4674a185d4a125a5e34cae42f6863b579d332121194ffd8120dfa7bfd7cf02",
+    "revision/generation/gem31lite/requests.jsonl": "a549d8c679ddcf946ed5f51923fffc80d5a35dee902e0202b7de440543a0a1c2",
+    "revision/generation/gem31lite/rewrites.csv": "18ca8a59e9c4a03256e27a0bc236eb5d6d1216b62737aa495e8f90cb1b56ff52",
+    "scripts/13_extract_stylometric_features.py": "a6999b04f715bdfdb20d9c56f7dc72525c937513ec24362ae27af668223b6504"
+  },
+  "max_absolute_dispersion_identity_error": 8.326672684688674e-17,
+  "model_key": "gem31lite",
+  "not_estimable_panels": [
+    {
+      "crop_size": 300,
+      "eligible_passages": 70,
+      "location": "middle",
+      "minimum_words": 300,
+      "missing_works": [
+        [
+          "poe",
+          "hans_pfaal"
+        ],
+        [
+          "shelley",
+          "the_last_man"
+        ]
+      ],
+      "panel": "w300_middle",
+      "reason": "entire_author_work_unavailable",
+      "status": "not_estimable",
+      "work_counts": [
+        {
+          "author_id": "austen",
+          "passages": 3,
+          "work_id": "emma"
+        },
+        {
+          "author_id": "austen",
+          "passages": 3,
+          "work_id": "persuasion"
+        },
+        {
+          "author_id": "austen",
+          "passages": 7,
+          "work_id": "pride_and_prejudice"
+        },
+        {
+          "author_id": "dickens",
+          "passages": 3,
+          "work_id": "a_tale_of_two_cities"
+        },
+        {
+          "author_id": "dickens",
+          "passages": 5,
+          "work_id": "great_expectations"
+        },
+        {
+          "author_id": "dickens",
+          "passages": 5,
+          "work_id": "oliver_twist"
+        },
+        {
+          "author_id": "poe",
+          "passages": 0,
+          "work_id": "hans_pfaal"
+        },
+        {
+          "author_id": "poe",
+          "passages": 5,
+          "work_id": "murders_rue_morgue"
+        },
+        {
+          "author_id": "poe",
+          "passages": 3,
+          "work_id": "the_gold_bug"
+        },
+        {
+          "author_id": "shelley",
+          "passages": 8,
+          "work_id": "frankenstein"
+        },
+        {
+          "author_id": "shelley",
+          "passages": 5,
+          "work_id": "mathilda"
+        },
+        {
+          "author_id": "shelley",
+          "passages": 0,
+          "work_id": "the_last_man"
+        },
+        {
+          "author_id": "twain",
+          "passages": 1,
+          "work_id": "connecticut_yankee"
+        },
+        {
+          "author_id": "twain",
+          "passages": 4,
+          "work_id": "huckleberry_finn"
+        },
+        {
+          "author_id": "twain",
+          "passages": 7,
+          "work_id": "tom_sawyer"
+        },
+        {
+          "author_id": "wilde",
+          "passages": 1,
+          "work_id": "canterville_ghost"
+        },
+        {
+          "author_id": "wilde",
+          "passages": 3,
+          "work_id": "dorian_gray"
+        },
+        {
+          "author_id": "wilde",
+          "passages": 7,
+          "work_id": "lord_arthur_saviles_crime"
+        }
+      ]
+    }
+  ],
+  "output_hashes": {
+    "REPORT.md": "e5fe727ef49c062131a8d82557fcf0ff7b3156f06443a65158e342e038257a79",
+    "contrasts.csv": "802b8564b26f957aa726312e36cbc9829b9a39f6c2b3c8bea3f10a7b986ecdc8",
+    "dispersion_components.csv": "71776a2b66d440fdf65d23724ec8537d2b377d1acf5709538365881cad9e23ef",
+    "parameters.jsonl": "0968f2c738ad0f45e089f2ede270a9850e6e3cd9e31a642f54971a5a933d6196",
+    "summary.csv": "b2f4087b6dbbadd0f53bf32ab187bd5b6f0e0a03a9aac896e5f33bbfb200e999",
+    "work_predictions.jsonl": "8095858a05eaf7bad9f01932945732c0595ff92866dbadd25caea88ecbee7fe8"
+  },
+  "planned_panels": [
+    "valid_full",
+    "w200_middle",
+    "w300_middle"
+  ],
+  "submission_ready": false
+}

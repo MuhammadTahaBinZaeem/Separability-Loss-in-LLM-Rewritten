@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "conditions": ["paraphrase", "modernize", "simplify"],
+  "primary_model": "gptoss120",
+  "models": {
+    "gptoss120": {"model": "openai/gpt-oss-120b", "key_env": "GROQ_GPTOSS_API_KEY", "reasoning_effort": "low"},
+    "qwen27": {"model": "qwen/qwen3.6-27b", "key_env": "GROQ_QWEN_API_KEY", "reasoning_format": "hidden"}
+  },
+  "temperature": 0.2,
+  "top_p": 1.0,
+  "max_completion_tokens": 4096,
+  "prompt_version": "v2_opaque_id_fidelity",
+  "response_selection": "first_received_completion_no_quality_reroll"
+}

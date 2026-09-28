@@ -1,0 +1,12 @@
+{
+  "code_fingerprint": "5fac564c63fdad255e547a9430d8a5f803689fbe29c733b23a36b837815ac6bc",
+  "completed_utc": "2026-09-25T21:24:04.746026+00:00",
+  "environment": {
+    "locked_distributions": 24,
+    "mismatches": [],
+    "passed": true,
+    "python": "3.12.11"
+  },
+  "output": "........................................................................ [ 81%]\n................                                                         [100%]\n============================== warnings summary ===============================\ntests/test_transfer_extension.py::test_identity_rewrite_control_cannot_create_an_attribution_gap\ntests/test_transfer_extension.py::test_identity_rewrite_control_cannot_create_an_attribution_gap\n  C:\\Users\\Empty\\Documents\\Paper\\.venv\\Lib\\site-packages\\sklearn\\neighbors\\_nearest_centroid.py:241: UserWarning: self.within_class_std_dev_ has at least 1 zero standard deviation.Inputs within the same classes for at least 1 feature are identical.\n    warnings.warn(\n\n-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html\n88 passed, 2 warnings in 23.29s\n",
+  "passed": true
+}
