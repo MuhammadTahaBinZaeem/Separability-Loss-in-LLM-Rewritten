@@ -1,0 +1,68 @@
+{
+  "batch_id": "a544e86f71d626c025a3",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:47:46.274517+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "10c47492a1765e072750669e",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_poe_the_gold_bug_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 10c47492a1765e072750669e\noriginal_word_count: 461\n\nPassage:\nWhy, we may get up a very thrilling bit of superstition upon this hint. I presume you will call the bug _scarabæus caput hominis_, or something of that kind—there are many similar titles in the Natural Histories. But where are the _antennæ_ you spoke of?”\n\n“The _antennæ!_” said Legrand, who seemed to be getting unaccountably warm upon the subject; “I am sure you must see the _antennæ_. I made them as distinct as they are in the original insect, and I presume that is sufficient.”\n\n“Well, well,” I said, “perhaps you have—still I don’t see them;” and I handed him the paper without additional remark, not wishing to ruffle his temper; but I was much surprised at the turn affairs had taken; his ill humor puzzled me—and, as for the drawing of the beetle, there were positively _no antennæ_ visible, and the whole _did_ bear a very close resemblance to the ordinary cuts of a death’s-head.\n\nHe received the paper very peevishly, and was about to crumple it, apparently to throw it in the fire, when a casual glance at the design seemed suddenly to rivet his attention. In an instant his face grew violently red—in another as excessively pale. For some minutes he continued to scrutinize the drawing minutely where he sat. At length he arose, took a candle from the table, and proceeded to seat himself upon a sea-chest in the farthest corner of the room. Here again he made an anxious examination of the paper; turning it in all directions. He said nothing, however, and his conduct greatly astonished me; yet I thought it prudent not to exacerbate the growing moodiness of his temper by any comment. Presently he took from his coat pocket a wallet, placed the paper carefully in it, and deposited both in a writing-desk, which he locked. He now grew more composed in his demeanor; but his original air of enthusiasm had quite disappeared. Yet he seemed not so much sulky as abstracted. As the evening wore away he became more and more absorbed in reverie, from which no sallies of mine could arouse him. It had been my intention to pass the night at the hut, as I had frequently done before, but, seeing my host in this mood, I deemed it proper to take leave. He did not press me to remain, but, as I departed, he shook my hand with even more than his usual cordiality.\n\nIt was about a month after this (and during the interval I had seen nothing of Legrand) when I received a visit, at Charleston, from his man, Jupiter. I had never seen the good old negro look so dispirited, and I feared that some serious disaster had befallen my friend."
+      },
+      "request_id": "10c47492a1765e072750669e",
+      "request_sha256": "fc00e445e394c7a2e55afb83612d1afd9fb3e5c1d738ff2943ec85c38c31a9b6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "dd5c427afd3d28ba279c26a2f3a4166e3baa67f8f1288dc2ad3a0771b5850cc5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b8a66ae3aa2166bae2263282",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_twain_connecticut_yankee_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: b8a66ae3aa2166bae2263282\noriginal_word_count: 457\n\nPassage:\nSaturday noon I went to the well and looked on a while. Merlin was still burning smoke-powders, and pawing the air, and muttering gibberish as hard as ever, but looking pretty down-hearted, for of course he had not started even a perspiration in that well yet. Finally I said:\n\n“How does the thing promise by this time, partner?”\n\n“Behold, I am even now busied with trial of the powerfulest enchantment known to the princes of the occult arts in the lands of the East; an it fail me, naught can avail. Peace, until I finish.”\n\nHe raised a smoke this time that darkened all the region, and must have made matters uncomfortable for the hermits, for the wind was their way, and it rolled down over their dens in a dense and billowy fog. He poured out volumes of speech to match, and contorted his body and sawed the air with his hands in a most extraordinary way. At the end of twenty minutes he dropped down panting, and about exhausted. Now arrived the abbot and several hundred monks and nuns, and behind them a multitude of pilgrims and a couple of acres of foundlings, all drawn by the prodigious smoke, and all in a grand state of excitement. The abbot inquired anxiously for results. Merlin said:\n\n“If any labor of mortal might break the spell that binds these waters, this which I have but just essayed had done it. It has failed; whereby I do now know that that which I had feared is a truth established; the sign of this failure is, that the most potent spirit known to the magicians of the East, and whose name none may utter and live, has laid his spell upon this well. The mortal does not breathe, nor ever will, who can penetrate the secret of that spell, and without that secret none can break it. The water will flow no more forever, good Father. I have done what man could. Suffer me to go.”\n\nOf course this threw the abbot into a good deal of a consternation. He turned to me with the signs of it in his face, and said:\n\n“Ye have heard him. Is it true?”\n\n“Part of it is.”\n\n“Not all, then, not all! What part is true?”\n\n“That that spirit with the Russian name has put his spell upon the well.”\n\n“God's wounds, then are we ruined!”\n\n“Possibly.”\n\n“But not certainly? Ye mean, not certainly?”\n\n“That is it.”\n\n“Wherefore, ye also mean that when he saith none can break the spell--”\n\n“Yes, when he says that, he says what isn't necessarily true. There are conditions under which an effort to break it may have some chance--that is, some small, some trifling chance--of success.”"
+      },
+      "request_id": "b8a66ae3aa2166bae2263282",
+      "request_sha256": "bc68a06978b2de7a8da728bf8f857b0ed7460cb49e47b113b3f360101e3c1fca",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ad54bda0be32e76b8625005a92102bc08a403d5878015634373dedab521f64b5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f347914d9796d5545edafc96",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_wilde_canterville_ghost_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: f347914d9796d5545edafc96\noriginal_word_count: 459\n\nPassage:\nRight in front of him he saw, in the wan moonlight, an old man of terrible aspect. His eyes were as red burning coals; long grey hair fell over his shoulders in matted coils; his garments, which were of antique cut, were soiled and ragged, and from his wrists and ankles hung heavy manacles and rusty gyves.\n\n‘My dear sir,’ said Mr. Otis, ‘I really must insist on your oiling those chains, and have brought you for that purpose a small bottle of the Tammany Rising Sun Lubricator. It is said to be completely efficacious upon one application, and there are several testimonials to that effect on the wrapper from some of our most eminent native divines. I shall leave it here for you by the bedroom candles, and will be happy to supply you with more should you require it.’ With these words the United States Minister laid the bottle down on a marble table, and, closing his door, retired to rest.\n\nFor a moment the Canterville ghost stood quite motionless in natural indignation; then, dashing the bottle violently upon the polished floor, he fled down the corridor, uttering hollow groans, and emitting a ghastly green light. Just, however, as he reached the top of the great oak staircase, a door was flung open, two little white-robed figures appeared, and a large pillow whizzed past his head! There was evidently no time to be lost, so, hastily adopting the Fourth Dimension of Space as a means of escape, he vanished through the wainscoting, and the house became quite quiet.\n\nOn reaching a small secret chamber in the left wing, he leaned up against a moonbeam to recover his breath, and began to try and realise his position. Never, in a brilliant and uninterrupted career of three hundred years, had he been so grossly insulted. He thought of the Dowager Duchess, whom he had frightened into a fit as she stood before the glass in her lace and diamonds; of the four housemaids, who had gone off into hysterics when he merely grinned at them through the curtains of one of the spare bedrooms; of the rector of the parish, whose candle he had blown out as he was coming late one night from the library, and who had been under the care of Sir William Gull ever since, a perfect martyr to nervous disorders; and of old Madame de Tremouillac, who, having wakened up one morning early and seen a skeleton seated in an arm-chair by the fire reading her diary, had been confined to her bed for six weeks with an attack of brain fever, and, on her recovery, had become reconciled to the Church, and broken off her connection with that notorious sceptic Monsieur de Voltaire."
+      },
+      "request_id": "f347914d9796d5545edafc96",
+      "request_sha256": "5401a45b4a9fdcf2fdfb0e39f73878aaf1fb4ebb10d01b71878ff0ec01d21bf6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "aa3d85ff0fbeaa518087b3ddd477ccab5cad526a85b591664e136ee13a8805d8"
+    }
+  ],
+  "session_id": "01a0e876-83f7-78a1-b9d1-9e5cfb4d9073",
+  "worker_id": "astra_z",
+  "worker_identity_sha256": "3c518323fe65160b33818c8fecefe8b58d18bebfd64f52e04e66f555b7fdddb7"
+}

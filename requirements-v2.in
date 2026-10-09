@@ -1,0 +1,8 @@
+# Minimal direct dependencies for the corrected pipeline; requirements.txt is the hash lock.
+numpy>=2.0,<3
+scipy>=1.13,<2
+scikit-learn>=1.5,<2
+matplotlib>=3.9,<4
+reportlab>=4.2,<5
+pytest>=8,<10
+threadpoolctl>=3.5,<4

@@ -1,0 +1,68 @@
+{
+  "batch_id": "5932be4d9f0927829eca",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:29:49.607337+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7c3f0f22fcdb5842e8f2afb0",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_murders_rue_morgue_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 7c3f0f22fcdb5842e8f2afb0\noriginal_word_count: 455\n\nPassage:\nThe mental features discoursed of as the analytical, are, in themselves, but little susceptible of analysis. We appreciate them only in their effects. We know of them, among other things, that they are always to their possessor, when inordinately possessed, a source of the liveliest enjoyment. As the strong man exults in his physical ability, delighting in such exercises as call his muscles into action, so glories the analyst in that moral activity which _disentangles._ He derives pleasure from even the most trivial occupations bringing his talent into play. He is fond of enigmas, of conundrums, of hieroglyphics; exhibiting in his solutions of each a degree of _acumen_ which appears to the ordinary apprehension præternatural. His results, brought about by the very soul and essence of method, have, in truth, the whole air of intuition.\n\nThe faculty of re-solution is possibly much invigorated by mathematical study, and especially by that highest branch of it which, unjustly, and merely on account of its retrograde operations, has been called, as if _par excellence_, analysis. Yet to calculate is not in itself to analyse. A chess-player, for example, does the one without effort at the other. It follows that the game of chess, in its effects upon mental character, is greatly misunderstood. I am not now writing a treatise, but simply prefacing a somewhat peculiar narrative by observations very much at random; I will, therefore, take occasion to assert that the higher powers of the reflective intellect are more decidedly and more usefully tasked by the unostentatious game of draughts than by all the elaborate frivolity of chess. In this latter, where the pieces have different and _bizarre_ motions, with various and variable values, what is only complex is mistaken (a not unusual error) for what is profound. The _attention_ is here called powerfully into play. If it flag for an instant, an oversight is committed resulting in injury or defeat. The possible moves being not only manifold but involute, the chances of such oversights are multiplied; and in nine cases out of ten it is the more concentrative rather than the more acute player who conquers. In draughts, on the contrary, where the moves are _unique_ and have but little variation, the probabilities of inadvertence are diminished, and the mere attention being left comparatively unemployed, what advantages are obtained by either party are obtained by superior _acumen_. To be less abstract, let us suppose a game of draughts where the pieces are reduced to four kings, and where, of course, no oversight is to be expected. It is obvious that here the victory can be decided (the players being at all equal) only by some _recherché_ movement, the result of some strong exertion of the intellect."
+      },
+      "request_id": "7c3f0f22fcdb5842e8f2afb0",
+      "request_sha256": "9ee0fcb25b04c9240d2d819c5c5e900359cd93fd3cf2ab7fe0fedcbf2d24befe",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "754866f56ae90bae7100c9f18a0f3ea44352431ea5d482a9c5a39d331f1808ad"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "99deb71d0f146005e13c8607",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 469,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 99deb71d0f146005e13c8607\noriginal_word_count: 469\n\nPassage:\nMR. Merton was a good deal distressed at the second postponement of the marriage, and Lady Julia, who had already ordered her dress for the wedding, did all in her power to make Sybil break off the match. Dearly, however, as Sybil loved her mother, she had given her whole life into Lord Arthur’s hands, and nothing that Lady Julia could say could make her waver in her faith. As for Lord Arthur himself, it took him days to get over his terrible disappointment, and for a time his nerves were completely unstrung. His excellent common sense, however, soon asserted itself, and his sound, practical mind did not leave him long in doubt about what to do. Poison having proved a complete failure, dynamite, or some other form of explosive, was obviously the proper thing to try.\n\nHe accordingly looked again over the list of his friends and relatives, and, after careful consideration, determined to blow up his uncle, the Dean of Chichester. The Dean, who was a man of great culture and learning, was extremely fond of clocks, and had a wonderful collection of timepieces, ranging from the fifteenth century to the present day, and it seemed to Lord Arthur that this hobby of the good Dean’s offered him an excellent opportunity for carrying out his scheme. Where to procure an explosive machine was, of course, quite another matter. The London Directory gave him no information on the point, and he felt that there was very little use in going to Scotland Yard about it, as they never seemed to know anything about the movements of the dynamite faction till after an explosion had taken place, and not much even then.\n\nSuddenly he thought of his friend Rouvaloff, a young Russian of very revolutionary tendencies, whom he had met at Lady Windermere’s in the winter. Count Rouvaloff was supposed to be writing a life of Peter the Great, and to have come over to England for the purpose of studying the documents relating to that Tsar’s residence in this country as a ship carpenter; but it was generally suspected that he was a Nihilist agent, and there was no doubt that the Russian Embassy did not look with any favour upon his presence in London. Lord Arthur felt that he was just the man for his purpose, and drove down one morning to his lodgings in Bloomsbury, to ask his advice and assistance.\n\n‘So you are taking up politics seriously?’ said Count Rouvaloff, when Lord Arthur had told him the object of his mission; but Lord Arthur, who hated swagger of any kind, felt bound to admit to him that he had not the slightest interest in social questions, and simply wanted the explosive machine for a purely family matter, in which no one was concerned but himself."
+      },
+      "request_id": "99deb71d0f146005e13c8607",
+      "request_sha256": "bedbddb08ae7bfc841b49c0aabcb0c71a7342209bccd292494e9e4b260a9f182",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "042839af64933edd39563c13a0961135ed7b8cead7a018085516fb4101a0512b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "779eed2ca3c8ed04d0eb5a10",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_austen_emma_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 779eed2ca3c8ed04d0eb5a10\noriginal_word_count: 471\n\nPassage:\nThe looking over his letter again, in replying to it, had such a softening tendency, that it was particularly necessary to brace her up with a few decisive expressions; and she was so very much concerned at the idea of making him unhappy, and thought so much of what his mother and sisters would think and say, and was so anxious that they should not fancy her ungrateful, that Emma believed if the young man had come in her way at that moment, he would have been accepted after all.\n\nThis letter, however, was written, and sealed, and sent. The business was finished, and Harriet safe. She was rather low all the evening, but Emma could allow for her amiable regrets, and sometimes relieved them by speaking of her own affection, sometimes by bringing forward the idea of Mr. Elton.\n\n“I shall never be invited to Abbey-Mill again,” was said in rather a sorrowful tone.\n\n“Nor, if you were, could I ever bear to part with you, my Harriet. You are a great deal too necessary at Hartfield to be spared to Abbey-Mill.”\n\n“And I am sure I should never want to go there; for I am never happy but at Hartfield.”\n\nSome time afterwards it was, “I think Mrs. Goddard would be very much surprized if she knew what had happened. I am sure Miss Nash would—for Miss Nash thinks her own sister very well married, and it is only a linen-draper.”\n\n“One should be sorry to see greater pride or refinement in the teacher of a school, Harriet. I dare say Miss Nash would envy you such an opportunity as this of being married. Even this conquest would appear valuable in her eyes. As to any thing superior for you, I suppose she is quite in the dark. The attentions of a certain person can hardly be among the tittle-tattle of Highbury yet. Hitherto I fancy you and I are the only people to whom his looks and manners have explained themselves.”\n\nHarriet blushed and smiled, and said something about wondering that people should like her so much. The idea of Mr. Elton was certainly cheering; but still, after a time, she was tender-hearted again towards the rejected Mr. Martin.\n\n“Now he has got my letter,” said she softly. “I wonder what they are all doing—whether his sisters know—if he is unhappy, they will be unhappy too. I hope he will not mind it so very much.”\n\n“Let us think of those among our absent friends who are more cheerfully employed,” cried Emma. “At this moment, perhaps, Mr. Elton is shewing your picture to his mother and sisters, telling how much more beautiful is the original, and after being asked for it five or six times, allowing them to hear your name, your own dear name.”"
+      },
+      "request_id": "779eed2ca3c8ed04d0eb5a10",
+      "request_sha256": "d0dcb4c9f2369c2088d026a9df88d8f2e2c79bd853c78eb674ebec63b7366894",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "55dda6c6ddba0a1c05ea60c0a5f495139e86a0264114210f444830de75fb1ba8"
+    }
+  ],
+  "session_id": "01a0e86b-c111-7731-bb8d-a8b1262d4d11",
+  "worker_id": "astra_w",
+  "worker_identity_sha256": "02ab474ea794ee28e12552c40deac11a918257ff5dcb600ea6bea9a7ad47fcb2"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "235a4e6417795aed632f",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:19:56.505780+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e4d0260b20381b135198e62a",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 535,
+      "passage_id": "V2_austen_emma_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: e4d0260b20381b135198e62a\noriginal_word_count: 535\n\nPassage:\n“I wish we had a donkey. The thing would be for us all to come on donkeys, Jane, Miss Bates, and me—and my caro sposo walking by. I really must talk to him about purchasing a donkey. In a country life I conceive it to be a sort of necessary; for, let a woman have ever so many resources, it is not possible for her to be always shut up at home;—and very long walks, you know—in summer there is dust, and in winter there is dirt.”\n\n“You will not find either, between Donwell and Highbury. Donwell Lane is never dusty, and now it is perfectly dry. Come on a donkey, however, if you prefer it. You can borrow Mrs. Cole’s. I would wish every thing to be as much to your taste as possible.”\n\n“That I am sure you would. Indeed I do you justice, my good friend. Under that peculiar sort of dry, blunt manner, I know you have the warmest heart. As I tell Mr. E., you are a thorough humourist.—Yes, believe me, Knightley, I am fully sensible of your attention to me in the whole of this scheme. You have hit upon the very thing to please me.”\n\nMr. Knightley had another reason for avoiding a table in the shade. He wished to persuade Mr. Woodhouse, as well as Emma, to join the party; and he knew that to have any of them sitting down out of doors to eat would inevitably make him ill. Mr. Woodhouse must not, under the specious pretence of a morning drive, and an hour or two spent at Donwell, be tempted away to his misery.\n\nHe was invited on good faith. No lurking horrors were to upbraid him for his easy credulity. He did consent. He had not been at Donwell for two years. “Some very fine morning, he, and Emma, and Harriet, could go very well; and he could sit still with Mrs. Weston, while the dear girls walked about the gardens. He did not suppose they could be damp now, in the middle of the day. He should like to see the old house again exceedingly, and should be very happy to meet Mr. and Mrs. Elton, and any other of his neighbours.—He could not see any objection at all to his, and Emma’s, and Harriet’s going there some very fine morning. He thought it very well done of Mr. Knightley to invite them—very kind and sensible—much cleverer than dining out.—He was not fond of dining out.”\n\nMr. Knightley was fortunate in every body’s most ready concurrence. The invitation was everywhere so well received, that it seemed as if, like Mrs. Elton, they were all taking the scheme as a particular compliment to themselves.—Emma and Harriet professed very high expectations of pleasure from it; and Mr. Weston, unasked, promised to get Frank over to join them, if possible; a proof of approbation and gratitude which could have been dispensed with.—Mr. Knightley was then obliged to say that he should be glad to see him; and Mr. Weston engaged to lose no time in writing, and spare no arguments to induce him to come."
+      },
+      "request_id": "e4d0260b20381b135198e62a",
+      "request_sha256": "63864e104b4544c230e2628481cc3c0e7e5b488ca10c939e17a5de3f8cd7b02a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1f636a151c7ebbcbd31e5a16923933732befbab4486aa1f906363b23674a4444"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6997651af2700498a6fd79d8",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 503,
+      "passage_id": "V2_wilde_canterville_ghost_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 6997651af2700498a6fd79d8\noriginal_word_count: 503\n\nPassage:\nHe selected Friday, the 17th of August, for his appearance, and spent most of that day in looking over his wardrobe, ultimately deciding in favour of a large slouched hat with a red feather, a winding-sheet frilled at the wrists and neck, and a rusty dagger. Towards evening a violent storm of rain came on, and the wind was so high that all the windows and doors in the old house shook and rattled. In fact, it was just such weather as he loved. His plan of action was this. He was to make his way quietly to Washington Otis’s room, gibber at him from the foot of the bed, and stab himself three times in the throat to the sound of slow music. He bore Washington a special grudge, being quite aware that it was he who was in the habit of removing the famous Canterville blood-stain, by means of Pinkerton’s Paragon Detergent. Having reduced the reckless and foolhardy youth to a condition of abject terror, he was then to proceed to the room occupied by the United States Minister and his wife, and there to place a clammy hand on Mrs. Otis’s forehead, while he hissed into her trembling husband’s ear the awful secrets of the charnel-house. With regard to little Virginia, he had not quite made up his mind. She had never insulted him in any way, and was pretty and gentle. A few hollow groans from the wardrobe, he thought, would be more than sufficient, or, if that failed to wake her, he might grabble at the counterpane with palsy-twitching fingers. As for the twins, he was quite determined to teach them a lesson. The first thing to be done was, of course, to sit upon their chests, so as to produce the stifling sensation of nightmare. Then, as their beds were quite close to each other, to stand between them in the form of a green, icy-cold corpse, till they became paralysed with fear, and finally, to throw off the winding-sheet, and crawl round the room, with white bleached bones and one rolling eye-ball, in the character of ‘Dumb Daniel, or the Suicide’s Skeleton,’ a _rôle_ in which he had on more than one occasion produced a great effect, and which he considered quite equal to his famous part of ‘Martin the Maniac, or the Masked Mystery.’\n\nAt half-past ten he heard the family going to bed. For some time he was disturbed by wild shrieks of laughter from the twins, who, with the light-hearted gaiety of schoolboys, were evidently amusing themselves before they retired to rest, but at a quarter past eleven all was still, and, as midnight sounded, he sallied forth. The owl beat against the window panes, the raven croaked from the old yew-tree, and the wind wandered moaning round the house like a lost soul; but the Otis family slept unconscious of their doom, and high above the rain and storm he could hear the steady snoring of the Minister for the United States."
+      },
+      "request_id": "6997651af2700498a6fd79d8",
+      "request_sha256": "11e97b86c52305127f253615f81132c9e726b13acf8e465f1d3211caf375573f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f617543a03f11f592a4ad223a7608622c71b7b9996670f5ae5dcc0475e927612"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "56471e4ce3e9191f9e096e08",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_twain_connecticut_yankee_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 56471e4ce3e9191f9e096e08\noriginal_word_count: 457\n\nPassage:\n“And so I'm proprietor of some knights,” said I, as we rode off. “Who would ever have supposed that I should live to list up assets of that sort. I shan't know what to do with them; unless I raffle them off. How many of them are there, Sandy?”\n\n“Seven, please you, sir, and their squires.”\n\n“It is a good haul. Who are they? Where do they hang out?”\n\n“Where do they hang out?”\n\n“Yes, where do they live?”\n\n“Ah, I understood thee not. That will I tell eftsoons.” Then she said musingly, and softly, turning the words daintily over her tongue: “Hang they out--hang they out--where hang--where do they hang out; eh, right so; where do they hang out. Of a truth the phrase hath a fair and winsome grace, and is prettily worded withal. I will repeat it anon and anon in mine idlesse, whereby I may peradventure learn it. Where do they hang out. Even so! already it falleth trippingly from my tongue, and forasmuch as--”\n\n“Don't forget the cowboys, Sandy.”\n\n“Cowboys?”\n\n“Yes; the knights, you know: You were going to tell me about them. A while back, you remember. Figuratively speaking, game's called.”\n\n“Game--”\n\n“Yes, yes, yes! Go to the bat. I mean, get to work on your statistics, and don't burn so much kindling getting your fire started. Tell me about the knights.”\n\n“I will well, and lightly will begin. So they two departed and rode into a great forest. And--”\n\n“Great Scott!”\n\nYou see, I recognized my mistake at once. I had set her works a-going; it was my own fault; she would be thirty days getting down to those facts. And she generally began without a preface and finished without a result. If you interrupted her she would either go right along without noticing, or answer with a couple of words, and go back and say the sentence over again. So, interruptions only did harm; and yet I had to interrupt, and interrupt pretty frequently, too, in order to save my life; a person would die if he let her monotony drip on him right along all day.\n\n“Great Scott!” I said in my distress. She went right back and began over again:\n\n“So they two departed and rode into a great forest. And--”\n\n“_Which_ two?”\n\n“Sir Gawaine and Sir Uwaine. And so they came to an abbey of monks, and there were well lodged. So on the morn they heard their masses in the abbey, and so they rode forth till they came to a great forest; then was Sir Gawaine ware in a valley by a turret, of twelve fair damsels, and two knights armed on great horses, and the damsels went to and fro by a tree."
+      },
+      "request_id": "56471e4ce3e9191f9e096e08",
+      "request_sha256": "b70c278f215cca7ea9a667ff2168d879af65a4d4d96af62f4b23154498f25152",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1dd9983edde252b77d615c6e96a1b84e23fab6d6342b0bbf2258750551c81445"
+    }
+  ],
+  "session_id": "01a0e861-03f8-7221-8672-8e262e9ebfc7",
+  "worker_id": "astra_t",
+  "worker_identity_sha256": "c223dffc33181152e7b2fea39b5f4b9f77c7ee2ed9647b0e46dbc4f2b2b1711f"
+}

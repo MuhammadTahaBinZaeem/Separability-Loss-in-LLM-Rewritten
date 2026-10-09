@@ -1,0 +1,68 @@
+{
+  "batch_id": "f1b0c0e7d927a80055fd",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:29:13.612562+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "28ffd24b5c0e7688ea4e5997",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_twain_huckleberry_finn_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 28ffd24b5c0e7688ea4e5997\noriginal_word_count: 481\n\nPassage:\nWhen we got back to the raft and he come to count up he found he had collected eighty-seven dollars and seventy-five cents. And then he had fetched away a three-gallon jug of whisky, too, that he found under a wagon when he was starting home through the woods. The king said, take it all around, it laid over any day he’d ever put in in the missionarying line. He said it warn’t no use talking, heathens don’t amount to shucks alongside of pirates to work a camp-meeting with.\n\nThe duke was thinking _he’d_ been doing pretty well till the king come to show up, but after that he didn’t think so so much. He had set up and printed off two little jobs for farmers in that printing-office—horse bills—and took the money, four dollars. And he had got in ten dollars’ worth of advertisements for the paper, which he said he would put in for four dollars if they would pay in advance—so they done it. The price of the paper was two dollars a year, but he took in three subscriptions for half a dollar apiece on condition of them paying him in advance; they were going to pay in cordwood and onions as usual, but he said he had just bought the concern and knocked down the price as low as he could afford it, and was going to run it for cash. He set up a little piece of poetry, which he made, himself, out of his own head—three verses—kind of sweet and saddish—the name of it was, “Yes, crush, cold world, this breaking heart”—and he left that all set up and ready to print in the paper, and didn’t charge nothing for it. Well, he took in nine dollars and a half, and said he’d done a pretty square day’s work for it.\n\nThen he showed us another little job he’d printed and hadn’t charged for, because it was for us. It had a picture of a runaway nigger with a bundle on a stick over his shoulder, and “$200 reward” under it. The reading was all about Jim, and just described him to a dot. It said he run away from St. Jacques’ plantation, forty mile below New Orleans, last winter, and likely went north, and whoever would catch him and send him back he could have the reward and expenses.\n\n“Now,” says the duke, “after to-night we can run in the daytime if we want to. Whenever we see anybody coming we can tie Jim hand and foot with a rope, and lay him in the wigwam and show this handbill and say we captured him up the river, and were too poor to travel on a steamboat, so we got this little raft on credit from our friends and are going down to get the reward."
+      },
+      "request_id": "28ffd24b5c0e7688ea4e5997",
+      "request_sha256": "216f11aee7c012176252a01621bea7e3d1b4bcd0c0d2670a5046b1c8f8e937a1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1eeb337f7f19a220be2c3f6f975f4b7a10c0a03462c7cf7b61c6e3933268c4c3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9d61bab3f899c14255983752",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_wilde_dorian_gray_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 9d61bab3f899c14255983752\noriginal_word_count: 454\n\nPassage:\nThen they passed by lonely brickfields. The fog was lighter here, and he could see the strange, bottle-shaped kilns with their orange, fanlike tongues of fire. A dog barked as they went by, and far away in the darkness some wandering sea-gull screamed. The horse stumbled in a rut, then swerved aside and broke into a gallop.\n\nAfter some time they left the clay road and rattled again over rough-paven streets. Most of the windows were dark, but now and then fantastic shadows were silhouetted against some lamplit blind. He watched them curiously. They moved like monstrous marionettes and made gestures like live things. He hated them. A dull rage was in his heart. As they turned a corner, a woman yelled something at them from an open door, and two men ran after the hansom for about a hundred yards. The driver beat at them with his whip.\n\nIt is said that passion makes one think in a circle. Certainly with hideous iteration the bitten lips of Dorian Gray shaped and reshaped those subtle words that dealt with soul and sense, till he had found in them the full expression, as it were, of his mood, and justified, by intellectual approval, passions that without such justification would still have dominated his temper. From cell to cell of his brain crept the one thought; and the wild desire to live, most terrible of all man’s appetites, quickened into force each trembling nerve and fibre. Ugliness that had once been hateful to him because it made things real, became dear to him now for that very reason. Ugliness was the one reality. The coarse brawl, the loathsome den, the crude violence of disordered life, the very vileness of thief and outcast, were more vivid, in their intense actuality of impression, than all the gracious shapes of art, the dreamy shadows of song. They were what he needed for forgetfulness. In three days he would be free.\n\nSuddenly the man drew up with a jerk at the top of a dark lane. Over the low roofs and jagged chimney-stacks of the houses rose the black masts of ships. Wreaths of white mist clung like ghostly sails to the yards.\n\n“Somewhere about here, sir, ain’t it?” he asked huskily through the trap.\n\nDorian started and peered round. “This will do,” he answered, and having got out hastily and given the driver the extra fare he had promised him, he walked quickly in the direction of the quay. Here and there a lantern gleamed at the stern of some huge merchantman. The light shook and splintered in the puddles. A red glare came from an outward-bound steamer that was coaling. The slimy pavement looked like a wet mackintosh."
+      },
+      "request_id": "9d61bab3f899c14255983752",
+      "request_sha256": "ae82e8feb8d1883c9b8f12ec5e507edaf9ba27a4d491eeddca93d7913178a70d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3ae92dffcf9ab3f05623176e7c6655835597327befcb268819b39125f0f90500"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "759e777366450bedd74a4cc0",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_austen_persuasion_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 759e777366450bedd74a4cc0\noriginal_word_count: 464\n\nPassage:\nAnd Mrs Musgrove took the first opportunity of being alone with Anne, to say, “Oh! Miss Anne, I cannot help wishing Mrs Charles had a little of your method with those children. They are quite different creatures with you! But to be sure, in general they are so spoilt! It is a pity you cannot put your sister in the way of managing them. They are as fine healthy children as ever were seen, poor little dears! without partiality; but Mrs Charles knows no more how they should be treated—! Bless me! how troublesome they are sometimes. I assure you, Miss Anne, it prevents my wishing to see them at our house so often as I otherwise should. I believe Mrs Charles is not quite pleased with my not inviting them oftener; but you know it is very bad to have children with one that one is obligated to be checking every moment; “don’t do this,” and “don’t do that;” or that one can only keep in tolerable order by more cake than is good for them.”\n\nShe had this communication, moreover, from Mary. “Mrs Musgrove thinks all her servants so steady, that it would be high treason to call it in question; but I am sure, without exaggeration, that her upper house-maid and laundry-maid, instead of being in their business, are gadding about the village, all day long. I meet them wherever I go; and I declare, I never go twice into my nursery without seeing something of them. If Jemima were not the trustiest, steadiest creature in the world, it would be enough to spoil her; for she tells me, they are always tempting her to take a walk with them.” And on Mrs Musgrove’s side, it was, “I make a rule of never interfering in any of my daughter-in-law’s concerns, for I know it would not do; but I shall tell _you_, Miss Anne, because you may be able to set things to rights, that I have no very good opinion of Mrs Charles’s nursery-maid: I hear strange stories of her; she is always upon the gad; and from my own knowledge, I can declare, she is such a fine-dressing lady, that she is enough to ruin any servants she comes near. Mrs Charles quite swears by her, I know; but I just give you this hint, that you may be upon the watch; because, if you see anything amiss, you need not be afraid of mentioning it.”\n\nAgain, it was Mary’s complaint, that Mrs Musgrove was very apt not to give her the precedence that was her due, when they dined at the Great House with other families; and she did not see any reason why she was to be considered so much at home as to lose her place."
+      },
+      "request_id": "759e777366450bedd74a4cc0",
+      "request_sha256": "31ffa6a8aacffaf83b38f9c6a6ddc683f1074e5ac2be010f88b4a57955695ae8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c552395e7d711915b1381af933e13f38591da346a95594d5182f8ddd362d4668"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

@@ -1,0 +1,7 @@
+model_key,label,requests,valid,warning,failed
+gem31lite,Gemini 3.1 Flash Lite,1080,1079,1050,1
+azure_replication,GPT-5.4 Nano,1080,983,2,97
+codex51,GPT-5.1 Codex,1080,1002,210,78
+luna56,GPT-5.6 Luna,1080,986,35,94
+terra56,GPT-5.6 Terra,1080,988,8,92
+astra_session,Codex session (Astra label),1080,1080,95,0

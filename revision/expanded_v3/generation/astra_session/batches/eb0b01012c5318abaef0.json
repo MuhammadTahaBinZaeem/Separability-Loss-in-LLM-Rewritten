@@ -1,0 +1,68 @@
+{
+  "batch_id": "eb0b01012c5318abaef0",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:17:56.115987+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "854738262b258f28496298e1",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 492,
+      "passage_id": "V2_shelley_mathilda_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 854738262b258f28496298e1\noriginal_word_count: 492\n\nPassage:\nIt is only four o’clock; but it is winter and the sun has already set: there are no clouds in the clear, frosty sky to reflect its slant beams, but the air itself is tinged with a slight roseate colour which is again reflected on the snow that covers the ground. I live in a lone cottage on a solitary, wide heath: no voice of life reaches me. I see the desolate plain covered with white, save a few black patches that the noonday sun has made at the top of those sharp pointed hillocks from which the snow, sliding as it fell, lay thinner than on the plain ground: a few birds are pecking at the hard ice that covers the pools--for the frost has been of long continuance.\n\nI am in a strange state of mind. I am alone--quite alone--in the world--the blight of misfortune has passed over me and withered me; I know that I am about to die and I feel happy--joyous.--I feel my pulse; it beats fast: I place my thin hand on my cheek; it burns: there is a slight, quick spirit within me which is now emitting its last sparks. I shall never see the snows of another winter--I do believe that I shall never again feel the vivifying warmth of another summer sun; and it is in this persuasion that I begin to write my tragic history. Perhaps a history such as mine had better die with me, but a feeling that I cannot define leads me on and I am too weak both in body and mind to resist the slightest impulse. While life was strong within me I thought indeed that there was a sacred horror in my tale that rendered it unfit for utterance, and now about to die I pollute its mystic terrors. It is as the wood of the Eumenides none but the dying may enter; and Oedipus is about to die.\n\nWhat am I writing?--I must collect my thoughts. I do not know that any will peruse these pages except you, my friend, who will receive them at my death. I do not address them to you alone because it will give me pleasure to dwell upon our friendship in a way that would be needless if you alone read what I shall write. I shall relate my tale therefore as if I wrote for strangers. You have often asked me the cause of my solitary life; my tears; and above all of my impenetrable and unkind silence. In life I dared not; in death I unveil the mystery. Others will toss these pages lightly over: to you, Woodville, kind, affectionate friend, they will be dear--the precious memorials of a heart-broken girl who, dying, is still warmed by gratitude towards you: your tears will fall on the words that record my misfortunes; I know they will--and while I have life I thank you for your sympathy."
+      },
+      "request_id": "854738262b258f28496298e1",
+      "request_sha256": "f2cf1a542339c2db225f48e8cd5bd7956a9207e37b41b903c942b8acc2c90a79",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "aee8aea64474ba0e3023aa2d108a8c09dada7b7b2f08bf46ab63f236d6d825ab"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "339bfe6ab3e0e4b65e4deb24",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_austen_emma_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 339bfe6ab3e0e4b65e4deb24\noriginal_word_count: 471\n\nPassage:\nThe looking over his letter again, in replying to it, had such a softening tendency, that it was particularly necessary to brace her up with a few decisive expressions; and she was so very much concerned at the idea of making him unhappy, and thought so much of what his mother and sisters would think and say, and was so anxious that they should not fancy her ungrateful, that Emma believed if the young man had come in her way at that moment, he would have been accepted after all.\n\nThis letter, however, was written, and sealed, and sent. The business was finished, and Harriet safe. She was rather low all the evening, but Emma could allow for her amiable regrets, and sometimes relieved them by speaking of her own affection, sometimes by bringing forward the idea of Mr. Elton.\n\n“I shall never be invited to Abbey-Mill again,” was said in rather a sorrowful tone.\n\n“Nor, if you were, could I ever bear to part with you, my Harriet. You are a great deal too necessary at Hartfield to be spared to Abbey-Mill.”\n\n“And I am sure I should never want to go there; for I am never happy but at Hartfield.”\n\nSome time afterwards it was, “I think Mrs. Goddard would be very much surprized if she knew what had happened. I am sure Miss Nash would—for Miss Nash thinks her own sister very well married, and it is only a linen-draper.”\n\n“One should be sorry to see greater pride or refinement in the teacher of a school, Harriet. I dare say Miss Nash would envy you such an opportunity as this of being married. Even this conquest would appear valuable in her eyes. As to any thing superior for you, I suppose she is quite in the dark. The attentions of a certain person can hardly be among the tittle-tattle of Highbury yet. Hitherto I fancy you and I are the only people to whom his looks and manners have explained themselves.”\n\nHarriet blushed and smiled, and said something about wondering that people should like her so much. The idea of Mr. Elton was certainly cheering; but still, after a time, she was tender-hearted again towards the rejected Mr. Martin.\n\n“Now he has got my letter,” said she softly. “I wonder what they are all doing—whether his sisters know—if he is unhappy, they will be unhappy too. I hope he will not mind it so very much.”\n\n“Let us think of those among our absent friends who are more cheerfully employed,” cried Emma. “At this moment, perhaps, Mr. Elton is shewing your picture to his mother and sisters, telling how much more beautiful is the original, and after being asked for it five or six times, allowing them to hear your name, your own dear name.”"
+      },
+      "request_id": "339bfe6ab3e0e4b65e4deb24",
+      "request_sha256": "11ed95886c31b7995806e923d83b4e416ee560cb3d9245703dce1b0dc2a9d085",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "55dda6c6ddba0a1c05ea60c0a5f495139e86a0264114210f444830de75fb1ba8"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "541f60f5d0e56f80287b7483",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 541f60f5d0e56f80287b7483\noriginal_word_count: 459\n\nPassage:\n“Do you play?”\n\n“I think, sir,” said the spy, in the meanest manner, as he turned to Mr. Lorry, “I may appeal to a gentleman of your years and benevolence, to put it to this other gentleman, so much your junior, whether he can under any circumstances reconcile it to his station to play that Ace of which he has spoken. I admit that _I_ am a spy, and that it is considered a discreditable station--though it must be filled by somebody; but this gentleman is no spy, and why should he so demean himself as to make himself one?”\n\n“I play my Ace, Mr. Barsad,” said Carton, taking the answer on himself, and looking at his watch, “without any scruple, in a very few minutes.”\n\n“I should have hoped, gentlemen both,” said the spy, always striving to hook Mr. Lorry into the discussion, “that your respect for my sister--”\n\n“I could not better testify my respect for your sister than by finally relieving her of her brother,” said Sydney Carton.\n\n“You think not, sir?”\n\n“I have thoroughly made up my mind about it.”\n\nThe smooth manner of the spy, curiously in dissonance with his ostentatiously rough dress, and probably with his usual demeanour, received such a check from the inscrutability of Carton,--who was a mystery to wiser and honester men than he,--that it faltered here and failed him. While he was at a loss, Carton said, resuming his former air of contemplating cards:\n\n“And indeed, now I think again, I have a strong impression that I have another good card here, not yet enumerated. That friend and fellow-Sheep, who spoke of himself as pasturing in the country prisons; who was he?”\n\n“French. You don’t know him,” said the spy, quickly.\n\n“French, eh?” repeated Carton, musing, and not appearing to notice him at all, though he echoed his word. “Well; he may be.”\n\n“Is, I assure you,” said the spy; “though it’s not important.”\n\n“Though it’s not important,” repeated Carton, in the same mechanical way--“though it’s not important--No, it’s not important. No. Yet I know the face.”\n\n“I think not. I am sure not. It can’t be,” said the spy.\n\n“It-can’t-be,” muttered Sydney Carton, retrospectively, and idling his glass (which fortunately was a small one) again. “Can’t-be. Spoke good French. Yet like a foreigner, I thought?”\n\n“Provincial,” said the spy.\n\n“No. Foreign!” cried Carton, striking his open hand on the table, as a light broke clearly on his mind. “Cly! Disguised, but the same man. We had that man before us at the Old Bailey.”\n\n“Now, there you are hasty, sir,” said Barsad, with a smile that gave his aquiline nose an extra inclination to one side; “there you really give me an advantage over you."
+      },
+      "request_id": "541f60f5d0e56f80287b7483",
+      "request_sha256": "7f701216cda77c0b84a5cc3e26a8b2c57d7d879f30609b3529370af8a49e6690",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "282134fd40a4b3fde11f345a89702c76f3e9ea52eec69b6fca4c696561535eb6"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "b96ad6ad12ef4744b81c",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:21:55.288734+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "59e660bfc4345544da506f4b",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V3_twain_connecticut_yankee_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 59e660bfc4345544da506f4b\noriginal_word_count: 458\n\nPassage:\nBut for me, he never would have got out. Morgan le Fay hated him with her whole heart, and she never would have softened toward him. And yet his crime was committed more in thoughtlessness than deliberate depravity. He had said she had red hair. Well, she had; but that was no way to speak of it. When red-headed people are above a certain social grade their hair is auburn.\n\nConsider it: among these forty-seven captives there were five whose names, offenses, and dates of incarceration were no longer known! One woman and four men--all bent, and wrinkled, and mind-extinguished patriarchs. They themselves had long ago forgotten these details; at any rate they had mere vague theories about them, nothing definite and nothing that they repeated twice in the same way. The succession of priests whose office it had been to pray daily with the captives and remind them that God had put them there, for some wise purpose or other, and teach them that patience, humbleness, and submission to oppression was what He loved to see in parties of a subordinate rank, had traditions about these poor old human ruins, but nothing more. These traditions went but little way, for they concerned the length of the incarceration only, and not the names of the offenses. And even by the help of tradition the only thing that could be proven was that none of the five had seen daylight for thirty-five years: how much longer this privation has lasted was not guessable. The king and the queen knew nothing about these poor creatures, except that they were heirlooms, assets inherited, along with the throne, from the former firm. Nothing of their history had been transmitted with their persons, and so the inheriting owners had considered them of no value, and had felt no interest in them. I said to the queen:\n\n“Then why in the world didn't you set them free?”\n\nThe question was a puzzler. She didn't know _why_ she hadn't, the thing had never come up in her mind. So here she was, forecasting the veritable history of future prisoners of the Castle d'If, without knowing it. It seemed plain to me now, that with her training, those inherited prisoners were merely property--nothing more, nothing less. Well, when we inherit property, it does not occur to us to throw it away, even when we do not value it.\n\nWhen I brought my procession of human bats up into the open world and the glare of the afternoon sun--previously blindfolding them, in charity for eyes so long untortured by light--they were a spectacle to look at. Skeletons, scarecrows, goblins, pathetic frights, every one; legitimatest possible children of Monarchy by the Grace of God and the Established Church."
+      },
+      "request_id": "59e660bfc4345544da506f4b",
+      "request_sha256": "dcafe22962bf739612f2c31c2c3973e2afb2a7eefce5426c16ff26820f19bede",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1011df7bfc547c94bc04d793d11351599b381f057afbf4214f4f904caa7f636f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "01861688e09f032959aa319b",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 474,
+      "passage_id": "V2_twain_connecticut_yankee_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 01861688e09f032959aa319b\noriginal_word_count: 474\n\nPassage:\nDear me, she was a master talker. It would not become me to suggest that it was pretty late and that I was a tired man and very sleepy. I wished I had gone off to bed when I had the chance. Now I must stick it out; there was no other way. So she tinkled along and along, in the otherwise profound and ghostly hush of the sleeping castle, until by and by there came, as if from deep down under us, a far-away sound, as of a muffled shriek --with an expression of agony about it that made my flesh crawl. The queen stopped, and her eyes lighted with pleasure; she tilted her graceful head as a bird does when it listens. The sound bored its way up through the stillness again.\n\n“What is it?” I said.\n\n“It is truly a stubborn soul, and endureth long. It is many hours now.”\n\n“Endureth what?”\n\n“The rack. Come--ye shall see a blithe sight. An he yield not his secret now, ye shall see him torn asunder.”\n\nWhat a silky smooth hellion she was; and so composed and serene, when the cords all down my legs were hurting in sympathy with that man's pain. Conducted by mailed guards bearing flaring torches, we tramped along echoing corridors, and down stone stairways dank and dripping, and smelling of mould and ages of imprisoned night --a chill, uncanny journey and a long one, and not made the shorter or the cheerier by the sorceress's talk, which was about this sufferer and his crime. He had been accused by an anonymous informer, of having killed a stag in the royal preserves. I said:\n\n“Anonymous testimony isn't just the right thing, your Highness. It were fairer to confront the accused with the accuser.”\n\n“I had not thought of that, it being but of small consequence. But an I would, I could not, for that the accuser came masked by night, and told the forester, and straightway got him hence again, and so the forester knoweth him not.”\n\n“Then is this Unknown the only person who saw the stag killed?”\n\n“Marry, _no_ man _saw_ the killing, but this Unknown saw this hardy wretch near to the spot where the stag lay, and came with right loyal zeal and betrayed him to the forester.”\n\n“So the Unknown was near the dead stag, too? Isn't it just possible that he did the killing himself? His loyal zeal--in a mask--looks just a shade suspicious. But what is your highness's idea for racking the prisoner? Where is the profit?”\n\n“He will not confess, else; and then were his soul lost. For his crime his life is forfeited by the law--and of a surety will I see that he payeth it!--but it were peril to my own soul to let him die unconfessed and unabsolved."
+      },
+      "request_id": "01861688e09f032959aa319b",
+      "request_sha256": "12df2a775dff74c151b1666c91b1c25a5034d9d01e0bb58cca5f435d52435745",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2c8134c130e8f16749b357e80f807ba58b56f9ed200774ed78760eea0da44ba6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0ffc7795d25746dbaba9ede3",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_dickens_great_expectations_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 0ffc7795d25746dbaba9ede3\noriginal_word_count: 472\n\nPassage:\nBut how could I, a poor dazed village lad, avoid that wonderful inconsistency into which the best and wisest of men fall every day?\n\n“It may be all quite true,” said I to Biddy, “but I admire her dreadfully.”\n\nIn short, I turned over on my face when I came to that, and got a good grasp on the hair on each side of my head, and wrenched it well. All the while knowing the madness of my heart to be so very mad and misplaced, that I was quite conscious it would have served my face right, if I had lifted it up by my hair, and knocked it against the pebbles as a punishment for belonging to such an idiot.\n\nBiddy was the wisest of girls, and she tried to reason no more with me. She put her hand, which was a comfortable hand though roughened by work, upon my hands, one after another, and gently took them out of my hair. Then she softly patted my shoulder in a soothing way, while with my face upon my sleeve I cried a little,—exactly as I had done in the brewery yard,—and felt vaguely convinced that I was very much ill-used by somebody, or by everybody; I can’t say which.\n\n“I am glad of one thing,” said Biddy, “and that is, that you have felt you could give me your confidence, Pip. And I am glad of another thing, and that is, that of course you know you may depend upon my keeping it and always so far deserving it. If your first teacher (dear! such a poor one, and so much in need of being taught herself!) had been your teacher at the present time, she thinks she knows what lesson she would set. But it would be a hard one to learn, and you have got beyond her, and it’s of no use now.” So, with a quiet sigh for me, Biddy rose from the bank, and said, with a fresh and pleasant change of voice, “Shall we walk a little farther, or go home?”\n\n“Biddy,” I cried, getting up, putting my arm round her neck, and giving her a kiss, “I shall always tell you everything.”\n\n“Till you’re a gentleman,” said Biddy.\n\n“You know I never shall be, so that’s always. Not that I have any occasion to tell you anything, for you know everything I know,—as I told you at home the other night.”\n\n“Ah!” said Biddy, quite in a whisper, as she looked away at the ships. And then repeated, with her former pleasant change, “shall we walk a little farther, or go home?”\n\nI said to Biddy we would walk a little farther, and we did so, and the summer afternoon toned down into the summer evening, and it was very beautiful."
+      },
+      "request_id": "0ffc7795d25746dbaba9ede3",
+      "request_sha256": "5042879cefebe427d00d1a6d8e9908cb3134b373f60f4cdeb60b3062cf70e60c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1b62f24c599f92ac74d3cf1db6c338acf84db0d3bc9b65fbed00c54532723173"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

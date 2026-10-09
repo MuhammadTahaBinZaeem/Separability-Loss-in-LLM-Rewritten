@@ -1,0 +1,68 @@
+{
+  "batch_id": "bddc5e88ae30ebb887d9",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T07:56:29.237717+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3260ce29c5fe13d122ecfce7",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_wilde_dorian_gray_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 3260ce29c5fe13d122ecfce7\noriginal_word_count: 464\n\nPassage:\nIt is an odd thing, but every one who disappears is said to be seen at San Francisco. It must be a delightful city, and possess all the attractions of the next world.”\n\n“What do you think has happened to Basil?” asked Dorian, holding up his Burgundy against the light and wondering how it was that he could discuss the matter so calmly.\n\n“I have not the slightest idea. If Basil chooses to hide himself, it is no business of mine. If he is dead, I don’t want to think about him. Death is the only thing that ever terrifies me. I hate it.”\n\n“Why?” said the younger man wearily.\n\n“Because,” said Lord Henry, passing beneath his nostrils the gilt trellis of an open vinaigrette box, “one can survive everything nowadays except that. Death and vulgarity are the only two facts in the nineteenth century that one cannot explain away. Let us have our coffee in the music-room, Dorian. You must play Chopin to me. The man with whom my wife ran away played Chopin exquisitely. Poor Victoria! I was very fond of her. The house is rather lonely without her. Of course, married life is merely a habit, a bad habit. But then one regrets the loss even of one’s worst habits. Perhaps one regrets them the most. They are such an essential part of one’s personality.”\n\nDorian said nothing, but rose from the table, and passing into the next room, sat down to the piano and let his fingers stray across the white and black ivory of the keys. After the coffee had been brought in, he stopped, and looking over at Lord Henry, said, “Harry, did it ever occur to you that Basil was murdered?”\n\nLord Henry yawned. “Basil was very popular, and always wore a Waterbury watch. Why should he have been murdered? He was not clever enough to have enemies. Of course, he had a wonderful genius for painting. But a man can paint like Velasquez and yet be as dull as possible. Basil was really rather dull. He only interested me once, and that was when he told me, years ago, that he had a wild adoration for you and that you were the dominant motive of his art.”\n\n“I was very fond of Basil,” said Dorian with a note of sadness in his voice. “But don’t people say that he was murdered?”\n\n“Oh, some of the papers do. It does not seem to me to be at all probable. I know there are dreadful places in Paris, but Basil was not the sort of man to have gone to them. He had no curiosity. It was his chief defect.”\n\n“What would you say, Harry, if I told you that I had murdered Basil?” said the younger man."
+      },
+      "request_id": "3260ce29c5fe13d122ecfce7",
+      "request_sha256": "849dc6f98a586e5b927bd243b57cf7f446296d34d7a1654ab83eec590824d53f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1c7bd5c22ce27dc8b7479414202730a7e3d68308be8e77e033e7193fb97fe87f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "351a89fc7bc9f6246a3541e7",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 478,
+      "passage_id": "V3_austen_pride_and_prejudice_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 351a89fc7bc9f6246a3541e7\noriginal_word_count: 478\n\nPassage:\nBut I wonder how long you _would_ have gone on, if you had been left to yourself. I wonder when you _would_ have spoken if I had not asked you! My resolution of thanking you for your kindness to Lydia had certainly great effect. _Too much_, I am afraid; for what becomes of the moral, if our comfort springs from a breach of promise, for I ought not to have mentioned the subject? This will never do.”\n\n“You need not distress yourself. The moral will be perfectly fair. Lady Catherine’s unjustifiable endeavours to separate us were the means of removing all my doubts. I am not indebted for my present happiness to your eager desire of expressing your gratitude. I was not in a humour to wait for an opening of yours. My aunt’s intelligence had given me hope, and I was determined at once to know everything.”\n\n“Lady Catherine has been of infinite use, which ought to make her happy, for she loves to be of use. But tell me, what did you come down to Netherfield for? Was it merely to ride to Longbourn and be embarrassed? or had you intended any more serious consequences?”\n\n“My real purpose was to see _you_, and to judge, if I could, whether I might ever hope to make you love me. My avowed one, or what I avowed to myself, was to see whether your sister was still partial to Bingley, and if she were, to make the confession to him which I have since made.”\n\n“Shall you ever have courage to announce to Lady Catherine what is to befall her?”\n\n“I am more likely to want time than courage, Elizabeth. But it ought to be done; and if you will give me a sheet of paper it shall be done directly.”\n\n“And if I had not a letter to write myself, I might sit by you, and admire the evenness of your writing, as another young lady once did. But I have an aunt, too, who must not be longer neglected.”\n\nFrom an unwillingness to confess how much her intimacy with Mr. Darcy had been overrated, Elizabeth had never yet answered Mrs. Gardiner’s long letter; but now, having _that_ to communicate which she knew would be most welcome, she was almost ashamed to find that her uncle and aunt had already lost three days of happiness, and immediately wrote as follows:--\n\n“I would have thanked you before, my dear aunt, as I ought to have done, for your long, kind, satisfactory detail of particulars; but, to say the truth, I was too cross to write. You supposed more than really existed. But _now_ suppose as much as you choose; give a loose to your fancy, indulge your imagination in every possible flight which the subject will afford, and unless you believe me actually married, you cannot greatly err."
+      },
+      "request_id": "351a89fc7bc9f6246a3541e7",
+      "request_sha256": "4bdf01c2a168288e87ef7c9ebff3d25aef9069abf7f6db454dc96c1346148fe3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "615fb123270ccf5d3b686df79dd64997d05eb83a381fb2d883dbac0099525e99"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2a15f13377ef494637c89965",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 495,
+      "passage_id": "V2_twain_huckleberry_finn_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 2a15f13377ef494637c89965\noriginal_word_count: 495\n\nPassage:\n“Git up! What you ’bout?”\n\nI opened my eyes and looked around, trying to make out where I was. It was after sun-up, and I had been sound asleep. Pap was standing over me looking sour and sick, too. He says:\n\n“What you doin’ with this gun?”\n\nI judged he didn’t know nothing about what he had been doing, so I says:\n\n“Somebody tried to get in, so I was laying for him.”\n\n“Why didn’t you roust me out?”\n\n“Well, I tried to, but I couldn’t; I couldn’t budge you.”\n\n“Well, all right. Don’t stand there palavering all day, but out with you and see if there’s a fish on the lines for breakfast. I’ll be along in a minute.”\n\nHe unlocked the door, and I cleared out up the river-bank. I noticed some pieces of limbs and such things floating down, and a sprinkling of bark; so I knowed the river had begun to rise. I reckoned I would have great times now if I was over at the town. The June rise used to be always luck for me; because as soon as that rise begins here comes cordwood floating down, and pieces of log rafts—sometimes a dozen logs together; so all you have to do is to catch them and sell them to the wood-yards and the sawmill.\n\nI went along up the bank with one eye out for pap and t’other one out for what the rise might fetch along. Well, all at once here comes a canoe; just a beauty, too, about thirteen or fourteen foot long, riding high like a duck. I shot head-first off of the bank like a frog, clothes and all on, and struck out for the canoe. I just expected there’d be somebody laying down in it, because people often done that to fool folks, and when a chap had pulled a skiff out most to it they’d raise up and laugh at him. But it warn’t so this time. It was a drift-canoe sure enough, and I clumb in and paddled her ashore. Thinks I, the old man will be glad when he sees this—she’s worth ten dollars. But when I got to shore pap wasn’t in sight yet, and as I was running her into a little creek like a gully, all hung over with vines and willows, I struck another idea: I judged I’d hide her good, and then, ’stead of taking to the woods when I run off, I’d go down the river about fifty mile and camp in one place for good, and not have such a rough time tramping on foot.\n\nIt was pretty close to the shanty, and I thought I heard the old man coming all the time; but I got her hid; and then I out and looked around a bunch of willows, and there was the old man down the path a piece just drawing a bead on a bird with his gun."
+      },
+      "request_id": "2a15f13377ef494637c89965",
+      "request_sha256": "7e03c986ba784b139f59138fed4409dcd9ee54c7a163b3395ed12706a0c8d030",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f0a6241f4841b903b18de6991053dd6905c92e9eae6e4391b5af79c3bdf501c5"
+    }
+  ],
+  "session_id": "01a0e1dc-5c35-7b31-a9b6-a38e1d6af01b",
+  "worker_id": "astra_a",
+  "worker_identity_sha256": "1dbcb4b943cd599b768ad84fa4e0ccc355a69f663720cc130c5d030c1b9e8505"
+}

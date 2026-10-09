@@ -1,0 +1,68 @@
+{
+  "batch_id": "2a99504707fba8639cc8",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:59:36.515318+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "12c03bca2f1a7889983f91c9",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 504,
+      "passage_id": "V2_twain_huckleberry_finn_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 12c03bca2f1a7889983f91c9\noriginal_word_count: 504\n\nPassage:\nYou don’t know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain’t no matter. That book was made by Mr. Mark Twain, and he told the truth, mainly. There was things which he stretched, but mainly he told the truth. That is nothing. I never seen anybody but lied one time or another, without it was Aunt Polly, or the widow, or maybe Mary. Aunt Polly—Tom’s Aunt Polly, she is—and Mary, and the Widow Douglas is all told about in that book, which is mostly a true book, with some stretchers, as I said before.\n\nNow the way that the book winds up is this: Tom and me found the money that the robbers hid in the cave, and it made us rich. We got six thousand dollars apiece—all gold. It was an awful sight of money when it was piled up. Well, Judge Thatcher he took it and put it out at interest, and it fetched us a dollar a day apiece all the year round—more than a body could tell what to do with. The Widow Douglas she took me for her son, and allowed she would sivilize me; but it was rough living in the house all the time, considering how dismal regular and decent the widow was in all her ways; and so when I couldn’t stand it no longer I lit out. I got into my old rags and my sugar-hogshead again, and was free and satisfied. But Tom Sawyer he hunted me up and said he was going to start a band of robbers, and I might join if I would go back to the widow and be respectable. So I went back.\n\nThe widow she cried over me, and called me a poor lost lamb, and she called me a lot of other names, too, but she never meant no harm by it. She put me in them new clothes again, and I couldn’t do nothing but sweat and sweat, and feel all cramped up. Well, then, the old thing commenced again. The widow rung a bell for supper, and you had to come to time. When you got to the table you couldn’t go right to eating, but you had to wait for the widow to tuck down her head and grumble a little over the victuals, though there warn’t really anything the matter with them,—that is, nothing only everything was cooked by itself. In a barrel of odds and ends it is different; things get mixed up, and the juice kind of swaps around, and the things go better.\n\nAfter supper she got out her book and learned me about Moses and the Bulrushers, and I was in a sweat to find out all about him; but by-and-by she let it out that Moses had been dead a considerable long time; so then I didn’t care no more about him, because I don’t take no stock in dead people."
+      },
+      "request_id": "12c03bca2f1a7889983f91c9",
+      "request_sha256": "d0e69bc074895b5216e6741e06a318f15171d84c8795b61f43b634905c039b92",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9a6aa155126ae0abcfd63ede272b573334420d76679f7109e7503fbade0b2f29"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2e43c9adab6feee732134ece",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_dickens_oliver_twist_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2e43c9adab6feee732134ece\noriginal_word_count: 473\n\nPassage:\nHer situation was, indeed, one of no common trial and difficulty. While she felt the most eager and burning desire to penetrate the mystery in which Oliver’s history was enveloped, she could not but hold sacred the confidence which the miserable woman with whom she had just conversed, had reposed in her, as a young and guileless girl. Her words and manner had touched Rose Maylie’s heart; and, mingled with her love for her young charge, and scarcely less intense in its truth and fervour, was her fond wish to win the outcast back to repentance and hope.\n\nThey purposed remaining in London only three days, prior to departing for some weeks to a distant part of the coast. It was now midnight of the first day. What course of action could she determine upon, which could be adopted in eight-and-forty hours? Or how could she postpone the journey without exciting suspicion?\n\nMr. Losberne was with them, and would be for the next two days; but Rose was too well acquainted with the excellent gentleman’s impetuosity, and foresaw too clearly the wrath with which, in the first explosion of his indignation, he would regard the instrument of Oliver’s recapture, to trust him with the secret, when her representations in the girl’s behalf could be seconded by no experienced person. These were all reasons for the greatest caution and most circumspect behaviour in communicating it to Mrs. Maylie, whose first impulse would infallibly be to hold a conference with the worthy doctor on the subject. As to resorting to any legal adviser, even if she had known how to do so, it was scarcely to be thought of, for the same reason. Once the thought occurred to her of seeking assistance from Harry; but this awakened the recollection of their last parting, and it seemed unworthy of her to call him back, when—the tears rose to her eyes as she pursued this train of reflection—he might have by this time learnt to forget her, and to be happier away.\n\nDisturbed by these different reflections; inclining now to one course and then to another, and again recoiling from all, as each successive consideration presented itself to her mind; Rose passed a sleepless and anxious night. After more communing with herself next day, she arrived at the desperate conclusion of consulting Harry.\n\n“If it be painful to him,” she thought, “to come back here, how painful it will be to me! But perhaps he will not come; he may write, or he may come himself, and studiously abstain from meeting me—he did when he went away. I hardly thought he would; but it was better for us both.” And here Rose dropped the pen, and turned away, as though the very paper which was to be her messenger should not see her weep."
+      },
+      "request_id": "2e43c9adab6feee732134ece",
+      "request_sha256": "d6e32739307b7d440cbe026e4a2befce0ee7ccac1f85a9770f983473cadab29f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1569e29994ff99a07f251fa8ef7b41152a6f51777152ff0b1e4747757da0d847"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7205b58489d12d577543a395",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_austen_persuasion_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 7205b58489d12d577543a395\noriginal_word_count: 454\n\nPassage:\nThe party was divided and disposed of on two contiguous benches: Anne was among those on the foremost, and Mr Elliot had manœuvred so well, with the assistance of his friend Colonel Wallis, as to have a seat by her. Miss Elliot, surrounded by her cousins, and the principal object of Colonel Wallis’s gallantry, was quite contented.\n\nAnne’s mind was in a most favourable state for the entertainment of the evening; it was just occupation enough: she had feelings for the tender, spirits for the gay, attention for the scientific, and patience for the wearisome; and had never liked a concert better, at least during the first act. Towards the close of it, in the interval succeeding an Italian song, she explained the words of the song to Mr Elliot. They had a concert bill between them.\n\n“This,” said she, “is nearly the sense, or rather the meaning of the words, for certainly the sense of an Italian love-song must not be talked of, but it is as nearly the meaning as I can give; for I do not pretend to understand the language. I am a very poor Italian scholar.”\n\n“Yes, yes, I see you are. I see you know nothing of the matter. You have only knowledge enough of the language to translate at sight these inverted, transposed, curtailed Italian lines, into clear, comprehensible, elegant English. You need not say anything more of your ignorance. Here is complete proof.”\n\n“I will not oppose such kind politeness; but I should be sorry to be examined by a real proficient.”\n\n“I have not had the pleasure of visiting in Camden Place so long,” replied he, “without knowing something of Miss Anne Elliot; and I do regard her as one who is too modest for the world in general to be aware of half her accomplishments, and too highly accomplished for modesty to be natural in any other woman.”\n\n“For shame! for shame! this is too much flattery. I forget what we are to have next,” turning to the bill.\n\n“Perhaps,” said Mr Elliot, speaking low, “I have had a longer acquaintance with your character than you are aware of.”\n\n“Indeed! How so? You can have been acquainted with it only since I came to Bath, excepting as you might hear me previously spoken of in my own family.”\n\n“I knew you by report long before you came to Bath. I had heard you described by those who knew you intimately. I have been acquainted with you by character many years. Your person, your disposition, accomplishments, manner; they were all present to me.”\n\nMr Elliot was not disappointed in the interest he hoped to raise. No one can withstand the charm of such a mystery."
+      },
+      "request_id": "7205b58489d12d577543a395",
+      "request_sha256": "03c572f80540f10419e8d06f72b4d262638a08c1766e61624750db5bb553ff77",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "19530b3c03e9ee49ce60d8e96b078f300cf541d48bf7d5e529ead7723efa8f6c"
+    }
+  ],
+  "session_id": "01a0e847-b893-7c52-8311-f3acf99043e1",
+  "worker_id": "astra_l",
+  "worker_identity_sha256": "2c5da61879bebe3353fa66cda11e4cbc6ce4420d78f567ebeb859dde68cb1df4"
+}

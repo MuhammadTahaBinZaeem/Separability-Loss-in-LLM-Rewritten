@@ -1,0 +1,68 @@
+{
+  "batch_id": "cd50f208ce058425ec28",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:16:47.142144+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ea44382709f575b2a8289f56",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_austen_emma_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: ea44382709f575b2a8289f56\noriginal_word_count: 471\n\nPassage:\nThe looking over his letter again, in replying to it, had such a softening tendency, that it was particularly necessary to brace her up with a few decisive expressions; and she was so very much concerned at the idea of making him unhappy, and thought so much of what his mother and sisters would think and say, and was so anxious that they should not fancy her ungrateful, that Emma believed if the young man had come in her way at that moment, he would have been accepted after all.\n\nThis letter, however, was written, and sealed, and sent. The business was finished, and Harriet safe. She was rather low all the evening, but Emma could allow for her amiable regrets, and sometimes relieved them by speaking of her own affection, sometimes by bringing forward the idea of Mr. Elton.\n\n“I shall never be invited to Abbey-Mill again,” was said in rather a sorrowful tone.\n\n“Nor, if you were, could I ever bear to part with you, my Harriet. You are a great deal too necessary at Hartfield to be spared to Abbey-Mill.”\n\n“And I am sure I should never want to go there; for I am never happy but at Hartfield.”\n\nSome time afterwards it was, “I think Mrs. Goddard would be very much surprized if she knew what had happened. I am sure Miss Nash would—for Miss Nash thinks her own sister very well married, and it is only a linen-draper.”\n\n“One should be sorry to see greater pride or refinement in the teacher of a school, Harriet. I dare say Miss Nash would envy you such an opportunity as this of being married. Even this conquest would appear valuable in her eyes. As to any thing superior for you, I suppose she is quite in the dark. The attentions of a certain person can hardly be among the tittle-tattle of Highbury yet. Hitherto I fancy you and I are the only people to whom his looks and manners have explained themselves.”\n\nHarriet blushed and smiled, and said something about wondering that people should like her so much. The idea of Mr. Elton was certainly cheering; but still, after a time, she was tender-hearted again towards the rejected Mr. Martin.\n\n“Now he has got my letter,” said she softly. “I wonder what they are all doing—whether his sisters know—if he is unhappy, they will be unhappy too. I hope he will not mind it so very much.”\n\n“Let us think of those among our absent friends who are more cheerfully employed,” cried Emma. “At this moment, perhaps, Mr. Elton is shewing your picture to his mother and sisters, telling how much more beautiful is the original, and after being asked for it five or six times, allowing them to hear your name, your own dear name.”"
+      },
+      "request_id": "ea44382709f575b2a8289f56",
+      "request_sha256": "a7300504ac4b433efc546811101cff51571282c9bd25112d3df0350eface9ed1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "55dda6c6ddba0a1c05ea60c0a5f495139e86a0264114210f444830de75fb1ba8"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1ed2ad67c51ab1e2b9b918ee",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_twain_connecticut_yankee_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 1ed2ad67c51ab1e2b9b918ee\noriginal_word_count: 473\n\nPassage:\nIf I can't live on that, I sha'n't ask anybody to give me a lift. Is it satisfactory?”\n\nThere was a prodigious roar of applause, and out of the midst of it the king's voice rose, saying:\n\n“Away with his bonds, and set him free! and do him homage, high and low, rich and poor, for he is become the king's right hand, is clothed with power and authority, and his seat is upon the highest step of the throne! Now sweep away this creeping night, and bring the light and cheer again, that all the world may bless thee.”\n\nBut I said:\n\n“That a common man should be shamed before the world, is nothing; but it were dishonor to the _king_ if any that saw his minister naked should not also see him delivered from his shame. If I might ask that my clothes be brought again--”\n\n“They are not meet,” the king broke in. “Fetch raiment of another sort; clothe him like a prince!”\n\nMy idea worked. I wanted to keep things as they were till the eclipse was total, otherwise they would be trying again to get me to dismiss the darkness, and of course I couldn't do it. Sending for the clothes gained some delay, but not enough. So I had to make another excuse. I said it would be but natural if the king should change his mind and repent to some extent of what he had done under excitement; therefore I would let the darkness grow a while, and if at the end of a reasonable time the king had kept his mind the same, the darkness should be dismissed. Neither the king nor anybody else was satisfied with that arrangement, but I had to stick to my point.\n\nIt grew darker and darker and blacker and blacker, while I struggled with those awkward sixth-century clothes. It got to be pitch dark, at last, and the multitude groaned with horror to feel the cold uncanny night breezes fan through the place and see the stars come out and twinkle in the sky. At last the eclipse was total, and I was very glad of it, but everybody else was in misery; which was quite natural. I said:\n\n“The king, by his silence, still stands to the terms.” Then I lifted up my hands--stood just so a moment--then I said, with the most awful solemnity: “Let the enchantment dissolve and pass harmless away!”\n\nThere was no response, for a moment, in that deep darkness and that graveyard hush. But when the silver rim of the sun pushed itself out, a moment or two later, the assemblage broke loose with a vast shout and came pouring down like a deluge to smother me with blessings and gratitude; and Clarence was not the last of the wash, to be sure."
+      },
+      "request_id": "1ed2ad67c51ab1e2b9b918ee",
+      "request_sha256": "7671a72c8ccc9b298342ded0e6b5f4ab581f2532a3b4e5bf2be98be76b30b768",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bf3eecb87b6b3608e5d2105d20a75b5e73247ee832cf7a7a92f78291d0b9212c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "40d42cc9a8c25f3b04450d71",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_pride_and_prejudice_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 40d42cc9a8c25f3b04450d71\noriginal_word_count: 461\n\nPassage:\nMr. Darcy spoke with affectionate praise of his sister’s proficiency.\n\n“I am very glad to hear such a good account of her,” said Lady Catherine; “and pray tell her from me, that she cannot expect to excel, if she does not practise a great deal.”\n\n“I assure you, madam,” he replied, “that she does not need such advice. She practises very constantly.”\n\n“So much the better. It cannot be done too much; and when I next write to her, I shall charge her not to neglect it on any account. I often tell young ladies, that no excellence in music is to be acquired without constant practice. I have told Miss Bennet several times, that she will never play really well, unless she practises more; and though Mrs. Collins has no instrument, she is very welcome, as I have often told her, to come to Rosings every day, and play on the pianoforte in Mrs. Jenkinson’s room. She would be in nobody’s way, you know, in that part of the house.”\n\nMr. Darcy looked a little ashamed of his aunt’s ill-breeding, and made no answer.\n\nWhen coffee was over, Colonel Fitzwilliam reminded Elizabeth of having promised to play to him; and she sat down directly to the instrument. He drew a chair near her. Lady Catherine listened to half a song, and then talked, as before, to her other nephew; till the latter walked away from her, and moving with his usual deliberation towards the pianoforte, stationed himself so as to command a full view of the fair performer’s countenance. Elizabeth saw what he was doing, and at the first convenient pause turned to him with an arch smile, and said,--\n\n“You mean to frighten me, Mr. Darcy, by coming in all this state to hear me. But I will not be alarmed, though your sister _does_ play so well. There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises with every attempt to intimidate me.”\n\n“I shall not say that you are mistaken,” he replied, “because you could not really believe me to entertain any design of alarming you; and I have had the pleasure of your acquaintance long enough to know, that you find great enjoyment in occasionally professing opinions which, in fact, are not your own.”\n\nElizabeth laughed heartily at this picture of herself, and said to Colonel Fitzwilliam, “Your cousin will give you a very pretty notion of me, and teach you not to believe a word I say. I am particularly unlucky in meeting with a person so well able to expose my real character, in a part of the world where I had hoped to pass myself off with some degree of credit."
+      },
+      "request_id": "40d42cc9a8c25f3b04450d71",
+      "request_sha256": "dbdcbee2353c65cfcefd5a7df6afaef1d95bb60bd46bfd9b5c473f27914bae5b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "db4fdd6a4cf6ea261ef803b5aaf5520d07c4335888e421a75984808603298212"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

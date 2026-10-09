@@ -1,0 +1,68 @@
+{
+  "batch_id": "c5a14b27bc591ea7d67a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:38:57.185392+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0b4a30a2b105959e8529b8e0",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_pride_and_prejudice_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 0b4a30a2b105959e8529b8e0\noriginal_word_count: 461\n\nPassage:\nYou must learn some of my philosophy. Think only of the past as its remembrance gives you pleasure.”\n\n“I cannot give you credit for any philosophy of the kind. _Your_ retrospections must be so totally void of reproach, that the contentment arising from them is not of philosophy, but, what is much better, of ignorance. But with _me_, it is not so. Painful recollections will intrude, which cannot, which ought not to be repelled. I have been a selfish being all my life, in practice, though not in principle. As a child I was taught what was _right_, but I was not taught to correct my temper. I was given good principles, but left to follow them in pride and conceit. Unfortunately an only son (for many years an only _child_), I was spoiled by my parents, who, though good themselves, (my father particularly, all that was benevolent and amiable,) allowed, encouraged, almost taught me to be selfish and overbearing, to care for none beyond my own family circle, to think meanly of all the rest of the world, to _wish_ at least to think meanly of their sense and worth compared with my own. Such I was, from eight to eight-and-twenty; and such I might still have been but for you, dearest, loveliest Elizabeth! What do I not owe you! You taught me a lesson, hard indeed at first, but most advantageous. By you, I was properly humbled. I came to you without a doubt of my reception. You showed me how insufficient were all my pretensions to please a woman worthy of being pleased.”\n\n“Had you then persuaded yourself that I should?”\n\n“Indeed I had. What will you think of my vanity? I believed you to be wishing, expecting my addresses.”\n\n“My manners must have been in fault, but not intentionally, I assure you. I never meant to deceive you, but my spirits might often lead me wrong. How you must have hated me after _that_ evening!”\n\n“Hate you! I was angry, perhaps, at first, but my anger soon began to take a proper direction.”\n\n“I am almost afraid of asking what you thought of me when we met at Pemberley. You blamed me for coming?”\n\n“No, indeed, I felt nothing but surprise.”\n\n“Your surprise could not be greater than _mine_ in being noticed by you. My conscience told me that I deserved no extraordinary politeness, and I confess that I did not expect to receive _more_ than my due.”\n\n“My object _then_,” replied Darcy, “was to show you, by every civility in my power, that I was not so mean as to resent the past; and I hoped to obtain your forgiveness, to lessen your ill opinion, by letting you see that your reproofs had been attended to."
+      },
+      "request_id": "0b4a30a2b105959e8529b8e0",
+      "request_sha256": "27bc7cfbff57e88c610a40e1e35a9431997cca8156d555edb4d644f1c1955b0c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5364fafdaff5c5bd8bf9e5108fb829c2d719a1f8934a72f8d1fb1db1db3a90a7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "745d2b30962a0c00e7bcf226",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 478,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 745d2b30962a0c00e7bcf226\noriginal_word_count: 478\n\nPassage:\nI am very ignorant, and it troubles me--just a little.”\n\n“Tell me what it is.”\n\n“I have a cousin, an only relative and an orphan, like myself, whom I love very dearly. She is five years younger than I, and she lives in a farmer’s house in the south country. Poverty parted us, and she knows nothing of my fate--for I cannot write--and if I could, how should I tell her! It is better as it is.”\n\n“Yes, yes: better as it is.”\n\n“What I have been thinking as we came along, and what I am still thinking now, as I look into your kind strong face which gives me so much support, is this:--If the Republic really does good to the poor, and they come to be less hungry, and in all ways to suffer less, she may live a long time: she may even live to be old.”\n\n“What then, my gentle sister?”\n\n“Do you think:” the uncomplaining eyes in which there is so much endurance, fill with tears, and the lips part a little more and tremble: “that it will seem long to me, while I wait for her in the better land where I trust both you and I will be mercifully sheltered?”\n\n“It cannot be, my child; there is no Time there, and no trouble there.”\n\n“You comfort me so much! I am so ignorant. Am I to kiss you now? Is the moment come?”\n\n“Yes.”\n\nShe kisses his lips; he kisses hers; they solemnly bless each other. The spare hand does not tremble as he releases it; nothing worse than a sweet, bright constancy is in the patient face. She goes next before him--is gone; the knitting-women count Twenty-Two.\n\n“I am the Resurrection and the Life, saith the Lord: he that believeth in me, though he were dead, yet shall he live: and whosoever liveth and believeth in me shall never die.”\n\nThe murmuring of many voices, the upturning of many faces, the pressing on of many footsteps in the outskirts of the crowd, so that it swells forward in a mass, like one great heave of water, all flashes away. Twenty-Three.\n\n*****\n\nThey said of him, about the city that night, that it was the peacefullest man’s face ever beheld there. Many added that he looked sublime and prophetic.\n\nOne of the most remarkable sufferers by the same axe--a woman--had asked at the foot of the same scaffold, not long before, to be allowed to write down the thoughts that were inspiring her. If he had given any utterance to his, and they were prophetic, they would have been these:\n\n“I see Barsad, and Cly, Defarge, The Vengeance, the Juryman, the Judge, long ranks of the new oppressors who have risen on the destruction of the old, perishing by this retributive instrument, before it shall cease out of its present use."
+      },
+      "request_id": "745d2b30962a0c00e7bcf226",
+      "request_sha256": "d2e86f1ee7d3be79d20b13b4585bd79157353e6510b727ab0a8af4ab76f537d3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "954376e1cca18d8a87f0e5ec097fb5d4df300362ffd3b40268da6303b2a12ffc"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1a079c22f41fafb7bd479650",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_mathilda_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 1a079c22f41fafb7bd479650\noriginal_word_count: 466\n\nPassage:\nThe chain of necessity ever bringing misery must have been broken and the malignant fate that presides over it would not permit this breach of her eternal laws. But why should I repine at this? Misery was my element, and nothing but what was miserable could approach me; if Woodville had been happy I should never have known him. And can I who for many years was fed by tears, and nourished under the dew of grief, can I pause to relate a tale of woe and death?\n\nWoodville was obliged to make a journey into the country and was detained from day to day in irksome absence from his lovely bride. He received a letter from her to say that she was slightly ill, but telling him to hasten to her, that from his eyes she would receive health and that his company would be her surest medecine. He was detained three days longer and then he hastened to her. His heart, he knew not why prognosticated misfortune; he had not heard from her again; he feared she might be worse and this fear made him impatient and restless for the moment of beholding her once more stand before him arrayed in health and beauty; for a sinister voice seemed always to whisper to him, “You will never more behold her as she was.”\n\nWhen he arrived at her habitation all was silent in it: he made his way through several rooms; in one he saw a servant weeping bitterly: he was faint with fear and could hardly ask, “Is she dead?” and just listened to the dreadful answer, “Not yet.” These astounding words came on him as of less fearful import than those which he had expected; and to learn that she was still in being, and that he might still hope was an alleviation to him. He remembered the words of her letter and he indulged the wild idea that his kisses breathing warm love and life would infuse new spirit into her, and that with him near her she could not die; that his presence was the talisman of her life.\n\nHe hastened to her sick room; she lay, her cheeks burning with fever, yet her eyes were closed and she was seemingly senseless. He wrapt her in his arms; he imprinted breathless kisses on her burning lips; he called to her in a voice of subdued anguish by the tenderest names; “Return Elinor; I am with you; your life, your love. Return; dearest one, you promised me this boon, that I should bring you health. Let your sweet spirit revive; you cannot die near me: What is death? To see you no more? To part with what is a part of myself; without whom I have no memory and no futurity?"
+      },
+      "request_id": "1a079c22f41fafb7bd479650",
+      "request_sha256": "46205de3cf5b5a417912b75cbdd6fd0313a4f1ff738734f6923e5b5ce97b5594",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5a866f9c151eb7238b1bc53d488566b4e13f19a31731f8c0b3d398cd6fd6db06"
+    }
+  ],
+  "session_id": "01a0e83d-4966-70c1-8c6a-f47c6ab2c73c",
+  "worker_id": "astra_j",
+  "worker_identity_sha256": "379c8d043a28d24c0180a7e1508526a74253a4abdfccf2558222841452c29a32"
+}

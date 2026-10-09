@@ -1,0 +1,68 @@
+{
+  "batch_id": "89cf566bc20c27e795de",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:57:56.505439+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3e5738eedeb2b27090bf2f03",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 469,
+      "passage_id": "V2_shelley_frankenstein_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 3e5738eedeb2b27090bf2f03\noriginal_word_count: 469\n\nPassage:\n“I now hasten to the more moving part of my story. I shall relate events that impressed me with feelings which, from what I had been, have made me what I am.\n\n“Spring advanced rapidly; the weather became fine and the skies cloudless. It surprised me that what before was desert and gloomy should now bloom with the most beautiful flowers and verdure. My senses were gratified and refreshed by a thousand scents of delight and a thousand sights of beauty.\n\n“It was on one of these days, when my cottagers periodically rested from labour—the old man played on his guitar, and the children listened to him—that I observed the countenance of Felix was melancholy beyond expression; he sighed frequently, and once his father paused in his music, and I conjectured by his manner that he inquired the cause of his son’s sorrow. Felix replied in a cheerful accent, and the old man was recommencing his music when someone tapped at the door.\n\n“It was a lady on horseback, accompanied by a country-man as a guide. The lady was dressed in a dark suit and covered with a thick black veil. Agatha asked a question, to which the stranger only replied by pronouncing, in a sweet accent, the name of Felix. Her voice was musical but unlike that of either of my friends. On hearing this word, Felix came up hastily to the lady, who, when she saw him, threw up her veil, and I beheld a countenance of angelic beauty and expression. Her hair of a shining raven black, and curiously braided; her eyes were dark, but gentle, although animated; her features of a regular proportion, and her complexion wondrously fair, each cheek tinged with a lovely pink.\n\n“Felix seemed ravished with delight when he saw her, every trait of sorrow vanished from his face, and it instantly expressed a degree of ecstatic joy, of which I could hardly have believed it capable; his eyes sparkled, as his cheek flushed with pleasure; and at that moment I thought him as beautiful as the stranger. She appeared affected by different feelings; wiping a few tears from her lovely eyes, she held out her hand to Felix, who kissed it rapturously and called her, as well as I could distinguish, his sweet Arabian. She did not appear to understand him, but smiled. He assisted her to dismount, and dismissing her guide, conducted her into the cottage. Some conversation took place between him and his father, and the young stranger knelt at the old man’s feet and would have kissed his hand, but he raised her and embraced her affectionately.\n\n“I soon perceived that although the stranger uttered articulate sounds and appeared to have a language of her own, she was neither understood by nor herself understood the cottagers."
+      },
+      "request_id": "3e5738eedeb2b27090bf2f03",
+      "request_sha256": "affe315fa555b8c9bf69b1b66a5135aa608b22fb72b6a9294f34f3c66f622b88",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "58deb4cbcac77c708041a2714960328477f1d07ed88c431ce1b0941a9036e68c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0d6ecfe01c171b1857c76110",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_dickens_oliver_twist_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 0d6ecfe01c171b1857c76110\noriginal_word_count: 470\n\nPassage:\n“Listen then! You!” returned Monks. “His father being taken ill at Rome, was joined by his wife, my mother, from whom he had been long separated, who went from Paris and took me with her—to look after his property, for what I know, for she had no great affection for him, nor he for her. He knew nothing of us, for his senses were gone, and he slumbered on till next day, when he died. Among the papers in his desk, were two, dated on the night his illness first came on, directed to yourself”; he addressed himself to Mr. Brownlow; “and enclosed in a few short lines to you, with an intimation on the cover of the package that it was not to be forwarded till after he was dead. One of these papers was a letter to this girl Agnes; the other a will.”\n\n“What of the letter?” asked Mr. Brownlow.\n\n“The letter?—A sheet of paper crossed and crossed again, with a penitent confession, and prayers to God to help her. He had palmed a tale on the girl that some secret mystery—to be explained one day—prevented his marrying her just then; and so she had gone on, trusting patiently to him, until she trusted too far, and lost what none could ever give her back. She was, at that time, within a few months of her confinement. He told her all he had meant to do, to hide her shame, if he had lived, and prayed her, if he died, not to curse his memory, or think the consequences of their sin would be visited on her or their young child; for all the guilt was his. He reminded her of the day he had given her the little locket and the ring with her christian name engraved upon it, and a blank left for that which he hoped one day to have bestowed upon her—prayed her yet to keep it, and wear it next her heart, as she had done before—and then ran on, wildly, in the same words, over and over again, as if he had gone distracted. I believe he had.”\n\n“The will,” said Mr. Brownlow, as Oliver’s tears fell fast.\n\nMonks was silent.\n\n“The will,” said Mr. Brownlow, speaking for him, “was in the same spirit as the letter. He talked of miseries which his wife had brought upon him; of the rebellious disposition, vice, malice, and premature bad passions of you his only son, who had been trained to hate him; and left you, and your mother, each an annuity of eight hundred pounds. The bulk of his property he divided into two equal portions—one for Agnes Fleming, and the other for their child, if it should be born alive, and ever come of age."
+      },
+      "request_id": "0d6ecfe01c171b1857c76110",
+      "request_sha256": "1fd09d535ffa3204ebd25b74ea4916dc67927f10041937435d607411bc3e5cb3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4865e35f00f7b2d53ffde6ed53c94e141959eef731791aa26b8057368c4c99b7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "28121a2211c1cd3eaa18a844",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_twain_huckleberry_finn_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 28121a2211c1cd3eaa18a844\noriginal_word_count: 452\n\nPassage:\n“Shucks, Tom,” I says, “I think you might tell a person. What’s a bar sinister?”\n\n“Oh, _I_ don’t know. But he’s got to have it. All the nobility does.”\n\nThat was just his way. If it didn’t suit him to explain a thing to you, he wouldn’t do it. You might pump at him a week, it wouldn’t make no difference.\n\nHe’d got all that coat of arms business fixed, so now he started in to finish up the rest of that part of the work, which was to plan out a mournful inscription—said Jim got to have one, like they all done. He made up a lot, and wrote them out on a paper, and read them off, so:\n\n1. _Here a captive heart busted._\n\n2. _Here a poor prisoner, forsook by the world and friends, fretted out his sorrowful life._\n\n3. _Here a lonely heart broke, and a worn spirit went to its rest, after thirty-seven years of solitary captivity._\n\n4. _Here, homeless and friendless, after thirty-seven years of bitter captivity, perished a noble stranger, natural son of Louis XIV._\n\nTom’s voice trembled whilst he was reading them, and he most broke down. When he got done he couldn’t no way make up his mind which one for Jim to scrabble on to the wall, they was all so good; but at last he allowed he would let him scrabble them all on. Jim said it would take him a year to scrabble such a lot of truck on to the logs with a nail, and he didn’t know how to make letters, besides; but Tom said he would block them out for him, and then he wouldn’t have nothing to do but just follow the lines. Then pretty soon he says:\n\n“Come to think, the logs ain’t a-going to do; they don’t have log walls in a dungeon: we got to dig the inscriptions into a rock. We’ll fetch a rock.”\n\nJim said the rock was worse than the logs; he said it would take him such a pison long time to dig them into a rock he wouldn’t ever get out. But Tom said he would let me help him do it. Then he took a look to see how me and Jim was getting along with the pens. It was most pesky tedious hard work and slow, and didn’t give my hands no show to get well of the sores, and we didn’t seem to make no headway, hardly; so Tom says:\n\n“I know how to fix it. We got to have a rock for the coat of arms and mournful inscriptions, and we can kill two birds with that same rock."
+      },
+      "request_id": "28121a2211c1cd3eaa18a844",
+      "request_sha256": "5431dcd0f14b7adcd9a6de56af87b47c7abead28d70a4f6709fd78c34a1c9752",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3c54986fd47b3893cebdc687dc8a975c1e531ce96fffdfcd7fb18e2a98465726"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

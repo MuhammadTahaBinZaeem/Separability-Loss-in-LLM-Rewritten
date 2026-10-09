@@ -1,0 +1,68 @@
+{
+  "batch_id": "e2313110727d8aa440b1",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T08:03:04.114413+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b8bc2456973fbff0b0607585",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_pride_and_prejudice_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: b8bc2456973fbff0b0607585\noriginal_word_count: 461\n\nPassage:\nThis was invitation enough.\n\n“Why, my dear, you must know, Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England; that he came down on Monday in a chaise and four to see the place, and was so much delighted with it that he agreed with Mr. Morris immediately; that he is to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week.”\n\n“What is his name?”\n\n“Bingley.”\n\n“Is he married or single?”\n\n“Oh, single, my dear, to be sure! A single man of large fortune; four or five thousand a year. What a fine thing for our girls!”\n\n“How so? how can it affect them?”\n\n“My dear Mr. Bennet,” replied his wife, “how can you be so tiresome? You must know that I am thinking of his marrying one of them.”\n\n“Is that his design in settling here?”\n\n“Design? Nonsense, how can you talk so! But it is very likely that he _may_ fall in love with one of them, and therefore you must visit him as soon as he comes.”\n\n“I see no occasion for that. You and the girls may go--or you may send them by themselves, which perhaps will be still better; for as you are as handsome as any of them, Mr. Bingley might like you the best of the party.”\n\n“My dear, you flatter me. I certainly _have_ had my share of beauty, but I do not pretend to be anything extraordinary now. When a woman has five grown-up daughters, she ought to give over thinking of her own beauty.”\n\n“In such cases, a woman has not often much beauty to think of.”\n\n“But, my dear, you must indeed go and see Mr. Bingley when he comes into the neighbourhood.”\n\n“It is more than I engage for, I assure you.”\n\n“But consider your daughters. Only think what an establishment it would be for one of them. Sir William and Lady Lucas are determined to go, merely on that account; for in general, you know, they visit no new comers. Indeed you must go, for it will be impossible for _us_ to visit him, if you do not.”\n\n“You are over scrupulous, surely. I dare say Mr. Bingley will be very glad to see you; and I will send a few lines by you to assure him of my hearty consent to his marrying whichever he chooses of the girls--though I must throw in a good word for my little Lizzy.”\n\n“I desire you will do no such thing. Lizzy is not a bit better than the others: and I am sure she is not half so handsome as Jane, nor half so good-humoured as Lydia."
+      },
+      "request_id": "b8bc2456973fbff0b0607585",
+      "request_sha256": "bf19068ca941844bea1443fd97de9c7d717ce866153180edac140212fb61b831",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "45e23fc20a98d83333c71988b1ca48b365e85213fd84624915254b5abd783127"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c692e8523543e665e318eba1",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_poe_the_gold_bug_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: c692e8523543e665e318eba1\noriginal_word_count: 461\n\nPassage:\nWhy, we may get up a very thrilling bit of superstition upon this hint. I presume you will call the bug _scarabæus caput hominis_, or something of that kind—there are many similar titles in the Natural Histories. But where are the _antennæ_ you spoke of?”\n\n“The _antennæ!_” said Legrand, who seemed to be getting unaccountably warm upon the subject; “I am sure you must see the _antennæ_. I made them as distinct as they are in the original insect, and I presume that is sufficient.”\n\n“Well, well,” I said, “perhaps you have—still I don’t see them;” and I handed him the paper without additional remark, not wishing to ruffle his temper; but I was much surprised at the turn affairs had taken; his ill humor puzzled me—and, as for the drawing of the beetle, there were positively _no antennæ_ visible, and the whole _did_ bear a very close resemblance to the ordinary cuts of a death’s-head.\n\nHe received the paper very peevishly, and was about to crumple it, apparently to throw it in the fire, when a casual glance at the design seemed suddenly to rivet his attention. In an instant his face grew violently red—in another as excessively pale. For some minutes he continued to scrutinize the drawing minutely where he sat. At length he arose, took a candle from the table, and proceeded to seat himself upon a sea-chest in the farthest corner of the room. Here again he made an anxious examination of the paper; turning it in all directions. He said nothing, however, and his conduct greatly astonished me; yet I thought it prudent not to exacerbate the growing moodiness of his temper by any comment. Presently he took from his coat pocket a wallet, placed the paper carefully in it, and deposited both in a writing-desk, which he locked. He now grew more composed in his demeanor; but his original air of enthusiasm had quite disappeared. Yet he seemed not so much sulky as abstracted. As the evening wore away he became more and more absorbed in reverie, from which no sallies of mine could arouse him. It had been my intention to pass the night at the hut, as I had frequently done before, but, seeing my host in this mood, I deemed it proper to take leave. He did not press me to remain, but, as I departed, he shook my hand with even more than his usual cordiality.\n\nIt was about a month after this (and during the interval I had seen nothing of Legrand) when I received a visit, at Charleston, from his man, Jupiter. I had never seen the good old negro look so dispirited, and I feared that some serious disaster had befallen my friend."
+      },
+      "request_id": "c692e8523543e665e318eba1",
+      "request_sha256": "2daa619fffaa7facd3339ca8685649cd381c8230c32b0b833e94f8c8479ce5d6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "dd5c427afd3d28ba279c26a2f3a4166e3baa67f8f1288dc2ad3a0771b5850cc5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3f4e75438abc41c62536f2bf",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_poe_murders_rue_morgue_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 3f4e75438abc41c62536f2bf\noriginal_word_count: 457\n\nPassage:\nEach likens it—not to the voice of an individual of any nation with whose language he is conversant—but the converse. The Frenchman supposes it the voice of a Spaniard, and ‘might have distinguished some words _had he been acquainted with the Spanish._’ The Dutchman maintains it to have been that of a Frenchman; but we find it stated that ‘_not understanding French this witness was examined through an interpreter._’ The Englishman thinks it the voice of a German, and ‘_does not understand German._’ The Spaniard ‘is sure’ that it was that of an Englishman, but ‘judges by the intonation’ altogether, ‘_as he has no knowledge of the English._’ The Italian believes it the voice of a Russian, but ‘_has never conversed with a native of Russia._’ A second Frenchman differs, moreover, with the first, and is positive that the voice was that of an Italian; but, _not being cognizant of that tongue_, is, like the Spaniard, ‘convinced by the intonation.’ Now, how strangely unusual must that voice have really been, about which such testimony as this _could_ have been elicited!—in whose _tones_, even, denizens of the five great divisions of Europe could recognise nothing familiar! You will say that it might have been the voice of an Asiatic—of an African. Neither Asiatics nor Africans abound in Paris; but, without denying the inference, I will now merely call your attention to three points. The voice is termed by one witness ‘harsh rather than shrill.’ It is represented by two others to have been ‘quick and _unequal._’ No words—no sounds resembling words—were by any witness mentioned as distinguishable.\n\n“I know not,” continued Dupin, “what impression I may have made, so far, upon your own understanding; but I do not hesitate to say that legitimate deductions even from this portion of the testimony—the portion respecting the gruff and shrill voices—are in themselves sufficient to engender a suspicion which should give direction to all farther progress in the investigation of the mystery. I said ‘legitimate deductions;’ but my meaning is not thus fully expressed. I designed to imply that the deductions are the _sole_ proper ones, and that the suspicion arises _inevitably_ from them as the single result. What the suspicion is, however, I will not say just yet. I merely wish you to bear in mind that, with myself, it was sufficiently forcible to give a definite form—a certain tendency—to my inquiries in the chamber.\n\n“Let us now transport ourselves, in fancy, to this chamber. What shall we first seek here? The means of egress employed by the murderers. It is not too much to say that neither of us believe in præternatural events."
+      },
+      "request_id": "3f4e75438abc41c62536f2bf",
+      "request_sha256": "15d295bc89aa4cdabfb63285807b7d545ff6c07fc5ff96a039dfacfe7b63c0ca",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0f88da859568460fece1b1ef3d9b70d7a3a03b8bc47868b3e3fcb85a8014928a"
+    }
+  ],
+  "session_id": "01a0e1dc-5c35-7b31-a9b6-a38e1d6af01b",
+  "worker_id": "astra_a",
+  "worker_identity_sha256": "1dbcb4b943cd599b768ad84fa4e0ccc355a69f663720cc130c5d030c1b9e8505"
+}

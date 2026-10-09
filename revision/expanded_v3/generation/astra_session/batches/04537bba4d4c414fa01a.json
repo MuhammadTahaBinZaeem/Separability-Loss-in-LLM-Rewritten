@@ -1,0 +1,68 @@
+{
+  "batch_id": "04537bba4d4c414fa01a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:21:46.423780+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c01c3c6858bab0c76c30e99a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 503,
+      "passage_id": "V2_shelley_mathilda_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: c01c3c6858bab0c76c30e99a\noriginal_word_count: 503\n\nPassage:\nI have said that he was a poet: when he was three and twenty years of age he first published a poem, and it was hailed by the whole nation with enthusiasm and delight. His good star perpetually shone upon him; a reputation had never before been made so rapidly: it was universal. The multitude extolled the same poems that formed the wonder of the sage in his closet: there was not one dissentient voice.\n\nIt was at this time, in the height of his glory, that he became acquainted with Elinor. She was a young heiress of exquisite beauty who lived under the care of her guardian: from the moment they were seen together they appeared formed for each other. Elinor had not the genius of Woodville but she was generous and noble, and exalted by her youth and the love that she every where excited above the knowledge of aught but virtue and excellence. She was lovely; her manners were frank and simple; her deep blue eyes swam in a lustre which could only be given by sensibility joined to wisdom.\n\nThey were formed for one another and they soon loved. Woodville for the first time felt the delight of love; and Elinor was enraptured in possessing the heart of one so beautiful and glorious among his fellow men. Could any thing but unmixed joy flow from such a union?\n\nWoodville was a Poet--he was sought for by every society and all eyes were turned on him alone when he appeared; but he was the son of a poor clergyman and Elinor was a rich heiress. Her guardian was not displeased with their mutual affection: the merit of Woodville was too eminent to admit of cavil on account of his inferior wealth; but the dying will of her father did not allow her to marry before she was of age and her fortune depended upon her obeying this injunction. She had just entered her twentieth year, and she and her lover were obliged to submit to this delay. But they were ever together and their happiness seemed that of Paradise: they studied together: formed plans of future occupations, and drinking in love and joy from each other’s eyes and words they hardly repined at the delay to their entire union. Woodville for ever rose in glory; and Elinor become more lovely and wise under the lessons of her accomplished lover.\n\nIn two months Elinor would be twenty one: every thing was prepared for their union. How shall I relate the catastrophe to so much joy; but the earth would not be the earth it is covered with blight and sorrow if one such pair as these angelic creatures had been suffered to exist for one another: search through the world and you will not find the perfect happiness which their marriage would have caused them to enjoy; there must have been a revolution in the order of things as established among us miserable earth-dwellers to have admitted of such consummate joy."
+      },
+      "request_id": "c01c3c6858bab0c76c30e99a",
+      "request_sha256": "8c10a3ef7ebbe60aa4a6ada17045a26edeaeb658ab8e4872f32cb4054a47306c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "343f851bf55ebf200431951cd943bd329c5e83269700652c9145211a3c29c3da"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3856ff2a7811ff2b560853a4",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_austen_emma_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 3856ff2a7811ff2b560853a4\noriginal_word_count: 466\n\nPassage:\nBut it is very remarkable that she should always hear Jane better than she does me. Jane speaks so distinct! However, she will not find her grandmama at all deafer than she was two years ago; which is saying a great deal at my mother’s time of life—and it really is full two years, you know, since she was here. We never were so long without seeing her before, and as I was telling Mrs. Cole, we shall hardly know how to make enough of her now.”\n\n“Are you expecting Miss Fairfax here soon?”\n\n“Oh yes; next week.”\n\n“Indeed!—that must be a very great pleasure.”\n\n“Thank you. You are very kind. Yes, next week. Every body is so surprized; and every body says the same obliging things. I am sure she will be as happy to see her friends at Highbury, as they can be to see her. Yes, Friday or Saturday; she cannot say which, because Colonel Campbell will be wanting the carriage himself one of those days. So very good of them to send her the whole way! But they always do, you know. Oh yes, Friday or Saturday next. That is what she writes about. That is the reason of her writing out of rule, as we call it; for, in the common course, we should not have heard from her before next Tuesday or Wednesday.”\n\n“Yes, so I imagined. I was afraid there could be little chance of my hearing any thing of Miss Fairfax to-day.”\n\n“So obliging of you! No, we should not have heard, if it had not been for this particular circumstance, of her being to come here so soon. My mother is so delighted!—for she is to be three months with us at least. Three months, she says so, positively, as I am going to have the pleasure of reading to you. The case is, you see, that the Campbells are going to Ireland. Mrs. Dixon has persuaded her father and mother to come over and see her directly. They had not intended to go over till the summer, but she is so impatient to see them again—for till she married, last October, she was never away from them so much as a week, which must make it very strange to be in different kingdoms, I was going to say, but however different countries, and so she wrote a very urgent letter to her mother—or her father, I declare I do not know which it was, but we shall see presently in Jane’s letter—wrote in Mr. Dixon’s name as well as her own, to press their coming over directly, and they would give them the meeting in Dublin, and take them back to their country seat, Baly-craig, a beautiful place, I fancy."
+      },
+      "request_id": "3856ff2a7811ff2b560853a4",
+      "request_sha256": "149f2eedd4b1aab03e4190a79709a5817b1b871db3360b4b61ad6c4293dda830",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "67c76997dfd5d92963e1f734f1579c17be468ecd54f33cd6c1aa3d289428c51b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "87d286aa2820621aceed7993",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_poe_murders_rue_morgue_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 87d286aa2820621aceed7993\noriginal_word_count: 464\n\nPassage:\nWhat result, then, has ensued? What impression have I made upon your fancy?”\n\nI felt a creeping of the flesh as Dupin asked me the question. “A madman,” I said, “has done this deed—some raving maniac, escaped from a neighboring _Maison de Santé._”\n\n“In some respects,” he replied, “your idea is not irrelevant. But the voices of madmen, even in their wildest paroxysms, are never found to tally with that peculiar voice heard upon the stairs. Madmen are of some nation, and their language, however incoherent in its words, has always the coherence of syllabification. Besides, the hair of a madman is not such as I now hold in my hand. I disentangled this little tuft from the rigidly clutched fingers of Madame L’Espanaye. Tell me what you can make of it.”\n\n“Dupin!” I said, completely unnerved; “this hair is most unusual—this is no _human_ hair.”\n\n“I have not asserted that it is,” said he; “but, before we decide this point, I wish you to glance at the little sketch I have here traced upon this paper. It is a _fac-simile_ drawing of what has been described in one portion of the testimony as ‘dark bruises, and deep indentations of finger nails,’ upon the throat of Mademoiselle L’Espanaye, and in another (by Messrs. Dumas and Etienne,) as a ‘series of livid spots, evidently the impression of fingers.’\n\n“You will perceive,” continued my friend, spreading out the paper upon the table before us, “that this drawing gives the idea of a firm and fixed hold. There is no _slipping_ apparent. Each finger has retained—possibly until the death of the victim—the fearful grasp by which it originally imbedded itself. Attempt, now, to place all your fingers, at the same time, in the respective impressions as you see them.”\n\nI made the attempt in vain.\n\n“We are possibly not giving this matter a fair trial,” he said. “The paper is spread out upon a plane surface; but the human throat is cylindrical. Here is a billet of wood, the circumference of which is about that of the throat. Wrap the drawing around it, and try the experiment again.”\n\nI did so; but the difficulty was even more obvious than before. “This,” I said, “is the mark of no human hand.”\n\n“Read now,” replied Dupin, “this passage from Cuvier.”\n\nIt was a minute anatomical and generally descriptive account of the large fulvous Ourang-Outang of the East Indian Islands. The gigantic stature, the prodigious strength and activity, the wild ferocity, and the imitative propensities of these mammalia are sufficiently well known to all. I understood the full horrors of the murder at once.\n\n“The description of the digits,” said I, as I made an end of reading, “is in exact accordance with this drawing."
+      },
+      "request_id": "87d286aa2820621aceed7993",
+      "request_sha256": "49f06596b417646e7484f0f92ad63d3faa2255356a9ed9bb55940b92d939e5fd",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e78f2d7fb18878632b5ba8b90601d336aa69849de2e198166c264dbe6ce3c1be"
+    }
+  ],
+  "session_id": "01a0e85b-f4da-78c2-af90-17d8fea0262a",
+  "worker_id": "astra_r",
+  "worker_identity_sha256": "1a9221512f2af9568b0b6124d87657856f97eb8192807e50db5ed5d6fe4cdc4b"
+}

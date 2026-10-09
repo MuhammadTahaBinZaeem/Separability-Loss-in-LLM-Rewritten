@@ -1,0 +1,68 @@
+{
+  "batch_id": "6dd810fd6d85b8312a9c",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:18:53.936834+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "33de536fca256edbf5fa98b3",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_austen_pride_and_prejudice_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 33de536fca256edbf5fa98b3\noriginal_word_count: 452\n\nPassage:\nHad she known that her sister sought to tear her from such prospects and such realities as these, what would have been her sensations? They could have been understood only by her mother, who might have felt nearly the same. Lydia’s going to Brighton was all that consoled her for the melancholy conviction of her husband’s never intending to go there himself.\n\nBut they were entirely ignorant of what had passed; and their raptures continued, with little intermission, to the very day of Lydia’s leaving home.\n\nElizabeth was now to see Mr. Wickham for the last time. Having been frequently in company with him since her return, agitation was pretty well over; the agitations of former partiality entirely so. She had even learnt to detect, in the very gentleness which had first delighted her, an affectation and a sameness to disgust and weary. In his present behaviour to herself, moreover, she had a fresh source of displeasure; for the inclination he soon testified of renewing those attentions which had marked the early part of their acquaintance could only serve, after what had since passed, to provoke her. She lost all concern for him in finding herself thus selected as the object of such idle and frivolous gallantry; and while she steadily repressed it, could not but feel the reproof contained in his believing, that however long, and for whatever cause, his attentions had been withdrawn, her vanity would be gratified, and her preference secured, at any time, by their renewal.\n\nOn the very last day of the regiment’s remaining in Meryton, he dined, with others of the officers, at Longbourn; and so little was Elizabeth disposed to part from him in good-humour, that, on his making some inquiry as to the manner in which her time had passed at Hunsford, she mentioned Colonel Fitzwilliam’s and Mr. Darcy’s having both spent three weeks at Rosings, and asked him if he were acquainted with the former.\n\nHe looked surprised, displeased, alarmed; but, with a moment’s recollection, and a returning smile, replied, that he had formerly seen him often; and, after observing that he was a very gentlemanlike man, asked her how she had liked him. Her answer was warmly in his favour. With an air of indifference, he soon afterwards added, “How long did you say that he was at Rosings?”\n\n“Nearly three weeks.”\n\n“And you saw him frequently?”\n\n“Yes, almost every day.”\n\n“His manners are very different from his cousin’s.”\n\n“Yes, very different; but I think Mr. Darcy improves on acquaintance.”\n\n“Indeed!” cried Wickham, with a look which did not escape her. “And pray may I ask--” but checking himself, he added, in a gayer tone, “Is it in address that he improves?"
+      },
+      "request_id": "33de536fca256edbf5fa98b3",
+      "request_sha256": "95abf811dbab7a2daa31e21d9ecf6b6607d57f68282681cdfc33119e3535c08d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "41f3e2c3b42fc82f2ecea350ddb7fe6e633b1cda0f3be3cdba6056f584f54413"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6e8da0b4694317435944899e",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_poe_hans_pfaal_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 6e8da0b4694317435944899e\noriginal_word_count: 453\n\nPassage:\nIn the meantime, the force of gravitation would be constantly diminishing, in proportion to the squares of the distances, and thus, with a velocity prodigiously accelerating, I should at length arrive in those distant regions where the force of the earth’s attraction would be superseded by that of the moon. In accordance with these ideas, I did not think it worth while to encumber myself with more provisions than would be sufficient for a period of forty days.\n\n“There was still, however, another difficulty, which occasioned me some little disquietude. It has been observed, that, in balloon ascensions to any considerable height, besides the pain attending respiration, great uneasiness is experienced about the head and body, often accompanied with bleeding at the nose, and other symptoms of an alarming kind, and growing more and more inconvenient in proportion to the altitude attained. This was a reflection of a nature somewhat startling. Was it not probable that these symptoms would increase indefinitely, or at least until terminated by death itself? I finally thought not. Their origin was to be looked for in the progressive removal of the customary atmospheric pressure upon the surface of the body, and consequent distention of the superficial blood-vessels—not in any positive disorganization of the animal system, as in the case of difficulty in breathing, where the atmospheric density is chemically insufficient for the due renovation of blood in a ventricle of the heart. Unless for default of this renovation, I could see no reason, therefore, why life could not be sustained even in a vacuum; for the expansion and compression of chest, commonly called breathing, is action purely muscular, and the cause, not the effect, of respiration. In a word, I conceived that, as the body should become habituated to the want of atmospheric pressure, the sensations of pain would gradually diminish—and to endure them while they continued, I relied with confidence upon the iron hardihood of my constitution.\n\n“Thus, may it please your Excellencies, I have detailed some, though by no means all, the considerations which led me to form the project of a lunar voyage. I shall now proceed to lay before you the result of an attempt so apparently audacious in conception, and, at all events, so utterly unparalleled in the annals of mankind.\n\n“Having attained the altitude before mentioned, that is to say three miles and three-quarters, I threw out from the car a quantity of feathers, and found that I still ascended with sufficient rapidity; there was, therefore, no necessity for discharging any ballast. I was glad of this, for I wished to retain with me as much weight as I could carry, for reasons which will be explained in the sequel."
+      },
+      "request_id": "6e8da0b4694317435944899e",
+      "request_sha256": "e668624a1de14599f0ecc748d573cc41f408e3b43f2aad7924e6f81ac21a410a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e450bb7a06c860a1a364f313b8be917bff860b1050b36e7a4121bcf594e54f2b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "bb4a46e076eb1d2627f606da",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 469,
+      "passage_id": "V2_dickens_great_expectations_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: bb4a46e076eb1d2627f606da\noriginal_word_count: 469\n\nPassage:\nI then went from shop to shop, making such purchases as were necessary to the change in his appearance. This business transacted, I turned my face, on my own account, to Little Britain. Mr. Jaggers was at his desk, but, seeing me enter, got up immediately and stood before his fire.\n\n“Now, Pip,” said he, “be careful.”\n\n“I will, sir,” I returned. For, coming along I had thought well of what I was going to say.\n\n“Don’t commit yourself,” said Mr. Jaggers, “and don’t commit any one. You understand—any one. Don’t tell me anything: I don’t want to know anything; I am not curious.”\n\nOf course I saw that he knew the man was come.\n\n“I merely want, Mr. Jaggers,” said I, “to assure myself that what I have been told is true. I have no hope of its being untrue, but at least I may verify it.”\n\nMr. Jaggers nodded. “But did you say ‘told’ or ‘informed’?” he asked me, with his head on one side, and not looking at me, but looking in a listening way at the floor. “Told would seem to imply verbal communication. You can’t have verbal communication with a man in New South Wales, you know.”\n\n“I will say, informed, Mr. Jaggers.”\n\n“Good.”\n\n“I have been informed by a person named Abel Magwitch, that he is the benefactor so long unknown to me.”\n\n“That is the man,” said Mr. Jaggers, “in New South Wales.”\n\n“And only he?” said I.\n\n“And only he,” said Mr. Jaggers.\n\n“I am not so unreasonable, sir, as to think you at all responsible for my mistakes and wrong conclusions; but I always supposed it was Miss Havisham.”\n\n“As you say, Pip,” returned Mr. Jaggers, turning his eyes upon me coolly, and taking a bite at his forefinger, “I am not at all responsible for that.”\n\n“And yet it looked so like it, sir,” I pleaded with a downcast heart.\n\n“Not a particle of evidence, Pip,” said Mr. Jaggers, shaking his head and gathering up his skirts. “Take nothing on its looks; take everything on evidence. There’s no better rule.”\n\n“I have no more to say,” said I, with a sigh, after standing silent for a little while. “I have verified my information, and there’s an end.”\n\n“And Magwitch—in New South Wales—having at last disclosed himself,” said Mr. Jaggers, “you will comprehend, Pip, how rigidly throughout my communication with you, I have always adhered to the strict line of fact. There has never been the least departure from the strict line of fact. You are quite aware of that?”\n\n“Quite, sir.”\n\n“I communicated to Magwitch—in New South Wales—when he first wrote to me—from New South Wales—the caution that he must not expect me ever to deviate from the strict line of fact."
+      },
+      "request_id": "bb4a46e076eb1d2627f606da",
+      "request_sha256": "9cd2328f98a9f23694559069db4096082861d87b0002179407b5b7694123ac00",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6817205291d6ee2bcae3bab6183a0618e111c9f085546ec391f92264c2e22343"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

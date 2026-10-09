@@ -1,0 +1,10 @@
+model_key,classifier,condition,selection,paired_rows,excluded_warning_rows,all_authors_present,original_macro_f1,rewrite_macro_f1,macro_f1_loss
+gem31lite,nearest_centroid,paraphrase,warning_free_paired,11,349,False,,,
+gem31lite,nearest_centroid,modernize,warning_free_paired,13,347,False,,,
+gem31lite,nearest_centroid,simplify,warning_free_paired,5,354,False,,,
+gem31lite,gaussian_nb,paraphrase,warning_free_paired,11,349,False,,,
+gem31lite,gaussian_nb,modernize,warning_free_paired,13,347,False,,,
+gem31lite,gaussian_nb,simplify,warning_free_paired,5,354,False,,,
+gem31lite,lda_ledoit_wolf_shrinkage,paraphrase,warning_free_paired,11,349,False,,,
+gem31lite,lda_ledoit_wolf_shrinkage,modernize,warning_free_paired,13,347,False,,,
+gem31lite,lda_ledoit_wolf_shrinkage,simplify,warning_free_paired,5,354,False,,,

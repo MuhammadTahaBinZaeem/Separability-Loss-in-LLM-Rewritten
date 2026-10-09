@@ -1,0 +1,10 @@
+model_key,classifier,condition,selection,paired_rows,excluded_warning_rows,all_authors_present,original_macro_f1,rewrite_macro_f1,macro_f1_loss
+astra_session,nearest_centroid,paraphrase,warning_free_paired,334,26,True,0.6294730898958446,0.47973609677934076,0.14973699311650385
+astra_session,nearest_centroid,modernize,warning_free_paired,319,41,True,0.621267411417416,0.4463411503403716,0.17492626107704445
+astra_session,nearest_centroid,simplify,warning_free_paired,332,28,True,0.621324214035703,0.4077481340079036,0.21357608002779943
+astra_session,gaussian_nb,paraphrase,warning_free_paired,334,26,True,0.570820968630351,0.46434949600205383,0.1064714726282972
+astra_session,gaussian_nb,modernize,warning_free_paired,319,41,True,0.556221677346,0.43159183696650466,0.12462984037949537
+astra_session,gaussian_nb,simplify,warning_free_paired,332,28,True,0.5576540973921422,0.41594901570602244,0.14170508168611978
+astra_session,lda_ledoit_wolf_shrinkage,paraphrase,warning_free_paired,334,26,True,0.7124463469160386,0.5681210755009843,0.14432527141505425
+astra_session,lda_ledoit_wolf_shrinkage,modernize,warning_free_paired,319,41,True,0.7025515643750407,0.4886449612519737,0.21390660312306703
+astra_session,lda_ledoit_wolf_shrinkage,simplify,warning_free_paired,332,28,True,0.7074749631271291,0.44295525482893233,0.26451970829819677

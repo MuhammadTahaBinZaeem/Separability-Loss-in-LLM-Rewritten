@@ -1,0 +1,68 @@
+{
+  "batch_id": "316833aa0721abbd4c6d",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:55:36.817328+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f5643b6f57df25bfeb1cb14c",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_poe_the_gold_bug_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: f5643b6f57df25bfeb1cb14c\noriginal_word_count: 454\n\nPassage:\n“But,” said I, returning him the slip, “I am as much in the dark as ever. Were all the jewels of Golconda awaiting me upon my solution of this enigma, I am quite sure that I should be unable to earn them.”\n\n“And yet,” said Legrand, “the solution is by no means so difficult as you might be lead to imagine from the first hasty inspection of the characters. These characters, as any one might readily guess, form a cipher—that is to say, they convey a meaning; but then, from what is known of Kidd, I could not suppose him capable of constructing any of the more abstruse cryptographs. I made up my mind, at once, that this was of a simple species—such, however, as would appear, to the crude intellect of the sailor, absolutely insoluble without the key.”\n\n“And you really solved it?”\n\n“Readily; I have solved others of an abstruseness ten thousand times greater. Circumstances, and a certain bias of mind, have led me to take interest in such riddles, and it may well be doubted whether human ingenuity can construct an enigma of the kind which human ingenuity may not, by proper application, resolve. In fact, having once established connected and legible characters, I scarcely gave a thought to the mere difficulty of developing their import.\n\n“In the present case—indeed in all cases of secret writing—the first question regards the language of the cipher; for the principles of solution, so far, especially, as the more simple ciphers are concerned, depend upon, and are varied by, the genius of the particular idiom. In general, there is no alternative but experiment (directed by probabilities) of every tongue known to him who attempts the solution, until the true one be attained. But, with the cipher now before us, all difficulty was removed by the signature. The pun upon the word ‘Kidd’ is appreciable in no other language than the English. But for this consideration I should have begun my attempts with the Spanish and French, as the tongues in which a secret of this kind would most naturally have been written by a pirate of the Spanish main. As it was, I assumed the cryptograph to be English.\n\n“You observe there are no divisions between the words. Had there been divisions, the task would have been comparatively easy. In such case I should have commenced with a collation and analysis of the shorter words, and, had a word of a single letter occurred, as is most likely, (a or I, for example,) I should have considered the solution as assured. But, there being no division, my first step was to ascertain the predominant letters, as well as the least frequent."
+      },
+      "request_id": "f5643b6f57df25bfeb1cb14c",
+      "request_sha256": "a341ca2b793d5dc590fd0a97acbb745b623653d90b63da896e4e8db535c7e8f9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "94a90852fb2727186d2262c4205cbeaa59e39ea8da127c7f7be5e722019bc7da"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "be5cec788f6ff286a074be29",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: be5cec788f6ff286a074be29\noriginal_word_count: 463\n\nPassage:\nHe had also to think of Sybil’s father and mother, who were rather old-fashioned people, and might possibly object to the marriage if there was anything like a scandal, though he felt certain that if he told them the whole facts of the case they would be the very first to appreciate the motives that had actuated him. He had every reason, then, to decide in favour of poison. It was safe, sure, and quiet, and did away with any necessity for painful scenes, to which, like most Englishmen, he had a rooted objection.\n\nOf the science of poisons, however, he knew absolutely nothing, and as the waiter seemed quite unable to find anything in the library but _Ruff’s Guide_ and _Bailey’s Magazine_, he examined the book-shelves himself, and finally came across a handsomely-bound edition of the _Pharmacopoeia_, and a copy of Erskine’s _Toxicology_, edited by Sir Mathew Reid, the President of the Royal College of Physicians, and one of the oldest members of the Buckingham, having been elected in mistake for somebody else; a _contretemps_ that so enraged the Committee, that when the real man came up they black-balled him unanimously. Lord Arthur was a good deal puzzled at the technical terms used in both books, and had begun to regret that he had not paid more attention to his classics at Oxford, when in the second volume of Erskine, he found a very interesting and complete account of the properties of aconitine, written in fairly clear English. It seemed to him to be exactly the poison he wanted. It was swift—indeed, almost immediate, in its effect—perfectly painless, and when taken in the form of a gelatine capsule, the mode recommended by Sir Mathew, not by any means unpalatable. He accordingly made a note, upon his shirt-cuff, of the amount necessary for a fatal dose, put the books back in their places, and strolled up St. James’s Street, to Pestle and Humbey’s, the great chemists. Mr. Pestle, who always attended personally on the aristocracy, was a good deal surprised at the order, and in a very deferential manner murmured something about a medical certificate being necessary. However, as soon as Lord Arthur explained to him that it was for a large Norwegian mastiff that he was obliged to get rid of, as it showed signs of incipient rabies, and had already bitten the coachman twice in the calf of the leg, he expressed himself as being perfectly satisfied, complimented Lord Arthur on his wonderful knowledge of Toxicology, and had the prescription made up immediately.\n\nLord Arthur put the capsule into a pretty little silver _bonbonnière_ that he saw in a shop window in Bond Street, threw away Pestle and Hambey’s ugly pill-box, and drove off at once to Lady Clementina’s."
+      },
+      "request_id": "be5cec788f6ff286a074be29",
+      "request_sha256": "024f09f481f2ba5acb4b03db071ea61b8ed804ae804f7bf98addc7d45a4239e3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3bb7e07481947547d927523275575ab181a3decdba09fb307430cda28af339b6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d93fcc96fd37deda5f5e79ae",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: d93fcc96fd37deda5f5e79ae\noriginal_word_count: 463\n\nPassage:\nHe had also to think of Sybil’s father and mother, who were rather old-fashioned people, and might possibly object to the marriage if there was anything like a scandal, though he felt certain that if he told them the whole facts of the case they would be the very first to appreciate the motives that had actuated him. He had every reason, then, to decide in favour of poison. It was safe, sure, and quiet, and did away with any necessity for painful scenes, to which, like most Englishmen, he had a rooted objection.\n\nOf the science of poisons, however, he knew absolutely nothing, and as the waiter seemed quite unable to find anything in the library but _Ruff’s Guide_ and _Bailey’s Magazine_, he examined the book-shelves himself, and finally came across a handsomely-bound edition of the _Pharmacopoeia_, and a copy of Erskine’s _Toxicology_, edited by Sir Mathew Reid, the President of the Royal College of Physicians, and one of the oldest members of the Buckingham, having been elected in mistake for somebody else; a _contretemps_ that so enraged the Committee, that when the real man came up they black-balled him unanimously. Lord Arthur was a good deal puzzled at the technical terms used in both books, and had begun to regret that he had not paid more attention to his classics at Oxford, when in the second volume of Erskine, he found a very interesting and complete account of the properties of aconitine, written in fairly clear English. It seemed to him to be exactly the poison he wanted. It was swift—indeed, almost immediate, in its effect—perfectly painless, and when taken in the form of a gelatine capsule, the mode recommended by Sir Mathew, not by any means unpalatable. He accordingly made a note, upon his shirt-cuff, of the amount necessary for a fatal dose, put the books back in their places, and strolled up St. James’s Street, to Pestle and Humbey’s, the great chemists. Mr. Pestle, who always attended personally on the aristocracy, was a good deal surprised at the order, and in a very deferential manner murmured something about a medical certificate being necessary. However, as soon as Lord Arthur explained to him that it was for a large Norwegian mastiff that he was obliged to get rid of, as it showed signs of incipient rabies, and had already bitten the coachman twice in the calf of the leg, he expressed himself as being perfectly satisfied, complimented Lord Arthur on his wonderful knowledge of Toxicology, and had the prescription made up immediately.\n\nLord Arthur put the capsule into a pretty little silver _bonbonnière_ that he saw in a shop window in Bond Street, threw away Pestle and Hambey’s ugly pill-box, and drove off at once to Lady Clementina’s."
+      },
+      "request_id": "d93fcc96fd37deda5f5e79ae",
+      "request_sha256": "f3a6734331131198d5eba9591cfa24119ba46da0304bb12ca315b115a10709a7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3bb7e07481947547d927523275575ab181a3decdba09fb307430cda28af339b6"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

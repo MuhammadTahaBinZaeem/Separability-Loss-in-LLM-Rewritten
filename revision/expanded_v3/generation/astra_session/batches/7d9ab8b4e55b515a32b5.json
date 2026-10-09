@@ -1,0 +1,68 @@
+{
+  "batch_id": "7d9ab8b4e55b515a32b5",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:59:13.563871+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1f8968ceaccd226916e27ac3",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_wilde_dorian_gray_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 1f8968ceaccd226916e27ac3\noriginal_word_count: 452\n\nPassage:\nAt least he thought so. But who could tell? ... No. There had been nothing more. Through vanity he had spared her. In hypocrisy he had worn the mask of goodness. For curiosity’s sake he had tried the denial of self. He recognized that now.\n\nBut this murder—was it to dog him all his life? Was he always to be burdened by his past? Was he really to confess? Never. There was only one bit of evidence left against him. The picture itself—that was evidence. He would destroy it. Why had he kept it so long? Once it had given him pleasure to watch it changing and growing old. Of late he had felt no such pleasure. It had kept him awake at night. When he had been away, he had been filled with terror lest other eyes should look upon it. It had brought melancholy across his passions. Its mere memory had marred many moments of joy. It had been like conscience to him. Yes, it had been conscience. He would destroy it.\n\nHe looked round and saw the knife that had stabbed Basil Hallward. He had cleaned it many times, till there was no stain left upon it. It was bright, and glistened. As it had killed the painter, so it would kill the painter’s work, and all that that meant. It would kill the past, and when that was dead, he would be free. It would kill this monstrous soul-life, and without its hideous warnings, he would be at peace. He seized the thing, and stabbed the picture with it.\n\nThere was a cry heard, and a crash. The cry was so horrible in its agony that the frightened servants woke and crept out of their rooms. Two gentlemen, who were passing in the square below, stopped and looked up at the great house. They walked on till they met a policeman and brought him back. The man rang the bell several times, but there was no answer. Except for a light in one of the top windows, the house was all dark. After a time, he went away and stood in an adjoining portico and watched.\n\n“Whose house is that, Constable?” asked the elder of the two gentlemen.\n\n“Mr. Dorian Gray’s, sir,” answered the policeman.\n\nThey looked at each other, as they walked away, and sneered. One of them was Sir Henry Ashton’s uncle.\n\nInside, in the servants’ part of the house, the half-clad domestics were talking in low whispers to each other. Old Mrs. Leaf was crying and wringing her hands. Francis was as pale as death.\n\nAfter about a quarter of an hour, he got the coachman and one of the footmen and crept upstairs."
+      },
+      "request_id": "1f8968ceaccd226916e27ac3",
+      "request_sha256": "7beb2bc508bca92553031744412b76ee9b8efc2067e3cfe62d4015e23dadbfe1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "00c5850e6329e38ec66ad8829e08fe02a3c708fdec528a678bd9a119376ed249"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "93f79207b811bcb296d9f66f",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 510,
+      "passage_id": "V2_austen_emma_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 93f79207b811bcb296d9f66f\noriginal_word_count: 510\n\nPassage:\nEmma was not required, by any subsequent discovery, to retract her ill opinion of Mrs. Elton. Her observation had been pretty correct. Such as Mrs. Elton appeared to her on this second interview, such she appeared whenever they met again,—self-important, presuming, familiar, ignorant, and ill-bred. She had a little beauty and a little accomplishment, but so little judgment that she thought herself coming with superior knowledge of the world, to enliven and improve a country neighbourhood; and conceived Miss Hawkins to have held such a place in society as Mrs. Elton’s consequence only could surpass.\n\nThere was no reason to suppose Mr. Elton thought at all differently from his wife. He seemed not merely happy with her, but proud. He had the air of congratulating himself on having brought such a woman to Highbury, as not even Miss Woodhouse could equal; and the greater part of her new acquaintance, disposed to commend, or not in the habit of judging, following the lead of Miss Bates’s good-will, or taking it for granted that the bride must be as clever and as agreeable as she professed herself, were very well satisfied; so that Mrs. Elton’s praise passed from one mouth to another as it ought to do, unimpeded by Miss Woodhouse, who readily continued her first contribution and talked with a good grace of her being “very pleasant and very elegantly dressed.”\n\nIn one respect Mrs. Elton grew even worse than she had appeared at first. Her feelings altered towards Emma.—Offended, probably, by the little encouragement which her proposals of intimacy met with, she drew back in her turn and gradually became much more cold and distant; and though the effect was agreeable, the ill-will which produced it was necessarily increasing Emma’s dislike. Her manners, too—and Mr. Elton’s, were unpleasant towards Harriet. They were sneering and negligent. Emma hoped it must rapidly work Harriet’s cure; but the sensations which could prompt such behaviour sunk them both very much.—It was not to be doubted that poor Harriet’s attachment had been an offering to conjugal unreserve, and her own share in the story, under a colouring the least favourable to her and the most soothing to him, had in all likelihood been given also. She was, of course, the object of their joint dislike.—When they had nothing else to say, it must be always easy to begin abusing Miss Woodhouse; and the enmity which they dared not shew in open disrespect to her, found a broader vent in contemptuous treatment of Harriet.\n\nMrs. Elton took a great fancy to Jane Fairfax; and from the first. Not merely when a state of warfare with one young lady might be supposed to recommend the other, but from the very first; and she was not satisfied with expressing a natural and reasonable admiration—but without solicitation, or plea, or privilege, she must be wanting to assist and befriend her.—Before Emma had forfeited her confidence, and about the third time of their meeting, she heard all Mrs. Elton’s knight-errantry on the subject.—"
+      },
+      "request_id": "93f79207b811bcb296d9f66f",
+      "request_sha256": "12f1fad5ec074737bc7cf15168f166a71681a4f5507c869112b2cd028b27fcc6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3a74b6a5116f4dfd8ef90e13b3a3e4b50dc88f9fdcb6fbef4fcaa9e128b271a4"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8cbc62850f3cdd834d490a1b",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_great_expectations_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8cbc62850f3cdd834d490a1b\noriginal_word_count: 450\n\nPassage:\nFor this reason, I resolved to alight as soon as we touched the town, and put myself out of his hearing. This device I executed successfully. My little portmanteau was in the boot under my feet; I had but to turn a hinge to get it out; I threw it down before me, got down after it, and was left at the first lamp on the first stones of the town pavement. As to the convicts, they went their way with the coach, and I knew at what point they would be spirited off to the river. In my fancy, I saw the boat with its convict crew waiting for them at the slime-washed stairs,—again heard the gruff “Give way, you!” like an order to dogs,—again saw the wicked Noah’s Ark lying out on the black water.\n\nI could not have said what I was afraid of, for my fear was altogether undefined and vague, but there was great fear upon me. As I walked on to the hotel, I felt that a dread, much exceeding the mere apprehension of a painful or disagreeable recognition, made me tremble. I am confident that it took no distinctness of shape, and that it was the revival for a few minutes of the terror of childhood.\n\nThe coffee-room at the Blue Boar was empty, and I had not only ordered my dinner there, but had sat down to it, before the waiter knew me. As soon as he had apologised for the remissness of his memory, he asked me if he should send Boots for Mr. Pumblechook?\n\n“No,” said I, “certainly not.”\n\nThe waiter (it was he who had brought up the Great Remonstrance from the Commercials, on the day when I was bound) appeared surprised, and took the earliest opportunity of putting a dirty old copy of a local newspaper so directly in my way, that I took it up and read this paragraph:—\n\nOur readers will learn, not altogether without interest, in reference to the recent romantic rise in fortune of a young artificer in iron of this neighbourhood (what a theme, by the way, for the magic pen of our as yet not universally acknowledged townsman TOOBY, the poet of our columns!) that the youth’s earliest patron, companion, and friend, was a highly respected individual not entirely unconnected with the corn and seed trade, and whose eminently convenient and commodious business premises are situate within a hundred miles of the High Street. It is not wholly irrespective of our personal feelings that we record HIM as the Mentor of our young Telemachus, for it is good to know that our town produced the founder of the latter’s fortunes."
+      },
+      "request_id": "8cbc62850f3cdd834d490a1b",
+      "request_sha256": "b81c54ad300d2767fdfc03743b83092560267a7e3fc96c6e9c1ed105c96234d5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cf0a60c57b023d7edfc790cf3c921f9dac7578ab4ae94203b39d4ee1295d9c8b"
+    }
+  ],
+  "session_id": "01a0e84b-0c07-7f62-8492-38d6630a3d8a",
+  "worker_id": "astra_n",
+  "worker_identity_sha256": "af3df2dfd1bd45965959790098af7e2b94db79efd262f1f2cc3e95a3ae8be86e"
+}

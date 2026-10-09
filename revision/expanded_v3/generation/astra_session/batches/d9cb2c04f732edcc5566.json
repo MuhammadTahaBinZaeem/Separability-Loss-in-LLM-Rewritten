@@ -1,0 +1,68 @@
+{
+  "batch_id": "d9cb2c04f732edcc5566",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:27:49.428571+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4674bb99456a1edcdf1cbab3",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_austen_pride_and_prejudice_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 4674bb99456a1edcdf1cbab3\noriginal_word_count: 460\n\nPassage:\nI consider it as one of the first refinements of polished societies.”\n\n“Certainly, sir; and it has the advantage also of being in vogue amongst the less polished societies of the world: every savage can dance.”\n\nSir William only smiled. “Your friend performs delightfully,” he continued, after a pause, on seeing Bingley join the group; “and I doubt not that you are an adept in the science yourself, Mr. Darcy.”\n\n“You saw me dance at Meryton, I believe, sir.”\n\n“Yes, indeed, and received no inconsiderable pleasure from the sight. Do you often dance at St. James’s?”\n\n“Never, sir.”\n\n“Do you not think it would be a proper compliment to the place?”\n\n“It is a compliment which I never pay to any place if I can avoid it.”\n\n“You have a house in town, I conclude?”\n\nMr. Darcy bowed.\n\n“I had once some thoughts of fixing in town myself, for I am fond of superior society; but I did not feel quite certain that the air of London would agree with Lady Lucas.”\n\nHe paused in hopes of an answer: but his companion was not disposed to make any; and Elizabeth at that instant moving towards them, he was struck with the notion of doing a very gallant thing, and called out to her,--\n\n“My dear Miss Eliza, why are not you dancing? Mr. Darcy, you must allow me to present this young lady to you as a very desirable partner. You cannot refuse to dance, I am sure, when so much beauty is before you.” And, taking her hand, he would have given it to Mr. Darcy, who, though extremely surprised, was not unwilling to receive it, when she instantly drew back, and said with some discomposure to Sir William,--\n\n“Indeed, sir, I have not the least intention of dancing. I entreat you not to suppose that I moved this way in order to beg for a partner.”\n\nMr. Darcy, with grave propriety, requested to be allowed the honour of her hand, but in vain. Elizabeth was determined; nor did Sir William at all shake her purpose by his attempt at persuasion.\n\n“You excel so much in the dance, Miss Eliza, that it is cruel to deny me the happiness of seeing you; and though this gentleman dislikes the amusement in general, he can have no objection, I am sure, to oblige us for one half hour.”\n\n“Mr. Darcy is all politeness,” said Elizabeth, smiling.\n\n“He is, indeed: but considering the inducement, my dear Miss Eliza, we cannot wonder at his complaisance; for who would object to such a partner?”\n\nElizabeth looked archly, and turned away. Her resistance had not injured her with the gentleman, and he was thinking of her with some complacency, when thus accosted by Miss Bingley,--"
+      },
+      "request_id": "4674bb99456a1edcdf1cbab3",
+      "request_sha256": "d076011783cf5be1a88a76d64972a62203f70e244a9cf812910474251b3e1e41",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8fc13c73685d8c6c7df5fa08af985adc752f784203e44fbef2304bc64f7ceb56"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1180d477a4d2527ae013e08d",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_pride_and_prejudice_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 1180d477a4d2527ae013e08d\noriginal_word_count: 465\n\nPassage:\nAfter joining in general lamentations over the dreadful sequel of this event, which Elizabeth considered as all but certain, and Miss Bennet could not assert to be wholly impossible, the former continued the subject by saying, “But tell me all and everything about it which I have not already heard. Give me further particulars. What did Colonel Forster say? Had they no apprehension of anything before the elopement took place? They must have seen them together for ever.”\n\n“Colonel Forster did own that he had often suspected some partiality, especially on Lydia’s side, but nothing to give him any alarm. I am so grieved for him. His behaviour was attentive and kind to the utmost. He _was_ coming to us, in order to assure us of his concern, before he had any idea of their not being gone to Scotland: when that apprehension first got abroad, it hastened his journey.”\n\n“And was Denny convinced that Wickham would not marry? Did he know of their intending to go off? Had Colonel Forster seen Denny himself?”\n\n“Yes; but when questioned by _him_, Denny denied knowing anything of their plan, and would not give his real opinion about it. He did not repeat his persuasion of their not marrying, and from _that_ I am inclined to hope he might have been misunderstood before.”\n\n“And till Colonel Forster came himself, not one of you entertained a doubt, I suppose, of their being really married?”\n\n“How was it possible that such an idea should enter our brains? I felt a little uneasy--a little fearful of my sister’s happiness with him in marriage, because I knew that his conduct had not been always quite right. My father and mother knew nothing of that; they only felt how imprudent a match it must be. Kitty then owned, with a very natural triumph on knowing more than the rest of us, that in Lydia’s last letter she had prepared her for such a step. She had known, it seems, of their being in love with each other many weeks.”\n\n“But not before they went to Brighton?”\n\n“No, I believe not.”\n\n“And did Colonel Forster appear to think ill of Wickham himself? Does he know his real character?”\n\n“I must confess that he did not speak so well of Wickham as he formerly did. He believed him to be imprudent and extravagant; and since this sad affair has taken place, it is said that he left Meryton greatly in debt: but I hope this may be false.”\n\n“Oh, Jane, had we been less secret, had we told what we knew of him, this could not have happened!”\n\n“Perhaps it would have been better,” replied her sister.\n\n“But to expose the former faults of any person, without knowing what their present feelings were, seemed unjustifiable.”"
+      },
+      "request_id": "1180d477a4d2527ae013e08d",
+      "request_sha256": "457c8b40d1bfd111637a0bfccda0fbfc999cc362492074089c6ae1179c5ec1e2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c6022dc49370119593b084597bb732e504dbb91faaa47ad926e72669ec1812d0"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1d51e9b95b0268ecf8b58ee6",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_shelley_frankenstein_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 1d51e9b95b0268ecf8b58ee6\noriginal_word_count: 464\n\nPassage:\nHe said that he was wearing away his time fruitlessly where he was, that letters from the friends he had formed in London desired his return to complete the negotiation they had entered into for his Indian enterprise. He could not any longer delay his departure; but as his journey to London might be followed, even sooner than he now conjectured, by his longer voyage, he entreated me to bestow as much of my society on him as I could spare. He besought me, therefore, to leave my solitary isle and to meet him at Perth, that we might proceed southwards together. This letter in a degree recalled me to life, and I determined to quit my island at the expiration of two days.\n\nYet, before I departed, there was a task to perform, on which I shuddered to reflect; I must pack up my chemical instruments, and for that purpose I must enter the room which had been the scene of my odious work, and I must handle those utensils the sight of which was sickening to me. The next morning, at daybreak, I summoned sufficient courage and unlocked the door of my laboratory. The remains of the half-finished creature, whom I had destroyed, lay scattered on the floor, and I almost felt as if I had mangled the living flesh of a human being. I paused to collect myself and then entered the chamber. With trembling hand I conveyed the instruments out of the room, but I reflected that I ought not to leave the relics of my work to excite the horror and suspicion of the peasants; and I accordingly put them into a basket, with a great quantity of stones, and laying them up, determined to throw them into the sea that very night; and in the meantime I sat upon the beach, employed in cleaning and arranging my chemical apparatus.\n\nNothing could be more complete than the alteration that had taken place in my feelings since the night of the appearance of the dæmon. I had before regarded my promise with a gloomy despair as a thing that, with whatever consequences, must be fulfilled; but I now felt as if a film had been taken from before my eyes and that I for the first time saw clearly. The idea of renewing my labours did not for one instant occur to me; the threat I had heard weighed on my thoughts, but I did not reflect that a voluntary act of mine could avert it. I had resolved in my own mind that to create another like the fiend I had first made would be an act of the basest and most atrocious selfishness, and I banished from my mind every thought that could lead to a different conclusion."
+      },
+      "request_id": "1d51e9b95b0268ecf8b58ee6",
+      "request_sha256": "6c14afd07769e5721465abb2bab0768b35a013484044825421b9fb522f1b8848",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "dfac0d020c88956dd58067463b77b2c4b142e7aba32d020b08e977154352176e"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

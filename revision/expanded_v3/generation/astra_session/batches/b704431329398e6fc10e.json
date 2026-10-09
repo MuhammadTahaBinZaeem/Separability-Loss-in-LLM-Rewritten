@@ -1,0 +1,68 @@
+{
+  "batch_id": "b704431329398e6fc10e",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:20:40.805345+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2d0764769bc691531e108d32",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 469,
+      "passage_id": "V2_dickens_great_expectations_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 2d0764769bc691531e108d32\noriginal_word_count: 469\n\nPassage:\nI then went from shop to shop, making such purchases as were necessary to the change in his appearance. This business transacted, I turned my face, on my own account, to Little Britain. Mr. Jaggers was at his desk, but, seeing me enter, got up immediately and stood before his fire.\n\n“Now, Pip,” said he, “be careful.”\n\n“I will, sir,” I returned. For, coming along I had thought well of what I was going to say.\n\n“Don’t commit yourself,” said Mr. Jaggers, “and don’t commit any one. You understand—any one. Don’t tell me anything: I don’t want to know anything; I am not curious.”\n\nOf course I saw that he knew the man was come.\n\n“I merely want, Mr. Jaggers,” said I, “to assure myself that what I have been told is true. I have no hope of its being untrue, but at least I may verify it.”\n\nMr. Jaggers nodded. “But did you say ‘told’ or ‘informed’?” he asked me, with his head on one side, and not looking at me, but looking in a listening way at the floor. “Told would seem to imply verbal communication. You can’t have verbal communication with a man in New South Wales, you know.”\n\n“I will say, informed, Mr. Jaggers.”\n\n“Good.”\n\n“I have been informed by a person named Abel Magwitch, that he is the benefactor so long unknown to me.”\n\n“That is the man,” said Mr. Jaggers, “in New South Wales.”\n\n“And only he?” said I.\n\n“And only he,” said Mr. Jaggers.\n\n“I am not so unreasonable, sir, as to think you at all responsible for my mistakes and wrong conclusions; but I always supposed it was Miss Havisham.”\n\n“As you say, Pip,” returned Mr. Jaggers, turning his eyes upon me coolly, and taking a bite at his forefinger, “I am not at all responsible for that.”\n\n“And yet it looked so like it, sir,” I pleaded with a downcast heart.\n\n“Not a particle of evidence, Pip,” said Mr. Jaggers, shaking his head and gathering up his skirts. “Take nothing on its looks; take everything on evidence. There’s no better rule.”\n\n“I have no more to say,” said I, with a sigh, after standing silent for a little while. “I have verified my information, and there’s an end.”\n\n“And Magwitch—in New South Wales—having at last disclosed himself,” said Mr. Jaggers, “you will comprehend, Pip, how rigidly throughout my communication with you, I have always adhered to the strict line of fact. There has never been the least departure from the strict line of fact. You are quite aware of that?”\n\n“Quite, sir.”\n\n“I communicated to Magwitch—in New South Wales—when he first wrote to me—from New South Wales—the caution that he must not expect me ever to deviate from the strict line of fact."
+      },
+      "request_id": "2d0764769bc691531e108d32",
+      "request_sha256": "9b8055c034dc58e22c4fdbb69a38e130aae6e55f7d4ce1fcfd6093db1d7f0bc8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6817205291d6ee2bcae3bab6183a0618e111c9f085546ec391f92264c2e22343"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "727b83cb971b066fe321c63e",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_shelley_the_last_man_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 727b83cb971b066fe321c63e\noriginal_word_count: 452\n\nPassage:\nSummer advanced, and, crowned with the sun’s potent rays, plague shot her unerring shafts over the earth. The nations beneath their influence bowed their heads, and died. The corn that sprung up in plenty, lay in autumn rotting on the ground, while the melancholy wretch who had gone out to gather bread for his children, lay stiff and plague-struck in the furrow. The green woods waved their boughs majestically, while the dying were spread beneath their shade, answering the solemn melody with inharmonious cries. The painted birds flitted through the shades; the careless deer reposed unhurt upon the fern—the oxen and the horses strayed from their unguarded stables, and grazed among the wheat, for death fell on man alone.\n\nWith summer and mortality grew our fears. My poor love and I looked at each other, and our babes.—“We will save them, Idris,” I said, “I will save them. Years hence we shall recount to them our fears, then passed away with their occasion. Though they only should remain on the earth, still they shall live, nor shall their cheeks become pale nor their sweet voices languish.” Our eldest in some degree understood the scenes passing around, and at times, he with serious looks questioned me concerning the reason of so vast a desolation. But he was only ten years old; and the hilarity of youth soon chased unreasonable care from his brow. Evelyn, a laughing cherub, a gamesome infant, without idea of pain or sorrow, would, shaking back his light curls from his eyes, make the halls re-echo with his merriment, and in a thousand artless ways attract our attention to his play. Clara, our lovely gentle Clara, was our stay, our solace, our delight. She made it her task to attend the sick, comfort the sorrowing, assist the aged, and partake the sports and awaken the gaiety of the young. She flitted through the rooms, like a good spirit, dispatched from the celestial kingdom, to illumine our dark hour with alien splendour. Gratitude and praise marked where her footsteps had been. Yet, when she stood in unassuming simplicity before us, playing with our children, or with girlish assiduity performing little kind offices for Idris, one wondered in what fair lineament of her pure loveliness, in what soft tone of her thrilling voice, so much of heroism, sagacity and active goodness resided.\n\nThe summer passed tediously, for we trusted that winter would at least check the disease. That it would vanish altogether was an hope too dear— too heartfelt, to be expressed. When such a thought was heedlessly uttered, the hearers, with a gush of tears and passionate sobs, bore witness how deep their fears were, how small their hopes."
+      },
+      "request_id": "727b83cb971b066fe321c63e",
+      "request_sha256": "e693fedb3659bbdfe303a4458b5f3226ca03e50a0ca94ca1a15e39a59c30bac7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9f86a0a94224276006b306244a2dc160fccc7b2b5abc1d46397155cba3a39edd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "147413ea2a99ff74dfb4e62f",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 468,
+      "passage_id": "V2_twain_tom_sawyer_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 147413ea2a99ff74dfb4e62f\noriginal_word_count: 468\n\nPassage:\nAfter dinner all the gang turned out to hunt for turtle eggs on the bar. They went about poking sticks into the sand, and when they found a soft place they went down on their knees and dug with their hands. Sometimes they would take fifty or sixty eggs out of one hole. They were perfectly round white things a trifle smaller than an English walnut. They had a famous fried-egg feast that night, and another on Friday morning.\n\nAfter breakfast they went whooping and prancing out on the bar, and chased each other round and round, shedding clothes as they went, until they were naked, and then continued the frolic far away up the shoal water of the bar, against the stiff current, which latter tripped their legs from under them from time to time and greatly increased the fun. And now and then they stooped in a group and splashed water in each other’s faces with their palms, gradually approaching each other, with averted faces to avoid the strangling sprays, and finally gripping and struggling till the best man ducked his neighbor, and then they all went under in a tangle of white legs and arms and came up blowing, sputtering, laughing, and gasping for breath at one and the same time.\n\nWhen they were well exhausted, they would run out and sprawl on the dry, hot sand, and lie there and cover themselves up with it, and by and by break for the water again and go through the original performance once more. Finally it occurred to them that their naked skin represented flesh-colored “tights” very fairly; so they drew a ring in the sand and had a circus—with three clowns in it, for none would yield this proudest post to his neighbor.\n\nNext they got their marbles and played “knucks” and “ringtaw” and “keeps” till that amusement grew stale. Then Joe and Huck had another swim, but Tom would not venture, because he found that in kicking off his trousers he had kicked his string of rattlesnake rattles off his ankle, and he wondered how he had escaped cramp so long without the protection of this mysterious charm. He did not venture again until he had found it, and by that time the other boys were tired and ready to rest. They gradually wandered apart, dropped into the “dumps,” and fell to gazing longingly across the wide river to where the village lay drowsing in the sun. Tom found himself writing “BECKY” in the sand with his big toe; he scratched it out, and was angry with himself for his weakness. But he wrote it again, nevertheless; he could not help it. He erased it once more and then took himself out of temptation by driving the other boys together and joining them."
+      },
+      "request_id": "147413ea2a99ff74dfb4e62f",
+      "request_sha256": "a1595c04c7b15e13c7186e73751b5ce1a0009e36ff9c6f361069e3d075d3ce9c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b559f58c5fea977e2530a5c2e0a9791d2a3db01f22ca50437fe09c271b7e7f55"
+    }
+  ],
+  "session_id": "01a0e85b-f4da-78c2-af90-17d8fea0262a",
+  "worker_id": "astra_r",
+  "worker_identity_sha256": "1a9221512f2af9568b0b6124d87657856f97eb8192807e50db5ed5d6fe4cdc4b"
+}

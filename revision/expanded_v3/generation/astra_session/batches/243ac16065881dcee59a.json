@@ -1,0 +1,68 @@
+{
+  "batch_id": "243ac16065881dcee59a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:37:29.305743+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5275b6f88a3c189b2d4c5e21",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_wilde_dorian_gray_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 5275b6f88a3c189b2d4c5e21\noriginal_word_count: 450\n\nPassage:\nThis marriage is quite right. I did not think so at first, but I admit it now. The gods made Sibyl Vane for you. Without her you would have been incomplete.”\n\n“Thanks, Basil,” answered Dorian Gray, pressing his hand. “I knew that you would understand me. Harry is so cynical, he terrifies me. But here is the orchestra. It is quite dreadful, but it only lasts for about five minutes. Then the curtain rises, and you will see the girl to whom I am going to give all my life, to whom I have given everything that is good in me.”\n\nA quarter of an hour afterwards, amidst an extraordinary turmoil of applause, Sibyl Vane stepped on to the stage. Yes, she was certainly lovely to look at—one of the loveliest creatures, Lord Henry thought, that he had ever seen. There was something of the fawn in her shy grace and startled eyes. A faint blush, like the shadow of a rose in a mirror of silver, came to her cheeks as she glanced at the crowded enthusiastic house. She stepped back a few paces and her lips seemed to tremble. Basil Hallward leaped to his feet and began to applaud. Motionless, and as one in a dream, sat Dorian Gray, gazing at her. Lord Henry peered through his glasses, murmuring, “Charming! charming!”\n\nThe scene was the hall of Capulet’s house, and Romeo in his pilgrim’s dress had entered with Mercutio and his other friends. The band, such as it was, struck up a few bars of music, and the dance began. Through the crowd of ungainly, shabbily dressed actors, Sibyl Vane moved like a creature from a finer world. Her body swayed, while she danced, as a plant sways in the water. The curves of her throat were the curves of a white lily. Her hands seemed to be made of cool ivory.\n\nYet she was curiously listless. She showed no sign of joy when her eyes rested on Romeo. The few words she had to speak—\n\nGood pilgrim, you do wrong your hand too much, Which mannerly devotion shows in this; For saints have hands that pilgrims’ hands do touch, And palm to palm is holy palmers’ kiss—\n\nwith the brief dialogue that follows, were spoken in a thoroughly artificial manner. The voice was exquisite, but from the point of view of tone it was absolutely false. It was wrong in colour. It took away all the life from the verse. It made the passion unreal.\n\nDorian Gray grew pale as he watched her. He was puzzled and anxious. Neither of his friends dared to say anything to him. She seemed to them to be absolutely incompetent."
+      },
+      "request_id": "5275b6f88a3c189b2d4c5e21",
+      "request_sha256": "55bb0372b94a33f45bbd73b95533392d3282edbce0965e38e0e5f8e811de69dc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b947033921d3b810c5a8da5652bcf9048ea6f36521ab4ec345ad59508b45d530"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a919f6cded413b3efda54fe0",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_dickens_oliver_twist_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: a919f6cded413b3efda54fe0\noriginal_word_count: 460\n\nPassage:\n“What’s the matter?” demanded Oliver.\n\n“Hush!” replied the Dodger. “Do you see that old cove at the book-stall?”\n\n“The old gentleman over the way?” said Oliver. “Yes, I see him.”\n\n“He’ll do,” said the Dodger.\n\n“A prime plant,” observed Master Charley Bates.\n\nOliver looked from one to the other, with the greatest surprise; but he was not permitted to make any inquiries; for the two boys walked stealthily across the road, and slunk close behind the old gentleman towards whom his attention had been directed. Oliver walked a few paces after them; and, not knowing whether to advance or retire, stood looking on in silent amazement.\n\nThe old gentleman was a very respectable-looking personage, with a powdered head and gold spectacles. He was dressed in a bottle-green coat with a black velvet collar; wore white trousers; and carried a smart bamboo cane under his arm. He had taken up a book from the stall, and there he stood, reading away, as hard as if he were in his elbow-chair, in his own study. It is very possible that he fancied himself there, indeed; for it was plain, from his abstraction, that he saw not the book-stall, nor the street, nor the boys, nor, in short, anything but the book itself: which he was reading straight through: turning over the leaf when he got to the bottom of a page, beginning at the top line of the next one, and going regularly on, with the greatest interest and eagerness.\n\nWhat was Oliver’s horror and alarm as he stood a few paces off, looking on with his eyelids as wide open as they would possibly go, to see the Dodger plunge his hand into the old gentleman’s pocket, and draw from thence a handkerchief! To see him hand the same to Charley Bates; and finally to behold them, both running away round the corner at full speed!\n\nIn an instant the whole mystery of the hankerchiefs, and the watches, and the jewels, and the Jew, rushed upon the boy’s mind.\n\nHe stood, for a moment, with the blood so tingling through all his veins from terror, that he felt as if he were in a burning fire; then, confused and frightened, he took to his heels; and, not knowing what he did, made off as fast as he could lay his feet to the ground.\n\nThis was all done in a minute’s space. In the very instant when Oliver began to run, the old gentleman, putting his hand to his pocket, and missing his handkerchief, turned sharp round. Seeing the boy scudding away at such a rapid pace, he very naturally concluded him to be the depredator; and shouting “Stop thief!” with all his might, made off after him, book in hand."
+      },
+      "request_id": "a919f6cded413b3efda54fe0",
+      "request_sha256": "2b2376460725f699d8af41e9b6281cb1fd6f090ea7cf4e41e6cdc918c62d2bf5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "34da19b31d93424e0543a9c41b3e7c0371843b5834c0e6c500060d12a72f2527"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "049665e3082ef7f31a392c69",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_twain_tom_sawyer_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 049665e3082ef7f31a392c69\noriginal_word_count: 456\n\nPassage:\n“Yes, burglar’s tools. That appears to relieve you a good deal. But what did give you that turn? What were _you_ expecting we’d found?”\n\nHuck was in a close place—the inquiring eye was upon him—he would have given anything for material for a plausible answer—nothing suggested itself—the inquiring eye was boring deeper and deeper—a senseless reply offered—there was no time to weigh it, so at a venture he uttered it—feebly:\n\n“Sunday-school books, maybe.”\n\nPoor Huck was too distressed to smile, but the old man laughed loud and joyously, shook up the details of his anatomy from head to foot, and ended by saying that such a laugh was money in a man’s pocket, because it cut down the doctor’s bill like everything. Then he added:\n\n“Poor old chap, you’re white and jaded—you ain’t well a bit—no wonder you’re a little flighty and off your balance. But you’ll come out of it. Rest and sleep will fetch you out all right, I hope.”\n\nHuck was irritated to think he had been such a goose and betrayed such a suspicious excitement, for he had dropped the idea that the parcel brought from the tavern was the treasure, as soon as he had heard the talk at the widow’s stile. He had only thought it was not the treasure, however—he had not known that it wasn’t—and so the suggestion of a captured bundle was too much for his self-possession. But on the whole he felt glad the little episode had happened, for now he knew beyond all question that that bundle was not _the_ bundle, and so his mind was at rest and exceedingly comfortable. In fact, everything seemed to be drifting just in the right direction, now; the treasure must be still in No. 2, the men would be captured and jailed that day, and he and Tom could seize the gold that night without any trouble or any fear of interruption.\n\nJust as breakfast was completed there was a knock at the door. Huck jumped for a hiding-place, for he had no mind to be connected even remotely with the late event. The Welshman admitted several ladies and gentlemen, among them the Widow Douglas, and noticed that groups of citizens were climbing up the hill—to stare at the stile. So the news had spread. The Welshman had to tell the story of the night to the visitors. The widow’s gratitude for her preservation was outspoken.\n\n“Don’t say a word about it, madam. There’s another that you’re more beholden to than you are to me and my boys, maybe, but he don’t allow me to tell his name. We wouldn’t have been there but for him.”"
+      },
+      "request_id": "049665e3082ef7f31a392c69",
+      "request_sha256": "f6bdd62000007bae9792c97446a7c5f6779ed73b0cd5fa6a752e4129191fac7e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "644eed05f74710ece4bb051d330ab24febbeb08bd8df93aa824125c151169900"
+    }
+  ],
+  "session_id": "01a0e871-0029-7eb2-b032-b2c22db7d18a",
+  "worker_id": "astra_y",
+  "worker_identity_sha256": "117b62507d566d7e1674868f608b01ea30f8f22336a4d59e5e97eb3a6f4f8842"
+}

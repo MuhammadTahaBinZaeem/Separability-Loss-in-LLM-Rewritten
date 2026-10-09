@@ -1,0 +1,68 @@
+{
+  "batch_id": "e96e0197922b0473d383",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:56:27.591974+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "fbdbbe2002f059ecdf676a4d",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_dickens_oliver_twist_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: fbdbbe2002f059ecdf676a4d\noriginal_word_count: 454\n\nPassage:\nThey know what a clever lad he is; he’ll be a lifer. They’ll make the Artful nothing less than a lifer.”\n\n“What do you mean by lagging and a lifer?” demanded Mr. Bolter. “What’s the good of talking in that way to me; why don’t yer speak so as I can understand yer?”\n\nFagin was about to translate these mysterious expressions into the vulgar tongue; and, being interpreted, Mr. Bolter would have been informed that they represented that combination of words, “transportation for life,” when the dialogue was cut short by the entry of Master Bates, with his hands in his breeches-pockets, and his face twisted into a look of semi-comical woe.\n\n“It’s all up, Fagin,” said Charley, when he and his new companion had been made known to each other.\n\n“What do you mean?”\n\n“They’ve found the gentleman as owns the box; two or three more’s a coming to ’dentify him; and the Artful’s booked for a passage out,” replied Master Bates. “I must have a full suit of mourning, Fagin, and a hatband, to wisit him in, afore he sets out upon his travels. To think of Jack Dawkins—lummy Jack—the Dodger—the Artful Dodger—going abroad for a common twopenny-halfpenny sneeze-box! I never thought he’d a done it under a gold watch, chain, and seals, at the lowest. Oh, why didn’t he rob some rich old gentleman of all his walables, and go out as a gentleman, and not like a common prig, without no honour nor glory!”\n\nWith this expression of feeling for his unfortunate friend, Master Bates sat himself on the nearest chair with an aspect of chagrin and despondency.\n\n“What do you talk about his having neither honour nor glory for!” exclaimed Fagin, darting an angry look at his pupil. “Wasn’t he always the top-sawyer among you all! Is there one of you that could touch him or come near him on any scent! Eh?”\n\n“Not one,” replied Master Bates, in a voice rendered husky by regret; “not one.”\n\n“Then what do you talk of?” replied Fagin angrily; “what are you blubbering for?”\n\n“’Cause it isn’t on the rec-ord, is it?” said Charley, chafed into perfect defiance of his venerable friend by the current of his regrets; “’cause it can’t come out in the ’dictment; ’cause nobody will never know half of what he was. How will he stand in the Newgate Calendar? P’raps not be there at all. Oh, my eye, my eye, wot a blow it is!”\n\n“Ha! ha!” cried Fagin, extending his right hand, and turning to Mr. Bolter in a fit of chuckling which shook him as though he had the palsy; “see what a pride they take in their profession, my dear."
+      },
+      "request_id": "fbdbbe2002f059ecdf676a4d",
+      "request_sha256": "391749321c0be0a2b492ff68dd90c867bc045d28aa9ca5a98b1dc23f74a86008",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7d90d478780b060191792edb33420377adf972bc11d50273c0d5e293a806149e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "40473db0964ada601a04d36f",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_shelley_mathilda_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 40473db0964ada601a04d36f\noriginal_word_count: 470\n\nPassage:\nNearly a year had past since my father’s return, and the seasons had almost finished their round--It was now the end of May; the woods were clothed in their freshest verdure, and the sweet smell of the new mown grass was in the fields. I thought that the balmy air and the lovely face of Nature might aid me in inspiring him with mild sensations, and give him gentle feelings of peace and love preparatory to the confidence I determined to win from him.\n\nI chose therefore the evening of one of these days for my attempt. I invited him to walk with me, and led him to a neighbouring wood of beech trees whose light shade shielded us from the slant and dazzling beams of the descending sun--After walking for some time in silence I seated my self with him on a mossy hillock--It is strange but even now I seem to see the spot--the slim and smooth trunks were many of them wound round by ivy whose shining leaves of the darkest green contrasted with the white bark and the light leaves of the young sprouts of beech that grew from their parent trunks--the short grass was mingled with moss and was partly covered by the dead leaves of the last autumn that driven by the winds had here and there collected in little hillocks--there were a few moss grown stumps about--The leaves were gently moved by the breeze and through their green canopy you could see the bright blue sky--As evening came on the distant trunks were reddened by the sun and the wind died entirely away while a few birds flew past us to their evening rest.\n\nWell it was here we sat together, and when you hear all that past--all that of terrible tore our souls even in this placid spot, which but for strange passions might have been a paradise to us, you will not wonder that I remember it as I looked on it that its calm might give me calm, and inspire me not only with courage but with persuasive words. I saw all these things and in a vacant manner noted them in my mind while I endeavoured to arrange my thoughts in fitting order for my attempt. My heart beat fast as I worked myself up to speak to him, for I was determined not to be repulsed but I trembled to imagine what effect my words might have on him; at length, with much hesitation I began:\n\n“Your kindness to me, my dearest father, and the affection--the excessive affection--that you had for me when you first returned will I hope excuse me in your eyes that I dare speak to you, although with the tender affection of a daughter, yet also with the freedom of a friend and equal."
+      },
+      "request_id": "40473db0964ada601a04d36f",
+      "request_sha256": "b744a154ec6016d3f2d4bafe40479f4f55eaf9f6c6d3108deaf691901949a55b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4dfeb1074f5be9a81b84b989773ed05f4c36cae1d407cd0dc256f547682eea87"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d2dcdfc3252530a8774f7588",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 491,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: d2dcdfc3252530a8774f7588\noriginal_word_count: 491\n\nPassage:\nHe was delivered to you. You see I am informed of the circumstances?”\n\n“Such is the fact, certainly,” said Defarge. He had had it conveyed to him, in an accidental touch of his wife’s elbow as she knitted and warbled, that he would do best to answer, but always with brevity.\n\n“It was to you,” said the spy, “that his daughter came; and it was from your care that his daughter took him, accompanied by a neat brown monsieur; how is he called?--in a little wig--Lorry--of the bank of Tellson and Company--over to England.”\n\n“Such is the fact,” repeated Defarge.\n\n“Very interesting remembrances!” said the spy. “I have known Doctor Manette and his daughter, in England.”\n\n“Yes?” said Defarge.\n\n“You don’t hear much about them now?” said the spy.\n\n“No,” said Defarge.\n\n“In effect,” madame struck in, looking up from her work and her little song, “we never hear about them. We received the news of their safe arrival, and perhaps another letter, or perhaps two; but, since then, they have gradually taken their road in life--we, ours--and we have held no correspondence.”\n\n“Perfectly so, madame,” replied the spy. “She is going to be married.”\n\n“Going?” echoed madame. “She was pretty enough to have been married long ago. You English are cold, it seems to me.”\n\n“Oh! You know I am English.”\n\n“I perceive your tongue is,” returned madame; “and what the tongue is, I suppose the man is.”\n\nHe did not take the identification as a compliment; but he made the best of it, and turned it off with a laugh. After sipping his cognac to the end, he added:\n\n“Yes, Miss Manette is going to be married. But not to an Englishman; to one who, like herself, is French by birth. And speaking of Gaspard (ah, poor Gaspard! It was cruel, cruel!), it is a curious thing that she is going to marry the nephew of Monsieur the Marquis, for whom Gaspard was exalted to that height of so many feet; in other words, the present Marquis. But he lives unknown in England, he is no Marquis there; he is Mr. Charles Darnay. D’Aulnais is the name of his mother’s family.”\n\nMadame Defarge knitted steadily, but the intelligence had a palpable effect upon her husband. Do what he would, behind the little counter, as to the striking of a light and the lighting of his pipe, he was troubled, and his hand was not trustworthy. The spy would have been no spy if he had failed to see it, or to record it in his mind.\n\nHaving made, at least, this one hit, whatever it might prove to be worth, and no customers coming in to help him to any other, Mr. Barsad paid for what he had drunk, and took his leave: taking occasion to say, in a genteel manner, before he departed, that he looked forward to the pleasure of seeing Monsieur and Madame Defarge again."
+      },
+      "request_id": "d2dcdfc3252530a8774f7588",
+      "request_sha256": "e540e8b97ef82eded2608df3c72ca1c1f54f806e74e9c14dcda5e3b776c27a60",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8ed2df99fe695139c5dec3b824f0623fea3d38b3d2c7c41462b3124f1d4bb48c"
+    }
+  ],
+  "session_id": "01a0e847-b893-7c52-8311-f3acf99043e1",
+  "worker_id": "astra_l",
+  "worker_identity_sha256": "2c5da61879bebe3353fa66cda11e4cbc6ce4420d78f567ebeb859dde68cb1df4"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "a8e37b461b1d3a42ccd3",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:24:04.261005+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a7ddaf97f6e729b9546dc91f",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_austen_persuasion_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: a7ddaf97f6e729b9546dc91f\noriginal_word_count: 464\n\nPassage:\n“This must have been about that very period of Mr Elliot’s life,” said Anne, “which has always excited my particular curiosity. It must have been about the same time that he became known to my father and sister. I never knew him myself; I only heard of him; but there was a something in his conduct then, with regard to my father and sister, and afterwards in the circumstances of his marriage, which I never could quite reconcile with present times. It seemed to announce a different sort of man.”\n\n“I know it all, I know it all,” cried Mrs Smith. “He had been introduced to Sir Walter and your sister before I was acquainted with him, but I heard him speak of them for ever. I know he was invited and encouraged, and I know he did not choose to go. I can satisfy you, perhaps, on points which you would little expect; and as to his marriage, I knew all about it at the time. I was privy to all the fors and againsts; I was the friend to whom he confided his hopes and plans; and though I did not know his wife previously, her inferior situation in society, indeed, rendered that impossible, yet I knew her all her life afterwards, or at least till within the last two years of her life, and can answer any question you may wish to put.”\n\n“Nay,” said Anne, “I have no particular enquiry to make about her. I have always understood they were not a happy couple. But I should like to know why, at that time of his life, he should slight my father’s acquaintance as he did. My father was certainly disposed to take very kind and proper notice of him. Why did Mr Elliot draw back?”\n\n“Mr Elliot,” replied Mrs Smith, “at that period of his life, had one object in view: to make his fortune, and by a rather quicker process than the law. He was determined to make it by marriage. He was determined, at least, not to mar it by an imprudent marriage; and I know it was his belief (whether justly or not, of course I cannot decide), that your father and sister, in their civilities and invitations, were designing a match between the heir and the young lady, and it was impossible that such a match should have answered his ideas of wealth and independence. That was his motive for drawing back, I can assure you. He told me the whole story. He had no concealments with me. It was curious, that having just left you behind me in Bath, my first and principal acquaintance on marrying should be your cousin; and that, through him, I should be continually hearing of your father and sister."
+      },
+      "request_id": "a7ddaf97f6e729b9546dc91f",
+      "request_sha256": "98d58efc3e47daac94756839c11228a46bc10318ecfab84f34f2b72096a3cab1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3ee628f22820f01f45d6285d995ce67334dd559d7940f62bb91afad40f214d99"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8fc4f68cbc643be490b99d3f",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_wilde_canterville_ghost_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8fc4f68cbc643be490b99d3f\noriginal_word_count: 459\n\nPassage:\nThis was Mrs. Umney, the housekeeper, whom Mrs. Otis, at Lady Canterville’s earnest request, had consented to keep on in her former position. She made them each a low curtsey as they alighted, and said in a quaint, old-fashioned manner, ‘I bid you welcome to Canterville Chase.’ Following her, they passed through the fine Tudor hall into the library, a long, low room, panelled in black oak, at the end of which was a large stained-glass window. Here they found tea laid out for them, and, after taking off their wraps, they sat down and began to look round, while Mrs. Umney waited on them.\n\nSuddenly Mrs. Otis caught sight of a dull red stain on the floor just by the fireplace and, quite unconscious of what it really signified, said to Mrs. Umney, ‘I am afraid something has been spilt there.’\n\n‘Yes, madam,’ replied the old housekeeper in a low voice, ‘blood has been spilt on that spot.’\n\n‘How horrid,’ cried Mrs. Otis; ‘I don’t at all care for blood-stains in a sitting-room. It must be removed at once.’\n\nThe old woman smiled, and answered in the same low, mysterious voice, ‘It is the blood of Lady Eleanore de Canterville, who was murdered on that very spot by her own husband, Sir Simon de Canterville, in 1575. Sir Simon survived her nine years, and disappeared suddenly under very mysterious circumstances. His body has never been discovered, but his guilty spirit still haunts the Chase. The blood-stain has been much admired by tourists and others, and cannot be removed.’\n\n‘That is all nonsense,’ cried Washington Otis; ‘Pinkerton’s Champion Stain Remover and Paragon Detergent will clean it up in no time,’ and before the terrified housekeeper could interfere he had fallen upon his knees, and was rapidly scouring the floor with a small stick of what looked like a black cosmetic. In a few moments no trace of the blood-stain could be seen.\n\n‘I knew Pinkerton would do it,’ he exclaimed triumphantly, as he looked round at his admiring family; but no sooner had he said these words than a terrible flash of lightning lit up the sombre room, a fearful peal of thunder made them all start to their feet, and Mrs. Umney fainted.\n\n‘What a monstrous climate!’ said the American Minister calmly, as he lit a long cheroot. ‘I guess the old country is so overpopulated that they have not enough decent weather for everybody. I have always been of opinion that emigration is the only thing for England.’\n\n‘My dear Hiram,’ cried Mrs. Otis, ‘what can we do with a woman who faints?’\n\n‘Charge it to her like breakages,’ answered the Minister; ‘she won’t faint after that’; and in a few moments Mrs. Umney certainly came to."
+      },
+      "request_id": "8fc4f68cbc643be490b99d3f",
+      "request_sha256": "71bd88bb0a71df7178d4db022ea224e5e6353a2840e632b55fd40c4a3d165878",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e558d7ddc31d9cc0e6da7a07f330984cb58498a7e6ba626640b45cc0ab48f9b0"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "425071b1d7f5ff4f0396f5fa",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_dickens_oliver_twist_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 425071b1d7f5ff4f0396f5fa\noriginal_word_count: 454\n\nPassage:\nAmong other public buildings in a certain town, which for many reasons it will be prudent to refrain from mentioning, and to which I will assign no fictitious name, there is one anciently common to most towns, great or small: to wit, a workhouse; and in this workhouse was born; on a day and date which I need not trouble myself to repeat, inasmuch as it can be of no possible consequence to the reader, in this stage of the business at all events; the item of mortality whose name is prefixed to the head of this chapter.\n\nFor a long time after it was ushered into this world of sorrow and trouble, by the parish surgeon, it remained a matter of considerable doubt whether the child would survive to bear any name at all; in which case it is somewhat more than probable that these memoirs would never have appeared; or, if they had, that being comprised within a couple of pages, they would have possessed the inestimable merit of being the most concise and faithful specimen of biography, extant in the literature of any age or country.\n\nAlthough I am not disposed to maintain that being born in a workhouse, is in itself the most fortunate and enviable circumstance that can possibly befall a human being, I do mean to say that in this particular instance, it was the best thing for Oliver Twist that could by possibility have occurred. The fact is, that there was considerable difficulty in inducing Oliver to take upon himself the office of respiration,—a troublesome practice, but one which custom has rendered necessary to our easy existence; and for some time he lay gasping on a little flock mattress, rather unequally poised between this world and the next: the balance being decidedly in favour of the latter. Now, if, during this brief period, Oliver had been surrounded by careful grandmothers, anxious aunts, experienced nurses, and doctors of profound wisdom, he would most inevitably and indubitably have been killed in no time. There being nobody by, however, but a pauper old woman, who was rendered rather misty by an unwonted allowance of beer; and a parish surgeon who did such matters by contract; Oliver and Nature fought out the point between them. The result was, that, after a few struggles, Oliver breathed, sneezed, and proceeded to advertise to the inmates of the workhouse the fact of a new burden having been imposed upon the parish, by setting up as loud a cry as could reasonably have been expected from a male infant who had not been possessed of that very useful appendage, a voice, for a much longer space of time than three minutes and a quarter."
+      },
+      "request_id": "425071b1d7f5ff4f0396f5fa",
+      "request_sha256": "8f8d533d7850ba00e40abc0cccbcee1b0ecc6297953bca2d2aafa0e139f020b7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1610e9c60a548e06afc3672d74d4c54d3de96d61d0b358cc57f7056eb8d0db6b"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

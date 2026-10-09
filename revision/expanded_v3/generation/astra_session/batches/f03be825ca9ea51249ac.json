@@ -1,0 +1,68 @@
+{
+  "batch_id": "f03be825ca9ea51249ac",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:21:02.735778+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "04c750be16066fe668a5b5b7",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_poe_hans_pfaal_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 04c750be16066fe668a5b5b7\noriginal_word_count: 464\n\nPassage:\nPeople who were formerly, the very best customers in the world, had now not a moment of time to think of us at all. They had, so they said, as much as they could do to read about the revolutions, and keep up with the march of intellect and the spirit of the age. If a fire wanted fanning, it could readily be fanned with a newspaper, and as the government grew weaker, I have no doubt that leather and iron acquired durability in proportion, for, in a very short time, there was not a pair of bellows in all Rotterdam that ever stood in need of a stitch or required the assistance of a hammer. This was a state of things not to be endured. I soon grew as poor as a rat, and, having a wife and children to provide for, my burdens at length became intolerable, and I spent hour after hour in reflecting upon the most convenient method of putting an end to my life. Duns, in the meantime, left me little leisure for contemplation. My house was literally besieged from morning till night, so that I began to rave, and foam, and fret like a caged tiger against the bars of his enclosure. There were three fellows in particular who worried me beyond endurance, keeping watch continually about my door, and threatening me with the law. Upon these three I internally vowed the bitterest revenge, if ever I should be so happy as to get them within my clutches; and I believe nothing in the world but the pleasure of this anticipation prevented me from putting my plan of suicide into immediate execution, by blowing my brains out with a blunderbuss. I thought it best, however, to dissemble my wrath, and to treat them with promises and fair words, until, by some good turn of fate, an opportunity of vengeance should be afforded me.\n\n“One day, having given my creditors the slip, and feeling more than usually dejected, I continued for a long time to wander about the most obscure streets without object whatever, until at length I chanced to stumble against the corner of a bookseller’s stall. Seeing a chair close at hand, for the use of customers, I threw myself doggedly into it, and, hardly knowing why, opened the pages of the first volume which came within my reach. It proved to be a small pamphlet treatise on Speculative Astronomy, written either by Professor Encke of Berlin or by a Frenchman of somewhat similar name. I had some little tincture of information on matters of this nature, and soon became more and more absorbed in the contents of the book, reading it actually through twice before I awoke to a recollection of what was passing around me."
+      },
+      "request_id": "04c750be16066fe668a5b5b7",
+      "request_sha256": "78d4825923e2924875364035e86c024faffaf770260e91c4fbf93a3ac806f142",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ce727a96c8dae0b4d5d2a9e0f1476738ad22d1429811d26db2b85a984e4d3f60"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d32fc929ed3604133e6df975",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 469,
+      "passage_id": "V2_shelley_frankenstein_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: d32fc929ed3604133e6df975\noriginal_word_count: 469\n\nPassage:\n“I now hasten to the more moving part of my story. I shall relate events that impressed me with feelings which, from what I had been, have made me what I am.\n\n“Spring advanced rapidly; the weather became fine and the skies cloudless. It surprised me that what before was desert and gloomy should now bloom with the most beautiful flowers and verdure. My senses were gratified and refreshed by a thousand scents of delight and a thousand sights of beauty.\n\n“It was on one of these days, when my cottagers periodically rested from labour—the old man played on his guitar, and the children listened to him—that I observed the countenance of Felix was melancholy beyond expression; he sighed frequently, and once his father paused in his music, and I conjectured by his manner that he inquired the cause of his son’s sorrow. Felix replied in a cheerful accent, and the old man was recommencing his music when someone tapped at the door.\n\n“It was a lady on horseback, accompanied by a country-man as a guide. The lady was dressed in a dark suit and covered with a thick black veil. Agatha asked a question, to which the stranger only replied by pronouncing, in a sweet accent, the name of Felix. Her voice was musical but unlike that of either of my friends. On hearing this word, Felix came up hastily to the lady, who, when she saw him, threw up her veil, and I beheld a countenance of angelic beauty and expression. Her hair of a shining raven black, and curiously braided; her eyes were dark, but gentle, although animated; her features of a regular proportion, and her complexion wondrously fair, each cheek tinged with a lovely pink.\n\n“Felix seemed ravished with delight when he saw her, every trait of sorrow vanished from his face, and it instantly expressed a degree of ecstatic joy, of which I could hardly have believed it capable; his eyes sparkled, as his cheek flushed with pleasure; and at that moment I thought him as beautiful as the stranger. She appeared affected by different feelings; wiping a few tears from her lovely eyes, she held out her hand to Felix, who kissed it rapturously and called her, as well as I could distinguish, his sweet Arabian. She did not appear to understand him, but smiled. He assisted her to dismount, and dismissing her guide, conducted her into the cottage. Some conversation took place between him and his father, and the young stranger knelt at the old man’s feet and would have kissed his hand, but he raised her and embraced her affectionately.\n\n“I soon perceived that although the stranger uttered articulate sounds and appeared to have a language of her own, she was neither understood by nor herself understood the cottagers."
+      },
+      "request_id": "d32fc929ed3604133e6df975",
+      "request_sha256": "5a4e00950f80eac1893297d6cc527c123bebf003fb5318049f5e46c586e05358",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "58deb4cbcac77c708041a2714960328477f1d07ed88c431ce1b0941a9036e68c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d90b4956292e842c1e70da2a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_shelley_the_last_man_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: d90b4956292e842c1e70da2a\noriginal_word_count: 452\n\nPassage:\nYe spirits of storm, receive me! ye powers of destruction, open wide your arms, and clasp me for ever! if a kinder power have not decreed another end, so that after long endurance I may reap my reward, and again feel my heart beat near the heart of another like to me.\n\nTiber, the road which is spread by nature’s own hand, threading her continent, was at my feet, and many a boat was tethered to the banks. I would with a few books, provisions, and my dog, embark in one of these and float down the current of the stream into the sea; and then, keeping near land, I would coast the beauteous shores and sunny promontories of the blue Mediterranean, pass Naples, along Calabria, and would dare the twin perils of Scylla and Charybdis; then, with fearless aim, (for what had I to lose?) skim ocean’s surface towards Malta and the further Cyclades. I would avoid Constantinople, the sight of whose well-known towers and inlets belonged to another state of existence from my present one; I would coast Asia Minor, and Syria, and, passing the seven-mouthed Nile, steer northward again, till losing sight of forgotten Carthage and deserted Lybia, I should reach the pillars of Hercules. And then—no matter where—the oozy caves, and soundless depths of ocean may be my dwelling, before I accomplish this long-drawn voyage, or the arrow of disease find my heart as I float singly on the weltering Mediterranean; or, in some place I touch at, I may find what I seek—a companion; or if this may not be—to endless time, decrepid and grey headed—youth already in the grave with those I love— the lone wanderer will still unfurl his sail, and clasp the tiller—and, still obeying the breezes of heaven, for ever round another and another promontory, anchoring in another and another bay, still ploughing seedless ocean, leaving behind the verdant land of native Europe, adown the tawny shore of Africa, having weathered the fierce seas of the Cape, I may moor my worn skiff in a creek, shaded by spicy groves of the odorous islands of the far Indian ocean.\n\nThese are wild dreams. Yet since, now a week ago, they came on me, as I stood on the height of St. Peter’s, they have ruled my imagination. I have chosen my boat, and laid in my scant stores. I have selected a few books; the principal are Homer and Shakespeare—But the libraries of the world are thrown open to me—and in any port I can renew my stock. I form no expectation of alteration for the better; but the monotonous present is intolerable to me."
+      },
+      "request_id": "d90b4956292e842c1e70da2a",
+      "request_sha256": "3650b2d9911b3a6042f333fd8e4954059faddbdc72a348935b91ea307cc157f2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f2e5db312022b55b4e1aa5b553d5e7049138b146d16f0f7ed8e54abac092eada"
+    }
+  ],
+  "session_id": "01a0e861-03f8-7221-8672-8e262e9ebfc7",
+  "worker_id": "astra_t",
+  "worker_identity_sha256": "c223dffc33181152e7b2fea39b5f4b9f77c7ee2ed9647b0e46dbc4f2b2b1711f"
+}

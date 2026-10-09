@@ -1,0 +1,68 @@
+{
+  "batch_id": "4f3108bf801a71466699",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:21:36.931833+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "47a8fe97cdd91e6c4f137ef5",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_murders_rue_morgue_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 47a8fe97cdd91e6c4f137ef5\noriginal_word_count: 455\n\nPassage:\nHis face, greatly sunburnt, was more than half hidden by whisker and _mustachio._ He had with him a huge oaken cudgel, but appeared to be otherwise unarmed. He bowed awkwardly, and bade us “good evening,” in French accents, which, although somewhat Neufchatelish, were still sufficiently indicative of a Parisian origin.\n\n“Sit down, my friend,” said Dupin. “I suppose you have called about the Ourang-Outang. Upon my word, I almost envy you the possession of him; a remarkably fine, and no doubt a very valuable animal. How old do you suppose him to be?”\n\nThe sailor drew a long breath, with the air of a man relieved of some intolerable burden, and then replied, in an assured tone:\n\n“I have no way of telling—but he can’t be more than four or five years old. Have you got him here?”\n\n“Oh no, we had no conveniences for keeping him here. He is at a livery stable in the Rue Dubourg, just by. You can get him in the morning. Of course you are prepared to identify the property?”\n\n“To be sure I am, sir.”\n\n“I shall be sorry to part with him,” said Dupin.\n\n“I don’t mean that you should be at all this trouble for nothing, sir,” said the man. “Couldn’t expect it. Am very willing to pay a reward for the finding of the animal—that is to say, any thing in reason.”\n\n“Well,” replied my friend, “that is all very fair, to be sure. Let me think!—what should I have? Oh! I will tell you. My reward shall be this. You shall give me all the information in your power about these murders in the Rue Morgue.”\n\nDupin said the last words in a very low tone, and very quietly. Just as quietly, too, he walked toward the door, locked it and put the key in his pocket. He then drew a pistol from his bosom and placed it, without the least flurry, upon the table.\n\nThe sailor’s face flushed up as if he were struggling with suffocation. He started to his feet and grasped his cudgel, but the next moment he fell back into his seat, trembling violently, and with the countenance of death itself. He spoke not a word. I pitied him from the bottom of my heart.\n\n“My friend,” said Dupin, in a kind tone, “you are alarming yourself unnecessarily—you are indeed. We mean you no harm whatever. I pledge you the honor of a gentleman, and of a Frenchman, that we intend you no injury. I perfectly well know that you are innocent of the atrocities in the Rue Morgue. It will not do, however, to deny that you are in some measure implicated in them."
+      },
+      "request_id": "47a8fe97cdd91e6c4f137ef5",
+      "request_sha256": "3f0fce2baa11f3a0da08f0423d3321240171cc988d3aa1532dc5cf142df4becb",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "45c6cb6a35137e44cf1f1b859f15ce7c6b0888b50be5df5b89e84a15a488bc33"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f2a962b8ef0295d21707f7b6",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_wilde_canterville_ghost_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: f2a962b8ef0295d21707f7b6\noriginal_word_count: 462\n\nPassage:\nTHE storm raged fiercely all that night, but nothing of particular note occurred. The next morning, however, when they came down to breakfast, they found the terrible stain of blood once again on the floor. ‘I don’t think it can be the fault of the Paragon Detergent,’ said Washington, ‘for I have tried it with everything. It must be the ghost.’ He accordingly rubbed out the stain a second time, but the second morning it appeared again. The third morning also it was there, though the library had been locked up at night by Mr. Otis himself, and the key carried upstairs. The whole family were now quite interested; Mr. Otis began to suspect that he had been too dogmatic in his denial of the existence of ghosts, Mrs. Otis expressed her intention of joining the Psychical Society, and Washington prepared a long letter to Messrs. Myers and Podmore on the subject of the Permanence of Sanguineous Stains when connected with Crime. That night all doubts about the objective existence of phantasmata were removed for ever.\n\nThe day had been warm and sunny; and, in the cool of the evening, the whole family went out for a drive. They did not return home till nine o’clock, when they had a light supper. The conversation in no way turned upon ghosts, so there were not even those primary conditions of receptive expectation which so often precede the presentation of psychical phenomena. The subjects discussed, as I have since learned from Mr. Otis, were merely such as form the ordinary conversation of cultured Americans of the better class, such as the immense superiority of Miss Fanny Davenport over Sarah Bernhardt as an actress; the difficulty of obtaining green corn, buckwheat cakes, and hominy, even in the best English houses; the importance of Boston in the development of the world-soul; the advantages of the baggage check system in railway travelling; and the sweetness of the New York accent as compared to the London drawl. No mention at all was made of the supernatural, nor was Sir Simon de Canterville alluded to in any way. At eleven o’clock the family retired, and by half-past all the lights were out. Some time after, Mr. Otis was awakened by a curious noise in the corridor, outside his room. It sounded like the clank of metal, and seemed to be coming nearer every moment. He got up at once, struck a match, and looked at the time. It was exactly one o’clock. He was quite calm, and felt his pulse, which was not at all feverish. The strange noise still continued, and with it he heard distinctly the sound of footsteps. He put on his slippers, took a small oblong phial out of his dressing-case, and opened the door."
+      },
+      "request_id": "f2a962b8ef0295d21707f7b6",
+      "request_sha256": "39dba34fd9254988f53631d7159b7213331a8f1255b3437dab6cbfadc42c1077",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3bc78e4e92b160921194691c42d38ddac8db100b01cad66ada8be1fe70955ede"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "257fb8052fce8570f73391f6",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_twain_connecticut_yankee_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 257fb8052fce8570f73391f6\noriginal_word_count: 456\n\nPassage:\nKnights and horses in heavy armor couldn't travel very fast. These would make the best time they could, and now that the ground was in good condition, and no snow or mud, they would probably make a seven-mile gait; they would have to change horses a couple of times; they would arrive about six, or a little after; it would still be plenty light enough; they would see the white cloth which I should tie around my right arm, and I would take command. We would surround that prison and have the king out in no time. It would be showy and picturesque enough, all things considered, though I would have preferred noonday, on account of the more theatrical aspect the thing would have.\n\nNow, then, in order to increase the strings to my bow, I thought I would look up some of those people whom I had formerly recognized, and make myself known. That would help us out of our scrape, without the knights. But I must proceed cautiously, for it was a risky business. I must get into sumptuous raiment, and it wouldn't do to run and jump into it. No, I must work up to it by degrees, buying suit after suit of clothes, in shops wide apart, and getting a little finer article with each change, until I should finally reach silk and velvet, and be ready for my project. So I started.\n\nBut the scheme fell through like scat! The first corner I turned, I came plump upon one of our slaves, snooping around with a watchman. I coughed at the moment, and he gave me a sudden look that bit right into my marrow. I judge he thought he had heard that cough before. I turned immediately into a shop and worked along down the counter, pricing things and watching out of the corner of my eye. Those people had stopped, and were talking together and looking in at the door. I made up my mind to get out the back way, if there was a back way, and I asked the shopwoman if I could step out there and look for the escaped slave, who was believed to be in hiding back there somewhere, and said I was an officer in disguise, and my pard was yonder at the door with one of the murderers in charge, and would she be good enough to step there and tell him he needn't wait, but had better go at once to the further end of the back alley and be ready to head him off when I rousted him out.\n\nShe was blazing with eagerness to see one of those already celebrated murderers, and she started on the errand at once."
+      },
+      "request_id": "257fb8052fce8570f73391f6",
+      "request_sha256": "c9a487194ef8fbd4baae93ab563814c0c5cc5584612925f05d3959131ca4c6d0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7419bb49ac58d4fa8742b6e04ce464f3ac0b9e7015177af088291067d5db4a9f"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "3422edfb6134e60e2294",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:55:29.794587+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4c49e0462add6e6ab18d3509",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_austen_emma_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 4c49e0462add6e6ab18d3509\noriginal_word_count: 452\n\nPassage:\nI want to see you permanently well connected, and to that end it will be advisable to have as few odd acquaintance as may be; and, therefore, I say that if you should still be in this country when Mr. Martin marries, I wish you may not be drawn in by your intimacy with the sisters, to be acquainted with the wife, who will probably be some mere farmer’s daughter, without education.”\n\n“To be sure. Yes. Not that I think Mr. Martin would ever marry any body but what had had some education—and been very well brought up. However, I do not mean to set up my opinion against yours—and I am sure I shall not wish for the acquaintance of his wife. I shall always have a great regard for the Miss Martins, especially Elizabeth, and should be very sorry to give them up, for they are quite as well educated as me. But if he marries a very ignorant, vulgar woman, certainly I had better not visit her, if I can help it.”\n\nEmma watched her through the fluctuations of this speech, and saw no alarming symptoms of love. The young man had been the first admirer, but she trusted there was no other hold, and that there would be no serious difficulty, on Harriet’s side, to oppose any friendly arrangement of her own.\n\nThey met Mr. Martin the very next day, as they were walking on the Donwell road. He was on foot, and after looking very respectfully at her, looked with most unfeigned satisfaction at her companion. Emma was not sorry to have such an opportunity of survey; and walking a few yards forward, while they talked together, soon made her quick eye sufficiently acquainted with Mr. Robert Martin. His appearance was very neat, and he looked like a sensible young man, but his person had no other advantage; and when he came to be contrasted with gentlemen, she thought he must lose all the ground he had gained in Harriet’s inclination. Harriet was not insensible of manner; she had voluntarily noticed her father’s gentleness with admiration as well as wonder. Mr. Martin looked as if he did not know what manner was.\n\nThey remained but a few minutes together, as Miss Woodhouse must not be kept waiting; and Harriet then came running to her with a smiling face, and in a flutter of spirits, which Miss Woodhouse hoped very soon to compose.\n\n“Only think of our happening to meet him!—How very odd! It was quite a chance, he said, that he had not gone round by Randalls. He did not think we ever walked this road. He thought we walked towards Randalls most days."
+      },
+      "request_id": "4c49e0462add6e6ab18d3509",
+      "request_sha256": "d8f006d5b22265dafbcda1b6e88bdea62fa82c838d54981b71468602afb6d48d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4a3eb84d0b6a84230be00a0c047283f5b321f68de2503f430c8b19a06d9e1006"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1ae931f8664fd7f883965dab",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_shelley_the_last_man_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 1ae931f8664fd7f883965dab\noriginal_word_count: 452\n\nPassage:\nPerdita’s name was not mentioned; yet I could not doubt that love for her caused the vacillation of purpose that he exhibited. And who was so worthy of love as my noble-minded sister? Who deserved the hand of this self-exalted king more than she whose glance belonged to a queen of nations? who loved him, as he did her; notwithstanding that disappointment quelled her passion, and ambition held strong combat with his.\n\nWe went together to the House in the evening. Raymond, while he knew that his plans and prospects were to be discussed and decided during the expected debate, was gay and careless. An hum, like that of ten thousand hives of swarming bees, stunned us as we entered the coffee-room. Knots of politicians were assembled with anxious brows and loud or deep voices. The aristocratical party, the richest and most influential men in England, appeared less agitated than the others, for the question was to be discussed without their interference. Near the fire was Ryland and his supporters. Ryland was a man of obscure birth and of immense wealth, inherited from his father, who had been a manufacturer. He had witnessed, when a young man, the abdication of the king, and the amalgamation of the two houses of Lords and Commons; he had sympathized with these popular encroachments, and it had been the business of his life to consolidate and encrease them. Since then, the influence of the landed proprietors had augmented; and at first Ryland was not sorry to observe the machinations of Lord Raymond, which drew off many of his opponent’s partizans. But the thing was now going too far. The poorer nobility hailed the return of sovereignty, as an event which would restore them to their power and rights, now lost. The half extinct spirit of royalty roused itself in the minds of men; and they, willing slaves, self-constituted subjects, were ready to bend their necks to the yoke. Some erect and manly spirits still remained, pillars of state; but the word republic had grown stale to the vulgar ear; and many—the event would prove whether it was a majority— pined for the tinsel and show of royalty. Ryland was roused to resistance; he asserted that his sufferance alone had permitted the encrease of this party; but the time for indulgence was passed, and with one motion of his arm he would sweep away the cobwebs that blinded his countrymen.\n\nWhen Raymond entered the coffee-room, his presence was hailed by his friends almost with a shout. They gathered round him, counted their numbers, and detailed the reasons why they were now to receive an addition of such and such members, who had not yet declared themselves."
+      },
+      "request_id": "1ae931f8664fd7f883965dab",
+      "request_sha256": "ca451f2fe2fbd5b4d5bf60573c981ab6031c294e5d80118aed25d4b5c9c6fcca",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e2f37157d5b71b1838ab116281482e43dbf1c2e0b51c9fa74f0be9ec2825f15b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6e94817e95131c4000538a95",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_shelley_frankenstein_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 6e94817e95131c4000538a95\noriginal_word_count: 453\n\nPassage:\n“I swear,” he cried, “by the sun, and by the blue sky of heaven, and by the fire of love that burns my heart, that if you grant my prayer, while they exist you shall never behold me again. Depart to your home and commence your labours; I shall watch their progress with unutterable anxiety; and fear not but that when you are ready I shall appear.”\n\nSaying this, he suddenly quitted me, fearful, perhaps, of any change in my sentiments. I saw him descend the mountain with greater speed than the flight of an eagle, and quickly lost among the undulations of the sea of ice.\n\nHis tale had occupied the whole day, and the sun was upon the verge of the horizon when he departed. I knew that I ought to hasten my descent towards the valley, as I should soon be encompassed in darkness; but my heart was heavy, and my steps slow. The labour of winding among the little paths of the mountain and fixing my feet firmly as I advanced perplexed me, occupied as I was by the emotions which the occurrences of the day had produced. Night was far advanced when I came to the halfway resting-place and seated myself beside the fountain. The stars shone at intervals as the clouds passed from over them; the dark pines rose before me, and every here and there a broken tree lay on the ground; it was a scene of wonderful solemnity and stirred strange thoughts within me. I wept bitterly, and clasping my hands in agony, I exclaimed, “Oh! stars and clouds and winds, ye are all about to mock me; if ye really pity me, crush sensation and memory; let me become as nought; but if not, depart, depart, and leave me in darkness.”\n\nThese were wild and miserable thoughts, but I cannot describe to you how the eternal twinkling of the stars weighed upon me and how I listened to every blast of wind as if it were a dull ugly siroc on its way to consume me.\n\nMorning dawned before I arrived at the village of Chamounix; I took no rest, but returned immediately to Geneva. Even in my own heart I could give no expression to my sensations—they weighed on me with a mountain’s weight and their excess destroyed my agony beneath them. Thus I returned home, and entering the house, presented myself to the family. My haggard and wild appearance awoke intense alarm, but I answered no question, scarcely did I speak. I felt as if I were placed under a ban—as if I had no right to claim their sympathies—as if never more might I enjoy companionship with them."
+      },
+      "request_id": "6e94817e95131c4000538a95",
+      "request_sha256": "74303886b719397de1e75c20497b3862ec73907196a9c5bcbe6d238b68506862",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fde7b3896ea86eaae42b95fb1bc064dc51e8a61a045498244aa2925a37c3fbde"
+    }
+  ],
+  "session_id": "01a0e87a-db7a-7303-aca7-ee81da6c50ba",
+  "worker_id": "astra_aa",
+  "worker_identity_sha256": "f89346b92865e535f8532245987e03b9bf1204ea8d86eb06bb80af193eb55d71"
+}

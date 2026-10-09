@@ -1,0 +1,68 @@
+{
+  "batch_id": "56518c553354f2f0594f",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T07:58:10.001998+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4ba7dfeef32b2d28ef3bc4e5",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_shelley_frankenstein_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 4ba7dfeef32b2d28ef3bc4e5\noriginal_word_count: 463\n\nPassage:\nI uncovered it, and a gentle breeze quickly fanned it into a flame. I observed this also and contrived a fan of branches, which roused the embers when they were nearly extinguished. When night came again I found, with pleasure, that the fire gave light as well as heat and that the discovery of this element was useful to me in my food, for I found some of the offals that the travellers had left had been roasted, and tasted much more savoury than the berries I gathered from the trees. I tried, therefore, to dress my food in the same manner, placing it on the live embers. I found that the berries were spoiled by this operation, and the nuts and roots much improved.\n\n“Food, however, became scarce, and I often spent the whole day searching in vain for a few acorns to assuage the pangs of hunger. When I found this, I resolved to quit the place that I had hitherto inhabited, to seek for one where the few wants I experienced would be more easily satisfied. In this emigration I exceedingly lamented the loss of the fire which I had obtained through accident and knew not how to reproduce it. I gave several hours to the serious consideration of this difficulty, but I was obliged to relinquish all attempt to supply it, and wrapping myself up in my cloak, I struck across the wood towards the setting sun. I passed three days in these rambles and at length discovered the open country. A great fall of snow had taken place the night before, and the fields were of one uniform white; the appearance was disconsolate, and I found my feet chilled by the cold damp substance that covered the ground.\n\n“It was about seven in the morning, and I longed to obtain food and shelter; at length I perceived a small hut, on a rising ground, which had doubtless been built for the convenience of some shepherd. This was a new sight to me, and I examined the structure with great curiosity. Finding the door open, I entered. An old man sat in it, near a fire, over which he was preparing his breakfast. He turned on hearing a noise, and perceiving me, shrieked loudly, and quitting the hut, ran across the fields with a speed of which his debilitated form hardly appeared capable. His appearance, different from any I had ever before seen, and his flight somewhat surprised me. But I was enchanted by the appearance of the hut; here the snow and rain could not penetrate; the ground was dry; and it presented to me then as exquisite and divine a retreat as Pandæmonium appeared to the dæmons of hell after their sufferings in the lake of fire."
+      },
+      "request_id": "4ba7dfeef32b2d28ef3bc4e5",
+      "request_sha256": "d632487bfd69439b135c7bb702b314f85e4373262cd95b98a0d8fd3185b21085",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "564dfd66eaed502f09568997b7f92462318be6fcceeca96602fcf1ce52809da8"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2179abaf80810ca5f85af46c",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_poe_hans_pfaal_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 2179abaf80810ca5f85af46c\noriginal_word_count: 472\n\nPassage:\nIndeed I had no fear on her account. She was what people call a notable woman, and could manage matters in the world without my assistance. I believe, to tell the truth, she always looked upon me as an idle boy, a mere make-weight, good for nothing but building castles in the air, and was rather glad to get rid of me. It was a dark night when I bade her good-bye, and taking with me, as aides-de-camp, the three creditors who had given me so much trouble, we carried the balloon, with the car and accoutrements, by a roundabout way, to the station where the other articles were deposited. We there found them all unmolested, and I proceeded immediately to business.\n\n“It was the first of April. The night, as I said before, was dark; there was not a star to be seen; and a drizzling rain, falling at intervals, rendered us very uncomfortable. But my chief anxiety was concerning the balloon, which, in spite of the varnish with which it was defended, began to grow rather heavy with the moisture; the powder also was liable to damage. I therefore kept my three duns working with great diligence, pounding down ice around the central cask, and stirring the acid in the others. They did not cease, however, importuning me with questions as to what I intended to do with all this apparatus, and expressed much dissatisfaction at the terrible labor I made them undergo. They could not perceive, so they said, what good was likely to result from their getting wet to the skin, merely to take a part in such horrible incantations. I began to get uneasy, and worked away with all my might, for I verily believe the idiots supposed that I had entered into a compact with the devil, and that, in short, what I was now doing was nothing better than it should be. I was, therefore, in great fear of their leaving me altogether. I contrived, however, to pacify them by promises of payment of all scores in full, as soon as I could bring the present business to a termination. To these speeches they gave, of course, their own interpretation; fancying, no doubt, that at all events I should come into possession of vast quantities of ready money; and provided I paid them all I owed, and a trifle more, in consideration of their services, I dare say they cared very little what became of either my soul or my carcass.\n\n“In about four hours and a half I found the balloon sufficiently inflated. I attached the car, therefore, and put all my implements in it—not forgetting the condensing apparatus, a copious supply of water, and a large quantity of provisions, such as pemmican, in which much nutriment is contained in comparatively little bulk."
+      },
+      "request_id": "2179abaf80810ca5f85af46c",
+      "request_sha256": "05ba239d4004b3dc25dd5b0c60de2105b60d761a4c2fb83f43d86e3ca6a8b019",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8eafe8c2187349d81b82c79983045b2192035bce607d08ead71066ece6662812"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "795941397b932c1a400821dd",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 474,
+      "passage_id": "V2_shelley_the_last_man_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 795941397b932c1a400821dd\noriginal_word_count: 474\n\nPassage:\nI am the native of a sea-surrounded nook, a cloud-enshadowed land, which, when the surface of the globe, with its shoreless ocean and trackless continents, presents itself to my mind, appears only as an inconsiderable speck in the immense whole; and yet, when balanced in the scale of mental power, far outweighed countries of larger extent and more numerous population. So true it is, that man’s mind alone was the creator of all that was good or great to man, and that Nature herself was only his first minister. England, seated far north in the turbid sea, now visits my dreams in the semblance of a vast and well-manned ship, which mastered the winds and rode proudly over the waves. In my boyish days she was the universe to me. When I stood on my native hills, and saw plain and mountain stretch out to the utmost limits of my vision, speckled by the dwellings of my countrymen, and subdued to fertility by their labours, the earth’s very centre was fixed for me in that spot, and the rest of her orb was as a fable, to have forgotten which would have cost neither my imagination nor understanding an effort.\n\nMy fortunes have been, from the beginning, an exemplification of the power that mutability may possess over the varied tenor of man’s life. With regard to myself, this came almost by inheritance. My father was one of those men on whom nature had bestowed to prodigality the envied gifts of wit and imagination, and then left his bark of life to be impelled by these winds, without adding reason as the rudder, or judgment as the pilot for the voyage. His extraction was obscure; but circumstances brought him early into public notice, and his small paternal property was soon dissipated in the splendid scene of fashion and luxury in which he was an actor. During the short years of thoughtless youth, he was adored by the high-bred triflers of the day, nor least by the youthful sovereign, who escaped from the intrigues of party, and the arduous duties of kingly business, to find never-failing amusement and exhilaration of spirit in his society. My father’s impulses, never under his own controul, perpetually led him into difficulties from which his ingenuity alone could extricate him; and the accumulating pile of debts of honour and of trade, which would have bent to earth any other, was supported by him with a light spirit and tameless hilarity; while his company was so necessary at the tables and assemblies of the rich, that his derelictions were considered venial, and he himself received with intoxicating flattery.\n\nThis kind of popularity, like every other, is evanescent: and the difficulties of every kind with which he had to contend, increased in a frightful ratio compared with his small means of extricating himself."
+      },
+      "request_id": "795941397b932c1a400821dd",
+      "request_sha256": "a9888c0f0bfd2432d3e44b3179361fc814b18a3ae815966b0baeb9d5fcd92d14",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "89db45ecac7efadd5247dd186c5b577da5059155ab03de49c97a0eb3f112ac47"
+    }
+  ],
+  "session_id": "01a0e1dc-db77-7ca2-a44b-20de81379df6",
+  "worker_id": "astra_c",
+  "worker_identity_sha256": "85385f96362fb7155bec4ef09a1c5c0d6a7ab633c57687871b698abad7715535"
+}

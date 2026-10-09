@@ -1,0 +1,68 @@
+{
+  "batch_id": "28c372031308a5b9fde4",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T07:55:34.323798+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ed55e71e3c4920630ed02c4c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_dickens_oliver_twist_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: ed55e71e3c4920630ed02c4c\noriginal_word_count: 485\n\nPassage:\nMatters being thus amicably and satisfactorily arranged, the contract was solemnly ratified in another teacupful of the peppermint mixture; which was rendered the more necessary, by the flutter and agitation of the lady’s spirits. While it was being disposed of, she acquainted Mr. Bumble with the old woman’s decease.\n\n“Very good,” said that gentleman, sipping his peppermint; “I’ll call at Sowerberry’s as I go home, and tell him to send tomorrow morning. Was it that as frightened you, love?”\n\n“It wasn’t anything particular, dear,” said the lady evasively.\n\n“It must have been something, love,” urged Mr. Bumble. “Won’t you tell your own B.?”\n\n“Not now,” rejoined the lady; “one of these days. After we’re married, dear.”\n\n“After we’re married!” exclaimed Mr. Bumble. “It wasn’t any impudence from any of them male paupers as—”\n\n“No, no, love!” interposed the lady, hastily.\n\n“If I thought it was,” continued Mr. Bumble; “if I thought as any one of ’em had dared to lift his wulgar eyes to that lovely countenance—”\n\n“They wouldn’t have dared to do it, love,” responded the lady.\n\n“They had better not!” said Mr. Bumble, clenching his fist. “Let me see any man, porochial or extra-porochial, as would presume to do it; and I can tell him that he wouldn’t do it a second time!”\n\nUnembellished by any violence of gesticulation, this might have seemed no very high compliment to the lady’s charms; but, as Mr. Bumble accompanied the threat with many warlike gestures, she was much touched with this proof of his devotion, and protested, with great admiration, that he was indeed a dove.\n\nThe dove then turned up his coat-collar, and put on his cocked hat; and, having exchanged a long and affectionate embrace with his future partner, once again braved the cold wind of the night: merely pausing, for a few minutes, in the male paupers’ ward, to abuse them a little, with the view of satisfying himself that he could fill the office of workhouse-master with needful acerbity. Assured of his qualifications, Mr. Bumble left the building with a light heart, and bright visions of his future promotion: which served to occupy his mind until he reached the shop of the undertaker.\n\nNow, Mr. and Mrs. Sowerberry having gone out to tea and supper: and Noah Claypole not being at any time disposed to take upon himself a greater amount of physical exertion than is necessary to a convenient performance of the two functions of eating and drinking, the shop was not closed, although it was past the usual hour of shutting-up. Mr. Bumble tapped with his cane on the counter several times; but, attracting no attention, and beholding a light shining through the glass-window of the little parlour at the back of the shop, he made bold to peep in and see what was going forward; and when he saw what was going forward, he was not a little surprised."
+      },
+      "request_id": "ed55e71e3c4920630ed02c4c",
+      "request_sha256": "5eb659e706270b6bdebc67c5db548324d529562da0aac2af3921cd853396098a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7d0ad7902a20b926194cf57c17bbec679bada66fdb36f320f2a719368ad2837f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e1d2fc991075b096ad03c51f",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_shelley_mathilda_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: e1d2fc991075b096ad03c51f\noriginal_word_count: 453\n\nPassage:\nIt was past two o’clock when by a sudden turn I found myself close to the lake near a cove where a little skiff was moored--It was not far from our house and I saw my father and aunt walking on the lawn. I jumped into the boat, and well accustomed to such feats, I pushed it from shore, and exerted all my strength to row swiftly across. As I came, dressed in white, covered only by my tartan _rachan_, my hair streaming on my shoulders, and shooting across with greater speed that it could be supposed I could give to my boat, my father has often told me that I looked more like a spirit than a human maid. I approached the shore, my father held the boat, I leapt lightly out, and in a moment was in his arms.\n\nAnd now I began to live. All around me was changed from a dull uniformity to the brightest scene of joy and delight. The happiness I enjoyed in the company of my father far exceeded my sanguine expectations. We were for ever together; and the subjects of our conversations were inexhaustible. He had passed the sixteen years of absence among nations nearly unknown to Europe; he had wandered through Persia, Arabia and the north of India and had penetrated among the habitations of the natives with a freedom permitted to few Europeans. His relations of their manners, his anecdotes and descriptions of scenery whiled away delicious hours, when we were tired of talking of our own plans of future life.\n\nThe voice of affection was so new to me that I hung with delight upon his words when he told me what he had felt concerning me during these long years of apparent forgetfulness. “At first”--said he, “I could not bear to think of my poor little girl; but afterwards as grief wore off and hope again revisited me I could only turn to her, and amidst cities and desarts her little fairy form, such as I imagined it, for ever flitted before me. The northern breeze as it refreshed me was sweeter and more balmy for it seemed to carry some of your spirit along with it. I often thought that I would instantly return and take you along with me to some fertile island where we should live at peace for ever. As I returned my fervent hopes were dashed by so many fears; my impatience became in the highest degree painful. I dared not think that the sun should shine and the moon rise not on your living form but on your grave. But, no, it is not so; I have my Mathilda, my consolation, and my hope.”--"
+      },
+      "request_id": "e1d2fc991075b096ad03c51f",
+      "request_sha256": "a2b63980dc8b101124f0820f0ae764a2d33f66516c218d9442c59f4990d38e24",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1568a35188b7f3908445ecc9c2f71da61aa1dace2a9078f836bf1e316de1c0c1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "963dd349a2346c633d2f2b42",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_austen_emma_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 963dd349a2346c633d2f2b42\noriginal_word_count: 459\n\nPassage:\nShe and the children might stay very well.”\n\n“Ah! papa—that is what you never have been able to accomplish, and I do not think you ever will. Isabella cannot bear to stay behind her husband.”\n\nThis was too true for contradiction. Unwelcome as it was, Mr. Woodhouse could only give a submissive sigh; and as Emma saw his spirits affected by the idea of his daughter’s attachment to her husband, she immediately led to such a branch of the subject as must raise them.\n\n“Harriet must give us as much of her company as she can while my brother and sister are here. I am sure she will be pleased with the children. We are very proud of the children, are not we, papa? I wonder which she will think the handsomest, Henry or John?”\n\n“Aye, I wonder which she will. Poor little dears, how glad they will be to come. They are very fond of being at Hartfield, Harriet.”\n\n“I dare say they are, sir. I am sure I do not know who is not.”\n\n“Henry is a fine boy, but John is very like his mama. Henry is the eldest, he was named after me, not after his father. John, the second, is named after his father. Some people are surprized, I believe, that the eldest was not, but Isabella would have him called Henry, which I thought very pretty of her. And he is a very clever boy, indeed. They are all remarkably clever; and they have so many pretty ways. They will come and stand by my chair, and say, ‘Grandpapa, can you give me a bit of string?’ and once Henry asked me for a knife, but I told him knives were only made for grandpapas. I think their father is too rough with them very often.”\n\n“He appears rough to you,” said Emma, “because you are so very gentle yourself; but if you could compare him with other papas, you would not think him rough. He wishes his boys to be active and hardy; and if they misbehave, can give them a sharp word now and then; but he is an affectionate father—certainly Mr. John Knightley is an affectionate father. The children are all fond of him.”\n\n“And then their uncle comes in, and tosses them up to the ceiling in a very frightful way!”\n\n“But they like it, papa; there is nothing they like so much. It is such enjoyment to them, that if their uncle did not lay down the rule of their taking turns, whichever began would never give way to the other.”\n\n“Well, I cannot understand it.”\n\n“That is the case with us all, papa. One half of the world cannot understand the pleasures of the other.”"
+      },
+      "request_id": "963dd349a2346c633d2f2b42",
+      "request_sha256": "19151997f6b67e5c6ef4cac3ab02d21229206ceb589294ca64f09355dea2210c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2db1b94405960251ee13913ba74638cf57b7305e7f66db78df1bb95cdce8d47c"
+    }
+  ],
+  "session_id": "01a0e1dc-98ec-7c60-82e0-33192a6dbb6d",
+  "worker_id": "astra_b",
+  "worker_identity_sha256": "63e655afad929d2df43c7a786df30c2f77ef9616368896382b0782c5fc9c466d"
+}

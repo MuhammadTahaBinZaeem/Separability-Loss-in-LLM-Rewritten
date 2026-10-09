@@ -1,0 +1,65 @@
+{
+  "batch_id": "dccc1569f2cc8494d210",
+  "issued_utc": "2026-09-26T11:10:18.275115+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "810fc741f624a8c0aa601cad",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_dickens_great_expectations_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 810fc741f624a8c0aa601cad\noriginal_word_count: 451\n\nPassage:\nAt the stairs where we had taken him abroad, and ever since, I had looked warily for any token of our being suspected. I had seen none. We certainly had not been, and at that time as certainly we were not either attended or followed by any boat. If we had been waited on by any boat, I should have run in to shore, and have obliged her to go on, or to make her purpose evident. But we held our own without any appearance of molestation.\n\nHe had his boat-cloak on him, and looked, as I have said, a natural part of the scene. It was remarkable (but perhaps the wretched life he had led accounted for it) that he was the least anxious of any of us. He was not indifferent, for he told me that he hoped to live to see his gentleman one of the best of gentlemen in a foreign country; he was not disposed to be passive or resigned, as I understood it; but he had no notion of meeting danger half way. When it came upon him, he confronted it, but it must come before he troubled himself.\n\n“If you knowed, dear boy,” he said to me, “what it is to sit here alonger my dear boy and have my smoke, arter having been day by day betwixt four walls, you’d envy me. But you don’t know what it is.”\n\n“I think I know the delights of freedom,” I answered.\n\n“Ah,” said he, shaking his head gravely. “But you don’t know it equal to me. You must have been under lock and key, dear boy, to know it equal to me,—but I ain’t a-going to be low.”\n\nIt occurred to me as inconsistent, that, for any mastering idea, he should have endangered his freedom, and even his life. But I reflected that perhaps freedom without danger was too much apart from all the habit of his existence to be to him what it would be to another man. I was not far out, since he said, after smoking a little:—\n\n“You see, dear boy, when I was over yonder, t’other side the world, I was always a looking to this side; and it come flat to be there, for all I was a growing rich. Everybody knowed Magwitch, and Magwitch could come, and Magwitch could go, and nobody’s head would be troubled about him. They ain’t so easy concerning me here, dear boy,—wouldn’t be, leastwise, if they knowed where I was.”\n\n“If all goes well,” said I, “you will be perfectly free and safe again within a few hours.”\n\n“Well,” he returned, drawing a long breath, “I hope so.”\n\n“And think so?”"
+      },
+      "request_id": "810fc741f624a8c0aa601cad",
+      "request_sha256": "b0d20d2dfce001f3f83458f381355e4a68cb55966917d65712a8fce1a45142b7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3bb389137c78333871f12f85cb3172d47e36fab4be984231f83cf053948a10d3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b2377e3d80cc82733cf3054a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V2_poe_the_gold_bug_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: b2377e3d80cc82733cf3054a\noriginal_word_count: 458\n\nPassage:\n“Now, in English, the letter which most frequently occurs is e. Afterwards, succession runs thus: _a o i d h n r s t u y c f g l m w b k p q x z_. _E_ predominates so remarkably that an individual sentence of any length is rarely seen, in which it is not the prevailing character.\n\n“Here, then, we leave, in the very beginning, the groundwork for something more than a mere guess. The general use which may be made of the table is obvious—but, in this particular cipher, we shall only very partially require its aid. As our predominant character is 8, we will commence by assuming it as the _e_ of the natural alphabet. To verify the supposition, let us observe if the 8 be seen often in couples—for _e_ is doubled with great frequency in English—in such words, for example, as ‘meet,’ ‘.fleet,’ ‘speed,’ ‘seen,’ been,’ ‘agree,’ &c. In the present instance we see it doubled no less than five times, although the cryptograph is brief.\n\n“Let us assume 8, then, as _e_. Now, of all _words_ in the language, ‘the’ is most usual; let us see, therefore, whether there are not repetitions of any three characters, in the same order of collocation, the last of them being 8. If we discover repetitions of such letters, so arranged, they will most probably represent the word ‘the.’ Upon inspection, we find no less than seven such arrangements, the characters being ;48. We may, therefore, assume that ; represents _t_, 4 represents _h_, and 8 represents _e_—the last being now well confirmed. Thus a great step has been taken.\n\n“But, having established a single word, we are enabled to establish a vastly important point; that is to say, several commencements and terminations of other words. Let us refer, for example, to the last instance but one, in which the combination ;48 occurs—not far from the end of the cipher. We know that the ; immediately ensuing is the commencement of a word, and, of the six characters succeeding this ‘the,’ we are cognizant of no less than five. Let us set these characters down, thus, by the letters we know them to represent, leaving a space for the unknown—\n\nt eeth.\n\n“Here we are enabled, at once, to discard the ‘th,’ as forming no portion of the word commencing with the first t; since, by experiment of the entire alphabet for a letter adapted to the vacancy, we perceive that no word can be formed of which this _th_ can be a part. We are thus narrowed into\n\nt ee,\n\nand, going through the alphabet, if necessary, as before, we arrive at the word ‘tree,’ as the sole possible reading."
+      },
+      "request_id": "b2377e3d80cc82733cf3054a",
+      "request_sha256": "a35a2ff61a81fca54e1909aa924304f8782cec806c5c9464ddc136aa04735cd8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f80ae1955e479cddfa499690b79cd4aeefe69fc2ce738bcf52909a9b40455948"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "81d988ed2c5fe9ff0e8728d8",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_austen_emma_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 81d988ed2c5fe9ff0e8728d8\noriginal_word_count: 460\n\nPassage:\nBut now, she would rather it had not happened. She believed he had been drinking too much of Mr. Weston’s good wine, and felt sure that he would want to be talking nonsense.\n\nTo restrain him as much as might be, by her own manners, she was immediately preparing to speak with exquisite calmness and gravity of the weather and the night; but scarcely had she begun, scarcely had they passed the sweep-gate and joined the other carriage, than she found her subject cut up—her hand seized—her attention demanded, and Mr. Elton actually making violent love to her: availing himself of the precious opportunity, declaring sentiments which must be already well known, hoping—fearing—adoring—ready to die if she refused him; but flattering himself that his ardent attachment and unequalled love and unexampled passion could not fail of having some effect, and in short, very much resolved on being seriously accepted as soon as possible. It really was so. Without scruple—without apology—without much apparent diffidence, Mr. Elton, the lover of Harriet, was professing himself _her_ lover. She tried to stop him; but vainly; he would go on, and say it all. Angry as she was, the thought of the moment made her resolve to restrain herself when she did speak. She felt that half this folly must be drunkenness, and therefore could hope that it might belong only to the passing hour. Accordingly, with a mixture of the serious and the playful, which she hoped would best suit his half and half state, she replied,\n\n“I am very much astonished, Mr. Elton. This to _me_! you forget yourself—you take me for my friend—any message to Miss Smith I shall be happy to deliver; but no more of this to _me_, if you please.”\n\n“Miss Smith!—message to Miss Smith!—What could she possibly mean!”—And he repeated her words with such assurance of accent, such boastful pretence of amazement, that she could not help replying with quickness,\n\n“Mr. Elton, this is the most extraordinary conduct! and I can account for it only in one way; you are not yourself, or you could not speak either to me, or of Harriet, in such a manner. Command yourself enough to say no more, and I will endeavour to forget it.”\n\nBut Mr. Elton had only drunk wine enough to elevate his spirits, not at all to confuse his intellects. He perfectly knew his own meaning; and having warmly protested against her suspicion as most injurious, and slightly touched upon his respect for Miss Smith as her friend,—but acknowledging his wonder that Miss Smith should be mentioned at all,—he resumed the subject of his own passion, and was very urgent for a favourable answer."
+      },
+      "request_id": "81d988ed2c5fe9ff0e8728d8",
+      "request_sha256": "2e5c466471be831a6b8ca6b5fe1e7f631035e7116403dfd28a63109f2466faac",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5ac1eb58b964de10cf284d81045dc8e0d068a5eb87b6664b421e0984f125fe67"
+    }
+  ],
+  "session_id": "01a0a569-7a64-7260-a3e1-97dfbb4eaf58"
+}

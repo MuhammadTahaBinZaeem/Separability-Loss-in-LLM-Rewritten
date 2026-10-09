@@ -1,0 +1,68 @@
+{
+  "batch_id": "9658045ac9584f46916c",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:02:21.131640+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4fa37cfe0b43bc2af5fb4f11",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_austen_pride_and_prejudice_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 4fa37cfe0b43bc2af5fb4f11\noriginal_word_count: 453\n\nPassage:\nJane confessed herself a little surprised at the match: but she said less of her astonishment than of her earnest desire for their happiness; nor could Elizabeth persuade her to consider it as improbable. Kitty and Lydia were far from envying Miss Lucas, for Mr. Collins was only a clergyman; and it affected them in no other way than as a piece of news to spread at Meryton.\n\nLady Lucas could not be insensible of triumph on being able to retort on Mrs. Bennet the comfort of having a daughter well married; and she called at Longbourn rather oftener than usual to say how happy she was, though Mrs. Bennet’s sour looks and ill-natured remarks might have been enough to drive happiness away.\n\nBetween Elizabeth and Charlotte there was a restraint which kept them mutually silent on the subject; and Elizabeth felt persuaded that no real confidence could ever subsist between them again. Her disappointment in Charlotte made her turn with fonder regard to her sister, of whose rectitude and delicacy she was sure her opinion could never be shaken, and for whose happiness she grew daily more anxious, as Bingley had now been gone a week, and nothing was heard of his return.\n\nJane had sent Caroline an early answer to her letter, and was counting the days till she might reasonably hope to hear again. The promised letter of thanks from Mr. Collins arrived on Tuesday, addressed to their father, and written with all the solemnity of gratitude which a twelve-month’s abode in the family might have prompted. After discharging his conscience on that head, he proceeded to inform them, with many rapturous expressions, of his happiness in having obtained the affection of their amiable neighbour, Miss Lucas, and then explained that it was merely with the view of enjoying her society that he had been so ready to close with their kind wish of seeing him again at Longbourn, whither he hoped to be able to return on Monday fortnight; for Lady Catherine, he added, so heartily approved his marriage, that she wished it to take place as soon as possible, which he trusted would be an unanswerable argument with his amiable Charlotte to name an early day for making him the happiest of men.\n\nMr. Collins’s return into Hertfordshire was no longer a matter of pleasure to Mrs. Bennet. On the contrary, she was as much disposed to complain of it as her husband. It was very strange that he should come to Longbourn instead of to Lucas Lodge; it was also very inconvenient and exceedingly troublesome. She hated having visitors in the house while her health was so indifferent, and lovers were of all people the most disagreeable."
+      },
+      "request_id": "4fa37cfe0b43bc2af5fb4f11",
+      "request_sha256": "d1b4cafef7b4fd11edbcdfa6caac03880d59358d4193063cfef8bb4e31f08571",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "43fb06a7d0238249cbaa4e7ae5d62ea0153c66fa80d62bf9c0370d37c85b595e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "25be68f1598c9a6d19b08571",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_shelley_frankenstein_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 25be68f1598c9a6d19b08571\noriginal_word_count: 471\n\nPassage:\nWe passed a few sad hours until eleven o’clock, when the trial was to commence. My father and the rest of the family being obliged to attend as witnesses, I accompanied them to the court. During the whole of this wretched mockery of justice I suffered living torture. It was to be decided whether the result of my curiosity and lawless devices would cause the death of two of my fellow beings: one a smiling babe full of innocence and joy, the other far more dreadfully murdered, with every aggravation of infamy that could make the murder memorable in horror. Justine also was a girl of merit and possessed qualities which promised to render her life happy; now all was to be obliterated in an ignominious grave, and I the cause! A thousand times rather would I have confessed myself guilty of the crime ascribed to Justine, but I was absent when it was committed, and such a declaration would have been considered as the ravings of a madman and would not have exculpated her who suffered through me.\n\nThe appearance of Justine was calm. She was dressed in mourning, and her countenance, always engaging, was rendered, by the solemnity of her feelings, exquisitely beautiful. Yet she appeared confident in innocence and did not tremble, although gazed on and execrated by thousands, for all the kindness which her beauty might otherwise have excited was obliterated in the minds of the spectators by the imagination of the enormity she was supposed to have committed. She was tranquil, yet her tranquillity was evidently constrained; and as her confusion had before been adduced as a proof of her guilt, she worked up her mind to an appearance of courage. When she entered the court she threw her eyes round it and quickly discovered where we were seated. A tear seemed to dim her eye when she saw us, but she quickly recovered herself, and a look of sorrowful affection seemed to attest her utter guiltlessness.\n\nThe trial began, and after the advocate against her had stated the charge, several witnesses were called. Several strange facts combined against her, which might have staggered anyone who had not such proof of her innocence as I had. She had been out the whole of the night on which the murder had been committed and towards morning had been perceived by a market-woman not far from the spot where the body of the murdered child had been afterwards found. The woman asked her what she did there, but she looked very strangely and only returned a confused and unintelligible answer. She returned to the house about eight o’clock, and when one inquired where she had passed the night, she replied that she had been looking for the child and demanded earnestly if anything had been heard concerning him."
+      },
+      "request_id": "25be68f1598c9a6d19b08571",
+      "request_sha256": "2fc783265165b55e221b6604f2827fcb891183b68cccd681dd17431354764983",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "394e291328ebba817ea449a10a2bbe14c27c16fe498ac6c49094de32e0745e30"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3354668ef11b0910c69aa36a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_twain_huckleberry_finn_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 3354668ef11b0910c69aa36a\noriginal_word_count: 452\n\nPassage:\n“Shucks, Tom,” I says, “I think you might tell a person. What’s a bar sinister?”\n\n“Oh, _I_ don’t know. But he’s got to have it. All the nobility does.”\n\nThat was just his way. If it didn’t suit him to explain a thing to you, he wouldn’t do it. You might pump at him a week, it wouldn’t make no difference.\n\nHe’d got all that coat of arms business fixed, so now he started in to finish up the rest of that part of the work, which was to plan out a mournful inscription—said Jim got to have one, like they all done. He made up a lot, and wrote them out on a paper, and read them off, so:\n\n1. _Here a captive heart busted._\n\n2. _Here a poor prisoner, forsook by the world and friends, fretted out his sorrowful life._\n\n3. _Here a lonely heart broke, and a worn spirit went to its rest, after thirty-seven years of solitary captivity._\n\n4. _Here, homeless and friendless, after thirty-seven years of bitter captivity, perished a noble stranger, natural son of Louis XIV._\n\nTom’s voice trembled whilst he was reading them, and he most broke down. When he got done he couldn’t no way make up his mind which one for Jim to scrabble on to the wall, they was all so good; but at last he allowed he would let him scrabble them all on. Jim said it would take him a year to scrabble such a lot of truck on to the logs with a nail, and he didn’t know how to make letters, besides; but Tom said he would block them out for him, and then he wouldn’t have nothing to do but just follow the lines. Then pretty soon he says:\n\n“Come to think, the logs ain’t a-going to do; they don’t have log walls in a dungeon: we got to dig the inscriptions into a rock. We’ll fetch a rock.”\n\nJim said the rock was worse than the logs; he said it would take him such a pison long time to dig them into a rock he wouldn’t ever get out. But Tom said he would let me help him do it. Then he took a look to see how me and Jim was getting along with the pens. It was most pesky tedious hard work and slow, and didn’t give my hands no show to get well of the sores, and we didn’t seem to make no headway, hardly; so Tom says:\n\n“I know how to fix it. We got to have a rock for the coat of arms and mournful inscriptions, and we can kill two birds with that same rock."
+      },
+      "request_id": "3354668ef11b0910c69aa36a",
+      "request_sha256": "9bad895d253fec69ba507ede685f26d9a2a4ff7a7dbad49ad4a6b4347d08a364",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3c54986fd47b3893cebdc687dc8a975c1e531ce96fffdfcd7fb18e2a98465726"
+    }
+  ],
+  "session_id": "01a0e851-893e-7833-9978-6adbfb804215",
+  "worker_id": "astra_o",
+  "worker_identity_sha256": "57a742b9cc10271bcec81121c331ed211baefa86bd40e11991144b051b260799"
+}

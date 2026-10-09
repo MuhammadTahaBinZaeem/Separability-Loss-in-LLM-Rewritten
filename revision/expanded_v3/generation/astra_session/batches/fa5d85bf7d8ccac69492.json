@@ -1,0 +1,68 @@
+{
+  "batch_id": "fa5d85bf7d8ccac69492",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:44:48.733159+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "41725b1f7d1aa8cb3cede75f",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 482,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 41725b1f7d1aa8cb3cede75f\noriginal_word_count: 482\n\nPassage:\nThe nephew looked at him, in vain, in passing on to the door.\n\n“Good night!” said the uncle. “I look to the pleasure of seeing you again in the morning. Good repose! Light Monsieur my nephew to his chamber there!--And burn Monsieur my nephew in his bed, if you will,” he added to himself, before he rang his little bell again, and summoned his valet to his own bedroom.\n\nThe valet come and gone, Monsieur the Marquis walked to and fro in his loose chamber-robe, to prepare himself gently for sleep, that hot still night. Rustling about the room, his softly-slippered feet making no noise on the floor, he moved like a refined tiger:--looked like some enchanted marquis of the impenitently wicked sort, in story, whose periodical change into tiger form was either just going off, or just coming on.\n\nHe moved from end to end of his voluptuous bedroom, looking again at the scraps of the day’s journey that came unbidden into his mind; the slow toil up the hill at sunset, the setting sun, the descent, the mill, the prison on the crag, the little village in the hollow, the peasants at the fountain, and the mender of roads with his blue cap pointing out the chain under the carriage. That fountain suggested the Paris fountain, the little bundle lying on the step, the women bending over it, and the tall man with his arms up, crying, “Dead!”\n\n“I am cool now,” said Monsieur the Marquis, “and may go to bed.”\n\nSo, leaving only one light burning on the large hearth, he let his thin gauze curtains fall around him, and heard the night break its silence with a long sigh as he composed himself to sleep.\n\nThe stone faces on the outer walls stared blindly at the black night for three heavy hours; for three heavy hours, the horses in the stables rattled at their racks, the dogs barked, and the owl made a noise with very little resemblance in it to the noise conventionally assigned to the owl by men-poets. But it is the obstinate custom of such creatures hardly ever to say what is set down for them.\n\nFor three heavy hours, the stone faces of the chateau, lion and human, stared blindly at the night. Dead darkness lay on all the landscape, dead darkness added its own hush to the hushing dust on all the roads. The burial-place had got to the pass that its little heaps of poor grass were undistinguishable from one another; the figure on the Cross might have come down, for anything that could be seen of it. In the village, taxers and taxed were fast asleep. Dreaming, perhaps, of banquets, as the starved usually do, and of ease and rest, as the driven slave and the yoked ox may, its lean inhabitants slept soundly, and were fed and freed."
+      },
+      "request_id": "41725b1f7d1aa8cb3cede75f",
+      "request_sha256": "9a2cfe553978c88bd63e8575263523aef246c00b6e5987a6edd500c21aa31151",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bc1bd5ff15b4b935d85e76ed5f7ef3cc326dadc40b71c281396a80763e166b05"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e2eb546c4968d0392d7c954f",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_austen_persuasion_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: e2eb546c4968d0392d7c954f\noriginal_word_count: 464\n\nPassage:\n“This must have been about that very period of Mr Elliot’s life,” said Anne, “which has always excited my particular curiosity. It must have been about the same time that he became known to my father and sister. I never knew him myself; I only heard of him; but there was a something in his conduct then, with regard to my father and sister, and afterwards in the circumstances of his marriage, which I never could quite reconcile with present times. It seemed to announce a different sort of man.”\n\n“I know it all, I know it all,” cried Mrs Smith. “He had been introduced to Sir Walter and your sister before I was acquainted with him, but I heard him speak of them for ever. I know he was invited and encouraged, and I know he did not choose to go. I can satisfy you, perhaps, on points which you would little expect; and as to his marriage, I knew all about it at the time. I was privy to all the fors and againsts; I was the friend to whom he confided his hopes and plans; and though I did not know his wife previously, her inferior situation in society, indeed, rendered that impossible, yet I knew her all her life afterwards, or at least till within the last two years of her life, and can answer any question you may wish to put.”\n\n“Nay,” said Anne, “I have no particular enquiry to make about her. I have always understood they were not a happy couple. But I should like to know why, at that time of his life, he should slight my father’s acquaintance as he did. My father was certainly disposed to take very kind and proper notice of him. Why did Mr Elliot draw back?”\n\n“Mr Elliot,” replied Mrs Smith, “at that period of his life, had one object in view: to make his fortune, and by a rather quicker process than the law. He was determined to make it by marriage. He was determined, at least, not to mar it by an imprudent marriage; and I know it was his belief (whether justly or not, of course I cannot decide), that your father and sister, in their civilities and invitations, were designing a match between the heir and the young lady, and it was impossible that such a match should have answered his ideas of wealth and independence. That was his motive for drawing back, I can assure you. He told me the whole story. He had no concealments with me. It was curious, that having just left you behind me in Bath, my first and principal acquaintance on marrying should be your cousin; and that, through him, I should be continually hearing of your father and sister."
+      },
+      "request_id": "e2eb546c4968d0392d7c954f",
+      "request_sha256": "31373da9549cd915b6fbeac916b0c8a8deddfd1b2b8a2869646ce1892f3b64a0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3ee628f22820f01f45d6285d995ce67334dd559d7940f62bb91afad40f214d99"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "057e9ebcd8d29a467bf567cc",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_shelley_frankenstein_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 057e9ebcd8d29a467bf567cc\noriginal_word_count: 452\n\nPassage:\n“Such were the events that preyed on the heart of Felix and rendered him, when I first saw him, the most miserable of his family. He could have endured poverty, and while this distress had been the meed of his virtue, he gloried in it; but the ingratitude of the Turk and the loss of his beloved Safie were misfortunes more bitter and irreparable. The arrival of the Arabian now infused new life into his soul.\n\n“When the news reached Leghorn that Felix was deprived of his wealth and rank, the merchant commanded his daughter to think no more of her lover, but to prepare to return to her native country. The generous nature of Safie was outraged by this command; she attempted to expostulate with her father, but he left her angrily, reiterating his tyrannical mandate.\n\n“A few days after, the Turk entered his daughter’s apartment and told her hastily that he had reason to believe that his residence at Leghorn had been divulged and that he should speedily be delivered up to the French government; he had consequently hired a vessel to convey him to Constantinople, for which city he should sail in a few hours. He intended to leave his daughter under the care of a confidential servant, to follow at her leisure with the greater part of his property, which had not yet arrived at Leghorn.\n\n“When alone, Safie resolved in her own mind the plan of conduct that it would become her to pursue in this emergency. A residence in Turkey was abhorrent to her; her religion and her feelings were alike averse to it. By some papers of her father which fell into her hands she heard of the exile of her lover and learnt the name of the spot where he then resided. She hesitated some time, but at length she formed her determination. Taking with her some jewels that belonged to her and a sum of money, she quitted Italy with an attendant, a native of Leghorn, but who understood the common language of Turkey, and departed for Germany.\n\n“She arrived in safety at a town about twenty leagues from the cottage of De Lacey, when her attendant fell dangerously ill. Safie nursed her with the most devoted affection, but the poor girl died, and the Arabian was left alone, unacquainted with the language of the country and utterly ignorant of the customs of the world. She fell, however, into good hands. The Italian had mentioned the name of the spot for which they were bound, and after her death the woman of the house in which they had lived took care that Safie should arrive in safety at the cottage of her lover.”"
+      },
+      "request_id": "057e9ebcd8d29a467bf567cc",
+      "request_sha256": "7b5d7d5742acdc1e4957c3d4b93e76680ead5825b5661338d9160b19e7968a29",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3150a08074fd2ae4682bbfb4ea97c8d48bc397eead5b14dfdbf63fd3a9ce77c6"
+    }
+  ],
+  "session_id": "01a0e871-0029-7eb2-b032-b2c22db7d18a",
+  "worker_id": "astra_y",
+  "worker_identity_sha256": "117b62507d566d7e1674868f608b01ea30f8f22336a4d59e5e97eb3a6f4f8842"
+}

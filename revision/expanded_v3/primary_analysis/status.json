@@ -1,0 +1,17 @@
+{
+  "analysis_scope": "exploratory; session/API workflow differences prevent a model-only causal interpretation",
+  "complete": true,
+  "estimable_tests": 54,
+  "planned_family_size": 54,
+  "review_complete": false,
+  "source_manifests": {
+    "astra_session": "f2a11ce6528ef00ac7b5914ab5a08add7a85b55b191f84bb68639493ba8cce41",
+    "azure_replication": "c894bd17990af5d1889b4f3b314150a32a4b23635bc9fb92007dbdf84b558f6a",
+    "codex51": "9a07b23d50104bc8882d891af2eaf3bc4a20e513296effd47e15d29eb1c07e4a",
+    "gem31lite": "cd00613f2caa93edadfff7c43469a6ff38ca812e4a953d53f8f240e75aaa2ff2",
+    "luna56": "db00a3ec91409c55170bff1f4033f8eb3d4198988afb97e9d201cd6b2d8f211c",
+    "terra56": "9b89031583131b88db282838214d6a1bcba7c9a353d192f0a888b583368b0d54"
+  },
+  "submission_ready": false,
+  "table_sha256": "5f1c035f7a74833e792fdd9e2d05812ea2e9a27e2bd5dde36b90f5d3bcd00217"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "4031017a4c57c6082180",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:18:42.214539+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1458b486d16a3b99c79324c9",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V3_twain_tom_sawyer_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 1458b486d16a3b99c79324c9\noriginal_word_count: 451\n\nPassage:\nTom joined the new order of Cadets of Temperance, being attracted by the showy character of their “regalia.” He promised to abstain from smoking, chewing, and profanity as long as he remained a member. Now he found out a new thing—namely, that to promise not to do a thing is the surest way in the world to make a body want to go and do that very thing. Tom soon found himself tormented with a desire to drink and swear; the desire grew to be so intense that nothing but the hope of a chance to display himself in his red sash kept him from withdrawing from the order. Fourth of July was coming; but he soon gave that up—gave it up before he had worn his shackles over forty-eight hours—and fixed his hopes upon old Judge Frazer, justice of the peace, who was apparently on his deathbed and would have a big public funeral, since he was so high an official. During three days Tom was deeply concerned about the Judge’s condition and hungry for news of it. Sometimes his hopes ran high—so high that he would venture to get out his regalia and practise before the looking-glass. But the Judge had a most discouraging way of fluctuating. At last he was pronounced upon the mend—and then convalescent. Tom was disgusted; and felt a sense of injury, too. He handed in his resignation at once—and that night the Judge suffered a relapse and died. Tom resolved that he would never trust a man like that again.\n\nThe funeral was a fine thing. The Cadets paraded in a style calculated to kill the late member with envy. Tom was a free boy again, however—there was something in that. He could drink and swear, now—but found to his surprise that he did not want to. The simple fact that he could, took the desire away, and the charm of it.\n\nTom presently wondered to find that his coveted vacation was beginning to hang a little heavily on his hands.\n\nHe attempted a diary—but nothing happened during three days, and so he abandoned it.\n\nThe first of all the negro minstrel shows came to town, and made a sensation. Tom and Joe Harper got up a band of performers and were happy for two days.\n\nEven the Glorious Fourth was in some sense a failure, for it rained hard, there was no procession in consequence, and the greatest man in the world (as Tom supposed), Mr. Benton, an actual United States Senator, proved an overwhelming disappointment—for he was not twenty-five feet high, nor even anywhere in the neighborhood of it.\n\nA circus came."
+      },
+      "request_id": "1458b486d16a3b99c79324c9",
+      "request_sha256": "91482dbf7e72dc79d8f9ebbb4c0a37bc7a0dee56965a373cadb62fd2791f87c1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c1af412769c3e64783dd4adf61f8e83c737cac415b30d29b12af465fc2462c84"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "81f18d699c63ca24a0d9297c",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_poe_murders_rue_morgue_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 81f18d699c63ca24a0d9297c\noriginal_word_count: 470\n\nPassage:\nMoreover, this knot is one which few besides sailors can tie, and is peculiar to the Maltese. I picked the ribbon up at the foot of the lightning-rod. It could not have belonged to either of the deceased. Now if, after all, I am wrong in my induction from this ribbon, that the Frenchman was a sailor belonging to a Maltese vessel, still I can have done no harm in saying what I did in the advertisement. If I am in error, he will merely suppose that I have been misled by some circumstance into which he will not take the trouble to inquire. But if I am right, a great point is gained. Cognizant although innocent of the murder, the Frenchman will naturally hesitate about replying to the advertisement—about demanding the Ourang-Outang. He will reason thus:—‘I am innocent; I am poor; my Ourang-Outang is of great value—to one in my circumstances a fortune of itself—why should I lose it through idle apprehensions of danger? Here it is, within my grasp. It was found in the Bois de Boulogne—at a vast distance from the scene of that butchery. How can it ever be suspected that a brute beast should have done the deed? The police are at fault—they have failed to procure the slightest clew. Should they even trace the animal, it would be impossible to prove me cognizant of the murder, or to implicate me in guilt on account of that cognizance. Above all, _I am known._ The advertiser designates me as the possessor of the beast. I am not sure to what limit his knowledge may extend. Should I avoid claiming a property of so great value, which it is known that I possess, I will render the animal at least, liable to suspicion. It is not my policy to attract attention either to myself or to the beast. I will answer the advertisement, get the Ourang-Outang, and keep it close until this matter has blown over.’”\n\nAt this moment we heard a step upon the stairs.\n\n“Be ready,” said Dupin, “with your pistols, but neither use them nor show them until at a signal from myself.”\n\nThe front door of the house had been left open, and the visitor had entered, without ringing, and advanced several steps upon the staircase. Now, however, he seemed to hesitate. Presently we heard him descending. Dupin was moving quickly to the door, when we again heard him coming up. He did not turn back a second time, but stepped up with decision, and rapped at the door of our chamber.\n\n“Come in,” said Dupin, in a cheerful and hearty tone.\n\nA man entered. He was a sailor, evidently,—a tall, stout, and muscular-looking person, with a certain dare-devil expression of countenance, not altogether unprepossessing."
+      },
+      "request_id": "81f18d699c63ca24a0d9297c",
+      "request_sha256": "945eb281899d2ded89fa234ed5f170c38d80c7b88c8d8fb3dc1c1a64231cb2c9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "639e1b93dd25ac959a2ff7d7d51db5da8f0448e5fb2d68d2ffa828e073f25445"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d627ff53179bec4c50c2570b",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 475,
+      "passage_id": "V2_twain_huckleberry_finn_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: d627ff53179bec4c50c2570b\noriginal_word_count: 475\n\nPassage:\nSo, now, le’s know all about it.”\n\n“Well, you see, it ’uz dis way. Ole missus—dat’s Miss Watson—she pecks on me all de time, en treats me pooty rough, but she awluz said she wouldn’ sell me down to Orleans. But I noticed dey wuz a nigger trader roun’ de place considable lately, en I begin to git oneasy. Well, one night I creeps to de do’ pooty late, en de do’ warn’t quite shet, en I hear old missus tell de widder she gwyne to sell me down to Orleans, but she didn’ want to, but she could git eight hund’d dollars for me, en it ’uz sich a big stack o’ money she couldn’ resis’. De widder she try to git her to say she wouldn’ do it, but I never waited to hear de res’. I lit out mighty quick, I tell you.\n\n“I tuck out en shin down de hill, en ’spec to steal a skift ’long de sho’ som’ers ’bove de town, but dey wuz people a-stirring yit, so I hid in de ole tumble-down cooper-shop on de bank to wait for everybody to go ’way. Well, I wuz dah all night. Dey wuz somebody roun’ all de time. ’Long ’bout six in de mawnin’ skifts begin to go by, en ’bout eight er nine every skift dat went ’long wuz talkin’ ’bout how yo’ pap come over to de town en say you’s killed. Dese las’ skifts wuz full o’ ladies en genlmen a-goin’ over for to see de place. Sometimes dey’d pull up at de sho’ en take a res’ b’fo’ dey started acrost, so by de talk I got to know all ’bout de killin’. I ’uz powerful sorry you’s killed, Huck, but I ain’t no mo’ now.\n\n“I laid dah under de shavin’s all day. I ’uz hungry, but I warn’t afeard; bekase I knowed ole missus en de widder wuz goin’ to start to de camp-meet’n’ right arter breakfas’ en be gone all day, en dey knows I goes off wid de cattle ’bout daylight, so dey wouldn’ ’spec to see me roun’ de place, en so dey wouldn’ miss me tell arter dark in de evenin’. De yuther servants wouldn’ miss me, kase dey’d shin out en take holiday soon as de ole folks ’uz out’n de way.\n\n“Well, when it come dark I tuck out up de river road, en went ’bout two mile er more to whah dey warn’t no houses. I’d made up my mine ’bout what I’s agwyne to do. You see, ef I kep’ on tryin’ to git away afoot, de dogs ’ud track me; ef I stole a skift to cross over, dey’d miss dat skift, you see, en dey’d know ’bout whah I’d lan’ on de yuther side, en whah to pick up my track."
+      },
+      "request_id": "d627ff53179bec4c50c2570b",
+      "request_sha256": "e60ad67e6efd16c48b6c2bfef7c0d7b85554b029791cdf37a8ef0c005b19390d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "82c72225ca969b2e9e873702d7ab283daf59e3a26783562c832fefcbd154f0b6"
+    }
+  ],
+  "session_id": "01a0e85b-f4da-78c2-af90-17d8fea0262a",
+  "worker_id": "astra_r",
+  "worker_identity_sha256": "1a9221512f2af9568b0b6124d87657856f97eb8192807e50db5ed5d6fe4cdc4b"
+}

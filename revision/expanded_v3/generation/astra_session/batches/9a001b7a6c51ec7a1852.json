@@ -1,0 +1,68 @@
+{
+  "batch_id": "9a001b7a6c51ec7a1852",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:10:55.885151+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1e6f512eb7862ef8260f241e",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_shelley_frankenstein_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 1e6f512eb7862ef8260f241e\noriginal_word_count: 472\n\nPassage:\nI walked with a quick pace, and we soon arrived at my college. I then reflected, and the thought made me shiver, that the creature whom I had left in my apartment might still be there, alive and walking about. I dreaded to behold this monster, but I feared still more that Henry should see him. Entreating him, therefore, to remain a few minutes at the bottom of the stairs, I darted up towards my own room. My hand was already on the lock of the door before I recollected myself. I then paused, and a cold shivering came over me. I threw the door forcibly open, as children are accustomed to do when they expect a spectre to stand in waiting for them on the other side; but nothing appeared. I stepped fearfully in: the apartment was empty, and my bedroom was also freed from its hideous guest. I could hardly believe that so great a good fortune could have befallen me, but when I became assured that my enemy had indeed fled, I clapped my hands for joy and ran down to Clerval.\n\nWe ascended into my room, and the servant presently brought breakfast; but I was unable to contain myself. It was not joy only that possessed me; I felt my flesh tingle with excess of sensitiveness, and my pulse beat rapidly. I was unable to remain for a single instant in the same place; I jumped over the chairs, clapped my hands, and laughed aloud. Clerval at first attributed my unusual spirits to joy on his arrival, but when he observed me more attentively, he saw a wildness in my eyes for which he could not account, and my loud, unrestrained, heartless laughter frightened and astonished him.\n\n“My dear Victor,” cried he, “what, for God’s sake, is the matter? Do not laugh in that manner. How ill you are! What is the cause of all this?”\n\n“Do not ask me,” cried I, putting my hands before my eyes, for I thought I saw the dreaded spectre glide into the room; “_he_ can tell. Oh, save me! Save me!” I imagined that the monster seized me; I struggled furiously and fell down in a fit.\n\nPoor Clerval! What must have been his feelings? A meeting, which he anticipated with such joy, so strangely turned to bitterness. But I was not the witness of his grief, for I was lifeless and did not recover my senses for a long, long time.\n\nThis was the commencement of a nervous fever which confined me for several months. During all that time Henry was my only nurse. I afterwards learned that, knowing my father’s advanced age and unfitness for so long a journey, and how wretched my sickness would make Elizabeth, he spared them this grief by concealing the extent of my disorder."
+      },
+      "request_id": "1e6f512eb7862ef8260f241e",
+      "request_sha256": "7eee7214d0e059908c3290b4d4d0670b284c90030d330006e2d3e008942b13a6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "70549ac9d5321f233a4c1679b49fa978be1e88ea060ed62b35b2b5325eee2be0"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "074f9d49b27b95b363569ab7",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_shelley_mathilda_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 074f9d49b27b95b363569ab7\noriginal_word_count: 481\n\nPassage:\n“Do you mark my words; I have learned the language of despair: I have it all by heart, for I am Despair; and a strange being am I, joyous, triumphant Despair. But those words are false, for the wave may be dark but it is not bitter. We lie down, and close our eyes with a gentle good night, and when we wake, we are free. Come then, no more delay, thou tardy one! Behold the pleasant potion! Look, I am a spirit of good, and not a human maid that invites thee, and with winning accents, (oh, that they would win thee!) says, Come and drink.”\n\nAs I spoke I fixed my eyes upon his countenance, and his exquisite beauty, the heavenly compassion that beamed from his eyes, his gentle yet earnest look of deprecation and wonder even before he spoke wrought a change in my high strained feelings taking from me all the sterness of despair and filling me only with the softest grief. I saw his eyes humid also as he took both my hands in his; and sitting down near me, he said:\n\n“This is a sad deed to which you would lead me, dearest friend, and your woe must indeed be deep that could fill you with these unhappy thoughts. You long for death and yet you fear it and wish me to be your companion. But I have less courage than you and even thus accompanied I dare not die. Listen to me, and then reflect if you ought to win me to your project, even if with the over-bearing eloquence of despair you could make black death so inviting that the fair heaven should appear darkness. Listen I entreat you to the words of one who has himself nurtured desperate thoughts, and longed with impatient desire for death, but who has at length trampled the phantom under foot, and crushed his sting. Come, as you have played Despair with me I will play the part of Una with you and bring you hurtless from his dark cavern. Listen to me, and let yourself be softened by words in which no selfish passion lingers.\n\n“We know not what all this wide world means; its strange mixture of good and evil. But we have been placed here and bid live and hope. I know not what we are to hope; but there is some good beyond us that we must seek; and that is our earthly task. If misfortune come against us we must fight with her; we must cast her aside, and still go on to find out that which it is our nature to desire. Whether this prospect of future good be the preparation for another existence I know not; or whether that it is merely that we, as workmen in God’s vineyard, must lend a hand to smooth the way for our posterity."
+      },
+      "request_id": "074f9d49b27b95b363569ab7",
+      "request_sha256": "e45a48406fcd34cfb6e0fb32f949b707c22f1c22bc693fe3d3aacdf5f078d51a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c5339287a2b77e01163de667b701fd5e4d5c6d05276160e4b0bcda671165e7ce"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7cd3c5384f8af9b6b3755320",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_the_last_man_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 7cd3c5384f8af9b6b3755320\noriginal_word_count: 466\n\nPassage:\nHaving seen our friend properly installed in his new office, we turned our eyes towards Windsor. The nearness of this place to London was such, as to take away the idea of painful separation, when we quitted Raymond and Perdita. We took leave of them in the Protectoral Palace. It was pretty enough to see my sister enter as it were into the spirit of the drama, and endeavour to fill her station with becoming dignity. Her internal pride and humility of manner were now more than ever at war. Her timidity was not artificial, but arose from that fear of not being properly appreciated, that slight estimation of the neglect of the world, which also characterized Raymond. But then Perdita thought more constantly of others than he; and part of her bashfulness arose from a wish to take from those around her a sense of inferiority; a feeling which never crossed her mind. From the circumstances of her birth and education, Idris would have been better fitted for the formulae of ceremony; but the very ease which accompanied such actions with her, arising from habit, rendered them tedious; while, with every drawback, Perdita evidently enjoyed her situation. She was too full of new ideas to feel much pain when we departed; she took an affectionate leave of us, and promised to visit us soon; but she did not regret the circumstances that caused our separation. The spirits of Raymond were unbounded; he did not know what to do with his new got power; his head was full of plans; he had as yet decided on none— but he promised himself, his friends, and the world, that the aera of his Protectorship should be signalized by some act of surpassing glory. Thus, we talked of them, and moralized, as with diminished numbers we returned to Windsor Castle. We felt extreme delight at our escape from political turmoil, and sought our solitude with redoubled zest. We did not want for occupation; but my eager disposition was now turned to the field of intellectual exertion only; and hard study I found to be an excellent medicine to allay a fever of spirit with which in indolence, I should doubtless have been assailed. Perdita had permitted us to take Clara back with us to Windsor; and she and my two lovely infants were perpetual sources of interest and amusement.\n\nThe only circumstance that disturbed our peace, was the health of Adrian. It evidently declined, without any symptom which could lead us to suspect his disease, unless indeed his brightened eyes, animated look, and flustering cheeks, made us dread consumption; but he was without pain or fear. He betook himself to books with ardour, and reposed from study in the society he best loved, that of his sister and myself."
+      },
+      "request_id": "7cd3c5384f8af9b6b3755320",
+      "request_sha256": "53271abd2c628406f9f943a7a47ab0663c8d2fe24260e1113e5563e156c60e30",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "39530f63c78e03c6ec554e7dcb54bb21752a0782f7f17c6b3a0de21df39855d0"
+    }
+  ],
+  "session_id": "01a0e852-0aa6-7ae2-9bb7-b4f8a3387e53",
+  "worker_id": "astra_p",
+  "worker_identity_sha256": "afd3aba6357fe2ec9c9b6492844a9baccd6099faafc29ba8f935f467e4f98adf"
+}

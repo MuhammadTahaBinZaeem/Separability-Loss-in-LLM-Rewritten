@@ -1,0 +1,68 @@
+{
+  "batch_id": "b7b759c1859c498e8074",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:17:15.579959+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b9d7022b927b0b56d816e46b",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: b9d7022b927b0b56d816e46b\noriginal_word_count: 466\n\nPassage:\n“‘We have been to your residence,’ said the first, ‘and not being so fortunate as to find you there, and being informed that you were probably walking in this direction, we followed, in the hope of overtaking you. Will you please to enter the carriage?’\n\n“The manner of both was imperious, and they both moved, as these words were spoken, so as to place me between themselves and the carriage door. They were armed. I was not.\n\n“‘Gentlemen,’ said I, ‘pardon me; but I usually inquire who does me the honour to seek my assistance, and what is the nature of the case to which I am summoned.’\n\n“The reply to this was made by him who had spoken second. ‘Doctor, your clients are people of condition. As to the nature of the case, our confidence in your skill assures us that you will ascertain it for yourself better than we can describe it. Enough. Will you please to enter the carriage?’\n\n“I could do nothing but comply, and I entered it in silence. They both entered after me--the last springing in, after putting up the steps. The carriage turned about, and drove on at its former speed.\n\n“I repeat this conversation exactly as it occurred. I have no doubt that it is, word for word, the same. I describe everything exactly as it took place, constraining my mind not to wander from the task. Where I make the broken marks that follow here, I leave off for the time, and put my paper in its hiding-place.\n\n*****\n\n“The carriage left the streets behind, passed the North Barrier, and emerged upon the country road. At two-thirds of a league from the Barrier--I did not estimate the distance at that time, but afterwards when I traversed it--it struck out of the main avenue, and presently stopped at a solitary house, We all three alighted, and walked, by a damp soft footpath in a garden where a neglected fountain had overflowed, to the door of the house. It was not opened immediately, in answer to the ringing of the bell, and one of my two conductors struck the man who opened it, with his heavy riding glove, across the face.\n\n“There was nothing in this action to attract my particular attention, for I had seen common people struck more commonly than dogs. But, the other of the two, being angry likewise, struck the man in like manner with his arm; the look and bearing of the brothers were then so exactly alike, that I then first perceived them to be twin brothers.\n\n“From the time of our alighting at the outer gate (which we found locked, and which one of the brothers had opened to admit us, and had relocked), I had heard cries proceeding from an upper chamber."
+      },
+      "request_id": "b9d7022b927b0b56d816e46b",
+      "request_sha256": "8c4102f51eb5123f41f431766a3ab0256d1913a92b9ef4e744cc3d0e6200eada",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e56c50efaca24628ec38fc710cea0debd4a6206a8fe24b18523b8040b45ad3f2"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7d2b4bce7ae715eb2140bbaa",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 7d2b4bce7ae715eb2140bbaa\noriginal_word_count: 462\n\nPassage:\nIT was Lady Windermere’s last reception before Easter, and Bentinck House was even more crowded than usual. Six Cabinet Ministers had come on from the Speaker’s Levée in their stars and ribands, all the pretty women wore their smartest dresses, and at the end of the picture-gallery stood the Princess Sophia of Carlsrühe, a heavy Tartar-looking lady, with tiny black eyes and wonderful emeralds, talking bad French at the top of her voice, and laughing immoderately at everything that was said to her. It was certainly a wonderful medley of people. Gorgeous peeresses chatted affably to violent Radicals, popular preachers brushed coat-tails with eminent sceptics, a perfect bevy of bishops kept following a stout prima-donna from room to room, on the staircase stood several Royal Academicians, disguised as artists, and it was said that at one time the supper-room was absolutely crammed with geniuses. In fact, it was one of Lady Windermere’s best nights, and the Princess stayed till nearly half-past eleven.\n\nAs soon as she had gone, Lady Windermere returned to the picture-gallery, where a celebrated political economist was solemnly explaining the scientific theory of music to an indignant virtuoso from Hungary, and began to talk to the Duchess of Paisley. She looked wonderfully beautiful with her grand ivory throat, her large blue forget-me-not eyes, and her heavy coils of golden hair. _Or pur_ they were—not that pale straw colour that nowadays usurps the gracious name of gold, but such gold as is woven into sunbeams or hidden in strange amber; and they gave to her face something of the frame of a saint, with not a little of the fascination of a sinner. She was a curious psychological study. Early in life she had discovered the important truth that nothing looks so like innocence as an indiscretion; and by a series of reckless escapades, half of them quite harmless, she had acquired all the privileges of a personality. She had more than once changed her husband; indeed, Debrett credits her with three marriages; but as she had never changed her lover, the world had long ago ceased to talk scandal about her. She was now forty years of age, childless, and with that inordinate passion for pleasure which is the secret of remaining young.\n\nSuddenly she looked eagerly round the room, and said, in her clear contralto voice, ‘Where is my cheiromantist?’\n\n‘Your what, Gladys?’ exclaimed the Duchess, giving an involuntary start.\n\n‘My cheiromantist, Duchess; I can’t live without him at present.’\n\n‘Dear Gladys! you are always so original,’ murmured the Duchess, trying to remember what a cheiromantist really was, and hoping it was not the same as a cheiropodist.\n\n‘He comes to see my hand twice a week regularly,’ continued Lady Windermere, ‘and is most interesting about it.’"
+      },
+      "request_id": "7d2b4bce7ae715eb2140bbaa",
+      "request_sha256": "bee7cae801736f4becfedeceae2659a975fff7d9c90f351789dffe7d35db0160",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a401206ae424f3a6d222ca12d3cb2274861f2ae1291f1323e2f885aa524af4ff"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0769f3c3a3a3c6b459fc58ce",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_poe_the_gold_bug_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 0769f3c3a3a3c6b459fc58ce\noriginal_word_count: 473\n\nPassage:\nWe, finally, lightened the box by removing two thirds of its contents, when we were enabled, with some trouble, to raise it from the hole. The articles taken out were deposited among the brambles, and the dog left to guard them, with strict orders from Jupiter neither, upon any pretence, to stir from the spot, nor to open his mouth until our return. We then hurriedly made for home with the chest; reaching the hut in safety, but after excessive toil, at one o’clock in the morning. Worn out as we were, it was not in human nature to do more immediately. We rested until two, and had supper; starting for the hills immediately afterwards, armed with three stout sacks, which, by good luck, were upon the premises. A little before four we arrived at the pit, divided the remainder of the booty, as equally as might be, among us, and, leaving the holes unfilled, again set out for the hut, at which, for the second time, we deposited our golden burthens, just as the first faint streaks of the dawn gleamed from over the tree-tops in the East.\n\nWe were now thoroughly broken down; but the intense excitement of the time denied us repose. After an unquiet slumber of some three or four hours’ duration, we arose, as if by preconcert, to make examination of our treasure.\n\nThe chest had been full to the brim, and we spent the whole day, and the greater part of the next night, in a scrutiny of its contents. There had been nothing like order or arrangement. Every thing had been heaped in promiscuously. Having assorted all with care, we found ourselves possessed of even vaster wealth than we had at first supposed. In coin there was rather more than four hundred and fifty thousand dollars—estimating the value of the pieces, as accurately as we could, by the tables of the period. There was not a particle of silver. All was gold of antique date and of great variety—French, Spanish, and German money, with a few English guineas, and some counters, of which we had never seen specimens before. There were several very large and heavy coins, so worn that we could make nothing of their inscriptions. There was no American money. The value of the jewels we found more difficulty in estimating. There were diamonds—some of them exceedingly large and fine—a hundred and ten in all, and not one of them small; eighteen rubies of remarkable brilliancy;—three hundred and ten emeralds, all very beautiful; and twenty-one sapphires, with an opal. These stones had all been broken from their settings and thrown loose in the chest. The settings themselves, which we picked out from among the other gold, appeared to have been beaten up with hammers, as if to prevent identification."
+      },
+      "request_id": "0769f3c3a3a3c6b459fc58ce",
+      "request_sha256": "a4d543e3a7460f9e763c94dd45699f8120b30245305da96aa3c5817f5ab986b5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9783ce79d055e22efc5fb1613295d5768dcdc90177fa1ae8b9eabfdf5dcc52a7"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

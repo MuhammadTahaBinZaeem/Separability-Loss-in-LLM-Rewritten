@@ -1,0 +1,68 @@
+{
+  "batch_id": "9170ae07f33a539a6928",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:29:53.804322+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6c21a8ab8f5e4d2c83609f46",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_dickens_great_expectations_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 6c21a8ab8f5e4d2c83609f46\noriginal_word_count: 471\n\nPassage:\n“Unless you call Miss Havisham a he. And I doubt if even you’ll go so far as that.”\n\n“Miss Havisham, up town?” said Joe.\n\n“Is there any Miss Havisham down town?” returned my sister.\n\n“She wants this boy to go and play there. And of course he’s going. And he had better play there,” said my sister, shaking her head at me as an encouragement to be extremely light and sportive, “or I’ll work him.”\n\nI had heard of Miss Havisham up town,—everybody for miles round had heard of Miss Havisham up town,—as an immensely rich and grim lady who lived in a large and dismal house barricaded against robbers, and who led a life of seclusion.\n\n“Well to be sure!” said Joe, astounded. “I wonder how she come to know Pip!”\n\n“Noodle!” cried my sister. “Who said she knew him?”\n\n“—Which some individual,” Joe again politely hinted, “mentioned that she wanted him to go and play there.”\n\n“And couldn’t she ask Uncle Pumblechook if he knew of a boy to go and play there? Isn’t it just barely possible that Uncle Pumblechook may be a tenant of hers, and that he may sometimes—we won’t say quarterly or half-yearly, for that would be requiring too much of you—but sometimes—go there to pay his rent? And couldn’t she then ask Uncle Pumblechook if he knew of a boy to go and play there? And couldn’t Uncle Pumblechook, being always considerate and thoughtful for us—though you may not think it, Joseph,” in a tone of the deepest reproach, as if he were the most callous of nephews, “then mention this boy, standing Prancing here”—which I solemnly declare I was not doing—“that I have for ever been a willing slave to?”\n\n“Good again!” cried Uncle Pumblechook. “Well put! Prettily pointed! Good indeed! Now Joseph, you know the case.”\n\n“No, Joseph,” said my sister, still in a reproachful manner, while Joe apologetically drew the back of his hand across and across his nose, “you do not yet—though you may not think it—know the case. You may consider that you do, but you do _not_, Joseph. For you do not know that Uncle Pumblechook, being sensible that for anything we can tell, this boy’s fortune may be made by his going to Miss Havisham’s, has offered to take him into town to-night in his own chaise-cart, and to keep him to-night, and to take him with his own hands to Miss Havisham’s to-morrow morning. And Lor-a-mussy me!” cried my sister, casting off her bonnet in sudden desperation, “here I stand talking to mere Mooncalfs, with Uncle Pumblechook waiting, and the mare catching cold at the door, and the boy grimed with crock and dirt from the hair of his head to the sole of his foot!”"
+      },
+      "request_id": "6c21a8ab8f5e4d2c83609f46",
+      "request_sha256": "5e3bd1d1805833f392e6912b7fc422726aae71bf604626a6b909ad2a78c63f51",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "30a519f0dd064537d6ec76b4154feb58ee62a3dc4870baf33d16e31e2ae36f9d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f67cd93c7598f942b9fd9563",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 497,
+      "passage_id": "V2_wilde_dorian_gray_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: f67cd93c7598f942b9fd9563\noriginal_word_count: 497\n\nPassage:\nFor years, Dorian Gray could not free himself from the influence of this book. Or perhaps it would be more accurate to say that he never sought to free himself from it. He procured from Paris no less than nine large-paper copies of the first edition, and had them bound in different colours, so that they might suit his various moods and the changing fancies of a nature over which he seemed, at times, to have almost entirely lost control. The hero, the wonderful young Parisian in whom the romantic and the scientific temperaments were so strangely blended, became to him a kind of prefiguring type of himself. And, indeed, the whole book seemed to him to contain the story of his own life, written before he had lived it.\n\nIn one point he was more fortunate than the novel’s fantastic hero. He never knew—never, indeed, had any cause to know—that somewhat grotesque dread of mirrors, and polished metal surfaces, and still water which came upon the young Parisian so early in his life, and was occasioned by the sudden decay of a beau that had once, apparently, been so remarkable. It was with an almost cruel joy—and perhaps in nearly every joy, as certainly in every pleasure, cruelty has its place—that he used to read the latter part of the book, with its really tragic, if somewhat overemphasized, account of the sorrow and despair of one who had himself lost what in others, and the world, he had most dearly valued.\n\nFor the wonderful beauty that had so fascinated Basil Hallward, and many others besides him, seemed never to leave him. Even those who had heard the most evil things against him—and from time to time strange rumours about his mode of life crept through London and became the chatter of the clubs—could not believe anything to his dishonour when they saw him. He had always the look of one who had kept himself unspotted from the world. Men who talked grossly became silent when Dorian Gray entered the room. There was something in the purity of his face that rebuked them. His mere presence seemed to recall to them the memory of the innocence that they had tarnished. They wondered how one so charming and graceful as he was could have escaped the stain of an age that was at once sordid and sensual.\n\nOften, on returning home from one of those mysterious and prolonged absences that gave rise to such strange conjecture among those who were his friends, or thought that they were so, he himself would creep upstairs to the locked room, open the door with the key that never left him now, and stand, with a mirror, in front of the portrait that Basil Hallward had painted of him, looking now at the evil and aging face on the canvas, and now at the fair young face that laughed back at him from the polished glass."
+      },
+      "request_id": "f67cd93c7598f942b9fd9563",
+      "request_sha256": "590a4e09bac1270dadc400345814eb59c08b30ff7e8a26a779f720fde32f50a7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c38acc09c939e3e3a36a5d5bbdfef17335910df5393987b738434bf377042ae9"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "bb3e88bbbd2f5271586f72e0",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_murders_rue_morgue_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: bb3e88bbbd2f5271586f72e0\noriginal_word_count: 455\n\nPassage:\n“I proceeded to think thus—_a posteriori_. The murderers did escape from one of these windows. This being so, they could not have refastened the sashes from the inside, as they were found fastened;—the consideration which put a stop, through its obviousness, to the scrutiny of the police in this quarter. Yet the sashes _were_ fastened. They _must_, then, have the power of fastening themselves. There was no escape from this conclusion. I stepped to the unobstructed casement, withdrew the nail with some difficulty and attempted to raise the sash. It resisted all my efforts, as I had anticipated. A concealed spring must, I now know, exist; and this corroboration of my idea convinced me that my premises at least, were correct, however mysterious still appeared the circumstances attending the nails. A careful search soon brought to light the hidden spring. I pressed it, and, satisfied with the discovery, forbore to upraise the sash.\n\n“I now replaced the nail and regarded it attentively. A person passing out through this window might have reclosed it, and the spring would have caught—but the nail could not have been replaced. The conclusion was plain, and again narrowed in the field of my investigations. The assassins _must_ have escaped through the other window. Supposing, then, the springs upon each sash to be the same, as was probable, there _must_ be found a difference between the nails, or at least between the modes of their fixture. Getting upon the sacking of the bedstead, I looked over the head-board minutely at the second casement. Passing my hand down behind the board, I readily discovered and pressed the spring, which was, as I had supposed, identical in character with its neighbor. I now looked at the nail. It was as stout as the other, and apparently fitted in the same manner—driven in nearly up to the head.\n\n“You will say that I was puzzled; but, if you think so, you must have misunderstood the nature of the inductions. To use a sporting phrase, I had not been once ‘at fault.’ The scent had never for an instant been lost. There was no flaw in any link of the chain. I had traced the secret to its ultimate result,—and that result was _the nail._ It had, I say, in every respect, the appearance of its fellow in the other window; but this fact was an absolute nullity (conclusive as it might seem to be) when compared with the consideration that here, at this point, terminated the clew. ‘There _must_ be something wrong,’ I said, ‘about the nail.’ I touched it; and the head, with about a quarter of an inch of the shank, came off in my fingers."
+      },
+      "request_id": "bb3e88bbbd2f5271586f72e0",
+      "request_sha256": "8396fc0bb512a117c074ae6edb6b89e2fb8c6097f427ec8af91c418b0f9f5a29",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "94751127eae38ce4b8ddbd3d29e5778f4d95edcae90f2647014b5757635b01af"
+    }
+  ],
+  "session_id": "01a0e30c-b9d5-7a90-8e48-66fb9e9e85ab",
+  "worker_id": "astra_f",
+  "worker_identity_sha256": "99f27e110908dead1d4562afc80f2641e421ce331aa3d512cbd7e9a66fae1aa2"
+}

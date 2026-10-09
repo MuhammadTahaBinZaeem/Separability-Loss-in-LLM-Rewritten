@@ -1,0 +1,68 @@
+{
+  "batch_id": "24c379e306b53084c6ec",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:54:58.042877+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "bfd2096081ac3def321731eb",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_poe_murders_rue_morgue_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: bfd2096081ac3def321731eb\noriginal_word_count: 460\n\nPassage:\nDoes not understand the English language, but judges by the intonation.\n\n“_Alberto Montani_, confectioner, deposes that he was among the first to ascend the stairs. Heard the voices in question. The gruff voice was that of a Frenchman. Distinguished several words. The speaker appeared to be expostulating. Could not make out the words of the shrill voice. Spoke quick and unevenly. Thinks it the voice of a Russian. Corroborates the general testimony. Is an Italian. Never conversed with a native of Russia.\n\n“Several witnesses, recalled, here testified that the chimneys of all the rooms on the fourth story were too narrow to admit the passage of a human being. By ‘sweeps’ were meant cylindrical sweeping brushes, such as are employed by those who clean chimneys. These brushes were passed up and down every flue in the house. There is no back passage by which any one could have descended while the party proceeded up stairs. The body of Mademoiselle L’Espanaye was so firmly wedged in the chimney that it could not be got down until four or five of the party united their strength.\n\n“_Paul Dumas_, physician, deposes that he was called to view the bodies about day-break. They were both then lying on the sacking of the bedstead in the chamber where Mademoiselle L. was found. The corpse of the young lady was much bruised and excoriated. The fact that it had been thrust up the chimney would sufficiently account for these appearances. The throat was greatly chafed. There were several deep scratches just below the chin, together with a series of livid spots which were evidently the impression of fingers. The face was fearfully discolored, and the eye-balls protruded. The tongue had been partially bitten through. A large bruise was discovered upon the pit of the stomach, produced, apparently, by the pressure of a knee. In the opinion of M. Dumas, Mademoiselle L’Espanaye had been throttled to death by some person or persons unknown. The corpse of the mother was horribly mutilated. All the bones of the right leg and arm were more or less shattered. The left _tibia_ much splintered, as well as all the ribs of the left side. Whole body dreadfully bruised and discolored. It was not possible to say how the injuries had been inflicted. A heavy club of wood, or a broad bar of iron—a chair—any large, heavy, and obtuse weapon would have produced such results, if wielded by the hands of a very powerful man. No woman could have inflicted the blows with any weapon. The head of the deceased, when seen by witness, was entirely separated from the body, and was also greatly shattered. The throat had evidently been cut with some very sharp instrument—probably with a razor."
+      },
+      "request_id": "bfd2096081ac3def321731eb",
+      "request_sha256": "05b8858ceeba19d0858d7aa994f27e2b1eac53b0e944caa9935b6c83945f0082",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1ba2b2c8ec6dd4e7b01f0aacc829532c1ffa914886ca569bd240bf032cc4891e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "eb4cebf9af635098b09ce98c",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_shelley_the_last_man_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: eb4cebf9af635098b09ce98c\noriginal_word_count: 462\n\nPassage:\nRaymond was inspirited by the intense sensations of recovered health; he felt that in being general of the Athenians, he filled a post worthy of his ambition; and, in his hope of the conquest of Constantinople, he counted on an event which would be as a landmark in the waste of ages, an exploit unequalled in the annals of man; when a city of grand historic association, the beauty of whose site was the wonder of the world, which for many hundred years had been the strong hold of the Moslems, should be rescued from slavery and barbarism, and restored to a people illustrious for genius, civilization, and a spirit of liberty. Perdita rested on his restored society, on his love, his hopes and fame, even as a Sybarite on a luxurious couch; every thought was transport, each emotion bathed as it were in a congenial and balmy element.\n\nWe arrived at Kishan on the 7th of July. The weather during our journey had been serene. Each day, before dawn, we left our night’s encampment, and watched the shadows as they retreated from hill and valley, and the golden splendour of the sun’s approach. The accompanying soldiers received, with national vivacity, enthusiastic pleasure from the sight of beautiful nature. The uprising of the star of day was hailed by triumphant strains, while the birds, heard by snatches, filled up the intervals of the music. At noon, we pitched our tents in some shady valley, or embowering wood among the mountains, while a stream prattling over pebbles induced grateful sleep. Our evening march, more calm, was yet more delightful than the morning restlessness of spirit. If the band played, involuntarily they chose airs of moderated passion; the farewell of love, or lament at absence, was followed and closed by some solemn hymn, which harmonized with the tranquil loveliness of evening, and elevated the soul to grand and religious thought. Often all sounds were suspended, that we might listen to the nightingale, while the fire-flies danced in bright measure, and the soft cooing of the aziolo spoke of fair weather to the travellers. Did we pass a valley? Soft shades encompassed us, and rocks tinged with beauteous hues. If we traversed a mountain, Greece, a living map, was spread beneath, her renowned pinnacles cleaving the ether; her rivers threading in silver line the fertile land. Afraid almost to breathe, we English travellers surveyed with extasy this splendid landscape, so different from the sober hues and melancholy graces of our native scenery. When we quitted Macedonia, the fertile but low plains of Thrace afforded fewer beauties; yet our journey continued to be interesting. An advanced guard gave information of our approach, and the country people were quickly in motion to do honour to Lord Raymond."
+      },
+      "request_id": "eb4cebf9af635098b09ce98c",
+      "request_sha256": "570b992d633b7888328d88e5543a654d7a5e1e4239d94d00e29b42eee2663bf2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "09a1cc0ff1347f820b7adbd52ca1d73be0068b302d8986543ec0e92e432357af"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "fbe443e9eef465a38c4c828e",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: fbe443e9eef465a38c4c828e\noriginal_word_count: 454\n\nPassage:\nBut I must warn you beforehand that I shall tell Sybil everything. She is coming to lunch with me to-morrow, to talk about bonnets, and if Mr. Podgers finds out that you have a bad temper, or a tendency to gout, or a wife living in Bayswater, I shall certainly let her know all about it.’\n\nLord Arthur smiled, and shook his head. ‘I am not afraid,’ he answered. ‘Sybil knows me as well as I know her.’\n\n‘Ah! I am a little sorry to hear you say that. The proper basis for marriage is a mutual misunderstanding. No, I am not at all cynical, I have merely got experience, which, however, is very much the same thing. Mr. Podgers, Lord Arthur Savile is dying to have his hand read. Don’t tell him that he is engaged to one of the most beautiful girls in London, because that appeared in the _Morning Post_ a month ago.\n\n‘Dear Lady Windermere,’ cried the Marchioness of Jedburgh, ‘do let Mr. Podgers stay here a little longer. He has just told me I should go on the stage, and I am so interested.’\n\n‘If he has told you that, Lady Jedburgh, I shall certainly take him away. Come over at once, Mr. Podgers, and read Lord Arthur’s hand.’\n\n‘Well,’ said Lady Jedburgh, making a little _moue_ as she rose from the sofa, ‘if I am not to be allowed to go on the stage, I must be allowed to be part of the audience at any rate.’\n\n‘Of course; we are all going to be part of the audience,’ said Lady Windermere; ‘and now, Mr. Podgers, be sure and tell us something nice. Lord Arthur is one of my special favourites.’\n\nBut when Mr. Podgers saw Lord Arthur’s hand he grew curiously pale, and said nothing. A shudder seemed to pass through him, and his great bushy eyebrows twitched convulsively, in an odd, irritating way they had when he was puzzled. Then some huge beads of perspiration broke out on his yellow forehead, like a poisonous dew, and his fat fingers grew cold and clammy.\n\nLord Arthur did not fail to notice these strange signs of agitation, and, for the first time in his life, he himself felt fear. His impulse was to rush from the room, but he restrained himself. It was better to know the worst, whatever it was, than to be left in this hideous uncertainty.\n\n‘I am waiting, Mr. Podgers,’ he said.\n\n‘We are all waiting,’ cried Lady Windermere, in her quick, impatient manner, but the cheiromantist made no reply.\n\n‘I believe Arthur is going on the stage,’ said Lady Jedburgh, ‘and that, after your scolding, Mr. Podgers is afraid to tell him so.’"
+      },
+      "request_id": "fbe443e9eef465a38c4c828e",
+      "request_sha256": "c6f83071f32bd91f7bed43ebdaea73980477186b726a59225c0b0a0022fbab89",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0fdd3ec7b9f44178c5e14c2149a2a62064bf29186eaafc3da20d567ddae11f78"
+    }
+  ],
+  "session_id": "01a0e84b-0c07-7f62-8492-38d6630a3d8a",
+  "worker_id": "astra_n",
+  "worker_identity_sha256": "af3df2dfd1bd45965959790098af7e2b94db79efd262f1f2cc3e95a3ae8be86e"
+}

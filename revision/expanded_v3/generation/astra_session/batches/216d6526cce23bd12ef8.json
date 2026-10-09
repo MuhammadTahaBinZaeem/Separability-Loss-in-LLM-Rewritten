@@ -1,0 +1,68 @@
+{
+  "batch_id": "216d6526cce23bd12ef8",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:01:08.359581+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f4345244404e9d59482db7fd",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_austen_persuasion_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: f4345244404e9d59482db7fd\noriginal_word_count: 473\n\nPassage:\nOn the morning appointed for Admiral and Mrs Croft’s seeing Kellynch Hall, Anne found it most natural to take her almost daily walk to Lady Russell’s, and keep out of the way till all was over; when she found it most natural to be sorry that she had missed the opportunity of seeing them.\n\nThis meeting of the two parties proved highly satisfactory, and decided the whole business at once. Each lady was previously well disposed for an agreement, and saw nothing, therefore, but good manners in the other; and with regard to the gentlemen, there was such an hearty good humour, such an open, trusting liberality on the Admiral’s side, as could not but influence Sir Walter, who had besides been flattered into his very best and most polished behaviour by Mr Shepherd’s assurances of his being known, by report, to the Admiral, as a model of good breeding.\n\nThe house and grounds, and furniture, were approved, the Crofts were approved, terms, time, every thing, and every body, was right; and Mr Shepherd’s clerks were set to work, without there having been a single preliminary difference to modify of all that “This indenture sheweth.”\n\nSir Walter, without hesitation, declared the Admiral to be the best-looking sailor he had ever met with, and went so far as to say, that if his own man might have had the arranging of his hair, he should not be ashamed of being seen with him any where; and the Admiral, with sympathetic cordiality, observed to his wife as they drove back through the park, “I thought we should soon come to a deal, my dear, in spite of what they told us at Taunton. The Baronet will never set the Thames on fire, but there seems to be no harm in him.”—reciprocal compliments, which would have been esteemed about equal.\n\nThe Crofts were to have possession at Michaelmas; and as Sir Walter proposed removing to Bath in the course of the preceding month, there was no time to be lost in making every dependent arrangement.\n\nLady Russell, convinced that Anne would not be allowed to be of any use, or any importance, in the choice of the house which they were going to secure, was very unwilling to have her hurried away so soon, and wanted to make it possible for her to stay behind till she might convey her to Bath herself after Christmas; but having engagements of her own which must take her from Kellynch for several weeks, she was unable to give the full invitation she wished, and Anne though dreading the possible heats of September in all the white glare of Bath, and grieving to forego all the influence so sweet and so sad of the autumnal months in the country, did not think that, everything considered, she wished to remain."
+      },
+      "request_id": "f4345244404e9d59482db7fd",
+      "request_sha256": "fc0a9948c58e19dd4f294c3178472ced93956ca8e3a0f8ae6675904a58b1783f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ed9412a75b97f71ae45fcdf2ab2d8a618ae2fe3ae3e15a66a6f934dc665c3d05"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e7945a11de7d8454ceb14760",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_twain_connecticut_yankee_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e7945a11de7d8454ceb14760\noriginal_word_count: 457\n\nPassage:\n“And so I'm proprietor of some knights,” said I, as we rode off. “Who would ever have supposed that I should live to list up assets of that sort. I shan't know what to do with them; unless I raffle them off. How many of them are there, Sandy?”\n\n“Seven, please you, sir, and their squires.”\n\n“It is a good haul. Who are they? Where do they hang out?”\n\n“Where do they hang out?”\n\n“Yes, where do they live?”\n\n“Ah, I understood thee not. That will I tell eftsoons.” Then she said musingly, and softly, turning the words daintily over her tongue: “Hang they out--hang they out--where hang--where do they hang out; eh, right so; where do they hang out. Of a truth the phrase hath a fair and winsome grace, and is prettily worded withal. I will repeat it anon and anon in mine idlesse, whereby I may peradventure learn it. Where do they hang out. Even so! already it falleth trippingly from my tongue, and forasmuch as--”\n\n“Don't forget the cowboys, Sandy.”\n\n“Cowboys?”\n\n“Yes; the knights, you know: You were going to tell me about them. A while back, you remember. Figuratively speaking, game's called.”\n\n“Game--”\n\n“Yes, yes, yes! Go to the bat. I mean, get to work on your statistics, and don't burn so much kindling getting your fire started. Tell me about the knights.”\n\n“I will well, and lightly will begin. So they two departed and rode into a great forest. And--”\n\n“Great Scott!”\n\nYou see, I recognized my mistake at once. I had set her works a-going; it was my own fault; she would be thirty days getting down to those facts. And she generally began without a preface and finished without a result. If you interrupted her she would either go right along without noticing, or answer with a couple of words, and go back and say the sentence over again. So, interruptions only did harm; and yet I had to interrupt, and interrupt pretty frequently, too, in order to save my life; a person would die if he let her monotony drip on him right along all day.\n\n“Great Scott!” I said in my distress. She went right back and began over again:\n\n“So they two departed and rode into a great forest. And--”\n\n“_Which_ two?”\n\n“Sir Gawaine and Sir Uwaine. And so they came to an abbey of monks, and there were well lodged. So on the morn they heard their masses in the abbey, and so they rode forth till they came to a great forest; then was Sir Gawaine ware in a valley by a turret, of twelve fair damsels, and two knights armed on great horses, and the damsels went to and fro by a tree."
+      },
+      "request_id": "e7945a11de7d8454ceb14760",
+      "request_sha256": "d482e195bb75797e125e7ed4a97f6094da77dc83ffcd351ca928544f961d1ee5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1dd9983edde252b77d615c6e96a1b84e23fab6d6342b0bbf2258750551c81445"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e726e541aa20c34a66bb99d0",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_wilde_dorian_gray_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e726e541aa20c34a66bb99d0\noriginal_word_count: 454\n\nPassage:\nThen they passed by lonely brickfields. The fog was lighter here, and he could see the strange, bottle-shaped kilns with their orange, fanlike tongues of fire. A dog barked as they went by, and far away in the darkness some wandering sea-gull screamed. The horse stumbled in a rut, then swerved aside and broke into a gallop.\n\nAfter some time they left the clay road and rattled again over rough-paven streets. Most of the windows were dark, but now and then fantastic shadows were silhouetted against some lamplit blind. He watched them curiously. They moved like monstrous marionettes and made gestures like live things. He hated them. A dull rage was in his heart. As they turned a corner, a woman yelled something at them from an open door, and two men ran after the hansom for about a hundred yards. The driver beat at them with his whip.\n\nIt is said that passion makes one think in a circle. Certainly with hideous iteration the bitten lips of Dorian Gray shaped and reshaped those subtle words that dealt with soul and sense, till he had found in them the full expression, as it were, of his mood, and justified, by intellectual approval, passions that without such justification would still have dominated his temper. From cell to cell of his brain crept the one thought; and the wild desire to live, most terrible of all man’s appetites, quickened into force each trembling nerve and fibre. Ugliness that had once been hateful to him because it made things real, became dear to him now for that very reason. Ugliness was the one reality. The coarse brawl, the loathsome den, the crude violence of disordered life, the very vileness of thief and outcast, were more vivid, in their intense actuality of impression, than all the gracious shapes of art, the dreamy shadows of song. They were what he needed for forgetfulness. In three days he would be free.\n\nSuddenly the man drew up with a jerk at the top of a dark lane. Over the low roofs and jagged chimney-stacks of the houses rose the black masts of ships. Wreaths of white mist clung like ghostly sails to the yards.\n\n“Somewhere about here, sir, ain’t it?” he asked huskily through the trap.\n\nDorian started and peered round. “This will do,” he answered, and having got out hastily and given the driver the extra fare he had promised him, he walked quickly in the direction of the quay. Here and there a lantern gleamed at the stern of some huge merchantman. The light shook and splintered in the puddles. A red glare came from an outward-bound steamer that was coaling. The slimy pavement looked like a wet mackintosh."
+      },
+      "request_id": "e726e541aa20c34a66bb99d0",
+      "request_sha256": "dcee8c4be67c607e5f281789271551f962a874a45304ee837a64440fd050f40c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3ae92dffcf9ab3f05623176e7c6655835597327befcb268819b39125f0f90500"
+    }
+  ],
+  "session_id": "01a0e851-893e-7833-9978-6adbfb804215",
+  "worker_id": "astra_o",
+  "worker_identity_sha256": "57a742b9cc10271bcec81121c331ed211baefa86bd40e11991144b051b260799"
+}

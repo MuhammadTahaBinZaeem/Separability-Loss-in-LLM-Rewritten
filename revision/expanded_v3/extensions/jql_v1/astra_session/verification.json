@@ -1,0 +1,14 @@
+{
+  "contrast_rows": 189,
+  "manifest_sha256": "26c444d583b3702584a3db2854593804aee4ab9d97522ad9613898d96ab2a56d",
+  "matrix_cells": 336,
+  "model_key": "astra_session",
+  "not_independent_human_review": true,
+  "passed": true,
+  "prediction_rows": 120960,
+  "submission_ready": false,
+  "transforms_refitted": 105,
+  "verified_scope": "hashes_cohorts_views_fold_alignment_transform_refits_scores_and_paired_CIs",
+  "verified_utc": "2026-09-29T17:27:07.503447+00:00",
+  "verifier_sha256": "48ee1cd6bbff6aaaf062f6333846a3f701c38d453dc867aceb501678b859d973"
+}

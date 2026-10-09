@@ -1,0 +1,90 @@
+{
+  "archive_files_checked": 1906,
+  "archive_sha256": "823ce5e20483e133eb3c49a9c9982d80ca2c49f9c8b9c9301e95e8486a820f98",
+  "completed_utc": "2026-10-08T09:05:02.472103+00:00",
+  "environment": {
+    "locked_distributions": 24,
+    "mismatches": [],
+    "passed": true,
+    "python": "3.12.11"
+  },
+  "mode": "primary",
+  "model_api_calls": 0,
+  "numeric_audit": {
+    "classifiers_refitted": false,
+    "holm_adjustment_reconstructed": true,
+    "passed": true,
+    "primary_point_estimates": 54,
+    "ratings": 3240,
+    "raw_permutation_pvalues_and_intervals_recomputed": false,
+    "semantic_comparisons": 108,
+    "semantic_pairs": 1620
+  },
+  "passed": true,
+  "private_inputs_read": false,
+  "replays": [
+    {
+      "bootstraps": 5000,
+      "byte_identical_result_files": 29,
+      "classifiers": 3,
+      "feature_panels": 7,
+      "folds": 3,
+      "model_key": "gem31lite",
+      "passed": true,
+      "private_source_return_required": false,
+      "work_swaps": 9999
+    },
+    {
+      "bootstraps": 5000,
+      "byte_identical_result_files": 29,
+      "classifiers": 3,
+      "feature_panels": 7,
+      "folds": 3,
+      "model_key": "azure_replication",
+      "passed": true,
+      "private_source_return_required": false,
+      "work_swaps": 9999
+    },
+    {
+      "bootstraps": 5000,
+      "byte_identical_result_files": 29,
+      "classifiers": 3,
+      "feature_panels": 7,
+      "folds": 3,
+      "model_key": "codex51",
+      "passed": true,
+      "private_source_return_required": false,
+      "work_swaps": 9999
+    },
+    {
+      "bootstraps": 5000,
+      "byte_identical_result_files": 29,
+      "classifiers": 3,
+      "feature_panels": 7,
+      "folds": 3,
+      "model_key": "luna56",
+      "passed": true,
+      "private_source_return_required": false,
+      "work_swaps": 9999
+    },
+    {
+      "bootstraps": 5000,
+      "byte_identical_result_files": 29,
+      "classifiers": 3,
+      "feature_panels": 7,
+      "folds": 3,
+      "model_key": "astra_session",
+      "passed": true,
+      "private_source_return_required": false,
+      "work_swaps": 9999
+    }
+  ],
+  "scope_limit": "Computational consistency does not verify reviewer identity, independence, consent, ethics approval or model backend identity.",
+  "source_check": {
+    "passages": 360,
+    "passed": true,
+    "private_review_provenance_checked": false,
+    "scope": "Public hashes, archived source spans, lengths, nonoverlap, balance and work folds",
+    "works": 18
+  }
+}

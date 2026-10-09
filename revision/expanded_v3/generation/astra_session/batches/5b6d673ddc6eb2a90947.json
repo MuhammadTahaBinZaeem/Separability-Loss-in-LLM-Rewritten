@@ -1,0 +1,68 @@
+{
+  "batch_id": "5b6d673ddc6eb2a90947",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:09:57.422793+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4d92590fc6862eed7388a508",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_austen_pride_and_prejudice_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 4d92590fc6862eed7388a508\noriginal_word_count: 450\n\nPassage:\nHer colour changed, and she said no more.\n\nMrs. Gardiner was standing a little behind; and on her pausing, he asked her if she would do him the honour of introducing him to her friends. This was a stroke of civility for which she was quite unprepared; and she could hardly suppress a smile at his being now seeking the acquaintance of some of those very people, against whom his pride had revolted, in his offer to herself. “What will be his surprise,” thought she, “when he knows who they are! He takes them now for people of fashion.”\n\nThe introduction, however, was immediately made; and as she named their relationship to herself, she stole a sly look at him, to see how he bore it; and was not without the expectation of his decamping as fast as he could from such disgraceful companions. That he was _surprised_ by the connection was evident: he sustained it, however, with fortitude: and, so far from going away, turned back with them, and entered into conversation with Mr. Gardiner. Elizabeth could not but be pleased, could not but triumph. It was consoling that he should know she had some relations for whom there was no need to blush. She listened most attentively to all that passed between them, and gloried in every expression, every sentence of her uncle, which marked his intelligence, his taste, or his good manners.\n\nThe conversation soon turned upon fishing; and she heard Mr. Darcy invite him, with the greatest civility, to fish there as often as he chose, while he continued in the neighbourhood, offering at the same time to supply him with fishing tackle, and pointing out those parts of the stream where there was usually most sport. Mrs. Gardiner, who was walking arm in arm with Elizabeth, gave her a look expressive of her wonder. Elizabeth said nothing, but it gratified her exceedingly; the compliment must be all for herself. Her astonishment, however, was extreme; and continually was she repeating, “Why is he so altered? From what can it proceed? It cannot be for _me_, it cannot be for _my_ sake that his manners are thus softened. My reproofs at Hunsford could not work such a change as this. It is impossible that he should still love me.”\n\nAfter walking some time in this way, the two ladies in front, the two gentlemen behind, on resuming their places, after descending to the brink of the river for the better inspection of some curious water-plant, there chanced to be a little alteration. It originated in Mrs. Gardiner, who, fatigued by the exercise of the morning, found Elizabeth’s arm inadequate to her support, and consequently preferred her husband’s."
+      },
+      "request_id": "4d92590fc6862eed7388a508",
+      "request_sha256": "9e3fea93cbc83ef2e2eccd346c407dfd8a5c72d6023d303512237d9f52d8d311",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8b46b3cf85c417e1e60309770b2e7fc00c32edff9745bb73f8fda045cf3ac90f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4abe84a0c7c904760733b5b8",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_shelley_frankenstein_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 4abe84a0c7c904760733b5b8\noriginal_word_count: 472\n\nPassage:\nWe were brought up together; there was not quite a year difference in our ages. I need not say that we were strangers to any species of disunion or dispute. Harmony was the soul of our companionship, and the diversity and contrast that subsisted in our characters drew us nearer together. Elizabeth was of a calmer and more concentrated disposition; but, with all my ardour, I was capable of a more intense application and was more deeply smitten with the thirst for knowledge. She busied herself with following the aerial creations of the poets; and in the majestic and wondrous scenes which surrounded our Swiss home —the sublime shapes of the mountains, the changes of the seasons, tempest and calm, the silence of winter, and the life and turbulence of our Alpine summers—she found ample scope for admiration and delight. While my companion contemplated with a serious and satisfied spirit the magnificent appearances of things, I delighted in investigating their causes. The world was to me a secret which I desired to divine. Curiosity, earnest research to learn the hidden laws of nature, gladness akin to rapture, as they were unfolded to me, are among the earliest sensations I can remember.\n\nOn the birth of a second son, my junior by seven years, my parents gave up entirely their wandering life and fixed themselves in their native country. We possessed a house in Geneva, and a _campagne_ on Belrive, the eastern shore of the lake, at the distance of rather more than a league from the city. We resided principally in the latter, and the lives of my parents were passed in considerable seclusion. It was my temper to avoid a crowd and to attach myself fervently to a few. I was indifferent, therefore, to my school-fellows in general; but I united myself in the bonds of the closest friendship to one among them. Henry Clerval was the son of a merchant of Geneva. He was a boy of singular talent and fancy. He loved enterprise, hardship, and even danger for its own sake. He was deeply read in books of chivalry and romance. He composed heroic songs and began to write many a tale of enchantment and knightly adventure. He tried to make us act plays and to enter into masquerades, in which the characters were drawn from the heroes of Roncesvalles, of the Round Table of King Arthur, and the chivalrous train who shed their blood to redeem the holy sepulchre from the hands of the infidels.\n\nNo human being could have passed a happier childhood than myself. My parents were possessed by the very spirit of kindness and indulgence. We felt that they were not the tyrants to rule our lot according to their caprice, but the agents and creators of all the many delights which we enjoyed."
+      },
+      "request_id": "4abe84a0c7c904760733b5b8",
+      "request_sha256": "7b2d7850a3dd002bfe071c06647ef084f2b96c4b67c529776d84cd29517fbf0a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "da4e769dd5be2d3261a30f02438098f9a95dc899ac8a94f0c7ef65433d537951"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ca81db06f116f52b66986625",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_shelley_frankenstein_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: ca81db06f116f52b66986625\noriginal_word_count: 451\n\nPassage:\nHis person was short but remarkably erect and his voice the sweetest I had ever heard. He began his lecture by a recapitulation of the history of chemistry and the various improvements made by different men of learning, pronouncing with fervour the names of the most distinguished discoverers. He then took a cursory view of the present state of the science and explained many of its elementary terms. After having made a few preparatory experiments, he concluded with a panegyric upon modern chemistry, the terms of which I shall never forget:\n\n“The ancient teachers of this science,” said he, “promised impossibilities and performed nothing. The modern masters promise very little; they know that metals cannot be transmuted and that the elixir of life is a chimera but these philosophers, whose hands seem only made to dabble in dirt, and their eyes to pore over the microscope or crucible, have indeed performed miracles. They penetrate into the recesses of nature and show how she works in her hiding-places. They ascend into the heavens; they have discovered how the blood circulates, and the nature of the air we breathe. They have acquired new and almost unlimited powers; they can command the thunders of heaven, mimic the earthquake, and even mock the invisible world with its own shadows.”\n\nSuch were the professor’s words—rather let me say such the words of the fate—enounced to destroy me. As he went on I felt as if my soul were grappling with a palpable enemy; one by one the various keys were touched which formed the mechanism of my being; chord after chord was sounded, and soon my mind was filled with one thought, one conception, one purpose. So much has been done, exclaimed the soul of Frankenstein—more, far more, will I achieve; treading in the steps already marked, I will pioneer a new way, explore unknown powers, and unfold to the world the deepest mysteries of creation.\n\nI closed not my eyes that night. My internal being was in a state of insurrection and turmoil; I felt that order would thence arise, but I had no power to produce it. By degrees, after the morning’s dawn, sleep came. I awoke, and my yesternight’s thoughts were as a dream. There only remained a resolution to return to my ancient studies and to devote myself to a science for which I believed myself to possess a natural talent. On the same day I paid M. Waldman a visit. His manners in private were even more mild and attractive than in public, for there was a certain dignity in his mien during his lecture which in his own house was replaced by the greatest affability and kindness."
+      },
+      "request_id": "ca81db06f116f52b66986625",
+      "request_sha256": "cb3c0e688755ef5fab00ec2b8f91ddcd914556ea36f30d96a94a0d57905207a7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ea77de40422f9b524a614739a8e7cdb4b21ed099d62824a1698913f1dad58b8d"
+    }
+  ],
+  "session_id": "01a0e852-0aa6-7ae2-9bb7-b4f8a3387e53",
+  "worker_id": "astra_p",
+  "worker_identity_sha256": "afd3aba6357fe2ec9c9b6492844a9baccd6099faafc29ba8f935f467e4f98adf"
+}

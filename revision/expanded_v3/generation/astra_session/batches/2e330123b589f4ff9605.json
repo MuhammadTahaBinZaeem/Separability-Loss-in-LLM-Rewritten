@@ -1,0 +1,68 @@
+{
+  "batch_id": "2e330123b589f4ff9605",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:47:30.658327+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "cfb3d736bf456d7fc0abf01d",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 482,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: cfb3d736bf456d7fc0abf01d\noriginal_word_count: 482\n\nPassage:\nThe nephew looked at him, in vain, in passing on to the door.\n\n“Good night!” said the uncle. “I look to the pleasure of seeing you again in the morning. Good repose! Light Monsieur my nephew to his chamber there!--And burn Monsieur my nephew in his bed, if you will,” he added to himself, before he rang his little bell again, and summoned his valet to his own bedroom.\n\nThe valet come and gone, Monsieur the Marquis walked to and fro in his loose chamber-robe, to prepare himself gently for sleep, that hot still night. Rustling about the room, his softly-slippered feet making no noise on the floor, he moved like a refined tiger:--looked like some enchanted marquis of the impenitently wicked sort, in story, whose periodical change into tiger form was either just going off, or just coming on.\n\nHe moved from end to end of his voluptuous bedroom, looking again at the scraps of the day’s journey that came unbidden into his mind; the slow toil up the hill at sunset, the setting sun, the descent, the mill, the prison on the crag, the little village in the hollow, the peasants at the fountain, and the mender of roads with his blue cap pointing out the chain under the carriage. That fountain suggested the Paris fountain, the little bundle lying on the step, the women bending over it, and the tall man with his arms up, crying, “Dead!”\n\n“I am cool now,” said Monsieur the Marquis, “and may go to bed.”\n\nSo, leaving only one light burning on the large hearth, he let his thin gauze curtains fall around him, and heard the night break its silence with a long sigh as he composed himself to sleep.\n\nThe stone faces on the outer walls stared blindly at the black night for three heavy hours; for three heavy hours, the horses in the stables rattled at their racks, the dogs barked, and the owl made a noise with very little resemblance in it to the noise conventionally assigned to the owl by men-poets. But it is the obstinate custom of such creatures hardly ever to say what is set down for them.\n\nFor three heavy hours, the stone faces of the chateau, lion and human, stared blindly at the night. Dead darkness lay on all the landscape, dead darkness added its own hush to the hushing dust on all the roads. The burial-place had got to the pass that its little heaps of poor grass were undistinguishable from one another; the figure on the Cross might have come down, for anything that could be seen of it. In the village, taxers and taxed were fast asleep. Dreaming, perhaps, of banquets, as the starved usually do, and of ease and rest, as the driven slave and the yoked ox may, its lean inhabitants slept soundly, and were fed and freed."
+      },
+      "request_id": "cfb3d736bf456d7fc0abf01d",
+      "request_sha256": "398e7e7cb18e6e2b1938f71ed76a0684d2999941c16b739e0d5b29cdcf9e8e09",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bc1bd5ff15b4b935d85e76ed5f7ef3cc326dadc40b71c281396a80763e166b05"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "810672ad2c6e33c38d9b54df",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 483,
+      "passage_id": "V2_poe_murders_rue_morgue_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 810672ad2c6e33c38d9b54df\noriginal_word_count: 483\n\nPassage:\nThe daughter lay prostrate and motionless; she had swooned. The screams and struggles of the old lady (during which the hair was torn from her head) had the effect of changing the probably pacific purposes of the Ourang-Outang into those of wrath. With one determined sweep of its muscular arm it nearly severed her head from her body. The sight of blood inflamed its anger into phrenzy. Gnashing its teeth, and flashing fire from its eyes, it flew upon the body of the girl, and imbedded its fearful talons in her throat, retaining its grasp until she expired. Its wandering and wild glances fell at this moment upon the head of the bed, over which the face of its master, rigid with horror, was just discernible. The fury of the beast, who no doubt bore still in mind the dreaded whip, was instantly converted into fear. Conscious of having deserved punishment, it seemed desirous of concealing its bloody deeds, and skipped about the chamber in an agony of nervous agitation; throwing down and breaking the furniture as it moved, and dragging the bed from the bedstead. In conclusion, it seized first the corpse of the daughter, and thrust it up the chimney, as it was found; then that of the old lady, which it immediately hurled through the window headlong.\n\nAs the ape approached the casement with its mutilated burden, the sailor shrank aghast to the rod, and, rather gliding than clambering down it, hurried at once home—dreading the consequences of the butchery, and gladly abandoning, in his terror, all solicitude about the fate of the Ourang-Outang. The words heard by the party upon the staircase were the Frenchman’s exclamations of horror and affright, commingled with the fiendish jabberings of the brute.\n\nI have scarcely anything to add. The Ourang-Outang must have escaped from the chamber, by the rod, just before the breaking of the door. It must have closed the window as it passed through it. It was subsequently caught by the owner himself, who obtained for it a very large sum at the _Jardin des Plantes._ Le Don was instantly released, upon our narration of the circumstances (with some comments from Dupin) at the bureau of the Prefect of Police. This functionary, however well disposed to my friend, could not altogether conceal his chagrin at the turn which affairs had taken, and was fain to indulge in a sarcasm or two, about the propriety of every person minding his own business.\n\n“Let him talk,” said Dupin, who had not thought it necessary to reply. “Let him discourse; it will ease his conscience, I am satisfied with having defeated him in his own castle. Nevertheless, that he failed in the solution of this mystery, is by no means that matter for wonder which he supposes it; for, in truth, our friend the Prefect is somewhat too cunning to be profound."
+      },
+      "request_id": "810672ad2c6e33c38d9b54df",
+      "request_sha256": "cb8f3ff8d296f9c40db15bffab7fbd537d153d758e0ac01d2419be524e911eb0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c00468018e45e6b6db65b67f8f323bb66e4d7e80c0f4ac34a2bec7dc92d1210b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d2b64884eb7e345ab1bc679e",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_poe_hans_pfaal_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: d2b64884eb7e345ab1bc679e\noriginal_word_count: 459\n\nPassage:\nI now bored a hole in the end of the keg over the pitcher, and fitted in a plug of soft wood, cut in a tapering or conical shape. This plug I pushed in or pulled out, as might happen, until, after a few experiments, it arrived at that exact degree of tightness, at which the water, oozing from the hole, and falling into the pitcher below, would fill the latter to the brim in the period of sixty minutes. This, of course, was a matter briefly and easily ascertained, by noticing the proportion of the pitcher filled in any given time. Having arranged all this, the rest of the plan is obvious. My bed was so contrived upon the floor of the car, as to bring my head, in lying down, immediately below the mouth of the pitcher. It was evident, that, at the expiration of an hour, the pitcher, getting full, would be forced to run over, and to run over at the mouth, which was somewhat lower than the rim. It was also evident, that the water thus falling from a height of more than four feet, could not do otherwise than fall upon my face, and that the sure consequences would be, to waken me up instantaneously, even from the soundest slumber in the world.\n\n“It was fully eleven by the time I had completed these arrangements, and I immediately betook myself to bed, with full confidence in the efficiency of my invention. Nor in this matter was I disappointed. Punctually every sixty minutes was I aroused by my trusty chronometer, when, having emptied the pitcher into the bung-hole of the keg, and performed the duties of the condenser, I retired again to bed. These regular interruptions to my slumber caused me even less discomfort than I had anticipated; and when I finally arose for the day, it was seven o’clock, and the sun had attained many degrees above the line of my horizon.\n\n“April 3d. I found the balloon at an immense height indeed, and the earth’s apparent convexity increased in a material degree. Below me in the ocean lay a cluster of black specks, which undoubtedly were islands. Far away to the northward I perceived a thin, white, and exceedingly brilliant line, or streak, on the edge of the horizon, and I had no hesitation in supposing it to be the southern disk of the ices of the Polar Sea. My curiosity was greatly excited, for I had hopes of passing on much farther to the north, and might possibly, at some period, find myself placed directly above the Pole itself. I now lamented that my great elevation would, in this case, prevent my taking as accurate a survey as I could wish."
+      },
+      "request_id": "d2b64884eb7e345ab1bc679e",
+      "request_sha256": "33bec66f9fdea2f61f43f0a7d63b1a740ba983859b3b538daa54d9217c7cb130",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4d252635fa67ba4c7d8065dbd9817dbead02563c625b4596c028459ea5c358b2"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "2d74f3b37f5b361e628f",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:58:36.470998+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "15a80482745fa20836b8b526",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 15a80482745fa20836b8b526\noriginal_word_count: 460\n\nPassage:\n_PS._—Do tell me about the bows. Jennings insists they are the fashion.\n\nLord Arthur looked so serious and unhappy over the letter, that the Duchess went into fits of laughter.\n\n‘My dear Arthur,’ she cried, ‘I shall never show you a young lady’s letter again! But what shall I say about the clock? I think it is a capital invention, and I should like to have one myself.’\n\n‘I don’t think much of them,’ said Lord Arthur, with a sad smile, and, after kissing his mother, he left the room.\n\nWhen he got upstairs, he flung himself on a sofa, and his eyes filled with tears. He had done his best to commit this murder, but on both occasions he had failed, and through no fault of his own. He had tried to do his duty, but it seemed as if Destiny herself had turned traitor. He was oppressed with the sense of the barrenness of good intentions, of the futility of trying to be fine. Perhaps, it would be better to break off the marriage altogether. Sybil would suffer, it is true, but suffering could not really mar a nature so noble as hers. As for himself, what did it matter? There is always some war in which a man can die, some cause to which a man can give his life, and as life had no pleasure for him, so death had no terror. Let Destiny work out his doom. He would not stir to help her.\n\nAt half-past seven he dressed, and went down to the club. Surbiton was there with a party of young men, and he was obliged to dine with them. Their trivial conversation and idle jests did not interest him, and as soon as coffee was brought he left them, inventing some engagement in order to get away. As he was going out of the club, the hall-porter handed him a letter. It was from Herr Winckelkopf, asking him to call down the next evening, and look at an explosive umbrella, that went off as soon as it was opened. It was the very latest invention, and had just arrived from Geneva. He tore the letter up into fragments. He had made up his mind not to try any more experiments. Then he wandered down to the Thames Embankment, and sat for hours by the river. The moon peered through a mane of tawny clouds, as if it were a lion’s eye, and innumerable stars spangled the hollow vault, like gold dust powdered on a purple dome. Now and then a barge swung out into the turbid stream, and floated away with the tide, and the railway signals changed from green to scarlet as the trains ran shrieking across the bridge."
+      },
+      "request_id": "15a80482745fa20836b8b526",
+      "request_sha256": "fc96af8f1c570e5970e169968e60228e8f81f60462af76d8c774ba51ba48fe9d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6874677e23e5c98c69f9ae4f285d75a859e74ab4a018e851f0395e20ccc74a92"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "714ee85a7927928571e79c58",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 467,
+      "passage_id": "V2_wilde_dorian_gray_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 714ee85a7927928571e79c58\noriginal_word_count: 467\n\nPassage:\nSoul and body, body and soul—how mysterious they were! There was animalism in the soul, and the body had its moments of spirituality. The senses could refine, and the intellect could degrade. Who could say where the fleshly impulse ceased, or the psychical impulse began? How shallow were the arbitrary definitions of ordinary psychologists! And yet how difficult to decide between the claims of the various schools! Was the soul a shadow seated in the house of sin? Or was the body really in the soul, as Giordano Bruno thought? The separation of spirit from matter was a mystery, and the union of spirit with matter was a mystery also.\n\nHe began to wonder whether we could ever make psychology so absolute a science that each little spring of life would be revealed to us. As it was, we always misunderstood ourselves and rarely understood others. Experience was of no ethical value. It was merely the name men gave to their mistakes. Moralists had, as a rule, regarded it as a mode of warning, had claimed for it a certain ethical efficacy in the formation of character, had praised it as something that taught us what to follow and showed us what to avoid. But there was no motive power in experience. It was as little of an active cause as conscience itself. All that it really demonstrated was that our future would be the same as our past, and that the sin we had done once, and with loathing, we would do many times, and with joy.\n\nIt was clear to him that the experimental method was the only method by which one could arrive at any scientific analysis of the passions; and certainly Dorian Gray was a subject made to his hand, and seemed to promise rich and fruitful results. His sudden mad love for Sibyl Vane was a psychological phenomenon of no small interest. There was no doubt that curiosity had much to do with it, curiosity and the desire for new experiences, yet it was not a simple, but rather a very complex passion. What there was in it of the purely sensuous instinct of boyhood had been transformed by the workings of the imagination, changed into something that seemed to the lad himself to be remote from sense, and was for that very reason all the more dangerous. It was the passions about whose origin we deceived ourselves that tyrannized most strongly over us. Our weakest motives were those of whose nature we were conscious. It often happened that when we thought we were experimenting on others we were really experimenting on ourselves.\n\nWhile Lord Henry sat dreaming on these things, a knock came to the door, and his valet entered and reminded him it was time to dress for dinner."
+      },
+      "request_id": "714ee85a7927928571e79c58",
+      "request_sha256": "d5f8fecc03379a5b54731bef72ec6f5d6bdb0b852bc66466b0ca55159810f644",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d72aa00ee12f20e1bf14b3b38e621f027628fe23ff590f1a3b1882ba36e6006b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a42a616536e4221fb985623a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 469,
+      "passage_id": "V2_dickens_oliver_twist_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: a42a616536e4221fb985623a\noriginal_word_count: 469\n\nPassage:\n“Certainly not,” replied Duff.\n\n“And, translating the word yokel for the benefit of the ladies, I apprehend your meaning to be, that this attempt was not made by a countryman?” said Mr. Losberne, with a smile.\n\n“That’s it, master,” replied Blathers. “This is all about the robbery, is it?”\n\n“All,” replied the doctor.\n\n“Now, what is this, about this here boy that the servants are a-talking on?” said Blathers.\n\n“Nothing at all,” replied the doctor. “One of the frightened servants chose to take it into his head, that he had something to do with this attempt to break into the house; but it’s nonsense: sheer absurdity.”\n\n“Wery easy disposed of, if it is,” remarked Duff.\n\n“What he says is quite correct,” observed Blathers, nodding his head in a confirmatory way, and playing carelessly with the handcuffs, as if they were a pair of castanets. “Who is the boy? What account does he give of himself? Where did he come from? He didn’t drop out of the clouds, did he, master?”\n\n“Of course not,” replied the doctor, with a nervous glance at the two ladies. “I know his whole history: but we can talk about that presently. You would like, first, to see the place where the thieves made their attempt, I suppose?”\n\n“Certainly,” rejoined Mr. Blathers. “We had better inspect the premises first, and examine the servants afterwards. That’s the usual way of doing business.”\n\nLights were then procured; and Messrs. Blathers and Duff, attended by the native constable, Brittles, Giles, and everybody else in short, went into the little room at the end of the passage and looked out at the window; and afterwards went round by way of the lawn, and looked in at the window; and after that, had a candle handed out to inspect the shutter with; and after that, a lantern to trace the footsteps with; and after that, a pitchfork to poke the bushes with. This done, amidst the breathless interest of all beholders, they came in again; and Mr. Giles and Brittles were put through a melodramatic representation of their share in the previous night’s adventures: which they performed some six times over: contradicting each other, in not more than one important respect, the first time, and in not more than a dozen the last. This consummation being arrived at, Blathers and Duff cleared the room, and held a long council together, compared with which, for secrecy and solemnity, a consultation of great doctors on the knottiest point in medicine, would be mere child’s play.\n\nMeanwhile, the doctor walked up and down the next room in a very uneasy state; and Mrs. Maylie and Rose looked on, with anxious faces.\n\n“Upon my word,” he said, making a halt, after a great number of very rapid turns, “I hardly know what to do.”"
+      },
+      "request_id": "a42a616536e4221fb985623a",
+      "request_sha256": "c1370e1cb8286d3611c262e3bf3fe1dabf79384bdcddf26f87583b4fdce94d62",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "28e42655d319450b53fcd6391f4d1561159dc2aec57f249db1abd8580cafc88f"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

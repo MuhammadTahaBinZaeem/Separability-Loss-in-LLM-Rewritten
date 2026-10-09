@@ -1,0 +1,68 @@
+{
+  "batch_id": "9bf6ebb113aa7b8748eb",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:20:31.840524+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "37712b15c495f6289cba980a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 483,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 37712b15c495f6289cba980a\noriginal_word_count: 483\n\nPassage:\n“Is that all? It is not a great deal, that! Many are under the displeasure of the Republic, and must look out at the little window. Jarvis Lorry. Banker. English. Which is he?”\n\n“I am he. Necessarily, being the last.”\n\nIt is Jarvis Lorry who has replied to all the previous questions. It is Jarvis Lorry who has alighted and stands with his hand on the coach door, replying to a group of officials. They leisurely walk round the carriage and leisurely mount the box, to look at what little luggage it carries on the roof; the country-people hanging about, press nearer to the coach doors and greedily stare in; a little child, carried by its mother, has its short arm held out for it, that it may touch the wife of an aristocrat who has gone to the Guillotine.\n\n“Behold your papers, Jarvis Lorry, countersigned.”\n\n“One can depart, citizen?”\n\n“One can depart. Forward, my postilions! A good journey!”\n\n“I salute you, citizens.--And the first danger passed!”\n\nThese are again the words of Jarvis Lorry, as he clasps his hands, and looks upward. There is terror in the carriage, there is weeping, there is the heavy breathing of the insensible traveller.\n\n“Are we not going too slowly? Can they not be induced to go faster?” asks Lucie, clinging to the old man.\n\n“It would seem like flight, my darling. I must not urge them too much; it would rouse suspicion.”\n\n“Look back, look back, and see if we are pursued!”\n\n“The road is clear, my dearest. So far, we are not pursued.”\n\nHouses in twos and threes pass by us, solitary farms, ruinous buildings, dye-works, tanneries, and the like, open country, avenues of leafless trees. The hard uneven pavement is under us, the soft deep mud is on either side. Sometimes, we strike into the skirting mud, to avoid the stones that clatter us and shake us; sometimes, we stick in ruts and sloughs there. The agony of our impatience is then so great, that in our wild alarm and hurry we are for getting out and running--hiding--doing anything but stopping.\n\nOut of the open country, in again among ruinous buildings, solitary farms, dye-works, tanneries, and the like, cottages in twos and threes, avenues of leafless trees. Have these men deceived us, and taken us back by another road? Is not this the same place twice over? Thank Heaven, no. A village. Look back, look back, and see if we are pursued! Hush! the posting-house.\n\nLeisurely, our four horses are taken out; leisurely, the coach stands in the little street, bereft of horses, and with no likelihood upon it of ever moving again; leisurely, the new horses come into visible existence, one by one; leisurely, the new postilions follow, sucking and plaiting the lashes of their whips; leisurely, the old postilions count their money, make wrong additions, and arrive at dissatisfied results."
+      },
+      "request_id": "37712b15c495f6289cba980a",
+      "request_sha256": "bcf6b58d996d56fc20453d565871ffc5c4c2dee9836651f410073debfe4182ed",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d63dbfaec389b0de8e0154aaeb1031b99f0df85044241a407f494abd38e8ffa5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "fb7f951a567dc922580f92bf",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: fb7f951a567dc922580f92bf\noriginal_word_count: 452\n\nPassage:\nBut, he had oppressed no man, he had imprisoned no man; he was so far from having harshly exacted payment of his dues, that he had relinquished them of his own will, thrown himself on a world with no favour in it, won his own private place there, and earned his own bread. Monsieur Gabelle had held the impoverished and involved estate on written instructions, to spare the people, to give them what little there was to give--such fuel as the heavy creditors would let them have in the winter, and such produce as could be saved from the same grip in the summer--and no doubt he had put the fact in plea and proof, for his own safety, so that it could not but appear now.\n\nThis favoured the desperate resolution Charles Darnay had begun to make, that he would go to Paris.\n\nYes. Like the mariner in the old story, the winds and streams had driven him within the influence of the Loadstone Rock, and it was drawing him to itself, and he must go. Everything that arose before his mind drifted him on, faster and faster, more and more steadily, to the terrible attraction. His latent uneasiness had been, that bad aims were being worked out in his own unhappy land by bad instruments, and that he who could not fail to know that he was better than they, was not there, trying to do something to stay bloodshed, and assert the claims of mercy and humanity. With this uneasiness half stifled, and half reproaching him, he had been brought to the pointed comparison of himself with the brave old gentleman in whom duty was so strong; upon that comparison (injurious to himself) had instantly followed the sneers of Monseigneur, which had stung him bitterly, and those of Stryver, which above all were coarse and galling, for old reasons. Upon those, had followed Gabelle’s letter: the appeal of an innocent prisoner, in danger of death, to his justice, honour, and good name.\n\nHis resolution was made. He must go to Paris.\n\nYes. The Loadstone Rock was drawing him, and he must sail on, until he struck. He knew of no rock; he saw hardly any danger. The intention with which he had done what he had done, even although he had left it incomplete, presented it before him in an aspect that would be gratefully acknowledged in France on his presenting himself to assert it. Then, that glorious vision of doing good, which is so often the sanguine mirage of so many good minds, arose before him, and he even saw himself in the illusion with some influence to guide this raging Revolution that was running so fearfully wild."
+      },
+      "request_id": "fb7f951a567dc922580f92bf",
+      "request_sha256": "39429b97589c3c34dc0bc8568d5bbc17a59ba761dbe709fee4e789e37f01dd99",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5ba705b07997750e718517f70cad79ba079dbc6801c11097f1d858ef9cf3d5cd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d49959ec661e69362fbd2835",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 508,
+      "passage_id": "V2_shelley_the_last_man_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: d49959ec661e69362fbd2835\noriginal_word_count: 508\n\nPassage:\nThe mighty voice, inorganic we might call it, for we could in no way associate it with mechanism of pipe or key, stilled its sonorous tone, and the girl, turning to lend her assistance to her aged companion, at length perceived us.\n\nIt was her father; and she, since childhood, had been the guide of his darkened steps. They were Germans from Saxony, and, emigrating thither but a few years before, had formed new ties with the surrounding villagers. About the time that the pestilence had broken out, a young German student had joined them. Their simple history was easily divined. He, a noble, loved the fair daughter of the poor musician, and followed them in their flight from the persecutions of his friends; but soon the mighty leveller came with unblunted scythe to mow, together with the grass, the tall flowers of the field. The youth was an early victim. She preserved herself for her father’s sake. His blindness permitted her to continue a delusion, at first the child of accident—and now solitary beings, sole survivors in the land, he remained unacquainted with the change, nor was aware that when he listened to his child’s music, the mute mountains, senseless lake, and unconscious trees, were, himself excepted, her sole auditors.\n\nThe very day that we arrived she had been attacked by symptomatic illness. She was paralyzed with horror at the idea of leaving her aged, sightless father alone on the empty earth; but she had not courage to disclose the truth, and the very excess of her desperation animated her to surpassing exertions. At the accustomed vesper hour, she led him to the chapel; and, though trembling and weeping on his account, she played, without fault in time, or error in note, the hymn written to celebrate the creation of the adorned earth, soon to be her tomb.\n\nWe came to her like visitors from heaven itself; her high-wrought courage; her hardly sustained firmness, fled with the appearance of relief. With a shriek she rushed towards us, embraced the knees of Adrian, and uttering but the words, “O save my father!” with sobs and hysterical cries, opened the long-shut floodgates of her woe.\n\nPoor girl!—she and her father now lie side by side, beneath the high walnut-tree where her lover reposes, and which in her dying moments she had pointed out to us. Her father, at length aware of his daughter’s danger, unable to see the changes of her dear countenance, obstinately held her hand, till it was chilled and stiffened by death. Nor did he then move or speak, till, twelve hours after, kindly death took him to his breakless repose. They rest beneath the sod, the tree their monument;—the hallowed spot is distinct in my memory, paled in by craggy Jura, and the far, immeasurable Alps; the spire of the church they frequented still points from out the embosoming trees; and though her hand be cold, still methinks the sounds of divine music which they loved wander about, solacing their gentle ghosts."
+      },
+      "request_id": "d49959ec661e69362fbd2835",
+      "request_sha256": "93e15fb350dba9f71638464ca93f97994e195464dac6fb0117e38db108509268",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ed1db793251a7ace6a9b51af60fd326e06681feaf8336d8f27841fecb2ed8ac1"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

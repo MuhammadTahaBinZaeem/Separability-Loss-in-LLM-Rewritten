@@ -1,0 +1,68 @@
+{
+  "batch_id": "7a7538e01d4f04524894",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:19:58.967056+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "fcbf2c3bac802bf0dfaa1718",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_murders_rue_morgue_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: fcbf2c3bac802bf0dfaa1718\noriginal_word_count: 455\n\nPassage:\nHis face, greatly sunburnt, was more than half hidden by whisker and _mustachio._ He had with him a huge oaken cudgel, but appeared to be otherwise unarmed. He bowed awkwardly, and bade us “good evening,” in French accents, which, although somewhat Neufchatelish, were still sufficiently indicative of a Parisian origin.\n\n“Sit down, my friend,” said Dupin. “I suppose you have called about the Ourang-Outang. Upon my word, I almost envy you the possession of him; a remarkably fine, and no doubt a very valuable animal. How old do you suppose him to be?”\n\nThe sailor drew a long breath, with the air of a man relieved of some intolerable burden, and then replied, in an assured tone:\n\n“I have no way of telling—but he can’t be more than four or five years old. Have you got him here?”\n\n“Oh no, we had no conveniences for keeping him here. He is at a livery stable in the Rue Dubourg, just by. You can get him in the morning. Of course you are prepared to identify the property?”\n\n“To be sure I am, sir.”\n\n“I shall be sorry to part with him,” said Dupin.\n\n“I don’t mean that you should be at all this trouble for nothing, sir,” said the man. “Couldn’t expect it. Am very willing to pay a reward for the finding of the animal—that is to say, any thing in reason.”\n\n“Well,” replied my friend, “that is all very fair, to be sure. Let me think!—what should I have? Oh! I will tell you. My reward shall be this. You shall give me all the information in your power about these murders in the Rue Morgue.”\n\nDupin said the last words in a very low tone, and very quietly. Just as quietly, too, he walked toward the door, locked it and put the key in his pocket. He then drew a pistol from his bosom and placed it, without the least flurry, upon the table.\n\nThe sailor’s face flushed up as if he were struggling with suffocation. He started to his feet and grasped his cudgel, but the next moment he fell back into his seat, trembling violently, and with the countenance of death itself. He spoke not a word. I pitied him from the bottom of my heart.\n\n“My friend,” said Dupin, in a kind tone, “you are alarming yourself unnecessarily—you are indeed. We mean you no harm whatever. I pledge you the honor of a gentleman, and of a Frenchman, that we intend you no injury. I perfectly well know that you are innocent of the atrocities in the Rue Morgue. It will not do, however, to deny that you are in some measure implicated in them."
+      },
+      "request_id": "fcbf2c3bac802bf0dfaa1718",
+      "request_sha256": "f2861eceabfe71cb7b0f4809fa3053837510bae59dfe5b7e08413c85594f6b7d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "45c6cb6a35137e44cf1f1b859f15ce7c6b0888b50be5df5b89e84a15a488bc33"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f19c06dd4d1a903efc36d975",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 479,
+      "passage_id": "V2_wilde_dorian_gray_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: f19c06dd4d1a903efc36d975\noriginal_word_count: 479\n\nPassage:\n“Good-bye, Uncle George. I shall be late for lunch, if I stop any longer. Thanks for giving me the information I wanted. I always like to know everything about my new friends, and nothing about my old ones.”\n\n“Where are you lunching, Harry?”\n\n“At Aunt Agatha’s. I have asked myself and Mr. Gray. He is her latest _protégé_.”\n\n“Humph! tell your Aunt Agatha, Harry, not to bother me any more with her charity appeals. I am sick of them. Why, the good woman thinks that I have nothing to do but to write cheques for her silly fads.”\n\n“All right, Uncle George, I’ll tell her, but it won’t have any effect. Philanthropic people lose all sense of humanity. It is their distinguishing characteristic.”\n\nThe old gentleman growled approvingly and rang the bell for his servant. Lord Henry passed up the low arcade into Burlington Street and turned his steps in the direction of Berkeley Square.\n\nSo that was the story of Dorian Gray’s parentage. Crudely as it had been told to him, it had yet stirred him by its suggestion of a strange, almost modern romance. A beautiful woman risking everything for a mad passion. A few wild weeks of happiness cut short by a hideous, treacherous crime. Months of voiceless agony, and then a child born in pain. The mother snatched away by death, the boy left to solitude and the tyranny of an old and loveless man. Yes; it was an interesting background. It posed the lad, made him more perfect, as it were. Behind every exquisite thing that existed, there was something tragic. Worlds had to be in travail, that the meanest flower might blow.... And how charming he had been at dinner the night before, as with startled eyes and lips parted in frightened pleasure he had sat opposite to him at the club, the red candleshades staining to a richer rose the wakening wonder of his face. Talking to him was like playing upon an exquisite violin. He answered to every touch and thrill of the bow.... There was something terribly enthralling in the exercise of influence. No other activity was like it. To project one’s soul into some gracious form, and let it tarry there for a moment; to hear one’s own intellectual views echoed back to one with all the added music of passion and youth; to convey one’s temperament into another as though it were a subtle fluid or a strange perfume: there was a real joy in that—perhaps the most satisfying joy left to us in an age so limited and vulgar as our own, an age grossly carnal in its pleasures, and grossly common in its aims.... He was a marvellous type, too, this lad, whom by so curious a chance he had met in Basil’s studio, or could be fashioned into a marvellous type, at any rate."
+      },
+      "request_id": "f19c06dd4d1a903efc36d975",
+      "request_sha256": "5a4fa61b99ef2cd8bc8ac95560533035607f956dca60a976f240f469a5d2ed34",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7713a8986c1459bb7adb55afd0eafc5704aadd4b52a661ef17ea7099bbf0903f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "da9a6247c9599abc090e058c",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_twain_tom_sawyer_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: da9a6247c9599abc090e058c\noriginal_word_count: 451\n\nPassage:\nThere was abundance of cold water to finish the feast with. By-and-by Becky suggested that they move on again. Tom was silent a moment. Then he said:\n\n“Becky, can you bear it if I tell you something?”\n\nBecky’s face paled, but she thought she could.\n\n“Well, then, Becky, we must stay here, where there’s water to drink. That little piece is our last candle!”\n\nBecky gave loose to tears and wailings. Tom did what he could to comfort her, but with little effect. At length Becky said:\n\n“Tom!”\n\n“Well, Becky?”\n\n“They’ll miss us and hunt for us!”\n\n“Yes, they will! Certainly they will!”\n\n“Maybe they’re hunting for us now, Tom.”\n\n“Why, I reckon maybe they are. I hope they are.”\n\n“When would they miss us, Tom?”\n\n“When they get back to the boat, I reckon.”\n\n“Tom, it might be dark then—would they notice we hadn’t come?”\n\n“I don’t know. But anyway, your mother would miss you as soon as they got home.”\n\nA frightened look in Becky’s face brought Tom to his senses and he saw that he had made a blunder. Becky was not to have gone home that night! The children became silent and thoughtful. In a moment a new burst of grief from Becky showed Tom that the thing in his mind had struck hers also—that the Sabbath morning might be half spent before Mrs. Thatcher discovered that Becky was not at Mrs. Harper’s.\n\nThe children fastened their eyes upon their bit of candle and watched it melt slowly and pitilessly away; saw the half inch of wick stand alone at last; saw the feeble flame rise and fall, climb the thin column of smoke, linger at its top a moment, and then—the horror of utter darkness reigned!\n\nHow long afterward it was that Becky came to a slow consciousness that she was crying in Tom’s arms, neither could tell. All that they knew was, that after what seemed a mighty stretch of time, both awoke out of a dead stupor of sleep and resumed their miseries once more. Tom said it might be Sunday, now—maybe Monday. He tried to get Becky to talk, but her sorrows were too oppressive, all her hopes were gone. Tom said that they must have been missed long ago, and no doubt the search was going on. He would shout and maybe some one would come. He tried it; but in the darkness the distant echoes sounded so hideously that he tried it no more.\n\nThe hours wasted away, and hunger came to torment the captives again. A portion of Tom’s half of the cake was left; they divided and ate it. But they seemed hungrier than before."
+      },
+      "request_id": "da9a6247c9599abc090e058c",
+      "request_sha256": "77dc3747480d3b034b8715457412316e83e5484b2ead5df174ce6f8301a3a771",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c4be87da3702e4382a3663e5148375a53e337d072ac2d5888a731dd363480caa"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

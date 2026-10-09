@@ -1,0 +1,68 @@
+{
+  "batch_id": "263cce8c1b7c848e3b6c",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:09:50.485312+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2904b3d2f9b920f42dad0d8f",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_shelley_mathilda_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2904b3d2f9b920f42dad0d8f\noriginal_word_count: 454\n\nPassage:\nI now come to my own story. During the early part of my life there is little to relate, and I will be brief; but I must be allowed to dwell a little on the years of my childhood that it may be apparent how when one hope failed all life was to be a blank; and how when the only affection I was permitted to cherish was blasted my existence was extinguished with it.\n\nI have said that my aunt was very unlike my father. I believe that without the slightest tinge of a bad heart she had the coldest that ever filled a human breast: it was totally incapable of any affection. She took me under her protection because she considered it her duty; but she had too long lived alone and undisturbed by the noise and prattle of children to allow that I should disturb her quiet. She had never been married; and for the last five years had lived perfectly alone on an estate, that had descended to her through her mother, on the shores of Loch Lomond in Scotland. My father had expressed a wish in his letters that she should reside with me at his family mansion which was situated in a beautiful country near Richmond in Yorkshire. She would not consent to this proposition, but as soon as she had arranged the affairs which her brother’s departure had caused to fall to her care, she quitted England and took me with her to her scotch estate.\n\nThe care of me while a baby, and afterwards untill I had reached my eighth year devolved on a servant of my mother’s, who had accompanied us in our retirement for that purpose. I was placed in a remote part of the house, and only saw my aunt at stated hours. These occurred twice a day; once about noon she came to my nursery, and once after her dinner I was taken to her. She never caressed me, and seemed all the time I staid in the room to fear that I should annoy her by some childish freak. My good nurse always schooled me with the greatest care before she ventured into the parlour--and the awe my aunt’s cold looks and few constrained words inspired was so great that I seldom disgraced her lessons or was betrayed from the exemplary stillness which I was taught to observe during these short visits.\n\nUnder my good nurse’s care I ran wild about our park and the neighbouring fields. The offspring of the deepest love I displayed from my earliest years the greatest sensibility of disposition. I cannot say with what passion I loved every thing even the inanimate objects that surrounded me."
+      },
+      "request_id": "2904b3d2f9b920f42dad0d8f",
+      "request_sha256": "28fd3f7bb19b48fc14a99a56598741fdfc0a72cc1b0227f57ecb851bfa9b6f2a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "dcead9256aa960766d80d59104afd1f60c16eed0081477184af48fcc0e3b5512"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d54d063d65af8f0327d3f06a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_emma_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: d54d063d65af8f0327d3f06a\noriginal_word_count: 465\n\nPassage:\nEmma did not repent her condescension in going to the Coles. The visit afforded her many pleasant recollections the next day; and all that she might be supposed to have lost on the side of dignified seclusion, must be amply repaid in the splendour of popularity. She must have delighted the Coles—worthy people, who deserved to be made happy!—And left a name behind her that would not soon die away.\n\nPerfect happiness, even in memory, is not common; and there were two points on which she was not quite easy. She doubted whether she had not transgressed the duty of woman by woman, in betraying her suspicions of Jane Fairfax’s feelings to Frank Churchill. It was hardly right; but it had been so strong an idea, that it would escape her, and his submission to all that she told, was a compliment to her penetration, which made it difficult for her to be quite certain that she ought to have held her tongue.\n\nThe other circumstance of regret related also to Jane Fairfax; and there she had no doubt. She did unfeignedly and unequivocally regret the inferiority of her own playing and singing. She did most heartily grieve over the idleness of her childhood—and sat down and practised vigorously an hour and a half.\n\nShe was then interrupted by Harriet’s coming in; and if Harriet’s praise could have satisfied her, she might soon have been comforted.\n\n“Oh! if I could but play as well as you and Miss Fairfax!”\n\n“Don’t class us together, Harriet. My playing is no more like her’s, than a lamp is like sunshine.”\n\n“Oh! dear—I think you play the best of the two. I think you play quite as well as she does. I am sure I had much rather hear you. Every body last night said how well you played.”\n\n“Those who knew any thing about it, must have felt the difference. The truth is, Harriet, that my playing is just good enough to be praised, but Jane Fairfax’s is much beyond it.”\n\n“Well, I always shall think that you play quite as well as she does, or that if there is any difference nobody would ever find it out. Mr. Cole said how much taste you had; and Mr. Frank Churchill talked a great deal about your taste, and that he valued taste much more than execution.”\n\n“Ah! but Jane Fairfax has them both, Harriet.”\n\n“Are you sure? I saw she had execution, but I did not know she had any taste. Nobody talked about it. And I hate Italian singing.—There is no understanding a word of it. Besides, if she does play so very well, you know, it is no more than she is obliged to do, because she will have to teach."
+      },
+      "request_id": "d54d063d65af8f0327d3f06a",
+      "request_sha256": "c3b5cd590ca172ba4dffa9246fea89a8669e85429b7272ef4ead11311d0ab2c6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cc2038ca78e34bff730c9efe80f711727ab8dc28aaac0b2b91dfd7357e1559e5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c4b26a1f6e47891cd77eb2a3",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V3_twain_connecticut_yankee_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: c4b26a1f6e47891cd77eb2a3\noriginal_word_count: 457\n\nPassage:\nIt seemed to me that this quaint lie was most simply and beautifully told; but then I had heard it only once, and that makes a difference; it was pleasant to the others when it was fresh, no doubt.\n\nSir Dinadan the Humorist was the first to awake, and he soon roused the rest with a practical joke of a sufficiently poor quality. He tied some metal mugs to a dog's tail and turned him loose, and he tore around and around the place in a frenzy of fright, with all the other dogs bellowing after him and battering and crashing against everything that came in their way and making altogether a chaos of confusion and a most deafening din and turmoil; at which every man and woman of the multitude laughed till the tears flowed, and some fell out of their chairs and wallowed on the floor in ecstasy. It was just like so many children. Sir Dinadan was so proud of his exploit that he could not keep from telling over and over again, to weariness, how the immortal idea happened to occur to him; and as is the way with humorists of his breed, he was still laughing at it after everybody else had got through. He was so set up that he concluded to make a speech --of course a humorous speech. I think I never heard so many old played-out jokes strung together in my life. He was worse than the minstrels, worse than the clown in the circus. It seemed peculiarly sad to sit here, thirteen hundred years before I was born, and listen again to poor, flat, worm-eaten jokes that had given me the dry gripes when I was a boy thirteen hundred years afterwards. It about convinced me that there isn't any such thing as a new joke possible. Everybody laughed at these antiquities --but then they always do; I had noticed that, centuries later. However, of course the scoffer didn't laugh--I mean the boy. No, he scoffed; there wasn't anything he wouldn't scoff at. He said the most of Sir Dinadan's jokes were rotten and the rest were petrified. I said “petrified” was good; as I believed, myself, that the only right way to classify the majestic ages of some of those jokes was by geologic periods. But that neat idea hit the boy in a blank place, for geology hadn't been invented yet. However, I made a note of the remark, and calculated to educate the commonwealth up to it if I pulled through. It is no use to throw a good thing away merely because the market isn't ripe yet.\n\nNow Sir Kay arose and began to fire up on his history-mill with me for fuel."
+      },
+      "request_id": "c4b26a1f6e47891cd77eb2a3",
+      "request_sha256": "c1190c4843213fd69623c69e78bd084dbefc8a4f0ffb62486cbadf02e0c0cbf4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8f198e4c900073c6358855feba8b15322fb7837f34c783f8d997383f7d789a0e"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "files_checked": 2390,
+  "known_credential_values_compared": 11,
+  "credential_matches": 0,
+  "participant_full_name_matches": 0,
+  "current_manuscript_files": 0,
+  "current_manuscript_excerpt_matches": 0,
+  "participant_level_records_present": false,
+  "scope": "Exact known secrets/names, explicit path exclusions, and selected current-manuscript excerpt checks; not a guarantee against every unknown identifier.",
+  "completed_utc": "2026-10-08T20:21:05.968029+00:00"
+}

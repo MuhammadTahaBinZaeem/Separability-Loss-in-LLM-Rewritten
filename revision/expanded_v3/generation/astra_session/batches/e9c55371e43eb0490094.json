@@ -1,0 +1,68 @@
+{
+  "batch_id": "e9c55371e43eb0490094",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:13:24.756440+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f515c1db0ca66e24c51c7fea",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_shelley_frankenstein_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: f515c1db0ca66e24c51c7fea\noriginal_word_count: 472\n\nPassage:\nWe were brought up together; there was not quite a year difference in our ages. I need not say that we were strangers to any species of disunion or dispute. Harmony was the soul of our companionship, and the diversity and contrast that subsisted in our characters drew us nearer together. Elizabeth was of a calmer and more concentrated disposition; but, with all my ardour, I was capable of a more intense application and was more deeply smitten with the thirst for knowledge. She busied herself with following the aerial creations of the poets; and in the majestic and wondrous scenes which surrounded our Swiss home —the sublime shapes of the mountains, the changes of the seasons, tempest and calm, the silence of winter, and the life and turbulence of our Alpine summers—she found ample scope for admiration and delight. While my companion contemplated with a serious and satisfied spirit the magnificent appearances of things, I delighted in investigating their causes. The world was to me a secret which I desired to divine. Curiosity, earnest research to learn the hidden laws of nature, gladness akin to rapture, as they were unfolded to me, are among the earliest sensations I can remember.\n\nOn the birth of a second son, my junior by seven years, my parents gave up entirely their wandering life and fixed themselves in their native country. We possessed a house in Geneva, and a _campagne_ on Belrive, the eastern shore of the lake, at the distance of rather more than a league from the city. We resided principally in the latter, and the lives of my parents were passed in considerable seclusion. It was my temper to avoid a crowd and to attach myself fervently to a few. I was indifferent, therefore, to my school-fellows in general; but I united myself in the bonds of the closest friendship to one among them. Henry Clerval was the son of a merchant of Geneva. He was a boy of singular talent and fancy. He loved enterprise, hardship, and even danger for its own sake. He was deeply read in books of chivalry and romance. He composed heroic songs and began to write many a tale of enchantment and knightly adventure. He tried to make us act plays and to enter into masquerades, in which the characters were drawn from the heroes of Roncesvalles, of the Round Table of King Arthur, and the chivalrous train who shed their blood to redeem the holy sepulchre from the hands of the infidels.\n\nNo human being could have passed a happier childhood than myself. My parents were possessed by the very spirit of kindness and indulgence. We felt that they were not the tyrants to rule our lot according to their caprice, but the agents and creators of all the many delights which we enjoyed."
+      },
+      "request_id": "f515c1db0ca66e24c51c7fea",
+      "request_sha256": "42f9c6234d977f53a19d6a2def8f157383bb4951ba1721bd48434cd4a82671f9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "da4e769dd5be2d3261a30f02438098f9a95dc899ac8a94f0c7ef65433d537951"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a286222dc2ce32946ad689b3",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_dickens_great_expectations_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: a286222dc2ce32946ad689b3\noriginal_word_count: 472\n\nPassage:\nBut how could I, a poor dazed village lad, avoid that wonderful inconsistency into which the best and wisest of men fall every day?\n\n“It may be all quite true,” said I to Biddy, “but I admire her dreadfully.”\n\nIn short, I turned over on my face when I came to that, and got a good grasp on the hair on each side of my head, and wrenched it well. All the while knowing the madness of my heart to be so very mad and misplaced, that I was quite conscious it would have served my face right, if I had lifted it up by my hair, and knocked it against the pebbles as a punishment for belonging to such an idiot.\n\nBiddy was the wisest of girls, and she tried to reason no more with me. She put her hand, which was a comfortable hand though roughened by work, upon my hands, one after another, and gently took them out of my hair. Then she softly patted my shoulder in a soothing way, while with my face upon my sleeve I cried a little,—exactly as I had done in the brewery yard,—and felt vaguely convinced that I was very much ill-used by somebody, or by everybody; I can’t say which.\n\n“I am glad of one thing,” said Biddy, “and that is, that you have felt you could give me your confidence, Pip. And I am glad of another thing, and that is, that of course you know you may depend upon my keeping it and always so far deserving it. If your first teacher (dear! such a poor one, and so much in need of being taught herself!) had been your teacher at the present time, she thinks she knows what lesson she would set. But it would be a hard one to learn, and you have got beyond her, and it’s of no use now.” So, with a quiet sigh for me, Biddy rose from the bank, and said, with a fresh and pleasant change of voice, “Shall we walk a little farther, or go home?”\n\n“Biddy,” I cried, getting up, putting my arm round her neck, and giving her a kiss, “I shall always tell you everything.”\n\n“Till you’re a gentleman,” said Biddy.\n\n“You know I never shall be, so that’s always. Not that I have any occasion to tell you anything, for you know everything I know,—as I told you at home the other night.”\n\n“Ah!” said Biddy, quite in a whisper, as she looked away at the ships. And then repeated, with her former pleasant change, “shall we walk a little farther, or go home?”\n\nI said to Biddy we would walk a little farther, and we did so, and the summer afternoon toned down into the summer evening, and it was very beautiful."
+      },
+      "request_id": "a286222dc2ce32946ad689b3",
+      "request_sha256": "3cda5b57e2dee2ef7ae3ba229a6cd951fe7a07149380416326e5b2915161413d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1b62f24c599f92ac74d3cf1db6c338acf84db0d3bc9b65fbed00c54532723173"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "75800283294e8c710e192bc2",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 484,
+      "passage_id": "V2_shelley_mathilda_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 75800283294e8c710e192bc2\noriginal_word_count: 484\n\nPassage:\nThus I passed two years. Day after day so many hundreds wore on; they brought no outward changes with them, but some few slowly operated on my mind as I glided on towards death. I began to study more; to sympathize more in the thoughts of others as expressed in books; to read history, and to lose my individuallity among the crowd that had existed before me. Thus perhaps as the sensation of immediate suffering wore off, I became more human. Solitude also lost to me some of its charms: I began again to wish for sympathy; not that I was ever tempted to seek the crowd, but I wished for one friend to love me. You will say perhaps that I gradually became fitted to return to society. I do not think so. For the sympathy that I desired must be so pure, so divested of influence from outward circumstances that in the world I could not fail of being balked by the gross materials that perpetually mingle even with its best feelings. Believe me, I was then less fitted for any communion with my fellow creatures than before. When I left them they had tormented me but it was in the same way as pain and sickness may torment; somthing extraneous to the mind that galled it, and that I wished to cast aside. But now I should have desired sympathy; I should wish to knit my soul to some one of theirs, and should have prepared for myself plentiful draughts of disappointment and suffering; for I was tender as the sensitive plant, all nerve. I did not desire sympathy and aid in ambition or wisdom, but sweet and mutual affection; smiles to cheer me and gentle words of comfort. I wished for one heart in which I could pour unrestrained my plaints, and by the heavenly nature of the soil blessed fruit might spring from such bad seed. Yet how could I find this? The love that is the soul of friendship is a soft spirit seldom found except when two amiable creatures are knit from early youth, or when bound by mutual suffering and pursuits; it comes to some of the elect unsought and unaware; it descends as gentle dew on chosen spots which however barren they were before become under its benign influence fertile in all sweet plants; but when desired it flies; it scoffs at the prayers of its votaries; it will bestow, but not be sought.\n\nI knew all this and did not go to seek sympathy; but there on my solitary heath, under my lowly roof where all around was desart, it came to me as a sun beam in winter to adorn while it helps to dissolve the drifted snow.--Alas the sun shone on blighted fruit; I did not revive under its radiance for I was too utterly undone to feel its kindly power."
+      },
+      "request_id": "75800283294e8c710e192bc2",
+      "request_sha256": "1668cb5734d46e09b2355aa26830493f7a07e506d6a3017e33f1af2e7c67beae",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "00f42c2c1ade70f7a77e13be530c6cf696d317f1eea8632ac8e2d148377bb04f"
+    }
+  ],
+  "session_id": "01a0e857-2390-7df1-8f12-e929ca6daadc",
+  "worker_id": "astra_q",
+  "worker_identity_sha256": "3f3cf345f62afb6b7770530219536cddba6b09ed2bde9eacd0dc8a411ac176e1"
+}

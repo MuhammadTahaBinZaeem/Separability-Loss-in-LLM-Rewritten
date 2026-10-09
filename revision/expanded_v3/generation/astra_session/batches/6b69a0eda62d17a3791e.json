@@ -1,0 +1,68 @@
+{
+  "batch_id": "6b69a0eda62d17a3791e",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:30:51.618904+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "01bbd709f6be003279b5f365",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 480,
+      "passage_id": "V2_poe_murders_rue_morgue_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 01bbd709f6be003279b5f365\noriginal_word_count: 480\n\nPassage:\nUpon sight of it, the Ourang-Outang sprang at once through the door of the chamber, down the stairs, and thence, through a window, unfortunately open, into the street.\n\nThe Frenchman followed in despair; the ape, razor still in hand, occasionally stopping to look back and gesticulate at its pursuer, until the latter had nearly come up with it. It then again made off. In this manner the chase continued for a long time. The streets were profoundly quiet, as it was nearly three o’clock in the morning. In passing down an alley in the rear of the Rue Morgue, the fugitive’s attention was arrested by a light gleaming from the open window of Madame L’Espanaye’s chamber, in the fourth story of her house. Rushing to the building, it perceived the lightning rod, clambered up with inconceivable agility, grasped the shutter, which was thrown fully back against the wall, and, by its means, swung itself directly upon the headboard of the bed. The whole feat did not occupy a minute. The shutter was kicked open again by the Ourang-Outang as it entered the room.\n\nThe sailor, in the meantime, was both rejoiced and perplexed. He had strong hopes of now recapturing the brute, as it could scarcely escape from the trap into which it had ventured, except by the rod, where it might be intercepted as it came down. On the other hand, there was much cause for anxiety as to what it might do in the house. This latter reflection urged the man still to follow the fugitive. A lightning rod is ascended without difficulty, especially by a sailor; but, when he had arrived as high as the window, which lay far to his left, his career was stopped; the most that he could accomplish was to reach over so as to obtain a glimpse of the interior of the room. At this glimpse he nearly fell from his hold through excess of horror. Now it was that those hideous shrieks arose upon the night, which had startled from slumber the inmates of the Rue Morgue. Madame L’Espanaye and her daughter, habited in their night clothes, had apparently been occupied in arranging some papers in the iron chest already mentioned, which had been wheeled into the middle of the room. It was open, and its contents lay beside it on the floor. The victims must have been sitting with their backs toward the window; and, from the time elapsing between the ingress of the beast and the screams, it seems probable that it was not immediately perceived. The flapping-to of the shutter would naturally have been attributed to the wind.\n\nAs the sailor looked in, the gigantic animal had seized Madame L’Espanaye by the hair, (which was loose, as she had been combing it,) and was flourishing the razor about her face, in imitation of the motions of a barber."
+      },
+      "request_id": "01bbd709f6be003279b5f365",
+      "request_sha256": "31f7ad970daeb60dc0cef0ed35984e4b38796638ee40caa8f088769699ac4f9a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3c4ccf67e6f9324c2b7cdb89b16b8bd6ef4342011b1f7ed4e29687ec157afa04"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0572b0cc237ab5825a3d4974",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_twain_connecticut_yankee_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 0572b0cc237ab5825a3d4974\noriginal_word_count: 473\n\nPassage:\nIf I can't live on that, I sha'n't ask anybody to give me a lift. Is it satisfactory?”\n\nThere was a prodigious roar of applause, and out of the midst of it the king's voice rose, saying:\n\n“Away with his bonds, and set him free! and do him homage, high and low, rich and poor, for he is become the king's right hand, is clothed with power and authority, and his seat is upon the highest step of the throne! Now sweep away this creeping night, and bring the light and cheer again, that all the world may bless thee.”\n\nBut I said:\n\n“That a common man should be shamed before the world, is nothing; but it were dishonor to the _king_ if any that saw his minister naked should not also see him delivered from his shame. If I might ask that my clothes be brought again--”\n\n“They are not meet,” the king broke in. “Fetch raiment of another sort; clothe him like a prince!”\n\nMy idea worked. I wanted to keep things as they were till the eclipse was total, otherwise they would be trying again to get me to dismiss the darkness, and of course I couldn't do it. Sending for the clothes gained some delay, but not enough. So I had to make another excuse. I said it would be but natural if the king should change his mind and repent to some extent of what he had done under excitement; therefore I would let the darkness grow a while, and if at the end of a reasonable time the king had kept his mind the same, the darkness should be dismissed. Neither the king nor anybody else was satisfied with that arrangement, but I had to stick to my point.\n\nIt grew darker and darker and blacker and blacker, while I struggled with those awkward sixth-century clothes. It got to be pitch dark, at last, and the multitude groaned with horror to feel the cold uncanny night breezes fan through the place and see the stars come out and twinkle in the sky. At last the eclipse was total, and I was very glad of it, but everybody else was in misery; which was quite natural. I said:\n\n“The king, by his silence, still stands to the terms.” Then I lifted up my hands--stood just so a moment--then I said, with the most awful solemnity: “Let the enchantment dissolve and pass harmless away!”\n\nThere was no response, for a moment, in that deep darkness and that graveyard hush. But when the silver rim of the sun pushed itself out, a moment or two later, the assemblage broke loose with a vast shout and came pouring down like a deluge to smother me with blessings and gratitude; and Clarence was not the last of the wash, to be sure."
+      },
+      "request_id": "0572b0cc237ab5825a3d4974",
+      "request_sha256": "33b7a91df380eb720273f2caa70b4c99ca9477c2a066ace4ed00941d69ca2ec2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bf3eecb87b6b3608e5d2105d20a75b5e73247ee832cf7a7a92f78291d0b9212c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c52c6995aa0b5c0454ab1f40",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_persuasion_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: c52c6995aa0b5c0454ab1f40\noriginal_word_count: 465\n\nPassage:\nMrs Clay’s affections had overpowered her interest, and she had sacrificed, for the young man’s sake, the possibility of scheming longer for Sir Walter. She has abilities, however, as well as affections; and it is now a doubtful point whether his cunning, or hers, may finally carry the day; whether, after preventing her from being the wife of Sir Walter, he may not be wheedled and caressed at last into making her the wife of Sir William.\n\nIt cannot be doubted that Sir Walter and Elizabeth were shocked and mortified by the loss of their companion, and the discovery of their deception in her. They had their great cousins, to be sure, to resort to for comfort; but they must long feel that to flatter and follow others, without being flattered and followed in turn, is but a state of half enjoyment.\n\nAnne, satisfied at a very early period of Lady Russell’s meaning to love Captain Wentworth as she ought, had no other alloy to the happiness of her prospects than what arose from the consciousness of having no relations to bestow on him which a man of sense could value. There she felt her own inferiority very keenly. The disproportion in their fortune was nothing; it did not give her a moment’s regret; but to have no family to receive and estimate him properly, nothing of respectability, of harmony, of good will to offer in return for all the worth and all the prompt welcome which met her in his brothers and sisters, was a source of as lively pain as her mind could well be sensible of under circumstances of otherwise strong felicity. She had but two friends in the world to add to his list, Lady Russell and Mrs Smith. To those, however, he was very well disposed to attach himself. Lady Russell, in spite of all her former transgressions, he could now value from his heart. While he was not obliged to say that he believed her to have been right in originally dividing them, he was ready to say almost everything else in her favour, and as for Mrs Smith, she had claims of various kinds to recommend her quickly and permanently.\n\nHer recent good offices by Anne had been enough in themselves, and their marriage, instead of depriving her of one friend, secured her two. She was their earliest visitor in their settled life; and Captain Wentworth, by putting her in the way of recovering her husband’s property in the West Indies, by writing for her, acting for her, and seeing her through all the petty difficulties of the case with the activity and exertion of a fearless man and a determined friend, fully requited the services which she had rendered, or ever meant to render, to his wife."
+      },
+      "request_id": "c52c6995aa0b5c0454ab1f40",
+      "request_sha256": "885fedbfa22d31ca4cc7be44f64e097e487dd2af67470fbe96493b5e6ab0d5f4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8b0e1ec21460f86198aecf9858df0a68e2fe32c2b6a9454618b094dde823aeb7"
+    }
+  ],
+  "session_id": "01a0e30c-832e-7091-82d9-9a1c50247dd2",
+  "worker_id": "astra_e",
+  "worker_identity_sha256": "fe64415c9c767776a8e298c2de728f21bcc0f3109b7370a076e3e422966eefd2"
+}

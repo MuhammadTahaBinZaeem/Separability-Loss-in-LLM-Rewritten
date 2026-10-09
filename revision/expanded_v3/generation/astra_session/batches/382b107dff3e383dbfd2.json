@@ -1,0 +1,68 @@
+{
+  "batch_id": "382b107dff3e383dbfd2",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:41:25.340243+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "553dcd3ef90748683a1f4868",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V2_austen_emma_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 553dcd3ef90748683a1f4868\noriginal_word_count: 458\n\nPassage:\nDuring his present short stay, Emma had barely seen him; but just enough to feel that the first meeting was over, and to give her the impression of his not being improved by the mixture of pique and pretension, now spread over his air. She was, in fact, beginning very much to wonder that she had ever thought him pleasing at all; and his sight was so inseparably connected with some very disagreeable feelings, that, except in a moral light, as a penance, a lesson, a source of profitable humiliation to her own mind, she would have been thankful to be assured of never seeing him again. She wished him very well; but he gave her pain, and his welfare twenty miles off would administer most satisfaction.\n\nThe pain of his continued residence in Highbury, however, must certainly be lessened by his marriage. Many vain solicitudes would be prevented—many awkwardnesses smoothed by it. A _Mrs._ _Elton_ would be an excuse for any change of intercourse; former intimacy might sink without remark. It would be almost beginning their life of civility again.\n\nOf the lady, individually, Emma thought very little. She was good enough for Mr. Elton, no doubt; accomplished enough for Highbury—handsome enough—to look plain, probably, by Harriet’s side. As to connexion, there Emma was perfectly easy; persuaded, that after all his own vaunted claims and disdain of Harriet, he had done nothing. On that article, truth seemed attainable. _What_ she was, must be uncertain; but _who_ she was, might be found out; and setting aside the 10,000 l., it did not appear that she was at all Harriet’s superior. She brought no name, no blood, no alliance. Miss Hawkins was the youngest of the two daughters of a Bristol—merchant, of course, he must be called; but, as the whole of the profits of his mercantile life appeared so very moderate, it was not unfair to guess the dignity of his line of trade had been very moderate also. Part of every winter she had been used to spend in Bath; but Bristol was her home, the very heart of Bristol; for though the father and mother had died some years ago, an uncle remained—in the law line—nothing more distinctly honourable was hazarded of him, than that he was in the law line; and with him the daughter had lived. Emma guessed him to be the drudge of some attorney, and too stupid to rise. And all the grandeur of the connexion seemed dependent on the elder sister, who was _very_ _well_ _married_, to a gentleman in a _great_ _way_, near Bristol, who kept two carriages! That was the wind-up of the history; that was the glory of Miss Hawkins."
+      },
+      "request_id": "553dcd3ef90748683a1f4868",
+      "request_sha256": "5f5e8749e98faff8e5ce60647b81f5d7ae0024e532864352920fbd62b89430b4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "db77ea49bb690ae9a8cdcbf7d6aa033b89c8521ed7bc2c5f10ec13f68624d5b0"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d87b9f4cc77bc9f43fd825b0",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_pride_and_prejudice_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: d87b9f4cc77bc9f43fd825b0\noriginal_word_count: 461\n\nPassage:\nYou must learn some of my philosophy. Think only of the past as its remembrance gives you pleasure.”\n\n“I cannot give you credit for any philosophy of the kind. _Your_ retrospections must be so totally void of reproach, that the contentment arising from them is not of philosophy, but, what is much better, of ignorance. But with _me_, it is not so. Painful recollections will intrude, which cannot, which ought not to be repelled. I have been a selfish being all my life, in practice, though not in principle. As a child I was taught what was _right_, but I was not taught to correct my temper. I was given good principles, but left to follow them in pride and conceit. Unfortunately an only son (for many years an only _child_), I was spoiled by my parents, who, though good themselves, (my father particularly, all that was benevolent and amiable,) allowed, encouraged, almost taught me to be selfish and overbearing, to care for none beyond my own family circle, to think meanly of all the rest of the world, to _wish_ at least to think meanly of their sense and worth compared with my own. Such I was, from eight to eight-and-twenty; and such I might still have been but for you, dearest, loveliest Elizabeth! What do I not owe you! You taught me a lesson, hard indeed at first, but most advantageous. By you, I was properly humbled. I came to you without a doubt of my reception. You showed me how insufficient were all my pretensions to please a woman worthy of being pleased.”\n\n“Had you then persuaded yourself that I should?”\n\n“Indeed I had. What will you think of my vanity? I believed you to be wishing, expecting my addresses.”\n\n“My manners must have been in fault, but not intentionally, I assure you. I never meant to deceive you, but my spirits might often lead me wrong. How you must have hated me after _that_ evening!”\n\n“Hate you! I was angry, perhaps, at first, but my anger soon began to take a proper direction.”\n\n“I am almost afraid of asking what you thought of me when we met at Pemberley. You blamed me for coming?”\n\n“No, indeed, I felt nothing but surprise.”\n\n“Your surprise could not be greater than _mine_ in being noticed by you. My conscience told me that I deserved no extraordinary politeness, and I confess that I did not expect to receive _more_ than my due.”\n\n“My object _then_,” replied Darcy, “was to show you, by every civility in my power, that I was not so mean as to resent the past; and I hoped to obtain your forgiveness, to lessen your ill opinion, by letting you see that your reproofs had been attended to."
+      },
+      "request_id": "d87b9f4cc77bc9f43fd825b0",
+      "request_sha256": "5580f042b221d1e80d07b661bfb23ced3f1cabd98997cc455b731b6143dd35f6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5364fafdaff5c5bd8bf9e5108fb829c2d719a1f8934a72f8d1fb1db1db3a90a7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "37f5467e95c9ae79da69d2ec",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 37f5467e95c9ae79da69d2ec\noriginal_word_count: 462\n\nPassage:\nIT was Lady Windermere’s last reception before Easter, and Bentinck House was even more crowded than usual. Six Cabinet Ministers had come on from the Speaker’s Levée in their stars and ribands, all the pretty women wore their smartest dresses, and at the end of the picture-gallery stood the Princess Sophia of Carlsrühe, a heavy Tartar-looking lady, with tiny black eyes and wonderful emeralds, talking bad French at the top of her voice, and laughing immoderately at everything that was said to her. It was certainly a wonderful medley of people. Gorgeous peeresses chatted affably to violent Radicals, popular preachers brushed coat-tails with eminent sceptics, a perfect bevy of bishops kept following a stout prima-donna from room to room, on the staircase stood several Royal Academicians, disguised as artists, and it was said that at one time the supper-room was absolutely crammed with geniuses. In fact, it was one of Lady Windermere’s best nights, and the Princess stayed till nearly half-past eleven.\n\nAs soon as she had gone, Lady Windermere returned to the picture-gallery, where a celebrated political economist was solemnly explaining the scientific theory of music to an indignant virtuoso from Hungary, and began to talk to the Duchess of Paisley. She looked wonderfully beautiful with her grand ivory throat, her large blue forget-me-not eyes, and her heavy coils of golden hair. _Or pur_ they were—not that pale straw colour that nowadays usurps the gracious name of gold, but such gold as is woven into sunbeams or hidden in strange amber; and they gave to her face something of the frame of a saint, with not a little of the fascination of a sinner. She was a curious psychological study. Early in life she had discovered the important truth that nothing looks so like innocence as an indiscretion; and by a series of reckless escapades, half of them quite harmless, she had acquired all the privileges of a personality. She had more than once changed her husband; indeed, Debrett credits her with three marriages; but as she had never changed her lover, the world had long ago ceased to talk scandal about her. She was now forty years of age, childless, and with that inordinate passion for pleasure which is the secret of remaining young.\n\nSuddenly she looked eagerly round the room, and said, in her clear contralto voice, ‘Where is my cheiromantist?’\n\n‘Your what, Gladys?’ exclaimed the Duchess, giving an involuntary start.\n\n‘My cheiromantist, Duchess; I can’t live without him at present.’\n\n‘Dear Gladys! you are always so original,’ murmured the Duchess, trying to remember what a cheiromantist really was, and hoping it was not the same as a cheiropodist.\n\n‘He comes to see my hand twice a week regularly,’ continued Lady Windermere, ‘and is most interesting about it.’"
+      },
+      "request_id": "37f5467e95c9ae79da69d2ec",
+      "request_sha256": "1bde6d47d928020b3dfdcfc6227de478b648a9cce4b954f971eb3a7bb7348e9b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a401206ae424f3a6d222ca12d3cb2274861f2ae1291f1323e2f885aa524af4ff"
+    }
+  ],
+  "session_id": "01a0e876-83f7-78a1-b9d1-9e5cfb4d9073",
+  "worker_id": "astra_z",
+  "worker_identity_sha256": "3c518323fe65160b33818c8fecefe8b58d18bebfd64f52e04e66f555b7fdddb7"
+}

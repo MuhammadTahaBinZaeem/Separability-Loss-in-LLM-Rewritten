@@ -1,0 +1,68 @@
+{
+  "batch_id": "bc857146d7145e110874",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:56:00.854994+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "104210ebab7d88e83ea3c371",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 486,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 104210ebab7d88e83ea3c371\noriginal_word_count: 486\n\nPassage:\nIt was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.\n\nThere were a king with a large jaw and a queen with a plain face, on the throne of England; there were a king with a large jaw and a queen with a fair face, on the throne of France. In both countries it was clearer than crystal to the lords of the State preserves of loaves and fishes, that things in general were settled for ever.\n\nIt was the year of Our Lord one thousand seven hundred and seventy-five. Spiritual revelations were conceded to England at that favoured period, as at this. Mrs. Southcott had recently attained her five-and-twentieth blessed birthday, of whom a prophetic private in the Life Guards had heralded the sublime appearance by announcing that arrangements were made for the swallowing up of London and Westminster. Even the Cock-lane ghost had been laid only a round dozen of years, after rapping out its messages, as the spirits of this very year last past (supernaturally deficient in originality) rapped out theirs. Mere messages in the earthly order of events had lately come to the English Crown and People, from a congress of British subjects in America: which, strange to relate, have proved more important to the human race than any communications yet received through any of the chickens of the Cock-lane brood.\n\nFrance, less favoured on the whole as to matters spiritual than her sister of the shield and trident, rolled with exceeding smoothness down hill, making paper money and spending it. Under the guidance of her Christian pastors, she entertained herself, besides, with such humane achievements as sentencing a youth to have his hands cut off, his tongue torn out with pincers, and his body burned alive, because he had not kneeled down in the rain to do honour to a dirty procession of monks which passed within his view, at a distance of some fifty or sixty yards. It is likely enough that, rooted in the woods of France and Norway, there were growing trees, when that sufferer was put to death, already marked by the Woodman, Fate, to come down and be sawn into boards, to make a certain movable framework with a sack and a knife in it, terrible in history."
+      },
+      "request_id": "104210ebab7d88e83ea3c371",
+      "request_sha256": "135d9aaeb6c3c4bd05d81c4146cdae4fb81408d41aacff343621bcb4fef61272",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e00bf5668d444f8919f6f436689586f4c67f063c5f304e00e5c4d6ee0d2b12b3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5ec365935830245b8d5da7f7",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_twain_tom_sawyer_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 5ec365935830245b8d5da7f7\noriginal_word_count: 453\n\nPassage:\n“Well, everybody does that way, Huck.”\n\n“Tom, it don’t make no difference. I ain’t everybody, and I can’t _stand_ it. It’s awful to be tied up so. And grub comes too easy—I don’t take no interest in vittles, that way. I got to ask to go a-fishing; I got to ask to go in a-swimming—dern’d if I hain’t got to ask to do everything. Well, I’d got to talk so nice it wasn’t no comfort—I’d got to go up in the attic and rip out awhile, every day, to git a taste in my mouth, or I’d a died, Tom. The widder wouldn’t let me smoke; she wouldn’t let me yell, she wouldn’t let me gape, nor stretch, nor scratch, before folks—” [Then with a spasm of special irritation and injury]—“And dad fetch it, she prayed all the time! I never see such a woman! I _had_ to shove, Tom—I just had to. And besides, that school’s going to open, and I’d a had to go to it—well, I wouldn’t stand _that_, Tom. Looky-here, Tom, being rich ain’t what it’s cracked up to be. It’s just worry and worry, and sweat and sweat, and a-wishing you was dead all the time. Now these clothes suits me, and this bar’l suits me, and I ain’t ever going to shake ’em any more. Tom, I wouldn’t ever got into all this trouble if it hadn’t ’a’ been for that money; now you just take my sheer of it along with your’n, and gimme a ten-center sometimes—not many times, becuz I don’t give a dern for a thing ’thout it’s tollable hard to git—and you go and beg off for me with the widder.”\n\n“Oh, Huck, you know I can’t do that. ’Tain’t fair; and besides if you’ll try this thing just a while longer you’ll come to like it.”\n\n“Like it! Yes—the way I’d like a hot stove if I was to set on it long enough. No, Tom, I won’t be rich, and I won’t live in them cussed smothery houses. I like the woods, and the river, and hogsheads, and I’ll stick to ’em, too. Blame it all! just as we’d got guns, and a cave, and all just fixed to rob, here this dern foolishness has got to come up and spile it all!”\n\nTom saw his opportunity—\n\n“Lookyhere, Huck, being rich ain’t going to keep me back from turning robber.”\n\n“No! Oh, good-licks; are you in real dead-wood earnest, Tom?”\n\n“Just as dead earnest as I’m sitting here. But Huck, we can’t let you into the gang if you ain’t respectable, you know.”\n\nHuck’s joy was quenched.\n\n“Can’t let me in, Tom?"
+      },
+      "request_id": "5ec365935830245b8d5da7f7",
+      "request_sha256": "dea8b518842f06443d4338042908567a602d655c68ab35a73e055131c8bd75ea",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fdc9700da4979429dbc48dbeae4ffef2205957464698097fcb1f908448527fa6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4a330986bac5c9bd79da7438",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_shelley_mathilda_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 4a330986bac5c9bd79da7438\noriginal_word_count: 481\n\nPassage:\n“Do you mark my words; I have learned the language of despair: I have it all by heart, for I am Despair; and a strange being am I, joyous, triumphant Despair. But those words are false, for the wave may be dark but it is not bitter. We lie down, and close our eyes with a gentle good night, and when we wake, we are free. Come then, no more delay, thou tardy one! Behold the pleasant potion! Look, I am a spirit of good, and not a human maid that invites thee, and with winning accents, (oh, that they would win thee!) says, Come and drink.”\n\nAs I spoke I fixed my eyes upon his countenance, and his exquisite beauty, the heavenly compassion that beamed from his eyes, his gentle yet earnest look of deprecation and wonder even before he spoke wrought a change in my high strained feelings taking from me all the sterness of despair and filling me only with the softest grief. I saw his eyes humid also as he took both my hands in his; and sitting down near me, he said:\n\n“This is a sad deed to which you would lead me, dearest friend, and your woe must indeed be deep that could fill you with these unhappy thoughts. You long for death and yet you fear it and wish me to be your companion. But I have less courage than you and even thus accompanied I dare not die. Listen to me, and then reflect if you ought to win me to your project, even if with the over-bearing eloquence of despair you could make black death so inviting that the fair heaven should appear darkness. Listen I entreat you to the words of one who has himself nurtured desperate thoughts, and longed with impatient desire for death, but who has at length trampled the phantom under foot, and crushed his sting. Come, as you have played Despair with me I will play the part of Una with you and bring you hurtless from his dark cavern. Listen to me, and let yourself be softened by words in which no selfish passion lingers.\n\n“We know not what all this wide world means; its strange mixture of good and evil. But we have been placed here and bid live and hope. I know not what we are to hope; but there is some good beyond us that we must seek; and that is our earthly task. If misfortune come against us we must fight with her; we must cast her aside, and still go on to find out that which it is our nature to desire. Whether this prospect of future good be the preparation for another existence I know not; or whether that it is merely that we, as workmen in God’s vineyard, must lend a hand to smooth the way for our posterity."
+      },
+      "request_id": "4a330986bac5c9bd79da7438",
+      "request_sha256": "f0fcf344a358a8f74e9ad3143ae8596348ab775309498001c66ca1c362246bba",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c5339287a2b77e01163de667b701fd5e4d5c6d05276160e4b0bcda671165e7ce"
+    }
+  ],
+  "session_id": "01a0e84b-0c07-7f62-8492-38d6630a3d8a",
+  "worker_id": "astra_n",
+  "worker_identity_sha256": "af3df2dfd1bd45965959790098af7e2b94db79efd262f1f2cc3e95a3ae8be86e"
+}

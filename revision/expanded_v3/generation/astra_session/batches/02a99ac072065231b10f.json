@@ -1,0 +1,68 @@
+{
+  "batch_id": "02a99ac072065231b10f",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:33:05.931972+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6ec6bc9793515081ccbbdf01",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_dickens_oliver_twist_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 6ec6bc9793515081ccbbdf01\noriginal_word_count: 470\n\nPassage:\n“Never!” returned the girl.\n\n“Tell me why?”\n\n“For one reason,” rejoined the girl firmly, “for one reason, that the lady knows and will stand by me in, I know she will, for I have her promise: and for this other reason, besides, that, bad life as he has led, I have led a bad life too; there are many of us who have kept the same courses together, and I’ll not turn upon them, who might—any of them—have turned upon me, but didn’t, bad as they are.”\n\n“Then,” said the gentleman, quickly, as if this had been the point he had been aiming to attain; “put Monks into my hands, and leave him to me to deal with.”\n\n“What if he turns against the others?”\n\n“I promise you that in that case, if the truth is forced from him, there the matter will rest; there must be circumstances in Oliver’s little history which it would be painful to drag before the public eye, and if the truth is once elicited, they shall go scot free.”\n\n“And if it is not?” suggested the girl.\n\n“Then,” pursued the gentleman, “this Fagin shall not be brought to justice without your consent. In such a case I could show you reasons, I think, which would induce you to yield it.”\n\n“Have I the lady’s promise for that?” asked the girl.\n\n“You have,” replied Rose. “My true and faithful pledge.”\n\n“Monks would never learn how you knew what you do?” said the girl, after a short pause.\n\n“Never,” replied the gentleman. “The intelligence should be brought to bear upon him, that he could never even guess.”\n\n“I have been a liar, and among liars from a little child,” said the girl after another interval of silence, “but I will take your words.”\n\nAfter receiving an assurance from both, that she might safely do so, she proceeded in a voice so low that it was often difficult for the listener to discover even the purport of what she said, to describe, by name and situation, the public-house whence she had been followed that night. From the manner in which she occasionally paused, it appeared as if the gentleman were making some hasty notes of the information she communicated. When she had thoroughly explained the localities of the place, the best position from which to watch it without exciting observation, and the night and hour on which Monks was most in the habit of frequenting it, she seemed to consider for a few moments, for the purpose of recalling his features and appearances more forcibly to her recollection.\n\n“He is tall,” said the girl, “and a strongly made man, but not stout; he has a lurking walk; and as he walks, constantly looks over his shoulder, first on one side, and then on the other."
+      },
+      "request_id": "6ec6bc9793515081ccbbdf01",
+      "request_sha256": "9e186e51d9c8ecbb17cc4e9453d93b9db31d45ac922f175161afd1fac49dae32",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "25736fb97d5048e7cdb122183ba6424207c6a813dd04528ff276a6243480bc12"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ef157ef48358d213d75ba5fd",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_dickens_great_expectations_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: ef157ef48358d213d75ba5fd\noriginal_word_count: 454\n\nPassage:\nMy father’s family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So, I called myself Pip, and came to be called Pip.\n\nI give Pirrip as my father’s family name, on the authority of his tombstone and my sister,—Mrs. Joe Gargery, who married the blacksmith. As I never saw my father or my mother, and never saw any likeness of either of them (for their days were long before the days of photographs), my first fancies regarding what they were like were unreasonably derived from their tombstones. The shape of the letters on my father’s, gave me an odd idea that he was a square, stout, dark man, with curly black hair. From the character and turn of the inscription, “_Also Georgiana Wife of the Above_,” I drew a childish conclusion that my mother was freckled and sickly. To five little stone lozenges, each about a foot and a half long, which were arranged in a neat row beside their grave, and were sacred to the memory of five little brothers of mine,—who gave up trying to get a living, exceedingly early in that universal struggle,—I am indebted for a belief I religiously entertained that they had all been born on their backs with their hands in their trousers-pockets, and had never taken them out in this state of existence.\n\nOurs was the marsh country, down by the river, within, as the river wound, twenty miles of the sea. My first most vivid and broad impression of the identity of things seems to me to have been gained on a memorable raw afternoon towards evening. At such a time I found out for certain that this bleak place overgrown with nettles was the churchyard; and that Philip Pirrip, late of this parish, and also Georgiana wife of the above, were dead and buried; and that Alexander, Bartholomew, Abraham, Tobias, and Roger, infant children of the aforesaid, were also dead and buried; and that the dark flat wilderness beyond the churchyard, intersected with dikes and mounds and gates, with scattered cattle feeding on it, was the marshes; and that the low leaden line beyond was the river; and that the distant savage lair from which the wind was rushing was the sea; and that the small bundle of shivers growing afraid of it all and beginning to cry, was Pip.\n\n“Hold your noise!” cried a terrible voice, as a man started up from among the graves at the side of the church porch. “Keep still, you little devil, or I’ll cut your throat!”\n\nA fearful man, all in coarse grey, with a great iron on his leg."
+      },
+      "request_id": "ef157ef48358d213d75ba5fd",
+      "request_sha256": "860179f4bc3d7127493f1f04fbc0af4f2686a69e66298595e1df9cd61dda092e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c7a78f87c417ada1e0e470f0bb377e703b522bd95d6872a11dd60b743d371e03"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "49f0cfe8bf390bd93ba82f04",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_austen_persuasion_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 49f0cfe8bf390bd93ba82f04\noriginal_word_count: 452\n\nPassage:\nSir Walter had taken a very good house in Camden Place, a lofty dignified situation, such as becomes a man of consequence; and both he and Elizabeth were settled there, much to their satisfaction.\n\nAnne entered it with a sinking heart, anticipating an imprisonment of many months, and anxiously saying to herself, “Oh! when shall I leave you again?” A degree of unexpected cordiality, however, in the welcome she received, did her good. Her father and sister were glad to see her, for the sake of shewing her the house and furniture, and met her with kindness. Her making a fourth, when they sat down to dinner, was noticed as an advantage.\n\nMrs Clay was very pleasant, and very smiling, but her courtesies and smiles were more a matter of course. Anne had always felt that she would pretend what was proper on her arrival, but the complaisance of the others was unlooked for. They were evidently in excellent spirits, and she was soon to listen to the causes. They had no inclination to listen to her. After laying out for some compliments of being deeply regretted in their old neighbourhood, which Anne could not pay, they had only a few faint enquiries to make, before the talk must be all their own. Uppercross excited no interest, Kellynch very little: it was all Bath.\n\nThey had the pleasure of assuring her that Bath more than answered their expectations in every respect. Their house was undoubtedly the best in Camden Place; their drawing-rooms had many decided advantages over all the others which they had either seen or heard of, and the superiority was not less in the style of the fitting-up, or the taste of the furniture. Their acquaintance was exceedingly sought after. Everybody was wanting to visit them. They had drawn back from many introductions, and still were perpetually having cards left by people of whom they knew nothing.\n\nHere were funds of enjoyment. Could Anne wonder that her father and sister were happy? She might not wonder, but she must sigh that her father should feel no degradation in his change, should see nothing to regret in the duties and dignity of the resident landholder, should find so much to be vain of in the littlenesses of a town; and she must sigh, and smile, and wonder too, as Elizabeth threw open the folding-doors and walked with exultation from one drawing-room to the other, boasting of their space; at the possibility of that woman, who had been mistress of Kellynch Hall, finding extent to be proud of between two walls, perhaps thirty feet asunder.\n\nBut this was not all which they had to make them happy. They had Mr Elliot too."
+      },
+      "request_id": "49f0cfe8bf390bd93ba82f04",
+      "request_sha256": "daf5babcd1c027223297efa4b3d4982078b5cd5f1b3a0e042396714d36124a66",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1c0e7e89c60ad7bb2b3a1d0f937bd74178c1d8a3f17636229d8cf024ed322d95"
+    }
+  ],
+  "session_id": "01a0e30c-b9d5-7a90-8e48-66fb9e9e85ab",
+  "worker_id": "astra_f",
+  "worker_identity_sha256": "99f27e110908dead1d4562afc80f2641e421ce331aa3d512cbd7e9a66fae1aa2"
+}

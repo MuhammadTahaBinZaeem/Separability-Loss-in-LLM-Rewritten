@@ -1,0 +1,68 @@
+{
+  "batch_id": "fc49724698e4b02c72c0",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T07:57:35.682360+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "102d79b52f3a186d0b20f00f",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_austen_pride_and_prejudice_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 102d79b52f3a186d0b20f00f\noriginal_word_count: 452\n\nPassage:\nHad she known that her sister sought to tear her from such prospects and such realities as these, what would have been her sensations? They could have been understood only by her mother, who might have felt nearly the same. Lydia’s going to Brighton was all that consoled her for the melancholy conviction of her husband’s never intending to go there himself.\n\nBut they were entirely ignorant of what had passed; and their raptures continued, with little intermission, to the very day of Lydia’s leaving home.\n\nElizabeth was now to see Mr. Wickham for the last time. Having been frequently in company with him since her return, agitation was pretty well over; the agitations of former partiality entirely so. She had even learnt to detect, in the very gentleness which had first delighted her, an affectation and a sameness to disgust and weary. In his present behaviour to herself, moreover, she had a fresh source of displeasure; for the inclination he soon testified of renewing those attentions which had marked the early part of their acquaintance could only serve, after what had since passed, to provoke her. She lost all concern for him in finding herself thus selected as the object of such idle and frivolous gallantry; and while she steadily repressed it, could not but feel the reproof contained in his believing, that however long, and for whatever cause, his attentions had been withdrawn, her vanity would be gratified, and her preference secured, at any time, by their renewal.\n\nOn the very last day of the regiment’s remaining in Meryton, he dined, with others of the officers, at Longbourn; and so little was Elizabeth disposed to part from him in good-humour, that, on his making some inquiry as to the manner in which her time had passed at Hunsford, she mentioned Colonel Fitzwilliam’s and Mr. Darcy’s having both spent three weeks at Rosings, and asked him if he were acquainted with the former.\n\nHe looked surprised, displeased, alarmed; but, with a moment’s recollection, and a returning smile, replied, that he had formerly seen him often; and, after observing that he was a very gentlemanlike man, asked her how she had liked him. Her answer was warmly in his favour. With an air of indifference, he soon afterwards added, “How long did you say that he was at Rosings?”\n\n“Nearly three weeks.”\n\n“And you saw him frequently?”\n\n“Yes, almost every day.”\n\n“His manners are very different from his cousin’s.”\n\n“Yes, very different; but I think Mr. Darcy improves on acquaintance.”\n\n“Indeed!” cried Wickham, with a look which did not escape her. “And pray may I ask--” but checking himself, he added, in a gayer tone, “Is it in address that he improves?"
+      },
+      "request_id": "102d79b52f3a186d0b20f00f",
+      "request_sha256": "2bdf01893ef643bce0345562b845d2229b43452c5bbfacac7ab17ed9e06598e1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "41f3e2c3b42fc82f2ecea350ddb7fe6e633b1cda0f3be3cdba6056f584f54413"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5517aff54e1cfdc545540964",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_dickens_great_expectations_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 5517aff54e1cfdc545540964\noriginal_word_count: 485\n\nPassage:\nIt appeared to be a collection of back lanes, ditches, and little gardens, and to present the aspect of a rather dull retirement. Wemmick’s house was a little wooden cottage in the midst of plots of garden, and the top of it was cut out and painted like a battery mounted with guns.\n\n“My own doing,” said Wemmick. “Looks pretty; don’t it?”\n\nI highly commended it, I think it was the smallest house I ever saw; with the queerest gothic windows (by far the greater part of them sham), and a gothic door almost too small to get in at.\n\n“That’s a real flagstaff, you see,” said Wemmick, “and on Sundays I run up a real flag. Then look here. After I have crossed this bridge, I hoist it up—so—and cut off the communication.”\n\nThe bridge was a plank, and it crossed a chasm about four feet wide and two deep. But it was very pleasant to see the pride with which he hoisted it up and made it fast; smiling as he did so, with a relish and not merely mechanically.\n\n“At nine o’clock every night, Greenwich time,” said Wemmick, “the gun fires. There he is, you see! And when you hear him go, I think you’ll say he’s a Stinger.”\n\nThe piece of ordnance referred to, was mounted in a separate fortress, constructed of lattice-work. It was protected from the weather by an ingenious little tarpaulin contrivance in the nature of an umbrella.\n\n“Then, at the back,” said Wemmick, “out of sight, so as not to impede the idea of fortifications,—for it’s a principle with me, if you have an idea, carry it out and keep it up,—I don’t know whether that’s your opinion—”\n\nI said, decidedly.\n\n“—At the back, there’s a pig, and there are fowls and rabbits; then, I knock together my own little frame, you see, and grow cucumbers; and you’ll judge at supper what sort of a salad I can raise. So, sir,” said Wemmick, smiling again, but seriously too, as he shook his head, “if you can suppose the little place besieged, it would hold out a devil of a time in point of provisions.”\n\nThen, he conducted me to a bower about a dozen yards off, but which was approached by such ingenious twists of path that it took quite a long time to get at; and in this retreat our glasses were already set forth. Our punch was cooling in an ornamental lake, on whose margin the bower was raised. This piece of water (with an island in the middle which might have been the salad for supper) was of a circular form, and he had constructed a fountain in it, which, when you set a little mill going and took a cork out of a pipe, played to that powerful extent that it made the back of your hand quite wet."
+      },
+      "request_id": "5517aff54e1cfdc545540964",
+      "request_sha256": "f86f0381522dbedf7d3e606069ec0feb733f69dc204292da191d38cedcf2e85b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "47b41a106ddb28ec6561f25de038b73903b88b4cb719f5813e61b78a2d24b99e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "52b9a95f0fea48b7fdda2677",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_wilde_dorian_gray_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 52b9a95f0fea48b7fdda2677\noriginal_word_count: 464\n\nPassage:\nIt is an odd thing, but every one who disappears is said to be seen at San Francisco. It must be a delightful city, and possess all the attractions of the next world.”\n\n“What do you think has happened to Basil?” asked Dorian, holding up his Burgundy against the light and wondering how it was that he could discuss the matter so calmly.\n\n“I have not the slightest idea. If Basil chooses to hide himself, it is no business of mine. If he is dead, I don’t want to think about him. Death is the only thing that ever terrifies me. I hate it.”\n\n“Why?” said the younger man wearily.\n\n“Because,” said Lord Henry, passing beneath his nostrils the gilt trellis of an open vinaigrette box, “one can survive everything nowadays except that. Death and vulgarity are the only two facts in the nineteenth century that one cannot explain away. Let us have our coffee in the music-room, Dorian. You must play Chopin to me. The man with whom my wife ran away played Chopin exquisitely. Poor Victoria! I was very fond of her. The house is rather lonely without her. Of course, married life is merely a habit, a bad habit. But then one regrets the loss even of one’s worst habits. Perhaps one regrets them the most. They are such an essential part of one’s personality.”\n\nDorian said nothing, but rose from the table, and passing into the next room, sat down to the piano and let his fingers stray across the white and black ivory of the keys. After the coffee had been brought in, he stopped, and looking over at Lord Henry, said, “Harry, did it ever occur to you that Basil was murdered?”\n\nLord Henry yawned. “Basil was very popular, and always wore a Waterbury watch. Why should he have been murdered? He was not clever enough to have enemies. Of course, he had a wonderful genius for painting. But a man can paint like Velasquez and yet be as dull as possible. Basil was really rather dull. He only interested me once, and that was when he told me, years ago, that he had a wild adoration for you and that you were the dominant motive of his art.”\n\n“I was very fond of Basil,” said Dorian with a note of sadness in his voice. “But don’t people say that he was murdered?”\n\n“Oh, some of the papers do. It does not seem to me to be at all probable. I know there are dreadful places in Paris, but Basil was not the sort of man to have gone to them. He had no curiosity. It was his chief defect.”\n\n“What would you say, Harry, if I told you that I had murdered Basil?” said the younger man."
+      },
+      "request_id": "52b9a95f0fea48b7fdda2677",
+      "request_sha256": "8e2275db3773222c512dcfe3c71c84b9b627cece1b093d8cdcf11ca1e6ae4a2f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1c7bd5c22ce27dc8b7479414202730a7e3d68308be8e77e033e7193fb97fe87f"
+    }
+  ],
+  "session_id": "01a0e1dc-5c35-7b31-a9b6-a38e1d6af01b",
+  "worker_id": "astra_a",
+  "worker_identity_sha256": "1dbcb4b943cd599b768ad84fa4e0ccc355a69f663720cc130c5d030c1b9e8505"
+}

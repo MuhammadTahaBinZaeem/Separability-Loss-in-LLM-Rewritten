@@ -1,0 +1,68 @@
+{
+  "batch_id": "d81f3705e177d4604ec7",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:26:25.329168+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "852602c977a0afc166245e29",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 852602c977a0afc166245e29\noriginal_word_count: 457\n\nPassage:\nOf course, he was very amusing, and all that, but I was awfully disappointed; and when I asked him about the coat of mail, he only laughed, and said it was far too cold to wear in England. Ah, here is Mr. Podgers! Now, Mr. Podgers, I want you to tell the Duchess of Paisley’s hand. Duchess, you must take your glove off. No, not the left hand, the other.’\n\n‘Dear Gladys, I really don’t think it is quite right,’ said the Duchess, feebly unbuttoning a rather soiled kid glove.\n\n‘Nothing interesting ever is,’ said Lady Windermere: ‘_on a fait le monde ainsi_. But I must introduce you. Duchess, this is Mr. Podgers, my pet cheiromantist. Mr. Podgers, this is the Duchess of Paisley, and if you say that she has a larger mountain of the moon than I have, I will never believe in you again.’\n\n‘I am sure, Gladys, there is nothing of the kind in my hand,’ said the Duchess gravely.\n\n‘Your Grace is quite right,’ said Mr. Podgers, glancing at the little fat hand with its short square fingers, ‘the mountain of the moon is not developed. The line of life, however, is excellent. Kindly bend the wrist. Thank you. Three distinct lines on the _rascette_! You will live to a great age, Duchess, and be extremely happy. Ambition—very moderate, line of intellect not exaggerated, line of heart—’\n\n‘Now, do be indiscreet, Mr. Podgers,’ cried Lady Windermere.\n\n‘Nothing would give me greater pleasure,’ said Mr. Podgers, bowing, ‘if the Duchess ever had been, but I am sorry to say that I see great permanence of affection, combined with a strong sense of duty.’\n\n‘Pray go on, Mr. Podgers,’ said the Duchess, looking quite pleased.\n\n‘Economy is not the least of your Grace’s virtues,’ continued Mr. Podgers, and Lady Windermere went off into fits of laughter.\n\n‘Economy is a very good thing,’ remarked the Duchess complacently; ‘when I married Paisley he had eleven castles, and not a single house fit to live in.’\n\n‘And now he has twelve houses, and not a single castle,’ cried Lady Windermere.\n\n‘Well, my dear,’ said the Duchess, ‘I like—’\n\n‘Comfort,’ said Mr. Podgers, ‘and modern improvements, and hot water laid on in every bedroom. Your Grace is quite right. Comfort is the only thing our civilisation can give us.\n\n‘You have told the Duchess’s character admirably, Mr. Podgers, and now you must tell Lady Flora’s’; and in answer to a nod from the smiling hostess, a tall girl, with sandy Scotch hair, and high shoulder-blades, stepped awkwardly from behind the sofa, and held out a long, bony hand with spatulate fingers.\n\n‘Ah, a pianist! I see,’ said Mr. Podgers, ‘an excellent pianist, but perhaps hardly a musician."
+      },
+      "request_id": "852602c977a0afc166245e29",
+      "request_sha256": "a725cbdd2c81042cd748328d8c5a2a2b0c1c2366b1c6ebd534341c5baa5427f1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0450e834d223c50a8b5db2d34afa165b0f2bb58d1d9c2e375fe3c13b4317cb8c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5f7f0ed314b8021a9a1d3400",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_wilde_canterville_ghost_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 5f7f0ed314b8021a9a1d3400\noriginal_word_count: 472\n\nPassage:\n‘Oh, bother my hat! I want Virginia!’ cried the little Duke, laughing, and they galloped on to the railway station. There Mr. Otis inquired of the station-master if any one answering the description of Virginia had been seen on the platform, but could get no news of her. The station-master, however, wired up and down the line, and assured him that a strict watch would be kept for her, and, after having bought a hat for the little Duke from a linen-draper, who was just putting up his shutters, Mr. Otis rode off to Bexley, a village about four miles away, which he was told was a well-known haunt of the gypsies, as there was a large common next to it. Here they roused up the rural policeman, but could get no information from him, and, after riding all over the common, they turned their horses’ heads homewards, and reached the Chase about eleven o’clock, dead-tired and almost heart-broken. They found Washington and the twins waiting for them at the gate-house with lanterns, as the avenue was very dark. Not the slightest trace of Virginia had been discovered. The gypsies had been caught on Brockley meadows, but she was not with them, and they had explained their sudden departure by saying that they had mistaken the date of Chorton Fair, and had gone off in a hurry for fear they might be late. Indeed, they had been quite distressed at hearing of Virginia’s disappearance, as they were very grateful to Mr. Otis for having allowed them to camp in his park, and four of their number had stayed behind to help in the search. The carp-pond had been dragged, and the whole Chase thoroughly gone over, but without any result. It was evident that, for that night at any rate, Virginia was lost to them; and it was in a state of the deepest depression that Mr. Otis and the boys walked up to the house, the groom following behind with the two horses and the pony. In the hall they found a group of frightened servants, and lying on a sofa in the library was poor Mrs. Otis, almost out of her mind with terror and anxiety, and having her forehead bathed with eau-de-cologne by the old housekeeper. Mr. Otis at once insisted on her having something to eat, and ordered up supper for the whole party. It was a melancholy meal, as hardly any one spoke, and even the twins were awestruck and subdued, as they were very fond of their sister. When they had finished, Mr. Otis, in spite of the entreaties of the little Duke, ordered them all to bed, saying that nothing more could be done that night, and that he would telegraph in the morning to Scotland Yard for some detectives to be sent down immediately."
+      },
+      "request_id": "5f7f0ed314b8021a9a1d3400",
+      "request_sha256": "647a0a9fa825cdf0cbae09db41f72a3909dc7111a9bc89df5a754d2d1c9d329b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0ce185bba5a831177cf957e15d1e185774a974800fb50d1c375f86ee1b31a876"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b0cb93e96d862f13f08b0ff3",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_austen_emma_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: b0cb93e96d862f13f08b0ff3\noriginal_word_count: 466\n\nPassage:\nHe gave her to understand that Frank admired her extremely—thought her very beautiful and very charming; and with so much to be said for him altogether, she found she must not judge him harshly. As Mrs. Weston observed, “all young people would have their little whims.”\n\nThere was one person among his new acquaintance in Surry, not so leniently disposed. In general he was judged, throughout the parishes of Donwell and Highbury, with great candour; liberal allowances were made for the little excesses of such a handsome young man—one who smiled so often and bowed so well; but there was one spirit among them not to be softened, from its power of censure, by bows or smiles—Mr. Knightley. The circumstance was told him at Hartfield; for the moment, he was silent; but Emma heard him almost immediately afterwards say to himself, over a newspaper he held in his hand, “Hum! just the trifling, silly fellow I took him for.” She had half a mind to resent; but an instant’s observation convinced her that it was really said only to relieve his own feelings, and not meant to provoke; and therefore she let it pass.\n\nAlthough in one instance the bearers of not good tidings, Mr. and Mrs. Weston’s visit this morning was in another respect particularly opportune. Something occurred while they were at Hartfield, to make Emma want their advice; and, which was still more lucky, she wanted exactly the advice they gave.\n\nThis was the occurrence:—The Coles had been settled some years in Highbury, and were very good sort of people—friendly, liberal, and unpretending; but, on the other hand, they were of low origin, in trade, and only moderately genteel. On their first coming into the country, they had lived in proportion to their income, quietly, keeping little company, and that little unexpensively; but the last year or two had brought them a considerable increase of means—the house in town had yielded greater profits, and fortune in general had smiled on them. With their wealth, their views increased; their want of a larger house, their inclination for more company. They added to their house, to their number of servants, to their expenses of every sort; and by this time were, in fortune and style of living, second only to the family at Hartfield. Their love of society, and their new dining-room, prepared every body for their keeping dinner-company; and a few parties, chiefly among the single men, had already taken place. The regular and best families Emma could hardly suppose they would presume to invite—neither Donwell, nor Hartfield, nor Randalls. Nothing should tempt _her_ to go, if they did; and she regretted that her father’s known habits would be giving her refusal less meaning than she could wish."
+      },
+      "request_id": "b0cb93e96d862f13f08b0ff3",
+      "request_sha256": "376cce761a24d3ebd0a50ab6eaa8d4f38f450c746679d26e00b55e4e2c1d8113",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bdfc179d5fcd138fc16f1855723147ba813f3dd3af833056030e663184a750ef"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

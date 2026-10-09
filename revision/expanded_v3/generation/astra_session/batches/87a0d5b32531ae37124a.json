@@ -1,0 +1,68 @@
+{
+  "batch_id": "87a0d5b32531ae37124a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:54:29.934549+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3a7cf8488c8b500f7967bd0e",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_austen_persuasion_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 3a7cf8488c8b500f7967bd0e\noriginal_word_count: 464\n\nPassage:\nShe now felt a great inclination to go to the outer door; she wanted to see if it rained. Why was she to suspect herself of another motive? Captain Wentworth must be out of sight. She left her seat, she would go; one half of her should not be always so much wiser than the other half, or always suspecting the other of being worse than it was. She would see if it rained. She was sent back, however, in a moment by the entrance of Captain Wentworth himself, among a party of gentlemen and ladies, evidently his acquaintance, and whom he must have joined a little below Milsom Street. He was more obviously struck and confused by the sight of her than she had ever observed before; he looked quite red. For the first time, since their renewed acquaintance, she felt that she was betraying the least sensibility of the two. She had the advantage of him in the preparation of the last few moments. All the overpowering, blinding, bewildering, first effects of strong surprise were over with her. Still, however, she had enough to feel! It was agitation, pain, pleasure, a something between delight and misery.\n\nHe spoke to her, and then turned away. The character of his manner was embarrassment. She could not have called it either cold or friendly, or anything so certainly as embarrassed.\n\nAfter a short interval, however, he came towards her, and spoke again. Mutual enquiries on common subjects passed: neither of them, probably, much the wiser for what they heard, and Anne continuing fully sensible of his being less at ease than formerly. They had by dint of being so very much together, got to speak to each other with a considerable portion of apparent indifference and calmness; but he could not do it now. Time had changed him, or Louisa had changed him. There was consciousness of some sort or other. He looked very well, not as if he had been suffering in health or spirits, and he talked of Uppercross, of the Musgroves, nay, even of Louisa, and had even a momentary look of his own arch significance as he named her; but yet it was Captain Wentworth not comfortable, not easy, not able to feign that he was.\n\nIt did not surprise, but it grieved Anne to observe that Elizabeth would not know him. She saw that he saw Elizabeth, that Elizabeth saw him, that there was complete internal recognition on each side; she was convinced that he was ready to be acknowledged as an acquaintance, expecting it, and she had the pain of seeing her sister turn away with unalterable coldness.\n\nLady Dalrymple’s carriage, for which Miss Elliot was growing very impatient, now drew up; the servant came in to announce it."
+      },
+      "request_id": "3a7cf8488c8b500f7967bd0e",
+      "request_sha256": "14b83dc1911ee23975658bdfb1f5a30e0d2dc13f595e0d29df40926e28cf46bd",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0877b159874ed7779521bd97afb589450f0e887d1250429d8eece2330cb476a9"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "769edb829b09366a66a4f701",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_poe_the_gold_bug_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 769edb829b09366a66a4f701\noriginal_word_count: 450\n\nPassage:\n“Jupiter,” said he, when we reached its foot, “come here! was the skull nailed to the limb with the face outwards, or with the face to the limb?”\n\n“De face was out, massa, so dat de crows could get at de eyes good, widout any trouble.”\n\n“Well, then, was it this eye or that through which you dropped the beetle?”—here Legrand touched each of Jupiter’s eyes.\n\n“’Twas dis eye, massa—de lef eye—jis as you tell me,” and here it was his right eye that the negro indicated.\n\n“That will do—we must try it again.”\n\nHere my friend, about whose madness I now saw, or fancied that I saw, certain indications of method, removed the peg which marked the spot where the beetle fell, to a spot about three inches to the westward of its former position. Taking, now, the tape measure from the nearest point of the trunk to the peg, as before, and continuing the extension in a straight line to the distance of fifty feet, a spot was indicated, removed, by several yards, from the point at which we had been digging.\n\nAround the new position a circle, somewhat larger than in the former instance, was now described, and we again set to work with the spades. I was dreadfully weary, but, scarcely understanding what had occasioned the change in my thoughts, I felt no longer any great aversion from the labor imposed. I had become most unaccountably interested—nay, even excited. Perhaps there was something, amid all the extravagant demeanor of Legrand—some air of forethought, or of deliberation, which impressed me. I dug eagerly, and now and then caught myself actually looking, with something that very much resembled expectation, for the fancied treasure, the vision of which had demented my unfortunate companion. At a period when such vagaries of thought most fully possessed me, and when we had been at work perhaps an hour and a half, we were again interrupted by the violent howlings of the dog. His uneasiness, in the first instance, had been, evidently, but the result of playfulness or caprice, but he now assumed a bitter and serious tone. Upon Jupiter’s again attempting to muzzle him, he made furious resistance, and, leaping into the hole, tore up the mould frantically with his claws. In a few seconds he had uncovered a mass of human bones, forming two complete skeletons, intermingled with several buttons of metal, and what appeared to be the dust of decayed woollen. One or two strokes of a spade upturned the blade of a large Spanish knife, and, as we dug farther, three or four loose pieces of gold and silver coin came to light."
+      },
+      "request_id": "769edb829b09366a66a4f701",
+      "request_sha256": "c09447346d5592d06cc4f21cd79ad6f4d58dc088f1c5a96aa73c65026231998e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4af6bf390dd53f71f63921b9aad964b18b37635a7fa6a917ab3da0163042a9aa"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "27f471de86cde36f5d2c3652",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_oliver_twist_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 27f471de86cde36f5d2c3652\noriginal_word_count: 450\n\nPassage:\n“One word more, Rose. Dearest Rose! one more!” cried Harry, throwing himself before her. “If I had been less—less fortunate, the world would call it—if some obscure and peaceful life had been my destiny—if I had been poor, sick, helpless—would you have turned from me then? Or has my probable advancement to riches and honour, given this scruple birth?”\n\n“Do not press me to reply,” answered Rose. “The question does not arise, and never will. It is unfair, almost unkind, to urge it.”\n\n“If your answer be what I almost dare to hope it is,” retorted Harry, “it will shed a gleam of happiness upon my lonely way, and light the path before me. It is not an idle thing to do so much, by the utterance of a few brief words, for one who loves you beyond all else. Oh, Rose: in the name of my ardent and enduring attachment; in the name of all I have suffered for you, and all you doom me to undergo; answer me this one question!”\n\n“Then, if your lot had been differently cast,” rejoined Rose; “if you had been even a little, but not so far, above me; if I could have been a help and comfort to you in any humble scene of peace and retirement, and not a blot and drawback in ambitious and distinguished crowds; I should have been spared this trial. I have every reason to be happy, very happy, now; but then, Harry, I own I should have been happier.”\n\nBusy recollections of old hopes, cherished as a girl, long ago, crowded into the mind of Rose, while making this avowal; but they brought tears with them, as old hopes will when they come back withered; and they relieved her.\n\n“I cannot help this weakness, and it makes my purpose stronger,” said Rose, extending her hand. “I must leave you now, indeed.”\n\n“I ask one promise,” said Harry. “Once, and only once more,—say within a year, but it may be much sooner,—I may speak to you again on this subject, for the last time.”\n\n“Not to press me to alter my right determination,” replied Rose, with a melancholy smile; “it will be useless.”\n\n“No,” said Harry; “to hear you repeat it, if you will—finally repeat it! I will lay at your feet, whatever of station of fortune I may possess; and if you still adhere to your present resolution, will not seek, by word or act, to change it.”\n\n“Then let it be so,” rejoined Rose; “it is but one pang the more, and by that time I may be enabled to bear it better.”\n\nShe extended her hand again."
+      },
+      "request_id": "27f471de86cde36f5d2c3652",
+      "request_sha256": "9769f2c4e8c9443ddfac71fcd38d728efa1788d1fa25321872a776fd8ce1e423",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "30c9045edfacdb0ed42780228e67753876df496f3c202bd5a0b3365bc84253a3"
+    }
+  ],
+  "session_id": "01a0e87a-db7a-7303-aca7-ee81da6c50ba",
+  "worker_id": "astra_aa",
+  "worker_identity_sha256": "f89346b92865e535f8532245987e03b9bf1204ea8d86eb06bb80af193eb55d71"
+}

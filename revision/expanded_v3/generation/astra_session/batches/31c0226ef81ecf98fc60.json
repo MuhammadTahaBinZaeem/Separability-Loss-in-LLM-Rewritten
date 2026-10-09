@@ -1,0 +1,68 @@
+{
+  "batch_id": "31c0226ef81ecf98fc60",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:06:46.762419+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "fe2c036344806b41fa9c7039",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 499,
+      "passage_id": "V2_twain_connecticut_yankee_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: fe2c036344806b41fa9c7039\noriginal_word_count: 499\n\nPassage:\nYou see I had my handkerchief in my helmet; and some other things; but it was that kind of a helmet that you can't take off by yourself. That hadn't occurred to me when I put it there; and in fact I didn't know it. I supposed it would be particularly convenient there. And so now, the thought of its being there, so handy and close by, and yet not get-at-able, made it all the worse and the harder to bear. Yes, the thing that you can't get is the thing that you want, mainly; every one has noticed that. Well, it took my mind off from everything else; took it clear off, and centered it in my helmet; and mile after mile, there it stayed, imagining the handkerchief, picturing the handkerchief; and it was bitter and aggravating to have the salt sweat keep trickling down into my eyes, and I couldn't get at it. It seems like a little thing, on paper, but it was not a little thing at all; it was the most real kind of misery. I would not say it if it was not so. I made up my mind that I would carry along a reticule next time, let it look how it might, and people say what they would. Of course these iron dudes of the Round Table would think it was scandalous, and maybe raise Sheol about it, but as for me, give me comfort first, and style afterwards. So we jogged along, and now and then we struck a stretch of dust, and it would tumble up in clouds and get into my nose and make me sneeze and cry; and of course I said things I oughtn't to have said, I don't deny that. I am not better than others.\n\nWe couldn't seem to meet anybody in this lonesome Britain, not even an ogre; and, in the mood I was in then, it was well for the ogre; that is, an ogre with a handkerchief. Most knights would have thought of nothing but getting his armor; but so I got his bandanna, he could keep his hardware, for all of me.\n\nMeantime, it was getting hotter and hotter in there. You see, the sun was beating down and warming up the iron more and more all the time. Well, when you are hot, that way, every little thing irritates you. When I trotted, I rattled like a crate of dishes, and that annoyed me; and moreover I couldn't seem to stand that shield slatting and banging, now about my breast, now around my back; and if I dropped into a walk my joints creaked and screeched in that wearisome way that a wheelbarrow does, and as we didn't create any breeze at that gait, I was like to get fried in that stove; and besides, the quieter you went the heavier the iron settled down on you and the more and more tons you seemed to weigh every minute."
+      },
+      "request_id": "fe2c036344806b41fa9c7039",
+      "request_sha256": "e194b2f1d7cccd927232357717a18fa9a988e310107587adfc3b99d0637faf01",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9c29071d207a292bd5ac1ba872ac7f228c47f3020a18e7bf30d7f9dc1b10f87c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9d6d187a19ca7fc83141d95e",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_austen_emma_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 9d6d187a19ca7fc83141d95e\noriginal_word_count: 481\n\nPassage:\nShe would be such a delightful companion for Emma.”\n\nMr. Woodhouse agreed to it all, but added,\n\n“Our little friend Harriet Smith, however, is just such another pretty kind of young person. You will like Harriet. Emma could not have a better companion than Harriet.”\n\n“I am most happy to hear it—but only Jane Fairfax one knows to be so very accomplished and superior!—and exactly Emma’s age.”\n\nThis topic was discussed very happily, and others succeeded of similar moment, and passed away with similar harmony; but the evening did not close without a little return of agitation. The gruel came and supplied a great deal to be said—much praise and many comments—undoubting decision of its wholesomeness for every constitution, and pretty severe Philippics upon the many houses where it was never met with tolerably;—but, unfortunately, among the failures which the daughter had to instance, the most recent, and therefore most prominent, was in her own cook at South End, a young woman hired for the time, who never had been able to understand what she meant by a basin of nice smooth gruel, thin, but not too thin. Often as she had wished for and ordered it, she had never been able to get any thing tolerable. Here was a dangerous opening.\n\n“Ah!” said Mr. Woodhouse, shaking his head and fixing his eyes on her with tender concern.—The ejaculation in Emma’s ear expressed, “Ah! there is no end of the sad consequences of your going to South End. It does not bear talking of.” And for a little while she hoped he would not talk of it, and that a silent rumination might suffice to restore him to the relish of his own smooth gruel. After an interval of some minutes, however, he began with,\n\n“I shall always be very sorry that you went to the sea this autumn, instead of coming here.”\n\n“But why should you be sorry, sir?—I assure you, it did the children a great deal of good.”\n\n“And, moreover, if you must go to the sea, it had better not have been to South End. South End is an unhealthy place. Perry was surprized to hear you had fixed upon South End.”\n\n“I know there is such an idea with many people, but indeed it is quite a mistake, sir.—We all had our health perfectly well there, never found the least inconvenience from the mud; and Mr. Wingfield says it is entirely a mistake to suppose the place unhealthy; and I am sure he may be depended on, for he thoroughly understands the nature of the air, and his own brother and family have been there repeatedly.”\n\n“You should have gone to Cromer, my dear, if you went anywhere.—Perry was a week at Cromer once, and he holds it to be the best of all the sea-bathing places."
+      },
+      "request_id": "9d6d187a19ca7fc83141d95e",
+      "request_sha256": "773a18a9704a2cb9768eece2997444d75114699fab152760d99f1d4f560ef582",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a0907584f5ad937a7c9301ebe9839a47d1b2e75f6eb567f4406177f4d85f0118"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "adb92c6ed094b2b6b4982e40",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_wilde_canterville_ghost_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: adb92c6ed094b2b6b4982e40\noriginal_word_count: 452\n\nPassage:\nMany American ladies on leaving their native land adopt an appearance of chronic ill-health, under the impression that it is a form of European refinement, but Mrs. Otis had never fallen into this error. She had a magnificent constitution, and a really wonderful amount of animal spirits. Indeed, in many respects, she was quite English, and was an excellent example of the fact that we have really everything in common with America nowadays, except, of course, language. Her eldest son, christened Washington by his parents in a moment of patriotism, which he never ceased to regret, was a fair-haired, rather good-looking young man, who had qualified himself for American diplomacy by leading the German at the Newport Casino for three successive seasons, and even in London was well known as an excellent dancer. Gardenias and the peerage were his only weaknesses. Otherwise he was extremely sensible. Miss Virginia E. Otis was a little girl of fifteen, lithe and lovely as a fawn, and with a fine freedom in her large blue eyes. She was a wonderful amazon, and had once raced old Lord Bilton on her pony twice round the park, winning by a length and a half, just in front of the Achilles statue, to the huge delight of the young Duke of Cheshire, who proposed for her on the spot, and was sent back to Eton that very night by his guardians, in floods of tears. After Virginia came the twins, who were usually called ‘The Stars and Stripes,’ as they were always getting swished. They were delightful boys, and with the exception of the worthy Minister the only true republicans of the family.\n\nAs Canterville Chase is seven miles from Ascot, the nearest railway station, Mr. Otis had telegraphed for a waggonette to meet them, and they started on their drive in high spirits. It was a lovely July evening, and the air was delicate with the scent of the pine-woods. Now and then they heard a wood pigeon brooding over its own sweet voice, or saw, deep in the rustling fern, the burnished breast of the pheasant. Little squirrels peered at them from the beech-trees as they went by, and the rabbits scudded away through the brushwood and over the mossy knolls, with their white tails in the air. As they entered the avenue of Canterville Chase, however, the sky became suddenly overcast with clouds, a curious stillness seemed to hold the atmosphere, a great flight of rooks passed silently over their heads, and, before they reached the house, some big drops of rain had fallen.\n\nStanding on the steps to receive them was an old woman, neatly dressed in black silk, with a white cap and apron."
+      },
+      "request_id": "adb92c6ed094b2b6b4982e40",
+      "request_sha256": "b4e0911545ee2325b295878c670f3f2f2d28448ba4577c8bea2ec118742d1f24",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6837fead73c95d837c3af7d786fbacafb433408c3e1cf713bf2bd4cc87965d05"
+    }
+  ],
+  "session_id": "01a0e852-0aa6-7ae2-9bb7-b4f8a3387e53",
+  "worker_id": "astra_p",
+  "worker_identity_sha256": "afd3aba6357fe2ec9c9b6492844a9baccd6099faafc29ba8f935f467e4f98adf"
+}

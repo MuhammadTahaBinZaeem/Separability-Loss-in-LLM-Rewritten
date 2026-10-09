@@ -1,0 +1,68 @@
+{
+  "batch_id": "73c45f7c52e1d6658fae",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:49:49.054591+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "29a3d95c9b19db8e643de1c0",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_poe_the_gold_bug_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 29a3d95c9b19db8e643de1c0\noriginal_word_count: 454\n\nPassage:\nHis demeanor was dogged in the extreme, and “dat deuced bug” were the sole words which escaped his lips during the journey. For my own part, I had charge of a couple of dark lanterns, while Legrand contented himself with the _scarabæus_, which he carried attached to the end of a bit of whip-cord; twirling it to and fro, with the air of a conjuror, as he went. When I observed this last, plain evidence of my friend’s aberration of mind, I could scarcely refrain from tears. I thought it best, however, to humor his fancy, at least for the present, or until I could adopt some more energetic measures with a chance of success. In the mean time I endeavored, but all in vain, to sound him in regard to the object of the expedition. Having succeeded in inducing me to accompany him, he seemed unwilling to hold conversation upon any topic of minor importance, and to all my questions vouchsafed no other reply than “we shall see!”\n\nWe crossed the creek at the head of the island by means of a skiff, and, ascending the high grounds on the shore of the main land, proceeded in a northwesterly direction, through a tract of country excessively wild and desolate, where no trace of a human footstep was to be seen. Legrand led the way with decision; pausing only for an instant, here and there, to consult what appeared to be certain landmarks of his own contrivance upon a former occasion.\n\nIn this manner we journeyed for about two hours, and the sun was just setting when we entered a region infinitely more dreary than any yet seen. It was a species of table land, near the summit of an almost inaccessible hill, densely wooded from base to pinnacle, and interspersed with huge crags that appeared to lie loosely upon the soil, and in many cases were prevented from precipitating themselves into the valleys below, merely by the support of the trees against which they reclined. Deep ravines, in various directions, gave an air of still sterner solemnity to the scene.\n\nThe natural platform to which we had clambered was thickly overgrown with brambles, through which we soon discovered that it would have been impossible to force our way but for the scythe; and Jupiter, by direction of his master, proceeded to clear for us a path to the foot of an enormously tall tulip-tree, which stood, with some eight or ten oaks, upon the level, and far surpassed them all, and all other trees which I had then ever seen, in the beauty of its foliage and form, in the wide spread of its branches, and in the general majesty of its appearance."
+      },
+      "request_id": "29a3d95c9b19db8e643de1c0",
+      "request_sha256": "c3d6958c9b1a00ad457f03e5f20bb334907d7a323ad5b3086bd74895da18eb63",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "01b7209125dc641f223af9e432fd0d99e694366ff4b9d82a22caf2b07515e530"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5787477a4b32ac412d9d8110",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 478,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 5787477a4b32ac412d9d8110\noriginal_word_count: 478\n\nPassage:\nI am very ignorant, and it troubles me--just a little.”\n\n“Tell me what it is.”\n\n“I have a cousin, an only relative and an orphan, like myself, whom I love very dearly. She is five years younger than I, and she lives in a farmer’s house in the south country. Poverty parted us, and she knows nothing of my fate--for I cannot write--and if I could, how should I tell her! It is better as it is.”\n\n“Yes, yes: better as it is.”\n\n“What I have been thinking as we came along, and what I am still thinking now, as I look into your kind strong face which gives me so much support, is this:--If the Republic really does good to the poor, and they come to be less hungry, and in all ways to suffer less, she may live a long time: she may even live to be old.”\n\n“What then, my gentle sister?”\n\n“Do you think:” the uncomplaining eyes in which there is so much endurance, fill with tears, and the lips part a little more and tremble: “that it will seem long to me, while I wait for her in the better land where I trust both you and I will be mercifully sheltered?”\n\n“It cannot be, my child; there is no Time there, and no trouble there.”\n\n“You comfort me so much! I am so ignorant. Am I to kiss you now? Is the moment come?”\n\n“Yes.”\n\nShe kisses his lips; he kisses hers; they solemnly bless each other. The spare hand does not tremble as he releases it; nothing worse than a sweet, bright constancy is in the patient face. She goes next before him--is gone; the knitting-women count Twenty-Two.\n\n“I am the Resurrection and the Life, saith the Lord: he that believeth in me, though he were dead, yet shall he live: and whosoever liveth and believeth in me shall never die.”\n\nThe murmuring of many voices, the upturning of many faces, the pressing on of many footsteps in the outskirts of the crowd, so that it swells forward in a mass, like one great heave of water, all flashes away. Twenty-Three.\n\n*****\n\nThey said of him, about the city that night, that it was the peacefullest man’s face ever beheld there. Many added that he looked sublime and prophetic.\n\nOne of the most remarkable sufferers by the same axe--a woman--had asked at the foot of the same scaffold, not long before, to be allowed to write down the thoughts that were inspiring her. If he had given any utterance to his, and they were prophetic, they would have been these:\n\n“I see Barsad, and Cly, Defarge, The Vengeance, the Juryman, the Judge, long ranks of the new oppressors who have risen on the destruction of the old, perishing by this retributive instrument, before it shall cease out of its present use."
+      },
+      "request_id": "5787477a4b32ac412d9d8110",
+      "request_sha256": "9029ab0863736b5902f00a3d90e283aea0a3c61c2ec870c865ce5c1ce78b188b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "954376e1cca18d8a87f0e5ec097fb5d4df300362ffd3b40268da6303b2a12ffc"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "58bce18fd4cef334bbe627c2",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_wilde_canterville_ghost_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 58bce18fd4cef334bbe627c2\noriginal_word_count: 459\n\nPassage:\nA FEW days after this, Virginia and her curly-haired cavalier went out riding on Brockley meadows, where she tore her habit so badly in getting through a hedge, that, on her return home, she made up her mind to go up by the back staircase so as not to be seen. As she was running past the Tapestry Chamber, the door of which happened to be open, she fancied she saw some one inside, and thinking it was her mother’s maid, who sometimes used to bring her work there, looked in to ask her to mend her habit. To her immense surprise, however, it was the Canterville Ghost himself! He was sitting by the window, watching the ruined gold of the yellowing trees fly through the air, and the red leaves dancing madly down the long avenue. His head was leaning on his hand, and his whole attitude was one of extreme depression. Indeed, so forlorn, and so much out of repair did he look, that little Virginia, whose first idea had been to run away and lock herself in her room, was filled with pity, and determined to try and comfort him. So light was her footfall, and so deep his melancholy, that he was not aware of her presence till she spoke to him.\n\n‘I am so sorry for you,’ she said, ‘but my brothers are going back to Eton to-morrow, and then, if you behave yourself, no one will annoy you.’\n\n‘It is absurd asking me to behave myself,’ he answered, looking round in astonishment at the pretty little girl who had ventured to address him, ‘quite absurd. I must rattle my chains, and groan through keyholes, and walk about at night, if that is what you mean. It is my only reason for existing.’\n\n‘It is no reason at all for existing, and you know you have been very wicked. Mrs. Umney told us, the first day we arrived here, that you had killed your wife.’\n\n‘Well, I quite admit it,’ said the Ghost petulantly, ‘but it was a purely family matter, and concerned no one else.’\n\n‘It is very wrong to kill any one,’ said Virginia, who at times had a sweet Puritan gravity, caught from some old New England ancestor.\n\n‘Oh, I hate the cheap severity of abstract ethics! My wife was very plain, never had my ruffs properly starched, and knew nothing about cookery. Why, there was a buck I had shot in Hogley Woods, a magnificent pricket, and do you know how she had it sent up to table? However, it is no matter now, for it is all over, and I don’t think it was very nice of her brothers to starve me to death, though I did kill her.’"
+      },
+      "request_id": "58bce18fd4cef334bbe627c2",
+      "request_sha256": "fd8325f270f49c6cd739bfe1d28e41261c5813aa099a4b42835f4bfa01e7aa33",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "24e8c85196f6dc968c7398d1708868291330edf0851a924c89ad57201dea4c2e"
+    }
+  ],
+  "session_id": "01a0e876-83f7-78a1-b9d1-9e5cfb4d9073",
+  "worker_id": "astra_z",
+  "worker_identity_sha256": "3c518323fe65160b33818c8fecefe8b58d18bebfd64f52e04e66f555b7fdddb7"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "34fb6ef90e726a1ce1f7",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:12:54.857742+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7612dd25ac97a90540a330fe",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_wilde_dorian_gray_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 7612dd25ac97a90540a330fe\noriginal_word_count: 453\n\nPassage:\n“They must interest you, Dorian. Every gentleman is interested in his good name. You don’t want people to talk of you as something vile and degraded. Of course, you have your position, and your wealth, and all that kind of thing. But position and wealth are not everything. Mind you, I don’t believe these rumours at all. At least, I can’t believe them when I see you. Sin is a thing that writes itself across a man’s face. It cannot be concealed. People talk sometimes of secret vices. There are no such things. If a wretched man has a vice, it shows itself in the lines of his mouth, the droop of his eyelids, the moulding of his hands even. Somebody—I won’t mention his name, but you know him—came to me last year to have his portrait done. I had never seen him before, and had never heard anything about him at the time, though I have heard a good deal since. He offered an extravagant price. I refused him. There was something in the shape of his fingers that I hated. I know now that I was quite right in what I fancied about him. His life is dreadful. But you, Dorian, with your pure, bright, innocent face, and your marvellous untroubled youth—I can’t believe anything against you. And yet I see you very seldom, and you never come down to the studio now, and when I am away from you, and I hear all these hideous things that people are whispering about you, I don’t know what to say. Why is it, Dorian, that a man like the Duke of Berwick leaves the room of a club when you enter it? Why is it that so many gentlemen in London will neither go to your house or invite you to theirs? You used to be a friend of Lord Staveley. I met him at dinner last week. Your name happened to come up in conversation, in connection with the miniatures you have lent to the exhibition at the Dudley. Staveley curled his lip and said that you might have the most artistic tastes, but that you were a man whom no pure-minded girl should be allowed to know, and whom no chaste woman should sit in the same room with. I reminded him that I was a friend of yours, and asked him what he meant. He told me. He told me right out before everybody. It was horrible! Why is your friendship so fatal to young men? There was that wretched boy in the Guards who committed suicide. You were his great friend. There was Sir Henry Ashton, who had to leave England with a tarnished name."
+      },
+      "request_id": "7612dd25ac97a90540a330fe",
+      "request_sha256": "d4dc26534f49c4f0f46fa564780aa5b272addc72db85750cf89480010ab69290",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ebfe5d2c013c956bc041c1b70936a88e1a500f1e67d372520efdf7574ca8b6fe"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "79cad399e02b07797dabb5db",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_wilde_canterville_ghost_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 79cad399e02b07797dabb5db\noriginal_word_count: 459\n\nPassage:\nI am also informed by Mrs. Otis, who, I may say, is no mean authority upon Art—having had the privilege of spending several winters in Boston when she was a girl—that these gems are of great monetary worth, and if offered for sale would fetch a tall price. Under these circumstances, Lord Canterville, I feel sure that you will recognise how impossible it would be for me to allow them to remain in the possession of any member of my family; and, indeed, all such vain gauds and toys, however suitable or necessary to the dignity of the British aristocracy, would be completely out of place among those who have been brought up on the severe, and I believe immortal, principles of republican simplicity. Perhaps I should mention that Virginia is very anxious that you should allow her to retain the box as a memento of your unfortunate but misguided ancestor. As it is extremely old, and consequently a good deal out of repair, you may perhaps think fit to comply with her request. For my own part, I confess I am a good deal surprised to find a child of mine expressing sympathy with mediævalism in any form, and can only account for it by the fact that Virginia was born in one of your London suburbs shortly after Mrs. Otis had returned from a trip to Athens.’\n\nLord Canterville listened very gravely to the worthy Minister’s speech, pulling his grey moustache now and then to hide an involuntary smile, and when Mr. Otis had ended, he shook him cordially by the hand, and said, ‘My dear sir, your charming little daughter rendered my unlucky ancestor, Sir Simon, a very important service, and I and my family are much indebted to her for her marvellous courage and pluck. The jewels are clearly hers, and, egad, I believe that if I were heartless enough to take them from her, the wicked old fellow would be out of his grave in a fortnight, leading me the devil of a life. As for their being heirlooms, nothing is an heirloom that is not so mentioned in a will or legal document, and the existence of these jewels has been quite unknown. I assure you I have no more claim on them than your butler, and when Miss Virginia grows up I daresay she will be pleased to have pretty things to wear. Besides, you forget, Mr. Otis, that you took the furniture and the ghost at a valuation, and anything that belonged to the ghost passed at once into your possession, as, whatever activity Sir Simon may have shown in the corridor at night, in point of law he was really dead, and you acquired his property by purchase.’"
+      },
+      "request_id": "79cad399e02b07797dabb5db",
+      "request_sha256": "ce647e0149e1714638b55964fc90c9830137ad24e23e0d1839375314bda14c84",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7dc8f78089686c7dab8a58719cf3d5fdcb455ec881bf0fc59d893a5431139487"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9d02f74c8ccb30ddf362d1ae",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_shelley_the_last_man_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 9d02f74c8ccb30ddf362d1ae\noriginal_word_count: 452\n\nPassage:\nPerdita’s name was not mentioned; yet I could not doubt that love for her caused the vacillation of purpose that he exhibited. And who was so worthy of love as my noble-minded sister? Who deserved the hand of this self-exalted king more than she whose glance belonged to a queen of nations? who loved him, as he did her; notwithstanding that disappointment quelled her passion, and ambition held strong combat with his.\n\nWe went together to the House in the evening. Raymond, while he knew that his plans and prospects were to be discussed and decided during the expected debate, was gay and careless. An hum, like that of ten thousand hives of swarming bees, stunned us as we entered the coffee-room. Knots of politicians were assembled with anxious brows and loud or deep voices. The aristocratical party, the richest and most influential men in England, appeared less agitated than the others, for the question was to be discussed without their interference. Near the fire was Ryland and his supporters. Ryland was a man of obscure birth and of immense wealth, inherited from his father, who had been a manufacturer. He had witnessed, when a young man, the abdication of the king, and the amalgamation of the two houses of Lords and Commons; he had sympathized with these popular encroachments, and it had been the business of his life to consolidate and encrease them. Since then, the influence of the landed proprietors had augmented; and at first Ryland was not sorry to observe the machinations of Lord Raymond, which drew off many of his opponent’s partizans. But the thing was now going too far. The poorer nobility hailed the return of sovereignty, as an event which would restore them to their power and rights, now lost. The half extinct spirit of royalty roused itself in the minds of men; and they, willing slaves, self-constituted subjects, were ready to bend their necks to the yoke. Some erect and manly spirits still remained, pillars of state; but the word republic had grown stale to the vulgar ear; and many—the event would prove whether it was a majority— pined for the tinsel and show of royalty. Ryland was roused to resistance; he asserted that his sufferance alone had permitted the encrease of this party; but the time for indulgence was passed, and with one motion of his arm he would sweep away the cobwebs that blinded his countrymen.\n\nWhen Raymond entered the coffee-room, his presence was hailed by his friends almost with a shout. They gathered round him, counted their numbers, and detailed the reasons why they were now to receive an addition of such and such members, who had not yet declared themselves."
+      },
+      "request_id": "9d02f74c8ccb30ddf362d1ae",
+      "request_sha256": "e64678c63f97656726fb7dd9fb4878efbefc071a798082bb3aad9dea1c569ffd",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e2f37157d5b71b1838ab116281482e43dbf1c2e0b51c9fa74f0be9ec2825f15b"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

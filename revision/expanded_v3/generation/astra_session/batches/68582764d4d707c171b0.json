@@ -1,0 +1,68 @@
+{
+  "batch_id": "68582764d4d707c171b0",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:26:07.448512+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1547d0384515721a24e8e455",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 515,
+      "passage_id": "V2_twain_huckleberry_finn_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 1547d0384515721a24e8e455\noriginal_word_count: 515\n\nPassage:\nThey was fetching a very nice-looking old gentleman along, and a nice-looking younger one, with his right arm in a sling. And, my souls, how the people yelled and laughed, and kept it up. But I didn’t see no joke about it, and I judged it would strain the duke and the king some to see any. I reckoned they’d turn pale. But no, nary a pale did _they_ turn. The duke he never let on he suspicioned what was up, but just went a goo-gooing around, happy and satisfied, like a jug that’s googling out buttermilk; and as for the king, he just gazed and gazed down sorrowful on them new-comers like it give him the stomach-ache in his very heart to think there could be such frauds and rascals in the world. Oh, he done it admirable. Lots of the principal people gethered around the king, to let him see they was on his side. That old gentleman that had just come looked all puzzled to death. Pretty soon he begun to speak, and I see straight off he pronounced _like_ an Englishman—not the king’s way, though the king’s _was_ pretty good for an imitation. I can’t give the old gent’s words, nor I can’t imitate him; but he turned around to the crowd, and says, about like this:\n\n“This is a surprise to me which I wasn’t looking for; and I’ll acknowledge, candid and frank, I ain’t very well fixed to meet it and answer it; for my brother and me has had misfortunes; he’s broke his arm, and our baggage got put off at a town above here last night in the night by a mistake. I am Peter Wilks’ brother Harvey, and this is his brother William, which can’t hear nor speak—and can’t even make signs to amount to much, now’t he’s only got one hand to work them with. We are who we say we are; and in a day or two, when I get the baggage, I can prove it. But up till then I won’t say nothing more, but go to the hotel and wait.”\n\nSo him and the new dummy started off; and the king he laughs, and blethers out:\n\n“Broke his arm—_very_ likely, _ain’t_ it?—and very convenient, too, for a fraud that’s got to make signs, and ain’t learnt how. Lost their baggage! That’s _mighty_ good!—and mighty ingenious—under the _circumstances!_”\n\nSo he laughed again; and so did everybody else, except three or four, or maybe half a dozen. One of these was that doctor; another one was a sharp-looking gentleman, with a carpet-bag of the old-fashioned kind made out of carpet-stuff, that had just come off of the steamboat and was talking to him in a low voice, and glancing towards the king now and then and nodding their heads—it was Levi Bell, the lawyer that was gone up to Louisville; and another one was a big rough husky that come along and listened to all the old gentleman said, and was listening to the king now."
+      },
+      "request_id": "1547d0384515721a24e8e455",
+      "request_sha256": "2c3eabe04f0b35508c587565601c1c7f842b26b6e0de62966835cf7595781948",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4a1bfb992082ab15545fe3ca8d14aabd15cb98324e8268b141284bd2eecbbffd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7a4d89ad1de2b0033a919613",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_shelley_the_last_man_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 7a4d89ad1de2b0033a919613\noriginal_word_count: 470\n\nPassage:\nYet even now I had not drunk the bitter potion to the dregs; I was not yet persuaded of my loss; I did not yet feel in every pulsation, in every nerve, in every thought, that I remained alone of my race,—that I was the LAST MAN.\n\nThe day had clouded over, and a drizzling rain set in at sunset. Even the eternal skies weep, I thought; is there any shame then, that mortal man should spend himself in tears? I remembered the ancient fables, in which human beings are described as dissolving away through weeping into ever-gushing fountains. Ah! that so it were; and then my destiny would be in some sort akin to the watery death of Adrian and Clara. Oh! grief is fantastic; it weaves a web on which to trace the history of its woe from every form and change around; it incorporates itself with all living nature; it finds sustenance in every object; as light, it fills all things, and, like light, it gives its own colours to all.\n\nI had wandered in my search to some distance from the spot on which I had been cast, and came to one of those watch-towers, which at stated distances line the Italian shore. I was glad of shelter, glad to find a work of human hands, after I had gazed so long on nature’s drear barrenness; so I entered, and ascended the rough winding staircase into the guard-room. So far was fate kind, that no harrowing vestige remained of its former inhabitants; a few planks laid across two iron tressels, and strewed with the dried leaves of Indian corn, was the bed presented to me; and an open chest, containing some half mouldered biscuit, awakened an appetite, which perhaps existed before, but of which, until now, I was not aware. Thirst also, violent and parching, the result of the sea-water I had drank, and of the exhaustion of my frame, tormented me. Kind nature had gifted the supply of these wants with pleasurable sensations, so that I—even I!—was refreshed and calmed, as I ate of this sorry fare, and drank a little of the sour wine which half filled a flask left in this abandoned dwelling. Then I stretched myself on the bed, not to be disdained by the victim of shipwreck. The earthy smell of the dried leaves was balm to my sense after the hateful odour of sea-weed. I forgot my state of loneliness. I neither looked backward nor forward; my senses were hushed to repose; I fell asleep and dreamed of all dear inland scenes, of hay-makers, of the shepherd’s whistle to his dog, when he demanded his help to drive the flock to fold; of sights and sounds peculiar to my boyhood’s mountain life, which I had long forgotten."
+      },
+      "request_id": "7a4d89ad1de2b0033a919613",
+      "request_sha256": "f3fc9e69657d96c0e9ab469a0c99714bb288c9d37f30bc4194e3df2c4bbe681d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7746ea6396a882c7284f4dcdca09d8d0a394b648e31c809ae8b4d0781faeb4db"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b64ec2867c909788878e203b",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: b64ec2867c909788878e203b\noriginal_word_count: 473\n\nPassage:\n‘Good heavens!’ said the Duchess to herself, ‘he is a sort of cheiropodist after all. How very dreadful. I hope he is a foreigner at any rate. It wouldn’t be quite so bad then.’\n\n‘I must certainly introduce him to you.’\n\n‘Introduce him!’ cried the Duchess; ‘you don’t mean to say he is here?’ and she began looking about for a small tortoise-shell fan and a very tattered lace shawl, so as to be ready to go at a moment’s notice.\n\n‘Of course he is here; I would not dream of giving a party without him. He tells me I have a pure psychic hand, and that if my thumb had been the least little bit shorter, I should have been a confirmed pessimist, and gone into a convent.’\n\n‘Oh, I see!’ said the Duchess, feeling very much relieved; ‘he tells fortunes, I suppose?’\n\n‘And misfortunes, too,’ answered Lady Windermere, ‘any amount of them. Next year, for instance, I am in great danger, both by land and sea, so I am going to live in a balloon, and draw up my dinner in a basket every evening. It is all written down on my little finger, or on the palm of my hand, I forget which.’\n\n‘But surely that is tempting Providence, Gladys.’\n\n‘My dear Duchess, surely Providence can resist temptation by this time. I think every one should have their hands told once a month, so as to know what not to do. Of course, one does it all the same, but it is so pleasant to be warned. Now if some one doesn’t go and fetch Mr. Podgers at once, I shall have to go myself.’\n\n‘Let me go, Lady Windermere,’ said a tall handsome young man, who was standing by, listening to the conversation with an amused smile.\n\n‘Thanks so much, Lord Arthur; but I am afraid you wouldn’t recognise him.’\n\n‘If he is as wonderful as you say, Lady Windermere, I couldn’t well miss him. Tell me what he is like, and I’ll bring him to you at once.’\n\n‘Well, he is not a bit like a cheiromantist. I mean he is not mysterious, or esoteric, or romantic-looking. He is a little, stout man, with a funny, bald head, and great gold-rimmed spectacles; something between a family doctor and a country attorney. I’m really very sorry, but it is not my fault. People are so annoying. All my pianists look exactly like poets, and all my poets look exactly like pianists; and I remember last season asking a most dreadful conspirator to dinner, a man who had blown up ever so many people, and always wore a coat of mail, and carried a dagger up his shirt-sleeve; and do you know that when he came he looked just like a nice old clergyman, and cracked jokes all the evening?"
+      },
+      "request_id": "b64ec2867c909788878e203b",
+      "request_sha256": "4c32ad1c5e63272962208a2bc145eac1b423a8683b2fc8a44ba80dda2d241aad",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "896cb3a6d9707db1072555faec966e5a37999c8696de2e2ec4bd5ff4ea951905"
+    }
+  ],
+  "session_id": "01a0e861-03f8-7221-8672-8e262e9ebfc7",
+  "worker_id": "astra_t",
+  "worker_identity_sha256": "c223dffc33181152e7b2fea39b5f4b9f77c7ee2ed9647b0e46dbc4f2b2b1711f"
+}

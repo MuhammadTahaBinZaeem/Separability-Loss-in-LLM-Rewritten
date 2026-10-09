@@ -1,0 +1,68 @@
+{
+  "batch_id": "7f3c04fccdd6debd89ec",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:56:50.349783+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d3992a8e92ed8c0842f5ab9c",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_twain_huckleberry_finn_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: d3992a8e92ed8c0842f5ab9c\noriginal_word_count: 459\n\nPassage:\nWell, three or four months run along, and it was well into the winter now. I had been to school most all the time and could spell and read and write just a little, and could say the multiplication table up to six times seven is thirty-five, and I don’t reckon I could ever get any further than that if I was to live forever. I don’t take no stock in mathematics, anyway.\n\nAt first I hated the school, but by-and-by I got so I could stand it. Whenever I got uncommon tired I played hookey, and the hiding I got next day done me good and cheered me up. So the longer I went to school the easier it got to be. I was getting sort of used to the widow’s ways, too, and they warn’t so raspy on me. Living in a house and sleeping in a bed pulled on me pretty tight mostly, but before the cold weather I used to slide out and sleep in the woods sometimes, and so that was a rest to me. I liked the old ways best, but I was getting so I liked the new ones, too, a little bit. The widow said I was coming along slow but sure, and doing very satisfactory. She said she warn’t ashamed of me.\n\nOne morning I happened to turn over the salt-cellar at breakfast. I reached for some of it as quick as I could to throw over my left shoulder and keep off the bad luck, but Miss Watson was in ahead of me, and crossed me off. She says, “Take your hands away, Huckleberry; what a mess you are always making!” The widow put in a good word for me, but that warn’t going to keep off the bad luck, I knowed that well enough. I started out, after breakfast, feeling worried and shaky, and wondering where it was going to fall on me, and what it was going to be. There is ways to keep off some kinds of bad luck, but this wasn’t one of them kind; so I never tried to do anything, but just poked along low-spirited and on the watch-out.\n\nI went down to the front garden and clumb over the stile where you go through the high board fence. There was an inch of new snow on the ground, and I seen somebody’s tracks. They had come up from the quarry and stood around the stile a while, and then went on around the garden fence. It was funny they hadn’t come in, after standing around so. I couldn’t make it out. It was very curious, somehow. I was going to follow around, but I stooped down to look at the tracks first."
+      },
+      "request_id": "d3992a8e92ed8c0842f5ab9c",
+      "request_sha256": "8cc834f4b00e6cd3f4247409d6b9407a24f5574840561a32c85aa88646e9bc79",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2ce1a9bfa67b900970e368028ff6d62855ac842b969628c5de66ae2b3d5b0a94"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "fa89cbeaaf2212962ac40016",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 467,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: fa89cbeaaf2212962ac40016\noriginal_word_count: 467\n\nPassage:\n“I will be submissive to you. I see in your face that you know I can do nothing else than this. I know you are true.”\n\nThe old man kissed her, and hurried her into his room, and turned the key; then, came hurrying back to the Doctor, and opened the window and partly opened the blind, and put his hand upon the Doctor’s arm, and looked out with him into the courtyard.\n\nLooked out upon a throng of men and women: not enough in number, or near enough, to fill the courtyard: not more than forty or fifty in all. The people in possession of the house had let them in at the gate, and they had rushed in to work at the grindstone; it had evidently been set up there for their purpose, as in a convenient and retired spot.\n\nBut, such awful workers, and such awful work!\n\nThe grindstone had a double handle, and, turning at it madly were two men, whose faces, as their long hair flapped back when the whirlings of the grindstone brought their faces up, were more horrible and cruel than the visages of the wildest savages in their most barbarous disguise. False eyebrows and false moustaches were stuck upon them, and their hideous countenances were all bloody and sweaty, and all awry with howling, and all staring and glaring with beastly excitement and want of sleep. As these ruffians turned and turned, their matted locks now flung forward over their eyes, now flung backward over their necks, some women held wine to their mouths that they might drink; and what with dropping blood, and what with dropping wine, and what with the stream of sparks struck out of the stone, all their wicked atmosphere seemed gore and fire. The eye could not detect one creature in the group free from the smear of blood. Shouldering one another to get next at the sharpening-stone, were men stripped to the waist, with the stain all over their limbs and bodies; men in all sorts of rags, with the stain upon those rags; men devilishly set off with spoils of women’s lace and silk and ribbon, with the stain dyeing those trifles through and through. Hatchets, knives, bayonets, swords, all brought to be sharpened, were all red with it. Some of the hacked swords were tied to the wrists of those who carried them, with strips of linen and fragments of dress: ligatures various in kind, but all deep of the one colour. And as the frantic wielders of these weapons snatched them from the stream of sparks and tore away into the streets, the same red hue was red in their frenzied eyes;--eyes which any unbrutalised beholder would have given twenty years of life, to petrify with a well-directed gun."
+      },
+      "request_id": "fa89cbeaaf2212962ac40016",
+      "request_sha256": "b3b4118d32b7c9bc76f424918bdc1f866a044852c402765f886ef6107ef87825",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0861fa79451458000b794e53ffe8c33936dc34bb3895706d6025fbcee645ee1c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2bd55c1801bf9d69fee32ebb",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_twain_huckleberry_finn_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 2bd55c1801bf9d69fee32ebb\noriginal_word_count: 466\n\nPassage:\n“Yes, it is—and _I_ could a had it if I’d been big enough; I see him _first_. Who nailed him?”\n\n“It was an old fellow—a stranger—and he sold out his chance in him for forty dollars, becuz he’s got to go up the river and can’t wait. Think o’ that, now! You bet _I’d_ wait, if it was seven year.”\n\n“That’s me, every time,” says I. “But maybe his chance ain’t worth no more than that, if he’ll sell it so cheap. Maybe there’s something ain’t straight about it.”\n\n“But it _is_, though—straight as a string. I see the handbill myself. It tells all about him, to a dot—paints him like a picture, and tells the plantation he’s frum, below Newr_leans_. No-sirree-_bob_, they ain’t no trouble ’bout _that_ speculation, you bet you. Say, gimme a chaw tobacker, won’t ye?”\n\nI didn’t have none, so he left. I went to the raft, and set down in the wigwam to think. But I couldn’t come to nothing. I thought till I wore my head sore, but I couldn’t see no way out of the trouble. After all this long journey, and after all we’d done for them scoundrels, here it was all come to nothing, everything all busted up and ruined, because they could have the heart to serve Jim such a trick as that, and make him a slave again all his life, and amongst strangers, too, for forty dirty dollars.\n\nOnce I said to myself it would be a thousand times better for Jim to be a slave at home where his family was, as long as he’d _got_ to be a slave, and so I’d better write a letter to Tom Sawyer and tell him to tell Miss Watson where he was. But I soon give up that notion for two things: she’d be mad and disgusted at his rascality and ungratefulness for leaving her, and so she’d sell him straight down the river again; and if she didn’t, everybody naturally despises an ungrateful nigger, and they’d make Jim feel it all the time, and so he’d feel ornery and disgraced. And then think of _me!_ It would get all around that Huck Finn helped a nigger to get his freedom; and if I was ever to see anybody from that town again I’d be ready to get down and lick his boots for shame. That’s just the way: a person does a low-down thing, and then he don’t want to take no consequences of it. Thinks as long as he can hide it, it ain’t no disgrace. That was my fix exactly. The more I studied about this, the more my conscience went to grinding me, and the more wicked and low-down and ornery I got to feeling."
+      },
+      "request_id": "2bd55c1801bf9d69fee32ebb",
+      "request_sha256": "c0ec729e6198997249ec4ee43ecf25cd6a148cda91428550e724df0dd6dc8144",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "129a82c92524858eab208c1dd5a03153147e7a26b2ee8f7b69468f1bc2beee5c"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

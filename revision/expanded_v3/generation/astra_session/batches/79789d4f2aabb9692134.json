@@ -1,0 +1,68 @@
+{
+  "batch_id": "79789d4f2aabb9692134",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:04:36.554729+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2dc1f38d8e0b822d4596c7dd",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_dickens_great_expectations_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2dc1f38d8e0b822d4596c7dd\noriginal_word_count: 452\n\nPassage:\nThere was a delicious sense of cleaning-up and making a quiet pause before going on in life afresh, in our village on Saturday nights, which stimulated Joe to dare to stay out half an hour longer on Saturdays than at other times. The half-hour and the rum and water running out together, Joe got up to go, and took me by the hand.\n\n“Stop half a moment, Mr. Gargery,” said the strange man. “I think I’ve got a bright new shilling somewhere in my pocket, and if I have, the boy shall have it.”\n\nHe looked it out from a handful of small change, folded it in some crumpled paper, and gave it to me. “Yours!” said he. “Mind! Your own.”\n\nI thanked him, staring at him far beyond the bounds of good manners, and holding tight to Joe. He gave Joe good-night, and he gave Mr. Wopsle good-night (who went out with us), and he gave me only a look with his aiming eye,—no, not a look, for he shut it up, but wonders may be done with an eye by hiding it.\n\nOn the way home, if I had been in a humour for talking, the talk must have been all on my side, for Mr. Wopsle parted from us at the door of the Jolly Bargemen, and Joe went all the way home with his mouth wide open, to rinse the rum out with as much air as possible. But I was in a manner stupefied by this turning up of my old misdeed and old acquaintance, and could think of nothing else.\n\nMy sister was not in a very bad temper when we presented ourselves in the kitchen, and Joe was encouraged by that unusual circumstance to tell her about the bright shilling. “A bad un, I’ll be bound,” said Mrs. Joe triumphantly, “or he wouldn’t have given it to the boy! Let’s look at it.”\n\nI took it out of the paper, and it proved to be a good one. “But what’s this?” said Mrs. Joe, throwing down the shilling and catching up the paper. “Two One-Pound notes?”\n\nNothing less than two fat sweltering one-pound notes that seemed to have been on terms of the warmest intimacy with all the cattle-markets in the county. Joe caught up his hat again, and ran with them to the Jolly Bargemen to restore them to their owner. While he was gone, I sat down on my usual stool and looked vacantly at my sister, feeling pretty sure that the man would not be there.\n\nPresently, Joe came back, saying that the man was gone, but that he, Joe, had left word at the Three Jolly Bargemen concerning the notes."
+      },
+      "request_id": "2dc1f38d8e0b822d4596c7dd",
+      "request_sha256": "58bd936a7e5b42ef20478cb4dd86b1fbb316b33b2a1d69c60c301210c659904a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f8f0ebedd522d612c05a5feb51a38fd0b0069e77d2e1e9738092b08f25ea2137"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0e137ba3d5f219fc0fef2047",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 541,
+      "passage_id": "V2_twain_connecticut_yankee_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 0e137ba3d5f219fc0fef2047\noriginal_word_count: 541\n\nPassage:\nAnd Sir Arnold, and Sir Gauter, knights of the castle, encountered with Sir Brandiles and Sir Kay, and these four knights encountered mightily, and brake their spears to their hands. Then came Sir Pertolope from the castle, and there encountered with him Sir Lionel, and there Sir Pertolope the green knight smote down Sir Lionel, brother to Sir Launcelot. All this was marked by noble heralds, who bare him best, and their names. Then Sir Bleobaris brake his spear upon Sir Gareth, but of that stroke Sir Bleobaris fell to the earth. When Sir Galihodin saw that, he bad Sir Gareth keep him, and Sir Gareth smote him to the earth. Then Sir Galihud gat a spear to avenge his brother, and in the same wise Sir Gareth served him, and Sir Dinadan and his brother La Cote Male Taile, and Sir Sagramore le Disirous, and Sir Dodinas le Savage; all these he bare down with one spear. When King Aswisance of Ireland saw Sir Gareth fare so he marvelled what he might be, that one time seemed green, and another time, at his again coming, he seemed blue. And thus at every course that he rode to and fro he changed his color, so that there might neither king nor knight have ready cognizance of him. Then Sir Agwisance the King of Ireland encountered with Sir Gareth, and there Sir Gareth smote him from his horse, saddle and all. And then came King Carados of Scotland, and Sir Gareth smote him down horse and man. And in the same wise he served King Uriens of the land of Gore. And then there came in Sir Bagdemagus, and Sir Gareth smote him down horse and man to the earth. And Bagdemagus's son Meliganus brake a spear upon Sir Gareth mightily and knightly. And then Sir Galahault the noble prince cried on high, Knight with the many colors, well hast thou justed; now make thee ready that I may just with thee. Sir Gareth heard him, and he gat a great spear, and so they encountered together, and there the prince brake his spear; but Sir Gareth smote him upon the left side of the helm, that he reeled here and there, and he had fallen down had not his men recovered him. Truly, said King Arthur, that knight with the many colors is a good knight. Wherefore the king called unto him Sir Launcelot, and prayed him to encounter with that knight. Sir, said Launcelot, I may as well find in my heart for to forbear him at this time, for he hath had travail enough this day, and when a good knight doth so well upon some day, it is no good knight's part to let him of his worship, and, namely, when he seeth a knight hath done so great labour; for peradventure, said Sir Launcelot, his quarrel is here this day, and peradventure he is best beloved with this lady of all that be here, for I see well he paineth himself and enforceth him to do great deeds, and therefore, said Sir Launcelot, as for me, this day he shall have the honour; though it lay in my power to put him from it, I would not."
+      },
+      "request_id": "0e137ba3d5f219fc0fef2047",
+      "request_sha256": "788145906142b36e2152d827855a8d95233809037a1861d79b1dbb15a7c2f93e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f0b0481a941e93c198a9af924d6006900932e5d03d056dc284979a25aaf656c8"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7b3a3aaa41383efb0377a404",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 467,
+      "passage_id": "V2_dickens_oliver_twist_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 7b3a3aaa41383efb0377a404\noriginal_word_count: 467\n\nPassage:\nIt is due to the young lady to say that she did not positively affirm that she would not, but that she merely expressed an emphatic and earnest desire to be “blessed” if she would; a polite and delicate evasion of the request, which shows the young lady to have been possessed of that natural good breeding which cannot bear to inflict upon a fellow-creature, the pain of a direct and pointed refusal.\n\nThe Jew’s countenance fell. He turned from this young lady, who was gaily, not to say gorgeously attired, in a red gown, green boots, and yellow curl-papers, to the other female.\n\n“Nancy, my dear,” said the Jew in a soothing manner, “what do _you_ say?”\n\n“That it won’t do; so it’s no use a-trying it on, Fagin,” replied Nancy.\n\n“What do you mean by that?” said Mr. Sikes, looking up in a surly manner.\n\n“What I say, Bill,” replied the lady collectedly.\n\n“Why, you’re just the very person for it,” reasoned Mr. Sikes: “nobody about here knows anything of you.”\n\n“And as I don’t want ’em to, neither,” replied Nancy in the same composed manner, “it’s rather more no than yes with me, Bill.”\n\n“She’ll go, Fagin,” said Sikes.\n\n“No, she won’t, Fagin,” said Nancy.\n\n“Yes, she will, Fagin,” said Sikes.\n\nAnd Mr. Sikes was right. By dint of alternate threats, promises, and bribes, the lady in question was ultimately prevailed upon to undertake the commission. She was not, indeed, withheld by the same considerations as her agreeable friend; for, having recently removed into the neighborhood of Field Lane from the remote but genteel suburb of Ratcliffe, she was not under the same apprehension of being recognised by any of her numerous acquaintances.\n\nAccordingly, with a clean white apron tied over her gown, and her curl-papers tucked up under a straw bonnet,—both articles of dress being provided from the Jew’s inexhaustible stock,—Miss Nancy prepared to issue forth on her errand.\n\n“Stop a minute, my dear,” said the Jew, producing, a little covered basket. “Carry that in one hand. It looks more respectable, my dear.”\n\n“Give her a door-key to carry in her t’other one, Fagin,” said Sikes; “it looks real and genivine like.”\n\n“Yes, yes, my dear, so it does,” said the Jew, hanging a large street-door key on the forefinger of the young lady’s right hand. “There; very good! Very good indeed, my dear!” said the Jew, rubbing his hands.\n\n“Oh, my brother! My poor, dear, sweet, innocent little brother!” exclaimed Nancy, bursting into tears, and wringing the little basket and the street-door key in an agony of distress. “What has become of him! Where have they taken him to! Oh, do have pity, and tell me what’s been done with the dear boy, gentlemen; do, gentlemen, if you please, gentlemen!”"
+      },
+      "request_id": "7b3a3aaa41383efb0377a404",
+      "request_sha256": "f875690b7c1210b81755e8dc9e6f12a7cd8e2752e1036343dc2c9e90026a2d0f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0deed6e5da86005bff9912a4a3781dd43e1891602b24e661418ffeaf0a742afd"
+    }
+  ],
+  "session_id": "01a0e852-0aa6-7ae2-9bb7-b4f8a3387e53",
+  "worker_id": "astra_p",
+  "worker_identity_sha256": "afd3aba6357fe2ec9c9b6492844a9baccd6099faafc29ba8f935f467e4f98adf"
+}

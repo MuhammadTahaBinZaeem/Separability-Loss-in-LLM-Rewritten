@@ -1,0 +1,68 @@
+{
+  "batch_id": "da89f8566440de983b4d",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:32:01.097774+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3968de3d85a99c39450e512e",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_shelley_frankenstein_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 3968de3d85a99c39450e512e\noriginal_word_count: 451\n\nPassage:\nDuring my youthful days discontent never visited my mind, and if I was ever overcome by _ennui_, the sight of what is beautiful in nature or the study of what is excellent and sublime in the productions of man could always interest my heart and communicate elasticity to my spirits. But I am a blasted tree; the bolt has entered my soul; and I felt then that I should survive to exhibit what I shall soon cease to be—a miserable spectacle of wrecked humanity, pitiable to others and intolerable to myself.\n\nWe passed a considerable period at Oxford, rambling among its environs and endeavouring to identify every spot which might relate to the most animating epoch of English history. Our little voyages of discovery were often prolonged by the successive objects that presented themselves. We visited the tomb of the illustrious Hampden and the field on which that patriot fell. For a moment my soul was elevated from its debasing and miserable fears to contemplate the divine ideas of liberty and self-sacrifice of which these sights were the monuments and the remembrancers. For an instant I dared to shake off my chains and look around me with a free and lofty spirit, but the iron had eaten into my flesh, and I sank again, trembling and hopeless, into my miserable self.\n\nWe left Oxford with regret and proceeded to Matlock, which was our next place of rest. The country in the neighbourhood of this village resembled, to a greater degree, the scenery of Switzerland; but everything is on a lower scale, and the green hills want the crown of distant white Alps which always attend on the piny mountains of my native country. We visited the wondrous cave and the little cabinets of natural history, where the curiosities are disposed in the same manner as in the collections at Servox and Chamounix. The latter name made me tremble when pronounced by Henry, and I hastened to quit Matlock, with which that terrible scene was thus associated.\n\nFrom Derby, still journeying northwards, we passed two months in Cumberland and Westmorland. I could now almost fancy myself among the Swiss mountains. The little patches of snow which yet lingered on the northern sides of the mountains, the lakes, and the dashing of the rocky streams were all familiar and dear sights to me. Here also we made some acquaintances, who almost contrived to cheat me into happiness. The delight of Clerval was proportionably greater than mine; his mind expanded in the company of men of talent, and he found in his own nature greater capacities and resources than he could have imagined himself to have possessed while he associated with his inferiors."
+      },
+      "request_id": "3968de3d85a99c39450e512e",
+      "request_sha256": "0cdfd020a26f1adc394650e12171c917131235bde1524a45a9e55f416ecc3934",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9aaee15a1745722f0c72a88f1f84bc0dea489edf7a020b11c3eff72d4c5e833b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4a746e42a75e27db3ee6d4ea",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_wilde_canterville_ghost_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 4a746e42a75e27db3ee6d4ea\noriginal_word_count: 454\n\nPassage:\n‘Starve you to death? Oh, Mr. Ghost, I mean Sir Simon, are you hungry? I have a sandwich in my case. Would you like it?’\n\n‘No, thank you, I never eat anything now; but it is very kind of you, all the same, and you are much nicer than the rest of your horrid, rude, vulgar, dishonest family.’\n\n‘Stop!’ cried Virginia, stamping her foot, ‘it is you who are rude, and horrid, and vulgar, and as for dishonesty, you know you stole the paints out of my box to try and furbish up that ridiculous blood-stain in the library. First you took all my reds, including the vermilion, and I couldn’t do any more sunsets, then you took the emerald-green and the chrome-yellow, and finally I had nothing left but indigo and Chinese white, and could only do moonlight scenes, which are always depressing to look at, and not at all easy to paint. I never told on you, though I was very much annoyed, and it was most ridiculous, the whole thing; for who ever heard of emerald-green blood?’\n\n‘Well, really,’ said the Ghost, rather meekly, ‘what was I to do? It is a very difficult thing to get real blood nowadays, and, as your brother began it all with his Paragon Detergent, I certainly saw no reason why I should not have your paints. As for colour, that is always a matter of taste: the Cantervilles have blue blood, for instance, the very bluest in England; but I know you Americans don’t care for things of this kind.’\n\n‘You know nothing about it, and the best thing you can do is to emigrate and improve your mind. My father will be only too happy to give you a free passage, and though there is a heavy duty on spirits of every kind, there will be no difficulty about the Custom House, as the officers are all Democrats. Once in New York, you are sure to be a great success. I know lots of people there who would give a hundred thousand dollars to have a grandfather, and much more than that to have a family Ghost.’\n\n‘I don’t think I should like America.’\n\n‘I suppose because we have no ruins and no curiosities,’ said Virginia satirically.\n\n‘No ruins! no curiosities!’ answered the Ghost; ‘you have your navy and your manners.’\n\n‘Good evening; I will go and ask papa to get the twins an extra week’s holiday.’\n\n‘Please don’t go, Miss Virginia,’ he cried; ‘I am so lonely and so unhappy, and I really don’t know what to do. I want to go to sleep and I cannot.’\n\n‘That’s quite absurd! You have merely to go to bed and blow out the candle."
+      },
+      "request_id": "4a746e42a75e27db3ee6d4ea",
+      "request_sha256": "fbf39abfa44c2dcb01b6d635fe822e31d586cc45da17524d0d1aa892b22a1670",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6fed1e47343466e911f3819776196152f9cdf3a4f862a180009a9a3d9dd76c27"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0bb8d80d79d6f0f7cb2ac535",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_poe_the_gold_bug_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 0bb8d80d79d6f0f7cb2ac535\noriginal_word_count: 481\n\nPassage:\nThe weight of the insect was very remarkable, and, taking all things into consideration, I could hardly blame Jupiter for his opinion respecting it; but what to make of Legrand’s concordance with that opinion, I could not, for the life of me, tell.\n\n“I sent for you,” said he, in a grandiloquent tone, when I had completed my examination of the beetle, “I sent for you, that I might have your counsel and assistance in furthering the views of Fate and of the bug—”\n\n“My dear Legrand,” I cried, interrupting him, “you are certainly unwell, and had better use some little precautions. You shall go to bed, and I will remain with you a few days, until you get over this. You are feverish and—”\n\n“Feel my pulse,” said he.\n\nI felt it, and, to say the truth, found not the slightest indication of fever.\n\n“But you may be ill and yet have no fever. Allow me this once to prescribe for you. In the first place, go to bed. In the next—”\n\n“You are mistaken,” he interposed, “I am as well as I can expect to be under the excitement which I suffer. If you really wish me well, you will relieve this excitement.”\n\n“And how is this to be done?”\n\n“Very easily. Jupiter and myself are going upon an expedition into the hills, upon the main land, and, in this expedition we shall need the aid of some person in whom we can confide. You are the only one we can trust. Whether we succeed or fail, the excitement which you now perceive in me will be equally allayed.”\n\n“I am anxious to oblige you in any way,” I replied; “but do you mean to say that this infernal beetle has any connection with your expedition into the hills?”\n\n“It has.”\n\n“Then, Legrand, I can become a party to no such absurd proceeding.”\n\n“I am sorry—very sorry—for we shall have to try it by ourselves.”\n\n“Try it by yourselves! The man is surely mad!—but stay!—how long do you propose to be absent?”\n\n“Probably all night. We shall start immediately, and be back, at all events, by sunrise.”\n\n“And will you promise me, upon your honor, that when this freak of yours is over, and the bug business (good God!) settled to your satisfaction, you will then return home and follow my advice implicitly, as that of your physician?”\n\n“Yes; I promise; and now let us be off, for we have no time to lose.”\n\nWith a heavy heart I accompanied my friend. We started about four o’clock—Legrand, Jupiter, the dog, and myself. Jupiter had with him the scythe and spades—the whole of which he insisted upon carrying—more through fear, it seemed to me, of trusting either of the implements within reach of his master, than from any excess of industry or complaisance."
+      },
+      "request_id": "0bb8d80d79d6f0f7cb2ac535",
+      "request_sha256": "1c63d771eed7e6e0a06656e5a810f84661c5ccee8d79e6204a1f962536ced168",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "063e5f414e468518ab22ed76bc5fd845623a7f23633c036fbe78f2617eedbbe1"
+    }
+  ],
+  "session_id": "01a0e30c-b9d5-7a90-8e48-66fb9e9e85ab",
+  "worker_id": "astra_f",
+  "worker_identity_sha256": "99f27e110908dead1d4562afc80f2641e421ce331aa3d512cbd7e9a66fae1aa2"
+}

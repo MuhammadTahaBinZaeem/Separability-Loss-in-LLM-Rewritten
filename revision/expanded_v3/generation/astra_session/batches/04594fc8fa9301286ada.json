@@ -1,0 +1,68 @@
+{
+  "batch_id": "04594fc8fa9301286ada",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:24:05.696343+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "26c383796b0c03a8b661fc12",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_dickens_great_expectations_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 26c383796b0c03a8b661fc12\noriginal_word_count: 455\n\nPassage:\nNext day was appointed for the production (lest our honour should take cold from delay), and next day Drummle appeared with a polite little avowal in Estella’s hand, that she had had the honour of dancing with him several times. This left me no course but to regret that I had been “betrayed into a warmth which,” and on the whole to repudiate, as untenable, the idea that I was to be found anywhere. Drummle and I then sat snorting at one another for an hour, while the Grove engaged in indiscriminate contradiction, and finally the promotion of good feeling was declared to have gone ahead at an amazing rate.\n\nI tell this lightly, but it was no light thing to me. For, I cannot adequately express what pain it gave me to think that Estella should show any favour to a contemptible, clumsy, sulky booby, so very far below the average. To the present moment, I believe it to have been referable to some pure fire of generosity and disinterestedness in my love for her, that I could not endure the thought of her stooping to that hound. No doubt I should have been miserable whomsoever she had favoured; but a worthier object would have caused me a different kind and degree of distress.\n\nIt was easy for me to find out, and I did soon find out, that Drummle had begun to follow her closely, and that she allowed him to do it. A little while, and he was always in pursuit of her, and he and I crossed one another every day. He held on, in a dull persistent way, and Estella held him on; now with encouragement, now with discouragement, now almost flattering him, now openly despising him, now knowing him very well, now scarcely remembering who he was.\n\nThe Spider, as Mr. Jaggers had called him, was used to lying in wait, however, and had the patience of his tribe. Added to that, he had a blockhead confidence in his money and in his family greatness, which sometimes did him good service,—almost taking the place of concentration and determined purpose. So, the Spider, doggedly watching Estella, outwatched many brighter insects, and would often uncoil himself and drop at the right nick of time.\n\nAt a certain Assembly Ball at Richmond (there used to be Assembly Balls at most places then), where Estella had outshone all other beauties, this blundering Drummle so hung about her, and with so much toleration on her part, that I resolved to speak to her concerning him. I took the next opportunity; which was when she was waiting for Mrs. Blandley to take her home, and was sitting apart among some flowers, ready to go."
+      },
+      "request_id": "26c383796b0c03a8b661fc12",
+      "request_sha256": "9e62e8788dec6728cc0ff015bc22d1ccbb404ea594422d267721c65177d73ae4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9851a58cebdb4e2d5f0971e6d038cf9ab8c748ef76fb6f15b6677fa33f8afeac"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1b16496bdff8556e8b5d33c6",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 469,
+      "passage_id": "V2_dickens_great_expectations_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 1b16496bdff8556e8b5d33c6\noriginal_word_count: 469\n\nPassage:\nI then went from shop to shop, making such purchases as were necessary to the change in his appearance. This business transacted, I turned my face, on my own account, to Little Britain. Mr. Jaggers was at his desk, but, seeing me enter, got up immediately and stood before his fire.\n\n“Now, Pip,” said he, “be careful.”\n\n“I will, sir,” I returned. For, coming along I had thought well of what I was going to say.\n\n“Don’t commit yourself,” said Mr. Jaggers, “and don’t commit any one. You understand—any one. Don’t tell me anything: I don’t want to know anything; I am not curious.”\n\nOf course I saw that he knew the man was come.\n\n“I merely want, Mr. Jaggers,” said I, “to assure myself that what I have been told is true. I have no hope of its being untrue, but at least I may verify it.”\n\nMr. Jaggers nodded. “But did you say ‘told’ or ‘informed’?” he asked me, with his head on one side, and not looking at me, but looking in a listening way at the floor. “Told would seem to imply verbal communication. You can’t have verbal communication with a man in New South Wales, you know.”\n\n“I will say, informed, Mr. Jaggers.”\n\n“Good.”\n\n“I have been informed by a person named Abel Magwitch, that he is the benefactor so long unknown to me.”\n\n“That is the man,” said Mr. Jaggers, “in New South Wales.”\n\n“And only he?” said I.\n\n“And only he,” said Mr. Jaggers.\n\n“I am not so unreasonable, sir, as to think you at all responsible for my mistakes and wrong conclusions; but I always supposed it was Miss Havisham.”\n\n“As you say, Pip,” returned Mr. Jaggers, turning his eyes upon me coolly, and taking a bite at his forefinger, “I am not at all responsible for that.”\n\n“And yet it looked so like it, sir,” I pleaded with a downcast heart.\n\n“Not a particle of evidence, Pip,” said Mr. Jaggers, shaking his head and gathering up his skirts. “Take nothing on its looks; take everything on evidence. There’s no better rule.”\n\n“I have no more to say,” said I, with a sigh, after standing silent for a little while. “I have verified my information, and there’s an end.”\n\n“And Magwitch—in New South Wales—having at last disclosed himself,” said Mr. Jaggers, “you will comprehend, Pip, how rigidly throughout my communication with you, I have always adhered to the strict line of fact. There has never been the least departure from the strict line of fact. You are quite aware of that?”\n\n“Quite, sir.”\n\n“I communicated to Magwitch—in New South Wales—when he first wrote to me—from New South Wales—the caution that he must not expect me ever to deviate from the strict line of fact."
+      },
+      "request_id": "1b16496bdff8556e8b5d33c6",
+      "request_sha256": "f66a80d0e544d5c9cbec27b25968090038be119acc8421878c000b17013879e2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6817205291d6ee2bcae3bab6183a0618e111c9f085546ec391f92264c2e22343"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2c5d7e1133b5a02c7986c3ac",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 482,
+      "passage_id": "V2_dickens_great_expectations_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2c5d7e1133b5a02c7986c3ac\noriginal_word_count: 482\n\nPassage:\n“Why, you don’t mean to say—” began my sister.\n\n“Yes I do, Mum,” said Pumblechook; “but wait a bit. Go on, Joseph. Good in you! Go on!”\n\n“What would present company say,” proceeded Joe, “to twenty pound?”\n\n“Handsome would be the word,” returned my sister.\n\n“Well, then,” said Joe, “It’s more than twenty pound.”\n\nThat abject hypocrite, Pumblechook, nodded again, and said, with a patronizing laugh, “It’s more than that, Mum. Good again! Follow her up, Joseph!”\n\n“Then to make an end of it,” said Joe, delightedly handing the bag to my sister; “it’s five-and-twenty pound.”\n\n“It’s five-and-twenty pound, Mum,” echoed that basest of swindlers, Pumblechook, rising to shake hands with her; “and it’s no more than your merits (as I said when my opinion was asked), and I wish you joy of the money!”\n\nIf the villain had stopped here, his case would have been sufficiently awful, but he blackened his guilt by proceeding to take me into custody, with a right of patronage that left all his former criminality far behind.\n\n“Now you see, Joseph and wife,” said Pumblechook, as he took me by the arm above the elbow, “I am one of them that always go right through with what they’ve begun. This boy must be bound, out of hand. That’s _my_ way. Bound out of hand.”\n\n“Goodness knows, Uncle Pumblechook,” said my sister (grasping the money), “we’re deeply beholden to you.”\n\n“Never mind me, Mum,” returned that diabolical cornchandler. “A pleasure’s a pleasure all the world over. But this boy, you know; we must have him bound. I said I’d see to it—to tell you the truth.”\n\nThe Justices were sitting in the Town Hall near at hand, and we at once went over to have me bound apprentice to Joe in the Magisterial presence. I say we went over, but I was pushed over by Pumblechook, exactly as if I had that moment picked a pocket or fired a rick; indeed, it was the general impression in Court that I had been taken red-handed; for, as Pumblechook shoved me before him through the crowd, I heard some people say, “What’s he done?” and others, “He’s a young ’un, too, but looks bad, don’t he?” One person of mild and benevolent aspect even gave me a tract ornamented with a woodcut of a malevolent young man fitted up with a perfect sausage-shop of fetters, and entitled TO BE READ IN MY CELL.\n\nThe Hall was a queer place, I thought, with higher pews in it than a church,—and with people hanging over the pews looking on,—and with mighty Justices (one with a powdered head) leaning back in chairs, with folded arms, or taking snuff, or going to sleep, or writing, or reading the newspapers,—and with some shining black portraits on the walls, which my unartistic eye regarded as a composition of hardbake and sticking-plaster."
+      },
+      "request_id": "2c5d7e1133b5a02c7986c3ac",
+      "request_sha256": "34b4d5ad8a56ae6a02d99c35cd25e0d5fd2760bf97fd6544c2593fb7e35f29d5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0c5caaed48779fd895db3a8effe3e952f34e1dd54117a1055cef4ec718fd5de3"
+    }
+  ],
+  "session_id": "01a0e866-9bf1-7e03-8d89-34a75a5436e8",
+  "worker_id": "astra_v",
+  "worker_identity_sha256": "0b2b5de575a91a248a2d744e77077f7abb92d61d159b0293192af3288b1ff4f6"
+}

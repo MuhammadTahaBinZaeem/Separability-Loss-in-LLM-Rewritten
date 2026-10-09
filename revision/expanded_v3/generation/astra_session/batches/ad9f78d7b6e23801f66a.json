@@ -1,0 +1,68 @@
+{
+  "batch_id": "ad9f78d7b6e23801f66a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:28:52.877296+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f42e0f48f7827e08ab86fcc8",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_poe_murders_rue_morgue_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: f42e0f48f7827e08ab86fcc8\noriginal_word_count: 460\n\nPassage:\nThe examination occupied us until dark, when we took our departure. On our way home my companion stepped in for a moment at the office of one of the daily papers.\n\nI have said that the whims of my friend were manifold, and that _Je les ménageais_:—for this phrase there is no English equivalent. It was his humor, now, to decline all conversation on the subject of the murder, until about noon the next day. He then asked me, suddenly, if I had observed any thing _peculiar_ at the scene of the atrocity.\n\nThere was something in his manner of emphasizing the word “peculiar,” which caused me to shudder, without knowing why.\n\n“No, nothing _peculiar_,” I said; “nothing more, at least, than we both saw stated in the paper.”\n\n“The ‘Gazette,’” he replied, “has not entered, I fear, into the unusual horror of the thing. But dismiss the idle opinions of this print. It appears to me that this mystery is considered insoluble, for the very reason which should cause it to be regarded as easy of solution—I mean for the _outré_ character of its features. The police are confounded by the seeming absence of motive—not for the murder itself—but for the atrocity of the murder. They are puzzled, too, by the seeming impossibility of reconciling the voices heard in contention, with the facts that no one was discovered up stairs but the assassinated Mademoiselle L’Espanaye, and that there were no means of egress without the notice of the party ascending. The wild disorder of the room; the corpse thrust, with the head downward, up the chimney; the frightful mutilation of the body of the old lady; these considerations, with those just mentioned, and others which I need not mention, have sufficed to paralyze the powers, by putting completely at fault the boasted _acumen_, of the government agents. They have fallen into the gross but common error of confounding the unusual with the abstruse. But it is by these deviations from the plane of the ordinary, that reason feels its way, if at all, in its search for the true. In investigations such as we are now pursuing, it should not be so much asked ‘what has occurred,’ as ‘what has occurred that has never occurred before.’ In fact, the facility with which I shall arrive, or have arrived, at the solution of this mystery, is in the direct ratio of its apparent insolubility in the eyes of the police.”\n\nI stared at the speaker in mute astonishment.\n\n“I am now awaiting,” continued he, looking toward the door of our apartment—“I am now awaiting a person who, although perhaps not the perpetrator of these butcheries, must have been in some measure implicated in their perpetration."
+      },
+      "request_id": "f42e0f48f7827e08ab86fcc8",
+      "request_sha256": "c5201ad89c2edd5f7a9abcea5564a98f6bf50b1a6486dc00aa026c072092183b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "515fae9f1fe82b1fc70f51571182aaefe67262cc9768cd5f83109ae825db7d0c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6ecc691b3d3c1ea643ab2d2b",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_twain_connecticut_yankee_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 6ecc691b3d3c1ea643ab2d2b\noriginal_word_count: 459\n\nPassage:\nI closed up alongside of a burly fellow with a fat good-humored face, purposing to make myself agreeable and pick up some further crumbs of fact; but I had hardly more than scraped acquaintance with him when he began eagerly and awkwardly to lead up, in the immemorial way, to that same old anecdote--the one Sir Dinadan told me, what time I got into trouble with Sir Sagramor and was challenged of him on account of it. I excused myself and dropped to the rear of the procession, sad at heart, willing to go hence from this troubled life, this vale of tears, this brief day of broken rest, of cloud and storm, of weary struggle and monotonous defeat; and yet shrinking from the change, as remembering how long eternity is, and how many have wended thither who know that anecdote.\n\nEarly in the afternoon we overtook another procession of pilgrims; but in this one was no merriment, no jokes, no laughter, no playful ways, nor any happy giddiness, whether of youth or age. Yet both were here, both age and youth; gray old men and women, strong men and women of middle age, young husbands, young wives, little boys and girls, and three babies at the breast. Even the children were smileless; there was not a face among all these half a hundred people but was cast down, and bore that set expression of hopelessness which is bred of long and hard trials and old acquaintance with despair. They were slaves. Chains led from their fettered feet and their manacled hands to a sole-leather belt about their waists; and all except the children were also linked together in a file six feet apart, by a single chain which led from collar to collar all down the line. They were on foot, and had tramped three hundred miles in eighteen days, upon the cheapest odds and ends of food, and stingy rations of that. They had slept in these chains every night, bundled together like swine. They had upon their bodies some poor rags, but they could not be said to be clothed. Their irons had chafed the skin from their ankles and made sores which were ulcerated and wormy. Their naked feet were torn, and none walked without a limp. Originally there had been a hundred of these unfortunates, but about half had been sold on the trip. The trader in charge of them rode a horse and carried a whip with a short handle and a long heavy lash divided into several knotted tails at the end. With this whip he cut the shoulders of any that tottered from weariness and pain, and straightened them up. He did not speak; the whip conveyed his desire without that."
+      },
+      "request_id": "6ecc691b3d3c1ea643ab2d2b",
+      "request_sha256": "85ce9c5183853c9da44a616029bf9d3c84983b46d11f8f2ccbd689d83bb3888e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "20d3ecc44f35111dbde24d1215bbd3979b2875440f2945ae0a1ce8a6eaeaac16"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "357a7a1e1af1a93a57d6d152",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 467,
+      "passage_id": "V2_poe_hans_pfaal_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 357a7a1e1af1a93a57d6d152\noriginal_word_count: 467\n\nPassage:\nBy late accounts from Rotterdam, that city seems to be in a high state of philosophical excitement. Indeed, phenomena have there occurred of a nature so completely unexpected—so entirely novel—so utterly at variance with preconceived opinions—as to leave no doubt on my mind that long ere this all Europe is in an uproar, all physics in a ferment, all reason and astronomy together by the ears.\n\nIt appears that on the—— day of—— (I am not positive about the date), a vast crowd of people, for purposes not specifically mentioned, were assembled in the great square of the Exchange in the well-conditioned city of Rotterdam. The day was warm—unusually so for the season—there was hardly a breath of air stirring; and the multitude were in no bad humor at being now and then besprinkled with friendly showers of momentary duration, that fell from large white masses of cloud which chequered in a fitful manner the blue vault of the firmament. Nevertheless, about noon, a slight but remarkable agitation became apparent in the assembly: the clattering of ten thousand tongues succeeded; and, in an instant afterward, ten thousand faces were upturned toward the heavens, ten thousand pipes descended simultaneously from the corners of ten thousand mouths, and a shout, which could be compared to nothing but the roaring of Niagara, resounded long, loudly, and furiously, through all the environs of Rotterdam.\n\nThe origin of this hubbub soon became sufficiently evident. From behind the huge bulk of one of those sharply-defined masses of cloud already mentioned, was seen slowly to emerge into an open area of blue space, a queer, heterogeneous, but apparently solid substance, so oddly shaped, so whimsically put together, as not to be in any manner comprehended, and never to be sufficiently admired, by the host of sturdy burghers who stood open-mouthed below. What could it be? In the name of all the vrows and devils in Rotterdam, what could it possibly portend? No one knew, no one could imagine; no one—not even the burgomaster Mynheer Superbus Von Underduk—had the slightest clew by which to unravel the mystery; so, as nothing more reasonable could be done, every one to a man replaced his pipe carefully in the corner of his mouth, and cocking up his right eye towards the phenomenon, puffed, paused, waddled about, and grunted significantly—then waddled back, grunted, paused, and finally—puffed again.\n\nIn the meantime, however, lower and still lower toward the goodly city, came the object of so much curiosity, and the cause of so much smoke. In a very few minutes it arrived near enough to be accurately discerned. It appeared to be—yes! it was undoubtedly a species of balloon; but surely no such balloon had ever been seen in Rotterdam before."
+      },
+      "request_id": "357a7a1e1af1a93a57d6d152",
+      "request_sha256": "aa565372a9d6c02c49cda27b8ce00ac1eed4e5c70197b914191e5ebf383b70dd",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5f3b57a2101d9c8737365c065927d18c8d2840f37c31dde6dbd5d4ada8c8f2d4"
+    }
+  ],
+  "session_id": "01a0e30c-b9d5-7a90-8e48-66fb9e9e85ab",
+  "worker_id": "astra_f",
+  "worker_identity_sha256": "99f27e110908dead1d4562afc80f2641e421ce331aa3d512cbd7e9a66fae1aa2"
+}

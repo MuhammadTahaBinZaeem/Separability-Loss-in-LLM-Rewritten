@@ -1,0 +1,15 @@
+{
+  "author_count": 6,
+  "corpus_sha256": "5363aa9717afdbd74fd7c3ee3b819b78add8d31c8d7f017e6f7961cfa3e8ad95",
+  "correction_method": "AI-assisted exact-span inspection; replacement source review pending",
+  "lineage_sha256": "30ee8dea56000d5d2a30db9600f1dfc3d700217812f3d88fbb0ae7cf554e79a6",
+  "originals_file_sha256": "6d29a22c905fc8bedd31e74684fa4e9370b7af768a0d5727ed82df66340844f5",
+  "passage_count": 360,
+  "protocol_sha256": "c618117f43dc7d27cf38ffe3a5c41bf4e19f125ff3266924108e1c96ca5667b9",
+  "replacement_passages": 4,
+  "retained_source_review_sha256": "bc0528a9b7029eb9c6b31198687a64c8b338881f7180f778049bb2d1f29eb0c9",
+  "unchanged_passages": 356,
+  "v2_corpus_sha256": "ce6c6a3687b3545460fa014b348cb2ed6dd49a8283006f866a8b9680dc5ca7ef",
+  "version": 3,
+  "work_count": 18
+}

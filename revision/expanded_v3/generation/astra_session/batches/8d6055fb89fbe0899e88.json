@@ -1,0 +1,68 @@
+{
+  "batch_id": "8d6055fb89fbe0899e88",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:08:47.879127+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "34938e78441331dd273ae172",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 476,
+      "passage_id": "V2_poe_the_gold_bug_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 34938e78441331dd273ae172\noriginal_word_count: 476\n\nPassage:\nPresently his voice was heard in a sort of halloo.\n\n“How much fudder is got for go?”\n\n“How high up are you?” asked Legrand.\n\n“Ebber so fur,” replied the negro; “can see de sky fru de top ob de tree.”\n\n“Never mind the sky, but attend to what I say. Look down the trunk and count the limbs below you on this side. How many limbs have you passed?”\n\n“One, two, tree, four, fibe—I done pass fibe big limb, massa, pon dis side.”\n\n“Then go one limb higher.”\n\nIn a few minutes the voice was heard again, announcing that the seventh limb was attained.\n\n“Now, Jup,” cried Legrand, evidently much excited, “I want you to work your way out upon that limb as far as you can. If you see anything strange, let me know.” By this time what little doubt I might have entertained of my poor friend’s insanity, was put finally at rest. I had no alternative but to conclude him stricken with lunacy, and I became seriously anxious about getting him home. While I was pondering upon what was best to be done, Jupiter’s voice was again heard.\n\n“Mos feerd for to ventur pon dis limb berry far—’tis dead limb putty much all de way.”\n\n“Did you say it was a dead limb, Jupiter?” cried Legrand in a quavering voice.\n\n“Yes, massa, him dead as de door-nail—done up for sartain—done departed dis here life.”\n\n“What in the name heaven shall I do?” asked Legrand, seemingly in the greatest distress.\n\n“Do!” said I, glad of an opportunity to interpose a word, “why come home and go to bed. Come now!—that’s a fine fellow. It’s getting late, and, besides, you remember your promise.”\n\n“Jupiter,” cried he, without heeding me in the least, “do you hear me?”\n\n“Yes, Massa Will, hear you ebber so plain.”\n\n“Try the wood well, then, with your knife, and see if you think it very rotten.”\n\n“Him rotten, massa, sure nuff,” replied the negro in a few moments, “but not so berry rotten as mought be. Mought ventur out leetle way pon de limb by myself, dat’s true.”\n\n“By yourself!—what do you mean?”\n\n“Why I mean de bug. ’Tis _berry_ hebby bug. Spose I drop him down fuss, and den de limb won’t break wid just de weight ob one nigger.”\n\n“You infernal scoundrel!” cried Legrand, apparently much relieved, “what do you mean by telling me such nonsense as that? As sure as you drop that beetle I’ll break your neck. Look here, Jupiter, do you hear me?”\n\n“Yes, massa, needn’t hollo at poor nigger dat style.”\n\n“Well! now listen!—if you will venture out on the limb as far as you think safe, and not let go the beetle, I’ll make you a present of a silver dollar as soon as you get down.”"
+      },
+      "request_id": "34938e78441331dd273ae172",
+      "request_sha256": "49b212a049019b652d69cc73cedf9671777b9c1539b57a4021ac5c11ed817ac7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2c28c6108ab2f22c4d879375d4ebbf8f803d0ac5824cfde1bffa1d18430e6c52"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f5deff815df235264937e4c9",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_shelley_frankenstein_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: f5deff815df235264937e4c9\noriginal_word_count: 451\n\nPassage:\nHis person was short but remarkably erect and his voice the sweetest I had ever heard. He began his lecture by a recapitulation of the history of chemistry and the various improvements made by different men of learning, pronouncing with fervour the names of the most distinguished discoverers. He then took a cursory view of the present state of the science and explained many of its elementary terms. After having made a few preparatory experiments, he concluded with a panegyric upon modern chemistry, the terms of which I shall never forget:\n\n“The ancient teachers of this science,” said he, “promised impossibilities and performed nothing. The modern masters promise very little; they know that metals cannot be transmuted and that the elixir of life is a chimera but these philosophers, whose hands seem only made to dabble in dirt, and their eyes to pore over the microscope or crucible, have indeed performed miracles. They penetrate into the recesses of nature and show how she works in her hiding-places. They ascend into the heavens; they have discovered how the blood circulates, and the nature of the air we breathe. They have acquired new and almost unlimited powers; they can command the thunders of heaven, mimic the earthquake, and even mock the invisible world with its own shadows.”\n\nSuch were the professor’s words—rather let me say such the words of the fate—enounced to destroy me. As he went on I felt as if my soul were grappling with a palpable enemy; one by one the various keys were touched which formed the mechanism of my being; chord after chord was sounded, and soon my mind was filled with one thought, one conception, one purpose. So much has been done, exclaimed the soul of Frankenstein—more, far more, will I achieve; treading in the steps already marked, I will pioneer a new way, explore unknown powers, and unfold to the world the deepest mysteries of creation.\n\nI closed not my eyes that night. My internal being was in a state of insurrection and turmoil; I felt that order would thence arise, but I had no power to produce it. By degrees, after the morning’s dawn, sleep came. I awoke, and my yesternight’s thoughts were as a dream. There only remained a resolution to return to my ancient studies and to devote myself to a science for which I believed myself to possess a natural talent. On the same day I paid M. Waldman a visit. His manners in private were even more mild and attractive than in public, for there was a certain dignity in his mien during his lecture which in his own house was replaced by the greatest affability and kindness."
+      },
+      "request_id": "f5deff815df235264937e4c9",
+      "request_sha256": "463401d67ba94bd66f48d275d012c9811ca8309ee6aec976f843de256a10f4e0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ea77de40422f9b524a614739a8e7cdb4b21ed099d62824a1698913f1dad58b8d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3c1a9eccc138e0fadbf2e8a7",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V2_poe_hans_pfaal_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 3c1a9eccc138e0fadbf2e8a7\noriginal_word_count: 458\n\nPassage:\nNo fancy may picture the sublimity which might have been exhibited by a similar phenomenon taking place amid the darkness of the night. Hell itself might have been found a fitting image. Even as it was, my hair stood on end, while I gazed afar down within the yawning abysses, letting imagination descend, as it were, and stalk about in the strange vaulted halls, and ruddy gulfs, and red ghastly chasms of the hideous and unfathomable fire. I had indeed made a narrow escape. Had the balloon remained a very short while longer within the cloud—that is to say—had not the inconvenience of getting wet, determined me to discharge the ballast, inevitable ruin would have been the consequence. Such perils, although little considered, are perhaps the greatest which must be encountered in balloons. I had by this time, however, attained too great an elevation to be any longer uneasy on this head.\n\n“I was now rising rapidly, and by seven o’clock the barometer indicated an altitude of no less than nine miles and a half. I began to find great difficulty in drawing my breath. My head, too, was excessively painful; and, having felt for some time a moisture about my cheeks, I at length discovered it to be blood, which was oozing quite fast from the drums of my ears. My eyes, also, gave me great uneasiness. Upon passing the hand over them they seemed to have protruded from their sockets in no inconsiderable degree; and all objects in the car, and even the balloon itself, appeared distorted to my vision. These symptoms were more than I had expected, and occasioned me some alarm. At this juncture, very imprudently, and without consideration, I threw out from the car three five-pound pieces of ballast. The accelerated rate of ascent thus obtained, carried me too rapidly, and without sufficient gradation, into a highly rarefied stratum of the atmosphere, and the result had nearly proved fatal to my expedition and to myself. I was suddenly seized with a spasm which lasted for more than five minutes, and even when this, in a measure, ceased, I could catch my breath only at long intervals, and in a gasping manner—bleeding all the while copiously at the nose and ears, and even slightly at the eyes. The pigeons appeared distressed in the extreme, and struggled to escape; while the cat mewed piteously, and, with her tongue hanging out of her mouth, staggered to and fro in the car as if under the influence of poison. I now too late discovered the great rashness of which I had been guilty in discharging the ballast, and my agitation was excessive. I anticipated nothing less than death, and death in a few minutes."
+      },
+      "request_id": "3c1a9eccc138e0fadbf2e8a7",
+      "request_sha256": "3dc3ae9eb1a28c8dfa1c10025fdb9e3343f8d2cee733dec204f67cc54ce44250",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "32ffdf387f12b44cdfe23eeb10af0ed6504cb401871c16ba770079504424fe2c"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

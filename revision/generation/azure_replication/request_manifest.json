@@ -1,0 +1,9 @@
+{
+  "corpus_sha256": "ce6c6a3687b3545460fa014b348cb2ed6dd49a8283006f866a8b9680dc5ca7ef",
+  "model": "gpt-5.4-nano",
+  "model_config_sha256": "a44399fdddd2d1b3384c1c580c00dd53e79bc2f2b5aa2d9e0bc30ae1256fe814",
+  "model_key": "azure_replication",
+  "plan_sha256_at_freeze": "b9849ec0f02ab62cc186dd2fb73ba828bf95f9bdf70c67d409cb6b00b575e47c",
+  "request_count": 1080,
+  "requests_sha256": "a4725261cc48f3218fdad6b92f8e3b30e5725c710563705626a60b6e9c55aa9f"
+}

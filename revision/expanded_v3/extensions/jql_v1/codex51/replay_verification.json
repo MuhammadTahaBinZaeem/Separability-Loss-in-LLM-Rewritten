@@ -1,0 +1,11 @@
+{
+  "byte_identical_data_transforms_predictions_metrics_and_report": true,
+  "human_validation": false,
+  "input_fingerprint": "7c2faec4fe789919e54aeee7f6179658c003c742c3b81c5ba9c8f06b692fd8b0",
+  "manifest_sha256": "5a4969137e5c4214c39f385bf637770e12ea7db1a61927b7ac6b440777cf2857",
+  "passed": true,
+  "scientific_acceptance_certified": false,
+  "unchanged_result_files": 115,
+  "verified_utc": "2026-09-28T13:05:37.606677+00:00",
+  "wall_clock_metadata_excluded_from_comparison": true
+}

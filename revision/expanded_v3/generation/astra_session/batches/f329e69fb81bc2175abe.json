@@ -1,0 +1,68 @@
+{
+  "batch_id": "f329e69fb81bc2175abe",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:11:42.105379+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "48977ec58d25e8e52aa66c12",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 477,
+      "passage_id": "V2_austen_pride_and_prejudice_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 48977ec58d25e8e52aa66c12\noriginal_word_count: 477\n\nPassage:\n“Oh, your father, of course, may spare you, if your mother can. Daughters are never of so much consequence to a father. And if you will stay another _month_ complete, it will be in my power to take one of you as far as London, for I am going there early in June, for a week; and as Dawson does not object to the barouche-box, there will be very good room for one of you--and, indeed, if the weather should happen to be cool, I should not object to taking you both, as you are neither of you large.”\n\n“You are all kindness, madam; but I believe we must abide by our original plan.”\n\nLady Catherine seemed resigned. “Mrs. Collins, you must send a servant with them. You know I always speak my mind, and I cannot bear the idea of two young women travelling post by themselves. It is highly improper. You must contrive to send somebody. I have the greatest dislike in the world to that sort of thing. Young women should always be properly guarded and attended, according to their situation in life. When my niece Georgiana went to Ramsgate last summer, I made a point of her having two men-servants go with her. Miss Darcy, the daughter of Mr. Darcy of Pemberley, and Lady Anne, could not have appeared with propriety in a different manner. I am excessively attentive to all those things. You must send John with the young ladies, Mrs. Collins. I am glad it occurred to me to mention it; for it would really be discreditable to _you_ to let them go alone.”\n\n“My uncle is to send a servant for us.”\n\n“Oh! Your uncle! He keeps a man-servant, does he? I am very glad you have somebody who thinks of those things. Where shall you change horses? Oh, Bromley, of course. If you mention my name at the Bell, you will be attended to.”\n\nLady Catherine had many other questions to ask respecting their journey; and as she did not answer them all herself attention was necessary--which Elizabeth believed to be lucky for her; or, with a mind so occupied, she might have forgotten where she was. Reflection must be reserved for solitary hours: whenever she was alone, she gave way to it as the greatest relief; and not a day went by without a solitary walk, in which she might indulge in all the delight of unpleasant recollections.\n\nMr. Darcy’s letter she was in a fair way of soon knowing by heart. She studied every sentence; and her feelings towards its writer were at times widely different. When she remembered the style of his address, she was still full of indignation: but when she considered how unjustly she had condemned and upbraided him, her anger was turned against herself; and his disappointed feelings became the object of compassion."
+      },
+      "request_id": "48977ec58d25e8e52aa66c12",
+      "request_sha256": "71fbfd75ba40151cf2fd1cdc45b0fb8b8265eebebd2d7c703a39bf64293dcb37",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5340d27d5232dcfbd753c2f6389de22c6fe6387edb572014bf79f25df20eec0a"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "93c1f455f2fed45f3b8cd942",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_mathilda_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 93c1f455f2fed45f3b8cd942\noriginal_word_count: 466\n\nPassage:\n“But when I saw you become the object of another’s love; when I imagined that you might be loved otherwise than as a sacred type and image of loveliness and excellence; or that you might love another with a more ardent affection than that which you bore to me, then the fiend awoke within me; I dismissed your lover; and from that moment I have known no peace. I have sought in vain for sleep and rest; my lids refused to close, and my blood was for ever in a tumult. I awoke to a new life as one who dies in hope might wake in Hell. I will not sully your imagination by recounting my combats, my self-anger and my despair. Let a veil be drawn over the unimaginable sensations of a guilty father; the secrets of so agonized a heart may not be made vulgar. All was uproar, crime, remorse and hate, yet still the tenderest love; and what first awoke me to the firm resolve of conquering my passion and of restoring her father to my child was the sight of your bitter and sympathizing sorrows. It was this that led me here: I thought that if I could again awaken in my heart the grief I had felt at the loss of your mother, and the many associations with her memory which had been laid to sleep for seventeen years, that all love for her child would become extinct. In a fit of heroism I determined to go alone; to quit you, the life of my life, and not to see you again untill I might guiltlessly. But it would not do: I rated my fortitude too high, or my love too low. I should certainly have died if you had not hastened to me. Would that I had been indeed extinguished!\n\n“And now, Mathilda I must make you my last confession. I have been miserably mistaken in imagining that I could conquer my love for you; I never can. The sight of this house, these fields and woods which my first love inhabited seems to have encreased it: in my madness I dared say to myself--Diana died to give her birth; her mother’s spirit was transferred into her frame, and she ought to be as Diana to me. With every effort to cast it off, this love clings closer, this guilty love more unnatural than hate, that withers your hopes and destroys me for ever.\n\nBetter have loved despair, & safer kissed her.\n\nNo time or space can tear from my soul that which makes a part of it. Since my arrival here I have not for a moment ceased to feel the hell of passion which has been implanted in me to burn untill all be cold, and stiff, and dead."
+      },
+      "request_id": "93c1f455f2fed45f3b8cd942",
+      "request_sha256": "3fb7252f8b694cb172e38eb2f7bac403d3bf5c23203cb7d9c6c36269e71e8bbb",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "336ed2969d92a38adf9b816b5332b90c10f50539cb58e1d51be9e5fe31354a25"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8c485cbc06f20af13bc9c287",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_shelley_the_last_man_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 8c485cbc06f20af13bc9c287\noriginal_word_count: 453\n\nPassage:\nHis account was, that, journeying from his home, and passing through Datchet, he was surprised to see smoke issue from the chimney of the inn, and supposing that he should find comrades for his journey assembled there, he knocked and was admitted. There was no one in the house but Lucy, and her mother; the latter had been deprived of the use of her limbs by an attack of rheumatism, and so, one by one, all the remaining inhabitants of the country set forward, leaving them alone. Lucy intreated the man to stay with her; in a week or two her mother would be better, and they would then set out; but they must perish, if they were left thus helpless and forlorn. The man said, that his wife and children were already among the emigrants, and it was therefore, according to his notion, impossible for him to remain. Lucy, as a last resource, gave him a letter for Idris, to be delivered to her wherever he should meet us. This commission at least he fulfilled, and Idris received with emotion the following letter:—\n\n“HONOURED LADY,\n\n“I am sure that you will remember and pity me, and I dare hope that you will assist me; what other hope have I? Pardon my manner of writing, I am so bewildered. A month ago my dear mother was deprived of the use of her limbs. She is already better, and in another month would I am sure be able to travel, in the way you were so kind as to say you would arrange for us. But now everybody is gone—everybody—as they went away, each said, that perhaps my mother would be better, before we were quite deserted. But three days ago I went to Samuel Woods, who, on account of his new-born child, remained to the last; and there being a large family of them, I thought I could persuade them to wait a little longer for us; but I found the house deserted. I have not seen a soul since, till this good man came. —What will become of us? My mother does not know our state; she is so ill, that I have hidden it from her.\n\n“Will you not send some one to us? I am sure we must perish miserably as we are. If I were to try to move my mother now, she would die on the road; and if, when she gets better, I were able, I cannot guess how, to find out the roads, and get on so many many miles to the sea, you would all be in France, and the great ocean would be between us, which is so terrible even to sailors."
+      },
+      "request_id": "8c485cbc06f20af13bc9c287",
+      "request_sha256": "649ea3dddd299acb5f12e32612b8c6fcdc45770cc8bedca360dc030e51df902a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "04a8b46838ea565ec31588527c010cf03c35f0f05e7119dde4c05f68bc8a7d6a"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

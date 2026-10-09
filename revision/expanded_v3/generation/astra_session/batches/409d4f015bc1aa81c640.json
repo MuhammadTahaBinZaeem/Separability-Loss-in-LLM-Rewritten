@@ -1,0 +1,68 @@
+{
+  "batch_id": "409d4f015bc1aa81c640",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:30:58.943406+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "84f2cfef3f8809fe8da18685",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_twain_huckleberry_finn_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 84f2cfef3f8809fe8da18685\noriginal_word_count: 463\n\nPassage:\nThe first time I catched Tom private I asked him what was his idea, time of the evasion?—what it was he’d planned to do if the evasion worked all right and he managed to set a nigger free that was already free before? And he said, what he had planned in his head from the start, if we got Jim out all safe, was for us to run him down the river on the raft, and have adventures plumb to the mouth of the river, and then tell him about his being free, and take him back up home on a steamboat, in style, and pay him for his lost time, and write word ahead and get out all the niggers around, and have them waltz him into town with a torchlight procession and a brass-band, and then he would be a hero, and so would we. But I reckoned it was about as well the way it was.\n\nWe had Jim out of the chains in no time, and when Aunt Polly and Uncle Silas and Aunt Sally found out how good he helped the doctor nurse Tom, they made a heap of fuss over him, and fixed him up prime, and give him all he wanted to eat, and a good time, and nothing to do. And we had him up to the sick-room, and had a high talk; and Tom give Jim forty dollars for being prisoner for us so patient, and doing it up so good, and Jim was pleased most to death, and busted out, and says:\n\n“_Dah_, now, Huck, what I tell you?—what I tell you up dah on Jackson islan’? I _tole_ you I got a hairy breas’, en what’s de sign un it; en I _tole_ you I ben rich wunst, en gwineter to be rich _agin;_ en it’s come true; en heah she _is! Dah_, now! doan’ talk to _me_—signs is _signs_, mine I tell you; en I knowed jis’ ’s well ’at I ’uz gwineter be rich agin as I’s a-stannin’ heah dis minute!”\n\nAnd then Tom he talked along and talked along, and says, le’s all three slide out of here one of these nights and get an outfit, and go for howling adventures amongst the Injuns, over in the Territory, for a couple of weeks or two; and I says, all right, that suits me, but I ain’t got no money for to buy the outfit, and I reckon I couldn’t get none from home, because it’s likely pap’s been back before now, and got it all away from Judge Thatcher and drunk it up.\n\n“No, he hain’t,” Tom says; “it’s all there yet—six thousand dollars and more; and your pap hain’t ever been back since."
+      },
+      "request_id": "84f2cfef3f8809fe8da18685",
+      "request_sha256": "138e773c14323a8a9446aa13a0b0fcdbae8ece8b0d7bd73a3fbaba51cf7b8359",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "abe36c52a9f8f8a8951175e24b5d8d1ad50898f73fc4fe293ae8078982366d8e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8b1060bff6727ea66d068aa9",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 504,
+      "passage_id": "V2_twain_huckleberry_finn_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 8b1060bff6727ea66d068aa9\noriginal_word_count: 504\n\nPassage:\nYou don’t know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain’t no matter. That book was made by Mr. Mark Twain, and he told the truth, mainly. There was things which he stretched, but mainly he told the truth. That is nothing. I never seen anybody but lied one time or another, without it was Aunt Polly, or the widow, or maybe Mary. Aunt Polly—Tom’s Aunt Polly, she is—and Mary, and the Widow Douglas is all told about in that book, which is mostly a true book, with some stretchers, as I said before.\n\nNow the way that the book winds up is this: Tom and me found the money that the robbers hid in the cave, and it made us rich. We got six thousand dollars apiece—all gold. It was an awful sight of money when it was piled up. Well, Judge Thatcher he took it and put it out at interest, and it fetched us a dollar a day apiece all the year round—more than a body could tell what to do with. The Widow Douglas she took me for her son, and allowed she would sivilize me; but it was rough living in the house all the time, considering how dismal regular and decent the widow was in all her ways; and so when I couldn’t stand it no longer I lit out. I got into my old rags and my sugar-hogshead again, and was free and satisfied. But Tom Sawyer he hunted me up and said he was going to start a band of robbers, and I might join if I would go back to the widow and be respectable. So I went back.\n\nThe widow she cried over me, and called me a poor lost lamb, and she called me a lot of other names, too, but she never meant no harm by it. She put me in them new clothes again, and I couldn’t do nothing but sweat and sweat, and feel all cramped up. Well, then, the old thing commenced again. The widow rung a bell for supper, and you had to come to time. When you got to the table you couldn’t go right to eating, but you had to wait for the widow to tuck down her head and grumble a little over the victuals, though there warn’t really anything the matter with them,—that is, nothing only everything was cooked by itself. In a barrel of odds and ends it is different; things get mixed up, and the juice kind of swaps around, and the things go better.\n\nAfter supper she got out her book and learned me about Moses and the Bulrushers, and I was in a sweat to find out all about him; but by-and-by she let it out that Moses had been dead a considerable long time; so then I didn’t care no more about him, because I don’t take no stock in dead people."
+      },
+      "request_id": "8b1060bff6727ea66d068aa9",
+      "request_sha256": "6f5f31c3eb3ef2d74562303050e05461b8d4fce2557a0ab6c2961199aae7d7fe",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9a6aa155126ae0abcfd63ede272b573334420d76679f7109e7503fbade0b2f29"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "df873da2b10f21d0e9e19665",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: df873da2b10f21d0e9e19665\noriginal_word_count: 451\n\nPassage:\nThe next day he did not leave the house, and, indeed, spent most of the time in his own room, sick with a wild terror of dying, and yet indifferent to life itself. The consciousness of being hunted, snared, tracked down, had begun to dominate him. If the tapestry did but tremble in the wind, he shook. The dead leaves that were blown against the leaded panes seemed to him like his own wasted resolutions and wild regrets. When he closed his eyes, he saw again the sailor’s face peering through the mist-stained glass, and horror seemed once more to lay its hand upon his heart.\n\nBut perhaps it had been only his fancy that had called vengeance out of the night and set the hideous shapes of punishment before him. Actual life was chaos, but there was something terribly logical in the imagination. It was the imagination that set remorse to dog the feet of sin. It was the imagination that made each crime bear its misshapen brood. In the common world of fact the wicked were not punished, nor the good rewarded. Success was given to the strong, failure thrust upon the weak. That was all. Besides, had any stranger been prowling round the house, he would have been seen by the servants or the keepers. Had any foot-marks been found on the flower-beds, the gardeners would have reported it. Yes, it had been merely fancy. Sibyl Vane’s brother had not come back to kill him. He had sailed away in his ship to founder in some winter sea. From him, at any rate, he was safe. Why, the man did not know who he was, could not know who he was. The mask of youth had saved him.\n\nAnd yet if it had been merely an illusion, how terrible it was to think that conscience could raise such fearful phantoms, and give them visible form, and make them move before one! What sort of life would his be if, day and night, shadows of his crime were to peer at him from silent corners, to mock him from secret places, to whisper in his ear as he sat at the feast, to wake him with icy fingers as he lay asleep! As the thought crept through his brain, he grew pale with terror, and the air seemed to him to have become suddenly colder. Oh! in what a wild hour of madness he had killed his friend! How ghastly the mere memory of the scene! He saw it all again. Each hideous detail came back to him with added horror. Out of the black cave of time, terrible and swathed in scarlet, rose the image of his sin."
+      },
+      "request_id": "df873da2b10f21d0e9e19665",
+      "request_sha256": "6108048f7075e7dd4aea77196a642e53bda4d7b62f611208098f6bb70799df1d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a51a7b48c729510e9a7768063ac3a145f0ad1e142ff35d6ed4166eb131d4069e"
+    }
+  ],
+  "session_id": "01a0e30c-b9d5-7a90-8e48-66fb9e9e85ab",
+  "worker_id": "astra_f",
+  "worker_identity_sha256": "99f27e110908dead1d4562afc80f2641e421ce331aa3d512cbd7e9a66fae1aa2"
+}

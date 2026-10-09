@@ -1,0 +1,68 @@
+{
+  "batch_id": "67a138ac6028c13f1b9c",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:47:14.829545+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "38ad871224c3c56885fb464f",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_austen_emma_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 38ad871224c3c56885fb464f\noriginal_word_count: 452\n\nPassage:\nI want to see you permanently well connected, and to that end it will be advisable to have as few odd acquaintance as may be; and, therefore, I say that if you should still be in this country when Mr. Martin marries, I wish you may not be drawn in by your intimacy with the sisters, to be acquainted with the wife, who will probably be some mere farmer’s daughter, without education.”\n\n“To be sure. Yes. Not that I think Mr. Martin would ever marry any body but what had had some education—and been very well brought up. However, I do not mean to set up my opinion against yours—and I am sure I shall not wish for the acquaintance of his wife. I shall always have a great regard for the Miss Martins, especially Elizabeth, and should be very sorry to give them up, for they are quite as well educated as me. But if he marries a very ignorant, vulgar woman, certainly I had better not visit her, if I can help it.”\n\nEmma watched her through the fluctuations of this speech, and saw no alarming symptoms of love. The young man had been the first admirer, but she trusted there was no other hold, and that there would be no serious difficulty, on Harriet’s side, to oppose any friendly arrangement of her own.\n\nThey met Mr. Martin the very next day, as they were walking on the Donwell road. He was on foot, and after looking very respectfully at her, looked with most unfeigned satisfaction at her companion. Emma was not sorry to have such an opportunity of survey; and walking a few yards forward, while they talked together, soon made her quick eye sufficiently acquainted with Mr. Robert Martin. His appearance was very neat, and he looked like a sensible young man, but his person had no other advantage; and when he came to be contrasted with gentlemen, she thought he must lose all the ground he had gained in Harriet’s inclination. Harriet was not insensible of manner; she had voluntarily noticed her father’s gentleness with admiration as well as wonder. Mr. Martin looked as if he did not know what manner was.\n\nThey remained but a few minutes together, as Miss Woodhouse must not be kept waiting; and Harriet then came running to her with a smiling face, and in a flutter of spirits, which Miss Woodhouse hoped very soon to compose.\n\n“Only think of our happening to meet him!—How very odd! It was quite a chance, he said, that he had not gone round by Randalls. He did not think we ever walked this road. He thought we walked towards Randalls most days."
+      },
+      "request_id": "38ad871224c3c56885fb464f",
+      "request_sha256": "0827c2f547ffb53fe22cbf6cc8b0c253e16c98f9a5716d69d4e4485bf39a0f50",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4a3eb84d0b6a84230be00a0c047283f5b321f68de2503f430c8b19a06d9e1006"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "04e1bca0661ca3806b829835",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_shelley_frankenstein_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 04e1bca0661ca3806b829835\noriginal_word_count: 451\n\nPassage:\nHis person was short but remarkably erect and his voice the sweetest I had ever heard. He began his lecture by a recapitulation of the history of chemistry and the various improvements made by different men of learning, pronouncing with fervour the names of the most distinguished discoverers. He then took a cursory view of the present state of the science and explained many of its elementary terms. After having made a few preparatory experiments, he concluded with a panegyric upon modern chemistry, the terms of which I shall never forget:\n\n“The ancient teachers of this science,” said he, “promised impossibilities and performed nothing. The modern masters promise very little; they know that metals cannot be transmuted and that the elixir of life is a chimera but these philosophers, whose hands seem only made to dabble in dirt, and their eyes to pore over the microscope or crucible, have indeed performed miracles. They penetrate into the recesses of nature and show how she works in her hiding-places. They ascend into the heavens; they have discovered how the blood circulates, and the nature of the air we breathe. They have acquired new and almost unlimited powers; they can command the thunders of heaven, mimic the earthquake, and even mock the invisible world with its own shadows.”\n\nSuch were the professor’s words—rather let me say such the words of the fate—enounced to destroy me. As he went on I felt as if my soul were grappling with a palpable enemy; one by one the various keys were touched which formed the mechanism of my being; chord after chord was sounded, and soon my mind was filled with one thought, one conception, one purpose. So much has been done, exclaimed the soul of Frankenstein—more, far more, will I achieve; treading in the steps already marked, I will pioneer a new way, explore unknown powers, and unfold to the world the deepest mysteries of creation.\n\nI closed not my eyes that night. My internal being was in a state of insurrection and turmoil; I felt that order would thence arise, but I had no power to produce it. By degrees, after the morning’s dawn, sleep came. I awoke, and my yesternight’s thoughts were as a dream. There only remained a resolution to return to my ancient studies and to devote myself to a science for which I believed myself to possess a natural talent. On the same day I paid M. Waldman a visit. His manners in private were even more mild and attractive than in public, for there was a certain dignity in his mien during his lecture which in his own house was replaced by the greatest affability and kindness."
+      },
+      "request_id": "04e1bca0661ca3806b829835",
+      "request_sha256": "777c48e0af3878012b8f6766c76d553a8dcf417c812660d7cf7937d021c52f8a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ea77de40422f9b524a614739a8e7cdb4b21ed099d62824a1698913f1dad58b8d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a87b8b18e81620ba3499bb5e",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 494,
+      "passage_id": "V2_poe_hans_pfaal_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: a87b8b18e81620ba3499bb5e\noriginal_word_count: 494\n\nPassage:\n“It was not until some time afterward that I recovered myself sufficiently to attend to the ordinary cares of the balloon. I then, however, examined it with attention, and found it, to my great relief, uninjured. My implements were all safe, and, fortunately, I had lost neither ballast nor provisions. Indeed, I had so well secured them in their places, that such an accident was entirely out of the question. Looking at my watch, I found it six o’clock. I was still rapidly ascending, and my barometer gave a present altitude of three and three-quarter miles. Immediately beneath me in the ocean, lay a small black object, slightly oblong in shape, seemingly about the size, and in every way bearing a great resemblance to one of those childish toys called a domino. Bringing my telescope to bear upon it, I plainly discerned it to be a British ninety four-gun ship, close-hauled, and pitching heavily in the sea with her head to the W.S.W. Besides this ship, I saw nothing but the ocean and the sky, and the sun, which had long arisen.\n\n“It is now high time that I should explain to your Excellencies the object of my perilous voyage. Your Excellencies will bear in mind that distressed circumstances in Rotterdam had at length driven me to the resolution of committing suicide. It was not, however, that to life itself I had any positive disgust, but that I was harassed beyond endurance by the adventitious miseries attending my situation. In this state of mind, wishing to live, yet wearied with life, the treatise at the stall of the bookseller opened a resource to my imagination. I then finally made up my mind. I determined to depart, yet live—to leave the world, yet continue to exist—in short, to drop enigmas, I resolved, let what would ensue, to force a passage, if I could, to the moon. Now, lest I should be supposed more of a madman than I actually am, I will detail, as well as I am able, the considerations which led me to believe that an achievement of this nature, although without doubt difficult, and incontestably full of danger, was not absolutely, to a bold spirit, beyond the confines of the possible.\n\n“The moon’s actual distance from the earth was the first thing to be attended to. Now, the mean or average interval between the centres of the two planets is 59.9643 of the earth’s equatorial radii, or only about 237,000 miles. I say the mean or average interval, but it must be borne in mind that the form of the moon’s orbit being an ellipse of eccentricity amounting to no less than 0.05484 of the major semi-axis of the ellipse itself, and the earth’s centre being situated in its focus, if I could, in any manner, contrive to meet the moon, as it were, in its perigee, the above mentioned distance would be materially diminished."
+      },
+      "request_id": "a87b8b18e81620ba3499bb5e",
+      "request_sha256": "651c9a3297404d27128d9c6d4c0c1debd54ae3fb9ddb101916851035ea90ceb4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bbaa59a9f9ea93f3bf2f5fa9b3005c47622a5bf80b68d12db8f57997328dcba1"
+    }
+  ],
+  "session_id": "01a0e87a-db7a-7303-aca7-ee81da6c50ba",
+  "worker_id": "astra_aa",
+  "worker_identity_sha256": "f89346b92865e535f8532245987e03b9bf1204ea8d86eb06bb80af193eb55d71"
+}

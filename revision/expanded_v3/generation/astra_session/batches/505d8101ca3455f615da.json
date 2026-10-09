@@ -1,0 +1,68 @@
+{
+  "batch_id": "505d8101ca3455f615da",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T08:04:39.495108+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "44c731e9fba0cf05e8025d2b",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_twain_tom_sawyer_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 44c731e9fba0cf05e8025d2b\noriginal_word_count: 451\n\nPassage:\nTom contrived to scarify the cupboard with it, and was arranging to begin on the bureau, when he was called off to dress for Sunday-school.\n\nMary gave him a tin basin of water and a piece of soap, and he went outside the door and set the basin on a little bench there; then he dipped the soap in the water and laid it down; turned up his sleeves; poured out the water on the ground, gently, and then entered the kitchen and began to wipe his face diligently on the towel behind the door. But Mary removed the towel and said:\n\n“Now ain’t you ashamed, Tom. You mustn’t be so bad. Water won’t hurt you.”\n\nTom was a trifle disconcerted. The basin was refilled, and this time he stood over it a little while, gathering resolution; took in a big breath and began. When he entered the kitchen presently, with both eyes shut and groping for the towel with his hands, an honorable testimony of suds and water was dripping from his face. But when he emerged from the towel, he was not yet satisfactory, for the clean territory stopped short at his chin and his jaws, like a mask; below and beyond this line there was a dark expanse of unirrigated soil that spread downward in front and backward around his neck. Mary took him in hand, and when she was done with him he was a man and a brother, without distinction of color, and his saturated hair was neatly brushed, and its short curls wrought into a dainty and symmetrical general effect. [He privately smoothed out the curls, with labor and difficulty, and plastered his hair close down to his head; for he held curls to be effeminate, and his own filled his life with bitterness.] Then Mary got out a suit of his clothing that had been used only on Sundays during two years—they were simply called his “other clothes”—and so by that we know the size of his wardrobe. The girl “put him to rights” after he had dressed himself; she buttoned his neat roundabout up to his chin, turned his vast shirt collar down over his shoulders, brushed him off and crowned him with his speckled straw hat. He now looked exceedingly improved and uncomfortable. He was fully as uncomfortable as he looked; for there was a restraint about whole clothes and cleanliness that galled him. He hoped that Mary would forget his shoes, but the hope was blighted; she coated them thoroughly with tallow, as was the custom, and brought them out. He lost his temper and said he was always being made to do everything he didn’t want to do."
+      },
+      "request_id": "44c731e9fba0cf05e8025d2b",
+      "request_sha256": "498b4cee2647bbbd6349336ccb0e04b29807266ed98ca3632f6d32333457c484",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "45250231ab826c36d64975ba0bced481692d681aafc07b120616226fee0750e6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "dd088952533630c3519b4251",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: dd088952533630c3519b4251\noriginal_word_count: 451\n\nPassage:\nSuddenly the painter appeared at the door of the studio and made staccato signs for them to come in. They turned to each other and smiled.\n\n“I am waiting,” he cried. “Do come in. The light is quite perfect, and you can bring your drinks.”\n\nThey rose up and sauntered down the walk together. Two green-and-white butterflies fluttered past them, and in the pear-tree at the corner of the garden a thrush began to sing.\n\n“You are glad you have met me, Mr. Gray,” said Lord Henry, looking at him.\n\n“Yes, I am glad now. I wonder shall I always be glad?”\n\n“Always! That is a dreadful word. It makes me shudder when I hear it. Women are so fond of using it. They spoil every romance by trying to make it last for ever. It is a meaningless word, too. The only difference between a caprice and a lifelong passion is that the caprice lasts a little longer.”\n\nAs they entered the studio, Dorian Gray put his hand upon Lord Henry’s arm. “In that case, let our friendship be a caprice,” he murmured, flushing at his own boldness, then stepped up on the platform and resumed his pose.\n\nLord Henry flung himself into a large wicker arm-chair and watched him. The sweep and dash of the brush on the canvas made the only sound that broke the stillness, except when, now and then, Hallward stepped back to look at his work from a distance. In the slanting beams that streamed through the open doorway the dust danced and was golden. The heavy scent of the roses seemed to brood over everything.\n\nAfter about a quarter of an hour Hallward stopped painting, looked for a long time at Dorian Gray, and then for a long time at the picture, biting the end of one of his huge brushes and frowning. “It is quite finished,” he cried at last, and stooping down he wrote his name in long vermilion letters on the left-hand corner of the canvas.\n\nLord Henry came over and examined the picture. It was certainly a wonderful work of art, and a wonderful likeness as well.\n\n“My dear fellow, I congratulate you most warmly,” he said. “It is the finest portrait of modern times. Mr. Gray, come over and look at yourself.”\n\nThe lad started, as if awakened from some dream.\n\n“Is it really finished?” he murmured, stepping down from the platform.\n\n“Quite finished,” said the painter. “And you have sat splendidly to-day. I am awfully obliged to you.”\n\n“That is entirely due to me,” broke in Lord Henry. “Isn’t it, Mr. Gray?”\n\nDorian made no answer, but passed listlessly in front of his picture and turned towards it."
+      },
+      "request_id": "dd088952533630c3519b4251",
+      "request_sha256": "3001410341f0eba1796b1f63da6f83a871d7a744074d08c0e49d402103296108",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b71da560146bcaa89167bd035d6762793f6d400315be2a39a786219f513a08ef"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b8da31c3ec75be5bc6959be1",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 468,
+      "passage_id": "V2_poe_hans_pfaal_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: b8da31c3ec75be5bc6959be1\noriginal_word_count: 468\n\nPassage:\nIt then indicated an altitude on my part of 132,000 feet, or five-and-twenty miles, and I consequently surveyed at that time an extent of the earth’s area amounting to no less than the three hundred-and-twentieth part of its entire superficies. At nine o’clock I had again lost sight of land to the eastward, but not before I became aware that the balloon was drifting rapidly to the N. N. W. The convexity of the ocean beneath me was very evident indeed, although my view was often interrupted by the masses of cloud which floated to and fro. I observed now that even the lightest vapors never rose to more than ten miles above the level of the sea.\n\n“At half past nine I tried the experiment of throwing out a handful of feathers through the valve. They did not float as I had expected; but dropped down perpendicularly, like a bullet, en masse, and with the greatest velocity—being out of sight in a very few seconds. I did not at first know what to make of this extraordinary phenomenon; not being able to believe that my rate of ascent had, of a sudden, met with so prodigious an acceleration. But it soon occurred to me that the atmosphere was now far too rare to sustain even the feathers; that they actually fell, as they appeared to do, with great rapidity; and that I had been surprised by the united velocities of their descent and my own elevation.\n\n“By ten o’clock I found that I had very little to occupy my immediate attention. Affairs went swimmingly, and I believed the balloon to be going upward with a speed increasing momently although I had no longer any means of ascertaining the progression of the increase. I suffered no pain or uneasiness of any kind, and enjoyed better spirits than I had at any period since my departure from Rotterdam, busying myself now in examining the state of my various apparatus, and now in regenerating the atmosphere within the chamber. This latter point I determined to attend to at regular intervals of forty minutes, more on account of the preservation of my health, than from so frequent a renovation being absolutely necessary. In the meanwhile I could not help making anticipations. Fancy revelled in the wild and dreamy regions of the moon. Imagination, feeling herself for once unshackled, roamed at will among the ever-changing wonders of a shadowy and unstable land. Now there were hoary and time-honored forests, and craggy precipices, and waterfalls tumbling with a loud noise into abysses without a bottom. Then I came suddenly into still noonday solitudes, where no wind of heaven ever intruded, and where vast meadows of poppies, and slender, lily-looking flowers spread themselves out a weary distance, all silent and motionless forever."
+      },
+      "request_id": "b8da31c3ec75be5bc6959be1",
+      "request_sha256": "d7321277338f7ba91fa64fa26c07bac77fd7733fb54e8f775972fb9ccefc0598",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4f8cc7224cbfc661087db8ba39ce6f5b078536811ed9b34e5aa4f69e78009905"
+    }
+  ],
+  "session_id": "01a0e1dc-db77-7ca2-a44b-20de81379df6",
+  "worker_id": "astra_c",
+  "worker_identity_sha256": "85385f96362fb7155bec4ef09a1c5c0d6a7ab633c57687871b698abad7715535"
+}

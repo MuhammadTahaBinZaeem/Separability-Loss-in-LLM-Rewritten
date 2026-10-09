@@ -1,0 +1,10 @@
+# Keep hashed Step 8 text artifacts byte-stable across platforms.
+data/processed/selected_original_passages.csv text eol=lf
+data/processed/selected_passages_md/*.md text eol=lf
+metadata/selected_original_passage_metadata.csv text eol=lf
+metadata/selected_counts_by_author.csv text eol=lf
+metadata/selected_counts_by_work.csv text eol=lf
+metadata/selection_summary.csv text eol=crlf
+metadata/selection_filter_report.csv text eol=lf
+metadata/selected_passage_md_manifest.csv text eol=crlf
+metadata/step8_output_manifest.csv text eol=crlf

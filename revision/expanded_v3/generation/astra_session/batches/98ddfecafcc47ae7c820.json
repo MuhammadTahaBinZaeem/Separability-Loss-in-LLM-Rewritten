@@ -1,0 +1,68 @@
+{
+  "batch_id": "98ddfecafcc47ae7c820",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:22:03.046411+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8af1622bdac307f57d745387",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 8af1622bdac307f57d745387\noriginal_word_count: 473\n\nPassage:\n‘Good heavens!’ said the Duchess to herself, ‘he is a sort of cheiropodist after all. How very dreadful. I hope he is a foreigner at any rate. It wouldn’t be quite so bad then.’\n\n‘I must certainly introduce him to you.’\n\n‘Introduce him!’ cried the Duchess; ‘you don’t mean to say he is here?’ and she began looking about for a small tortoise-shell fan and a very tattered lace shawl, so as to be ready to go at a moment’s notice.\n\n‘Of course he is here; I would not dream of giving a party without him. He tells me I have a pure psychic hand, and that if my thumb had been the least little bit shorter, I should have been a confirmed pessimist, and gone into a convent.’\n\n‘Oh, I see!’ said the Duchess, feeling very much relieved; ‘he tells fortunes, I suppose?’\n\n‘And misfortunes, too,’ answered Lady Windermere, ‘any amount of them. Next year, for instance, I am in great danger, both by land and sea, so I am going to live in a balloon, and draw up my dinner in a basket every evening. It is all written down on my little finger, or on the palm of my hand, I forget which.’\n\n‘But surely that is tempting Providence, Gladys.’\n\n‘My dear Duchess, surely Providence can resist temptation by this time. I think every one should have their hands told once a month, so as to know what not to do. Of course, one does it all the same, but it is so pleasant to be warned. Now if some one doesn’t go and fetch Mr. Podgers at once, I shall have to go myself.’\n\n‘Let me go, Lady Windermere,’ said a tall handsome young man, who was standing by, listening to the conversation with an amused smile.\n\n‘Thanks so much, Lord Arthur; but I am afraid you wouldn’t recognise him.’\n\n‘If he is as wonderful as you say, Lady Windermere, I couldn’t well miss him. Tell me what he is like, and I’ll bring him to you at once.’\n\n‘Well, he is not a bit like a cheiromantist. I mean he is not mysterious, or esoteric, or romantic-looking. He is a little, stout man, with a funny, bald head, and great gold-rimmed spectacles; something between a family doctor and a country attorney. I’m really very sorry, but it is not my fault. People are so annoying. All my pianists look exactly like poets, and all my poets look exactly like pianists; and I remember last season asking a most dreadful conspirator to dinner, a man who had blown up ever so many people, and always wore a coat of mail, and carried a dagger up his shirt-sleeve; and do you know that when he came he looked just like a nice old clergyman, and cracked jokes all the evening?"
+      },
+      "request_id": "8af1622bdac307f57d745387",
+      "request_sha256": "7fc518e6f7aecceabb656bea61730736b7e092c990f4031585b44aa6285c6465",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "896cb3a6d9707db1072555faec966e5a37999c8696de2e2ec4bd5ff4ea951905"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "87b0c60015d412b6d31920a3",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_austen_pride_and_prejudice_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 87b0c60015d412b6d31920a3\noriginal_word_count: 459\n\nPassage:\nMr. Wickham was so perfectly satisfied with this conversation, that he never again distressed himself, or provoked his dear sister Elizabeth, by introducing the subject of it; and she was pleased to find that she had said enough to keep him quiet.\n\nThe day of his and Lydia’s departure soon came; and Mrs. Bennet was forced to submit to a separation, which, as her husband by no means entered into her scheme of their all going to Newcastle, was likely to continue at least a twelvemonth.\n\n“Oh, my dear Lydia,” she cried, “when shall we meet again?”\n\n“Oh, Lord! I don’t know. Not these two or three years, perhaps.”\n\n“Write to me very often, my dear.”\n\n“As often as I can. But you know married women have never much time for writing. My sisters may write to _me_. They will have nothing else to do.”\n\nMr. Wickham’s adieus were much more affectionate than his wife’s. He smiled, looked handsome, and said many pretty things.\n\n“He is as fine a fellow,” said Mr. Bennet, as soon as they were out of the house, “as ever I saw. He simpers, and smirks, and makes love to us all. I am prodigiously proud of him. I defy even Sir William Lucas himself to produce a more valuable son-in-law.”\n\nThe loss of her daughter made Mrs. Bennet very dull for several days.\n\n“I often think,” said she, “that there is nothing so bad as parting with one’s friends. One seems so forlorn without them.”\n\n“This is the consequence, you see, madam, of marrying a daughter,” said Elizabeth. “It must make you better satisfied that your other four are single.”\n\n“It is no such thing. Lydia does not leave me because she is married; but only because her husband’s regiment happens to be so far off. If that had been nearer, she would not have gone so soon.”\n\nBut the spiritless condition which this event threw her into was shortly relieved, and her mind opened again to the agitation of hope, by an article of news which then began to be in circulation. The housekeeper at Netherfield had received orders to prepare for the arrival of her master, who was coming down in a day or two, to shoot there for several weeks. Mrs. Bennet was quite in the fidgets. She looked at Jane, and smiled, and shook her head, by turns.\n\n“Well, well, and so Mr. Bingley is coming down, sister,” (for Mrs. Philips first brought her the news). “Well, so much the better. Not that I care about it, though. He is nothing to us, you know, and I am sure I never want to see him again. But, however, he is very welcome to come to Netherfield, if he likes it."
+      },
+      "request_id": "87b0c60015d412b6d31920a3",
+      "request_sha256": "2135dcbe882d00cde8dbfec4331a4b0bfb0ec51bbde6ffe35b1df8e08cc63ec0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a261286aa5c02548c6911e949923225d27fd05fd18e7836b154afccdbc260f36"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3fd39ddf4f5d9077b33a033a",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 482,
+      "passage_id": "V2_poe_hans_pfaal_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 3fd39ddf4f5d9077b33a033a\noriginal_word_count: 482\n\nPassage:\n“But, in point of fact, an ascension being made to any given altitude, the ponderable quantity of air surmounted in any farther ascension is by no means in proportion to the additional height ascended (as may be plainly seen from what has been stated before), but in a ratio constantly decreasing. It is therefore evident that, ascend as high as we may, we cannot, literally speaking, arrive at a limit beyond which no atmosphere is to be found. It must exist, I argued; although it may exist in a state of infinite rarefaction.\n\n“On the other hand, I was aware that arguments have not been wanting to prove the existence of a real and definite limit to the atmosphere, beyond which there is absolutely no air whatsoever. But a circumstance which has been left out of view by those who contend for such a limit seemed to me, although no positive refutation of their creed, still a point worthy very serious investigation. On comparing the intervals between the successive arrivals of Encke’s comet at its perihelion, after giving credit, in the most exact manner, for all the disturbances due to the attractions of the planets, it appears that the periods are gradually diminishing; that is to say, the major axis of the comet’s ellipse is growing shorter, in a slow but perfectly regular decrease. Now, this is precisely what ought to be the case, if we suppose a resistance experienced from the comet from an extremely rare ethereal medium pervading the regions of its orbit. For it is evident that such a medium must, in retarding the comet’s velocity, increase its centripetal, by weakening its centrifugal force. In other words, the sun’s attraction would be constantly attaining greater power, and the comet would be drawn nearer at every revolution. Indeed, there is no other way of accounting for the variation in question. But again:—The real diameter of the same comet’s nebulosity is observed to contract rapidly as it approaches the sun, and dilate with equal rapidity in its departure towards its aphelion. Was I not justifiable in supposing with M. Valz, that this apparent condensation of volume has its origin in the compression of the same ethereal medium I have spoken of before, and which is only denser in proportion to its solar vicinity? The lenticular-shaped phenomenon, also called the zodiacal light, was a matter worthy of attention. This radiance, so apparent in the tropics, and which cannot be mistaken for any meteoric lustre, extends from the horizon obliquely upward, and follows generally the direction of the sun’s equator. It appeared to me evidently in the nature of a rare atmosphere extending from the sun outward, beyond the orbit of Venus at least, and I believed indefinitely farther. Indeed, this medium I could not suppose confined to the path of the comet’s ellipse, or to the immediate neighborhood of the sun."
+      },
+      "request_id": "3fd39ddf4f5d9077b33a033a",
+      "request_sha256": "212134491b0eaf8abf2191909ff7920053564c2aff66397642b122eca3c38b04",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "11f3243440b10484f4f26c44d85e87fe545bfd36f6a98b7e12c0868ed60e657c"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

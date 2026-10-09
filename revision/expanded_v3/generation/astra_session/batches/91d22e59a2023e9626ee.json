@@ -1,0 +1,68 @@
+{
+  "batch_id": "91d22e59a2023e9626ee",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:45:26.201599+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8460328abca9a30d600f76e0",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 494,
+      "passage_id": "V2_poe_hans_pfaal_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 8460328abca9a30d600f76e0\noriginal_word_count: 494\n\nPassage:\n“It was not until some time afterward that I recovered myself sufficiently to attend to the ordinary cares of the balloon. I then, however, examined it with attention, and found it, to my great relief, uninjured. My implements were all safe, and, fortunately, I had lost neither ballast nor provisions. Indeed, I had so well secured them in their places, that such an accident was entirely out of the question. Looking at my watch, I found it six o’clock. I was still rapidly ascending, and my barometer gave a present altitude of three and three-quarter miles. Immediately beneath me in the ocean, lay a small black object, slightly oblong in shape, seemingly about the size, and in every way bearing a great resemblance to one of those childish toys called a domino. Bringing my telescope to bear upon it, I plainly discerned it to be a British ninety four-gun ship, close-hauled, and pitching heavily in the sea with her head to the W.S.W. Besides this ship, I saw nothing but the ocean and the sky, and the sun, which had long arisen.\n\n“It is now high time that I should explain to your Excellencies the object of my perilous voyage. Your Excellencies will bear in mind that distressed circumstances in Rotterdam had at length driven me to the resolution of committing suicide. It was not, however, that to life itself I had any positive disgust, but that I was harassed beyond endurance by the adventitious miseries attending my situation. In this state of mind, wishing to live, yet wearied with life, the treatise at the stall of the bookseller opened a resource to my imagination. I then finally made up my mind. I determined to depart, yet live—to leave the world, yet continue to exist—in short, to drop enigmas, I resolved, let what would ensue, to force a passage, if I could, to the moon. Now, lest I should be supposed more of a madman than I actually am, I will detail, as well as I am able, the considerations which led me to believe that an achievement of this nature, although without doubt difficult, and incontestably full of danger, was not absolutely, to a bold spirit, beyond the confines of the possible.\n\n“The moon’s actual distance from the earth was the first thing to be attended to. Now, the mean or average interval between the centres of the two planets is 59.9643 of the earth’s equatorial radii, or only about 237,000 miles. I say the mean or average interval, but it must be borne in mind that the form of the moon’s orbit being an ellipse of eccentricity amounting to no less than 0.05484 of the major semi-axis of the ellipse itself, and the earth’s centre being situated in its focus, if I could, in any manner, contrive to meet the moon, as it were, in its perigee, the above mentioned distance would be materially diminished."
+      },
+      "request_id": "8460328abca9a30d600f76e0",
+      "request_sha256": "be8d86c2babf9d920706b243d31caebcd479589c1d27b20c67e06afaf8096558",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bbaa59a9f9ea93f3bf2f5fa9b3005c47622a5bf80b68d12db8f57997328dcba1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7431ce364ba80757a6ad01ec",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_wilde_canterville_ghost_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 7431ce364ba80757a6ad01ec\noriginal_word_count: 459\n\nPassage:\nI am also informed by Mrs. Otis, who, I may say, is no mean authority upon Art—having had the privilege of spending several winters in Boston when she was a girl—that these gems are of great monetary worth, and if offered for sale would fetch a tall price. Under these circumstances, Lord Canterville, I feel sure that you will recognise how impossible it would be for me to allow them to remain in the possession of any member of my family; and, indeed, all such vain gauds and toys, however suitable or necessary to the dignity of the British aristocracy, would be completely out of place among those who have been brought up on the severe, and I believe immortal, principles of republican simplicity. Perhaps I should mention that Virginia is very anxious that you should allow her to retain the box as a memento of your unfortunate but misguided ancestor. As it is extremely old, and consequently a good deal out of repair, you may perhaps think fit to comply with her request. For my own part, I confess I am a good deal surprised to find a child of mine expressing sympathy with mediævalism in any form, and can only account for it by the fact that Virginia was born in one of your London suburbs shortly after Mrs. Otis had returned from a trip to Athens.’\n\nLord Canterville listened very gravely to the worthy Minister’s speech, pulling his grey moustache now and then to hide an involuntary smile, and when Mr. Otis had ended, he shook him cordially by the hand, and said, ‘My dear sir, your charming little daughter rendered my unlucky ancestor, Sir Simon, a very important service, and I and my family are much indebted to her for her marvellous courage and pluck. The jewels are clearly hers, and, egad, I believe that if I were heartless enough to take them from her, the wicked old fellow would be out of his grave in a fortnight, leading me the devil of a life. As for their being heirlooms, nothing is an heirloom that is not so mentioned in a will or legal document, and the existence of these jewels has been quite unknown. I assure you I have no more claim on them than your butler, and when Miss Virginia grows up I daresay she will be pleased to have pretty things to wear. Besides, you forget, Mr. Otis, that you took the furniture and the ghost at a valuation, and anything that belonged to the ghost passed at once into your possession, as, whatever activity Sir Simon may have shown in the corridor at night, in point of law he was really dead, and you acquired his property by purchase.’"
+      },
+      "request_id": "7431ce364ba80757a6ad01ec",
+      "request_sha256": "88c7ea592f305dfbfd75c7feeefb43cbc43d72ea3415f66980371a3ae2b506f8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7dc8f78089686c7dab8a58719cf3d5fdcb455ec881bf0fc59d893a5431139487"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "610d5ba5e53da82a4ba1698e",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 474,
+      "passage_id": "V2_dickens_oliver_twist_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 610d5ba5e53da82a4ba1698e\noriginal_word_count: 474\n\nPassage:\nCountrymen, butchers, drovers, hawkers, boys, thieves, idlers, and vagabonds of every low grade, were mingled together in a mass; the whistling of drovers, the barking dogs, the bellowing and plunging of the oxen, the bleating of sheep, the grunting and squeaking of pigs, the cries of hawkers, the shouts, oaths, and quarrelling on all sides; the ringing of bells and roar of voices, that issued from every public-house; the crowding, pushing, driving, beating, whooping and yelling; the hideous and discordant dim that resounded from every corner of the market; and the unwashed, unshaven, squalid, and dirty figures constantly running to and fro, and bursting in and out of the throng; rendered it a stunning and bewildering scene, which quite confounded the senses.\n\nMr. Sikes, dragging Oliver after him, elbowed his way through the thickest of the crowd, and bestowed very little attention on the numerous sights and sounds, which so astonished the boy. He nodded, twice or thrice, to a passing friend; and, resisting as many invitations to take a morning dram, pressed steadily onward, until they were clear of the turmoil, and had made their way through Hosier Lane into Holborn.\n\n“Now, young ’un!” said Sikes, looking up at the clock of St. Andrew’s Church, “hard upon seven! you must step out. Come, don’t lag behind already, Lazy-legs!”\n\nMr. Sikes accompanied this speech with a jerk at his little companion’s wrist; Oliver, quickening his pace into a kind of trot between a fast walk and a run, kept up with the rapid strides of the house-breaker as well as he could.\n\nThey held their course at this rate, until they had passed Hyde Park corner, and were on their way to Kensington: when Sikes relaxed his pace, until an empty cart which was at some little distance behind, came up. Seeing “Hounslow” written on it, he asked the driver with as much civility as he could assume, if he would give them a lift as far as Isleworth.\n\n“Jump up,” said the man. “Is that your boy?”\n\n“Yes; he’s my boy,” replied Sikes, looking hard at Oliver, and putting his hand abstractedly into the pocket where the pistol was.\n\n“Your father walks rather too quick for you, don’t he, my man?” inquired the driver: seeing that Oliver was out of breath.\n\n“Not a bit of it,” replied Sikes, interposing. “He’s used to it. Here, take hold of my hand, Ned. In with you!”\n\nThus addressing Oliver, he helped him into the cart; and the driver, pointing to a heap of sacks, told him to lie down there, and rest himself.\n\nAs they passed the different mile-stones, Oliver wondered, more and more, where his companion meant to take him. Kensington, Hammersmith, Chiswick, Kew Bridge, Brentford, were all passed; and yet they went on as steadily as if they had only just begun their journey."
+      },
+      "request_id": "610d5ba5e53da82a4ba1698e",
+      "request_sha256": "9c9880bad464139d19fb71699faaebe6ca5c929137d43269e84779c4202a8179",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "adb14e2cb7d0796ab24d6ae94420d6b2ad8f64d128ed134578479f017b251084"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

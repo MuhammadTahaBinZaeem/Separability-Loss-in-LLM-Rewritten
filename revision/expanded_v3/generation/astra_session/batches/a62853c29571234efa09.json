@@ -1,0 +1,68 @@
+{
+  "batch_id": "a62853c29571234efa09",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:00:45.775337+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3305cb0453d61731adeab860",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 499,
+      "passage_id": "V2_twain_connecticut_yankee_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 3305cb0453d61731adeab860\noriginal_word_count: 499\n\nPassage:\nYou see I had my handkerchief in my helmet; and some other things; but it was that kind of a helmet that you can't take off by yourself. That hadn't occurred to me when I put it there; and in fact I didn't know it. I supposed it would be particularly convenient there. And so now, the thought of its being there, so handy and close by, and yet not get-at-able, made it all the worse and the harder to bear. Yes, the thing that you can't get is the thing that you want, mainly; every one has noticed that. Well, it took my mind off from everything else; took it clear off, and centered it in my helmet; and mile after mile, there it stayed, imagining the handkerchief, picturing the handkerchief; and it was bitter and aggravating to have the salt sweat keep trickling down into my eyes, and I couldn't get at it. It seems like a little thing, on paper, but it was not a little thing at all; it was the most real kind of misery. I would not say it if it was not so. I made up my mind that I would carry along a reticule next time, let it look how it might, and people say what they would. Of course these iron dudes of the Round Table would think it was scandalous, and maybe raise Sheol about it, but as for me, give me comfort first, and style afterwards. So we jogged along, and now and then we struck a stretch of dust, and it would tumble up in clouds and get into my nose and make me sneeze and cry; and of course I said things I oughtn't to have said, I don't deny that. I am not better than others.\n\nWe couldn't seem to meet anybody in this lonesome Britain, not even an ogre; and, in the mood I was in then, it was well for the ogre; that is, an ogre with a handkerchief. Most knights would have thought of nothing but getting his armor; but so I got his bandanna, he could keep his hardware, for all of me.\n\nMeantime, it was getting hotter and hotter in there. You see, the sun was beating down and warming up the iron more and more all the time. Well, when you are hot, that way, every little thing irritates you. When I trotted, I rattled like a crate of dishes, and that annoyed me; and moreover I couldn't seem to stand that shield slatting and banging, now about my breast, now around my back; and if I dropped into a walk my joints creaked and screeched in that wearisome way that a wheelbarrow does, and as we didn't create any breeze at that gait, I was like to get fried in that stove; and besides, the quieter you went the heavier the iron settled down on you and the more and more tons you seemed to weigh every minute."
+      },
+      "request_id": "3305cb0453d61731adeab860",
+      "request_sha256": "bea2012900e107f6f5542ba6075c22d1aec95675fb9623723ef32d047bd8af8b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9c29071d207a292bd5ac1ba872ac7f228c47f3020a18e7bf30d7f9dc1b10f87c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5ea668fd058a7a657518fd0d",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_shelley_the_last_man_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 5ea668fd058a7a657518fd0d\noriginal_word_count: 450\n\nPassage:\nRaymond strode angrily up and down the room. I stood ready to receive and reply to his reproaches. Adrian leaned against the wall. “This is infinitely ridiculous,” he cried, “if you were school-boys, you could not conduct yourselves more unreasonably.”\n\n“You do not understand,” said Raymond. “This is only part of a system:—a scheme of tyranny to which I will never submit. Because I am Protector of England, am I to be the only slave in its empire? My privacy invaded, my actions censured, my friends insulted? But I will get rid of the whole together.—Be you witnesses,” and he took the star, insignia of office, from his breast, and threw it on the table. “I renounce my office, I abdicate my power—assume it who will!”—-\n\n“Let him assume it,” exclaimed Adrian, “who can pronounce himself, or whom the world will pronounce to be your superior. There does not exist the man in England with adequate presumption. Know yourself, Raymond, and your indignation will cease; your complacency return. A few months ago, whenever we prayed for the prosperity of our country, or our own, we at the same time prayed for the life and welfare of the Protector, as indissolubly linked to it. Your hours were devoted to our benefit, your ambition was to obtain our commendation. You decorated our towns with edifices, you bestowed on us useful establishments, you gifted the soil with abundant fertility. The powerful and unjust cowered at the steps of your judgment-seat, and the poor and oppressed arose like morn-awakened flowers under the sunshine of your protection.\n\n“Can you wonder that we are all aghast and mourn, when this appears changed? But, come, this splenetic fit is already passed; resume your functions; your partizans will hail you; your enemies be silenced; our love, honour, and duty will again be manifested towards you. Master yourself, Raymond, and the world is subject to you.”\n\n“All this would be very good sense, if addressed to another,” replied Raymond, moodily, “con the lesson yourself, and you, the first peer of the land, may become its sovereign. You the good, the wise, the just, may rule all hearts. But I perceive, too soon for my own happiness, too late for England’s good, that I undertook a task to which I am unequal. I cannot rule myself. My passions are my masters; my smallest impulse my tyrant. Do you think that I renounced the Protectorate (and I have renounced it) in a fit of spleen? By the God that lives, I swear never to take up that bauble again; never again to burthen myself with the weight of care and misery, of which that is the visible sign."
+      },
+      "request_id": "5ea668fd058a7a657518fd0d",
+      "request_sha256": "bf2030fafc2e7863ef269ea70d52f8e2e64d3ad975a147a3a35c7ad368fa560c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5f617560747aa5bab168d3dd476151ac9e2e9ead271376653670c100990708ed"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e1f85bb672ec5831a4c96cac",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 467,
+      "passage_id": "V2_poe_hans_pfaal_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: e1f85bb672ec5831a4c96cac\noriginal_word_count: 467\n\nPassage:\nBy late accounts from Rotterdam, that city seems to be in a high state of philosophical excitement. Indeed, phenomena have there occurred of a nature so completely unexpected—so entirely novel—so utterly at variance with preconceived opinions—as to leave no doubt on my mind that long ere this all Europe is in an uproar, all physics in a ferment, all reason and astronomy together by the ears.\n\nIt appears that on the—— day of—— (I am not positive about the date), a vast crowd of people, for purposes not specifically mentioned, were assembled in the great square of the Exchange in the well-conditioned city of Rotterdam. The day was warm—unusually so for the season—there was hardly a breath of air stirring; and the multitude were in no bad humor at being now and then besprinkled with friendly showers of momentary duration, that fell from large white masses of cloud which chequered in a fitful manner the blue vault of the firmament. Nevertheless, about noon, a slight but remarkable agitation became apparent in the assembly: the clattering of ten thousand tongues succeeded; and, in an instant afterward, ten thousand faces were upturned toward the heavens, ten thousand pipes descended simultaneously from the corners of ten thousand mouths, and a shout, which could be compared to nothing but the roaring of Niagara, resounded long, loudly, and furiously, through all the environs of Rotterdam.\n\nThe origin of this hubbub soon became sufficiently evident. From behind the huge bulk of one of those sharply-defined masses of cloud already mentioned, was seen slowly to emerge into an open area of blue space, a queer, heterogeneous, but apparently solid substance, so oddly shaped, so whimsically put together, as not to be in any manner comprehended, and never to be sufficiently admired, by the host of sturdy burghers who stood open-mouthed below. What could it be? In the name of all the vrows and devils in Rotterdam, what could it possibly portend? No one knew, no one could imagine; no one—not even the burgomaster Mynheer Superbus Von Underduk—had the slightest clew by which to unravel the mystery; so, as nothing more reasonable could be done, every one to a man replaced his pipe carefully in the corner of his mouth, and cocking up his right eye towards the phenomenon, puffed, paused, waddled about, and grunted significantly—then waddled back, grunted, paused, and finally—puffed again.\n\nIn the meantime, however, lower and still lower toward the goodly city, came the object of so much curiosity, and the cause of so much smoke. In a very few minutes it arrived near enough to be accurately discerned. It appeared to be—yes! it was undoubtedly a species of balloon; but surely no such balloon had ever been seen in Rotterdam before."
+      },
+      "request_id": "e1f85bb672ec5831a4c96cac",
+      "request_sha256": "1645f8ce1cef569c828d850c377a0d2a5b03d1877964f7414dba0fedb0ce7b1f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5f3b57a2101d9c8737365c065927d18c8d2840f37c31dde6dbd5d4ada8c8f2d4"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

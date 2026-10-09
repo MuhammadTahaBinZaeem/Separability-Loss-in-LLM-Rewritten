@@ -1,0 +1,68 @@
+{
+  "batch_id": "5fdac7838719e1bfb1b8",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:04:24.833226+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5620a097e271764634364645",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_persuasion_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 5620a097e271764634364645\noriginal_word_count: 465\n\nPassage:\nMrs Clay’s affections had overpowered her interest, and she had sacrificed, for the young man’s sake, the possibility of scheming longer for Sir Walter. She has abilities, however, as well as affections; and it is now a doubtful point whether his cunning, or hers, may finally carry the day; whether, after preventing her from being the wife of Sir Walter, he may not be wheedled and caressed at last into making her the wife of Sir William.\n\nIt cannot be doubted that Sir Walter and Elizabeth were shocked and mortified by the loss of their companion, and the discovery of their deception in her. They had their great cousins, to be sure, to resort to for comfort; but they must long feel that to flatter and follow others, without being flattered and followed in turn, is but a state of half enjoyment.\n\nAnne, satisfied at a very early period of Lady Russell’s meaning to love Captain Wentworth as she ought, had no other alloy to the happiness of her prospects than what arose from the consciousness of having no relations to bestow on him which a man of sense could value. There she felt her own inferiority very keenly. The disproportion in their fortune was nothing; it did not give her a moment’s regret; but to have no family to receive and estimate him properly, nothing of respectability, of harmony, of good will to offer in return for all the worth and all the prompt welcome which met her in his brothers and sisters, was a source of as lively pain as her mind could well be sensible of under circumstances of otherwise strong felicity. She had but two friends in the world to add to his list, Lady Russell and Mrs Smith. To those, however, he was very well disposed to attach himself. Lady Russell, in spite of all her former transgressions, he could now value from his heart. While he was not obliged to say that he believed her to have been right in originally dividing them, he was ready to say almost everything else in her favour, and as for Mrs Smith, she had claims of various kinds to recommend her quickly and permanently.\n\nHer recent good offices by Anne had been enough in themselves, and their marriage, instead of depriving her of one friend, secured her two. She was their earliest visitor in their settled life; and Captain Wentworth, by putting her in the way of recovering her husband’s property in the West Indies, by writing for her, acting for her, and seeing her through all the petty difficulties of the case with the activity and exertion of a fearless man and a determined friend, fully requited the services which she had rendered, or ever meant to render, to his wife."
+      },
+      "request_id": "5620a097e271764634364645",
+      "request_sha256": "0e9ccad390218d08278d5715317fda94f1f31e2a1506017f3de172d12f0cff75",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8b0e1ec21460f86198aecf9858df0a68e2fe32c2b6a9454618b094dde823aeb7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5e96465fbd201e072d4e2c61",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_twain_tom_sawyer_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 5e96465fbd201e072d4e2c61\noriginal_word_count: 455\n\nPassage:\nHe never made a second attempt. The boys lay there counting the dragging moments till it seemed to them that time must be done and eternity growing gray; and then they were grateful to note that at last the sun was setting.\n\nNow one snore ceased. Injun Joe sat up, stared around—smiled grimly upon his comrade, whose head was drooping upon his knees—stirred him up with his foot and said:\n\n“Here! _You’re_ a watchman, ain’t you! All right, though—nothing’s happened.”\n\n“My! have I been asleep?”\n\n“Oh, partly, partly. Nearly time for us to be moving, pard. What’ll we do with what little swag we’ve got left?”\n\n“I don’t know—leave it here as we’ve always done, I reckon. No use to take it away till we start south. Six hundred and fifty in silver’s something to carry.”\n\n“Well—all right—it won’t matter to come here once more.”\n\n“No—but I’d say come in the night as we used to do—it’s better.”\n\n“Yes: but look here; it may be a good while before I get the right chance at that job; accidents might happen; ’tain’t in such a very good place; we’ll just regularly bury it—and bury it deep.”\n\n“Good idea,” said the comrade, who walked across the room, knelt down, raised one of the rearward hearth-stones and took out a bag that jingled pleasantly. He subtracted from it twenty or thirty dollars for himself and as much for Injun Joe, and passed the bag to the latter, who was on his knees in the corner, now, digging with his bowie-knife.\n\nThe boys forgot all their fears, all their miseries in an instant. With gloating eyes they watched every movement. Luck!—the splendor of it was beyond all imagination! Six hundred dollars was money enough to make half a dozen boys rich! Here was treasure-hunting under the happiest auspices—there would not be any bothersome uncertainty as to where to dig. They nudged each other every moment—eloquent nudges and easily understood, for they simply meant—“Oh, but ain’t you glad _now_ we’re here!”\n\nJoe’s knife struck upon something.\n\n“Hello!” said he.\n\n“What is it?” said his comrade.\n\n“Half-rotten plank—no, it’s a box, I believe. Here—bear a hand and we’ll see what it’s here for. Never mind, I’ve broke a hole.”\n\nHe reached his hand in and drew it out—\n\n“Man, it’s money!”\n\nThe two men examined the handful of coins. They were gold. The boys above were as excited as themselves, and as delighted.\n\nJoe’s comrade said:\n\n“We’ll make quick work of this. There’s an old rusty pick over amongst the weeds in the corner the other side of the fireplace—I saw it a minute ago.”"
+      },
+      "request_id": "5e96465fbd201e072d4e2c61",
+      "request_sha256": "78a35fd458245f51f8bed53ac505d5fc9c7851a82af0b4795b4d89beacfab818",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bc794c14cb042bdd8139b2d62694aaa8902c0bcc9c2015ceb882c682e1e6a33e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8f88c184a070d6e4b6a61668",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 479,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 8f88c184a070d6e4b6a61668\noriginal_word_count: 479\n\nPassage:\n“Charles Evrémonde, called Darnay,” was at length arraigned.\n\nHis judges sat upon the Bench in feathered hats; but the rough red cap and tricoloured cockade was the head-dress otherwise prevailing. Looking at the Jury and the turbulent audience, he might have thought that the usual order of things was reversed, and that the felons were trying the honest men. The lowest, cruelest, and worst populace of a city, never without its quantity of low, cruel, and bad, were the directing spirits of the scene: noisily commenting, applauding, disapproving, anticipating, and precipitating the result, without a check. Of the men, the greater part were armed in various ways; of the women, some wore knives, some daggers, some ate and drank as they looked on, many knitted. Among these last, was one, with a spare piece of knitting under her arm as she worked. She was in a front row, by the side of a man whom he had never seen since his arrival at the Barrier, but whom he directly remembered as Defarge. He noticed that she once or twice whispered in his ear, and that she seemed to be his wife; but, what he most noticed in the two figures was, that although they were posted as close to himself as they could be, they never looked towards him. They seemed to be waiting for something with a dogged determination, and they looked at the Jury, but at nothing else. Under the President sat Doctor Manette, in his usual quiet dress. As well as the prisoner could see, he and Mr. Lorry were the only men there, unconnected with the Tribunal, who wore their usual clothes, and had not assumed the coarse garb of the Carmagnole.\n\nCharles Evrémonde, called Darnay, was accused by the public prosecutor as an emigrant, whose life was forfeit to the Republic, under the decree which banished all emigrants on pain of Death. It was nothing that the decree bore date since his return to France. There he was, and there was the decree; he had been taken in France, and his head was demanded.\n\n“Take off his head!” cried the audience. “An enemy to the Republic!”\n\nThe President rang his bell to silence those cries, and asked the prisoner whether it was not true that he had lived many years in England?\n\nUndoubtedly it was.\n\nWas he not an emigrant then? What did he call himself?\n\nNot an emigrant, he hoped, within the sense and spirit of the law.\n\nWhy not? the President desired to know.\n\nBecause he had voluntarily relinquished a title that was distasteful to him, and a station that was distasteful to him, and had left his country--he submitted before the word emigrant in the present acceptation by the Tribunal was in use--to live by his own industry in England, rather than on the industry of the overladen people of France."
+      },
+      "request_id": "8f88c184a070d6e4b6a61668",
+      "request_sha256": "9a974927b3ccc2e8da1c32919e1fe47bcdbb27bb5e5f437df1f3550f6f2eae96",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5670489206bfbe8dd2caf772e568aae7e34cfbf70cb9a8c860dac6008e8d7cb9"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

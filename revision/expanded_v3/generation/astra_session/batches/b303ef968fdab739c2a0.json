@@ -1,0 +1,68 @@
+{
+  "batch_id": "b303ef968fdab739c2a0",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:51:19.120221+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1d66962f7088a25fa84f44e0",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 500,
+      "passage_id": "V2_twain_connecticut_yankee_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 1d66962f7088a25fa84f44e0\noriginal_word_count: 500\n\nPassage:\nI could remember how it was in the time of our great civil war in the nineteenth century. In the North a carpenter got three dollars a day, gold valuation; in the South he got fifty--payable in Confederate shinplasters worth a dollar a bushel. In the North a suit of overalls cost three dollars--a day's wages; in the South it cost seventy-five --which was two days' wages. Other things were in proportion. Consequently, wages were twice as high in the North as they were in the South, because the one wage had that much more purchasing power than the other had.\n\nYes, I made various acquaintances in the hamlet and a thing that gratified me a good deal was to find our new coins in circulation --lots of milrays, lots of mills, lots of cents, a good many nickels, and some silver; all this among the artisans and commonalty generally; yes, and even some gold--but that was at the bank, that is to say, the goldsmith's. I dropped in there while Marco, the son of Marco, was haggling with a shopkeeper over a quarter of a pound of salt, and asked for change for a twenty-dollar gold piece. They furnished it--that is, after they had chewed the piece, and rung it on the counter, and tried acid on it, and asked me where I got it, and who I was, and where I was from, and where I was going to, and when I expected to get there, and perhaps a couple of hundred more questions; and when they got aground, I went right on and furnished them a lot of information voluntarily; told them I owned a dog, and his name was Watch, and my first wife was a Free Will Baptist, and her grandfather was a Prohibitionist, and I used to know a man who had two thumbs on each hand and a wart on the inside of his upper lip, and died in the hope of a glorious resurrection, and so on, and so on, and so on, till even that hungry village questioner began to look satisfied, and also a shade put out; but he had to respect a man of my financial strength, and so he didn't give me any lip, but I noticed he took it out of his underlings, which was a perfectly natural thing to do. Yes, they changed my twenty, but I judged it strained the bank a little, which was a thing to be expected, for it was the same as walking into a paltry village store in the nineteenth century and requiring the boss of it to change a two thousand-dollar bill for you all of a sudden. He could do it, maybe; but at the same time he would wonder how a small farmer happened to be carrying so much money around in his pocket; which was probably this goldsmith's thought, too; for he followed me to the door and stood there gazing after me with reverent admiration."
+      },
+      "request_id": "1d66962f7088a25fa84f44e0",
+      "request_sha256": "691600f1474e35e216ce5f87e2c23b925867d8331fb858a0baaceece306ea830",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "21e1f1325434f3f7d7ffaef4c726e7c71caadaa2fc3e223cade78476e07e93e7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "05a22045eb11254cf0150af3",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_austen_emma_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 05a22045eb11254cf0150af3\noriginal_word_count: 460\n\nPassage:\nBut now, she would rather it had not happened. She believed he had been drinking too much of Mr. Weston’s good wine, and felt sure that he would want to be talking nonsense.\n\nTo restrain him as much as might be, by her own manners, she was immediately preparing to speak with exquisite calmness and gravity of the weather and the night; but scarcely had she begun, scarcely had they passed the sweep-gate and joined the other carriage, than she found her subject cut up—her hand seized—her attention demanded, and Mr. Elton actually making violent love to her: availing himself of the precious opportunity, declaring sentiments which must be already well known, hoping—fearing—adoring—ready to die if she refused him; but flattering himself that his ardent attachment and unequalled love and unexampled passion could not fail of having some effect, and in short, very much resolved on being seriously accepted as soon as possible. It really was so. Without scruple—without apology—without much apparent diffidence, Mr. Elton, the lover of Harriet, was professing himself _her_ lover. She tried to stop him; but vainly; he would go on, and say it all. Angry as she was, the thought of the moment made her resolve to restrain herself when she did speak. She felt that half this folly must be drunkenness, and therefore could hope that it might belong only to the passing hour. Accordingly, with a mixture of the serious and the playful, which she hoped would best suit his half and half state, she replied,\n\n“I am very much astonished, Mr. Elton. This to _me_! you forget yourself—you take me for my friend—any message to Miss Smith I shall be happy to deliver; but no more of this to _me_, if you please.”\n\n“Miss Smith!—message to Miss Smith!—What could she possibly mean!”—And he repeated her words with such assurance of accent, such boastful pretence of amazement, that she could not help replying with quickness,\n\n“Mr. Elton, this is the most extraordinary conduct! and I can account for it only in one way; you are not yourself, or you could not speak either to me, or of Harriet, in such a manner. Command yourself enough to say no more, and I will endeavour to forget it.”\n\nBut Mr. Elton had only drunk wine enough to elevate his spirits, not at all to confuse his intellects. He perfectly knew his own meaning; and having warmly protested against her suspicion as most injurious, and slightly touched upon his respect for Miss Smith as her friend,—but acknowledging his wonder that Miss Smith should be mentioned at all,—he resumed the subject of his own passion, and was very urgent for a favourable answer."
+      },
+      "request_id": "05a22045eb11254cf0150af3",
+      "request_sha256": "5596981d2da3c9a34a8118e60451de075bcb6dd9abd900ea6b8143f8b40e21ca",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5ac1eb58b964de10cf284d81045dc8e0d068a5eb87b6664b421e0984f125fe67"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a815f51a61c0d471676dbf79",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_wilde_canterville_ghost_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: a815f51a61c0d471676dbf79\noriginal_word_count: 452\n\nPassage:\nMr. Otis was a good deal distressed at Lord Canterville’s refusal, and begged him to reconsider his decision, but the good-natured peer was quite firm, and finally induced the Minister to allow his daughter to retain the present the ghost had given her, and when, in the spring of 1890, the young Duchess of Cheshire was presented at the Queen’s first drawing-room on the occasion of her marriage, her jewels were the universal theme of admiration. For Virginia received the coronet, which is the reward of all good little American girls, and was married to her boy-lover as soon as he came of age. They were both so charming, and they loved each other so much, that every one was delighted at the match, except the old Marchioness of Dumbleton, who had tried to catch the Duke for one of her seven unmarried daughters, and had given no less than three expensive dinner-parties for that purpose, and, strange to say, Mr. Otis himself. Mr. Otis was extremely fond of the young Duke personally, but, theoretically, he objected to titles, and, to use his own words, ‘was not without apprehension lest, amid the enervating influences of a pleasure-loving aristocracy, the true principles of republican simplicity should be forgotten.’ His objections, however, were completely overruled, and I believe that when he walked up the aisle of St. George’s, Hanover Square, with his daughter leaning on his arm, there was not a prouder man in the whole length and breadth of England.\n\nThe Duke and Duchess, after the honeymoon was over, went down to Canterville Chase, and on the day after their arrival they walked over in the afternoon to the lonely churchyard by the pine-woods. There had been a great deal of difficulty at first about the inscription on Sir Simon’s tombstone, but finally it had been decided to engrave on it simply the initials of the old gentleman’s name, and the verse from the library window. The Duchess had brought with her some lovely roses, which she strewed upon the grave, and after they had stood by it for some time they strolled into the ruined chancel of the old abbey. There the Duchess sat down on a fallen pillar, while her husband lay at her feet smoking a cigarette and looking up at her beautiful eyes. Suddenly he threw his cigarette away, took hold of her hand, and said to her, ‘Virginia, a wife should have no secrets from her husband.’\n\n‘Dear Cecil! I have no secrets from you.’\n\n‘Yes, you have,’ he answered, smiling, ‘you have never told me what happened to you when you were locked up with the ghost.’\n\n‘I have never told any one, Cecil,’ said Virginia gravely."
+      },
+      "request_id": "a815f51a61c0d471676dbf79",
+      "request_sha256": "25509fd48376e444f9b951fefaad6f660971782b286a659cf52270dc720cd0c3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a3296ac5c9ac1842f9c4e2d85b6a69de444b69ed5e3ced769c4916779f13a79d"
+    }
+  ],
+  "session_id": "01a0e847-b893-7c52-8311-f3acf99043e1",
+  "worker_id": "astra_l",
+  "worker_identity_sha256": "2c5da61879bebe3353fa66cda11e4cbc6ce4420d78f567ebeb859dde68cb1df4"
+}

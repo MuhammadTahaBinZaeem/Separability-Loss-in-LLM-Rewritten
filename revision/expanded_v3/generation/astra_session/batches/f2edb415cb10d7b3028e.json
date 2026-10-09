@@ -1,0 +1,68 @@
+{
+  "batch_id": "f2edb415cb10d7b3028e",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:27:12.044647+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0fdf0329e48172c898180ad6",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_great_expectations_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 0fdf0329e48172c898180ad6\noriginal_word_count: 450\n\nPassage:\nShe looked at me keenly for a little while, and then said quietly,—\n\n“What do you want for them?”\n\n“Only,” said I, “that you would not confound them with the others. They may be of the same blood, but, believe me, they are not of the same nature.”\n\nStill looking at me keenly, Miss Havisham repeated,—\n\n“What do you want for them?”\n\n“I am not so cunning, you see,” I said, in answer, conscious that I reddened a little, “as that I could hide from you, even if I desired, that I do want something. Miss Havisham, if you would spare the money to do my friend Herbert a lasting service in life, but which from the nature of the case must be done without his knowledge, I could show you how.”\n\n“Why must it be done without his knowledge?” she asked, settling her hands upon her stick, that she might regard me the more attentively.\n\n“Because,” said I, “I began the service myself, more than two years ago, without his knowledge, and I don’t want to be betrayed. Why I fail in my ability to finish it, I cannot explain. It is a part of the secret which is another person’s and not mine.”\n\nShe gradually withdrew her eyes from me, and turned them on the fire. After watching it for what appeared in the silence and by the light of the slowly wasting candles to be a long time, she was roused by the collapse of some of the red coals, and looked towards me again—at first, vacantly—then, with a gradually concentrating attention. All this time Estella knitted on. When Miss Havisham had fixed her attention on me, she said, speaking as if there had been no lapse in our dialogue,—\n\n“What else?”\n\n“Estella,” said I, turning to her now, and trying to command my trembling voice, “you know I love you. You know that I have loved you long and dearly.”\n\nShe raised her eyes to my face, on being thus addressed, and her fingers plied their work, and she looked at me with an unmoved countenance. I saw that Miss Havisham glanced from me to her, and from her to me.\n\n“I should have said this sooner, but for my long mistake. It induced me to hope that Miss Havisham meant us for one another. While I thought you could not help yourself, as it were, I refrained from saying it. But I must say it now.”\n\nPreserving her unmoved countenance, and with her fingers still going, Estella shook her head.\n\n“I know,” said I, in answer to that action,—“I know. I have no hope that I shall ever call you mine, Estella."
+      },
+      "request_id": "0fdf0329e48172c898180ad6",
+      "request_sha256": "1a2ce0efa86d2b3799a16934ef2061a6e7deec8ba8ac8a480f53be301aec8ac5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "39294001316e512390a626779ab326486027e51e10a0c9a2c0e23b5649be30d5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "901837a5d4e173161f06ae85",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 901837a5d4e173161f06ae85\noriginal_word_count: 454\n\nPassage:\nIf, however, you want one for home use, I can supply you with an excellent article, and guarantee that you will he satisfied with the result. May I ask for whom it is intended? If it is for the police, or for any one connected with Scotland Yard, I am afraid I cannot do anything for you. The English detectives are really our best friends, and I have always found that by relying on their stupidity, we can do exactly what we like. I could not spare one of them.’\n\n‘I assure you,’ said Lord Arthur, ‘that it has nothing to do with the police at all. In fact, the clock is intended for the Dean of Chichester.’\n\n‘Dear me! I had no idea that you felt so strongly about religion, Lord Arthur. Few young men do nowadays.’\n\n‘I am afraid you overrate me, Herr Winckelkopf,’ said Lord Arthur, blushing. ‘The fact is, I really know nothing about theology.’\n\n‘It is a purely private matter then?’\n\n‘Purely private.’\n\nHerr Winckelkopf shrugged his shoulders, and left the room, returning in a few minutes with a round cake of dynamite about the size of a penny, and a pretty little French clock, surmounted by an ormolu figure of Liberty trampling on the hydra of Despotism.\n\nLord Arthur’s face brightened up when he saw it. ‘That is just what I want,’ he cried, ‘and now tell me how it goes off.’\n\n‘Ah! there is my secret,’ answered Herr Winckelkopf, contemplating his invention with a justifiable look of pride; ‘let me know when you wish it to explode, and I will set the machine to the moment.’\n\n‘Well, to-day is Tuesday, and if you could send it off at once—’\n\n‘That is impossible; I have a great deal of important work on hand for some friends of mine in Moscow. Still, I might send it off to-morrow.’\n\n‘Oh, it will be quite time enough!’ said Lord Arthur politely, ‘if it is delivered to-morrow night or Thursday morning. For the moment of the explosion, say Friday at noon exactly. The Dean is always at home at that hour.’\n\n‘Friday, at noon,’ repeated Herr Winckelkopf, and he made a note to that effect in a large ledger that was lying on a bureau near the fireplace.\n\n‘And now,’ said Lord Arthur, rising from his seat, ‘pray let me know how much I am in your debt.’\n\n‘It is such a small matter, Lord Arthur, that I do not care to make any charge. The dynamite comes to seven and sixpence, the clock will be three pounds ten, and the carriage about five shillings. I am only too pleased to oblige any friend of Count Rouvaloff’s.’\n\n‘But your trouble, Herr Winckelkopf?’"
+      },
+      "request_id": "901837a5d4e173161f06ae85",
+      "request_sha256": "384aea793133d55ff0c82fe09525f6e24d600cea51effeb5b82af5dd1b7edda8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "20ddb375329305b47d960aa9e9dafc7300acad38407a60623dcfa08452a3fcc6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8552a08249b3f8228311f054",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_austen_persuasion_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 8552a08249b3f8228311f054\noriginal_word_count: 464\n\nPassage:\nShe now felt a great inclination to go to the outer door; she wanted to see if it rained. Why was she to suspect herself of another motive? Captain Wentworth must be out of sight. She left her seat, she would go; one half of her should not be always so much wiser than the other half, or always suspecting the other of being worse than it was. She would see if it rained. She was sent back, however, in a moment by the entrance of Captain Wentworth himself, among a party of gentlemen and ladies, evidently his acquaintance, and whom he must have joined a little below Milsom Street. He was more obviously struck and confused by the sight of her than she had ever observed before; he looked quite red. For the first time, since their renewed acquaintance, she felt that she was betraying the least sensibility of the two. She had the advantage of him in the preparation of the last few moments. All the overpowering, blinding, bewildering, first effects of strong surprise were over with her. Still, however, she had enough to feel! It was agitation, pain, pleasure, a something between delight and misery.\n\nHe spoke to her, and then turned away. The character of his manner was embarrassment. She could not have called it either cold or friendly, or anything so certainly as embarrassed.\n\nAfter a short interval, however, he came towards her, and spoke again. Mutual enquiries on common subjects passed: neither of them, probably, much the wiser for what they heard, and Anne continuing fully sensible of his being less at ease than formerly. They had by dint of being so very much together, got to speak to each other with a considerable portion of apparent indifference and calmness; but he could not do it now. Time had changed him, or Louisa had changed him. There was consciousness of some sort or other. He looked very well, not as if he had been suffering in health or spirits, and he talked of Uppercross, of the Musgroves, nay, even of Louisa, and had even a momentary look of his own arch significance as he named her; but yet it was Captain Wentworth not comfortable, not easy, not able to feign that he was.\n\nIt did not surprise, but it grieved Anne to observe that Elizabeth would not know him. She saw that he saw Elizabeth, that Elizabeth saw him, that there was complete internal recognition on each side; she was convinced that he was ready to be acknowledged as an acquaintance, expecting it, and she had the pain of seeing her sister turn away with unalterable coldness.\n\nLady Dalrymple’s carriage, for which Miss Elliot was growing very impatient, now drew up; the servant came in to announce it."
+      },
+      "request_id": "8552a08249b3f8228311f054",
+      "request_sha256": "660dfae0c0b6479b096d73ec34d41792ec02b01eb2fa38dfd1a687085e37613c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0877b159874ed7779521bd97afb589450f0e887d1250429d8eece2330cb476a9"
+    }
+  ],
+  "session_id": "01a0e861-03f8-7221-8672-8e262e9ebfc7",
+  "worker_id": "astra_t",
+  "worker_identity_sha256": "c223dffc33181152e7b2fea39b5f4b9f77c7ee2ed9647b0e46dbc4f2b2b1711f"
+}

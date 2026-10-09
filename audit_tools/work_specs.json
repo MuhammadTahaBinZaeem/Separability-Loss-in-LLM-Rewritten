@@ -1,0 +1,20 @@
+[
+  {"author_id":"austen","work_id":"emma","title":"Emma","source_id":158,"start":"Emma Woodhouse, handsome, clever, and rich","end":"__GUTENBERG_END__"},
+  {"author_id":"austen","work_id":"pride_and_prejudice","title":"Pride and Prejudice","source_id":1342,"start":"It is a truth universally acknowledged","end":"__GUTENBERG_END__"},
+  {"author_id":"austen","work_id":"persuasion","title":"Persuasion","source_id":105,"start":"Sir Walter Elliot, of Kellynch Hall","end":"__GUTENBERG_END__"},
+  {"author_id":"dickens","work_id":"great_expectations","title":"Great Expectations","source_id":1400,"start":"My father’s family name being Pirrip","end":"__GUTENBERG_END__"},
+  {"author_id":"dickens","work_id":"oliver_twist","title":"Oliver Twist","source_id":730,"start":"Among other public buildings in a certain town","end":"__GUTENBERG_END__"},
+  {"author_id":"dickens","work_id":"a_tale_of_two_cities","title":"A Tale of Two Cities","source_id":98,"start":"It was the best of times, it was the worst of times","end":"__GUTENBERG_END__"},
+  {"author_id":"poe","work_id":"hans_pfaal","title":"The Unparalleled Adventures of One Hans Pfaal","source_id":2147,"start":"By late accounts from Rotterdam","end":"Notes to Hans Pfaal"},
+  {"author_id":"poe","work_id":"the_gold_bug","title":"The Gold-Bug","source_id":2147,"start":"Many years ago, I contracted an intimacy","end":"FOUR BEASTS IN ONE—THE HOMO-CAMELEOPARD"},
+  {"author_id":"poe","work_id":"murders_rue_morgue","title":"The Murders in the Rue Morgue","source_id":2147,"start":"The mental features discoursed of as the analytical","end":"THE MYSTERY OF MARIE ROGET."},
+  {"author_id":"shelley","work_id":"frankenstein","title":"Frankenstein","source_id":84,"start":"You will rejoice to hear that no disaster","end":"__GUTENBERG_END__"},
+  {"author_id":"shelley","work_id":"the_last_man","title":"The Last Man","source_id":18247,"start":"I am the native of a sea-surrounded nook","end":"__GUTENBERG_END__"},
+  {"author_id":"shelley","work_id":"mathilda","title":"Mathilda","source_id":15238,"start":"It is only four o’clock; but it is winter","end":"NOTES TO _MATHILDA_","exclude_editorial_interpolations":true},
+  {"author_id":"twain","work_id":"huckleberry_finn","title":"Adventures of Huckleberry Finn","source_id":76,"start":"You don’t know about me without you have read","end":"__GUTENBERG_END__"},
+  {"author_id":"twain","work_id":"tom_sawyer","title":"The Adventures of Tom Sawyer","source_id":74,"start":"“Tom!” No answer. “TOM!” No answer.","end":"__GUTENBERG_END__"},
+  {"author_id":"twain","work_id":"connecticut_yankee","title":"A Connecticut Yankee in King Arthur's Court","source_id":86,"start":"It was in Warwick Castle that I came across","end":"__GUTENBERG_END__"},
+  {"author_id":"wilde","work_id":"dorian_gray","title":"The Picture of Dorian Gray","source_id":174,"start":"The studio was filled with the rich odour of roses","end":"__GUTENBERG_END__"},
+  {"author_id":"wilde","work_id":"lord_arthur_saviles_crime","title":"Lord Arthur Savile’s Crime","source_id":773,"start":"IT was Lady Windermere’s last reception before Easter","end":"THE CANTERVILLE GHOST A HYLO-IDEALISTIC ROMANCE"},
+  {"author_id":"wilde","work_id":"canterville_ghost","title":"The Canterville Ghost","source_id":773,"start":"WHEN Mr. Hiram B. Otis, the American Minister","end":"THE SPHINX WITHOUT A SECRET AN ETCHING"}
+]

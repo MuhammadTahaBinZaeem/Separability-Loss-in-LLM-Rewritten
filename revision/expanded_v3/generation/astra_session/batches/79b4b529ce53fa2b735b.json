@@ -1,0 +1,68 @@
+{
+  "batch_id": "79b4b529ce53fa2b735b",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:02:28.484469+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c15beafb9ffb621f788d3786",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 510,
+      "passage_id": "V2_austen_emma_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: c15beafb9ffb621f788d3786\noriginal_word_count: 510\n\nPassage:\nEmma was not required, by any subsequent discovery, to retract her ill opinion of Mrs. Elton. Her observation had been pretty correct. Such as Mrs. Elton appeared to her on this second interview, such she appeared whenever they met again,—self-important, presuming, familiar, ignorant, and ill-bred. She had a little beauty and a little accomplishment, but so little judgment that she thought herself coming with superior knowledge of the world, to enliven and improve a country neighbourhood; and conceived Miss Hawkins to have held such a place in society as Mrs. Elton’s consequence only could surpass.\n\nThere was no reason to suppose Mr. Elton thought at all differently from his wife. He seemed not merely happy with her, but proud. He had the air of congratulating himself on having brought such a woman to Highbury, as not even Miss Woodhouse could equal; and the greater part of her new acquaintance, disposed to commend, or not in the habit of judging, following the lead of Miss Bates’s good-will, or taking it for granted that the bride must be as clever and as agreeable as she professed herself, were very well satisfied; so that Mrs. Elton’s praise passed from one mouth to another as it ought to do, unimpeded by Miss Woodhouse, who readily continued her first contribution and talked with a good grace of her being “very pleasant and very elegantly dressed.”\n\nIn one respect Mrs. Elton grew even worse than she had appeared at first. Her feelings altered towards Emma.—Offended, probably, by the little encouragement which her proposals of intimacy met with, she drew back in her turn and gradually became much more cold and distant; and though the effect was agreeable, the ill-will which produced it was necessarily increasing Emma’s dislike. Her manners, too—and Mr. Elton’s, were unpleasant towards Harriet. They were sneering and negligent. Emma hoped it must rapidly work Harriet’s cure; but the sensations which could prompt such behaviour sunk them both very much.—It was not to be doubted that poor Harriet’s attachment had been an offering to conjugal unreserve, and her own share in the story, under a colouring the least favourable to her and the most soothing to him, had in all likelihood been given also. She was, of course, the object of their joint dislike.—When they had nothing else to say, it must be always easy to begin abusing Miss Woodhouse; and the enmity which they dared not shew in open disrespect to her, found a broader vent in contemptuous treatment of Harriet.\n\nMrs. Elton took a great fancy to Jane Fairfax; and from the first. Not merely when a state of warfare with one young lady might be supposed to recommend the other, but from the very first; and she was not satisfied with expressing a natural and reasonable admiration—but without solicitation, or plea, or privilege, she must be wanting to assist and befriend her.—Before Emma had forfeited her confidence, and about the third time of their meeting, she heard all Mrs. Elton’s knight-errantry on the subject.—"
+      },
+      "request_id": "c15beafb9ffb621f788d3786",
+      "request_sha256": "6d8f0f7669c9a14a38ec6aa03e84e3aaac23543defa76513d60f603763e655cb",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3a74b6a5116f4dfd8ef90e13b3a3e4b50dc88f9fdcb6fbef4fcaa9e128b271a4"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "493b6fbf6f543463c7e895af",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_poe_the_gold_bug_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 493b6fbf6f543463c7e895af\noriginal_word_count: 451\n\nPassage:\nDriving a peg, with great nicety, into the ground, at the precise spot where the beetle fell, my friend now produced from his pocket a tape measure. Fastening one end of this at that point of the trunk, of the tree which was nearest the peg, he unrolled it till it reached the peg, and thence farther unrolled it, in the direction already established by the two points of the tree and the peg, for the distance of fifty feet—Jupiter clearing away the brambles with the scythe. At the spot thus attained a second peg was driven, and about this, as a centre, a rude circle, about four feet in diameter, described. Taking now a spade himself, and giving one to Jupiter and one to me, Legrand begged us to set about digging as quickly as possible.\n\nTo speak the truth, I had no especial relish for such amusement at any time, and, at that particular moment, would most willingly have declined it; for the night was coming on, and I felt much fatigued with the exercise already taken; but I saw no mode of escape, and was fearful of disturbing my poor friend’s equanimity by a refusal. Could I have depended, indeed, upon Jupiter’s aid, I would have had no hesitation in attempting to get the lunatic home by force; but I was too well assured of the old negro’s disposition, to hope that he would assist me, under any circumstances, in a personal contest with his master. I made no doubt that the latter had been infected with some of the innumerable Southern superstitions about money buried, and that his phantasy had received confirmation by the finding of the _scarabæus_, or, perhaps, by Jupiter’s obstinacy in maintaining it to be “a bug of real gold.” A mind disposed to lunacy would readily be led away by such suggestions—especially if chiming in with favorite preconceived ideas—and then I called to mind the poor fellow’s speech about the beetle’s being “the index of his fortune.” Upon the whole, I was sadly vexed and puzzled, but, at length, I concluded to make a virtue of necessity—to dig with a good will, and thus the sooner to convince the visionary, by ocular demonstration, of the fallacy of the opinions he entertained.\n\nThe lanterns having been lit, we all fell to work with a zeal worthy a more rational cause; and, as the glare fell upon our persons and implements, I could not help thinking how picturesque a group we composed, and how strange and suspicious our labors must have appeared to any interloper who, by chance, might have stumbled upon our whereabouts.\n\nWe dug very steadily for two hours."
+      },
+      "request_id": "493b6fbf6f543463c7e895af",
+      "request_sha256": "5b2b12f284594a5a97040d3930599246f267c8a1f39f0d04f4e5c2ccefa2ab61",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c8eeba675815a1c3a15d3053bafa50cbfe13e5166bb411235d588ef6c072093c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3475f972623a3fc17a3700ba",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_poe_the_gold_bug_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 3475f972623a3fc17a3700ba\noriginal_word_count: 472\n\nPassage:\nAt sight of these the joy of Jupiter could scarcely be restrained, but the countenance of his master wore an air of extreme disappointment. He urged us, however, to continue our exertions, and the words were hardly uttered when I stumbled and fell forward, having caught the toe of my boot in a large ring of iron that lay half buried in the loose earth.\n\nWe now worked in earnest, and never did I pass ten minutes of more intense excitement. During this interval we had fairly unearthed an oblong chest of wood, which, from its perfect preservation and wonderful hardness, had plainly been subjected to some mineralizing process—perhaps that of the bi-chloride of mercury. This box was three feet and a half long, three feet broad, and two and a half feet deep. It was firmly secured by bands of wrought iron, riveted, and forming a kind of open trelliswork over the whole. On each side of the chest, near the top, were three rings of iron—six in all—by means of which a firm hold could be obtained by six persons. Our utmost united endeavors served only to disturb the coffer very slightly in its bed. We at once saw the impossibility of removing so great a weight. Luckily, the sole fastenings of the lid consisted of two sliding bolts. These we drew back—trembling and panting with anxiety. In an instant, a treasure of incalculable value lay gleaming before us. As the rays of the lanterns fell within the pit, there flashed upwards a glow and a glare, from a confused heap of gold and of jewels, that absolutely dazzled our eyes.\n\nI shall not pretend to describe the feelings with which I gazed. Amazement was, of course, predominant. Legrand appeared exhausted with excitement, and spoke very few words. Jupiter’s countenance wore, for some minutes, as deadly a pallor as it is possible, in nature of things, for any negro’s visage to assume. He seemed stupefied—thunderstricken. Presently he fell upon his knees in the pit, and, burying his naked arms up to the elbows in gold, let them there remain, as if enjoying the luxury of a bath. At length, with a deep sigh, he exclaimed, as if in a soliloquy:\n\n“And dis all cum ob de goole-bug! de putty goole-bug! de poor little goole-bug, what I boosed in dat sabage kind ob style! Aint you shamed ob yourself, nigger?—answer me dat!”\n\nIt became necessary, at last, that I should arouse both master and valet to the expediency of removing the treasure. It was growing late, and it behooved us to make exertion, that we might get every thing housed before daylight. It was difficult to say what should be done, and much time was spent in deliberation—so confused were the ideas of all."
+      },
+      "request_id": "3475f972623a3fc17a3700ba",
+      "request_sha256": "1720328c034a070c3a38f8b2cff1e47e31c33ce355effee9737542355dd062d9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "222c621dc7086459f19963d741acd72c0f6d9a907400e22d9d859e4c54a136f6"
+    }
+  ],
+  "session_id": "01a0e84b-0c07-7f62-8492-38d6630a3d8a",
+  "worker_id": "astra_n",
+  "worker_identity_sha256": "af3df2dfd1bd45965959790098af7e2b94db79efd262f1f2cc3e95a3ae8be86e"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "c3454e5f8ed27354ce66",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:27:46.090103+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9a9ead9f0d9598d33524f06d",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_emma_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 9a9ead9f0d9598d33524f06d\noriginal_word_count: 461\n\nPassage:\nShe would be placed in the midst of those who loved her, and who had better sense than herself; retired enough for safety, and occupied enough for cheerfulness. She would be never led into temptation, nor left for it to find her out. She would be respectable and happy; and Emma admitted her to be the luckiest creature in the world, to have created so steady and persevering an affection in such a man;—or, if not quite the luckiest, to yield only to herself.\n\nHarriet, necessarily drawn away by her engagements with the Martins, was less and less at Hartfield; which was not to be regretted.—The intimacy between her and Emma must sink; their friendship must change into a calmer sort of goodwill; and, fortunately, what ought to be, and must be, seemed already beginning, and in the most gradual, natural manner.\n\nBefore the end of September, Emma attended Harriet to church, and saw her hand bestowed on Robert Martin with so complete a satisfaction, as no remembrances, even connected with Mr. Elton as he stood before them, could impair.—Perhaps, indeed, at that time she scarcely saw Mr. Elton, but as the clergyman whose blessing at the altar might next fall on herself.—Robert Martin and Harriet Smith, the latest couple engaged of the three, were the first to be married.\n\nJane Fairfax had already quitted Highbury, and was restored to the comforts of her beloved home with the Campbells.—The Mr. Churchills were also in town; and they were only waiting for November.\n\nThe intermediate month was the one fixed on, as far as they dared, by Emma and Mr. Knightley.—They had determined that their marriage ought to be concluded while John and Isabella were still at Hartfield, to allow them the fortnight’s absence in a tour to the seaside, which was the plan.—John and Isabella, and every other friend, were agreed in approving it. But Mr. Woodhouse—how was Mr. Woodhouse to be induced to consent?—he, who had never yet alluded to their marriage but as a distant event.\n\nWhen first sounded on the subject, he was so miserable, that they were almost hopeless.—A second allusion, indeed, gave less pain.—He began to think it was to be, and that he could not prevent it—a very promising step of the mind on its way to resignation. Still, however, he was not happy. Nay, he appeared so much otherwise, that his daughter’s courage failed. She could not bear to see him suffering, to know him fancying himself neglected; and though her understanding almost acquiesced in the assurance of both the Mr. Knightleys, that when once the event were over, his distress would be soon over too, she hesitated—she could not proceed."
+      },
+      "request_id": "9a9ead9f0d9598d33524f06d",
+      "request_sha256": "4728ab06d47f3160fcc195aa55f3a3a4c937641fb2b313cd91fb7feb8841cd15",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3cfb39f0c48bc397c187ab85b68c7194b97124b1d127c3756726775614f659b5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e5920e86c98411652037b7f4",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_shelley_the_last_man_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: e5920e86c98411652037b7f4\noriginal_word_count: 452\n\nPassage:\nYe spirits of storm, receive me! ye powers of destruction, open wide your arms, and clasp me for ever! if a kinder power have not decreed another end, so that after long endurance I may reap my reward, and again feel my heart beat near the heart of another like to me.\n\nTiber, the road which is spread by nature’s own hand, threading her continent, was at my feet, and many a boat was tethered to the banks. I would with a few books, provisions, and my dog, embark in one of these and float down the current of the stream into the sea; and then, keeping near land, I would coast the beauteous shores and sunny promontories of the blue Mediterranean, pass Naples, along Calabria, and would dare the twin perils of Scylla and Charybdis; then, with fearless aim, (for what had I to lose?) skim ocean’s surface towards Malta and the further Cyclades. I would avoid Constantinople, the sight of whose well-known towers and inlets belonged to another state of existence from my present one; I would coast Asia Minor, and Syria, and, passing the seven-mouthed Nile, steer northward again, till losing sight of forgotten Carthage and deserted Lybia, I should reach the pillars of Hercules. And then—no matter where—the oozy caves, and soundless depths of ocean may be my dwelling, before I accomplish this long-drawn voyage, or the arrow of disease find my heart as I float singly on the weltering Mediterranean; or, in some place I touch at, I may find what I seek—a companion; or if this may not be—to endless time, decrepid and grey headed—youth already in the grave with those I love— the lone wanderer will still unfurl his sail, and clasp the tiller—and, still obeying the breezes of heaven, for ever round another and another promontory, anchoring in another and another bay, still ploughing seedless ocean, leaving behind the verdant land of native Europe, adown the tawny shore of Africa, having weathered the fierce seas of the Cape, I may moor my worn skiff in a creek, shaded by spicy groves of the odorous islands of the far Indian ocean.\n\nThese are wild dreams. Yet since, now a week ago, they came on me, as I stood on the height of St. Peter’s, they have ruled my imagination. I have chosen my boat, and laid in my scant stores. I have selected a few books; the principal are Homer and Shakespeare—But the libraries of the world are thrown open to me—and in any port I can renew my stock. I form no expectation of alteration for the better; but the monotonous present is intolerable to me."
+      },
+      "request_id": "e5920e86c98411652037b7f4",
+      "request_sha256": "479589fda4c4f8b427b379454fe148cb7a0b62be22b255b0195ab084a1168c4b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f2e5db312022b55b4e1aa5b553d5e7049138b146d16f0f7ed8e54abac092eada"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "eeeee0757b17ac062bc61a9f",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_shelley_mathilda_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: eeeee0757b17ac062bc61a9f\noriginal_word_count: 481\n\nPassage:\nMy father had been and his memory was the life of my life. I might feel gratitude to another but I never more could love or hope as I had done; it was all suffering; even my pleasures were endured, not enjoyed. I was as a solitary spot among mountains shut in on all sides by steep black precipices; where no ray of heat could penetrate; and from which there was no outlet to sunnier fields. And thus it was that although the spirit of friendship soothed me for a while it could not restore me. It came as some gentle visitation; it went and I hardly felt the loss. The spirit of existence was dead within me; be not surprised therefore that when it came I welcomed not more gladly, or when it departed I lamented not more bitterly the best gift of heaven--a friend.\n\nThe name of my friend was Woodville. I will briefly relate his history that you may judge how cold my heart must have been not to be warmed by his eloquent words and tender sympathy; and how he also being most unhappy we were well fitted to be a mutual consolation to each other, if I had not been hardened to stone by the Medusa head of Misery. The misfortunes of Woodville were not of the hearts core like mine; his was a natural grief, not to destroy but to purify the heart and from which he might, when its shadow had passed from over him, shine forth brighter and happier than before.\n\nWoodville was the son of a poor clergyman and had received a classical education. He was one of those very few whom fortune favours from their birth; on whom she bestows all gifts of intellect and person with a profusion that knew no bounds, and whom under her peculiar protection, no imperfection however slight, or disappointment however transitory has leave to touch. She seemed to have formed his mind of that excellence which no dross can tarnish, and his understanding was such that no error could pervert. His genius was transcendant, and when it rose as a bright star in the east all eyes were turned towards it in admiration. He was a Poet. That name has so often been degraded that it will not convey the idea of all that he was. He was like a poet of old whom the muses had crowned in his cradle, and on whose lips bees had fed. As he walked among other men he seemed encompassed with a heavenly halo that divided him from and lifted him above them. It was his surpassing beauty, the dazzling fire of his eyes, and his words whose rich accents wrapt the listener in mute and extactic wonder, that made him transcend all others so that before him they appeared only formed to minister to his superior excellence."
+      },
+      "request_id": "eeeee0757b17ac062bc61a9f",
+      "request_sha256": "264c0efe2b55935c308aefbaa2d24504dd835bf0d282e61a86c268efb94742a3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c7c45748bf95e83006d3d361444bfdca901e74702a64f8d6f22794d34b2a1593"
+    }
+  ],
+  "session_id": "01a0e30c-b9d5-7a90-8e48-66fb9e9e85ab",
+  "worker_id": "astra_f",
+  "worker_identity_sha256": "99f27e110908dead1d4562afc80f2641e421ce331aa3d512cbd7e9a66fae1aa2"
+}

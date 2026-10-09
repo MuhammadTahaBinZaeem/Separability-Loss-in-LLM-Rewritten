@@ -1,0 +1,68 @@
+{
+  "batch_id": "60851c4e25b1d3aed758",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:32:38.564452+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4fb9b9fd0465c4618d607c01",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_poe_the_gold_bug_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 4fb9b9fd0465c4618d607c01\noriginal_word_count: 464\n\nPassage:\n“I now scrutinized the death’s-head with care. Its outer edges—the edges of the drawing nearest the edge of the vellum—were far more distinct than the others. It was clear that the action of the caloric had been imperfect or unequal. I immediately kindled a fire, and subjected every portion of the parchment to a glowing heat. At first, the only effect was the strengthening of the faint lines in the skull; but, upon persevering in the experiment, there became visible, at the corner of the slip, diagonally opposite to the spot in which the death’s-head was delineated, the figure of what I at first supposed to be a goat. A closer scrutiny, however, satisfied me that it was intended for a kid.”\n\n“Ha! ha!” said I, “to be sure I have no right to laugh at you—a million and a half of money is too serious a matter for mirth—but you are not about to establish a third link in your chain—you will not find any especial connexion between your pirates and a goat—pirates, you know, have nothing to do with goats; they appertain to the farming interest.”\n\n“But I have just said that the figure was not that of a goat.”\n\n“Well, a kid then—pretty much the same thing.”\n\n“Pretty much, but not altogether,” said Legrand. “You may have heard of one Captain Kidd. I at once looked upon the figure of the animal as a kind of punning or hieroglyphical signature. I say signature; because its position upon the vellum suggested this idea. The death’s-head at the corner diagonally opposite, had, in the same manner, the air of a stamp, or seal. But I was sorely put out by the absence of all else—of the body to my imagined instrument—of the text for my context.”\n\n“I presume you expected to find a letter between the stamp and the signature.”\n\n“Something of that kind. The fact is, I felt irresistibly impressed with a presentiment of some vast good fortune impending. I can scarcely say why. Perhaps, after all, it was rather a desire than an actual belief;—but do you know that Jupiter’s silly words, about the bug being of solid gold, had a remarkable effect upon my fancy? And then the series of accidents and coincidences—these were so very extraordinary. Do you observe how mere an accident it was that these events should have occurred upon the sole day of all the year in which it has been, or may be, sufficiently cool for fire, and that without the fire, or without the intervention of the dog at the precise moment in which he appeared, I should never have become aware of the death’s-head, and so never the possessor of the treasure?”"
+      },
+      "request_id": "4fb9b9fd0465c4618d607c01",
+      "request_sha256": "ad91c960fae29c9b3a70d7173b4e070c16973c90ca63bb46acf92b3a81703c92",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0eae799f5d9e78bce82d7644c8ebf9ad72cf2a2086abaef7e1519e537ee48d94"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5398d883acc2988d33fafc64",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 469,
+      "passage_id": "V2_poe_hans_pfaal_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 5398d883acc2988d33fafc64\noriginal_word_count: 469\n\nPassage:\nThe body of the little man was more than proportionately broad, giving to his entire figure a rotundity highly absurd. His feet, of course, could not be seen at all, although a horny substance of suspicious nature was occasionally protruded through a rent in the bottom of the car, or to speak more properly, in the top of the hat. His hands were enormously large. His hair was extremely gray, and collected into a queue behind. His nose was prodigiously long, crooked, and inflammatory; his eyes full, brilliant, and acute; his chin and cheeks, although wrinkled with age, were broad, puffy, and double; but of ears of any kind or character there was not a semblance to be discovered upon any portion of his head. This odd little gentleman was dressed in a loose surtout of sky-blue satin, with tight breeches to match, fastened with silver buckles at the knees. His vest was of some bright yellow material; a white taffety cap was set jauntily on one side of his head; and, to complete his equipment, a blood-red silk handkerchief enveloped his throat, and fell down, in a dainty manner, upon his bosom, in a fantastic bow-knot of super-eminent dimensions.\n\nHaving descended, as I said before, to about one hundred feet from the surface of the earth, the little old gentleman was suddenly seized with a fit of trepidation, and appeared disinclined to make any nearer approach to terra firma. Throwing out, therefore, a quantity of sand from a canvas bag, which, he lifted with great difficulty, he became stationary in an instant. He then proceeded, in a hurried and agitated manner, to extract from a side-pocket in his surtout a large morocco pocket-book. This he poised suspiciously in his hand, then eyed it with an air of extreme surprise, and was evidently astonished at its weight. He at length opened it, and drawing there from a huge letter sealed with red sealing-wax and tied carefully with red tape, let it fall precisely at the feet of the burgomaster, Superbus Von Underduk. His Excellency stooped to take it up. But the aeronaut, still greatly discomposed, and having apparently no farther business to detain him in Rotterdam, began at this moment to make busy preparations for departure; and it being necessary to discharge a portion of ballast to enable him to reascend, the half dozen bags which he threw out, one after another, without taking the trouble to empty their contents, tumbled, every one of them, most unfortunately upon the back of the burgomaster, and rolled him over and over no less than one-and-twenty times, in the face of every man in Rotterdam. It is not to be supposed, however, that the great Underduk suffered this impertinence on the part of the little old man to pass off with impunity."
+      },
+      "request_id": "5398d883acc2988d33fafc64",
+      "request_sha256": "11cb9399f4db3323625bc7d194fd40686fbb70d44832e3d3b239c8934d593a49",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "661ed9215ebafc911fa051bbaea119eda77f71b9218c490ca0b73c2f194686b9"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "60ce3dd10bc4ef935e0fdff2",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 60ce3dd10bc4ef935e0fdff2\noriginal_word_count: 481\n\nPassage:\n“_What’s_ the matter?”\n\n“Ten o’clock, sir.”\n\n“What do you mean? Ten o’clock at night?”\n\n“Yes, sir. Your honour told me to call you.”\n\n“Oh! I remember. Very well, very well.”\n\nAfter a few dull efforts to get to sleep again, which the man dexterously combated by stirring the fire continuously for five minutes, he got up, tossed his hat on, and walked out. He turned into the Temple, and, having revived himself by twice pacing the pavements of King’s Bench-walk and Paper-buildings, turned into the Stryver chambers.\n\nThe Stryver clerk, who never assisted at these conferences, had gone home, and the Stryver principal opened the door. He had his slippers on, and a loose bed-gown, and his throat was bare for his greater ease. He had that rather wild, strained, seared marking about the eyes, which may be observed in all free livers of his class, from the portrait of Jeffries downward, and which can be traced, under various disguises of Art, through the portraits of every Drinking Age.\n\n“You are a little late, Memory,” said Stryver.\n\n“About the usual time; it may be a quarter of an hour later.”\n\nThey went into a dingy room lined with books and littered with papers, where there was a blazing fire. A kettle steamed upon the hob, and in the midst of the wreck of papers a table shone, with plenty of wine upon it, and brandy, and rum, and sugar, and lemons.\n\n“You have had your bottle, I perceive, Sydney.”\n\n“Two to-night, I think. I have been dining with the day’s client; or seeing him dine--it’s all one!”\n\n“That was a rare point, Sydney, that you brought to bear upon the identification. How did you come by it? When did it strike you?”\n\n“I thought he was rather a handsome fellow, and I thought I should have been much the same sort of fellow, if I had had any luck.”\n\nMr. Stryver laughed till he shook his precocious paunch.\n\n“You and your luck, Sydney! Get to work, get to work.”\n\nSullenly enough, the jackal loosened his dress, went into an adjoining room, and came back with a large jug of cold water, a basin, and a towel or two. Steeping the towels in the water, and partially wringing them out, he folded them on his head in a manner hideous to behold, sat down at the table, and said, “Now I am ready!”\n\n“Not much boiling down to be done to-night, Memory,” said Mr. Stryver, gaily, as he looked among his papers.\n\n“How much?”\n\n“Only two sets of them.”\n\n“Give me the worst first.”\n\n“There they are, Sydney. Fire away!”\n\nThe lion then composed himself on his back on a sofa on one side of the drinking-table, while the jackal sat at his own paper-bestrewn table proper, on the other side of it, with the bottles and glasses ready to his hand."
+      },
+      "request_id": "60ce3dd10bc4ef935e0fdff2",
+      "request_sha256": "286b2af1dcf80e2bd36f9ea4237c6b4c7973efeb647e2a12eadb2b47caf10d62",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d9830cec6819d4cad95ec95d5b48080e2a431bfbc5f7c59f0d2f02b9d34e412b"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

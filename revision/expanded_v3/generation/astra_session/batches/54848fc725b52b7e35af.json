@@ -1,0 +1,68 @@
+{
+  "batch_id": "54848fc725b52b7e35af",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:17:58.569437+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2de08e4c027d259ab991aacc",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_twain_huckleberry_finn_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 2de08e4c027d259ab991aacc\noriginal_word_count: 454\n\nPassage:\nShe was right about the rats. You’d see one stick his nose out of a hole in the corner every little while. She said she had to have things handy to throw at them when she was alone, or they wouldn’t give her no peace. She showed me a bar of lead twisted up into a knot, and said she was a good shot with it generly, but she’d wrenched her arm a day or two ago, and didn’t know whether she could throw true now. But she watched for a chance, and directly banged away at a rat; but she missed him wide, and said “Ouch!” it hurt her arm so. Then she told me to try for the next one. I wanted to be getting away before the old man got back, but of course I didn’t let on. I got the thing, and the first rat that showed his nose I let drive, and if he’d a stayed where he was he’d a been a tolerable sick rat. She said that was first-rate, and she reckoned I would hive the next one. She went and got the lump of lead and fetched it back, and brought along a hank of yarn which she wanted me to help her with. I held up my two hands and she put the hank over them, and went on talking about her and her husband’s matters. But she broke off to say:\n\n“Keep your eye on the rats. You better have the lead in your lap, handy.”\n\nSo she dropped the lump into my lap just at that moment, and I clapped my legs together on it and she went on talking. But only about a minute. Then she took off the hank and looked me straight in the face, and very pleasant, and says:\n\n“Come, now, what’s your real name?”\n\n“Wh—what, mum?”\n\n“What’s your real name? Is it Bill, or Tom, or Bob?—or what is it?”\n\nI reckon I shook like a leaf, and I didn’t know hardly what to do. But I says:\n\n“Please to don’t poke fun at a poor girl like me, mum. If I’m in the way here, I’ll—”\n\n“No, you won’t. Set down and stay where you are. I ain’t going to hurt you, and I ain’t going to tell on you, nuther. You just tell me your secret, and trust me. I’ll keep it; and, what’s more, I’ll help you. So’ll my old man if you want him to. You see, you’re a runaway ’prentice, that’s all. It ain’t anything. There ain’t no harm in it. You’ve been treated bad, and you made up your mind to cut. Bless you, child, I wouldn’t tell on you."
+      },
+      "request_id": "2de08e4c027d259ab991aacc",
+      "request_sha256": "2acff697ce45c5cfd137e19e54bd28c930fb4a0d537858f98b0f32e704c57c31",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b3668190768e217d0c7be1f2d37dde5b565971d708a27f7fc907681f8595893e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "39ff17a9c51b931669e514ea",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V3_twain_connecticut_yankee_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 39ff17a9c51b931669e514ea\noriginal_word_count: 458\n\nPassage:\nBut for me, he never would have got out. Morgan le Fay hated him with her whole heart, and she never would have softened toward him. And yet his crime was committed more in thoughtlessness than deliberate depravity. He had said she had red hair. Well, she had; but that was no way to speak of it. When red-headed people are above a certain social grade their hair is auburn.\n\nConsider it: among these forty-seven captives there were five whose names, offenses, and dates of incarceration were no longer known! One woman and four men--all bent, and wrinkled, and mind-extinguished patriarchs. They themselves had long ago forgotten these details; at any rate they had mere vague theories about them, nothing definite and nothing that they repeated twice in the same way. The succession of priests whose office it had been to pray daily with the captives and remind them that God had put them there, for some wise purpose or other, and teach them that patience, humbleness, and submission to oppression was what He loved to see in parties of a subordinate rank, had traditions about these poor old human ruins, but nothing more. These traditions went but little way, for they concerned the length of the incarceration only, and not the names of the offenses. And even by the help of tradition the only thing that could be proven was that none of the five had seen daylight for thirty-five years: how much longer this privation has lasted was not guessable. The king and the queen knew nothing about these poor creatures, except that they were heirlooms, assets inherited, along with the throne, from the former firm. Nothing of their history had been transmitted with their persons, and so the inheriting owners had considered them of no value, and had felt no interest in them. I said to the queen:\n\n“Then why in the world didn't you set them free?”\n\nThe question was a puzzler. She didn't know _why_ she hadn't, the thing had never come up in her mind. So here she was, forecasting the veritable history of future prisoners of the Castle d'If, without knowing it. It seemed plain to me now, that with her training, those inherited prisoners were merely property--nothing more, nothing less. Well, when we inherit property, it does not occur to us to throw it away, even when we do not value it.\n\nWhen I brought my procession of human bats up into the open world and the glare of the afternoon sun--previously blindfolding them, in charity for eyes so long untortured by light--they were a spectacle to look at. Skeletons, scarecrows, goblins, pathetic frights, every one; legitimatest possible children of Monarchy by the Grace of God and the Established Church."
+      },
+      "request_id": "39ff17a9c51b931669e514ea",
+      "request_sha256": "0446c77648910b2681f81ae42be73444b2878db0069b589d794bdddb1592a237",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1011df7bfc547c94bc04d793d11351599b381f057afbf4214f4f904caa7f636f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "bb2639855bd6870436958152",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_the_last_man_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: bb2639855bd6870436958152\noriginal_word_count: 466\n\nPassage:\nHaving seen our friend properly installed in his new office, we turned our eyes towards Windsor. The nearness of this place to London was such, as to take away the idea of painful separation, when we quitted Raymond and Perdita. We took leave of them in the Protectoral Palace. It was pretty enough to see my sister enter as it were into the spirit of the drama, and endeavour to fill her station with becoming dignity. Her internal pride and humility of manner were now more than ever at war. Her timidity was not artificial, but arose from that fear of not being properly appreciated, that slight estimation of the neglect of the world, which also characterized Raymond. But then Perdita thought more constantly of others than he; and part of her bashfulness arose from a wish to take from those around her a sense of inferiority; a feeling which never crossed her mind. From the circumstances of her birth and education, Idris would have been better fitted for the formulae of ceremony; but the very ease which accompanied such actions with her, arising from habit, rendered them tedious; while, with every drawback, Perdita evidently enjoyed her situation. She was too full of new ideas to feel much pain when we departed; she took an affectionate leave of us, and promised to visit us soon; but she did not regret the circumstances that caused our separation. The spirits of Raymond were unbounded; he did not know what to do with his new got power; his head was full of plans; he had as yet decided on none— but he promised himself, his friends, and the world, that the aera of his Protectorship should be signalized by some act of surpassing glory. Thus, we talked of them, and moralized, as with diminished numbers we returned to Windsor Castle. We felt extreme delight at our escape from political turmoil, and sought our solitude with redoubled zest. We did not want for occupation; but my eager disposition was now turned to the field of intellectual exertion only; and hard study I found to be an excellent medicine to allay a fever of spirit with which in indolence, I should doubtless have been assailed. Perdita had permitted us to take Clara back with us to Windsor; and she and my two lovely infants were perpetual sources of interest and amusement.\n\nThe only circumstance that disturbed our peace, was the health of Adrian. It evidently declined, without any symptom which could lead us to suspect his disease, unless indeed his brightened eyes, animated look, and flustering cheeks, made us dread consumption; but he was without pain or fear. He betook himself to books with ardour, and reposed from study in the society he best loved, that of his sister and myself."
+      },
+      "request_id": "bb2639855bd6870436958152",
+      "request_sha256": "8333f00e9c80f9897219e2df53899ad160b93e59293bd265f04e34f745bdaa8f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "39530f63c78e03c6ec554e7dcb54bb21752a0782f7f17c6b3a0de21df39855d0"
+    }
+  ],
+  "session_id": "01a0e861-03f8-7221-8672-8e262e9ebfc7",
+  "worker_id": "astra_t",
+  "worker_identity_sha256": "c223dffc33181152e7b2fea39b5f4b9f77c7ee2ed9647b0e46dbc4f2b2b1711f"
+}

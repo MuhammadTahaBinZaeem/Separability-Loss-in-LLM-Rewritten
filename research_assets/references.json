@@ -1,0 +1,196 @@
+[
+  {
+    "id": "stamatatos2009",
+    "citation": "Stamatatos, E. (2009). A survey of modern authorship attribution methods. Journal of the American Society for Information Science and Technology, 60(3), 538–556.",
+    "doi": "10.1002/asi.21001",
+    "url": "https://doi.org/10.1002/asi.21001",
+    "claim_support": "Survey of text representations, classifiers, computational settings and evaluation in authorship attribution. Supports dependence of attribution evidence on the representation and evaluation design.",
+    "evidence": "Publisher abstract and article metadata inspected; author-hosted full-text copy also indexed.",
+    "status": "peer-reviewed journal article"
+  },
+  {
+    "id": "burrows2002",
+    "citation": "Burrows, J. (2002). ‘Delta’: A measure of stylistic difference and a guide to likely authorship. Literary and Linguistic Computing, 17(3), 267–287.",
+    "doi": "10.1093/llc/17.3.267",
+    "url": "https://doi.org/10.1093/llc/17.3.267",
+    "claim_support": "Origin of Delta using standardized frequent-word profiles for stylistic comparison and attribution. Does not justify calling Euclidean nearest centroid the Burrows Delta algorithm.",
+    "evidence": "Publisher-deposited Crossref metadata checked; technical content cross-checked against Argamon (2008) and the publisher's current Delta application.",
+    "status": "peer-reviewed journal article"
+  },
+  {
+    "id": "argamon2008",
+    "citation": "Argamon, S. (2008). Interpreting Burrows’s Delta: Geometric and probabilistic foundations. Literary and Linguistic Computing, 23(2), 131–147.",
+    "doi": "10.1093/llc/fqn003",
+    "url": "https://academic.oup.com/dsh/article-abstract/23/2/131/1005964",
+    "claim_support": "Interprets Delta geometrically and probabilistically, clarifying assumptions, limitations and variants. Appropriate background for interpreting feature geometry; not a prior result for the present affine rewrite model.",
+    "evidence": "Official Oxford article abstract and volume/issue metadata inspected. Use issue year 2008; Crossref online-date field was inconsistent with the publisher page.",
+    "status": "peer-reviewed journal article"
+  },
+  {
+    "id": "sapkota2015",
+    "citation": "Sapkota, U., Bethard, S., Montes, M., & Solorio, T. (2015). Not all character n-grams are created equal: A study in authorship attribution. In Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 93–102). Association for Computational Linguistics.",
+    "doi": "10.3115/v1/N15-1010",
+    "url": "https://aclanthology.org/N15-1010/",
+    "claim_support": "Character n-grams mix affix, word and punctuation information; categories differ in contribution to attribution. Supports caution that predictive character features are not uniformly content-independent.",
+    "evidence": "ACL bibliographic page and primary PDF sections 1–2 inspected. ACL uses author name Manuel Montes, while some indexing sites expand it to Montes-y-Gómez.",
+    "status": "peer-reviewed conference paper"
+  },
+  {
+    "id": "stamatatos2017",
+    "citation": "Stamatatos, E. (2017). Authorship attribution using text distortion. In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers (pp. 1138–1149). Association for Computational Linguistics.",
+    "doi": null,
+    "url": "https://aclanthology.org/E17-1107/",
+    "claim_support": "Text distortion masks topic-specific information and improves cross-topic attribution in evaluated settings. Supports topic controls, not a claim that function words eliminate every content confound.",
+    "evidence": "ACL abstract, metadata and author-hosted PDF inspected. ACL page gives no DOI, so none is invented.",
+    "status": "peer-reviewed conference paper"
+  },
+  {
+    "id": "kestemont2014",
+    "citation": "Kestemont, M. (2014). Function words in authorship attribution. From black magic to theory? In Proceedings of the 3rd Workshop on Computational Linguistics for Literature (CLFL) (pp. 59–66). Association for Computational Linguistics.",
+    "doi": "10.3115/v1/W14-0908",
+    "url": "https://aclanthology.org/W14-0908/",
+    "claim_support": "Theoretical discussion of function-word features and methodological assumptions in stylometry; supports using interpretable linguistic representations without treating function words as infallible author markers.",
+    "evidence": "ACL page, PDF and publisher-deposited Crossref metadata inspected.",
+    "status": "peer-reviewed workshop paper"
+  },
+  {
+    "id": "sundararajan2018",
+    "citation": "Sundararajan, K., & Woodard, D. (2018). What represents ‘style’ in authorship attribution? In Proceedings of the 27th International Conference on Computational Linguistics (pp. 2814–2822). Association for Computational Linguistics.",
+    "doi": null,
+    "url": "https://aclanthology.org/C18-1238/",
+    "claim_support": "Investigates syntax and lexical features across topic and genre. Finds topic interference and representation-dependent cross-domain behavior; does not support universal topic independence for one feature family.",
+    "evidence": "ACL bibliographic page and PDF abstract/introduction inspected. PDF heading says ‘What constitutes’; official ACL title is retained consistently here.",
+    "status": "peer-reviewed conference paper"
+  },
+  {
+    "id": "eder2015",
+    "citation": "Eder, M. (2015). Does size matter? Authorship attribution, small samples, big problem. Digital Scholarship in the Humanities, 30(2), 167–182.",
+    "doi": "10.1093/llc/fqt066",
+    "url": "https://doi.org/10.1093/llc/fqt066",
+    "claim_support": "Examines stability of attribution with varying sample length, language, genre and sampling. Supports length sensitivity and caution with short passages; its corpus-specific thresholds are not universal requirements.",
+    "evidence": "Publisher-deposited Crossref title, authors, pages and print date checked: print June 2015, advance online November 2013. Primary paper PDF available through university teaching materials.",
+    "status": "peer-reviewed journal article"
+  },
+  {
+    "id": "covington2010",
+    "citation": "Covington, M. A., & McFall, J. D. (2010). Cutting the Gordian knot: The moving-average type–token ratio (MATTR). Journal of Quantitative Linguistics, 17(2), 94–100.",
+    "doi": "10.1080/09296171003643098",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/09296171003643098",
+    "claim_support": "Introduces moving-window type–token ratio to address ordinary TTR's dependence on text length. Background only: do not claim this study computed MATTR unless code confirms it.",
+    "evidence": "Official publisher abstract and Crossref bibliographic metadata inspected.",
+    "status": "peer-reviewed journal article; JQL sample"
+  },
+  {
+    "id": "tripto2024",
+    "citation": "Tripto, N. I., Venkatraman, S., Macko, D., Moro, R., Srba, I., Uchendu, A., Le, T., & Lee, D. (2024). A ship of Theseus: Curious cases of paraphrasing in LLM-generated texts. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 6608–6625). Association for Computational Linguistics.",
+    "doi": "10.18653/v1/2024.acl-long.357",
+    "url": "https://aclanthology.org/2024.acl-long.357/",
+    "claim_support": "Repeated paraphrasing is associated with changes in source style and decreasing classification performance. Establishes that paraphrase-induced attribution change predates the current study.",
+    "evidence": "ACL abstract and full bibliographic metadata inspected. Claims here are restricted to the documented iterative-paraphrasing design and abstract findings.",
+    "status": "peer-reviewed conference paper"
+  },
+  {
+    "id": "fisher2024",
+    "citation": "Fisher, J., Lu, X., Jung, J., Jiang, L., Harchaoui, Z., & Choi, Y. (2024). JAMDEC: Unsupervised authorship obfuscation using constrained decoding over small language models. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) (pp. 1552–1581). Association for Computational Linguistics.",
+    "doi": "10.18653/v1/2024.naacl-long.87",
+    "url": "https://aclanthology.org/2024.naacl-long.87/",
+    "claim_support": "Inference-time authorship obfuscation with constrained decoding, small language models and content/fluency preservation. Its objective is deliberate obfuscation, unlike generic modernization or simplification.",
+    "evidence": "ACL abstract and full bibliographic metadata inspected.",
+    "status": "peer-reviewed conference paper"
+  },
+  {
+    "id": "fisher_styleremix2024",
+    "citation": "Fisher, J., Hallinan, S., Lu, X., Gordon, M. L., Harchaoui, Z., & Choi, Y. (2024). StyleRemix: Interpretable authorship obfuscation via distillation and perturbation of style elements. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (pp. 4172–4206). Association for Computational Linguistics.",
+    "doi": "10.18653/v1/2024.emnlp-main.241",
+    "url": "https://aclanthology.org/2024.emnlp-main.241/",
+    "claim_support": "Targeted perturbation of style dimensions for authorship obfuscation, with automatic and human evaluation. Controls and interpretability in rewriting are prior work, not new merely because more deployment labels are tested.",
+    "evidence": "ACL abstract and full bibliographic metadata inspected.",
+    "status": "peer-reviewed conference paper"
+  },
+  {
+    "id": "malik2026",
+    "citation": "Malik, U., & Awan, M. S. (2026). The assistant erased you: Measuring loss of authorship signals in AI-mediated communication. arXiv. https://doi.org/10.48550/arXiv.2608.00926",
+    "doi": "10.48550/arXiv.2608.00926",
+    "url": "https://arxiv.org/abs/2608.00926",
+    "claim_support": "Defines Idiolect Erasure Rate as the drop in attribution accuracy after rewriting; tests blogs, email and news with stylometric and LUAR attribution. Method sections 3.1–3.2 use original-trained attributers on held-out messages and light/heavy/voice-preserving prompts. This is close prior work for paired attribution loss; current distinctions must concern work holdouts, retraining, held-out affine prediction and explicit semantic/failure accounting.",
+    "evidence": "Primary arXiv abstract and full-text sections 1–3 read at https://arxiv.org/html/2608.00926v1. v1 submitted 2026-08-02. No peer-reviewed venue asserted.",
+    "status": "preprint",
+    "publication_date": "2026-08-02",
+    "version": "v1"
+  },
+  {
+    "id": "thejaswi2026",
+    "citation": "Thejaswi, S., Kulshreshta, J., & Oettershagen, L. (2026). Linguistic monoculture in LLM-assisted language use. arXiv. https://doi.org/10.48550/arXiv.2607.27134",
+    "doi": "10.48550/arXiv.2607.27134",
+    "url": "https://arxiv.org/abs/2607.27134",
+    "claim_support": "Mathematical model of author/LLM distributions evolving through repeated interaction, with shared, recursive and personalized mechanisms; studies equilibria, convergence and synthetic simulations. Rules out claiming mathematical homogenization is unexplored. The present empirical single-rewrite centroid regression addresses a different quantity and does not estimate long-run author adaptation.",
+    "evidence": "Primary arXiv metadata and full-text introduction, stated mechanisms and theoretical sections inspected at https://arxiv.org/html/2607.27134v1. Author spelling follows arXiv: Kulshreshta. v1 submitted 2026-07-29. No peer-reviewed venue asserted.",
+    "status": "preprint",
+    "publication_date": "2026-07-29",
+    "version": "v1"
+  },
+  {
+    "id": "fitterer2025",
+    "citation": "Fitterer, S., Gangl, D., & Ulbrich, J. (2025). Testing English news articles for lexical homogenization due to widespread use of large language models. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop) (pp. 1239–1245). Association for Computational Linguistics.",
+    "doi": "10.18653/v1/2025.acl-srw.95",
+    "url": "https://aclanthology.org/2025.acl-srw.95/",
+    "claim_support": "Compares 2018 and 2024 news corpora; selected diversity measures do not show the hypothesized lexical homogenization uniformly. Useful counterexample to universal linguistic convergence claims; observational news comparison differs from paired rewriting.",
+    "evidence": "ACL abstract and complete bibliographic metadata inspected.",
+    "status": "peer-reviewed student research workshop paper"
+  },
+  {
+    "id": "mikros2026",
+    "citation": "Mikros, G., Sosoni, V., Manousakis, V., & Polychroniou, K. (2026). Burrows’ Delta as a convergent validator: Stylometric analysis for complementary machine translation evaluation. Journal of Quantitative Linguistics. Advance online publication. https://doi.org/10.1080/09296174.2026.2612931",
+    "doi": "10.1080/09296174.2026.2612931",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/09296174.2026.2612931",
+    "claim_support": "Uses stylometry as complementary evidence for machine-translation evaluation, with distinct adequacy-oriented metrics; argues against interpreting style distance as a complete substitute for meaning evaluation. The one-author-translator Greek/English design is not the current six-author intralingual rewriting design.",
+    "evidence": "Publisher-indexed full article sections 4, 6, 8.3 and data statement inspected; Crossref authors/title/DOI checked, online date 2026-02-10, currently no volume/issue, article pages 1–29.",
+    "status": "peer-reviewed journal article; JQL sample",
+    "publication_date": "2026-02-10"
+  },
+  {
+    "id": "bendavid2010",
+    "citation": "Ben-David, S., Blitzer, J., Crammer, K., Kulesza, A., Pereira, F., & Vaughan, J. W. (2010). A theory of learning from different domains. Machine Learning, 79(1–2), 151–175.",
+    "doi": "10.1007/s10994-009-5152-4",
+    "url": "https://link.springer.com/article/10.1007/s10994-009-5152-4",
+    "claim_support": "Theory of source/target distribution mismatch and target-domain performance. Conceptual background for domain transfer; the present arithmetic macro-F1 decomposition is not derived as one of this paper's bounds.",
+    "evidence": "Official Springer abstract, author list and issue-year metadata inspected.",
+    "status": "peer-reviewed journal article"
+  },
+  {
+    "id": "gries2022",
+    "citation": "Gries, S. Th. (2022). Toward more careful corpus statistics: Uncertainty estimates for frequencies, dispersions, association measures, and more. Research Methods in Applied Linguistics, 1(1), 100002.",
+    "doi": "10.1016/j.rmal.2021.100002",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2772766121000021",
+    "claim_support": "Advocates text/file-based bootstrap uncertainty for corpus statistics instead of treating all tokens as exchangeable. Supports clustered analysis logic, not the assertion that the present conditional bootstrap captures training uncertainty.",
+    "evidence": "Official publisher abstract, author-hosted full-text excerpt and Crossref metadata inspected.",
+    "status": "peer-reviewed journal article"
+  },
+  {
+    "id": "holm1979",
+    "citation": "Holm, S. (1979). A simple sequentially rejective multiple test procedure. Scandinavian Journal of Statistics, 6(2), 65–70.",
+    "doi": "10.2307/4615733",
+    "url": "https://www.jstor.org/stable/4615733",
+    "claim_support": "Sequential Bonferroni/Holm multiple-test procedure for familywise error control. Appropriate citation for a common correction across the 54 primary tests.",
+    "evidence": "Primary journal scan title, author, volume, issue and pages inspected at https://www.ime.usp.br/~abe/lista/pdf4R8xPVzCnX.pdf. JSTOR identifier is supplied; Crossref endpoint did not return a work record in this audit.",
+    "status": "peer-reviewed journal article"
+  },
+  {
+    "id": "ledoit2004",
+    "citation": "Ledoit, O., & Wolf, M. (2004). A well-conditioned estimator for large-dimensional covariance matrices. Journal of Multivariate Analysis, 88(2), 365–411.",
+    "doi": "10.1016/S0047-259X(03)00096-4",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0047259X03000964",
+    "claim_support": "Shrinkage covariance estimation for conditioning and accuracy in large dimensions. Supports the covariance-shrinkage motivation; exact LDA implementation must still be documented from code.",
+    "evidence": "Publisher abstract and author-hosted primary PDF inspected.",
+    "status": "peer-reviewed journal article"
+  },
+  {
+    "id": "artstein2008",
+    "citation": "Artstein, R., & Poesio, M. (2008). Inter-coder agreement for computational linguistics. Computational Linguistics, 34(4), 555–596.",
+    "doi": "10.1162/coli.07-034-R2",
+    "url": "https://aclanthology.org/J08-4004/",
+    "claim_support": "Discusses agreement measures and assumptions for computational annotation. Relevant to reporting actual rater structure and distinguishing agreement from correctness or independence.",
+    "evidence": "ACL metadata and full-text discussion of replicability and arbitration inspected. Bibliographic title sometimes includes the article-type prefix ‘Survey Article:’; that prefix is omitted consistently here.",
+    "status": "peer-reviewed journal article"
+  }
+]

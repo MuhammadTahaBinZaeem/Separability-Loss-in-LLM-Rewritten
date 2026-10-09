@@ -1,0 +1,50 @@
+{
+  "archive_files_checked": 1906,
+  "archive_sha256": "823ce5e20483e133eb3c49a9c9982d80ca2c49f9c8b9c9301e95e8486a820f98",
+  "completed_utc": "2026-10-07T10:05:27.262002+00:00",
+  "environment": {
+    "locked_distributions": 24,
+    "mismatches": [],
+    "passed": true,
+    "python": "3.12.11"
+  },
+  "mode": "transfer",
+  "model_api_calls": 0,
+  "numeric_audit": {
+    "classifiers_refitted": false,
+    "holm_adjustment_reconstructed": true,
+    "passed": true,
+    "primary_point_estimates": 54,
+    "ratings": 3240,
+    "raw_permutation_pvalues_and_intervals_recomputed": false,
+    "semantic_comparisons": 108,
+    "semantic_pairs": 1620
+  },
+  "passed": true,
+  "private_inputs_read": false,
+  "replays": [
+    {
+      "contrast_rows": 189,
+      "manifest_sha256": "9c52dc5521ad94406f6b216c19e363856d2fe100dc5c5974b715e9e3068aed3c",
+      "matrix_cells": 336,
+      "model_key": "terra56",
+      "not_independent_human_review": true,
+      "passed": true,
+      "prediction_rows": 106848,
+      "scope_note": "Refits transforms and reconstructs scores/intervals from archived predictions; does not refit classifier predictions.",
+      "submission_ready": false,
+      "transforms_refitted": 105,
+      "verified_scope": "hashes_cohorts_views_fold_alignment_transform_refits_scores_and_paired_CIs",
+      "verified_utc": "2026-10-07T10:05:27.206278+00:00",
+      "verifier_sha256": "48ee1cd6bbff6aaaf062f6333846a3f701c38d453dc867aceb501678b859d973"
+    }
+  ],
+  "scope_limit": "Computational consistency does not verify reviewer identity, independence, consent, ethics approval or model backend identity.",
+  "source_check": {
+    "passages": 360,
+    "passed": true,
+    "private_review_provenance_checked": false,
+    "scope": "Public hashes, archived source spans, lengths, nonoverlap, balance and work folds",
+    "works": 18
+  }
+}

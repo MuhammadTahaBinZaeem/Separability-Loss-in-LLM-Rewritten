@@ -1,0 +1,68 @@
+{
+  "batch_id": "12c3b80f0a3d1effc867",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:34:18.172726+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e601dd6d99918f26dcd24d5b",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: e601dd6d99918f26dcd24d5b\noriginal_word_count: 451\n\nPassage:\nI am not dining at home, so I shall not want you.”\n\n“Thank you, sir,” said the man, leaving the room.\n\n“Now, Alan, there is not a moment to be lost. How heavy this chest is! I’ll take it for you. You bring the other things.” He spoke rapidly and in an authoritative manner. Campbell felt dominated by him. They left the room together.\n\nWhen they reached the top landing, Dorian took out the key and turned it in the lock. Then he stopped, and a troubled look came into his eyes. He shuddered. “I don’t think I can go in, Alan,” he murmured.\n\n“It is nothing to me. I don’t require you,” said Campbell coldly.\n\nDorian half opened the door. As he did so, he saw the face of his portrait leering in the sunlight. On the floor in front of it the torn curtain was lying. He remembered that the night before he had forgotten, for the first time in his life, to hide the fatal canvas, and was about to rush forward, when he drew back with a shudder.\n\nWhat was that loathsome red dew that gleamed, wet and glistening, on one of the hands, as though the canvas had sweated blood? How horrible it was!—more horrible, it seemed to him for the moment, than the silent thing that he knew was stretched across the table, the thing whose grotesque misshapen shadow on the spotted carpet showed him that it had not stirred, but was still there, as he had left it.\n\nHe heaved a deep breath, opened the door a little wider, and with half-closed eyes and averted head, walked quickly in, determined that he would not look even once upon the dead man. Then, stooping down and taking up the gold-and-purple hanging, he flung it right over the picture.\n\nThere he stopped, feeling afraid to turn round, and his eyes fixed themselves on the intricacies of the pattern before him. He heard Campbell bringing in the heavy chest, and the irons, and the other things that he had required for his dreadful work. He began to wonder if he and Basil Hallward had ever met, and, if so, what they had thought of each other.\n\n“Leave me now,” said a stern voice behind him.\n\nHe turned and hurried out, just conscious that the dead man had been thrust back into the chair and that Campbell was gazing into a glistening yellow face. As he was going downstairs, he heard the key being turned in the lock.\n\nIt was long after seven when Campbell came back into the library. He was pale, but absolutely calm. “I have done what you asked me to do,” he muttered."
+      },
+      "request_id": "e601dd6d99918f26dcd24d5b",
+      "request_sha256": "dbcf72f1a310913674ab995b91d9c44d50899b82dfcdea426b7f7e91b5926952",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c5079986ef3ad499bf7013a366e925e4051efcd6e50b12db4668991863619f81"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "38d69250cfe8e13e7f82fd52",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_shelley_the_last_man_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 38d69250cfe8e13e7f82fd52\noriginal_word_count: 461\n\nPassage:\nThey were her life; dearer than a spot consecrated to love, dearer than all else the earth contained. The boys heard with childish glee of our removal: Clara asked if we were to go to Athens. “It is possible,” I replied; and her countenance became radiant with pleasure. There she would behold the tomb of her parents, and the territory filled with recollections of her father’s glory. In silence, but without respite, she had brooded over these scenes. It was the recollection of them that had turned her infant gaiety to seriousness, and had impressed her with high and restless thoughts.\n\nThere were many dear friends whom we must not leave behind, humble though they were. There was the spirited and obedient steed which Lord Raymond had given his daughter; there was Alfred’s dog and a pet eagle, whose sight was dimmed through age. But this catalogue of favourites to be taken with us, could not be made without grief to think of our heavy losses, and a deep sigh for the many things we must leave behind. The tears rushed into the eyes of Idris, while Alfred and Evelyn brought now a favourite rose tree, now a marble vase beautifully carved, insisting that these must go, and exclaiming on the pity that we could not take the castle and the forest, the deer and the birds, and all accustomed and cherished objects along with us. “Fond and foolish ones,” I said, “we have lost for ever treasures far more precious than these; and we desert them, to preserve treasures to which in comparison they are nothing. Let us not for a moment forget our object and our hope; and they will form a resistless mound to stop the overflowing of our regret for trifles.”\n\nThe children were easily distracted, and again returned to their prospect of future amusement. Idris had disappeared. She had gone to hide her weakness; escaping from the castle, she had descended to the little park, and sought solitude, that she might there indulge her tears; I found her clinging round an old oak, pressing its rough trunk with her roseate lips, as her tears fell plenteously, and her sobs and broken exclamations could not be suppressed; with surpassing grief I beheld this loved one of my heart thus lost in sorrow! I drew her towards me; and, as she felt my kisses on her eyelids, as she felt my arms press her, she revived to the knowledge of what remained to her. “You are very kind not to reproach me,” she said: “I weep, and a bitter pang of intolerable sorrow tears my heart. And yet I am happy; mothers lament their children, wives lose their husbands, while you and my children are left to me."
+      },
+      "request_id": "38d69250cfe8e13e7f82fd52",
+      "request_sha256": "7f1c6602db4a25285b86610965f22f229e819677a7699008d43d4a79fc24267f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0e3a3d6efce004cc4b42a26bb1f0249198ade86e6cdbf8957336add38c515662"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5594de79d37998678ae5e431",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 491,
+      "passage_id": "V2_wilde_canterville_ghost_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 5594de79d37998678ae5e431\noriginal_word_count: 491\n\nPassage:\nABOUT ten minutes later, the bell rang for tea, and, as Virginia did not come down, Mrs. Otis sent up one of the footmen to tell her. After a little time he returned and said that he could not find Miss Virginia anywhere. As she was in the habit of going out to the garden every evening to get flowers for the dinner-table, Mrs. Otis was not at all alarmed at first, but when six o’clock struck, and Virginia did not appear, she became really agitated, and sent the boys out to look for her, while she herself and Mr. Otis searched every room in the house. At half-past six the boys came back and said that they could find no trace of their sister anywhere. They were all now in the greatest state of excitement, and did not know what to do, when Mr. Otis suddenly remembered that, some few days before, he had given a band of gypsies permission to camp in the park. He accordingly at once set off for Blackfell Hollow, where he knew they were, accompanied by his eldest son and two of the farm-servants. The little Duke of Cheshire, who was perfectly frantic with anxiety, begged hard to be allowed to go too, but Mr. Otis would not allow him, as he was afraid there might be a scuffle. On arriving at the spot, however, he found that the gypsies had gone, and it was evident that their departure had been rather sudden, as the fire was still burning, and some plates were lying on the grass. Having sent off Washington and the two men to scour the district, he ran home, and despatched telegrams to all the police inspectors in the county, telling them to look out for a little girl who had been kidnapped by tramps or gypsies. He then ordered his horse to be brought round, and, after insisting on his wife and the three boys sitting down to dinner, rode off down the Ascot Road with a groom. He had hardly, however, gone a couple of miles when he heard somebody galloping after him, and, looking round, saw the little Duke coming up on his pony, with his face very flushed and no hat. ‘I’m awfully sorry, Mr. Otis,’ gasped out the boy, ‘but I can’t eat any dinner as long as Virginia is lost. Please, don’t be angry with me; if you had let us be engaged last year, there would never have been all this trouble. You won’t send me back, will you? I can’t go! I won’t go!’\n\nThe Minister could not help smiling at the handsome young scapegrace, and was a good deal touched at his devotion to Virginia, so leaning down from his horse, he patted him kindly on the shoulders, and said, ‘Well, Cecil, if you won’t go back I suppose you must come with me, but I must get you a hat at Ascot.’"
+      },
+      "request_id": "5594de79d37998678ae5e431",
+      "request_sha256": "c53625c89899235723fa23c12ccb1a9531b80f465f1552bdb4f32bcdbbb91419",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "08ec1bb0212207e7343406e012c9c0de383a52b3f10d1120ca83b432be6ac74f"
+    }
+  ],
+  "session_id": "01a0e86b-c111-7731-bb8d-a8b1262d4d11",
+  "worker_id": "astra_w",
+  "worker_identity_sha256": "02ab474ea794ee28e12552c40deac11a918257ff5dcb600ea6bea9a7ad47fcb2"
+}

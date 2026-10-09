@@ -1,0 +1,68 @@
+{
+  "batch_id": "6856118bf288411396a5",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:18:15.640132+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9c3b920c85aba07ab0188f7d",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 494,
+      "passage_id": "V2_poe_hans_pfaal_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 9c3b920c85aba07ab0188f7d\noriginal_word_count: 494\n\nPassage:\n“It was not until some time afterward that I recovered myself sufficiently to attend to the ordinary cares of the balloon. I then, however, examined it with attention, and found it, to my great relief, uninjured. My implements were all safe, and, fortunately, I had lost neither ballast nor provisions. Indeed, I had so well secured them in their places, that such an accident was entirely out of the question. Looking at my watch, I found it six o’clock. I was still rapidly ascending, and my barometer gave a present altitude of three and three-quarter miles. Immediately beneath me in the ocean, lay a small black object, slightly oblong in shape, seemingly about the size, and in every way bearing a great resemblance to one of those childish toys called a domino. Bringing my telescope to bear upon it, I plainly discerned it to be a British ninety four-gun ship, close-hauled, and pitching heavily in the sea with her head to the W.S.W. Besides this ship, I saw nothing but the ocean and the sky, and the sun, which had long arisen.\n\n“It is now high time that I should explain to your Excellencies the object of my perilous voyage. Your Excellencies will bear in mind that distressed circumstances in Rotterdam had at length driven me to the resolution of committing suicide. It was not, however, that to life itself I had any positive disgust, but that I was harassed beyond endurance by the adventitious miseries attending my situation. In this state of mind, wishing to live, yet wearied with life, the treatise at the stall of the bookseller opened a resource to my imagination. I then finally made up my mind. I determined to depart, yet live—to leave the world, yet continue to exist—in short, to drop enigmas, I resolved, let what would ensue, to force a passage, if I could, to the moon. Now, lest I should be supposed more of a madman than I actually am, I will detail, as well as I am able, the considerations which led me to believe that an achievement of this nature, although without doubt difficult, and incontestably full of danger, was not absolutely, to a bold spirit, beyond the confines of the possible.\n\n“The moon’s actual distance from the earth was the first thing to be attended to. Now, the mean or average interval between the centres of the two planets is 59.9643 of the earth’s equatorial radii, or only about 237,000 miles. I say the mean or average interval, but it must be borne in mind that the form of the moon’s orbit being an ellipse of eccentricity amounting to no less than 0.05484 of the major semi-axis of the ellipse itself, and the earth’s centre being situated in its focus, if I could, in any manner, contrive to meet the moon, as it were, in its perigee, the above mentioned distance would be materially diminished."
+      },
+      "request_id": "9c3b920c85aba07ab0188f7d",
+      "request_sha256": "caf024c69d4d97f9863d5754ca80d24d1bc68a12bb4102679fb5ec8ca865a1cd",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bbaa59a9f9ea93f3bf2f5fa9b3005c47622a5bf80b68d12db8f57997328dcba1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "31bf9891a74ccbac12ab4453",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_dickens_great_expectations_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 31bf9891a74ccbac12ab4453\noriginal_word_count: 459\n\nPassage:\nDo you often come back?”\n\n“I have never been here since.”\n\n“Nor I.”\n\nThe moon began to rise, and I thought of the placid look at the white ceiling, which had passed away. The moon began to rise, and I thought of the pressure on my hand when I had spoken the last words he had heard on earth.\n\nEstella was the next to break the silence that ensued between us.\n\n“I have very often hoped and intended to come back, but have been prevented by many circumstances. Poor, poor old place!”\n\nThe silvery mist was touched with the first rays of the moonlight, and the same rays touched the tears that dropped from her eyes. Not knowing that I saw them, and setting herself to get the better of them, she said quietly,—\n\n“Were you wondering, as you walked along, how it came to be left in this condition?”\n\n“Yes, Estella.”\n\n“The ground belongs to me. It is the only possession I have not relinquished. Everything else has gone from me, little by little, but I have kept this. It was the subject of the only determined resistance I made in all the wretched years.”\n\n“Is it to be built on?”\n\n“At last, it is. I came here to take leave of it before its change. And you,” she said, in a voice of touching interest to a wanderer,—“you live abroad still?”\n\n“Still.”\n\n“And do well, I am sure?”\n\n“I work pretty hard for a sufficient living, and therefore—yes, I do well.”\n\n“I have often thought of you,” said Estella.\n\n“Have you?”\n\n“Of late, very often. There was a long hard time when I kept far from me the remembrance of what I had thrown away when I was quite ignorant of its worth. But since my duty has not been incompatible with the admission of that remembrance, I have given it a place in my heart.”\n\n“You have always held your place in my heart,” I answered.\n\nAnd we were silent again until she spoke.\n\n“I little thought,” said Estella, “that I should take leave of you in taking leave of this spot. I am very glad to do so.”\n\n“Glad to part again, Estella? To me, parting is a painful thing. To me, the remembrance of our last parting has been ever mournful and painful.”\n\n“But you said to me,” returned Estella, very earnestly, “‘God bless you, God forgive you!’ And if you could say that to me then, you will not hesitate to say that to me now,—now, when suffering has been stronger than all other teaching, and has taught me to understand what your heart used to be. I have been bent and broken, but—I hope—into a better shape."
+      },
+      "request_id": "31bf9891a74ccbac12ab4453",
+      "request_sha256": "7edc773209afc6ffa1c980b99930c4b27370ac7fe651eb523f47ada2ee606072",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5f038a8ffc18e2b73c5dda68984d76b39cb26489c2bd3cf499af7ee10926eac8"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1c892c2f7794240ef37ec7aa",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 478,
+      "passage_id": "V2_shelley_frankenstein_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 1c892c2f7794240ef37ec7aa\noriginal_word_count: 478\n\nPassage:\nWhen I run over the frightful catalogue of my sins, I cannot believe that I am the same creature whose thoughts were once filled with sublime and transcendent visions of the beauty and the majesty of goodness. But it is even so; the fallen angel becomes a malignant devil. Yet even that enemy of God and man had friends and associates in his desolation; I am alone.\n\n“You, who call Frankenstein your friend, seem to have a knowledge of my crimes and his misfortunes. But in the detail which he gave you of them he could not sum up the hours and months of misery which I endured wasting in impotent passions. For while I destroyed his hopes, I did not satisfy my own desires. They were for ever ardent and craving; still I desired love and fellowship, and I was still spurned. Was there no injustice in this? Am I to be thought the only criminal, when all humankind sinned against me? Why do you not hate Felix, who drove his friend from his door with contumely? Why do you not execrate the rustic who sought to destroy the saviour of his child? Nay, these are virtuous and immaculate beings! I, the miserable and the abandoned, am an abortion, to be spurned at, and kicked, and trampled on. Even now my blood boils at the recollection of this injustice.\n\n“But it is true that I am a wretch. I have murdered the lovely and the helpless; I have strangled the innocent as they slept and grasped to death his throat who never injured me or any other living thing. I have devoted my creator, the select specimen of all that is worthy of love and admiration among men, to misery; I have pursued him even to that irremediable ruin. There he lies, white and cold in death. You hate me, but your abhorrence cannot equal that with which I regard myself. I look on the hands which executed the deed; I think on the heart in which the imagination of it was conceived and long for the moment when these hands will meet my eyes, when that imagination will haunt my thoughts no more.\n\n“Fear not that I shall be the instrument of future mischief. My work is nearly complete. Neither yours nor any man’s death is needed to consummate the series of my being and accomplish that which must be done, but it requires my own. Do not think that I shall be slow to perform this sacrifice. I shall quit your vessel on the ice raft which brought me thither and shall seek the most northern extremity of the globe; I shall collect my funeral pile and consume to ashes this miserable frame, that its remains may afford no light to any curious and unhallowed wretch who would create such another as I have been."
+      },
+      "request_id": "1c892c2f7794240ef37ec7aa",
+      "request_sha256": "ec7a21f3a5e1c06232ed72f1d1a8e351d71b9d51a7beca5d5fe94b3bae1dff20",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "74fd326948356b363d2a77adeb4720d1a1e127660269b11cffe81d9382491393"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

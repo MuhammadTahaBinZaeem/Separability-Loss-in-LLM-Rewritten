@@ -1,0 +1,26 @@
+{
+  "corpus_sha256": "5363aa9717afdbd74fd7c3ee3b819b78add8d31c8d7f017e6f7961cfa3e8ad95",
+  "forms_sha256": {
+    "A": "8821250ce8fa49e592bf01ccbde0f4ef24409f32fd366967060e1e5f7f6caca0",
+    "B": "4b490ae5cdf230687d5c38a5b439378db8d4c42c7c96394a1b685df2bf5767a7"
+  },
+  "generation_sha256": {
+    "astra_session": "0ccd39ffac60baa08037cc2f0cdfb597e8e04027266d3972f8ec321e5ca77eab",
+    "azure_replication": "76476f1fbd4ddfc28c6c0556517dd70f17443720227e423c16568fe63c59c530",
+    "codex51": "83baea6ce3ed9dfc979cdc68d7c5e26cfa245f3d3c5c640b36513f22eaee7c3e",
+    "gem31lite": "44602493441462e3529b75aa79a2ddc1906e4db3970270f02fff693b6202d6c5",
+    "luna56": "2297a3fb1a196a34f3482af06d52d3892caf409c65ff57e372300a23c6d82bf9",
+    "terra56": "2468792789922ba76d0acbc6ab1b236770430c916c3dca04697252f461acb928"
+  },
+  "issued_utc": "2026-09-29T17:07:54.053772+00:00",
+  "items_per_reviewer": 1620,
+  "join_key_sha256": "9d37b1d848f42f2663a2db72603c33b0605a081b5e055f13c5b77479117d8469",
+  "models_in_scope": [
+    "gem31lite",
+    "azure_replication",
+    "codex51",
+    "luna56",
+    "terra56",
+    "astra_session"
+  ]
+}

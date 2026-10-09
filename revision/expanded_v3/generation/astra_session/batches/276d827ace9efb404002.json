@@ -1,0 +1,68 @@
+{
+  "batch_id": "276d827ace9efb404002",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:59:01.197231+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0f6f792589ab29460479566c",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 490,
+      "passage_id": "V2_austen_emma_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 0f6f792589ab29460479566c\noriginal_word_count: 490\n\nPassage:\nAre you speaking of—Mr. Knightley?”\n\n“To be sure I am. I never could have an idea of any body else—and so I thought you knew. When we talked about him, it was as clear as possible.”\n\n“Not quite,” returned Emma, with forced calmness, “for all that you then said, appeared to me to relate to a different person. I could almost assert that you had _named_ Mr. Frank Churchill. I am sure the service Mr. Frank Churchill had rendered you, in protecting you from the gipsies, was spoken of.”\n\n“Oh! Miss Woodhouse, how you do forget!”\n\n“My dear Harriet, I perfectly remember the substance of what I said on the occasion. I told you that I did not wonder at your attachment; that considering the service he had rendered you, it was extremely natural:—and you agreed to it, expressing yourself very warmly as to your sense of that service, and mentioning even what your sensations had been in seeing him come forward to your rescue.—The impression of it is strong on my memory.”\n\n“Oh, dear,” cried Harriet, “now I recollect what you mean; but I was thinking of something very different at the time. It was not the gipsies—it was not Mr. Frank Churchill that I meant. No! (with some elevation) I was thinking of a much more precious circumstance—of Mr. Knightley’s coming and asking me to dance, when Mr. Elton would not stand up with me; and when there was no other partner in the room. That was the kind action; that was the noble benevolence and generosity; that was the service which made me begin to feel how superior he was to every other being upon earth.”\n\n“Good God!” cried Emma, “this has been a most unfortunate—most deplorable mistake!—What is to be done?”\n\n“You would not have encouraged me, then, if you had understood me? At least, however, I cannot be worse off than I should have been, if the other had been the person; and now—it _is_ possible—”\n\nShe paused a few moments. Emma could not speak.\n\n“I do not wonder, Miss Woodhouse,” she resumed, “that you should feel a great difference between the two, as to me or as to any body. You must think one five hundred million times more above me than the other. But I hope, Miss Woodhouse, that supposing—that if—strange as it may appear—. But you know they were your own words, that _more_ wonderful things had happened, matches of _greater_ disparity had taken place than between Mr. Frank Churchill and me; and, therefore, it seems as if such a thing even as this, may have occurred before—and if I should be so fortunate, beyond expression, as to—if Mr. Knightley should really—if _he_ does not mind the disparity, I hope, dear Miss Woodhouse, you will not set yourself against it, and try to put difficulties in the way."
+      },
+      "request_id": "0f6f792589ab29460479566c",
+      "request_sha256": "f9ef270142dbf69d776f654e133383b5d0b00ad0e5c476800ddf50974f4c1be7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "efaa64f7e1501d31d6bfd163c839949ab242fb81fd07c5a7712fcd994cec351d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "cbddb091334313baa3de454d",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_persuasion_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: cbddb091334313baa3de454d\noriginal_word_count: 465\n\nPassage:\nShe left it all behind her, all but the recollection that such things had been.\n\nAnne had never entered Kellynch since her quitting Lady Russell’s house in September. It had not been necessary, and the few occasions of its being possible for her to go to the Hall she had contrived to evade and escape from. Her first return was to resume her place in the modern and elegant apartments of the Lodge, and to gladden the eyes of its mistress.\n\nThere was some anxiety mixed with Lady Russell’s joy in meeting her. She knew who had been frequenting Uppercross. But happily, either Anne was improved in plumpness and looks, or Lady Russell fancied her so; and Anne, in receiving her compliments on the occasion, had the amusement of connecting them with the silent admiration of her cousin, and of hoping that she was to be blessed with a second spring of youth and beauty.\n\nWhen they came to converse, she was soon sensible of some mental change. The subjects of which her heart had been full on leaving Kellynch, and which she had felt slighted, and been compelled to smother among the Musgroves, were now become but of secondary interest. She had lately lost sight even of her father and sister and Bath. Their concerns had been sunk under those of Uppercross; and when Lady Russell reverted to their former hopes and fears, and spoke her satisfaction in the house in Camden Place, which had been taken, and her regret that Mrs Clay should still be with them, Anne would have been ashamed to have it known how much more she was thinking of Lyme and Louisa Musgrove, and all her acquaintance there; how much more interesting to her was the home and the friendship of the Harvilles and Captain Benwick, than her own father’s house in Camden Place, or her own sister’s intimacy with Mrs Clay. She was actually forced to exert herself to meet Lady Russell with anything like the appearance of equal solicitude, on topics which had by nature the first claim on her.\n\nThere was a little awkwardness at first in their discourse on another subject. They must speak of the accident at Lyme. Lady Russell had not been arrived five minutes the day before, when a full account of the whole had burst on her; but still it must be talked of, she must make enquiries, she must regret the imprudence, lament the result, and Captain Wentworth’s name must be mentioned by both. Anne was conscious of not doing it so well as Lady Russell. She could not speak the name, and look straight forward to Lady Russell’s eye, till she had adopted the expedient of telling her briefly what she thought of the attachment between him and Louisa."
+      },
+      "request_id": "cbddb091334313baa3de454d",
+      "request_sha256": "b3e06dbdf08337c4dda96ec8283c308b2fdf5c1e8858091f7925ac063afbffb1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "90204599da479fa28bf244dcc6929d67dd48b90f10866f2359835787a23ad793"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b24df9cd2012c94096f1fd36",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 488,
+      "passage_id": "V2_austen_persuasion_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: b24df9cd2012c94096f1fd36\noriginal_word_count: 488\n\nPassage:\nI have not nerves for the sort of thing.”\n\n“But, could you be comfortable yourself, to be spending the whole evening away from the poor boy?”\n\n“Yes; you see his papa can, and why should not I? Jemima is so careful; and she could send us word every hour how he was. I really think Charles might as well have told his father we would all come. I am not more alarmed about little Charles now than he is. I was dreadfully alarmed yesterday, but the case is very different to-day.”\n\n“Well, if you do not think it too late to give notice for yourself, suppose you were to go, as well as your husband. Leave little Charles to my care. Mr and Mrs Musgrove cannot think it wrong while I remain with him.”\n\n“Are you serious?” cried Mary, her eyes brightening. “Dear me! that’s a very good thought, very good, indeed. To be sure, I may just as well go as not, for I am of no use at home—am I? and it only harasses me. You, who have not a mother’s feelings, are a great deal the properest person. You can make little Charles do anything; he always minds you at a word. It will be a great deal better than leaving him only with Jemima. Oh! I shall certainly go; I am sure I ought if I can, quite as much as Charles, for they want me excessively to be acquainted with Captain Wentworth, and I know you do not mind being left alone. An excellent thought of yours, indeed, Anne. I will go and tell Charles, and get ready directly. You can send for us, you know, at a moment’s notice, if anything is the matter; but I dare say there will be nothing to alarm you. I should not go, you may be sure, if I did not feel quite at ease about my dear child.”\n\nThe next moment she was tapping at her husband’s dressing-room door, and as Anne followed her up stairs, she was in time for the whole conversation, which began with Mary’s saying, in a tone of great exultation—\n\n“I mean to go with you, Charles, for I am of no more use at home than you are. If I were to shut myself up for ever with the child, I should not be able to persuade him to do anything he did not like. Anne will stay; Anne undertakes to stay at home and take care of him. It is Anne’s own proposal, and so I shall go with you, which will be a great deal better, for I have not dined at the other house since Tuesday.”\n\n“This is very kind of Anne,” was her husband’s answer, “and I should be very glad to have you go; but it seems rather hard that she should be left at home by herself, to nurse our sick child.”"
+      },
+      "request_id": "b24df9cd2012c94096f1fd36",
+      "request_sha256": "cc6a54ce234e6d1339bb38bc9d67ece7b60b266b17c5fc13f84b5c3bf9743a57",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a90a16c13e443c3b13b417781de7d11d73588cec1d956d1849409bab34c8fe51"
+    }
+  ],
+  "session_id": "01a0e848-1788-74e3-94b7-8185fb822a0f",
+  "worker_id": "astra_m",
+  "worker_identity_sha256": "a661c68b1db9c5e5d4a06cab3427b000d00cd4134df771893194ef71da9b6fed"
+}

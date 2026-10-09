@@ -1,0 +1,68 @@
+{
+  "batch_id": "497d97359b5093e813be",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:16:35.896427+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "69f51f5a9a98c3fb77881b03",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 500,
+      "passage_id": "V2_twain_connecticut_yankee_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 69f51f5a9a98c3fb77881b03\noriginal_word_count: 500\n\nPassage:\nI could remember how it was in the time of our great civil war in the nineteenth century. In the North a carpenter got three dollars a day, gold valuation; in the South he got fifty--payable in Confederate shinplasters worth a dollar a bushel. In the North a suit of overalls cost three dollars--a day's wages; in the South it cost seventy-five --which was two days' wages. Other things were in proportion. Consequently, wages were twice as high in the North as they were in the South, because the one wage had that much more purchasing power than the other had.\n\nYes, I made various acquaintances in the hamlet and a thing that gratified me a good deal was to find our new coins in circulation --lots of milrays, lots of mills, lots of cents, a good many nickels, and some silver; all this among the artisans and commonalty generally; yes, and even some gold--but that was at the bank, that is to say, the goldsmith's. I dropped in there while Marco, the son of Marco, was haggling with a shopkeeper over a quarter of a pound of salt, and asked for change for a twenty-dollar gold piece. They furnished it--that is, after they had chewed the piece, and rung it on the counter, and tried acid on it, and asked me where I got it, and who I was, and where I was from, and where I was going to, and when I expected to get there, and perhaps a couple of hundred more questions; and when they got aground, I went right on and furnished them a lot of information voluntarily; told them I owned a dog, and his name was Watch, and my first wife was a Free Will Baptist, and her grandfather was a Prohibitionist, and I used to know a man who had two thumbs on each hand and a wart on the inside of his upper lip, and died in the hope of a glorious resurrection, and so on, and so on, and so on, till even that hungry village questioner began to look satisfied, and also a shade put out; but he had to respect a man of my financial strength, and so he didn't give me any lip, but I noticed he took it out of his underlings, which was a perfectly natural thing to do. Yes, they changed my twenty, but I judged it strained the bank a little, which was a thing to be expected, for it was the same as walking into a paltry village store in the nineteenth century and requiring the boss of it to change a two thousand-dollar bill for you all of a sudden. He could do it, maybe; but at the same time he would wonder how a small farmer happened to be carrying so much money around in his pocket; which was probably this goldsmith's thought, too; for he followed me to the door and stood there gazing after me with reverent admiration."
+      },
+      "request_id": "69f51f5a9a98c3fb77881b03",
+      "request_sha256": "c883ef9077919324433ffbc58a6682ecc420f1ccb7f8b126b2febfafdd289e53",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "21e1f1325434f3f7d7ffaef4c726e7c71caadaa2fc3e223cade78476e07e93e7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "cb57d8fcb3ee69347e95984d",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_austen_pride_and_prejudice_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: cb57d8fcb3ee69347e95984d\noriginal_word_count: 460\n\nPassage:\nI consider it as one of the first refinements of polished societies.”\n\n“Certainly, sir; and it has the advantage also of being in vogue amongst the less polished societies of the world: every savage can dance.”\n\nSir William only smiled. “Your friend performs delightfully,” he continued, after a pause, on seeing Bingley join the group; “and I doubt not that you are an adept in the science yourself, Mr. Darcy.”\n\n“You saw me dance at Meryton, I believe, sir.”\n\n“Yes, indeed, and received no inconsiderable pleasure from the sight. Do you often dance at St. James’s?”\n\n“Never, sir.”\n\n“Do you not think it would be a proper compliment to the place?”\n\n“It is a compliment which I never pay to any place if I can avoid it.”\n\n“You have a house in town, I conclude?”\n\nMr. Darcy bowed.\n\n“I had once some thoughts of fixing in town myself, for I am fond of superior society; but I did not feel quite certain that the air of London would agree with Lady Lucas.”\n\nHe paused in hopes of an answer: but his companion was not disposed to make any; and Elizabeth at that instant moving towards them, he was struck with the notion of doing a very gallant thing, and called out to her,--\n\n“My dear Miss Eliza, why are not you dancing? Mr. Darcy, you must allow me to present this young lady to you as a very desirable partner. You cannot refuse to dance, I am sure, when so much beauty is before you.” And, taking her hand, he would have given it to Mr. Darcy, who, though extremely surprised, was not unwilling to receive it, when she instantly drew back, and said with some discomposure to Sir William,--\n\n“Indeed, sir, I have not the least intention of dancing. I entreat you not to suppose that I moved this way in order to beg for a partner.”\n\nMr. Darcy, with grave propriety, requested to be allowed the honour of her hand, but in vain. Elizabeth was determined; nor did Sir William at all shake her purpose by his attempt at persuasion.\n\n“You excel so much in the dance, Miss Eliza, that it is cruel to deny me the happiness of seeing you; and though this gentleman dislikes the amusement in general, he can have no objection, I am sure, to oblige us for one half hour.”\n\n“Mr. Darcy is all politeness,” said Elizabeth, smiling.\n\n“He is, indeed: but considering the inducement, my dear Miss Eliza, we cannot wonder at his complaisance; for who would object to such a partner?”\n\nElizabeth looked archly, and turned away. Her resistance had not injured her with the gentleman, and he was thinking of her with some complacency, when thus accosted by Miss Bingley,--"
+      },
+      "request_id": "cb57d8fcb3ee69347e95984d",
+      "request_sha256": "87897b1dba3bf6d3e9bdc957a74b4de159744a77de7345f96ac22a05b3bbdd40",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8fc13c73685d8c6c7df5fa08af985adc752f784203e44fbef2304bc64f7ceb56"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3dd90bae6757cab20e885ef8",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_dickens_great_expectations_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 3dd90bae6757cab20e885ef8\noriginal_word_count: 452\n\nPassage:\nThere was a delicious sense of cleaning-up and making a quiet pause before going on in life afresh, in our village on Saturday nights, which stimulated Joe to dare to stay out half an hour longer on Saturdays than at other times. The half-hour and the rum and water running out together, Joe got up to go, and took me by the hand.\n\n“Stop half a moment, Mr. Gargery,” said the strange man. “I think I’ve got a bright new shilling somewhere in my pocket, and if I have, the boy shall have it.”\n\nHe looked it out from a handful of small change, folded it in some crumpled paper, and gave it to me. “Yours!” said he. “Mind! Your own.”\n\nI thanked him, staring at him far beyond the bounds of good manners, and holding tight to Joe. He gave Joe good-night, and he gave Mr. Wopsle good-night (who went out with us), and he gave me only a look with his aiming eye,—no, not a look, for he shut it up, but wonders may be done with an eye by hiding it.\n\nOn the way home, if I had been in a humour for talking, the talk must have been all on my side, for Mr. Wopsle parted from us at the door of the Jolly Bargemen, and Joe went all the way home with his mouth wide open, to rinse the rum out with as much air as possible. But I was in a manner stupefied by this turning up of my old misdeed and old acquaintance, and could think of nothing else.\n\nMy sister was not in a very bad temper when we presented ourselves in the kitchen, and Joe was encouraged by that unusual circumstance to tell her about the bright shilling. “A bad un, I’ll be bound,” said Mrs. Joe triumphantly, “or he wouldn’t have given it to the boy! Let’s look at it.”\n\nI took it out of the paper, and it proved to be a good one. “But what’s this?” said Mrs. Joe, throwing down the shilling and catching up the paper. “Two One-Pound notes?”\n\nNothing less than two fat sweltering one-pound notes that seemed to have been on terms of the warmest intimacy with all the cattle-markets in the county. Joe caught up his hat again, and ran with them to the Jolly Bargemen to restore them to their owner. While he was gone, I sat down on my usual stool and looked vacantly at my sister, feeling pretty sure that the man would not be there.\n\nPresently, Joe came back, saying that the man was gone, but that he, Joe, had left word at the Three Jolly Bargemen concerning the notes."
+      },
+      "request_id": "3dd90bae6757cab20e885ef8",
+      "request_sha256": "9bd255a7821154ec4f673ebfd01e48331421ff84248c61ebf61a331c35bd2dc5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f8f0ebedd522d612c05a5feb51a38fd0b0069e77d2e1e9738092b08f25ea2137"
+    }
+  ],
+  "session_id": "01a0e85b-f4da-78c2-af90-17d8fea0262a",
+  "worker_id": "astra_r",
+  "worker_identity_sha256": "1a9221512f2af9568b0b6124d87657856f97eb8192807e50db5ed5d6fe4cdc4b"
+}

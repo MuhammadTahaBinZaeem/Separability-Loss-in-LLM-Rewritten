@@ -1,0 +1,68 @@
+{
+  "batch_id": "8f97bc5652315bdb9f5a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:44:47.404848+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "960b9de104ed07e217a11c72",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_dickens_great_expectations_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 960b9de104ed07e217a11c72\noriginal_word_count: 453\n\nPassage:\n“Joseph!! Joseph!!!” Thereupon he shook his head and tapped it, expressing his sense of deficiency in Joseph.\n\n“But my dear young friend,” said Mr. Pumblechook, “you must be hungry, you must be exhausted. Be seated. Here is a chicken had round from the Boar, here is a tongue had round from the Boar, here’s one or two little things had round from the Boar, that I hope you may not despise. But do I,” said Mr. Pumblechook, getting up again the moment after he had sat down, “see afore me, him as I ever sported with in his times of happy infancy? And may I—_may_ I—?”\n\nThis May I, meant might he shake hands? I consented, and he was fervent, and then sat down again.\n\n“Here is wine,” said Mr. Pumblechook. “Let us drink, Thanks to Fortune, and may she ever pick out her favourites with equal judgment! And yet I cannot,” said Mr. Pumblechook, getting up again, “see afore me One—and likewise drink to One—without again expressing—May I—_may_ I—?”\n\nI said he might, and he shook hands with me again, and emptied his glass and turned it upside down. I did the same; and if I had turned myself upside down before drinking, the wine could not have gone more direct to my head.\n\nMr. Pumblechook helped me to the liver wing, and to the best slice of tongue (none of those out-of-the-way No Thoroughfares of Pork now), and took, comparatively speaking, no care of himself at all. “Ah! poultry, poultry! You little thought,” said Mr. Pumblechook, apostrophising the fowl in the dish, “when you was a young fledgling, what was in store for you. You little thought you was to be refreshment beneath this humble roof for one as—Call it a weakness, if you will,” said Mr. Pumblechook, getting up again, “but may I? _may_ I—?”\n\nIt began to be unnecessary to repeat the form of saying he might, so he did it at once. How he ever did it so often without wounding himself with my knife, I don’t know.\n\n“And your sister,” he resumed, after a little steady eating, “which had the honour of bringing you up by hand! It’s a sad picter, to reflect that she’s no longer equal to fully understanding the honour. May—”\n\nI saw he was about to come at me again, and I stopped him.\n\n“We’ll drink her health,” said I.\n\n“Ah!” cried Mr. Pumblechook, leaning back in his chair, quite flaccid with admiration, “that’s the way you know ’em, sir!” (I don’t know who Sir was, but he certainly was not I, and there was no third person present); “that’s the way you know the noble-minded, sir!"
+      },
+      "request_id": "960b9de104ed07e217a11c72",
+      "request_sha256": "94296a0974e170f85e3f0cd0613b4ca8730096fd163f2f8077c68785e12a4264",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a8eba07377de662432c6f8a560fa2314328669d77ac66751767a40b6811f433c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "17405d32e821bebf91ac56f5",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_twain_huckleberry_finn_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 17405d32e821bebf91ac56f5\noriginal_word_count: 463\n\nPassage:\nThe first time I catched Tom private I asked him what was his idea, time of the evasion?—what it was he’d planned to do if the evasion worked all right and he managed to set a nigger free that was already free before? And he said, what he had planned in his head from the start, if we got Jim out all safe, was for us to run him down the river on the raft, and have adventures plumb to the mouth of the river, and then tell him about his being free, and take him back up home on a steamboat, in style, and pay him for his lost time, and write word ahead and get out all the niggers around, and have them waltz him into town with a torchlight procession and a brass-band, and then he would be a hero, and so would we. But I reckoned it was about as well the way it was.\n\nWe had Jim out of the chains in no time, and when Aunt Polly and Uncle Silas and Aunt Sally found out how good he helped the doctor nurse Tom, they made a heap of fuss over him, and fixed him up prime, and give him all he wanted to eat, and a good time, and nothing to do. And we had him up to the sick-room, and had a high talk; and Tom give Jim forty dollars for being prisoner for us so patient, and doing it up so good, and Jim was pleased most to death, and busted out, and says:\n\n“_Dah_, now, Huck, what I tell you?—what I tell you up dah on Jackson islan’? I _tole_ you I got a hairy breas’, en what’s de sign un it; en I _tole_ you I ben rich wunst, en gwineter to be rich _agin;_ en it’s come true; en heah she _is! Dah_, now! doan’ talk to _me_—signs is _signs_, mine I tell you; en I knowed jis’ ’s well ’at I ’uz gwineter be rich agin as I’s a-stannin’ heah dis minute!”\n\nAnd then Tom he talked along and talked along, and says, le’s all three slide out of here one of these nights and get an outfit, and go for howling adventures amongst the Injuns, over in the Territory, for a couple of weeks or two; and I says, all right, that suits me, but I ain’t got no money for to buy the outfit, and I reckon I couldn’t get none from home, because it’s likely pap’s been back before now, and got it all away from Judge Thatcher and drunk it up.\n\n“No, he hain’t,” Tom says; “it’s all there yet—six thousand dollars and more; and your pap hain’t ever been back since."
+      },
+      "request_id": "17405d32e821bebf91ac56f5",
+      "request_sha256": "5b12d28b78ece8ef64c9f12e49aa08c583afbebaaf257e473afc494aff19c1c8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "abe36c52a9f8f8a8951175e24b5d8d1ad50898f73fc4fe293ae8078982366d8e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9a21055face53147fdd69a4a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 9a21055face53147fdd69a4a\noriginal_word_count: 485\n\nPassage:\nThose venerable and feeble persons were always seen by the public in the act of bowing, and were popularly believed, when they had bowed a customer out, still to keep on bowing in the empty office until they bowed another customer in.\n\nThe barrister was keen enough to divine that the banker would not have gone so far in his expression of opinion on any less solid ground than moral certainty. Unprepared as he was for the large pill he had to swallow, he got it down. “And now,” said Mr. Stryver, shaking his forensic forefinger at the Temple in general, when it was down, “my way out of this, is, to put you all in the wrong.”\n\nIt was a bit of the art of an Old Bailey tactician, in which he found great relief. “You shall not put me in the wrong, young lady,” said Mr. Stryver; “I’ll do that for you.”\n\nAccordingly, when Mr. Lorry called that night as late as ten o’clock, Mr. Stryver, among a quantity of books and papers littered out for the purpose, seemed to have nothing less on his mind than the subject of the morning. He even showed surprise when he saw Mr. Lorry, and was altogether in an absent and preoccupied state.\n\n“Well!” said that good-natured emissary, after a full half-hour of bootless attempts to bring him round to the question. “I have been to Soho.”\n\n“To Soho?” repeated Mr. Stryver, coldly. “Oh, to be sure! What am I thinking of!”\n\n“And I have no doubt,” said Mr. Lorry, “that I was right in the conversation we had. My opinion is confirmed, and I reiterate my advice.”\n\n“I assure you,” returned Mr. Stryver, in the friendliest way, “that I am sorry for it on your account, and sorry for it on the poor father’s account. I know this must always be a sore subject with the family; let us say no more about it.”\n\n“I don’t understand you,” said Mr. Lorry.\n\n“I dare say not,” rejoined Stryver, nodding his head in a smoothing and final way; “no matter, no matter.”\n\n“But it does matter,” Mr. Lorry urged.\n\n“No it doesn’t; I assure you it doesn’t. Having supposed that there was sense where there is no sense, and a laudable ambition where there is not a laudable ambition, I am well out of my mistake, and no harm is done. Young women have committed similar follies often before, and have repented them in poverty and obscurity often before. In an unselfish aspect, I am sorry that the thing is dropped, because it would have been a bad thing for me in a worldly point of view; in a selfish aspect, I am glad that the thing has dropped, because it would have been a bad thing for me in a worldly point of view--it is hardly necessary to say I could have gained nothing by it."
+      },
+      "request_id": "9a21055face53147fdd69a4a",
+      "request_sha256": "f13070f11d2ea5397be152822f0f325333dbdbc6c3fe4342199d6e7aa8786aaa",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3cbf3ce90302855af39a8cd4d2b9562f4e28ebd5f9ae670ee3430ba19fe335a3"
+    }
+  ],
+  "session_id": "01a0e83d-ac82-75d0-a392-9c53b7dc0442",
+  "worker_id": "astra_k",
+  "worker_identity_sha256": "422750a9fc253bc1ace58d43156fd122722e4dcc870654c7f3796645edd88607"
+}

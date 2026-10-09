@@ -1,0 +1,68 @@
+{
+  "batch_id": "422280837a21f5ea1b3a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:54:22.269162+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8c7b548ee028f52f8654fde8",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_twain_connecticut_yankee_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8c7b548ee028f52f8654fde8\noriginal_word_count: 457\n\nPassage:\n“And so I'm proprietor of some knights,” said I, as we rode off. “Who would ever have supposed that I should live to list up assets of that sort. I shan't know what to do with them; unless I raffle them off. How many of them are there, Sandy?”\n\n“Seven, please you, sir, and their squires.”\n\n“It is a good haul. Who are they? Where do they hang out?”\n\n“Where do they hang out?”\n\n“Yes, where do they live?”\n\n“Ah, I understood thee not. That will I tell eftsoons.” Then she said musingly, and softly, turning the words daintily over her tongue: “Hang they out--hang they out--where hang--where do they hang out; eh, right so; where do they hang out. Of a truth the phrase hath a fair and winsome grace, and is prettily worded withal. I will repeat it anon and anon in mine idlesse, whereby I may peradventure learn it. Where do they hang out. Even so! already it falleth trippingly from my tongue, and forasmuch as--”\n\n“Don't forget the cowboys, Sandy.”\n\n“Cowboys?”\n\n“Yes; the knights, you know: You were going to tell me about them. A while back, you remember. Figuratively speaking, game's called.”\n\n“Game--”\n\n“Yes, yes, yes! Go to the bat. I mean, get to work on your statistics, and don't burn so much kindling getting your fire started. Tell me about the knights.”\n\n“I will well, and lightly will begin. So they two departed and rode into a great forest. And--”\n\n“Great Scott!”\n\nYou see, I recognized my mistake at once. I had set her works a-going; it was my own fault; she would be thirty days getting down to those facts. And she generally began without a preface and finished without a result. If you interrupted her she would either go right along without noticing, or answer with a couple of words, and go back and say the sentence over again. So, interruptions only did harm; and yet I had to interrupt, and interrupt pretty frequently, too, in order to save my life; a person would die if he let her monotony drip on him right along all day.\n\n“Great Scott!” I said in my distress. She went right back and began over again:\n\n“So they two departed and rode into a great forest. And--”\n\n“_Which_ two?”\n\n“Sir Gawaine and Sir Uwaine. And so they came to an abbey of monks, and there were well lodged. So on the morn they heard their masses in the abbey, and so they rode forth till they came to a great forest; then was Sir Gawaine ware in a valley by a turret, of twelve fair damsels, and two knights armed on great horses, and the damsels went to and fro by a tree."
+      },
+      "request_id": "8c7b548ee028f52f8654fde8",
+      "request_sha256": "ae8d56ac32e512103ac78c09ebf6b6ee5d1f17074b87c7447523d49097f438bb",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1dd9983edde252b77d615c6e96a1b84e23fab6d6342b0bbf2258750551c81445"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1010a41191eb4e052823498a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_twain_huckleberry_finn_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 1010a41191eb4e052823498a\noriginal_word_count: 453\n\nPassage:\nWell, I says, I needed the watermelon. But he said I didn’t need it to get out of prison with; there’s where the difference was. He said if I’d a wanted it to hide a knife in, and smuggle it to Jim to kill the seneskal with, it would a been all right. So I let it go at that, though I couldn’t see no advantage in my representing a prisoner if I got to set down and chaw over a lot of gold-leaf distinctions like that every time I see a chance to hog a watermelon.\n\nWell, as I was saying, we waited that morning till everybody was settled down to business, and nobody in sight around the yard; then Tom he carried the sack into the lean-to whilst I stood off a piece to keep watch. By-and-by he come out, and we went and set down on the woodpile to talk. He says:\n\n“Everything’s all right now except tools; and that’s easy fixed.”\n\n“Tools?” I says.\n\n“Yes.”\n\n“Tools for what?”\n\n“Why, to dig with. We ain’t a-going to _gnaw_ him out, are we?”\n\n“Ain’t them old crippled picks and things in there good enough to dig a nigger out with?” I says.\n\nHe turns on me, looking pitying enough to make a body cry, and says:\n\n“Huck Finn, did you _ever_ hear of a prisoner having picks and shovels, and all the modern conveniences in his wardrobe to dig himself out with? Now I want to ask you—if you got any reasonableness in you at all—what kind of a show would _that_ give him to be a hero? Why, they might as well lend him the key and done with it. Picks and shovels—why, they wouldn’t furnish ’em to a king.”\n\n“Well, then,” I says, “if we don’t want the picks and shovels, what do we want?”\n\n“A couple of case-knives.”\n\n“To dig the foundations out from under that cabin with?”\n\n“Yes.”\n\n“Confound it, it’s foolish, Tom.”\n\n“It don’t make no difference how foolish it is, it’s the _right_ way—and it’s the regular way. And there ain’t no _other_ way, that ever _I_ heard of, and I’ve read all the books that gives any information about these things. They always dig out with a case-knife—and not through dirt, mind you; generly it’s through solid rock. And it takes them weeks and weeks and weeks, and for ever and ever. Why, look at one of them prisoners in the bottom dungeon of the Castle Deef, in the harbor of Marseilles, that dug himself out that way; how long was _he_ at it, you reckon?”\n\n“I don’t know.”\n\n“Well, guess.”\n\n“I don’t know. A month and a half.”"
+      },
+      "request_id": "1010a41191eb4e052823498a",
+      "request_sha256": "2a014a0fd2371f5bed7d737d0f84108da37f9125db6183e8a7aef6ca24d4888f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "da2e3b031ef10d29b2a0e3e08657cd4c32f8e178e2eac64df8d787b737bdd54c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a71bf01059d5fa6b8843066a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_twain_tom_sawyer_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: a71bf01059d5fa6b8843066a\noriginal_word_count: 456\n\nPassage:\nYet notwithstanding all this, the boy grew more and more melancholy and pale and dejected. She added hot baths, sitz baths, shower baths, and plunges. The boy remained as dismal as a hearse. She began to assist the water with a slim oatmeal diet and blister-plasters. She calculated his capacity as she would a jug’s, and filled him up every day with quack cure-alls.\n\nTom had become indifferent to persecution by this time. This phase filled the old lady’s heart with consternation. This indifference must be broken up at any cost. Now she heard of Pain-killer for the first time. She ordered a lot at once. She tasted it and was filled with gratitude. It was simply fire in a liquid form. She dropped the water treatment and everything else, and pinned her faith to Pain-killer. She gave Tom a teaspoonful and watched with the deepest anxiety for the result. Her troubles were instantly at rest, her soul at peace again; for the “indifference” was broken up. The boy could not have shown a wilder, heartier interest, if she had built a fire under him.\n\nTom felt that it was time to wake up; this sort of life might be romantic enough, in his blighted condition, but it was getting to have too little sentiment and too much distracting variety about it. So he thought over various plans for relief, and finally hit upon that of professing to be fond of Pain-killer. He asked for it so often that he became a nuisance, and his aunt ended by telling him to help himself and quit bothering her. If it had been Sid, she would have had no misgivings to alloy her delight; but since it was Tom, she watched the bottle clandestinely. She found that the medicine did really diminish, but it did not occur to her that the boy was mending the health of a crack in the sitting-room floor with it.\n\nOne day Tom was in the act of dosing the crack when his aunt’s yellow cat came along, purring, eyeing the teaspoon avariciously, and begging for a taste. Tom said:\n\n“Don’t ask for it unless you want it, Peter.”\n\nBut Peter signified that he did want it.\n\n“You better make sure.”\n\nPeter was sure.\n\n“Now you’ve asked for it, and I’ll give it to you, because there ain’t anything mean about me; but if you find you don’t like it, you mustn’t blame anybody but your own self.”\n\nPeter was agreeable. So Tom pried his mouth open and poured down the Pain-killer. Peter sprang a couple of yards in the air, and then delivered a war-whoop and set off round and round the room, banging against furniture, upsetting flower-pots, and making general havoc."
+      },
+      "request_id": "a71bf01059d5fa6b8843066a",
+      "request_sha256": "442c1f96ffc5d526d413b13b471b777c086adfb6cd8f75b5ae6004b2d76a29a1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1b0665f87ff6d2a0660ed281473a109c98f9cd7e2aca42d7ecd085590ae651b6"
+    }
+  ],
+  "session_id": "01a0e847-b893-7c52-8311-f3acf99043e1",
+  "worker_id": "astra_l",
+  "worker_identity_sha256": "2c5da61879bebe3353fa66cda11e4cbc6ce4420d78f567ebeb859dde68cb1df4"
+}

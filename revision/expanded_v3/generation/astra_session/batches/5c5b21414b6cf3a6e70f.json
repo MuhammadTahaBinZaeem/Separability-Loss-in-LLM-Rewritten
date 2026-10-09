@@ -1,0 +1,68 @@
+{
+  "batch_id": "5c5b21414b6cf3a6e70f",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:16:04.491185+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "cf588773eb7f4f83dde5d342",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 482,
+      "passage_id": "V2_dickens_great_expectations_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: cf588773eb7f4f83dde5d342\noriginal_word_count: 482\n\nPassage:\n“Why, you don’t mean to say—” began my sister.\n\n“Yes I do, Mum,” said Pumblechook; “but wait a bit. Go on, Joseph. Good in you! Go on!”\n\n“What would present company say,” proceeded Joe, “to twenty pound?”\n\n“Handsome would be the word,” returned my sister.\n\n“Well, then,” said Joe, “It’s more than twenty pound.”\n\nThat abject hypocrite, Pumblechook, nodded again, and said, with a patronizing laugh, “It’s more than that, Mum. Good again! Follow her up, Joseph!”\n\n“Then to make an end of it,” said Joe, delightedly handing the bag to my sister; “it’s five-and-twenty pound.”\n\n“It’s five-and-twenty pound, Mum,” echoed that basest of swindlers, Pumblechook, rising to shake hands with her; “and it’s no more than your merits (as I said when my opinion was asked), and I wish you joy of the money!”\n\nIf the villain had stopped here, his case would have been sufficiently awful, but he blackened his guilt by proceeding to take me into custody, with a right of patronage that left all his former criminality far behind.\n\n“Now you see, Joseph and wife,” said Pumblechook, as he took me by the arm above the elbow, “I am one of them that always go right through with what they’ve begun. This boy must be bound, out of hand. That’s _my_ way. Bound out of hand.”\n\n“Goodness knows, Uncle Pumblechook,” said my sister (grasping the money), “we’re deeply beholden to you.”\n\n“Never mind me, Mum,” returned that diabolical cornchandler. “A pleasure’s a pleasure all the world over. But this boy, you know; we must have him bound. I said I’d see to it—to tell you the truth.”\n\nThe Justices were sitting in the Town Hall near at hand, and we at once went over to have me bound apprentice to Joe in the Magisterial presence. I say we went over, but I was pushed over by Pumblechook, exactly as if I had that moment picked a pocket or fired a rick; indeed, it was the general impression in Court that I had been taken red-handed; for, as Pumblechook shoved me before him through the crowd, I heard some people say, “What’s he done?” and others, “He’s a young ’un, too, but looks bad, don’t he?” One person of mild and benevolent aspect even gave me a tract ornamented with a woodcut of a malevolent young man fitted up with a perfect sausage-shop of fetters, and entitled TO BE READ IN MY CELL.\n\nThe Hall was a queer place, I thought, with higher pews in it than a church,—and with people hanging over the pews looking on,—and with mighty Justices (one with a powdered head) leaning back in chairs, with folded arms, or taking snuff, or going to sleep, or writing, or reading the newspapers,—and with some shining black portraits on the walls, which my unartistic eye regarded as a composition of hardbake and sticking-plaster."
+      },
+      "request_id": "cf588773eb7f4f83dde5d342",
+      "request_sha256": "ad06b2313130f79b751a3a968140246c0fd1d5dd73529358b730949fb37fe329",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0c5caaed48779fd895db3a8effe3e952f34e1dd54117a1055cef4ec718fd5de3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d0a60dfeabbad3f7f3109d97",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_shelley_frankenstein_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: d0a60dfeabbad3f7f3109d97\noriginal_word_count: 453\n\nPassage:\n“I swear,” he cried, “by the sun, and by the blue sky of heaven, and by the fire of love that burns my heart, that if you grant my prayer, while they exist you shall never behold me again. Depart to your home and commence your labours; I shall watch their progress with unutterable anxiety; and fear not but that when you are ready I shall appear.”\n\nSaying this, he suddenly quitted me, fearful, perhaps, of any change in my sentiments. I saw him descend the mountain with greater speed than the flight of an eagle, and quickly lost among the undulations of the sea of ice.\n\nHis tale had occupied the whole day, and the sun was upon the verge of the horizon when he departed. I knew that I ought to hasten my descent towards the valley, as I should soon be encompassed in darkness; but my heart was heavy, and my steps slow. The labour of winding among the little paths of the mountain and fixing my feet firmly as I advanced perplexed me, occupied as I was by the emotions which the occurrences of the day had produced. Night was far advanced when I came to the halfway resting-place and seated myself beside the fountain. The stars shone at intervals as the clouds passed from over them; the dark pines rose before me, and every here and there a broken tree lay on the ground; it was a scene of wonderful solemnity and stirred strange thoughts within me. I wept bitterly, and clasping my hands in agony, I exclaimed, “Oh! stars and clouds and winds, ye are all about to mock me; if ye really pity me, crush sensation and memory; let me become as nought; but if not, depart, depart, and leave me in darkness.”\n\nThese were wild and miserable thoughts, but I cannot describe to you how the eternal twinkling of the stars weighed upon me and how I listened to every blast of wind as if it were a dull ugly siroc on its way to consume me.\n\nMorning dawned before I arrived at the village of Chamounix; I took no rest, but returned immediately to Geneva. Even in my own heart I could give no expression to my sensations—they weighed on me with a mountain’s weight and their excess destroyed my agony beneath them. Thus I returned home, and entering the house, presented myself to the family. My haggard and wild appearance awoke intense alarm, but I answered no question, scarcely did I speak. I felt as if I were placed under a ban—as if I had no right to claim their sympathies—as if never more might I enjoy companionship with them."
+      },
+      "request_id": "d0a60dfeabbad3f7f3109d97",
+      "request_sha256": "666508236a1f28962224bce18bd81e29600ebc19ad70c4f13ede8d803a33984b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fde7b3896ea86eaae42b95fb1bc064dc51e8a61a045498244aa2925a37c3fbde"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "586424ead5f2160cc553349e",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_twain_tom_sawyer_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 586424ead5f2160cc553349e\noriginal_word_count: 463\n\nPassage:\n“Stop the stabboard! Ting-a-ling-ling! Stop the labboard! Come ahead on the stabboard! Stop her! Let your outside turn over slow! Ting-a-ling-ling! Chow-ow-ow! Get out that head-line! _lively_ now! Come—out with your spring-line—what’re you about there! Take a turn round that stump with the bight of it! Stand by that stage, now—let her go! Done with the engines, sir! Ting-a-ling-ling! SH’T! S’H’T! SH’T!” (trying the gauge-cocks).\n\nTom went on whitewashing—paid no attention to the steamboat. Ben stared a moment and then said: “_Hi-Yi! You’re_ up a stump, ain’t you!”\n\nNo answer. Tom surveyed his last touch with the eye of an artist, then he gave his brush another gentle sweep and surveyed the result, as before. Ben ranged up alongside of him. Tom’s mouth watered for the apple, but he stuck to his work. Ben said:\n\n“Hello, old chap, you got to work, hey?”\n\nTom wheeled suddenly and said:\n\n“Why, it’s you, Ben! I warn’t noticing.”\n\n“Say—I’m going in a-swimming, I am. Don’t you wish you could? But of course you’d druther _work_—wouldn’t you? Course you would!”\n\nTom contemplated the boy a bit, and said:\n\n“What do you call work?”\n\n“Why, ain’t _that_ work?”\n\nTom resumed his whitewashing, and answered carelessly:\n\n“Well, maybe it is, and maybe it ain’t. All I know, is, it suits Tom Sawyer.”\n\n“Oh come, now, you don’t mean to let on that you _like_ it?”\n\nThe brush continued to move.\n\n“Like it? Well, I don’t see why I oughtn’t to like it. Does a boy get a chance to whitewash a fence every day?”\n\nThat put the thing in a new light. Ben stopped nibbling his apple. Tom swept his brush daintily back and forth—stepped back to note the effect—added a touch here and there—criticised the effect again—Ben watching every move and getting more and more interested, more and more absorbed. Presently he said:\n\n“Say, Tom, let _me_ whitewash a little.”\n\nTom considered, was about to consent; but he altered his mind:\n\n“No—no—I reckon it wouldn’t hardly do, Ben. You see, Aunt Polly’s awful particular about this fence—right here on the street, you know—but if it was the back fence I wouldn’t mind and _she_ wouldn’t. Yes, she’s awful particular about this fence; it’s got to be done very careful; I reckon there ain’t one boy in a thousand, maybe two thousand, that can do it the way it’s got to be done.”\n\n“No—is that so? Oh come, now—lemme just try. Only just a little—I’d let _you_, if you was me, Tom.”\n\n“Ben, I’d like to, honest injun; but Aunt Polly—well, Jim wanted to do it, but she wouldn’t let him; Sid wanted to do it, and she wouldn’t let Sid."
+      },
+      "request_id": "586424ead5f2160cc553349e",
+      "request_sha256": "fd8aa7a45f62487e448142eb3c4f370247f5e72ef3571804eb7c4a54b033eb74",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "667ce8408c687e31a2a65579f909cb506756f4640bd964a769df0a519ef96fde"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

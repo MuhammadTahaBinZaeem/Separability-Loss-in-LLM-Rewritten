@@ -1,0 +1,65 @@
+{
+  "batch_id": "bf91b5ee426e3403310a",
+  "issued_utc": "2026-09-26T11:02:21.530668+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7d309e0ef4617bb13050d71f",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_twain_tom_sawyer_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 7d309e0ef4617bb13050d71f\noriginal_word_count: 472\n\nPassage:\n“Nothing but a tick.”\n\n“Where’d you get him?”\n\n“Out in the woods.”\n\n“What’ll you take for him?”\n\n“I don’t know. I don’t want to sell him.”\n\n“All right. It’s a mighty small tick, anyway.”\n\n“Oh, anybody can run a tick down that don’t belong to them. I’m satisfied with it. It’s a good enough tick for me.”\n\n“Sho, there’s ticks a plenty. I could have a thousand of ’em if I wanted to.”\n\n“Well, why don’t you? Becuz you know mighty well you can’t. This is a pretty early tick, I reckon. It’s the first one I’ve seen this year.”\n\n“Say, Huck—I’ll give you my tooth for him.”\n\n“Less see it.”\n\nTom got out a bit of paper and carefully unrolled it. Huckleberry viewed it wistfully. The temptation was very strong. At last he said:\n\n“Is it genuwyne?”\n\nTom lifted his lip and showed the vacancy.\n\n“Well, all right,” said Huckleberry, “it’s a trade.”\n\nTom enclosed the tick in the percussion-cap box that had lately been the pinchbug’s prison, and the boys separated, each feeling wealthier than before.\n\nWhen Tom reached the little isolated frame school-house, he strode in briskly, with the manner of one who had come with all honest speed. He hung his hat on a peg and flung himself into his seat with business-like alacrity. The master, throned on high in his great splint-bottom arm-chair, was dozing, lulled by the drowsy hum of study. The interruption roused him.\n\n“Thomas Sawyer!”\n\nTom knew that when his name was pronounced in full, it meant trouble.\n\n“Sir!”\n\n“Come up here. Now, sir, why are you late again, as usual?”\n\nTom was about to take refuge in a lie, when he saw two long tails of yellow hair hanging down a back that he recognized by the electric sympathy of love; and by that form was _the only vacant place_ on the girls’ side of the school-house. He instantly said:\n\n“_I stopped to talk with Huckleberry Finn!_”\n\nThe master’s pulse stood still, and he stared helplessly. The buzz of study ceased. The pupils wondered if this foolhardy boy had lost his mind. The master said:\n\n“You—you did what?”\n\n“Stopped to talk with Huckleberry Finn.”\n\nThere was no mistaking the words.\n\n“Thomas Sawyer, this is the most astounding confession I have ever listened to. No mere ferule will answer for this offence. Take off your jacket.”\n\nThe master’s arm performed until it was tired and the stock of switches notably diminished. Then the order followed:\n\n“Now, sir, go and sit with the girls! And let this be a warning to you.”\n\nThe titter that rippled around the room appeared to abash the boy, but in reality that result was caused rather more by his worshipful awe of his unknown idol and the dread pleasure that lay in his high good fortune."
+      },
+      "request_id": "7d309e0ef4617bb13050d71f",
+      "request_sha256": "5e62035effb59027514d29f318cb6cca759915e40c89fcb8a9227b9edb85b3aa",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "323d6acb59fb7860bc2793a84ba6ac977f23c07b4823893b56c6c2d0cfd25ae1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "377924557706d8fbf7f68337",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_shelley_the_last_man_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 377924557706d8fbf7f68337\noriginal_word_count: 463\n\nPassage:\nThe oaks around were the home of a tribe of nightingales—there am I now; Idris, in youth’s dear prime, is by my side —remember, I am just twenty-two, and seventeen summers have scarcely passed over the beloved of my heart. The river swollen by autumnal rains, deluged the low lands, and Adrian in his favourite boat is employed in the dangerous pastime of plucking the topmost bough from a submerged oak. Are you weary of life, O Adrian, that you thus play with danger?—\n\nHe has obtained his prize, and he pilots his boat through the flood; our eyes were fixed on him fearfully, but the stream carried him away from us; he was forced to land far lower down, and to make a considerable circuit before he could join us. “He is safe!” said Idris, as he leapt on shore, and waved the bough over his head in token of success; “we will wait for him here.”\n\nWe were alone together; the sun had set; the song of the nightingales began; the evening star shone distinct in the flood of light, which was yet unfaded in the west. The blue eyes of my angelic girl were fixed on this sweet emblem of herself: “How the light palpitates,” she said, “which is that star’s life. Its vacillating effulgence seems to say that its state, even like ours upon earth, is wavering and inconstant; it fears, methinks, and it loves.”\n\n“Gaze not on the star, dear, generous friend,” I cried, “read not love in _its_ trembling rays; look not upon distant worlds; speak not of the mere imagination of a sentiment. I have long been silent; long even to sickness have I desired to speak to you, and submit my soul, my life, my entire being to you. Look not on the star, dear love, or do, and let that eternal spark plead for me; let it be my witness and my advocate, silent as it shines—love is to me as light to the star; even so long as that is uneclipsed by annihilation, so long shall I love you.”\n\nVeiled for ever to the world’s callous eye must be the transport of that moment. Still do I feel her graceful form press against my full-fraught heart—still does sight, and pulse, and breath sicken and fail, at the remembrance of that first kiss. Slowly and silently we went to meet Adrian, whom we heard approaching.\n\nI entreated Adrian to return to me after he had conducted his sister home. And that same evening, walking among the moon-lit forest paths, I poured forth my whole heart, its transport and its hope, to my friend. For a moment he looked disturbed—“I might have foreseen this,” he said, “what strife will now ensue!"
+      },
+      "request_id": "377924557706d8fbf7f68337",
+      "request_sha256": "1fc99b164000679b725cad84ad55176382203596951cf6205e80c9be33091504",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7af4a611bf0310a1d71f8a605603129ddfc3ffedaa8b1327b56c95ca17b00316"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "80633eb50d7d8e34a1670269",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V2_poe_the_gold_bug_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 80633eb50d7d8e34a1670269\noriginal_word_count: 458\n\nPassage:\n“Now, in English, the letter which most frequently occurs is e. Afterwards, succession runs thus: _a o i d h n r s t u y c f g l m w b k p q x z_. _E_ predominates so remarkably that an individual sentence of any length is rarely seen, in which it is not the prevailing character.\n\n“Here, then, we leave, in the very beginning, the groundwork for something more than a mere guess. The general use which may be made of the table is obvious—but, in this particular cipher, we shall only very partially require its aid. As our predominant character is 8, we will commence by assuming it as the _e_ of the natural alphabet. To verify the supposition, let us observe if the 8 be seen often in couples—for _e_ is doubled with great frequency in English—in such words, for example, as ‘meet,’ ‘.fleet,’ ‘speed,’ ‘seen,’ been,’ ‘agree,’ &c. In the present instance we see it doubled no less than five times, although the cryptograph is brief.\n\n“Let us assume 8, then, as _e_. Now, of all _words_ in the language, ‘the’ is most usual; let us see, therefore, whether there are not repetitions of any three characters, in the same order of collocation, the last of them being 8. If we discover repetitions of such letters, so arranged, they will most probably represent the word ‘the.’ Upon inspection, we find no less than seven such arrangements, the characters being ;48. We may, therefore, assume that ; represents _t_, 4 represents _h_, and 8 represents _e_—the last being now well confirmed. Thus a great step has been taken.\n\n“But, having established a single word, we are enabled to establish a vastly important point; that is to say, several commencements and terminations of other words. Let us refer, for example, to the last instance but one, in which the combination ;48 occurs—not far from the end of the cipher. We know that the ; immediately ensuing is the commencement of a word, and, of the six characters succeeding this ‘the,’ we are cognizant of no less than five. Let us set these characters down, thus, by the letters we know them to represent, leaving a space for the unknown—\n\nt eeth.\n\n“Here we are enabled, at once, to discard the ‘th,’ as forming no portion of the word commencing with the first t; since, by experiment of the entire alphabet for a letter adapted to the vacancy, we perceive that no word can be formed of which this _th_ can be a part. We are thus narrowed into\n\nt ee,\n\nand, going through the alphabet, if necessary, as before, we arrive at the word ‘tree,’ as the sole possible reading."
+      },
+      "request_id": "80633eb50d7d8e34a1670269",
+      "request_sha256": "ed04dbd6d47229a92827e204f954b838533495d2c0036f6b40c7eec56126ff9c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f80ae1955e479cddfa499690b79cd4aeefe69fc2ce738bcf52909a9b40455948"
+    }
+  ],
+  "session_id": "01a0a569-7a64-7260-a3e1-97dfbb4eaf58"
+}

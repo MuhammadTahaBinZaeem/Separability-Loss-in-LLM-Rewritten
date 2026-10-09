@@ -1,0 +1,68 @@
+{
+  "batch_id": "42a6c11bb7af99e0c42b",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:33:56.589480+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6697c8d40b33e7f44dd8e584",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_poe_the_gold_bug_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 6697c8d40b33e7f44dd8e584\noriginal_word_count: 461\n\nPassage:\nWhy, we may get up a very thrilling bit of superstition upon this hint. I presume you will call the bug _scarabæus caput hominis_, or something of that kind—there are many similar titles in the Natural Histories. But where are the _antennæ_ you spoke of?”\n\n“The _antennæ!_” said Legrand, who seemed to be getting unaccountably warm upon the subject; “I am sure you must see the _antennæ_. I made them as distinct as they are in the original insect, and I presume that is sufficient.”\n\n“Well, well,” I said, “perhaps you have—still I don’t see them;” and I handed him the paper without additional remark, not wishing to ruffle his temper; but I was much surprised at the turn affairs had taken; his ill humor puzzled me—and, as for the drawing of the beetle, there were positively _no antennæ_ visible, and the whole _did_ bear a very close resemblance to the ordinary cuts of a death’s-head.\n\nHe received the paper very peevishly, and was about to crumple it, apparently to throw it in the fire, when a casual glance at the design seemed suddenly to rivet his attention. In an instant his face grew violently red—in another as excessively pale. For some minutes he continued to scrutinize the drawing minutely where he sat. At length he arose, took a candle from the table, and proceeded to seat himself upon a sea-chest in the farthest corner of the room. Here again he made an anxious examination of the paper; turning it in all directions. He said nothing, however, and his conduct greatly astonished me; yet I thought it prudent not to exacerbate the growing moodiness of his temper by any comment. Presently he took from his coat pocket a wallet, placed the paper carefully in it, and deposited both in a writing-desk, which he locked. He now grew more composed in his demeanor; but his original air of enthusiasm had quite disappeared. Yet he seemed not so much sulky as abstracted. As the evening wore away he became more and more absorbed in reverie, from which no sallies of mine could arouse him. It had been my intention to pass the night at the hut, as I had frequently done before, but, seeing my host in this mood, I deemed it proper to take leave. He did not press me to remain, but, as I departed, he shook my hand with even more than his usual cordiality.\n\nIt was about a month after this (and during the interval I had seen nothing of Legrand) when I received a visit, at Charleston, from his man, Jupiter. I had never seen the good old negro look so dispirited, and I feared that some serious disaster had befallen my friend."
+      },
+      "request_id": "6697c8d40b33e7f44dd8e584",
+      "request_sha256": "56dac278a87431af0d21e2ba6ec6fd7584ca10fb03b3885f3a0b4f96a0a71153",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "dd5c427afd3d28ba279c26a2f3a4166e3baa67f8f1288dc2ad3a0771b5850cc5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "969957fe71e40d3839707a33",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_shelley_the_last_man_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 969957fe71e40d3839707a33\noriginal_word_count: 470\n\nPassage:\nYet even now I had not drunk the bitter potion to the dregs; I was not yet persuaded of my loss; I did not yet feel in every pulsation, in every nerve, in every thought, that I remained alone of my race,—that I was the LAST MAN.\n\nThe day had clouded over, and a drizzling rain set in at sunset. Even the eternal skies weep, I thought; is there any shame then, that mortal man should spend himself in tears? I remembered the ancient fables, in which human beings are described as dissolving away through weeping into ever-gushing fountains. Ah! that so it were; and then my destiny would be in some sort akin to the watery death of Adrian and Clara. Oh! grief is fantastic; it weaves a web on which to trace the history of its woe from every form and change around; it incorporates itself with all living nature; it finds sustenance in every object; as light, it fills all things, and, like light, it gives its own colours to all.\n\nI had wandered in my search to some distance from the spot on which I had been cast, and came to one of those watch-towers, which at stated distances line the Italian shore. I was glad of shelter, glad to find a work of human hands, after I had gazed so long on nature’s drear barrenness; so I entered, and ascended the rough winding staircase into the guard-room. So far was fate kind, that no harrowing vestige remained of its former inhabitants; a few planks laid across two iron tressels, and strewed with the dried leaves of Indian corn, was the bed presented to me; and an open chest, containing some half mouldered biscuit, awakened an appetite, which perhaps existed before, but of which, until now, I was not aware. Thirst also, violent and parching, the result of the sea-water I had drank, and of the exhaustion of my frame, tormented me. Kind nature had gifted the supply of these wants with pleasurable sensations, so that I—even I!—was refreshed and calmed, as I ate of this sorry fare, and drank a little of the sour wine which half filled a flask left in this abandoned dwelling. Then I stretched myself on the bed, not to be disdained by the victim of shipwreck. The earthy smell of the dried leaves was balm to my sense after the hateful odour of sea-weed. I forgot my state of loneliness. I neither looked backward nor forward; my senses were hushed to repose; I fell asleep and dreamed of all dear inland scenes, of hay-makers, of the shepherd’s whistle to his dog, when he demanded his help to drive the flock to fold; of sights and sounds peculiar to my boyhood’s mountain life, which I had long forgotten."
+      },
+      "request_id": "969957fe71e40d3839707a33",
+      "request_sha256": "8c0dfd9b2e213fc4a1c04b6ac06714722d715efc617760b3cdd45dff18e87adc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7746ea6396a882c7284f4dcdca09d8d0a394b648e31c809ae8b4d0781faeb4db"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c2303b933d51df16da68fbc5",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_twain_tom_sawyer_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: c2303b933d51df16da68fbc5\noriginal_word_count: 453\n\nPassage:\n“Well, everybody does that way, Huck.”\n\n“Tom, it don’t make no difference. I ain’t everybody, and I can’t _stand_ it. It’s awful to be tied up so. And grub comes too easy—I don’t take no interest in vittles, that way. I got to ask to go a-fishing; I got to ask to go in a-swimming—dern’d if I hain’t got to ask to do everything. Well, I’d got to talk so nice it wasn’t no comfort—I’d got to go up in the attic and rip out awhile, every day, to git a taste in my mouth, or I’d a died, Tom. The widder wouldn’t let me smoke; she wouldn’t let me yell, she wouldn’t let me gape, nor stretch, nor scratch, before folks—” [Then with a spasm of special irritation and injury]—“And dad fetch it, she prayed all the time! I never see such a woman! I _had_ to shove, Tom—I just had to. And besides, that school’s going to open, and I’d a had to go to it—well, I wouldn’t stand _that_, Tom. Looky-here, Tom, being rich ain’t what it’s cracked up to be. It’s just worry and worry, and sweat and sweat, and a-wishing you was dead all the time. Now these clothes suits me, and this bar’l suits me, and I ain’t ever going to shake ’em any more. Tom, I wouldn’t ever got into all this trouble if it hadn’t ’a’ been for that money; now you just take my sheer of it along with your’n, and gimme a ten-center sometimes—not many times, becuz I don’t give a dern for a thing ’thout it’s tollable hard to git—and you go and beg off for me with the widder.”\n\n“Oh, Huck, you know I can’t do that. ’Tain’t fair; and besides if you’ll try this thing just a while longer you’ll come to like it.”\n\n“Like it! Yes—the way I’d like a hot stove if I was to set on it long enough. No, Tom, I won’t be rich, and I won’t live in them cussed smothery houses. I like the woods, and the river, and hogsheads, and I’ll stick to ’em, too. Blame it all! just as we’d got guns, and a cave, and all just fixed to rob, here this dern foolishness has got to come up and spile it all!”\n\nTom saw his opportunity—\n\n“Lookyhere, Huck, being rich ain’t going to keep me back from turning robber.”\n\n“No! Oh, good-licks; are you in real dead-wood earnest, Tom?”\n\n“Just as dead earnest as I’m sitting here. But Huck, we can’t let you into the gang if you ain’t respectable, you know.”\n\nHuck’s joy was quenched.\n\n“Can’t let me in, Tom?"
+      },
+      "request_id": "c2303b933d51df16da68fbc5",
+      "request_sha256": "077702e1e79622353d6597e5bd39271c020ed9a00200667cec1a16aee579ee9c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fdc9700da4979429dbc48dbeae4ffef2205957464698097fcb1f908448527fa6"
+    }
+  ],
+  "session_id": "01a0e30c-4c57-7d42-8a5b-552475b979db",
+  "worker_id": "astra_d",
+  "worker_identity_sha256": "eb64fa28df048da360ccadb632274663ddef6a5ea680edeef0e51177dd1c0af7"
+}

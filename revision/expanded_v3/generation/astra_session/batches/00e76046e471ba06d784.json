@@ -1,0 +1,68 @@
+{
+  "batch_id": "00e76046e471ba06d784",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:48:53.765409+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c9254f1f6bb1430db4ff3ce4",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_hans_pfaal_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: c9254f1f6bb1430db4ff3ce4\noriginal_word_count: 455\n\nPassage:\nIn passing my hand through the valve, with a cup of water for the old puss, the sleeves of my shirt became entangled in the loop which sustained the basket, and thus, in a moment, loosened it from the bottom. Had the whole actually vanished into air, it could not have shot from my sight in a more abrupt and instantaneous manner. Positively, there could not have intervened the tenth part of a second between the disengagement of the basket and its absolute and total disappearance with all that it contained. My good wishes followed it to the earth, but of course, I had no hope that either cat or kittens would ever live to tell the tale of their misfortune.\n\n“At six o’clock, I perceived a great portion of the earth’s visible area to the eastward involved in thick shadow, which continued to advance with great rapidity, until, at five minutes before seven, the whole surface in view was enveloped in the darkness of night. It was not, however, until long after this time that the rays of the setting sun ceased to illumine the balloon; and this circumstance, although of course fully anticipated, did not fail to give me an infinite deal of pleasure. It was evident that, in the morning, I should behold the rising luminary many hours at least before the citizens of Rotterdam, in spite of their situation so much farther to the eastward, and thus, day after day, in proportion to the height ascended, would I enjoy the light of the sun for a longer and a longer period. I now determined to keep a journal of my passage, reckoning the days from one to twenty-four hours continuously, without taking into consideration the intervals of darkness.\n\n“At ten o’clock, feeling sleepy, I determined to lie down for the rest of the night; but here a difficulty presented itself, which, obvious as it may appear, had escaped my attention up to the very moment of which I am now speaking. If I went to sleep as I proposed, how could the atmosphere in the chamber be regenerated in the interim? To breathe it for more than an hour, at the farthest, would be a matter of impossibility, or, if even this term could be extended to an hour and a quarter, the most ruinous consequences might ensue. The consideration of this dilemma gave me no little disquietude; and it will hardly be believed, that, after the dangers I had undergone, I should look upon this business in so serious a light, as to give up all hope of accomplishing my ultimate design, and finally make up my mind to the necessity of a descent. But this hesitation was only momentary."
+      },
+      "request_id": "c9254f1f6bb1430db4ff3ce4",
+      "request_sha256": "94a17ef5400ea44b8d2e50321c9756dd9eb0ffced9f000ff1ea2a1bafa0617a9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1bf4b80034135a95aa07f8e8f0f4f322b9cef0630195687de853a590f63b6dec"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "23312542510f900d5afe919d",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 484,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 23312542510f900d5afe919d\noriginal_word_count: 484\n\nPassage:\nMr. Attorney-General had to inform the jury, that the prisoner before them, though young in years, was old in the treasonable practices which claimed the forfeit of his life. That this correspondence with the public enemy was not a correspondence of to-day, or of yesterday, or even of last year, or of the year before. That, it was certain the prisoner had, for longer than that, been in the habit of passing and repassing between France and England, on secret business of which he could give no honest account. That, if it were in the nature of traitorous ways to thrive (which happily it never was), the real wickedness and guilt of his business might have remained undiscovered. That Providence, however, had put it into the heart of a person who was beyond fear and beyond reproach, to ferret out the nature of the prisoner’s schemes, and, struck with horror, to disclose them to his Majesty’s Chief Secretary of State and most honourable Privy Council. That, this patriot would be produced before them. That, his position and attitude were, on the whole, sublime. That, he had been the prisoner’s friend, but, at once in an auspicious and an evil hour detecting his infamy, had resolved to immolate the traitor he could no longer cherish in his bosom, on the sacred altar of his country. That, if statues were decreed in Britain, as in ancient Greece and Rome, to public benefactors, this shining citizen would assuredly have had one. That, as they were not so decreed, he probably would not have one. That, Virtue, as had been observed by the poets (in many passages which he well knew the jury would have, word for word, at the tips of their tongues; whereat the jury’s countenances displayed a guilty consciousness that they knew nothing about the passages), was in a manner contagious; more especially the bright virtue known as patriotism, or love of country. That, the lofty example of this immaculate and unimpeachable witness for the Crown, to refer to whom however unworthily was an honour, had communicated itself to the prisoner’s servant, and had engendered in him a holy determination to examine his master’s table-drawers and pockets, and secrete his papers. That, he (Mr. Attorney-General) was prepared to hear some disparagement attempted of this admirable servant; but that, in a general way, he preferred him to his (Mr. Attorney-General’s) brothers and sisters, and honoured him more than his (Mr. Attorney-General’s) father and mother. That, he called with confidence on the jury to come and do likewise. That, the evidence of these two witnesses, coupled with the documents of their discovering that would be produced, would show the prisoner to have been furnished with lists of his Majesty’s forces, and of their disposition and preparation, both by sea and land, and would leave no doubt that he had habitually conveyed such information to a hostile power."
+      },
+      "request_id": "23312542510f900d5afe919d",
+      "request_sha256": "f7b8d2ee76fd150b7b3f290077d3e23c0e115191906d88ef35018fded0d6c27c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d1094a0c4f6a79fd2366c9eed0e8443ab9a701e15aa8cd07943f364bed882999"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b8c3be40488285e8a73c482c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 474,
+      "passage_id": "V2_shelley_the_last_man_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: b8c3be40488285e8a73c482c\noriginal_word_count: 474\n\nPassage:\nI am the native of a sea-surrounded nook, a cloud-enshadowed land, which, when the surface of the globe, with its shoreless ocean and trackless continents, presents itself to my mind, appears only as an inconsiderable speck in the immense whole; and yet, when balanced in the scale of mental power, far outweighed countries of larger extent and more numerous population. So true it is, that man’s mind alone was the creator of all that was good or great to man, and that Nature herself was only his first minister. England, seated far north in the turbid sea, now visits my dreams in the semblance of a vast and well-manned ship, which mastered the winds and rode proudly over the waves. In my boyish days she was the universe to me. When I stood on my native hills, and saw plain and mountain stretch out to the utmost limits of my vision, speckled by the dwellings of my countrymen, and subdued to fertility by their labours, the earth’s very centre was fixed for me in that spot, and the rest of her orb was as a fable, to have forgotten which would have cost neither my imagination nor understanding an effort.\n\nMy fortunes have been, from the beginning, an exemplification of the power that mutability may possess over the varied tenor of man’s life. With regard to myself, this came almost by inheritance. My father was one of those men on whom nature had bestowed to prodigality the envied gifts of wit and imagination, and then left his bark of life to be impelled by these winds, without adding reason as the rudder, or judgment as the pilot for the voyage. His extraction was obscure; but circumstances brought him early into public notice, and his small paternal property was soon dissipated in the splendid scene of fashion and luxury in which he was an actor. During the short years of thoughtless youth, he was adored by the high-bred triflers of the day, nor least by the youthful sovereign, who escaped from the intrigues of party, and the arduous duties of kingly business, to find never-failing amusement and exhilaration of spirit in his society. My father’s impulses, never under his own controul, perpetually led him into difficulties from which his ingenuity alone could extricate him; and the accumulating pile of debts of honour and of trade, which would have bent to earth any other, was supported by him with a light spirit and tameless hilarity; while his company was so necessary at the tables and assemblies of the rich, that his derelictions were considered venial, and he himself received with intoxicating flattery.\n\nThis kind of popularity, like every other, is evanescent: and the difficulties of every kind with which he had to contend, increased in a frightful ratio compared with his small means of extricating himself."
+      },
+      "request_id": "b8c3be40488285e8a73c482c",
+      "request_sha256": "d5cbbb62281baa724721b3cfc7ace36486110a6aac096b70728476251eab508c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "89db45ecac7efadd5247dd186c5b577da5059155ab03de49c97a0eb3f112ac47"
+    }
+  ],
+  "session_id": "01a0e83d-4966-70c1-8c6a-f47c6ab2c73c",
+  "worker_id": "astra_j",
+  "worker_identity_sha256": "379c8d043a28d24c0180a7e1508526a74253a4abdfccf2558222841452c29a32"
+}

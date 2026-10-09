@@ -1,0 +1,68 @@
+{
+  "batch_id": "a548e5e5c85cf25ae318",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:04:36.742689+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "88aed7ae34c220d39f319ec2",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_austen_emma_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 88aed7ae34c220d39f319ec2\noriginal_word_count: 481\n\nPassage:\nShe would be such a delightful companion for Emma.”\n\nMr. Woodhouse agreed to it all, but added,\n\n“Our little friend Harriet Smith, however, is just such another pretty kind of young person. You will like Harriet. Emma could not have a better companion than Harriet.”\n\n“I am most happy to hear it—but only Jane Fairfax one knows to be so very accomplished and superior!—and exactly Emma’s age.”\n\nThis topic was discussed very happily, and others succeeded of similar moment, and passed away with similar harmony; but the evening did not close without a little return of agitation. The gruel came and supplied a great deal to be said—much praise and many comments—undoubting decision of its wholesomeness for every constitution, and pretty severe Philippics upon the many houses where it was never met with tolerably;—but, unfortunately, among the failures which the daughter had to instance, the most recent, and therefore most prominent, was in her own cook at South End, a young woman hired for the time, who never had been able to understand what she meant by a basin of nice smooth gruel, thin, but not too thin. Often as she had wished for and ordered it, she had never been able to get any thing tolerable. Here was a dangerous opening.\n\n“Ah!” said Mr. Woodhouse, shaking his head and fixing his eyes on her with tender concern.—The ejaculation in Emma’s ear expressed, “Ah! there is no end of the sad consequences of your going to South End. It does not bear talking of.” And for a little while she hoped he would not talk of it, and that a silent rumination might suffice to restore him to the relish of his own smooth gruel. After an interval of some minutes, however, he began with,\n\n“I shall always be very sorry that you went to the sea this autumn, instead of coming here.”\n\n“But why should you be sorry, sir?—I assure you, it did the children a great deal of good.”\n\n“And, moreover, if you must go to the sea, it had better not have been to South End. South End is an unhealthy place. Perry was surprized to hear you had fixed upon South End.”\n\n“I know there is such an idea with many people, but indeed it is quite a mistake, sir.—We all had our health perfectly well there, never found the least inconvenience from the mud; and Mr. Wingfield says it is entirely a mistake to suppose the place unhealthy; and I am sure he may be depended on, for he thoroughly understands the nature of the air, and his own brother and family have been there repeatedly.”\n\n“You should have gone to Cromer, my dear, if you went anywhere.—Perry was a week at Cromer once, and he holds it to be the best of all the sea-bathing places."
+      },
+      "request_id": "88aed7ae34c220d39f319ec2",
+      "request_sha256": "2d80322f0036638eca8f426909a6cd13702647b44431859ec61acc8b3b1aab42",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a0907584f5ad937a7c9301ebe9839a47d1b2e75f6eb567f4406177f4d85f0118"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1fd4b0d52a7ac42b113ea8be",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_hans_pfaal_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 1fd4b0d52a7ac42b113ea8be\noriginal_word_count: 455\n\nPassage:\nAll this, and more—much more—would I most willingly detail. But, to be brief, I must have my reward. I am pining for a return to my family and to my home; and as the price of any farther communication on my part—in consideration of the light which I have it in my power to throw upon many very important branches of physical and metaphysical science—I must solicit, through the influence of your honorable body, a pardon for the crime of which I have been guilty in the death of the creditors upon my departure from Rotterdam. This, then, is the object of the present paper. Its bearer, an inhabitant of the moon, whom I have prevailed upon, and properly instructed, to be my messenger to the earth, will await your Excellencies’ pleasure, and return to me with the pardon in question, if it can, in any manner, be obtained.\n\n“I have the honor to be, etc., your Excellencies’ very humble servant,\n\n“HANS PFAALL.”\n\nUpon finishing the perusal of this very extraordinary document, Professor Rub-a-dub, it is said, dropped his pipe upon the ground in the extremity of his surprise, and Mynheer Superbus Von Underduk having taken off his spectacles, wiped them, and deposited them in his pocket, so far forgot both himself and his dignity, as to turn round three times upon his heel in the quintessence of astonishment and admiration. There was no doubt about the matter—the pardon should be obtained. So at least swore, with a round oath, Professor Rub-a-dub, and so finally thought the illustrious Von Underduk, as he took the arm of his brother in science, and without saying a word, began to make the best of his way home to deliberate upon the measures to be adopted. Having reached the door, however, of the burgomaster’s dwelling, the professor ventured to suggest that as the messenger had thought proper to disappear—no doubt frightened to death by the savage appearance of the burghers of Rotterdam—the pardon would be of little use, as no one but a man of the moon would undertake a voyage to so vast a distance. To the truth of this observation the burgomaster assented, and the matter was therefore at an end. Not so, however, rumors and speculations. The letter, having been published, gave rise to a variety of gossip and opinion. Some of the over-wise even made themselves ridiculous by decrying the whole business; as nothing better than a hoax. But hoax, with these sort of people, is, I believe, a general term for all matters above their comprehension. For my part, I cannot conceive upon what data they have founded such an accusation. Let us see what they say:"
+      },
+      "request_id": "1fd4b0d52a7ac42b113ea8be",
+      "request_sha256": "6c6e5192963fe4937c14b3c702e1cbbe67e8d29efdd6292a5eb9ec3a80bf54c9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c6f7a83dc7dc788444634d94d292b8075ec2730d27029a4f043116ba56dcad79"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "930cb713be1be965834909d3",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 480,
+      "passage_id": "V2_poe_the_gold_bug_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 930cb713be1be965834909d3\noriginal_word_count: 480\n\nPassage:\n“Well, Jup,” said I, “what is the matter now?—how is your master?”\n\n“Why, to speak de troof, massa, him not so berry well as mought be.”\n\n“Not well! I am truly sorry to hear it. What does he complain of?”\n\n“Dar! dat’s it!—him neber ’plain of notin’—but him berry sick for all dat.”\n\n“_Very_ sick, Jupiter!—why didn’t you say so at once? Is he confined to bed?”\n\n“No, dat he aint!—he aint ’fin’d nowhar—dat’s just whar de shoe pinch—my mind is got to be berry hebby ’bout poor Massa Will.”\n\n“Jupiter, I should like to understand what it is you are talking about. You say your master is sick. Hasn’t he told you what ails him?”\n\n“Why, massa, ’taint worf while for to git mad about de matter—Massa Will say noffin at all aint de matter wid him—but den what make him go about looking dis here way, wid he head down and he soldiers up, and as white as a gose? And den he keep a syphon all de time—”\n\n“Keeps a what, Jupiter?”\n\n“Keeps a syphon wid de figgurs on de slate—de queerest figgurs I ebber did see. Ise gittin’ to be skeered, I tell you. Hab for to keep mighty tight eye ’pon him ’noovers. Todder day he gib me slip ’fore de sun up and was gone de whole ob de blessed day. I had a big stick ready cut for to gib him deuced good beating when he did come—but Ise sich a fool dat I hadn’t de heart arter all—he look so berry poorly.”\n\n“Eh?—what?—ah yes!—upon the whole I think you had better not be too severe with the poor fellow—don’t flog him, Jupiter—he can’t very well stand it—but can you form no idea of what has occasioned this illness, or rather this change of conduct? Has anything unpleasant happened since I saw you?”\n\n“No, massa, dey aint bin noffin onpleasant _since_ den—‘twas _’fore_ den I’m feared—‘twas de berry day you was dare.”\n\n“How? what do you mean?”\n\n“Why, massa, I mean de bug—dare now.”\n\n“The what?”\n\n“De bug,—I’m berry sartain dat Massa Will bin bit somewhere ’bout de head by dat goole-bug.”\n\n“And what cause have you, Jupiter, for such a supposition?”\n\n“Claws enuff, massa, and mouff too. I nebber did see sick a deuced bug—he kick and he bite ebery ting what cum near him. Massa Will cotch him fuss, but had for to let him go ’gin mighty quick, I tell you—den was de time he must ha’ got de bite. I did n’t like de look oh de bug mouff, myself, no how, so I would n’t take hold ob him wid my finger, but I cotch him wid a piece ob paper dat I found."
+      },
+      "request_id": "930cb713be1be965834909d3",
+      "request_sha256": "d327a916a09de93387f82cfdc512ed926d4c7aafb94d4d87c45eaf42a06901c6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "699b6bc4b3ce11f37d49584b143873c25dbfb141fab6f6d3f725abf375115e10"
+    }
+  ],
+  "session_id": "01a0e851-893e-7833-9978-6adbfb804215",
+  "worker_id": "astra_o",
+  "worker_identity_sha256": "57a742b9cc10271bcec81121c331ed211baefa86bd40e11991144b051b260799"
+}

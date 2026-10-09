@@ -1,0 +1,68 @@
+{
+  "batch_id": "1248891e3a8650cbe6f4",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:41:31.581320+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e11a17abad169e993fee06c0",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_austen_emma_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: e11a17abad169e993fee06c0\noriginal_word_count: 454\n\nPassage:\n“I hope I shall soon have the pleasure of introducing my son to you,” said Mr. Weston.\n\nMrs. Elton, very willing to suppose a particular compliment intended her by such a hope, smiled most graciously.\n\n“You have heard of a certain Frank Churchill, I presume,” he continued—“and know him to be my son, though he does not bear my name.”\n\n“Oh! yes, and I shall be very happy in his acquaintance. I am sure Mr. Elton will lose no time in calling on him; and we shall both have great pleasure in seeing him at the Vicarage.”\n\n“You are very obliging.—Frank will be extremely happy, I am sure.— He is to be in town next week, if not sooner. We have notice of it in a letter to-day. I met the letters in my way this morning, and seeing my son’s hand, presumed to open it—though it was not directed to me—it was to Mrs. Weston. She is his principal correspondent, I assure you. I hardly ever get a letter.”\n\n“And so you absolutely opened what was directed to her! Oh! Mr. Weston—(laughing affectedly) I must protest against that.—A most dangerous precedent indeed!—I beg you will not let your neighbours follow your example.—Upon my word, if this is what I am to expect, we married women must begin to exert ourselves!—Oh! Mr. Weston, I could not have believed it of you!”\n\n“Aye, we men are sad fellows. You must take care of yourself, Mrs. Elton.—This letter tells us—it is a short letter—written in a hurry, merely to give us notice—it tells us that they are all coming up to town directly, on Mrs. Churchill’s account—she has not been well the whole winter, and thinks Enscombe too cold for her—so they are all to move southward without loss of time.”\n\n“Indeed!—from Yorkshire, I think. Enscombe is in Yorkshire?”\n\n“Yes, they are about one hundred and ninety miles from London, a considerable journey.”\n\n“Yes, upon my word, very considerable. Sixty-five miles farther than from Maple Grove to London. But what is distance, Mr. Weston, to people of large fortune?—You would be amazed to hear how my brother, Mr. Suckling, sometimes flies about. You will hardly believe me—but twice in one week he and Mr. Bragge went to London and back again with four horses.”\n\n“The evil of the distance from Enscombe,” said Mr. Weston, “is, that Mrs. Churchill, _as_ _we_ _understand_, has not been able to leave the sofa for a week together. In Frank’s last letter she complained, he said, of being too weak to get into her conservatory without having both his arm and his uncle’s!"
+      },
+      "request_id": "e11a17abad169e993fee06c0",
+      "request_sha256": "4a36227c4c635d0d9819936afea295d4dae87cc8372b1f8c7c721ba2b4da34fd",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cb371ba1bae13d1fed36dab32b4b254efa584b811df883e49724f59f4bb9bac7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e83f9199ea5d5db13457ec1a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_twain_tom_sawyer_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e83f9199ea5d5db13457ec1a\noriginal_word_count: 451\n\nPassage:\nTom contrived to scarify the cupboard with it, and was arranging to begin on the bureau, when he was called off to dress for Sunday-school.\n\nMary gave him a tin basin of water and a piece of soap, and he went outside the door and set the basin on a little bench there; then he dipped the soap in the water and laid it down; turned up his sleeves; poured out the water on the ground, gently, and then entered the kitchen and began to wipe his face diligently on the towel behind the door. But Mary removed the towel and said:\n\n“Now ain’t you ashamed, Tom. You mustn’t be so bad. Water won’t hurt you.”\n\nTom was a trifle disconcerted. The basin was refilled, and this time he stood over it a little while, gathering resolution; took in a big breath and began. When he entered the kitchen presently, with both eyes shut and groping for the towel with his hands, an honorable testimony of suds and water was dripping from his face. But when he emerged from the towel, he was not yet satisfactory, for the clean territory stopped short at his chin and his jaws, like a mask; below and beyond this line there was a dark expanse of unirrigated soil that spread downward in front and backward around his neck. Mary took him in hand, and when she was done with him he was a man and a brother, without distinction of color, and his saturated hair was neatly brushed, and its short curls wrought into a dainty and symmetrical general effect. [He privately smoothed out the curls, with labor and difficulty, and plastered his hair close down to his head; for he held curls to be effeminate, and his own filled his life with bitterness.] Then Mary got out a suit of his clothing that had been used only on Sundays during two years—they were simply called his “other clothes”—and so by that we know the size of his wardrobe. The girl “put him to rights” after he had dressed himself; she buttoned his neat roundabout up to his chin, turned his vast shirt collar down over his shoulders, brushed him off and crowned him with his speckled straw hat. He now looked exceedingly improved and uncomfortable. He was fully as uncomfortable as he looked; for there was a restraint about whole clothes and cleanliness that galled him. He hoped that Mary would forget his shoes, but the hope was blighted; she coated them thoroughly with tallow, as was the custom, and brought them out. He lost his temper and said he was always being made to do everything he didn’t want to do."
+      },
+      "request_id": "e83f9199ea5d5db13457ec1a",
+      "request_sha256": "60a110edb83ae5bce1353ba92719e6040d34b0a6170b194c6904d4b921e4ceed",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "45250231ab826c36d64975ba0bced481692d681aafc07b120616226fee0750e6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "79efd7c58c584d2c0f2ad512",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 79efd7c58c584d2c0f2ad512\noriginal_word_count: 451\n\nPassage:\nThe next day he did not leave the house, and, indeed, spent most of the time in his own room, sick with a wild terror of dying, and yet indifferent to life itself. The consciousness of being hunted, snared, tracked down, had begun to dominate him. If the tapestry did but tremble in the wind, he shook. The dead leaves that were blown against the leaded panes seemed to him like his own wasted resolutions and wild regrets. When he closed his eyes, he saw again the sailor’s face peering through the mist-stained glass, and horror seemed once more to lay its hand upon his heart.\n\nBut perhaps it had been only his fancy that had called vengeance out of the night and set the hideous shapes of punishment before him. Actual life was chaos, but there was something terribly logical in the imagination. It was the imagination that set remorse to dog the feet of sin. It was the imagination that made each crime bear its misshapen brood. In the common world of fact the wicked were not punished, nor the good rewarded. Success was given to the strong, failure thrust upon the weak. That was all. Besides, had any stranger been prowling round the house, he would have been seen by the servants or the keepers. Had any foot-marks been found on the flower-beds, the gardeners would have reported it. Yes, it had been merely fancy. Sibyl Vane’s brother had not come back to kill him. He had sailed away in his ship to founder in some winter sea. From him, at any rate, he was safe. Why, the man did not know who he was, could not know who he was. The mask of youth had saved him.\n\nAnd yet if it had been merely an illusion, how terrible it was to think that conscience could raise such fearful phantoms, and give them visible form, and make them move before one! What sort of life would his be if, day and night, shadows of his crime were to peer at him from silent corners, to mock him from secret places, to whisper in his ear as he sat at the feast, to wake him with icy fingers as he lay asleep! As the thought crept through his brain, he grew pale with terror, and the air seemed to him to have become suddenly colder. Oh! in what a wild hour of madness he had killed his friend! How ghastly the mere memory of the scene! He saw it all again. Each hideous detail came back to him with added horror. Out of the black cave of time, terrible and swathed in scarlet, rose the image of his sin."
+      },
+      "request_id": "79efd7c58c584d2c0f2ad512",
+      "request_sha256": "2c379d5d5adc9dae3a0dee0160a6d7cf1a44b9eba4ed51f6adea087205c455f3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a51a7b48c729510e9a7768063ac3a145f0ad1e142ff35d6ed4166eb131d4069e"
+    }
+  ],
+  "session_id": "01a0e83d-ac82-75d0-a392-9c53b7dc0442",
+  "worker_id": "astra_k",
+  "worker_identity_sha256": "422750a9fc253bc1ace58d43156fd122722e4dcc870654c7f3796645edd88607"
+}

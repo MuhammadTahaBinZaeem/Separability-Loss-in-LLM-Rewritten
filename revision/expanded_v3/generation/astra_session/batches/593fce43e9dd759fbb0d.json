@@ -1,0 +1,68 @@
+{
+  "batch_id": "593fce43e9dd759fbb0d",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:36:31.015861+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3a090e30714b3ddbbdd85db7",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_dickens_great_expectations_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 3a090e30714b3ddbbdd85db7\noriginal_word_count: 485\n\nPassage:\nIt appeared to be a collection of back lanes, ditches, and little gardens, and to present the aspect of a rather dull retirement. Wemmick’s house was a little wooden cottage in the midst of plots of garden, and the top of it was cut out and painted like a battery mounted with guns.\n\n“My own doing,” said Wemmick. “Looks pretty; don’t it?”\n\nI highly commended it, I think it was the smallest house I ever saw; with the queerest gothic windows (by far the greater part of them sham), and a gothic door almost too small to get in at.\n\n“That’s a real flagstaff, you see,” said Wemmick, “and on Sundays I run up a real flag. Then look here. After I have crossed this bridge, I hoist it up—so—and cut off the communication.”\n\nThe bridge was a plank, and it crossed a chasm about four feet wide and two deep. But it was very pleasant to see the pride with which he hoisted it up and made it fast; smiling as he did so, with a relish and not merely mechanically.\n\n“At nine o’clock every night, Greenwich time,” said Wemmick, “the gun fires. There he is, you see! And when you hear him go, I think you’ll say he’s a Stinger.”\n\nThe piece of ordnance referred to, was mounted in a separate fortress, constructed of lattice-work. It was protected from the weather by an ingenious little tarpaulin contrivance in the nature of an umbrella.\n\n“Then, at the back,” said Wemmick, “out of sight, so as not to impede the idea of fortifications,—for it’s a principle with me, if you have an idea, carry it out and keep it up,—I don’t know whether that’s your opinion—”\n\nI said, decidedly.\n\n“—At the back, there’s a pig, and there are fowls and rabbits; then, I knock together my own little frame, you see, and grow cucumbers; and you’ll judge at supper what sort of a salad I can raise. So, sir,” said Wemmick, smiling again, but seriously too, as he shook his head, “if you can suppose the little place besieged, it would hold out a devil of a time in point of provisions.”\n\nThen, he conducted me to a bower about a dozen yards off, but which was approached by such ingenious twists of path that it took quite a long time to get at; and in this retreat our glasses were already set forth. Our punch was cooling in an ornamental lake, on whose margin the bower was raised. This piece of water (with an island in the middle which might have been the salad for supper) was of a circular form, and he had constructed a fountain in it, which, when you set a little mill going and took a cork out of a pipe, played to that powerful extent that it made the back of your hand quite wet."
+      },
+      "request_id": "3a090e30714b3ddbbdd85db7",
+      "request_sha256": "972513a3da98de9082d361768bb6afa713832c01df31279a979b7f7e158c691e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "47b41a106ddb28ec6561f25de038b73903b88b4cb719f5813e61b78a2d24b99e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "23c0ec90ba15bcd23671b510",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V3_twain_connecticut_yankee_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 23c0ec90ba15bcd23671b510\noriginal_word_count: 457\n\nPassage:\nIt seemed to me that this quaint lie was most simply and beautifully told; but then I had heard it only once, and that makes a difference; it was pleasant to the others when it was fresh, no doubt.\n\nSir Dinadan the Humorist was the first to awake, and he soon roused the rest with a practical joke of a sufficiently poor quality. He tied some metal mugs to a dog's tail and turned him loose, and he tore around and around the place in a frenzy of fright, with all the other dogs bellowing after him and battering and crashing against everything that came in their way and making altogether a chaos of confusion and a most deafening din and turmoil; at which every man and woman of the multitude laughed till the tears flowed, and some fell out of their chairs and wallowed on the floor in ecstasy. It was just like so many children. Sir Dinadan was so proud of his exploit that he could not keep from telling over and over again, to weariness, how the immortal idea happened to occur to him; and as is the way with humorists of his breed, he was still laughing at it after everybody else had got through. He was so set up that he concluded to make a speech --of course a humorous speech. I think I never heard so many old played-out jokes strung together in my life. He was worse than the minstrels, worse than the clown in the circus. It seemed peculiarly sad to sit here, thirteen hundred years before I was born, and listen again to poor, flat, worm-eaten jokes that had given me the dry gripes when I was a boy thirteen hundred years afterwards. It about convinced me that there isn't any such thing as a new joke possible. Everybody laughed at these antiquities --but then they always do; I had noticed that, centuries later. However, of course the scoffer didn't laugh--I mean the boy. No, he scoffed; there wasn't anything he wouldn't scoff at. He said the most of Sir Dinadan's jokes were rotten and the rest were petrified. I said “petrified” was good; as I believed, myself, that the only right way to classify the majestic ages of some of those jokes was by geologic periods. But that neat idea hit the boy in a blank place, for geology hadn't been invented yet. However, I made a note of the remark, and calculated to educate the commonwealth up to it if I pulled through. It is no use to throw a good thing away merely because the market isn't ripe yet.\n\nNow Sir Kay arose and began to fire up on his history-mill with me for fuel."
+      },
+      "request_id": "23c0ec90ba15bcd23671b510",
+      "request_sha256": "2c16748edfd53a9d3163a0e0db94ca9d99bf924e07230d22bd8f0fce11e65bd0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8f198e4c900073c6358855feba8b15322fb7837f34c783f8d997383f7d789a0e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ced3a475765fd1d64e1bccc4",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_poe_the_gold_bug_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: ced3a475765fd1d64e1bccc4\noriginal_word_count: 457\n\nPassage:\nI rap him up in de paper and stuff piece ob it in he mouff—dat was de way.”\n\n“And you think, then, that your master was really bitten by the beetle, and that the bite made him sick?”\n\n“I do n’t tink noffin about it—I nose it. What make him dream ’bout de goole so much, if ’taint cause he bit by de goole-bug? Ise heerd ’bout dem goole-bugs fore dis.”\n\n“But how do you know he dreams about gold?”\n\n“How I know? why ’cause he talk about it in he sleep—dat’s how I nose.”\n\n“Well, Jup, perhaps you are right; but to what fortunate circumstance am I to attribute the honor of a visit from you to-day?”\n\n“What de matter, massa?”\n\n“Did you bring any message from Mr. Legrand?”\n\n“No, massa, I bring dis here pissel;” and here Jupiter handed me a note which ran thus:\n\n“MY DEAR ——Why have I not seen you for so long a time? I hope you have not been so foolish as to take offence at any little _brusquerie_ of mine; but no, that is improbable. Since I saw you I have had great cause for anxiety. I have something to tell you, yet scarcely know how to tell it, or whether I should tell it at all.\n\n“I have not been quite well for some days past, and poor old Jup annoys me, almost beyond endurance, by his well-meant attentions. Would you believe it?—he had prepared a huge stick, the other day, with which to chastise me for giving him the slip, and spending the day, _solus_, among the hills on the main land. I verily believe that my ill looks alone saved me a flogging.\n\n“I have made no addition to my cabinet since we met.\n\n“If you can, in any way, make it convenient, come over with Jupiter. _Do_ come. I wish to see you to-_night_, upon business of importance. I assure you that it is of the _highest_ importance.\n\n“Ever yours, “WILLIAM LEGRAND”.\n\nThere was something in the tone of this note which gave me great uneasiness. Its whole style differed materially from that of Legrand. What could he be dreaming of? What new crotchet possessed his excitable brain? What “business of the highest importance” could he possibly have to transact? Jupiter’s account of him boded no good. I dreaded lest the continued pressure of misfortune had, at length, fairly unsettled the reason of my friend. Without a moment’s hesitation, therefore, I prepared to accompany the negro.\n\nUpon reaching the wharf, I noticed a scythe and three spades, all apparently new, lying in the bottom of the boat in which we were to embark.\n\n“What is the meaning of all this, Jup?”"
+      },
+      "request_id": "ced3a475765fd1d64e1bccc4",
+      "request_sha256": "e942720fcd9b3aba4bc59bdf92ec1872ee406fb221cf825ce0aec1f5dd0d64f9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "8d0da55c704d280e0215034590d80e6d5d9e8eb80c1636eda7e22d52f3e3bc6f"
+    }
+  ],
+  "session_id": "01a0e86b-c111-7731-bb8d-a8b1262d4d11",
+  "worker_id": "astra_w",
+  "worker_identity_sha256": "02ab474ea794ee28e12552c40deac11a918257ff5dcb600ea6bea9a7ad47fcb2"
+}

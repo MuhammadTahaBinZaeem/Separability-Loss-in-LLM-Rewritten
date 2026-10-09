@@ -1,0 +1,68 @@
+{
+  "batch_id": "64e715a30baddd1f70e1",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:50:41.431429+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b81286f7bfc5b3443fc12921",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 475,
+      "passage_id": "V2_twain_huckleberry_finn_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: b81286f7bfc5b3443fc12921\noriginal_word_count: 475\n\nPassage:\nSo, now, le’s know all about it.”\n\n“Well, you see, it ’uz dis way. Ole missus—dat’s Miss Watson—she pecks on me all de time, en treats me pooty rough, but she awluz said she wouldn’ sell me down to Orleans. But I noticed dey wuz a nigger trader roun’ de place considable lately, en I begin to git oneasy. Well, one night I creeps to de do’ pooty late, en de do’ warn’t quite shet, en I hear old missus tell de widder she gwyne to sell me down to Orleans, but she didn’ want to, but she could git eight hund’d dollars for me, en it ’uz sich a big stack o’ money she couldn’ resis’. De widder she try to git her to say she wouldn’ do it, but I never waited to hear de res’. I lit out mighty quick, I tell you.\n\n“I tuck out en shin down de hill, en ’spec to steal a skift ’long de sho’ som’ers ’bove de town, but dey wuz people a-stirring yit, so I hid in de ole tumble-down cooper-shop on de bank to wait for everybody to go ’way. Well, I wuz dah all night. Dey wuz somebody roun’ all de time. ’Long ’bout six in de mawnin’ skifts begin to go by, en ’bout eight er nine every skift dat went ’long wuz talkin’ ’bout how yo’ pap come over to de town en say you’s killed. Dese las’ skifts wuz full o’ ladies en genlmen a-goin’ over for to see de place. Sometimes dey’d pull up at de sho’ en take a res’ b’fo’ dey started acrost, so by de talk I got to know all ’bout de killin’. I ’uz powerful sorry you’s killed, Huck, but I ain’t no mo’ now.\n\n“I laid dah under de shavin’s all day. I ’uz hungry, but I warn’t afeard; bekase I knowed ole missus en de widder wuz goin’ to start to de camp-meet’n’ right arter breakfas’ en be gone all day, en dey knows I goes off wid de cattle ’bout daylight, so dey wouldn’ ’spec to see me roun’ de place, en so dey wouldn’ miss me tell arter dark in de evenin’. De yuther servants wouldn’ miss me, kase dey’d shin out en take holiday soon as de ole folks ’uz out’n de way.\n\n“Well, when it come dark I tuck out up de river road, en went ’bout two mile er more to whah dey warn’t no houses. I’d made up my mine ’bout what I’s agwyne to do. You see, ef I kep’ on tryin’ to git away afoot, de dogs ’ud track me; ef I stole a skift to cross over, dey’d miss dat skift, you see, en dey’d know ’bout whah I’d lan’ on de yuther side, en whah to pick up my track."
+      },
+      "request_id": "b81286f7bfc5b3443fc12921",
+      "request_sha256": "d9445902b02fabb76bb7b869d49c64ea95aca65e71150502fa56852b5868b456",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "82c72225ca969b2e9e873702d7ab283daf59e3a26783562c832fefcbd154f0b6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1a342786ea7cae02daed8c57",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_shelley_mathilda_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 1a342786ea7cae02daed8c57\noriginal_word_count: 452\n\nPassage:\nDo not mistake me; I never was really mad. I was always conscious of my state when my wild thoughts seemed to drive me to insanity, and never betrayed them to aught but silence and solitude. The people around me saw nothing of all this. They only saw a poor girl broken in spirit, who spoke in a low and gentle voice, and from underneath whose downcast lids tears would sometimes steal which she strove to hide. One who loved to be alone, and shrunk from observation; who never smiled; oh, no! I never smiled--and that was all.\n\nWell, I escaped. I left my guardian’s house and I was never heard of again; it was believed from the letters that I left and other circumstances that I planned that I had destroyed myself. I was sought after therefore with less care than would otherwise have been the case; and soon all trace and memory of me was lost. I left London in a small vessel bound for a port in the north of England. And now having succeeded in my attempt, and being quite alone peace returned to me. The sea was calm and the vessel moved gently onwards, I sat upon deck under the open canopy of heaven and methought I was an altered creature. Not the wild, raving & most miserable Mathilda but a youthful Hermitess dedicated to seclusion and whose bosom she must strive to keep free from all tumult and unholy despair--The fanciful nunlike dress that I had adopted; the knowledge that my very existence was a secret known only to myself; the solitude to which I was for ever hereafter destined nursed gentle thoughts in my wounded heart. The breeze that played in my hair revived me, and I watched with quiet eyes the sunbeams that glittered on the waves, and the birds that coursed each other over the waters just brushing them with their plumes. I slept too undisturbed by dreams; and awoke refreshed to again enjoy my tranquil freedom.\n\nIn four days we arrived at the harbour to which we were bound. I would not remain on the sea coast, but proceeded immediately inland. I had already planned the situation where I would live. It should be a solitary house on a wide plain near no other habitation: where I could behold the whole horizon, and wander far without molestation from the sight of my fellow creatures. I was not mysanthropic, but I felt that the gentle current of my feelings depended upon my being alone. I fixed myself on a wide solitude. On a dreary heath bestrewen with stones, among which short grass grew; and here and there a few rushes beside a little pool."
+      },
+      "request_id": "1a342786ea7cae02daed8c57",
+      "request_sha256": "1005b3532212da9f83e8404826ec2b648e89b7a92fbd09dc35695c83ac7b8ea6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "096b29276fa380904e0b6945e0f6dce798d6d96c19cde250c197fa2bcbbc115a"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "52b33628056fd0d0aafc97aa",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_the_last_man_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 52b33628056fd0d0aafc97aa\noriginal_word_count: 466\n\nPassage:\nI cannot describe the rapturous delight with which I turned from political brawls at home, and the physical evils of distant countries, to my own dear home, to the selected abode of goodness and love; to peace, and the interchange of every sacred sympathy. Had I never quitted Windsor, these emotions would not have been so intense; but I had in Greece been the prey of fear and deplorable change; in Greece, after a period of anxiety and sorrow, I had seen depart two, whose very names were the symbol of greatness and virtue. But such miseries could never intrude upon the domestic circle left to me, while, secluded in our beloved forest, we passed our lives in tranquillity. Some small change indeed the progress of years brought here; and time, as it is wont, stamped the traces of mortality on our pleasures and expectations. Idris, the most affectionate wife, sister and friend, was a tender and loving mother. The feeling was not with her as with many, a pastime; it was a passion. We had had three children; one, the second in age, died while I was in Greece. This had dashed the triumphant and rapturous emotions of maternity with grief and fear. Before this event, the little beings, sprung from herself, the young heirs of her transient life, seemed to have a sure lease of existence; now she dreaded that the pitiless destroyer might snatch her remaining darlings, as it had snatched their brother. The least illness caused throes of terror; she was miserable if she were at all absent from them; her treasure of happiness she had garnered in their fragile being, and kept forever on the watch, lest the insidious thief should as before steal these valued gems. She had fortunately small cause for fear. Alfred, now nine years old, was an upright, manly little fellow, with radiant brow, soft eyes, and gentle, though independent disposition. Our youngest was yet in infancy; but his downy cheek was sprinkled with the roses of health, and his unwearied vivacity filled our halls with innocent laughter.\n\nClara had passed the age which, from its mute ignorance, was the source of the fears of Idris. Clara was dear to her, to all. There was so much intelligence combined with innocence, sensibility with forbearance, and seriousness with perfect good-humour, a beauty so transcendant, united to such endearing simplicity, that she hung like a pearl in the shrine of our possessions, a treasure of wonder and excellence.\n\nAt the beginning of winter our Alfred, now nine years of age, first went to school at Eton. This appeared to him the primary step towards manhood, and he was proportionably pleased. Community of study and amusement developed the best parts of his character, his steady perseverance, generosity, and well-governed firmness."
+      },
+      "request_id": "52b33628056fd0d0aafc97aa",
+      "request_sha256": "33908a6c558d441a9c1fd594e9f820d6a793d0a4e81b0df5990d1e2e4c6f4eed",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cb333bda5a408043c0d5a8ece8acec765d0232a2272c50679b95411ac22b2128"
+    }
+  ],
+  "session_id": "01a0e848-1788-74e3-94b7-8185fb822a0f",
+  "worker_id": "astra_m",
+  "worker_identity_sha256": "a661c68b1db9c5e5d4a06cab3427b000d00cd4134df771893194ef71da9b6fed"
+}

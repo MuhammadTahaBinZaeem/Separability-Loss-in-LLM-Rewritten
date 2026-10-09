@@ -1,0 +1,68 @@
+{
+  "batch_id": "6c7b2589554333e097d0",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:18:58.640092+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4bbdee0cb71d2ef3823ba4e5",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V2_austen_persuasion_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 4bbdee0cb71d2ef3823ba4e5\noriginal_word_count: 458\n\nPassage:\nBut do not imagine that I did not feel it an evil in itself.”\n\n“Depend upon it, they were all perfectly comfortable.”\n\n“I might not like them the better for that perhaps. Such a number of women and children have no _right_ to be comfortable on board.”\n\n“My dear Frederick, you are talking quite idly. Pray, what would become of us poor sailors’ wives, who often want to be conveyed to one port or another, after our husbands, if everybody had your feelings?”\n\n“My feelings, you see, did not prevent my taking Mrs Harville and all her family to Plymouth.”\n\n“But I hate to hear you talking so like a fine gentleman, and as if women were all fine ladies, instead of rational creatures. We none of us expect to be in smooth water all our days.”\n\n“Ah! my dear,” said the Admiral, “when he has got a wife, he will sing a different tune. When he is married, if we have the good luck to live to another war, we shall see him do as you and I, and a great many others, have done. We shall have him very thankful to anybody that will bring him his wife.”\n\n“Ay, that we shall.”\n\n“Now I have done,” cried Captain Wentworth. “When once married people begin to attack me with,—‘Oh! you will think very differently, when you are married.’ I can only say, ‘No, I shall not;’ and then they say again, ‘Yes, you will,’ and there is an end of it.”\n\nHe got up and moved away.\n\n“What a great traveller you must have been, ma’am!” said Mrs Musgrove to Mrs Croft.\n\n“Pretty well, ma’am, in the fifteen years of my marriage; though many women have done more. I have crossed the Atlantic four times, and have been once to the East Indies, and back again, and only once; besides being in different places about home: Cork, and Lisbon, and Gibraltar. But I never went beyond the Streights, and never was in the West Indies. We do not call Bermuda or Bahama, you know, the West Indies.”\n\nMrs Musgrove had not a word to say in dissent; she could not accuse herself of having ever called them anything in the whole course of her life.\n\n“And I do assure you, ma’am,” pursued Mrs Croft, “that nothing can exceed the accommodations of a man-of-war; I speak, you know, of the higher rates. When you come to a frigate, of course, you are more confined; though any reasonable woman may be perfectly happy in one of them; and I can safely say, that the happiest part of my life has been spent on board a ship. While we were together, you know, there was nothing to be feared."
+      },
+      "request_id": "4bbdee0cb71d2ef3823ba4e5",
+      "request_sha256": "25626aca9e39855cbec199477ad14cfad0f7b2e679cab1c755c73cfc43e659ca",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "288b86b7afe6858da562c1edcefe61eed6873c58da1e8c61d9cb4b7c708be164"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5816b4f52b754223d278b84f",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_dickens_great_expectations_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 5816b4f52b754223d278b84f\noriginal_word_count: 472\n\nPassage:\nBut how could I, a poor dazed village lad, avoid that wonderful inconsistency into which the best and wisest of men fall every day?\n\n“It may be all quite true,” said I to Biddy, “but I admire her dreadfully.”\n\nIn short, I turned over on my face when I came to that, and got a good grasp on the hair on each side of my head, and wrenched it well. All the while knowing the madness of my heart to be so very mad and misplaced, that I was quite conscious it would have served my face right, if I had lifted it up by my hair, and knocked it against the pebbles as a punishment for belonging to such an idiot.\n\nBiddy was the wisest of girls, and she tried to reason no more with me. She put her hand, which was a comfortable hand though roughened by work, upon my hands, one after another, and gently took them out of my hair. Then she softly patted my shoulder in a soothing way, while with my face upon my sleeve I cried a little,—exactly as I had done in the brewery yard,—and felt vaguely convinced that I was very much ill-used by somebody, or by everybody; I can’t say which.\n\n“I am glad of one thing,” said Biddy, “and that is, that you have felt you could give me your confidence, Pip. And I am glad of another thing, and that is, that of course you know you may depend upon my keeping it and always so far deserving it. If your first teacher (dear! such a poor one, and so much in need of being taught herself!) had been your teacher at the present time, she thinks she knows what lesson she would set. But it would be a hard one to learn, and you have got beyond her, and it’s of no use now.” So, with a quiet sigh for me, Biddy rose from the bank, and said, with a fresh and pleasant change of voice, “Shall we walk a little farther, or go home?”\n\n“Biddy,” I cried, getting up, putting my arm round her neck, and giving her a kiss, “I shall always tell you everything.”\n\n“Till you’re a gentleman,” said Biddy.\n\n“You know I never shall be, so that’s always. Not that I have any occasion to tell you anything, for you know everything I know,—as I told you at home the other night.”\n\n“Ah!” said Biddy, quite in a whisper, as she looked away at the ships. And then repeated, with her former pleasant change, “shall we walk a little farther, or go home?”\n\nI said to Biddy we would walk a little farther, and we did so, and the summer afternoon toned down into the summer evening, and it was very beautiful."
+      },
+      "request_id": "5816b4f52b754223d278b84f",
+      "request_sha256": "dd405e71eb969dde4c774dd55fdd8cb71f1b5211ff4a9035163367d8b02417c5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1b62f24c599f92ac74d3cf1db6c338acf84db0d3bc9b65fbed00c54532723173"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a17d97f0927c609c58d00286",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_dickens_oliver_twist_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: a17d97f0927c609c58d00286\noriginal_word_count: 460\n\nPassage:\n“What’s the matter?” demanded Oliver.\n\n“Hush!” replied the Dodger. “Do you see that old cove at the book-stall?”\n\n“The old gentleman over the way?” said Oliver. “Yes, I see him.”\n\n“He’ll do,” said the Dodger.\n\n“A prime plant,” observed Master Charley Bates.\n\nOliver looked from one to the other, with the greatest surprise; but he was not permitted to make any inquiries; for the two boys walked stealthily across the road, and slunk close behind the old gentleman towards whom his attention had been directed. Oliver walked a few paces after them; and, not knowing whether to advance or retire, stood looking on in silent amazement.\n\nThe old gentleman was a very respectable-looking personage, with a powdered head and gold spectacles. He was dressed in a bottle-green coat with a black velvet collar; wore white trousers; and carried a smart bamboo cane under his arm. He had taken up a book from the stall, and there he stood, reading away, as hard as if he were in his elbow-chair, in his own study. It is very possible that he fancied himself there, indeed; for it was plain, from his abstraction, that he saw not the book-stall, nor the street, nor the boys, nor, in short, anything but the book itself: which he was reading straight through: turning over the leaf when he got to the bottom of a page, beginning at the top line of the next one, and going regularly on, with the greatest interest and eagerness.\n\nWhat was Oliver’s horror and alarm as he stood a few paces off, looking on with his eyelids as wide open as they would possibly go, to see the Dodger plunge his hand into the old gentleman’s pocket, and draw from thence a handkerchief! To see him hand the same to Charley Bates; and finally to behold them, both running away round the corner at full speed!\n\nIn an instant the whole mystery of the hankerchiefs, and the watches, and the jewels, and the Jew, rushed upon the boy’s mind.\n\nHe stood, for a moment, with the blood so tingling through all his veins from terror, that he felt as if he were in a burning fire; then, confused and frightened, he took to his heels; and, not knowing what he did, made off as fast as he could lay his feet to the ground.\n\nThis was all done in a minute’s space. In the very instant when Oliver began to run, the old gentleman, putting his hand to his pocket, and missing his handkerchief, turned sharp round. Seeing the boy scudding away at such a rapid pace, he very naturally concluded him to be the depredator; and shouting “Stop thief!” with all his might, made off after him, book in hand."
+      },
+      "request_id": "a17d97f0927c609c58d00286",
+      "request_sha256": "b092369381dce9a56294da939ec7da321f1668d41cc89c2475bfddae76183046",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "34da19b31d93424e0543a9c41b3e7c0371843b5834c0e6c500060d12a72f2527"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

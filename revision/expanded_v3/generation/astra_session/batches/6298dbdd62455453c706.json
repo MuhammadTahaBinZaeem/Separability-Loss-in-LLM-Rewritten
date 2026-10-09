@@ -1,0 +1,68 @@
+{
+  "batch_id": "6298dbdd62455453c706",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T08:01:14.791144+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a3a9147a0cf6dc086acd69f2",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 508,
+      "passage_id": "V2_shelley_the_last_man_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: a3a9147a0cf6dc086acd69f2\noriginal_word_count: 508\n\nPassage:\nThe mighty voice, inorganic we might call it, for we could in no way associate it with mechanism of pipe or key, stilled its sonorous tone, and the girl, turning to lend her assistance to her aged companion, at length perceived us.\n\nIt was her father; and she, since childhood, had been the guide of his darkened steps. They were Germans from Saxony, and, emigrating thither but a few years before, had formed new ties with the surrounding villagers. About the time that the pestilence had broken out, a young German student had joined them. Their simple history was easily divined. He, a noble, loved the fair daughter of the poor musician, and followed them in their flight from the persecutions of his friends; but soon the mighty leveller came with unblunted scythe to mow, together with the grass, the tall flowers of the field. The youth was an early victim. She preserved herself for her father’s sake. His blindness permitted her to continue a delusion, at first the child of accident—and now solitary beings, sole survivors in the land, he remained unacquainted with the change, nor was aware that when he listened to his child’s music, the mute mountains, senseless lake, and unconscious trees, were, himself excepted, her sole auditors.\n\nThe very day that we arrived she had been attacked by symptomatic illness. She was paralyzed with horror at the idea of leaving her aged, sightless father alone on the empty earth; but she had not courage to disclose the truth, and the very excess of her desperation animated her to surpassing exertions. At the accustomed vesper hour, she led him to the chapel; and, though trembling and weeping on his account, she played, without fault in time, or error in note, the hymn written to celebrate the creation of the adorned earth, soon to be her tomb.\n\nWe came to her like visitors from heaven itself; her high-wrought courage; her hardly sustained firmness, fled with the appearance of relief. With a shriek she rushed towards us, embraced the knees of Adrian, and uttering but the words, “O save my father!” with sobs and hysterical cries, opened the long-shut floodgates of her woe.\n\nPoor girl!—she and her father now lie side by side, beneath the high walnut-tree where her lover reposes, and which in her dying moments she had pointed out to us. Her father, at length aware of his daughter’s danger, unable to see the changes of her dear countenance, obstinately held her hand, till it was chilled and stiffened by death. Nor did he then move or speak, till, twelve hours after, kindly death took him to his breakless repose. They rest beneath the sod, the tree their monument;—the hallowed spot is distinct in my memory, paled in by craggy Jura, and the far, immeasurable Alps; the spire of the church they frequented still points from out the embosoming trees; and though her hand be cold, still methinks the sounds of divine music which they loved wander about, solacing their gentle ghosts."
+      },
+      "request_id": "a3a9147a0cf6dc086acd69f2",
+      "request_sha256": "e3c4387056fe19036ae65676ab1e0a4f2b13f29ef2de9b3b279400ca26b9de79",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ed1db793251a7ace6a9b51af60fd326e06681feaf8336d8f27841fecb2ed8ac1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3c38bae3f5e74b5e62007cab",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_wilde_canterville_ghost_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 3c38bae3f5e74b5e62007cab\noriginal_word_count: 471\n\nPassage:\nJust as they were passing out of the dining-room, midnight began to boom from the clock tower, and when the last stroke sounded they heard a crash and a sudden shrill cry; a dreadful peal of thunder shook the house, a strain of unearthly music floated through the air, a panel at the top of the staircase flew back with a loud noise, and out on the landing, looking very pale and white, with a little casket in her hand, stepped Virginia. In a moment they had all rushed up to her. Mrs. Otis clasped her passionately in her arms, the Duke smothered her with violent kisses, and the twins executed a wild war-dance round the group.\n\n‘Good heavens! child, where have you been?’ said Mr. Otis, rather angrily, thinking that she had been playing some foolish trick on them. ‘Cecil and I have been riding all over the country looking for you, and your mother has been frightened to death. You must never play these practical jokes any more.’\n\n‘Except on the Ghost! except on the Ghost!’ shrieked the twins, as they capered about.\n\n‘My own darling, thank God you are found; you must never leave my side again,’ murmured Mrs. Otis, as she kissed the trembling child, and smoothed the tangled gold of her hair.\n\n‘Papa,’ said Virginia quietly, ‘I have been with the Ghost. He is dead, and you must come and see him. He had been very wicked, but he was really sorry for all that he had done, and he gave me this box of beautiful jewels before he died.’\n\nThe whole family gazed at her in mute amazement, but she was quite grave and serious; and, turning round, she led them through the opening in the wainscoting down a narrow secret corridor, Washington following with a lighted candle, which he had caught up from the table. Finally, they came to a great oak door, studded with rusty nails. When Virginia touched it, it swung back on its heavy hinges, and they found themselves in a little low room, with a vaulted ceiling, and one tiny grated window. Imbedded in the wall was a huge iron ring, and chained to it was a gaunt skeleton, that was stretched out at full length on the stone floor, and seemed to be trying to grasp with its long fleshless fingers an old-fashioned trencher and ewer, that were placed just out of its reach. The jug had evidently been once filled with water, as it was covered inside with green mould. There was nothing on the trencher but a pile of dust. Virginia knelt down beside the skeleton, and, folding her little hands together, began to pray silently, while the rest of the party looked on in wonder at the terrible tragedy whose secret was now disclosed to them."
+      },
+      "request_id": "3c38bae3f5e74b5e62007cab",
+      "request_sha256": "ce23602979c8e589decbb7362736a1124cde7120969369bb095676ecb08cc13b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a5314ef4398a30eb236ef4621b7cf64008d98a0aa1e43df1c98b489851992e1f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2a274b57c3fa0f9083237c85",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 503,
+      "passage_id": "V2_dickens_oliver_twist_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2a274b57c3fa0f9083237c85\noriginal_word_count: 503\n\nPassage:\nYou’ve raised a artificial soul and spirit in him, ma’am unbecoming a person of his condition: as the board, Mrs. Sowerberry, who are practical philosophers, will tell you. What have paupers to do with soul or spirit? It’s quite enough that we let ’em have live bodies. If you had kept the boy on gruel, ma’am, this would never have happened.”\n\n“Dear, dear!” ejaculated Mrs. Sowerberry, piously raising her eyes to the kitchen ceiling: “this comes of being liberal!”\n\nThe liberality of Mrs. Sowerberry to Oliver, had consisted of a profuse bestowal upon him of all the dirty odds and ends which nobody else would eat; so there was a great deal of meekness and self-devotion in her voluntarily remaining under Mr. Bumble’s heavy accusation, of which, to do her justice, she was wholly innocent, in thought, word, or deed.\n\n“Ah!” said Mr. Bumble, when the lady brought her eyes down to earth again; “the only thing that can be done now, that I know of, is to leave him in the cellar for a day or so, till he’s a little starved down; and then to take him out, and keep him on gruel all through the apprenticeship. He comes of a bad family. Excitable natures, Mrs. Sowerberry! Both the nurse and doctor said, that that mother of his made her way here, against difficulties and pain that would have killed any well-disposed woman, weeks before.”\n\nAt this point of Mr. Bumble’s discourse, Oliver, just hearing enough to know that some allusion was being made to his mother, recommenced kicking, with a violence that rendered every other sound inaudible. Sowerberry returned at this juncture. Oliver’s offence having been explained to him, with such exaggerations as the ladies thought best calculated to rouse his ire, he unlocked the cellar-door in a twinkling, and dragged his rebellious apprentice out, by the collar.\n\nOliver’s clothes had been torn in the beating he had received; his face was bruised and scratched; and his hair scattered over his forehead. The angry flush had not disappeared, however; and when he was pulled out of his prison, he scowled boldly on Noah, and looked quite undismayed.\n\n“Now, you are a nice young fellow, ain’t you?” said Sowerberry; giving Oliver a shake, and a box on the ear.\n\n“He called my mother names,” replied Oliver.\n\n“Well, and what if he did, you little ungrateful wretch?” said Mrs. Sowerberry. “She deserved what he said, and worse.”\n\n“She didn’t,” said Oliver.\n\n“She did,” said Mrs. Sowerberry.\n\n“It’s a lie!” said Oliver.\n\nMrs. Sowerberry burst into a flood of tears.\n\nThis flood of tears left Mr. Sowerberry no alternative. If he had hesitated for one instant to punish Oliver most severely, it must be quite clear to every experienced reader that he would have been, according to all precedents in disputes of matrimony established, a brute, an unnatural husband, an insulting creature, a base imitation of a man, and various other agreeable characters too numerous for recital within the limits of this chapter."
+      },
+      "request_id": "2a274b57c3fa0f9083237c85",
+      "request_sha256": "0b0154c7dac41d55f9545aee79697f367581f604884b4b8f75ec0561995a97f6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3bd214f1054b34c1836a64a5f5b384d6ac53537a0ac8469be7aeaa3022f5b6f1"
+    }
+  ],
+  "session_id": "01a0e1dc-98ec-7c60-82e0-33192a6dbb6d",
+  "worker_id": "astra_b",
+  "worker_identity_sha256": "63e655afad929d2df43c7a786df30c2f77ef9616368896382b0782c5fc9c466d"
+}

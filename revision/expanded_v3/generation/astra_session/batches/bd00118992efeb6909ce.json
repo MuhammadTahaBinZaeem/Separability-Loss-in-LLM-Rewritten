@@ -1,0 +1,68 @@
+{
+  "batch_id": "bd00118992efeb6909ce",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:31:23.402023+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9c6dae997d34187a14a45dad",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 9c6dae997d34187a14a45dad\noriginal_word_count: 472\n\nPassage:\nCount Rouvaloff looked at him for some moments in amazement, and then seeing that he was quite serious, wrote an address on a piece of paper, initialled it, and handed it to him across the table.\n\n‘Scotland Yard would give a good deal to know this address, my dear fellow.’\n\n‘They shan’t have it,’ cried Lord Arthur, laughing; and after shaking the young Russian warmly by the hand he ran downstairs, examined the paper, and told the coachman to drive to Soho Square.\n\nThere he dismissed him, and strolled down Greek Street, till he came to a place called Bayle’s Court. He passed under the archway, and found himself in a curious _cul-de-sac_, that was apparently occupied by a French Laundry, as a perfect network of clothes-lines was stretched across from house to house, and there was a flutter of white linen in the morning air. He walked right to the end, and knocked at a little green house. After some delay, during which every window in the court became a blurred mass of peering faces, the door was opened by a rather rough-looking foreigner, who asked him in very bad English what his business was. Lord Arthur handed him the paper Count Rouvaloff had given him. When the man saw it he bowed, and invited Lord Arthur into a very shabby front parlour on the ground floor, and in a few moments Herr Winckelkopf, as he was called in England, bustled into the room, with a very wine-stained napkin round his neck, and a fork in his left hand.\n\n‘Count Rouvaloff has given me an introduction to you,’ said Lord Arthur, bowing, ‘and I am anxious to have a short interview with you on a matter of business. My name is Smith, Mr. Robert Smith, and I want you to supply me with an explosive clock.’\n\n‘Charmed to meet you, Lord Arthur,’ said the genial little German, laughing. ‘Don’t look so alarmed, it is my duty to know everybody, and I remember seeing you one evening at Lady Windermere’s. I hope her ladyship is quite well. Do you mind sitting with me while I finish my breakfast? There is an excellent _pâté_, and my friends are kind enough to say that my Rhine wine is better than any they get at the German Embassy,’ and before Lord Arthur had got over his surprise at being recognised, he found himself seated in the back-room, sipping the most delicious Marcobrünner out of a pale yellow hock-glass marked with the Imperial monogram, and chatting in the friendliest manner possible to the famous conspirator.\n\n‘Explosive clocks,’ said Herr Winckelkopf, ‘are not very good things for foreign exportation, as, even if they succeed in passing the Custom House, the train service is so irregular, that they usually go off before they have reached their proper destination."
+      },
+      "request_id": "9c6dae997d34187a14a45dad",
+      "request_sha256": "7934e3cf9c31173c304f7afd1b36507a69bc4707a1f0ee9f004025e66a86b56a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "110b0512b5195d5a919e6d67724e50a0cb627d51701ae8063a1a83ff94bca848"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "58a8dcbf458fd8cd65be72f5",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_austen_pride_and_prejudice_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 58a8dcbf458fd8cd65be72f5\noriginal_word_count: 454\n\nPassage:\nDuring dinner, Mr. Bennet scarcely spoke at all; but when the servants were withdrawn, he thought it time to have some conversation with his guest, and therefore started a subject in which he expected him to shine, by observing that he seemed very fortunate in his patroness. Lady Catherine de Bourgh’s attention to his wishes, and consideration for his comfort, appeared very remarkable. Mr. Bennet could not have chosen better. Mr. Collins was eloquent in her praise. The subject elevated him to more than usual solemnity of manner; and with a most important aspect he protested that he had never in his life witnessed such behaviour in a person of rank--such affability and condescension, as he had himself experienced from Lady Catherine. She had been graciously pleased to approve of both the discourses which he had already had the honour of preaching before her. She had also asked him twice to dine at Rosings, and had sent for him only the Saturday before, to make up her pool of quadrille in the evening. Lady Catherine was reckoned proud by many people, he knew, but _he_ had never seen anything but affability in her. She had always spoken to him as she would to any other gentleman; she made not the smallest objection to his joining in the society of the neighbourhood, nor to his leaving his parish occasionally for a week or two to visit his relations. She had even condescended to advise him to marry as soon as he could, provided he chose with discretion; and had once paid him a visit in his humble parsonage, where she had perfectly approved all the alterations he had been making, and had even vouchsafed to suggest some herself,--some shelves in the closets upstairs.\n\n“That is all very proper and civil, I am sure,” said Mrs. Bennet, “and I dare say she is a very agreeable woman. It is a pity that great ladies in general are not more like her. Does she live near you, sir?”\n\n“The garden in which stands my humble abode is separated only by a lane from Rosings Park, her Ladyship’s residence.”\n\n“I think you said she was a widow, sir? has she any family?”\n\n“She has one only daughter, the heiress of Rosings, and of very extensive property.”\n\n“Ah,” cried Mrs. Bennet, shaking her head, “then she is better off than many girls. And what sort of young lady is she? Is she handsome?”\n\n“She is a most charming young lady, indeed. Lady Catherine herself says that, in point of true beauty, Miss de Bourgh is far superior to the handsomest of her sex; because there is that in her features which marks the young woman of distinguished birth."
+      },
+      "request_id": "58a8dcbf458fd8cd65be72f5",
+      "request_sha256": "6e77e615613ecbfbb20c08fb3bc6b92e78231bda0fc34b70b031519503e7cf61",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "602167e38793ec45707584ae040d2273fbb2002c9f6531c6c35e01aafc2a75a9"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "03087469b0410f23579ecc2e",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_poe_murders_rue_morgue_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 03087469b0410f23579ecc2e\noriginal_word_count: 470\n\nPassage:\nMoreover, this knot is one which few besides sailors can tie, and is peculiar to the Maltese. I picked the ribbon up at the foot of the lightning-rod. It could not have belonged to either of the deceased. Now if, after all, I am wrong in my induction from this ribbon, that the Frenchman was a sailor belonging to a Maltese vessel, still I can have done no harm in saying what I did in the advertisement. If I am in error, he will merely suppose that I have been misled by some circumstance into which he will not take the trouble to inquire. But if I am right, a great point is gained. Cognizant although innocent of the murder, the Frenchman will naturally hesitate about replying to the advertisement—about demanding the Ourang-Outang. He will reason thus:—‘I am innocent; I am poor; my Ourang-Outang is of great value—to one in my circumstances a fortune of itself—why should I lose it through idle apprehensions of danger? Here it is, within my grasp. It was found in the Bois de Boulogne—at a vast distance from the scene of that butchery. How can it ever be suspected that a brute beast should have done the deed? The police are at fault—they have failed to procure the slightest clew. Should they even trace the animal, it would be impossible to prove me cognizant of the murder, or to implicate me in guilt on account of that cognizance. Above all, _I am known._ The advertiser designates me as the possessor of the beast. I am not sure to what limit his knowledge may extend. Should I avoid claiming a property of so great value, which it is known that I possess, I will render the animal at least, liable to suspicion. It is not my policy to attract attention either to myself or to the beast. I will answer the advertisement, get the Ourang-Outang, and keep it close until this matter has blown over.’”\n\nAt this moment we heard a step upon the stairs.\n\n“Be ready,” said Dupin, “with your pistols, but neither use them nor show them until at a signal from myself.”\n\nThe front door of the house had been left open, and the visitor had entered, without ringing, and advanced several steps upon the staircase. Now, however, he seemed to hesitate. Presently we heard him descending. Dupin was moving quickly to the door, when we again heard him coming up. He did not turn back a second time, but stepped up with decision, and rapped at the door of our chamber.\n\n“Come in,” said Dupin, in a cheerful and hearty tone.\n\nA man entered. He was a sailor, evidently,—a tall, stout, and muscular-looking person, with a certain dare-devil expression of countenance, not altogether unprepossessing."
+      },
+      "request_id": "03087469b0410f23579ecc2e",
+      "request_sha256": "dd6e3f2586300bc6008648ffc673ee83163765dd95dbf19bed2d891944fea643",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "639e1b93dd25ac959a2ff7d7d51db5da8f0448e5fb2d68d2ffa828e073f25445"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

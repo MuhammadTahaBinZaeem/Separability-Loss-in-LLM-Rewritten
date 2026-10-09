@@ -1,0 +1,68 @@
+{
+  "batch_id": "e23914753b1e587a481c",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:46:38.005230+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a19cb74d0563e473d2e2edd9",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_poe_murders_rue_morgue_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: a19cb74d0563e473d2e2edd9\noriginal_word_count: 451\n\nPassage:\nHe then bowed and departed. Did not see any person in the street at the time. It is a by-street—very lonely.\n\n“_William Bird_, tailor deposes that he was one of the party who entered the house. Is an Englishman. Has lived in Paris two years. Was one of the first to ascend the stairs. Heard the voices in contention. The gruff voice was that of a Frenchman. Could make out several words, but cannot now remember all. Heard distinctly ‘_sacré_’ and ‘_mon Dieu._’ There was a sound at the moment as if of several persons struggling—a scraping and scuffling sound. The shrill voice was very loud—louder than the gruff one. Is sure that it was not the voice of an Englishman. Appeared to be that of a German. Might have been a woman’s voice. Does not understand German.\n\n“Four of the above-named witnesses, being recalled, deposed that the door of the chamber in which was found the body of Mademoiselle L. was locked on the inside when the party reached it. Every thing was perfectly silent—no groans or noises of any kind. Upon forcing the door no person was seen. The windows, both of the back and front room, were down and firmly fastened from within. A door between the two rooms was closed, but not locked. The door leading from the front room into the passage was locked, with the key on the inside. A small room in the front of the house, on the fourth story, at the head of the passage was open, the door being ajar. This room was crowded with old beds, boxes, and so forth. These were carefully removed and searched. There was not an inch of any portion of the house which was not carefully searched. Sweeps were sent up and down the chimneys. The house was a four story one, with garrets (_mansardes._) A trap-door on the roof was nailed down very securely—did not appear to have been opened for years. The time elapsing between the hearing of the voices in contention and the breaking open of the room door, was variously stated by the witnesses. Some made it as short as three minutes—some as long as five. The door was opened with difficulty.\n\n“_Alfonzo Garcio_, undertaker, deposes that he resides in the Rue Morgue. Is a native of Spain. Was one of the party who entered the house. Did not proceed up stairs. Is nervous, and was apprehensive of the consequences of agitation. Heard the voices in contention. The gruff voice was that of a Frenchman. Could not distinguish what was said. The shrill voice was that of an Englishman—is sure of this."
+      },
+      "request_id": "a19cb74d0563e473d2e2edd9",
+      "request_sha256": "776d87f26b8db03c5466351ed1d24150469128f5a9b5a73b6eeade1aad46aaf9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "16fb8b6ad4d8fdb0dca1bcbd987562d57d7cd1f8b2cb4b83b7dd4776f3641b06"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2d6fa9c168a398d97019506c",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_oliver_twist_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 2d6fa9c168a398d97019506c\noriginal_word_count: 450\n\nPassage:\nWhile these things were passing in the country workhouse, Mr. Fagin sat in the old den—the same from which Oliver had been removed by the girl—brooding over a dull, smoky fire. He held a pair of bellows upon his knee, with which he had apparently been endeavouring to rouse it into more cheerful action; but he had fallen into deep thought; and with his arms folded on them, and his chin resting on his thumbs, fixed his eyes, abstractedly, on the rusty bars.\n\nAt a table behind him sat the Artful Dodger, Master Charles Bates, and Mr. Chitling: all intent upon a game of whist; the Artful taking dummy against Master Bates and Mr. Chitling. The countenance of the first-named gentleman, peculiarly intelligent at all times, acquired great additional interest from his close observance of the game, and his attentive perusal of Mr. Chitling’s hand; upon which, from time to time, as occasion served, he bestowed a variety of earnest glances: wisely regulating his own play by the result of his observations upon his neighbour’s cards. It being a cold night, the Dodger wore his hat, as, indeed, was often his custom within doors. He also sustained a clay pipe between his teeth, which he only removed for a brief space when he deemed it necessary to apply for refreshment to a quart pot upon the table, which stood ready filled with gin-and-water for the accommodation of the company.\n\nMaster Bates was also attentive to the play; but being of a more excitable nature than his accomplished friend, it was observable that he more frequently applied himself to the gin-and-water, and moreover indulged in many jests and irrelevant remarks, all highly unbecoming a scientific rubber. Indeed, the Artful, presuming upon their close attachment, more than once took occasion to reason gravely with his companion upon these improprieties; all of which remonstrances, Master Bates received in extremely good part; merely requesting his friend to be “blowed,” or to insert his head in a sack, or replying with some other neatly-turned witticism of a similar kind, the happy application of which, excited considerable admiration in the mind of Mr. Chitling. It was remarkable that the latter gentleman and his partner invariably lost; and that the circumstance, so far from angering Master Bates, appeared to afford him the highest amusement, inasmuch as he laughed most uproariously at the end of every deal, and protested that he had never seen such a jolly game in all his born days.\n\n“That’s two doubles and the rub,” said Mr. Chitling, with a very long face, as he drew half-a-crown from his waistcoat-pocket. “I never see such a feller as you, Jack; you win everything."
+      },
+      "request_id": "2d6fa9c168a398d97019506c",
+      "request_sha256": "ecc98db6897837d4c19842ef2eefb67e3147a1eca6d5b2cdf326b450962412fc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a5601bef52fd7a673957194a65e08cbf509298658ca9de132658546b1e22f344"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "605bfe34a774879ab7ffdbce",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_twain_tom_sawyer_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 605bfe34a774879ab7ffdbce\noriginal_word_count: 472\n\nPassage:\n“Nothing but a tick.”\n\n“Where’d you get him?”\n\n“Out in the woods.”\n\n“What’ll you take for him?”\n\n“I don’t know. I don’t want to sell him.”\n\n“All right. It’s a mighty small tick, anyway.”\n\n“Oh, anybody can run a tick down that don’t belong to them. I’m satisfied with it. It’s a good enough tick for me.”\n\n“Sho, there’s ticks a plenty. I could have a thousand of ’em if I wanted to.”\n\n“Well, why don’t you? Becuz you know mighty well you can’t. This is a pretty early tick, I reckon. It’s the first one I’ve seen this year.”\n\n“Say, Huck—I’ll give you my tooth for him.”\n\n“Less see it.”\n\nTom got out a bit of paper and carefully unrolled it. Huckleberry viewed it wistfully. The temptation was very strong. At last he said:\n\n“Is it genuwyne?”\n\nTom lifted his lip and showed the vacancy.\n\n“Well, all right,” said Huckleberry, “it’s a trade.”\n\nTom enclosed the tick in the percussion-cap box that had lately been the pinchbug’s prison, and the boys separated, each feeling wealthier than before.\n\nWhen Tom reached the little isolated frame school-house, he strode in briskly, with the manner of one who had come with all honest speed. He hung his hat on a peg and flung himself into his seat with business-like alacrity. The master, throned on high in his great splint-bottom arm-chair, was dozing, lulled by the drowsy hum of study. The interruption roused him.\n\n“Thomas Sawyer!”\n\nTom knew that when his name was pronounced in full, it meant trouble.\n\n“Sir!”\n\n“Come up here. Now, sir, why are you late again, as usual?”\n\nTom was about to take refuge in a lie, when he saw two long tails of yellow hair hanging down a back that he recognized by the electric sympathy of love; and by that form was _the only vacant place_ on the girls’ side of the school-house. He instantly said:\n\n“_I stopped to talk with Huckleberry Finn!_”\n\nThe master’s pulse stood still, and he stared helplessly. The buzz of study ceased. The pupils wondered if this foolhardy boy had lost his mind. The master said:\n\n“You—you did what?”\n\n“Stopped to talk with Huckleberry Finn.”\n\nThere was no mistaking the words.\n\n“Thomas Sawyer, this is the most astounding confession I have ever listened to. No mere ferule will answer for this offence. Take off your jacket.”\n\nThe master’s arm performed until it was tired and the stock of switches notably diminished. Then the order followed:\n\n“Now, sir, go and sit with the girls! And let this be a warning to you.”\n\nThe titter that rippled around the room appeared to abash the boy, but in reality that result was caused rather more by his worshipful awe of his unknown idol and the dread pleasure that lay in his high good fortune."
+      },
+      "request_id": "605bfe34a774879ab7ffdbce",
+      "request_sha256": "102134a706b0c16a0f8f2cf7acbf19be2c0b1a2610495f1e8a56d9345f2b7da5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "323d6acb59fb7860bc2793a84ba6ac977f23c07b4823893b56c6c2d0cfd25ae1"
+    }
+  ],
+  "session_id": "01a0e87b-49a4-73d1-9183-c1526aa2e672",
+  "worker_id": "astra_ab",
+  "worker_identity_sha256": "9f063cc79481da5fa1e91530b35ed3863df2f1d390a463dfb849cb30ea1c9d85"
+}

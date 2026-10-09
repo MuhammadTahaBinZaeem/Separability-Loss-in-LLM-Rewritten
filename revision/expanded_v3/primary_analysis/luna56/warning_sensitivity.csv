@@ -1,0 +1,10 @@
+model_key,classifier,condition,selection,paired_rows,excluded_warning_rows,all_authors_present,original_macro_f1,rewrite_macro_f1,macro_f1_loss
+luna56,nearest_centroid,paraphrase,warning_free_paired,321,5,True,0.6239225379853203,0.5152207499729299,0.10870178801239039
+luna56,nearest_centroid,modernize,warning_free_paired,324,4,True,0.6336687150233505,0.5073294919963303,0.12633922302702028
+luna56,nearest_centroid,simplify,warning_free_paired,306,26,True,0.6209805619868594,0.43085320476144506,0.1901273572254143
+luna56,gaussian_nb,paraphrase,warning_free_paired,321,5,True,0.5599694269534837,0.48273125942876743,0.0772381675247163
+luna56,gaussian_nb,modernize,warning_free_paired,324,4,True,0.5718501720048523,0.509624512188954,0.06222565981589834
+luna56,gaussian_nb,simplify,warning_free_paired,306,26,True,0.5437674783811092,0.4456907016565335,0.09807677672457565
+luna56,lda_ledoit_wolf_shrinkage,paraphrase,warning_free_paired,321,5,True,0.7223095498792579,0.5697467159986163,0.15256283388064162
+luna56,lda_ledoit_wolf_shrinkage,modernize,warning_free_paired,324,4,True,0.7270830153338821,0.5920278251160603,0.13505519021782175
+luna56,lda_ledoit_wolf_shrinkage,simplify,warning_free_paired,306,26,True,0.7143818838792179,0.49094209135619643,0.22343979252302143

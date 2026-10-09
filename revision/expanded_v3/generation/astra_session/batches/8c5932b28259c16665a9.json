@@ -1,0 +1,68 @@
+{
+  "batch_id": "8c5932b28259c16665a9",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:27:17.031008+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b7c156e3578c53744afa6e27",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_dickens_oliver_twist_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: b7c156e3578c53744afa6e27\noriginal_word_count: 454\n\nPassage:\nAmong other public buildings in a certain town, which for many reasons it will be prudent to refrain from mentioning, and to which I will assign no fictitious name, there is one anciently common to most towns, great or small: to wit, a workhouse; and in this workhouse was born; on a day and date which I need not trouble myself to repeat, inasmuch as it can be of no possible consequence to the reader, in this stage of the business at all events; the item of mortality whose name is prefixed to the head of this chapter.\n\nFor a long time after it was ushered into this world of sorrow and trouble, by the parish surgeon, it remained a matter of considerable doubt whether the child would survive to bear any name at all; in which case it is somewhat more than probable that these memoirs would never have appeared; or, if they had, that being comprised within a couple of pages, they would have possessed the inestimable merit of being the most concise and faithful specimen of biography, extant in the literature of any age or country.\n\nAlthough I am not disposed to maintain that being born in a workhouse, is in itself the most fortunate and enviable circumstance that can possibly befall a human being, I do mean to say that in this particular instance, it was the best thing for Oliver Twist that could by possibility have occurred. The fact is, that there was considerable difficulty in inducing Oliver to take upon himself the office of respiration,—a troublesome practice, but one which custom has rendered necessary to our easy existence; and for some time he lay gasping on a little flock mattress, rather unequally poised between this world and the next: the balance being decidedly in favour of the latter. Now, if, during this brief period, Oliver had been surrounded by careful grandmothers, anxious aunts, experienced nurses, and doctors of profound wisdom, he would most inevitably and indubitably have been killed in no time. There being nobody by, however, but a pauper old woman, who was rendered rather misty by an unwonted allowance of beer; and a parish surgeon who did such matters by contract; Oliver and Nature fought out the point between them. The result was, that, after a few struggles, Oliver breathed, sneezed, and proceeded to advertise to the inmates of the workhouse the fact of a new burden having been imposed upon the parish, by setting up as loud a cry as could reasonably have been expected from a male infant who had not been possessed of that very useful appendage, a voice, for a much longer space of time than three minutes and a quarter."
+      },
+      "request_id": "b7c156e3578c53744afa6e27",
+      "request_sha256": "850c5aaeaf1c7cc91925bb2df3d35da08e12001b6955bdb1801be65ed11434ee",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1610e9c60a548e06afc3672d74d4c54d3de96d61d0b358cc57f7056eb8d0db6b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ab676a8b60e20c45c6c5647c",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_dickens_oliver_twist_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: ab676a8b60e20c45c6c5647c\noriginal_word_count: 462\n\nPassage:\nBut I may ask you two questions, may I?”\n\n“You may ask,” said Monks, with some show of surprise; “but whether I answer or not is another question.”\n\n“—Which makes three,” observed Mr. Bumble, essaying a stroke of facetiousness.\n\n“Is that what you expected to get from me?” demanded the matron.\n\n“It is,” replied Monks. “The other question?”\n\n“What do you propose to do with it? Can it be used against me?”\n\n“Never,” rejoined Monks; “nor against me either. See here! But don’t move a step forward, or your life is not worth a bulrush.”\n\nWith these words, he suddenly wheeled the table aside, and pulling an iron ring in the boarding, threw back a large trap-door which opened close at Mr. Bumble’s feet, and caused that gentleman to retire several paces backward, with great precipitation.\n\n“Look down,” said Monks, lowering the lantern into the gulf. “Don’t fear me. I could have let you down, quietly enough, when you were seated over it, if that had been my game.”\n\nThus encouraged, the matron drew near to the brink; and even Mr. Bumble himself, impelled by curiousity, ventured to do the same. The turbid water, swollen by the heavy rain, was rushing rapidly on below; and all other sounds were lost in the noise of its plashing and eddying against the green and slimy piles. There had once been a water-mill beneath; the tide foaming and chafing round the few rotten stakes, and fragments of machinery that yet remained, seemed to dart onward, with a new impulse, when freed from the obstacles which had unavailingly attempted to stem its headlong course.\n\n“If you flung a man’s body down there, where would it be tomorrow morning?” said Monks, swinging the lantern to and fro in the dark well.\n\n“Twelve miles down the river, and cut to pieces besides,” replied Bumble, recoiling at the thought.\n\nMonks drew the little packet from his breast, where he had hurriedly thrust it; and tying it to a leaden weight, which had formed a part of some pulley, and was lying on the floor, dropped it into the stream. It fell straight, and true as a die; clove the water with a scarcely audible splash; and was gone.\n\nThe three looking into each other’s faces, seemed to breathe more freely.\n\n“There!” said Monks, closing the trap-door, which fell heavily back into its former position. “If the sea ever gives up its dead, as books say it will, it will keep its gold and silver to itself, and that trash among it. We have nothing more to say, and may break up our pleasant party.”\n\n“By all means,” observed Mr. Bumble, with great alacrity.\n\n“You’ll keep a quiet tongue in your head, will you?” said Monks, with a threatening look."
+      },
+      "request_id": "ab676a8b60e20c45c6c5647c",
+      "request_sha256": "e7b61fdc98b0b214b1fe6b433b73327f27ebbcdbed882fc7ea4a2881cc5a61de",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "873ce719cbc72afe3929b237b3e77b77ec72e0ca45b45b86b14f3823f8ef1163"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "838b77670e03aa3df98a2e0f",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_twain_connecticut_yankee_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 838b77670e03aa3df98a2e0f\noriginal_word_count: 452\n\nPassage:\nIn my day, in my own country, this money was collected from imposts, and the citizen imagined that the foreign importer paid it, and it made him comfortable to think so; whereas, in fact, it was paid by the American people, and was so equally and exactly distributed among them that the annual cost to the 100-millionaire and the annual cost to the sucking child of the day-laborer was precisely the same--each paid $6. Nothing could be equaler than that, I reckon. Well, Scotland and Ireland were tributary to Arthur, and the united populations of the British Islands amounted to something less than 1,000,000. A mechanic's average wage was 3 cents a day, when he paid his own keep. By this rule the national government's expenses were $90,000 a year, or about $250 a day. Thus, by the substitution of nickels for gold on a king's-evil day, I not only injured no one, dissatisfied no one, but pleased all concerned and saved four-fifths of that day's national expense into the bargain--a saving which would have been the equivalent of $800,000 in my day in America. In making this substitution I had drawn upon the wisdom of a very remote source--the wisdom of my boyhood--for the true statesman does not despise any wisdom, howsoever lowly may be its origin: in my boyhood I had always saved my pennies and contributed buttons to the foreign missionary cause. The buttons would answer the ignorant savage as well as the coin, the coin would answer me better than the buttons; all hands were happy and nobody hurt.\n\nMarinel took the patients as they came. He examined the candidate; if he couldn't qualify he was warned off; if he could he was passed along to the king. A priest pronounced the words, “They shall lay their hands on the sick, and they shall recover.” Then the king stroked the ulcers, while the reading continued; finally, the patient graduated and got his nickel--the king hanging it around his neck himself--and was dismissed. Would you think that that would cure? It certainly did. Any mummery will cure if the patient's faith is strong in it. Up by Astolat there was a chapel where the Virgin had once appeared to a girl who used to herd geese around there--the girl said so herself--and they built the chapel upon that spot and hung a picture in it representing the occurrence--a picture which you would think it dangerous for a sick person to approach; whereas, on the contrary, thousands of the lame and the sick came and prayed before it every year and went away whole and sound; and even the well could look upon it and live."
+      },
+      "request_id": "838b77670e03aa3df98a2e0f",
+      "request_sha256": "701600c5d191f9c4b6a8ca71f3d4575081e66326b611a60367f2e2f1bc2ab70d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "07a5ab8fa167227463ef0c26d858e32d149ee2bb4d6ca667b280928fbbd3ec63"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

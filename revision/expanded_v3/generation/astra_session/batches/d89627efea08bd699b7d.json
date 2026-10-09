@@ -1,0 +1,68 @@
+{
+  "batch_id": "d89627efea08bd699b7d",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:50:56.727934+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ced2420dfd27215d7968da1f",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 507,
+      "passage_id": "V2_austen_persuasion_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: ced2420dfd27215d7968da1f\noriginal_word_count: 507\n\nPassage:\nOther opportunities of making her observations could not fail to occur. Anne had soon been in company with all the four together often enough to have an opinion, though too wise to acknowledge as much at home, where she knew it would have satisfied neither husband nor wife; for while she considered Louisa to be rather the favourite, she could not but think, as far as she might dare to judge from memory and experience, that Captain Wentworth was not in love with either. They were more in love with him; yet there it was not love. It was a little fever of admiration; but it might, probably must, end in love with some. Charles Hayter seemed aware of being slighted, and yet Henrietta had sometimes the air of being divided between them. Anne longed for the power of representing to them all what they were about, and of pointing out some of the evils they were exposing themselves to. She did not attribute guile to any. It was the highest satisfaction to her to believe Captain Wentworth not in the least aware of the pain he was occasioning. There was no triumph, no pitiful triumph in his manner. He had, probably, never heard, and never thought of any claims of Charles Hayter. He was only wrong in accepting the attentions (for accepting must be the word) of two young women at once.\n\nAfter a short struggle, however, Charles Hayter seemed to quit the field. Three days had passed without his coming once to Uppercross; a most decided change. He had even refused one regular invitation to dinner; and having been found on the occasion by Mr Musgrove with some large books before him, Mr and Mrs Musgrove were sure all could not be right, and talked, with grave faces, of his studying himself to death. It was Mary’s hope and belief that he had received a positive dismissal from Henrietta, and her husband lived under the constant dependence of seeing him to-morrow. Anne could only feel that Charles Hayter was wise.\n\nOne morning, about this time Charles Musgrove and Captain Wentworth being gone a-shooting together, as the sisters in the Cottage were sitting quietly at work, they were visited at the window by the sisters from the Mansion-house.\n\nIt was a very fine November day, and the Miss Musgroves came through the little grounds, and stopped for no other purpose than to say, that they were going to take a _long_ walk, and, therefore, concluded Mary could not like to go with them; and when Mary immediately replied, with some jealousy at not being supposed a good walker, “Oh, yes, I should like to join you very much, I am very fond of a long walk;” Anne felt persuaded, by the looks of the two girls, that it was precisely what they did not wish, and admired again the sort of necessity which the family habits seemed to produce, of everything being to be communicated, and everything being to be done together, however undesired and inconvenient."
+      },
+      "request_id": "ced2420dfd27215d7968da1f",
+      "request_sha256": "2f174dd4bf890485247e45520a480802102a4342c5f14be72908c5b1ebc0ee82",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1d651a50c824817283d3507fdf6bbacf384ea2ba52e5c28e38a74c814ab70c2e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e103b7aa819ff35311df8a8a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 535,
+      "passage_id": "V2_austen_emma_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: e103b7aa819ff35311df8a8a\noriginal_word_count: 535\n\nPassage:\n“I wish we had a donkey. The thing would be for us all to come on donkeys, Jane, Miss Bates, and me—and my caro sposo walking by. I really must talk to him about purchasing a donkey. In a country life I conceive it to be a sort of necessary; for, let a woman have ever so many resources, it is not possible for her to be always shut up at home;—and very long walks, you know—in summer there is dust, and in winter there is dirt.”\n\n“You will not find either, between Donwell and Highbury. Donwell Lane is never dusty, and now it is perfectly dry. Come on a donkey, however, if you prefer it. You can borrow Mrs. Cole’s. I would wish every thing to be as much to your taste as possible.”\n\n“That I am sure you would. Indeed I do you justice, my good friend. Under that peculiar sort of dry, blunt manner, I know you have the warmest heart. As I tell Mr. E., you are a thorough humourist.—Yes, believe me, Knightley, I am fully sensible of your attention to me in the whole of this scheme. You have hit upon the very thing to please me.”\n\nMr. Knightley had another reason for avoiding a table in the shade. He wished to persuade Mr. Woodhouse, as well as Emma, to join the party; and he knew that to have any of them sitting down out of doors to eat would inevitably make him ill. Mr. Woodhouse must not, under the specious pretence of a morning drive, and an hour or two spent at Donwell, be tempted away to his misery.\n\nHe was invited on good faith. No lurking horrors were to upbraid him for his easy credulity. He did consent. He had not been at Donwell for two years. “Some very fine morning, he, and Emma, and Harriet, could go very well; and he could sit still with Mrs. Weston, while the dear girls walked about the gardens. He did not suppose they could be damp now, in the middle of the day. He should like to see the old house again exceedingly, and should be very happy to meet Mr. and Mrs. Elton, and any other of his neighbours.—He could not see any objection at all to his, and Emma’s, and Harriet’s going there some very fine morning. He thought it very well done of Mr. Knightley to invite them—very kind and sensible—much cleverer than dining out.—He was not fond of dining out.”\n\nMr. Knightley was fortunate in every body’s most ready concurrence. The invitation was everywhere so well received, that it seemed as if, like Mrs. Elton, they were all taking the scheme as a particular compliment to themselves.—Emma and Harriet professed very high expectations of pleasure from it; and Mr. Weston, unasked, promised to get Frank over to join them, if possible; a proof of approbation and gratitude which could have been dispensed with.—Mr. Knightley was then obliged to say that he should be glad to see him; and Mr. Weston engaged to lose no time in writing, and spare no arguments to induce him to come."
+      },
+      "request_id": "e103b7aa819ff35311df8a8a",
+      "request_sha256": "1101701a7161f48b2307a504b5bbc00ad4a48ff0bed34a894c5a81c5fdaf029c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1f636a151c7ebbcbd31e5a16923933732befbab4486aa1f906363b23674a4444"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "33251d74fc6d9d073b161883",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 503,
+      "passage_id": "V2_wilde_canterville_ghost_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 33251d74fc6d9d073b161883\noriginal_word_count: 503\n\nPassage:\nHe selected Friday, the 17th of August, for his appearance, and spent most of that day in looking over his wardrobe, ultimately deciding in favour of a large slouched hat with a red feather, a winding-sheet frilled at the wrists and neck, and a rusty dagger. Towards evening a violent storm of rain came on, and the wind was so high that all the windows and doors in the old house shook and rattled. In fact, it was just such weather as he loved. His plan of action was this. He was to make his way quietly to Washington Otis’s room, gibber at him from the foot of the bed, and stab himself three times in the throat to the sound of slow music. He bore Washington a special grudge, being quite aware that it was he who was in the habit of removing the famous Canterville blood-stain, by means of Pinkerton’s Paragon Detergent. Having reduced the reckless and foolhardy youth to a condition of abject terror, he was then to proceed to the room occupied by the United States Minister and his wife, and there to place a clammy hand on Mrs. Otis’s forehead, while he hissed into her trembling husband’s ear the awful secrets of the charnel-house. With regard to little Virginia, he had not quite made up his mind. She had never insulted him in any way, and was pretty and gentle. A few hollow groans from the wardrobe, he thought, would be more than sufficient, or, if that failed to wake her, he might grabble at the counterpane with palsy-twitching fingers. As for the twins, he was quite determined to teach them a lesson. The first thing to be done was, of course, to sit upon their chests, so as to produce the stifling sensation of nightmare. Then, as their beds were quite close to each other, to stand between them in the form of a green, icy-cold corpse, till they became paralysed with fear, and finally, to throw off the winding-sheet, and crawl round the room, with white bleached bones and one rolling eye-ball, in the character of ‘Dumb Daniel, or the Suicide’s Skeleton,’ a _rôle_ in which he had on more than one occasion produced a great effect, and which he considered quite equal to his famous part of ‘Martin the Maniac, or the Masked Mystery.’\n\nAt half-past ten he heard the family going to bed. For some time he was disturbed by wild shrieks of laughter from the twins, who, with the light-hearted gaiety of schoolboys, were evidently amusing themselves before they retired to rest, but at a quarter past eleven all was still, and, as midnight sounded, he sallied forth. The owl beat against the window panes, the raven croaked from the old yew-tree, and the wind wandered moaning round the house like a lost soul; but the Otis family slept unconscious of their doom, and high above the rain and storm he could hear the steady snoring of the Minister for the United States."
+      },
+      "request_id": "33251d74fc6d9d073b161883",
+      "request_sha256": "eb16386033b5791d089da8dfce8b23137f0cafe4735d2f2afbed0433cb43c853",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f617543a03f11f592a4ad223a7608622c71b7b9996670f5ae5dcc0475e927612"
+    }
+  ],
+  "session_id": "01a0e876-83f7-78a1-b9d1-9e5cfb4d9073",
+  "worker_id": "astra_z",
+  "worker_identity_sha256": "3c518323fe65160b33818c8fecefe8b58d18bebfd64f52e04e66f555b7fdddb7"
+}

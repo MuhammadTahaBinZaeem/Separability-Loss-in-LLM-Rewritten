@@ -1,0 +1,68 @@
+{
+  "batch_id": "7135ea0093442a4ffdbf",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:24:29.409981+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "32790322d4673107d1dbd4ea",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 467,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 32790322d4673107d1dbd4ea\noriginal_word_count: 467\n\nPassage:\n“I will be submissive to you. I see in your face that you know I can do nothing else than this. I know you are true.”\n\nThe old man kissed her, and hurried her into his room, and turned the key; then, came hurrying back to the Doctor, and opened the window and partly opened the blind, and put his hand upon the Doctor’s arm, and looked out with him into the courtyard.\n\nLooked out upon a throng of men and women: not enough in number, or near enough, to fill the courtyard: not more than forty or fifty in all. The people in possession of the house had let them in at the gate, and they had rushed in to work at the grindstone; it had evidently been set up there for their purpose, as in a convenient and retired spot.\n\nBut, such awful workers, and such awful work!\n\nThe grindstone had a double handle, and, turning at it madly were two men, whose faces, as their long hair flapped back when the whirlings of the grindstone brought their faces up, were more horrible and cruel than the visages of the wildest savages in their most barbarous disguise. False eyebrows and false moustaches were stuck upon them, and their hideous countenances were all bloody and sweaty, and all awry with howling, and all staring and glaring with beastly excitement and want of sleep. As these ruffians turned and turned, their matted locks now flung forward over their eyes, now flung backward over their necks, some women held wine to their mouths that they might drink; and what with dropping blood, and what with dropping wine, and what with the stream of sparks struck out of the stone, all their wicked atmosphere seemed gore and fire. The eye could not detect one creature in the group free from the smear of blood. Shouldering one another to get next at the sharpening-stone, were men stripped to the waist, with the stain all over their limbs and bodies; men in all sorts of rags, with the stain upon those rags; men devilishly set off with spoils of women’s lace and silk and ribbon, with the stain dyeing those trifles through and through. Hatchets, knives, bayonets, swords, all brought to be sharpened, were all red with it. Some of the hacked swords were tied to the wrists of those who carried them, with strips of linen and fragments of dress: ligatures various in kind, but all deep of the one colour. And as the frantic wielders of these weapons snatched them from the stream of sparks and tore away into the streets, the same red hue was red in their frenzied eyes;--eyes which any unbrutalised beholder would have given twenty years of life, to petrify with a well-directed gun."
+      },
+      "request_id": "32790322d4673107d1dbd4ea",
+      "request_sha256": "f890311d6258a295ff323dc09ee889703fd3cfe3af00d9d0254b366647483bec",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0861fa79451458000b794e53ffe8c33936dc34bb3895706d6025fbcee645ee1c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f306113ce241c35b2fa8effd",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 478,
+      "passage_id": "V2_poe_murders_rue_morgue_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: f306113ce241c35b2fa8effd\noriginal_word_count: 478\n\nPassage:\n“Keeping now steadily in mind the points to which I have drawn your attention—that peculiar voice, that unusual agility, and that startling absence of motive in a murder so singularly atrocious as this—let us glance at the butchery itself. Here is a woman strangled to death by manual strength, and thrust up a chimney, head downward. Ordinary assassins employ no such modes of murder as this. Least of all, do they thus dispose of the murdered. In the manner of thrusting the corpse up the chimney, you will admit that there was something _excessively outré_—something altogether irreconcilable with our common notions of human action, even when we suppose the actors the most depraved of men. Think, too, how great must have been that strength which could have thrust the body _up_ such an aperture so forcibly that the united vigor of several persons was found barely sufficient to drag it _down!_\n\n“Turn, now, to other indications of the employment of a vigor most marvellous. On the hearth were thick tresses—very thick tresses—of grey human hair. These had been torn out by the roots. You are aware of the great force necessary in tearing thus from the head even twenty or thirty hairs together. You saw the locks in question as well as myself. Their roots (a hideous sight!) were clotted with fragments of the flesh of the scalp—sure token of the prodigious power which had been exerted in uprooting perhaps half a million of hairs at a time. The throat of the old lady was not merely cut, but the head absolutely severed from the body: the instrument was a mere razor. I wish you also to look at the _brutal_ ferocity of these deeds. Of the bruises upon the body of Madame L’Espanaye I do not speak. Monsieur Dumas, and his worthy coadjutor Monsieur Etienne, have pronounced that they were inflicted by some obtuse instrument; and so far these gentlemen are very correct. The obtuse instrument was clearly the stone pavement in the yard, upon which the victim had fallen from the window which looked in upon the bed. This idea, however simple it may now seem, escaped the police for the same reason that the breadth of the shutters escaped them—because, by the affair of the nails, their perceptions had been hermetically sealed against the possibility of the windows having ever been opened at all.\n\n“If now, in addition to all these things, you have properly reflected upon the odd disorder of the chamber, we have gone so far as to combine the ideas of an agility astounding, a strength superhuman, a ferocity brutal, a butchery without motive, a _grotesquerie_ in horror absolutely alien from humanity, and a voice foreign in tone to the ears of men of many nations, and devoid of all distinct or intelligible syllabification."
+      },
+      "request_id": "f306113ce241c35b2fa8effd",
+      "request_sha256": "2b62f62847d9957649ce6c0839803687e4a30826102482771848f4e96d38ef64",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "82543ec494da6aef74bb9a611af464f653f4099142ed20e8d272af5dacbecd9b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "94f6908f1a254a7902113f2e",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 492,
+      "passage_id": "V2_shelley_mathilda_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 94f6908f1a254a7902113f2e\noriginal_word_count: 492\n\nPassage:\nIt is only four o’clock; but it is winter and the sun has already set: there are no clouds in the clear, frosty sky to reflect its slant beams, but the air itself is tinged with a slight roseate colour which is again reflected on the snow that covers the ground. I live in a lone cottage on a solitary, wide heath: no voice of life reaches me. I see the desolate plain covered with white, save a few black patches that the noonday sun has made at the top of those sharp pointed hillocks from which the snow, sliding as it fell, lay thinner than on the plain ground: a few birds are pecking at the hard ice that covers the pools--for the frost has been of long continuance.\n\nI am in a strange state of mind. I am alone--quite alone--in the world--the blight of misfortune has passed over me and withered me; I know that I am about to die and I feel happy--joyous.--I feel my pulse; it beats fast: I place my thin hand on my cheek; it burns: there is a slight, quick spirit within me which is now emitting its last sparks. I shall never see the snows of another winter--I do believe that I shall never again feel the vivifying warmth of another summer sun; and it is in this persuasion that I begin to write my tragic history. Perhaps a history such as mine had better die with me, but a feeling that I cannot define leads me on and I am too weak both in body and mind to resist the slightest impulse. While life was strong within me I thought indeed that there was a sacred horror in my tale that rendered it unfit for utterance, and now about to die I pollute its mystic terrors. It is as the wood of the Eumenides none but the dying may enter; and Oedipus is about to die.\n\nWhat am I writing?--I must collect my thoughts. I do not know that any will peruse these pages except you, my friend, who will receive them at my death. I do not address them to you alone because it will give me pleasure to dwell upon our friendship in a way that would be needless if you alone read what I shall write. I shall relate my tale therefore as if I wrote for strangers. You have often asked me the cause of my solitary life; my tears; and above all of my impenetrable and unkind silence. In life I dared not; in death I unveil the mystery. Others will toss these pages lightly over: to you, Woodville, kind, affectionate friend, they will be dear--the precious memorials of a heart-broken girl who, dying, is still warmed by gratitude towards you: your tears will fall on the words that record my misfortunes; I know they will--and while I have life I thank you for your sympathy."
+      },
+      "request_id": "94f6908f1a254a7902113f2e",
+      "request_sha256": "2152e4da78612d5f7c5e269169ece0cc60545c8f0562e05af62754036a69415f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "aee8aea64474ba0e3023aa2d108a8c09dada7b7b2f08bf46ab63f236d6d825ab"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

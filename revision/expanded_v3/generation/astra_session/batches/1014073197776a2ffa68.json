@@ -1,0 +1,68 @@
+{
+  "batch_id": "1014073197776a2ffa68",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:11:23.007275+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5f5c4fa0cd4e9d9c562899d7",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_dickens_oliver_twist_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 5f5c4fa0cd4e9d9c562899d7\noriginal_word_count: 463\n\nPassage:\n“Well, well, Mr. Bumble,” he said at length, “there’s no denying that, since the new system of feeding has come in, the coffins are something narrower and more shallow than they used to be; but we must have some profit, Mr. Bumble. Well-seasoned timber is an expensive article, sir; and all the iron handles come, by canal, from Birmingham.”\n\n“Well, well,” said Mr. Bumble, “every trade has its drawbacks. A fair profit is, of course, allowable.”\n\n“Of course, of course,” replied the undertaker; “and if I don’t get a profit upon this or that particular article, why, I make it up in the long-run, you see—he! he! he!”\n\n“Just so,” said Mr. Bumble.\n\n“Though I must say,” continued the undertaker, resuming the current of observations which the beadle had interrupted: “though I must say, Mr. Bumble, that I have to contend against one very great disadvantage: which is, that all the stout people go off the quickest. The people who have been better off, and have paid rates for many years, are the first to sink when they come into the house; and let me tell you, Mr. Bumble, that three or four inches over one’s calculation makes a great hole in one’s profits: especially when one has a family to provide for, sir.”\n\nAs Mr. Sowerberry said this, with the becoming indignation of an ill-used man; and as Mr. Bumble felt that it rather tended to convey a reflection on the honour of the parish; the latter gentleman thought it advisable to change the subject. Oliver Twist being uppermost in his mind, he made him his theme.\n\n“By the bye,” said Mr. Bumble, “you don’t know anybody who wants a boy, do you? A porochial ’prentis, who is at present a dead-weight; a millstone, as I may say, round the porochial throat? Liberal terms, Mr. Sowerberry, liberal terms?” As Mr. Bumble spoke, he raised his cane to the bill above him, and gave three distinct raps upon the words “five pounds”: which were printed thereon in Roman capitals of gigantic size.\n\n“Gadso!” said the undertaker: taking Mr. Bumble by the gilt-edged lappel of his official coat; “that’s just the very thing I wanted to speak to you about. You know—dear me, what a very elegant button this is, Mr. Bumble! I never noticed it before.”\n\n“Yes, I think it rather pretty,” said the beadle, glancing proudly downwards at the large brass buttons which embellished his coat. “The die is the same as the porochial seal—the Good Samaritan healing the sick and bruised man. The board presented it to me on Newyear’s morning, Mr. Sowerberry. I put it on, I remember, for the first time, to attend the inquest on that reduced tradesman, who died in a doorway at midnight.”"
+      },
+      "request_id": "5f5c4fa0cd4e9d9c562899d7",
+      "request_sha256": "ffc7d956c6f933bf96e561d67b529c5199b341ffa668630afa1a4bb79adb9435",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6a1abd0a71724b0a31a4848a02a371742e192232b14b5f04b0c9d8c8abfeeaea"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "98b76527f183d9e656bd5c24",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_shelley_the_last_man_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 98b76527f183d9e656bd5c24\noriginal_word_count: 462\n\nPassage:\nWere our proud dreams thus to fade? Our name was written “a little lower than the angels;” and, behold, we were no better than ephemera. We had called ourselves the “paragon of animals,” and, lo! we were a “quint-essence of dust.” We repined that the pyramids had outlasted the embalmed body of their builder. Alas! the mere shepherd’s hut of straw we passed on the road, contained in its structure the principle of greater longevity than the whole race of man. How reconcile this sad change to our past aspirations, to our apparent powers!\n\nSudden an internal voice, articulate and clear, seemed to say:—Thus from eternity, it was decreed: the steeds that bear Time onwards had this hour and this fulfilment enchained to them, since the void brought forth its burthen. Would you read backwards the unchangeable laws of Necessity?\n\nMother of the world! Servant of the Omnipotent! eternal, changeless Necessity! who with busy fingers sittest ever weaving the indissoluble chain of events!—I will not murmur at thy acts. If my human mind cannot acknowledge that all that is, is right; yet since what is, must be, I will sit amidst the ruins and smile. Truly we were not born to enjoy, but to submit, and to hope.\n\nWill not the reader tire, if I should minutely describe our long-drawn journey from Paris to Geneva? If, day by day, I should record, in the form of a journal, the thronging miseries of our lot, could my hand write, or language afford words to express, the variety of our woe; the hustling and crowding of one deplorable event upon another? Patience, oh reader! whoever thou art, wherever thou dwellest, whether of race spiritual, or, sprung from some surviving pair, thy nature will be human, thy habitation the earth; thou wilt here read of the acts of the extinct race, and wilt ask wonderingly, if they, who suffered what thou findest recorded, were of frail flesh and soft organization like thyself. Most true, they were— weep therefore; for surely, solitary being, thou wilt be of gentle disposition; shed compassionate tears; but the while lend thy attention to the tale, and learn the deeds and sufferings of thy predecessors.\n\nYet the last events that marked our progress through France were so full of strange horror and gloomy misery, that I dare not pause too long in the narration. If I were to dissect each incident, every small fragment of a second would contain an harrowing tale, whose minutest word would curdle the blood in thy young veins. It is right that I should erect for thy instruction this monument of the foregone race; but not that I should drag thee through the wards of an hospital, nor the secret chambers of the charnel-house."
+      },
+      "request_id": "98b76527f183d9e656bd5c24",
+      "request_sha256": "0335a0bd38837876e07ce5b2e4dceb6e4f700a38abf5e28391996ed0ef48eaca",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e0a42da3cbb1ce5f6da523a2603a5b2acf1831bbc23fe0150cbca67b958db6b7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "87e911675629765e6ba9d497",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 87e911675629765e6ba9d497\noriginal_word_count: 450\n\nPassage:\nThe only question that seemed to trouble him was, whom to make away with; for he was not blind to the fact that murder, like the religions of the Pagan world, requires a victim as well as a priest. Not being a genius, he had no enemies, and indeed he felt that this was not the time for the gratification of any personal pique or dislike, the mission in which he was engaged being one of great and grave solemnity. He accordingly made out a list of his friends and relatives on a sheet of notepaper, and after careful consideration, decided in favour of Lady Clementina Beauchamp, a dear old lady who lived in Curzon Street, and was his own second cousin by his mother’s side. He had always been very fond of Lady Clem, as every one called her, and as he was very wealthy himself, having come into all Lord Rugby’s property when he came of age, there was no possibility of his deriving any vulgar monetary advantage by her death. In fact, the more he thought over the matter, the more she seemed to him to be just the right person, and, feeling that any delay would be unfair to Sybil, he determined to make his arrangements at once.\n\nThe first thing to be done was, of course, to settle with the cheiromantist; so he sat down at a small Sheraton writing-table that stood near the window, drew a cheque for £105, payable to the order of Mr. Septimus Podgers, and, enclosing it in an envelope, told his valet to take it to West Moon Street. He then telephoned to the stables for his hansom, and dressed to go out. As he was leaving the room he looked back at Sybil Merton’s photograph, and swore that, come what may, he would never let her know what he was doing for her sake, but would keep the secret of his self-sacrifice hidden always in his heart.\n\nOn his way to the Buckingham, he stopped at a florist’s, and sent Sybil a beautiful basket of narcissus, with lovely white petals and staring pheasants’ eyes, and on arriving at the club, went straight to the library, rang the bell, and ordered the waiter to bring him a lemon-and-soda, and a book on Toxicology. He had fully decided that poison was the best means to adopt in this troublesome business. Anything like personal violence was extremely distasteful to him, and besides, he was very anxious not to murder Lady Clementina in any way that might attract public attention, as he hated the idea of being lionised at Lady Windermere’s, or seeing his name figuring in the paragraphs of vulgar society—newspapers."
+      },
+      "request_id": "87e911675629765e6ba9d497",
+      "request_sha256": "2628ed925ed7513ff28092d8221a3bcdb71849195219cef2a39b127595685753",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "db9e810f4b196a4b183d9754ade2db81cfa8ff8229513a885878bdc67d3f68e2"
+    }
+  ],
+  "session_id": "01a0e857-2390-7df1-8f12-e929ca6daadc",
+  "worker_id": "astra_q",
+  "worker_identity_sha256": "3f3cf345f62afb6b7770530219536cddba6b09ed2bde9eacd0dc8a411ac176e1"
+}

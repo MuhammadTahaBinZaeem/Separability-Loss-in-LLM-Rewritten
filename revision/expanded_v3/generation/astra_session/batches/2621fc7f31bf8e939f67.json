@@ -1,0 +1,68 @@
+{
+  "batch_id": "2621fc7f31bf8e939f67",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:43:44.829385+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "383bf3915d8971a4d72c5cae",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_dickens_great_expectations_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 383bf3915d8971a4d72c5cae\noriginal_word_count: 453\n\nPassage:\nBiddy cried; the darkening garden, and the lane, and the stars that were coming out, were blurred in my own sight.\n\n“Nothing was ever discovered, Biddy?”\n\n“Nothing.”\n\n“Do you know what is become of Orlick?”\n\n“I should think from the colour of his clothes that he is working in the quarries.”\n\n“Of course you have seen him then?—Why are you looking at that dark tree in the lane?”\n\n“I saw him there, on the night she died.”\n\n“That was not the last time either, Biddy?”\n\n“No; I have seen him there, since we have been walking here.—It is of no use,” said Biddy, laying her hand upon my arm, as I was for running out, “you know I would not deceive you; he was not there a minute, and he is gone.”\n\nIt revived my utmost indignation to find that she was still pursued by this fellow, and I felt inveterate against him. I told her so, and told her that I would spend any money or take any pains to drive him out of that country. By degrees she led me into more temperate talk, and she told me how Joe loved me, and how Joe never complained of anything,—she didn’t say, of me; she had no need; I knew what she meant,—but ever did his duty in his way of life, with a strong hand, a quiet tongue, and a gentle heart.\n\n“Indeed, it would be hard to say too much for him,” said I; “and Biddy, we must often speak of these things, for of course I shall be often down here now. I am not going to leave poor Joe alone.”\n\nBiddy said never a single word.\n\n“Biddy, don’t you hear me?”\n\n“Yes, Mr. Pip.”\n\n“Not to mention your calling me Mr. Pip,—which appears to me to be in bad taste, Biddy,—what do you mean?”\n\n“What do I mean?” asked Biddy, timidly.\n\n“Biddy,” said I, in a virtuously self-asserting manner, “I must request to know what you mean by this?”\n\n“By this?” said Biddy.\n\n“Now, don’t echo,” I retorted. “You used not to echo, Biddy.”\n\n“Used not!” said Biddy. “O Mr. Pip! Used!”\n\nWell! I rather thought I would give up that point too. After another silent turn in the garden, I fell back on the main position.\n\n“Biddy,” said I, “I made a remark respecting my coming down here often, to see Joe, which you received with a marked silence. Have the goodness, Biddy, to tell me why.”\n\n“Are you quite sure, then, that you WILL come to see him often?” asked Biddy, stopping in the narrow garden walk, and looking at me under the stars with a clear and honest eye."
+      },
+      "request_id": "383bf3915d8971a4d72c5cae",
+      "request_sha256": "a97a6cab1460da7fd570ce5eff639e00ef4d04b6ec08fa7b278fba888a63f827",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fffc41c036edac8b03f8669904bd06b40b81a94ae53a1136bdec0861c4446a83"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a4aa6416bc00f961e0c0da86",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_shelley_mathilda_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: a4aa6416bc00f961e0c0da86\noriginal_word_count: 453\n\nPassage:\nYet he had one secret hidden from these dear friends; a secret he had nurtured from his earliest years, and although he loved his fellow collegiates he would not trust it to the delicacy or sympathy of any one among them. He loved. He feared that the intensity of his passion might become the subject of their ridicule; and he could not bear that they should blaspheme it by considering that trivial and transitory which he felt was the life of his life.\n\nThere was a gentleman of small fortune who lived near his family mansion who had three lovely daughters. The eldest was far the most beautiful, but her beauty was only an addition to her other qualities--her understanding was clear & strong and her disposition angelically gentle. She and my father had been playmates from infancy: Diana, even in her childhood had been a favourite with his mother; this partiality encreased with the years of this beautiful and lively girl and thus during his school & college vacations they were perpetually together. Novels and all the various methods by which youth in civilized life are led to a knowledge of the existence of passions before they really feel them, had produced a strong effect on him who was so peculiarly susceptible of every impression. At eleven years of age Diana was his favourite playmate but he already talked the language of love. Although she was elder than he by nearly two years the nature of her education made her more childish at least in the knowledge and expression of feeling; she received his warm protestations with innocence, and returned them unknowing of what they meant. She had read no novels and associated only with her younger sisters, what could she know of the difference between love and friendship? And when the development of her understanding disclosed the true nature of this intercourse to her, her affections were already engaged to her friend, and all she feared was lest other attractions and fickleness might make him break his infant vows.\n\nBut they became every day more ardent and tender. It was a passion that had grown with his growth; it had become entwined with every faculty and every sentiment and only to be lost with life. None knew of their love except their own two hearts; yet although in all things else, and even in this he dreaded the censure of his companions, for thus truly loving one inferior to him in fortune, nothing was ever able for a moment to shake his purpose of uniting himself to her as soon as he could muster courage sufficient to meet those difficulties he was determined to surmount.\n\nDiana was fully worthy of his deepest affection."
+      },
+      "request_id": "a4aa6416bc00f961e0c0da86",
+      "request_sha256": "4ffa140ee563a7445056b3058fcef97f2313d388ee593eb14a55157bb2333f24",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "46b1ccf68fe17295f76f066d0247f2e892331b47c111394c7324ee861bdce457"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a05170cf5471f294d1af07ef",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_twain_tom_sawyer_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: a05170cf5471f294d1af07ef\noriginal_word_count: 472\n\nPassage:\nHe could not help it. And it maddened him to see, as he thought he saw, that Becky Thatcher never once suspected that he was even in the land of the living. But she did see, nevertheless; and she knew she was winning her fight, too, and was glad to see him suffer as she had suffered.\n\nAmy’s happy prattle became intolerable. Tom hinted at things he had to attend to; things that must be done; and time was fleeting. But in vain—the girl chirped on. Tom thought, “Oh, hang her, ain’t I ever going to get rid of her?” At last he must be attending to those things—and she said artlessly that she would be “around” when school let out. And he hastened away, hating her for it.\n\n“Any other boy!” Tom thought, grating his teeth. “Any boy in the whole town but that Saint Louis smarty that thinks he dresses so fine and is aristocracy! Oh, all right, I licked you the first day you ever saw this town, mister, and I’ll lick you again! You just wait till I catch you out! I’ll just take and—”\n\nAnd he went through the motions of thrashing an imaginary boy—pummelling the air, and kicking and gouging. “Oh, you do, do you? You holler ’nough, do you? Now, then, let that learn you!” And so the imaginary flogging was finished to his satisfaction.\n\nTom fled home at noon. His conscience could not endure any more of Amy’s grateful happiness, and his jealousy could bear no more of the other distress. Becky resumed her picture inspections with Alfred, but as the minutes dragged along and no Tom came to suffer, her triumph began to cloud and she lost interest; gravity and absentmindedness followed, and then melancholy; two or three times she pricked up her ear at a footstep, but it was a false hope; no Tom came. At last she grew entirely miserable and wished she hadn’t carried it so far. When poor Alfred, seeing that he was losing her, he did not know how, kept exclaiming: “Oh, here’s a jolly one! look at this!” she lost patience at last, and said, “Oh, don’t bother me! I don’t care for them!” and burst into tears, and got up and walked away.\n\nAlfred dropped alongside and was going to try to comfort her, but she said:\n\n“Go away and leave me alone, can’t you! I hate you!”\n\nSo the boy halted, wondering what he could have done—for she had said she would look at pictures all through the nooning—and she walked on, crying. Then Alfred went musing into the deserted schoolhouse. He was humiliated and angry. He easily guessed his way to the truth—the girl had simply made a convenience of him to vent her spite upon Tom Sawyer."
+      },
+      "request_id": "a05170cf5471f294d1af07ef",
+      "request_sha256": "7f1a0545f1a61f3a70c5c26ffedec424aafc535005efc5d798f0bfc9aeb756d3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fd6488efa2f64e254321bf98e66528a2f17c2b892b32513d214ee782e9126298"
+    }
+  ],
+  "session_id": "01a0e871-0029-7eb2-b032-b2c22db7d18a",
+  "worker_id": "astra_y",
+  "worker_identity_sha256": "117b62507d566d7e1674868f608b01ea30f8f22336a4d59e5e97eb3a6f4f8842"
+}

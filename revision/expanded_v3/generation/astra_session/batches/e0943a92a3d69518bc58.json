@@ -1,0 +1,68 @@
+{
+  "batch_id": "e0943a92a3d69518bc58",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:52:49.846196+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ad3ab5b4deacd57c2b4c5ac3",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V2_poe_the_gold_bug_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: ad3ab5b4deacd57c2b4c5ac3\noriginal_word_count: 458\n\nPassage:\n“Now, in English, the letter which most frequently occurs is e. Afterwards, succession runs thus: _a o i d h n r s t u y c f g l m w b k p q x z_. _E_ predominates so remarkably that an individual sentence of any length is rarely seen, in which it is not the prevailing character.\n\n“Here, then, we leave, in the very beginning, the groundwork for something more than a mere guess. The general use which may be made of the table is obvious—but, in this particular cipher, we shall only very partially require its aid. As our predominant character is 8, we will commence by assuming it as the _e_ of the natural alphabet. To verify the supposition, let us observe if the 8 be seen often in couples—for _e_ is doubled with great frequency in English—in such words, for example, as ‘meet,’ ‘.fleet,’ ‘speed,’ ‘seen,’ been,’ ‘agree,’ &c. In the present instance we see it doubled no less than five times, although the cryptograph is brief.\n\n“Let us assume 8, then, as _e_. Now, of all _words_ in the language, ‘the’ is most usual; let us see, therefore, whether there are not repetitions of any three characters, in the same order of collocation, the last of them being 8. If we discover repetitions of such letters, so arranged, they will most probably represent the word ‘the.’ Upon inspection, we find no less than seven such arrangements, the characters being ;48. We may, therefore, assume that ; represents _t_, 4 represents _h_, and 8 represents _e_—the last being now well confirmed. Thus a great step has been taken.\n\n“But, having established a single word, we are enabled to establish a vastly important point; that is to say, several commencements and terminations of other words. Let us refer, for example, to the last instance but one, in which the combination ;48 occurs—not far from the end of the cipher. We know that the ; immediately ensuing is the commencement of a word, and, of the six characters succeeding this ‘the,’ we are cognizant of no less than five. Let us set these characters down, thus, by the letters we know them to represent, leaving a space for the unknown—\n\nt eeth.\n\n“Here we are enabled, at once, to discard the ‘th,’ as forming no portion of the word commencing with the first t; since, by experiment of the entire alphabet for a letter adapted to the vacancy, we perceive that no word can be formed of which this _th_ can be a part. We are thus narrowed into\n\nt ee,\n\nand, going through the alphabet, if necessary, as before, we arrive at the word ‘tree,’ as the sole possible reading."
+      },
+      "request_id": "ad3ab5b4deacd57c2b4c5ac3",
+      "request_sha256": "175b2d1bbe4c64829e32e0acb58e7c36214b307c0ad470fc79ea1e22e22675bf",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f80ae1955e479cddfa499690b79cd4aeefe69fc2ce738bcf52909a9b40455948"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3e63af5c2626b12505ebee01",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 486,
+      "passage_id": "V2_twain_connecticut_yankee_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 3e63af5c2626b12505ebee01\noriginal_word_count: 486\n\nPassage:\nWe so loudly and so earnestly proclaimed ourselves freemen, that we got the interested attention of that liberty-mouthing orator and his patriotic crowd, and they gathered about us and assumed a very determined attitude. The orator said:\n\n“If, indeed, ye are freemen, ye have nought to fear--the God-given liberties of Britain are about ye for your shield and shelter! (Applause.) Ye shall soon see. Bring forth your proofs.”\n\n“What proofs?”\n\n“Proof that ye are freemen.”\n\nAh--I remembered! I came to myself; I said nothing. But the king stormed out:\n\n“Thou'rt insane, man. It were better, and more in reason, that this thief and scoundrel here prove that we are _not_ freemen.”\n\nYou see, he knew his own laws just as other people so often know the laws; by words, not by effects. They take a _meaning_, and get to be very vivid, when you come to apply them to yourself.\n\nAll hands shook their heads and looked disappointed; some turned away, no longer interested. The orator said--and this time in the tones of business, not of sentiment:\n\n“An ye do not know your country's laws, it were time ye learned them. Ye are strangers to us; ye will not deny that. Ye may be freemen, we do not deny that; but also ye may be slaves. The law is clear: it doth not require the claimant to prove ye are slaves, it requireth you to prove ye are not.”\n\nI said:\n\n“Dear sir, give us only time to send to Astolat; or give us only time to send to the Valley of Holiness--”\n\n“Peace, good man, these are extraordinary requests, and you may not hope to have them granted. It would cost much time, and would unwarrantably inconvenience your master--”\n\n“_Master_, idiot!” stormed the king. “I have no master, I myself am the m--”\n\n“Silence, for God's sake!”\n\nI got the words out in time to stop the king. We were in trouble enough already; it could not help us any to give these people the notion that we were lunatics.\n\nThere is no use in stringing out the details. The earl put us up and sold us at auction. This same infernal law had existed in our own South in my own time, more than thirteen hundred years later, and under it hundreds of freemen who could not prove that they were freemen had been sold into lifelong slavery without the circumstance making any particular impression upon me; but the minute law and the auction block came into my personal experience, a thing which had been merely improper before became suddenly hellish. Well, that's the way we are made.\n\nYes, we were sold at auction, like swine. In a big town and an active market we should have brought a good price; but this place was utterly stagnant and so we sold at a figure which makes me ashamed, every time I think of it."
+      },
+      "request_id": "3e63af5c2626b12505ebee01",
+      "request_sha256": "eef1aa69346ef2e81affcfb9d7ab10914da6d5fb5c5c57ca4e6823c1bc0d88f7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a75ea9930e69e0035079f9d067523f431c7103b5739797fed82c8e76d5d64c17"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "27578694dfe02cccc8cbae4a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 476,
+      "passage_id": "V2_shelley_mathilda_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 27578694dfe02cccc8cbae4a\noriginal_word_count: 476\n\nPassage:\nWith a beating heart and fearful, I knew not why, I dismissed the servant and locking my door, sat down to read my father’s letter. These are the words that it contained.\n\n“My dear Child\n\n“I have betrayed your confidence; I have endeavoured to pollute your mind, and have made your innocent heart acquainted with the looks and language of unlawful and monstrous passion. I must expiate these crimes, and must endeavour in some degree to proportionate my punishment to my guilt. You are I doubt not prepared for what I am about to announce; we must seperate and be divided for ever.\n\n“I deprive you of your parent and only friend. You are cast out shelterless on the world: your hopes are blasted; the peace and security of your pure mind destroyed; memory will bring to you frightful images of guilt, and the anguish of innocent love betrayed. Yet I who draw down all this misery upon you; I who cast you forth and remorselessly have set the seal of distrust and agony on the heart and brow of my own child, who with devilish levity have endeavoured to steal away her loveliness to place in its stead the foul deformity of sin; I, in the overflowing anguish of my heart, supplicate you to forgive me.\n\n“I do not ask your pity; you must and do abhor me: but pardon me, Mathilda, and let not your thoughts follow me in my banishment with unrelenting anger. I must never more behold you; never more hear your voice; but the soft whisperings of your forgiveness will reach me and cool the burning of my disordered brain and heart; I am sure I should feel it even in my grave. And I dare enforce this request by relating how miserably I was betrayed into this net of fiery anguish and all my struggles to release myself: indeed if your soul were less pure and bright I would not attempt to exculpate myself to you; I should fear that if I led you to regard me with less abhorrence you might hate vice less: but in addressing you I feel as if I appealed to an angelic judge. I cannot depart without your forgiveness and I must endeavour to gain it, or I must despair. I conjure you therefore to listen to my words, and if with the good guilt may be in any degree extenuated by sharp agony, and remorse that rends the brain as madness perhaps you may think, though I dare not, that I have some claim to your compassion.\n\n“I entreat you to call to your remembrance our first happy life on the shores of Loch Lomond. I had arrived from a weary wandering of sixteen years, during which, although I had gone through many dangers and misfortunes, my affections had been an entire blank."
+      },
+      "request_id": "27578694dfe02cccc8cbae4a",
+      "request_sha256": "1af50cb6804c16657230847eccac3d899b746a3bc1fd0c84b84c9e1b068d0f57",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2f1c9c116a265707bad98e655cef5de017a66a485b872774c1cec2f3b775baaf"
+    }
+  ],
+  "session_id": "01a0e848-1788-74e3-94b7-8185fb822a0f",
+  "worker_id": "astra_m",
+  "worker_identity_sha256": "a661c68b1db9c5e5d4a06cab3427b000d00cd4134df771893194ef71da9b6fed"
+}

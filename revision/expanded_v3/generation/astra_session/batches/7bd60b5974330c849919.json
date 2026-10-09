@@ -1,0 +1,68 @@
+{
+  "batch_id": "7bd60b5974330c849919",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:56:21.909618+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "064b48c8c472018469861e72",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_dickens_oliver_twist_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 064b48c8c472018469861e72\noriginal_word_count: 453\n\nPassage:\n“And consider, ma’am,” said Oliver, as the tears forced themselves into his eyes, despite of his efforts to the contrary. “Oh! consider how young and good she is, and what pleasure and comfort she gives to all about her. I am sure—certain—quite certain—that, for your sake, who are so good yourself; and for her own; and for the sake of all she makes so happy; she will not die. Heaven will never let her die so young.”\n\n“Hush!” said Mrs. Maylie, laying her hand on Oliver’s head. “You think like a child, poor boy. But you teach me my duty, notwithstanding. I had forgotten it for a moment, Oliver, but I hope I may be pardoned, for I am old, and have seen enough of illness and death to know the agony of separation from the objects of our love. I have seen enough, too, to know that it is not always the youngest and best who are spared to those that love them; but this should give us comfort in our sorrow; for Heaven is just; and such things teach us, impressively, that there is a brighter world than this; and that the passage to it is speedy. God’s will be done! I love her; and He knows how well!”\n\nOliver was surprised to see that as Mrs. Maylie said these words, she checked her lamentations as though by one effort; and drawing herself up as she spoke, became composed and firm. He was still more astonished to find that this firmness lasted; and that, under all the care and watching which ensued, Mrs. Maylie was ever ready and collected: performing all the duties which had devolved upon her, steadily, and, to all external appearances, even cheerfully. But he was young, and did not know what strong minds are capable of, under trying circumstances. How should he, when their possessors so seldom know themselves?\n\nAn anxious night ensued. When morning came, Mrs. Maylie’s predictions were but too well verified. Rose was in the first stage of a high and dangerous fever.\n\n“We must be active, Oliver, and not give way to useless grief,” said Mrs. Maylie, laying her finger on her lip, as she looked steadily into his face; “this letter must be sent, with all possible expedition, to Mr. Losberne. It must be carried to the market-town: which is not more than four miles off, by the footpath across the field: and thence dispatched, by an express on horseback, straight to Chertsey. The people at the inn will undertake to do this: and I can trust to you to see it done, I know.”\n\nOliver could make no reply, but looked his anxiety to be gone at once."
+      },
+      "request_id": "064b48c8c472018469861e72",
+      "request_sha256": "4fd9804f72f41b2dbee8f0e77d92d867862c46a7dd75b31b561f9b183c4bfd03",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "346895c710b1255cae787acae15d2498b681909162229d1750d047f2698ba022"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "07296b878baa2be89f400d5d",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_dickens_great_expectations_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 07296b878baa2be89f400d5d\noriginal_word_count: 485\n\nPassage:\nIt appeared to be a collection of back lanes, ditches, and little gardens, and to present the aspect of a rather dull retirement. Wemmick’s house was a little wooden cottage in the midst of plots of garden, and the top of it was cut out and painted like a battery mounted with guns.\n\n“My own doing,” said Wemmick. “Looks pretty; don’t it?”\n\nI highly commended it, I think it was the smallest house I ever saw; with the queerest gothic windows (by far the greater part of them sham), and a gothic door almost too small to get in at.\n\n“That’s a real flagstaff, you see,” said Wemmick, “and on Sundays I run up a real flag. Then look here. After I have crossed this bridge, I hoist it up—so—and cut off the communication.”\n\nThe bridge was a plank, and it crossed a chasm about four feet wide and two deep. But it was very pleasant to see the pride with which he hoisted it up and made it fast; smiling as he did so, with a relish and not merely mechanically.\n\n“At nine o’clock every night, Greenwich time,” said Wemmick, “the gun fires. There he is, you see! And when you hear him go, I think you’ll say he’s a Stinger.”\n\nThe piece of ordnance referred to, was mounted in a separate fortress, constructed of lattice-work. It was protected from the weather by an ingenious little tarpaulin contrivance in the nature of an umbrella.\n\n“Then, at the back,” said Wemmick, “out of sight, so as not to impede the idea of fortifications,—for it’s a principle with me, if you have an idea, carry it out and keep it up,—I don’t know whether that’s your opinion—”\n\nI said, decidedly.\n\n“—At the back, there’s a pig, and there are fowls and rabbits; then, I knock together my own little frame, you see, and grow cucumbers; and you’ll judge at supper what sort of a salad I can raise. So, sir,” said Wemmick, smiling again, but seriously too, as he shook his head, “if you can suppose the little place besieged, it would hold out a devil of a time in point of provisions.”\n\nThen, he conducted me to a bower about a dozen yards off, but which was approached by such ingenious twists of path that it took quite a long time to get at; and in this retreat our glasses were already set forth. Our punch was cooling in an ornamental lake, on whose margin the bower was raised. This piece of water (with an island in the middle which might have been the salad for supper) was of a circular form, and he had constructed a fountain in it, which, when you set a little mill going and took a cork out of a pipe, played to that powerful extent that it made the back of your hand quite wet."
+      },
+      "request_id": "07296b878baa2be89f400d5d",
+      "request_sha256": "dfbc109caed8be44dee3ed6772e8ee39254515720a2aed95dc372fb04b3e6581",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "47b41a106ddb28ec6561f25de038b73903b88b4cb719f5813e61b78a2d24b99e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "dace2d461fe5762bd3f375d7",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_twain_huckleberry_finn_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: dace2d461fe5762bd3f375d7\noriginal_word_count: 452\n\nPassage:\nAnd he always let on that Peter wrote him the things; but that was a lie: he got every blessed one of them out of that young flathead that we canoed up to the steamboat.\n\nThen Mary Jane she fetched the letter her father left behind, and the king he read it out loud and cried over it. It give the dwelling-house and three thousand dollars, gold, to the girls; and it give the tanyard (which was doing a good business), along with some other houses and land (worth about seven thousand), and three thousand dollars in gold to Harvey and William, and told where the six thousand cash was hid down cellar. So these two frauds said they’d go and fetch it up, and have everything square and above-board; and told me to come with a candle. We shut the cellar door behind us, and when they found the bag they spilt it out on the floor, and it was a lovely sight, all them yaller-boys. My, the way the king’s eyes did shine! He slaps the duke on the shoulder and says:\n\n“Oh, _this_ ain’t bully nor noth’n! Oh, no, I reckon not! Why, Bilji, it beats the Nonesuch, _don’t_ it?”\n\nThe duke allowed it did. They pawed the yaller-boys, and sifted them through their fingers and let them jingle down on the floor; and the king says:\n\n“It ain’t no use talkin’; bein’ brothers to a rich dead man and representatives of furrin heirs that’s got left is the line for you and me, Bilge. Thish yer comes of trust’n to Providence. It’s the best way, in the long run. I’ve tried ’em all, and ther’ ain’t no better way.”\n\nMost everybody would a been satisfied with the pile, and took it on trust; but no, they must count it. So they counts it, and it comes out four hundred and fifteen dollars short. Says the king:\n\n“Dern him, I wonder what he done with that four hundred and fifteen dollars?”\n\nThey worried over that awhile, and ransacked all around for it. Then the duke says:\n\n“Well, he was a pretty sick man, and likely he made a mistake—I reckon that’s the way of it. The best way’s to let it go, and keep still about it. We can spare it.”\n\n“Oh, shucks, yes, we can _spare_ it. I don’t k’yer noth’n ’bout that—it’s the _count_ I’m thinkin’ about. We want to be awful square and open and above-board here, you know. We want to lug this h-yer money up stairs and count it before everybody—then ther’ ain’t noth’n suspicious. But when the dead man says ther’s six thous’n dollars, you know, we don’t want to—”"
+      },
+      "request_id": "dace2d461fe5762bd3f375d7",
+      "request_sha256": "783583f74f33a736d7ffda1fca7b2baf23192917ac50cadb46e5de2beea740a5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "39db1c71f62698af61e885b2178c1de3c44cbc97937eda2d9a98234810489156"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

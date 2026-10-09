@@ -1,0 +1,68 @@
+{
+  "batch_id": "f95128ec5cec8d7116bb",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:46:26.848234+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2615ab7cdd63b7159b48fc5c",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2615ab7cdd63b7159b48fc5c\noriginal_word_count: 463\n\nPassage:\nThe exquisite gentlemen of the finest breeding wore little pendent trinkets that chinked as they languidly moved; these golden fetters rang like precious little bells; and what with that ringing, and with the rustle of silk and brocade and fine linen, there was a flutter in the air that fanned Saint Antoine and his devouring hunger far away.\n\nDress was the one unfailing talisman and charm used for keeping all things in their places. Everybody was dressed for a Fancy Ball that was never to leave off. From the Palace of the Tuileries, through Monseigneur and the whole Court, through the Chambers, the Tribunals of Justice, and all society (except the scarecrows), the Fancy Ball descended to the Common Executioner: who, in pursuance of the charm, was required to officiate “frizzled, powdered, in a gold-laced coat, pumps, and white silk stockings.” At the gallows and the wheel--the axe was a rarity--Monsieur Paris, as it was the episcopal mode among his brother Professors of the provinces, Monsieur Orleans, and the rest, to call him, presided in this dainty dress. And who among the company at Monseigneur’s reception in that seventeen hundred and eightieth year of our Lord, could possibly doubt, that a system rooted in a frizzled hangman, powdered, gold-laced, pumped, and white-silk stockinged, would see the very stars out!\n\nMonseigneur having eased his four men of their burdens and taken his chocolate, caused the doors of the Holiest of Holiests to be thrown open, and issued forth. Then, what submission, what cringing and fawning, what servility, what abject humiliation! As to bowing down in body and spirit, nothing in that way was left for Heaven--which may have been one among other reasons why the worshippers of Monseigneur never troubled it.\n\nBestowing a word of promise here and a smile there, a whisper on one happy slave and a wave of the hand on another, Monseigneur affably passed through his rooms to the remote region of the Circumference of Truth. There, Monseigneur turned, and came back again, and so in due course of time got himself shut up in his sanctuary by the chocolate sprites, and was seen no more.\n\nThe show being over, the flutter in the air became quite a little storm, and the precious little bells went ringing downstairs. There was soon but one person left of all the crowd, and he, with his hat under his arm and his snuff-box in his hand, slowly passed among the mirrors on his way out.\n\n“I devote you,” said this person, stopping at the last door on his way, and turning in the direction of the sanctuary, “to the Devil!”\n\nWith that, he shook the snuff from his fingers as if he had shaken the dust from his feet, and quietly walked downstairs."
+      },
+      "request_id": "2615ab7cdd63b7159b48fc5c",
+      "request_sha256": "c7d22ed429adc4750c565ff1984f0a5772fcdf9300b11cc5d823fe924d1b1a42",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c63a64b8b4fe51dd12a566d6c16d2000c534835fe8499db94b93985d984f3989"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "77327c07ea61e259e45b4269",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 77327c07ea61e259e45b4269\noriginal_word_count: 450\n\nPassage:\nThe only question that seemed to trouble him was, whom to make away with; for he was not blind to the fact that murder, like the religions of the Pagan world, requires a victim as well as a priest. Not being a genius, he had no enemies, and indeed he felt that this was not the time for the gratification of any personal pique or dislike, the mission in which he was engaged being one of great and grave solemnity. He accordingly made out a list of his friends and relatives on a sheet of notepaper, and after careful consideration, decided in favour of Lady Clementina Beauchamp, a dear old lady who lived in Curzon Street, and was his own second cousin by his mother’s side. He had always been very fond of Lady Clem, as every one called her, and as he was very wealthy himself, having come into all Lord Rugby’s property when he came of age, there was no possibility of his deriving any vulgar monetary advantage by her death. In fact, the more he thought over the matter, the more she seemed to him to be just the right person, and, feeling that any delay would be unfair to Sybil, he determined to make his arrangements at once.\n\nThe first thing to be done was, of course, to settle with the cheiromantist; so he sat down at a small Sheraton writing-table that stood near the window, drew a cheque for £105, payable to the order of Mr. Septimus Podgers, and, enclosing it in an envelope, told his valet to take it to West Moon Street. He then telephoned to the stables for his hansom, and dressed to go out. As he was leaving the room he looked back at Sybil Merton’s photograph, and swore that, come what may, he would never let her know what he was doing for her sake, but would keep the secret of his self-sacrifice hidden always in his heart.\n\nOn his way to the Buckingham, he stopped at a florist’s, and sent Sybil a beautiful basket of narcissus, with lovely white petals and staring pheasants’ eyes, and on arriving at the club, went straight to the library, rang the bell, and ordered the waiter to bring him a lemon-and-soda, and a book on Toxicology. He had fully decided that poison was the best means to adopt in this troublesome business. Anything like personal violence was extremely distasteful to him, and besides, he was very anxious not to murder Lady Clementina in any way that might attract public attention, as he hated the idea of being lionised at Lady Windermere’s, or seeing his name figuring in the paragraphs of vulgar society—newspapers."
+      },
+      "request_id": "77327c07ea61e259e45b4269",
+      "request_sha256": "1ffa31cf8489afde1cb72d66d14e6f9e59dd06f972aaac4be9581224c9f63dcf",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "db9e810f4b196a4b183d9754ade2db81cfa8ff8229513a885878bdc67d3f68e2"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b5b53bc21a36cb5bbc7f20ce",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 488,
+      "passage_id": "V2_dickens_great_expectations_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: b5b53bc21a36cb5bbc7f20ce\noriginal_word_count: 488\n\nPassage:\nAnd if he asked me why I wanted it, and why I thought I had any right to it, I would tell him, little as he cared for such poor dreams, that I had loved Estella dearly and long, and that although I had lost her, and must live a bereaved life, whatever concerned her was still nearer and dearer to me than anything else in the world. And seeing that Mr. Jaggers stood quite still and silent, and apparently quite obdurate, under this appeal, I turned to Wemmick, and said, “Wemmick, I know you to be a man with a gentle heart. I have seen your pleasant home, and your old father, and all the innocent, cheerful playful ways with which you refresh your business life. And I entreat you to say a word for me to Mr. Jaggers, and to represent to him that, all circumstances considered, he ought to be more open with me!”\n\nI have never seen two men look more oddly at one another than Mr. Jaggers and Wemmick did after this apostrophe. At first, a misgiving crossed me that Wemmick would be instantly dismissed from his employment; but it melted as I saw Mr. Jaggers relax into something like a smile, and Wemmick become bolder.\n\n“What’s all this?” said Mr. Jaggers. “You with an old father, and you with pleasant and playful ways?”\n\n“Well!” returned Wemmick. “If I don’t bring ’em here, what does it matter?”\n\n“Pip,” said Mr. Jaggers, laying his hand upon my arm, and smiling openly, “this man must be the most cunning impostor in all London.”\n\n“Not a bit of it,” returned Wemmick, growing bolder and bolder. “I think you’re another.”\n\nAgain they exchanged their former odd looks, each apparently still distrustful that the other was taking him in.\n\n“_You_ with a pleasant home?” said Mr. Jaggers.\n\n“Since it don’t interfere with business,” returned Wemmick, “let it be so. Now, I look at you, sir, I shouldn’t wonder if _you_ might be planning and contriving to have a pleasant home of your own one of these days, when you’re tired of all this work.”\n\nMr. Jaggers nodded his head retrospectively two or three times, and actually drew a sigh. “Pip,” said he, “we won’t talk about ‘poor dreams;’ you know more about such things than I, having much fresher experience of that kind. But now about this other matter. I’ll put a case to you. Mind! I admit nothing.”\n\nHe waited for me to declare that I quite understood that he expressly said that he admitted nothing.\n\n“Now, Pip,” said Mr. Jaggers, “put this case. Put the case that a woman, under such circumstances as you have mentioned, held her child concealed, and was obliged to communicate the fact to her legal adviser, on his representing to her that he must know, with an eye to the latitude of his defence, how the fact stood about that child."
+      },
+      "request_id": "b5b53bc21a36cb5bbc7f20ce",
+      "request_sha256": "ff7cfc4c8e76d288f1414823a76fa7445a12e6083390ef36838cbad9bd80bf1b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7c6373c3993132036253d1c9f02873629670598c0b1e2c4217a737737fb05c9d"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

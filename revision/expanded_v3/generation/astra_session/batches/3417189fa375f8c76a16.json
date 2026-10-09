@@ -1,0 +1,68 @@
+{
+  "batch_id": "3417189fa375f8c76a16",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T07:58:41.987170+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3188698adc72fcdc6b706579",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_shelley_frankenstein_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 3188698adc72fcdc6b706579\noriginal_word_count: 470\n\nPassage:\nOnce, however, the lieutenant asked why he had come so far upon the ice in so strange a vehicle.\n\nHis countenance instantly assumed an aspect of the deepest gloom, and he replied, “To seek one who fled from me.”\n\n“And did the man whom you pursued travel in the same fashion?”\n\n“Yes.”\n\n“Then I fancy we have seen him, for the day before we picked you up we saw some dogs drawing a sledge, with a man in it, across the ice.”\n\nThis aroused the stranger’s attention, and he asked a multitude of questions concerning the route which the dæmon, as he called him, had pursued. Soon after, when he was alone with me, he said, “I have, doubtless, excited your curiosity, as well as that of these good people; but you are too considerate to make inquiries.”\n\n“Certainly; it would indeed be very impertinent and inhuman in me to trouble you with any inquisitiveness of mine.”\n\n“And yet you rescued me from a strange and perilous situation; you have benevolently restored me to life.”\n\nSoon after this he inquired if I thought that the breaking up of the ice had destroyed the other sledge. I replied that I could not answer with any degree of certainty, for the ice had not broken until near midnight, and the traveller might have arrived at a place of safety before that time; but of this I could not judge.\n\nFrom this time a new spirit of life animated the decaying frame of the stranger. He manifested the greatest eagerness to be upon deck to watch for the sledge which had before appeared; but I have persuaded him to remain in the cabin, for he is far too weak to sustain the rawness of the atmosphere. I have promised that someone should watch for him and give him instant notice if any new object should appear in sight.\n\nSuch is my journal of what relates to this strange occurrence up to the present day. The stranger has gradually improved in health but is very silent and appears uneasy when anyone except myself enters his cabin. Yet his manners are so conciliating and gentle that the sailors are all interested in him, although they have had very little communication with him. For my own part, I begin to love him as a brother, and his constant and deep grief fills me with sympathy and compassion. He must have been a noble creature in his better days, being even now in wreck so attractive and amiable.\n\nI said in one of my letters, my dear Margaret, that I should find no friend on the wide ocean; yet I have found a man who, before his spirit had been broken by misery, I should have been happy to have possessed as the brother of my heart."
+      },
+      "request_id": "3188698adc72fcdc6b706579",
+      "request_sha256": "f0bdc0fb4896480ee470661890937b9dfce85e29b07b540f13516d55f83d58e2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7fe6d1075336dc0d118394fdf9d80399a110ee9fad2f68bfd1796d753b8b8830"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "13cf93008af0406566bb5c2a",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_wilde_canterville_ghost_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 13cf93008af0406566bb5c2a\noriginal_word_count: 471\n\nPassage:\nJust as they were passing out of the dining-room, midnight began to boom from the clock tower, and when the last stroke sounded they heard a crash and a sudden shrill cry; a dreadful peal of thunder shook the house, a strain of unearthly music floated through the air, a panel at the top of the staircase flew back with a loud noise, and out on the landing, looking very pale and white, with a little casket in her hand, stepped Virginia. In a moment they had all rushed up to her. Mrs. Otis clasped her passionately in her arms, the Duke smothered her with violent kisses, and the twins executed a wild war-dance round the group.\n\n‘Good heavens! child, where have you been?’ said Mr. Otis, rather angrily, thinking that she had been playing some foolish trick on them. ‘Cecil and I have been riding all over the country looking for you, and your mother has been frightened to death. You must never play these practical jokes any more.’\n\n‘Except on the Ghost! except on the Ghost!’ shrieked the twins, as they capered about.\n\n‘My own darling, thank God you are found; you must never leave my side again,’ murmured Mrs. Otis, as she kissed the trembling child, and smoothed the tangled gold of her hair.\n\n‘Papa,’ said Virginia quietly, ‘I have been with the Ghost. He is dead, and you must come and see him. He had been very wicked, but he was really sorry for all that he had done, and he gave me this box of beautiful jewels before he died.’\n\nThe whole family gazed at her in mute amazement, but she was quite grave and serious; and, turning round, she led them through the opening in the wainscoting down a narrow secret corridor, Washington following with a lighted candle, which he had caught up from the table. Finally, they came to a great oak door, studded with rusty nails. When Virginia touched it, it swung back on its heavy hinges, and they found themselves in a little low room, with a vaulted ceiling, and one tiny grated window. Imbedded in the wall was a huge iron ring, and chained to it was a gaunt skeleton, that was stretched out at full length on the stone floor, and seemed to be trying to grasp with its long fleshless fingers an old-fashioned trencher and ewer, that were placed just out of its reach. The jug had evidently been once filled with water, as it was covered inside with green mould. There was nothing on the trencher but a pile of dust. Virginia knelt down beside the skeleton, and, folding her little hands together, began to pray silently, while the rest of the party looked on in wonder at the terrible tragedy whose secret was now disclosed to them."
+      },
+      "request_id": "13cf93008af0406566bb5c2a",
+      "request_sha256": "9f3be43ffb7ceb9949c754283bfe31deca2ad04318333d3971fb5710d0aa22f3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a5314ef4398a30eb236ef4621b7cf64008d98a0aa1e43df1c98b489851992e1f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2820a4d31a0f4bc66aea6b6a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_shelley_the_last_man_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 2820a4d31a0f4bc66aea6b6a\noriginal_word_count: 453\n\nPassage:\nHis account was, that, journeying from his home, and passing through Datchet, he was surprised to see smoke issue from the chimney of the inn, and supposing that he should find comrades for his journey assembled there, he knocked and was admitted. There was no one in the house but Lucy, and her mother; the latter had been deprived of the use of her limbs by an attack of rheumatism, and so, one by one, all the remaining inhabitants of the country set forward, leaving them alone. Lucy intreated the man to stay with her; in a week or two her mother would be better, and they would then set out; but they must perish, if they were left thus helpless and forlorn. The man said, that his wife and children were already among the emigrants, and it was therefore, according to his notion, impossible for him to remain. Lucy, as a last resource, gave him a letter for Idris, to be delivered to her wherever he should meet us. This commission at least he fulfilled, and Idris received with emotion the following letter:—\n\n“HONOURED LADY,\n\n“I am sure that you will remember and pity me, and I dare hope that you will assist me; what other hope have I? Pardon my manner of writing, I am so bewildered. A month ago my dear mother was deprived of the use of her limbs. She is already better, and in another month would I am sure be able to travel, in the way you were so kind as to say you would arrange for us. But now everybody is gone—everybody—as they went away, each said, that perhaps my mother would be better, before we were quite deserted. But three days ago I went to Samuel Woods, who, on account of his new-born child, remained to the last; and there being a large family of them, I thought I could persuade them to wait a little longer for us; but I found the house deserted. I have not seen a soul since, till this good man came. —What will become of us? My mother does not know our state; she is so ill, that I have hidden it from her.\n\n“Will you not send some one to us? I am sure we must perish miserably as we are. If I were to try to move my mother now, she would die on the road; and if, when she gets better, I were able, I cannot guess how, to find out the roads, and get on so many many miles to the sea, you would all be in France, and the great ocean would be between us, which is so terrible even to sailors."
+      },
+      "request_id": "2820a4d31a0f4bc66aea6b6a",
+      "request_sha256": "70b0849c7dd2f3f23f23827efeb97ecb4fe92c4fbd63b639ce6e336ebee85ead",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "04a8b46838ea565ec31588527c010cf03c35f0f05e7119dde4c05f68bc8a7d6a"
+    }
+  ],
+  "session_id": "01a0e1dc-5c35-7b31-a9b6-a38e1d6af01b",
+  "worker_id": "astra_a",
+  "worker_identity_sha256": "1dbcb4b943cd599b768ad84fa4e0ccc355a69f663720cc130c5d030c1b9e8505"
+}

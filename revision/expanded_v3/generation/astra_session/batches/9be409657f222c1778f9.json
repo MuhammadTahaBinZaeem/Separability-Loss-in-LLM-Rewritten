@@ -1,0 +1,68 @@
+{
+  "batch_id": "9be409657f222c1778f9",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:05:09.731989+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7021ca4b0eeac09d5f219991",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_austen_pride_and_prejudice_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 7021ca4b0eeac09d5f219991\noriginal_word_count: 453\n\nPassage:\nJane confessed herself a little surprised at the match: but she said less of her astonishment than of her earnest desire for their happiness; nor could Elizabeth persuade her to consider it as improbable. Kitty and Lydia were far from envying Miss Lucas, for Mr. Collins was only a clergyman; and it affected them in no other way than as a piece of news to spread at Meryton.\n\nLady Lucas could not be insensible of triumph on being able to retort on Mrs. Bennet the comfort of having a daughter well married; and she called at Longbourn rather oftener than usual to say how happy she was, though Mrs. Bennet’s sour looks and ill-natured remarks might have been enough to drive happiness away.\n\nBetween Elizabeth and Charlotte there was a restraint which kept them mutually silent on the subject; and Elizabeth felt persuaded that no real confidence could ever subsist between them again. Her disappointment in Charlotte made her turn with fonder regard to her sister, of whose rectitude and delicacy she was sure her opinion could never be shaken, and for whose happiness she grew daily more anxious, as Bingley had now been gone a week, and nothing was heard of his return.\n\nJane had sent Caroline an early answer to her letter, and was counting the days till she might reasonably hope to hear again. The promised letter of thanks from Mr. Collins arrived on Tuesday, addressed to their father, and written with all the solemnity of gratitude which a twelve-month’s abode in the family might have prompted. After discharging his conscience on that head, he proceeded to inform them, with many rapturous expressions, of his happiness in having obtained the affection of their amiable neighbour, Miss Lucas, and then explained that it was merely with the view of enjoying her society that he had been so ready to close with their kind wish of seeing him again at Longbourn, whither he hoped to be able to return on Monday fortnight; for Lady Catherine, he added, so heartily approved his marriage, that she wished it to take place as soon as possible, which he trusted would be an unanswerable argument with his amiable Charlotte to name an early day for making him the happiest of men.\n\nMr. Collins’s return into Hertfordshire was no longer a matter of pleasure to Mrs. Bennet. On the contrary, she was as much disposed to complain of it as her husband. It was very strange that he should come to Longbourn instead of to Lucas Lodge; it was also very inconvenient and exceedingly troublesome. She hated having visitors in the house while her health was so indifferent, and lovers were of all people the most disagreeable."
+      },
+      "request_id": "7021ca4b0eeac09d5f219991",
+      "request_sha256": "89593545f9725afdaced8371725c9b7b5a230593c2b330f1b0b286483e412d78",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "43fb06a7d0238249cbaa4e7ae5d62ea0153c66fa80d62bf9c0370d37c85b595e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8d8aa2813d1fae068e5ffd68",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_poe_hans_pfaal_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8d8aa2813d1fae068e5ffd68\noriginal_word_count: 465\n\nPassage:\n“How long I remained in this state it is impossible to say. It must, however, have been no inconsiderable time, for when I partially recovered the sense of existence, I found the day breaking, the balloon at a prodigious height over a wilderness of ocean, and not a trace of land to be discovered far and wide within the limits of the vast horizon. My sensations, however, upon thus recovering, were by no means so rife with agony as might have been anticipated. Indeed, there was much of incipient madness in the calm survey which I began to take of my situation. I drew up to my eyes each of my hands, one after the other, and wondered what occurrence could have given rise to the swelling of the veins, and the horrible blackness of the fingernails. I afterward carefully examined my head, shaking it repeatedly, and feeling it with minute attention, until I succeeded in satisfying myself that it was not, as I had more than half suspected, larger than my balloon. Then, in a knowing manner, I felt in both my breeches pockets, and, missing therefrom a set of tablets and a toothpick case, endeavored to account for their disappearance, and not being able to do so, felt inexpressibly chagrined. It now occurred to me that I suffered great uneasiness in the joint of my left ankle, and a dim consciousness of my situation began to glimmer through my mind. But, strange to say! I was neither astonished nor horror-stricken. If I felt any emotion at all, it was a kind of chuckling satisfaction at the cleverness I was about to display in extricating myself from this dilemma; and I never, for a moment, looked upon my ultimate safety as a question susceptible of doubt. For a few minutes I remained wrapped in the profoundest meditation. I have a distinct recollection of frequently compressing my lips, putting my forefinger to the side of my nose, and making use of other gesticulations and grimaces common to men who, at ease in their arm-chairs, meditate upon matters of intricacy or importance. Having, as I thought, sufficiently collected my ideas, I now, with great caution and deliberation, put my hands behind my back, and unfastened the large iron buckle which belonged to the waistband of my inexpressibles. This buckle had three teeth, which, being somewhat rusty, turned with great difficulty on their axis. I brought them, however, after some trouble, at right angles to the body of the buckle, and was glad to find them remain firm in that position. Holding the instrument thus obtained within my teeth, I now proceeded to untie the knot of my cravat. I had to rest several times before I could accomplish this manoeuvre, but it was at length accomplished."
+      },
+      "request_id": "8d8aa2813d1fae068e5ffd68",
+      "request_sha256": "282685653a3b0f23cc4e8d4bbc4cacdbef4b6c626b02a9c38f89c1408b4e70eb",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "88ff66b1de1f6364101ecb31624288259517efb95daa576216eb1e43c9217053"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "53f16f24e33bd5a4c3306204",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_wilde_canterville_ghost_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 53f16f24e33bd5a4c3306204\noriginal_word_count: 452\n\nPassage:\nMany American ladies on leaving their native land adopt an appearance of chronic ill-health, under the impression that it is a form of European refinement, but Mrs. Otis had never fallen into this error. She had a magnificent constitution, and a really wonderful amount of animal spirits. Indeed, in many respects, she was quite English, and was an excellent example of the fact that we have really everything in common with America nowadays, except, of course, language. Her eldest son, christened Washington by his parents in a moment of patriotism, which he never ceased to regret, was a fair-haired, rather good-looking young man, who had qualified himself for American diplomacy by leading the German at the Newport Casino for three successive seasons, and even in London was well known as an excellent dancer. Gardenias and the peerage were his only weaknesses. Otherwise he was extremely sensible. Miss Virginia E. Otis was a little girl of fifteen, lithe and lovely as a fawn, and with a fine freedom in her large blue eyes. She was a wonderful amazon, and had once raced old Lord Bilton on her pony twice round the park, winning by a length and a half, just in front of the Achilles statue, to the huge delight of the young Duke of Cheshire, who proposed for her on the spot, and was sent back to Eton that very night by his guardians, in floods of tears. After Virginia came the twins, who were usually called ‘The Stars and Stripes,’ as they were always getting swished. They were delightful boys, and with the exception of the worthy Minister the only true republicans of the family.\n\nAs Canterville Chase is seven miles from Ascot, the nearest railway station, Mr. Otis had telegraphed for a waggonette to meet them, and they started on their drive in high spirits. It was a lovely July evening, and the air was delicate with the scent of the pine-woods. Now and then they heard a wood pigeon brooding over its own sweet voice, or saw, deep in the rustling fern, the burnished breast of the pheasant. Little squirrels peered at them from the beech-trees as they went by, and the rabbits scudded away through the brushwood and over the mossy knolls, with their white tails in the air. As they entered the avenue of Canterville Chase, however, the sky became suddenly overcast with clouds, a curious stillness seemed to hold the atmosphere, a great flight of rooks passed silently over their heads, and, before they reached the house, some big drops of rain had fallen.\n\nStanding on the steps to receive them was an old woman, neatly dressed in black silk, with a white cap and apron."
+      },
+      "request_id": "53f16f24e33bd5a4c3306204",
+      "request_sha256": "25faa897fa7bf51a4595ae3b70c23880c82fbef5c0e513f8dc9dedc1da55ab60",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6837fead73c95d837c3af7d786fbacafb433408c3e1cf713bf2bd4cc87965d05"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

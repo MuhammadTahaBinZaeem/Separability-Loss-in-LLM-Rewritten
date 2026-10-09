@@ -1,0 +1,68 @@
+{
+  "batch_id": "42421fca9b055dd088ac",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T07:59:08.757951+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7c5c3c82f15c940fa99f6565",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_dickens_oliver_twist_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 7c5c3c82f15c940fa99f6565\noriginal_word_count: 460\n\nPassage:\n“What’s the matter?” demanded Oliver.\n\n“Hush!” replied the Dodger. “Do you see that old cove at the book-stall?”\n\n“The old gentleman over the way?” said Oliver. “Yes, I see him.”\n\n“He’ll do,” said the Dodger.\n\n“A prime plant,” observed Master Charley Bates.\n\nOliver looked from one to the other, with the greatest surprise; but he was not permitted to make any inquiries; for the two boys walked stealthily across the road, and slunk close behind the old gentleman towards whom his attention had been directed. Oliver walked a few paces after them; and, not knowing whether to advance or retire, stood looking on in silent amazement.\n\nThe old gentleman was a very respectable-looking personage, with a powdered head and gold spectacles. He was dressed in a bottle-green coat with a black velvet collar; wore white trousers; and carried a smart bamboo cane under his arm. He had taken up a book from the stall, and there he stood, reading away, as hard as if he were in his elbow-chair, in his own study. It is very possible that he fancied himself there, indeed; for it was plain, from his abstraction, that he saw not the book-stall, nor the street, nor the boys, nor, in short, anything but the book itself: which he was reading straight through: turning over the leaf when he got to the bottom of a page, beginning at the top line of the next one, and going regularly on, with the greatest interest and eagerness.\n\nWhat was Oliver’s horror and alarm as he stood a few paces off, looking on with his eyelids as wide open as they would possibly go, to see the Dodger plunge his hand into the old gentleman’s pocket, and draw from thence a handkerchief! To see him hand the same to Charley Bates; and finally to behold them, both running away round the corner at full speed!\n\nIn an instant the whole mystery of the hankerchiefs, and the watches, and the jewels, and the Jew, rushed upon the boy’s mind.\n\nHe stood, for a moment, with the blood so tingling through all his veins from terror, that he felt as if he were in a burning fire; then, confused and frightened, he took to his heels; and, not knowing what he did, made off as fast as he could lay his feet to the ground.\n\nThis was all done in a minute’s space. In the very instant when Oliver began to run, the old gentleman, putting his hand to his pocket, and missing his handkerchief, turned sharp round. Seeing the boy scudding away at such a rapid pace, he very naturally concluded him to be the depredator; and shouting “Stop thief!” with all his might, made off after him, book in hand."
+      },
+      "request_id": "7c5c3c82f15c940fa99f6565",
+      "request_sha256": "39ffe54c2fa322d9f98cc4645b732cf6510f918b33549e93df660f3c71bdb399",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "34da19b31d93424e0543a9c41b3e7c0371843b5834c0e6c500060d12a72f2527"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b529937dac0f775b11edee6e",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: b529937dac0f775b11edee6e\noriginal_word_count: 460\n\nPassage:\n_PS._—Do tell me about the bows. Jennings insists they are the fashion.\n\nLord Arthur looked so serious and unhappy over the letter, that the Duchess went into fits of laughter.\n\n‘My dear Arthur,’ she cried, ‘I shall never show you a young lady’s letter again! But what shall I say about the clock? I think it is a capital invention, and I should like to have one myself.’\n\n‘I don’t think much of them,’ said Lord Arthur, with a sad smile, and, after kissing his mother, he left the room.\n\nWhen he got upstairs, he flung himself on a sofa, and his eyes filled with tears. He had done his best to commit this murder, but on both occasions he had failed, and through no fault of his own. He had tried to do his duty, but it seemed as if Destiny herself had turned traitor. He was oppressed with the sense of the barrenness of good intentions, of the futility of trying to be fine. Perhaps, it would be better to break off the marriage altogether. Sybil would suffer, it is true, but suffering could not really mar a nature so noble as hers. As for himself, what did it matter? There is always some war in which a man can die, some cause to which a man can give his life, and as life had no pleasure for him, so death had no terror. Let Destiny work out his doom. He would not stir to help her.\n\nAt half-past seven he dressed, and went down to the club. Surbiton was there with a party of young men, and he was obliged to dine with them. Their trivial conversation and idle jests did not interest him, and as soon as coffee was brought he left them, inventing some engagement in order to get away. As he was going out of the club, the hall-porter handed him a letter. It was from Herr Winckelkopf, asking him to call down the next evening, and look at an explosive umbrella, that went off as soon as it was opened. It was the very latest invention, and had just arrived from Geneva. He tore the letter up into fragments. He had made up his mind not to try any more experiments. Then he wandered down to the Thames Embankment, and sat for hours by the river. The moon peered through a mane of tawny clouds, as if it were a lion’s eye, and innumerable stars spangled the hollow vault, like gold dust powdered on a purple dome. Now and then a barge swung out into the turbid stream, and floated away with the tide, and the railway signals changed from green to scarlet as the trains ran shrieking across the bridge."
+      },
+      "request_id": "b529937dac0f775b11edee6e",
+      "request_sha256": "c25c1fec5b8a41bb117fc0016d5ff6334aaa0a88d80fb32633f1b0b004b4f116",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6874677e23e5c98c69f9ae4f285d75a859e74ab4a018e851f0395e20ccc74a92"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "bb7e5b70ed047b83750f2dfb",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_shelley_frankenstein_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: bb7e5b70ed047b83750f2dfb\noriginal_word_count: 485\n\nPassage:\nYou will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings. I arrived here yesterday, and my first task is to assure my dear sister of my welfare and increasing confidence in the success of my undertaking.\n\nI am already far north of London, and as I walk in the streets of Petersburgh, I feel a cold northern breeze play upon my cheeks, which braces my nerves and fills me with delight. Do you understand this feeling? This breeze, which has travelled from the regions towards which I am advancing, gives me a foretaste of those icy climes. Inspirited by this wind of promise, my daydreams become more fervent and vivid. I try in vain to be persuaded that the pole is the seat of frost and desolation; it ever presents itself to my imagination as the region of beauty and delight. There, Margaret, the sun is for ever visible, its broad disk just skirting the horizon and diffusing a perpetual splendour. There—for with your leave, my sister, I will put some trust in preceding navigators—there snow and frost are banished; and, sailing over a calm sea, we may be wafted to a land surpassing in wonders and in beauty every region hitherto discovered on the habitable globe. Its productions and features may be without example, as the phenomena of the heavenly bodies undoubtedly are in those undiscovered solitudes. What may not be expected in a country of eternal light? I may there discover the wondrous power which attracts the needle and may regulate a thousand celestial observations that require only this voyage to render their seeming eccentricities consistent for ever. I shall satiate my ardent curiosity with the sight of a part of the world never before visited, and may tread a land never before imprinted by the foot of man. These are my enticements, and they are sufficient to conquer all fear of danger or death and to induce me to commence this laborious voyage with the joy a child feels when he embarks in a little boat, with his holiday mates, on an expedition of discovery up his native river. But supposing all these conjectures to be false, you cannot contest the inestimable benefit which I shall confer on all mankind, to the last generation, by discovering a passage near the pole to those countries, to reach which at present so many months are requisite; or by ascertaining the secret of the magnet, which, if at all possible, can only be effected by an undertaking such as mine.\n\nThese reflections have dispelled the agitation with which I began my letter, and I feel my heart glow with an enthusiasm which elevates me to heaven, for nothing contributes so much to tranquillise the mind as a steady purpose—a point on which the soul may fix its intellectual eye."
+      },
+      "request_id": "bb7e5b70ed047b83750f2dfb",
+      "request_sha256": "68d2ea2e89384d7442ec7e2871325c53853b7086eb10c5a23d270868e07f4f82",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "323db304ef1240228a6a7a8acc5e31aaf7d34aff0beb42a71bb899faefb0a9da"
+    }
+  ],
+  "session_id": "01a0e1dc-db77-7ca2-a44b-20de81379df6",
+  "worker_id": "astra_c",
+  "worker_identity_sha256": "85385f96362fb7155bec4ef09a1c5c0d6a7ab633c57687871b698abad7715535"
+}

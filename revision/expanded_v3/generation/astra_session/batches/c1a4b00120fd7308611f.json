@@ -1,0 +1,68 @@
+{
+  "batch_id": "c1a4b00120fd7308611f",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:00:02.599374+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "69c1fe34e97be75fc3d6a080",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_twain_connecticut_yankee_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 69c1fe34e97be75fc3d6a080\noriginal_word_count: 465\n\nPassage:\nI ran and took her in my arms, and lavished caresses upon her and said, beseechingly:\n\n“Speak, darling, speak! What is it?”\n\nHer head fell limp upon my bosom, and she gasped, almost inaudibly:\n\n“HELLO-CENTRAL!”\n\n“Quick!” I shouted to Clarence; “telephone the king's homeopath to come!”\n\nIn two minutes I was kneeling by the child's crib, and Sandy was dispatching servants here, there, and everywhere, all over the palace. I took in the situation almost at a glance--membranous croup! I bent down and whispered:\n\n“Wake up, sweetheart! Hello-Central.”\n\nShe opened her soft eyes languidly, and made out to say:\n\n“Papa.”\n\nThat was a comfort. She was far from dead yet. I sent for preparations of sulphur, I rousted out the croup-kettle myself; for I don't sit down and wait for doctors when Sandy or the child is sick. I knew how to nurse both of them, and had had experience. This little chap had lived in my arms a good part of its small life, and often I could soothe away its troubles and get it to laugh through the tear-dews on its eye-lashes when even its mother couldn't.\n\nSir Launcelot, in his richest armor, came striding along the great hall now on his way to the stock-board; he was president of the stock-board, and occupied the Siege Perilous, which he had bought of Sir Galahad; for the stock-board consisted of the Knights of the Round Table, and they used the Round Table for business purposes now. Seats at it were worth--well, you would never believe the figure, so it is no use to state it. Sir Launcelot was a bear, and he had put up a corner in one of the new lines, and was just getting ready to squeeze the shorts to-day; but what of that? He was the same old Launcelot, and when he glanced in as he was passing the door and found out that his pet was sick, that was enough for him; bulls and bears might fight it out their own way for all him, he would come right in here and stand by little Hello-Central for all he was worth. And that was what he did. He shied his helmet into the corner, and in half a minute he had a new wick in the alcohol lamp and was firing up on the croup-kettle. By this time Sandy had built a blanket canopy over the crib, and everything was ready.\n\nSir Launcelot got up steam, he and I loaded up the kettle with unslaked lime and carbolic acid, with a touch of lactic acid added thereto, then filled the thing up with water and inserted the steam-spout under the canopy. Everything was ship-shape now, and we sat down on either side of the crib to stand our watch."
+      },
+      "request_id": "69c1fe34e97be75fc3d6a080",
+      "request_sha256": "91cdbcc6b5ac5925151eeca4ad67e99092d52c64580929394aa9a01dca493917",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2f2b8efaf98d13e397bb22f6632907fcc010c5503d9db9aa0a2075074112c54b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "80d10226d6f7aef50e306251",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_dickens_great_expectations_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 80d10226d6f7aef50e306251\noriginal_word_count: 471\n\nPassage:\n“Unless you call Miss Havisham a he. And I doubt if even you’ll go so far as that.”\n\n“Miss Havisham, up town?” said Joe.\n\n“Is there any Miss Havisham down town?” returned my sister.\n\n“She wants this boy to go and play there. And of course he’s going. And he had better play there,” said my sister, shaking her head at me as an encouragement to be extremely light and sportive, “or I’ll work him.”\n\nI had heard of Miss Havisham up town,—everybody for miles round had heard of Miss Havisham up town,—as an immensely rich and grim lady who lived in a large and dismal house barricaded against robbers, and who led a life of seclusion.\n\n“Well to be sure!” said Joe, astounded. “I wonder how she come to know Pip!”\n\n“Noodle!” cried my sister. “Who said she knew him?”\n\n“—Which some individual,” Joe again politely hinted, “mentioned that she wanted him to go and play there.”\n\n“And couldn’t she ask Uncle Pumblechook if he knew of a boy to go and play there? Isn’t it just barely possible that Uncle Pumblechook may be a tenant of hers, and that he may sometimes—we won’t say quarterly or half-yearly, for that would be requiring too much of you—but sometimes—go there to pay his rent? And couldn’t she then ask Uncle Pumblechook if he knew of a boy to go and play there? And couldn’t Uncle Pumblechook, being always considerate and thoughtful for us—though you may not think it, Joseph,” in a tone of the deepest reproach, as if he were the most callous of nephews, “then mention this boy, standing Prancing here”—which I solemnly declare I was not doing—“that I have for ever been a willing slave to?”\n\n“Good again!” cried Uncle Pumblechook. “Well put! Prettily pointed! Good indeed! Now Joseph, you know the case.”\n\n“No, Joseph,” said my sister, still in a reproachful manner, while Joe apologetically drew the back of his hand across and across his nose, “you do not yet—though you may not think it—know the case. You may consider that you do, but you do _not_, Joseph. For you do not know that Uncle Pumblechook, being sensible that for anything we can tell, this boy’s fortune may be made by his going to Miss Havisham’s, has offered to take him into town to-night in his own chaise-cart, and to keep him to-night, and to take him with his own hands to Miss Havisham’s to-morrow morning. And Lor-a-mussy me!” cried my sister, casting off her bonnet in sudden desperation, “here I stand talking to mere Mooncalfs, with Uncle Pumblechook waiting, and the mare catching cold at the door, and the boy grimed with crock and dirt from the hair of his head to the sole of his foot!”"
+      },
+      "request_id": "80d10226d6f7aef50e306251",
+      "request_sha256": "161cec6ab77b2f146042bb6b58128cebb74f06a1eb8218f5f9a778296ee63be4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "30a519f0dd064537d6ec76b4154feb58ee62a3dc4870baf33d16e31e2ae36f9d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "79a12be0fc0cc7ce814f1a96",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_wilde_dorian_gray_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 79a12be0fc0cc7ce814f1a96\noriginal_word_count: 455\n\nPassage:\nHe shivered and went back, closing the window behind him.\n\nHaving reached the door, he turned the key and opened it. He did not even glance at the murdered man. He felt that the secret of the whole thing was not to realize the situation. The friend who had painted the fatal portrait to which all his misery had been due had gone out of his life. That was enough.\n\nThen he remembered the lamp. It was a rather curious one of Moorish workmanship, made of dull silver inlaid with arabesques of burnished steel, and studded with coarse turquoises. Perhaps it might be missed by his servant, and questions would be asked. He hesitated for a moment, then he turned back and took it from the table. He could not help seeing the dead thing. How still it was! How horribly white the long hands looked! It was like a dreadful wax image.\n\nHaving locked the door behind him, he crept quietly downstairs. The woodwork creaked and seemed to cry out as if in pain. He stopped several times and waited. No: everything was still. It was merely the sound of his own footsteps.\n\nWhen he reached the library, he saw the bag and coat in the corner. They must be hidden away somewhere. He unlocked a secret press that was in the wainscoting, a press in which he kept his own curious disguises, and put them into it. He could easily burn them afterwards. Then he pulled out his watch. It was twenty minutes to two.\n\nHe sat down and began to think. Every year—every month, almost—men were strangled in England for what he had done. There had been a madness of murder in the air. Some red star had come too close to the earth.... And yet, what evidence was there against him? Basil Hallward had left the house at eleven. No one had seen him come in again. Most of the servants were at Selby Royal. His valet had gone to bed.... Paris! Yes. It was to Paris that Basil had gone, and by the midnight train, as he had intended. With his curious reserved habits, it would be months before any suspicions would be roused. Months! Everything could be destroyed long before then.\n\nA sudden thought struck him. He put on his fur coat and hat and went out into the hall. There he paused, hearing the slow heavy tread of the policeman on the pavement outside and seeing the flash of the bull’s-eye reflected in the window. He waited and held his breath.\n\nAfter a few moments he drew back the latch and slipped out, shutting the door very gently behind him. Then he began ringing the bell."
+      },
+      "request_id": "79a12be0fc0cc7ce814f1a96",
+      "request_sha256": "bfc1c2849bacdc9d8fa6ae86e9ff26ff646ac5c346f5b3fc2b63c33ea4011b11",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "39da1a280f19cb2dab7cf7dcdf80f25667c963d9090d9cac8546d16028022b40"
+    }
+  ],
+  "session_id": "01a0e848-1788-74e3-94b7-8185fb822a0f",
+  "worker_id": "astra_m",
+  "worker_identity_sha256": "a661c68b1db9c5e5d4a06cab3427b000d00cd4134df771893194ef71da9b6fed"
+}

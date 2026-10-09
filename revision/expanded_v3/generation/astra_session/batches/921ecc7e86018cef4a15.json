@@ -1,0 +1,68 @@
+{
+  "batch_id": "921ecc7e86018cef4a15",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:44:15.950991+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "bdfab2fe81c24bffc4002355",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 486,
+      "passage_id": "V2_twain_connecticut_yankee_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: bdfab2fe81c24bffc4002355\noriginal_word_count: 486\n\nPassage:\nSmallpox!\n\nI sprang to the king, and said in his ear:\n\n“Out of the door on the instant, sire! the woman is dying of that disease that wasted the skirts of Camelot two years ago.”\n\nHe did not budge.\n\n“Of a truth I shall remain--and likewise help.”\n\nI whispered again:\n\n“King, it must not be. You must go.”\n\n“Ye mean well, and ye speak not unwisely. But it were shame that a king should know fear, and shame that belted knight should withhold his hand where be such as need succor. Peace, I will not go. It is you who must go. The Church's ban is not upon me, but it forbiddeth you to be here, and she will deal with you with a heavy hand an word come to her of your trespass.”\n\nIt was a desperate place for him to be in, and might cost him his life, but it was no use to argue with him. If he considered his knightly honor at stake here, that was the end of argument; he would stay, and nothing could prevent it; I was aware of that. And so I dropped the subject. The woman spoke:\n\n“Fair sir, of your kindness will ye climb the ladder there, and bring me news of what ye find? Be not afraid to report, for times can come when even a mother's heart is past breaking --being already broke.”\n\n“Abide,” said the king, “and give the woman to eat. I will go.” And he put down the knapsack.\n\nI turned to start, but the king had already started. He halted, and looked down upon a man who lay in a dim light, and had not noticed us thus far, or spoken.\n\n“Is it your husband?” the king asked.\n\n“Yes.”\n\n“Is he asleep?”\n\n“God be thanked for that one charity, yes--these three hours. Where shall I pay to the full, my gratitude! for my heart is bursting with it for that sleep he sleepeth now.”\n\nI said:\n\n“We will be careful. We will not wake him.”\n\n“Ah, no, that ye will not, for he is dead.”\n\n“Dead?”\n\n“Yes, what triumph it is to know it! None can harm him, none insult him more. He is in heaven now, and happy; or if not there, he bides in hell and is content; for in that place he will find neither abbot nor yet bishop. We were boy and girl together; we were man and wife these five and twenty years, and never separated till this day. Think how long that is to love and suffer together. This morning was he out of his mind, and in his fancy we were boy and girl again and wandering in the happy fields; and so in that innocent glad converse wandered he far and farther, still lightly gossiping, and entered into those other fields we know not of, and was shut away from mortal sight."
+      },
+      "request_id": "bdfab2fe81c24bffc4002355",
+      "request_sha256": "59e73604086b7d28efd52cb5329cf307c44b26fdd3d55d5f78421f0d3d695a2a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "06c02d17f4b81b6dc7580de916b35c535b89efb3cb53ccd00c6431c003427efd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c1ba653c0906f64e4004ca7c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V2_poe_hans_pfaal_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: c1ba653c0906f64e4004ca7c\noriginal_word_count: 458\n\nPassage:\n“The stupor and surprise produced in my mind by this extraordinary change in the posture of affairs was perhaps, after all, that part of the adventure least susceptible of explanation. For the bouleversement in itself was not only natural and inevitable, but had been long actually anticipated as a circumstance to be expected whenever I should arrive at that exact point of my voyage where the attraction of the planet should be superseded by the attraction of the satellite—or, more precisely, where the gravitation of the balloon toward the earth should be less powerful than its gravitation toward the moon. To be sure I arose from a sound slumber, with all my senses in confusion, to the contemplation of a very startling phenomenon, and one which, although expected, was not expected at the moment. The revolution itself must, of course, have taken place in an easy and gradual manner, and it is by no means clear that, had I even been awake at the time of the occurrence, I should have been made aware of it by any internal evidence of an inversion—that is to say, by any inconvenience or disarrangement, either about my person or about my apparatus.\n\n“It is almost needless to say that, upon coming to a due sense of my situation, and emerging from the terror which had absorbed every faculty of my soul, my attention was, in the first place, wholly directed to the contemplation of the general physical appearance of the moon. It lay beneath me like a chart—and although I judged it to be still at no inconsiderable distance, the indentures of its surface were defined to my vision with a most striking and altogether unaccountable distinctness. The entire absence of ocean or sea, and indeed of any lake or river, or body of water whatsoever, struck me, at first glance, as the most extraordinary feature in its geological condition. Yet, strange to say, I beheld vast level regions of a character decidedly alluvial, although by far the greater portion of the hemisphere in sight was covered with innumerable volcanic mountains, conical in shape, and having more the appearance of artificial than of natural protuberance. The highest among them does not exceed three and three-quarter miles in perpendicular elevation; but a map of the volcanic districts of the Campi Phlegraei would afford to your Excellencies a better idea of their general surface than any unworthy description I might think proper to attempt. The greater part of them were in a state of evident eruption, and gave me fearfully to understand their fury and their power, by the repeated thunders of the miscalled meteoric stones, which now rushed upward by the balloon with a frequency more and more appalling."
+      },
+      "request_id": "c1ba653c0906f64e4004ca7c",
+      "request_sha256": "56d7753d3d884708373d7dfacdbb42eb5eccd44f4931551986054decd3b5cadb",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1101340f377b1e69c5a156249c47fd36e31d0fb679c69e765c6d8294da853de1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "711eb85fdedbe8f9bb13da7e",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_shelley_frankenstein_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 711eb85fdedbe8f9bb13da7e\noriginal_word_count: 471\n\nPassage:\nWe passed a few sad hours until eleven o’clock, when the trial was to commence. My father and the rest of the family being obliged to attend as witnesses, I accompanied them to the court. During the whole of this wretched mockery of justice I suffered living torture. It was to be decided whether the result of my curiosity and lawless devices would cause the death of two of my fellow beings: one a smiling babe full of innocence and joy, the other far more dreadfully murdered, with every aggravation of infamy that could make the murder memorable in horror. Justine also was a girl of merit and possessed qualities which promised to render her life happy; now all was to be obliterated in an ignominious grave, and I the cause! A thousand times rather would I have confessed myself guilty of the crime ascribed to Justine, but I was absent when it was committed, and such a declaration would have been considered as the ravings of a madman and would not have exculpated her who suffered through me.\n\nThe appearance of Justine was calm. She was dressed in mourning, and her countenance, always engaging, was rendered, by the solemnity of her feelings, exquisitely beautiful. Yet she appeared confident in innocence and did not tremble, although gazed on and execrated by thousands, for all the kindness which her beauty might otherwise have excited was obliterated in the minds of the spectators by the imagination of the enormity she was supposed to have committed. She was tranquil, yet her tranquillity was evidently constrained; and as her confusion had before been adduced as a proof of her guilt, she worked up her mind to an appearance of courage. When she entered the court she threw her eyes round it and quickly discovered where we were seated. A tear seemed to dim her eye when she saw us, but she quickly recovered herself, and a look of sorrowful affection seemed to attest her utter guiltlessness.\n\nThe trial began, and after the advocate against her had stated the charge, several witnesses were called. Several strange facts combined against her, which might have staggered anyone who had not such proof of her innocence as I had. She had been out the whole of the night on which the murder had been committed and towards morning had been perceived by a market-woman not far from the spot where the body of the murdered child had been afterwards found. The woman asked her what she did there, but she looked very strangely and only returned a confused and unintelligible answer. She returned to the house about eight o’clock, and when one inquired where she had passed the night, she replied that she had been looking for the child and demanded earnestly if anything had been heard concerning him."
+      },
+      "request_id": "711eb85fdedbe8f9bb13da7e",
+      "request_sha256": "23cd324c4293d28409433f40d38e4a53de36137da892d4f636c8b0dbd805a629",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "394e291328ebba817ea449a10a2bbe14c27c16fe498ac6c49094de32e0745e30"
+    }
+  ],
+  "session_id": "01a0e870-b3dc-74f3-b9ee-b27dbd5dd892",
+  "worker_id": "astra_x",
+  "worker_identity_sha256": "7c3a0144cf89773a3dc35b850a0bd602d9bf1a04c8ed1e402a69d4a4892146a6"
+}

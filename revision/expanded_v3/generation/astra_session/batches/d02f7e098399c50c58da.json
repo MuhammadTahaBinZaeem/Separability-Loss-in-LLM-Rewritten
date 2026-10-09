@@ -1,0 +1,68 @@
+{
+  "batch_id": "d02f7e098399c50c58da",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:37:36.895104+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8dd97e2386e9fb5ceab290d6",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_dickens_great_expectations_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8dd97e2386e9fb5ceab290d6\noriginal_word_count: 453\n\nPassage:\nBiddy cried; the darkening garden, and the lane, and the stars that were coming out, were blurred in my own sight.\n\n“Nothing was ever discovered, Biddy?”\n\n“Nothing.”\n\n“Do you know what is become of Orlick?”\n\n“I should think from the colour of his clothes that he is working in the quarries.”\n\n“Of course you have seen him then?—Why are you looking at that dark tree in the lane?”\n\n“I saw him there, on the night she died.”\n\n“That was not the last time either, Biddy?”\n\n“No; I have seen him there, since we have been walking here.—It is of no use,” said Biddy, laying her hand upon my arm, as I was for running out, “you know I would not deceive you; he was not there a minute, and he is gone.”\n\nIt revived my utmost indignation to find that she was still pursued by this fellow, and I felt inveterate against him. I told her so, and told her that I would spend any money or take any pains to drive him out of that country. By degrees she led me into more temperate talk, and she told me how Joe loved me, and how Joe never complained of anything,—she didn’t say, of me; she had no need; I knew what she meant,—but ever did his duty in his way of life, with a strong hand, a quiet tongue, and a gentle heart.\n\n“Indeed, it would be hard to say too much for him,” said I; “and Biddy, we must often speak of these things, for of course I shall be often down here now. I am not going to leave poor Joe alone.”\n\nBiddy said never a single word.\n\n“Biddy, don’t you hear me?”\n\n“Yes, Mr. Pip.”\n\n“Not to mention your calling me Mr. Pip,—which appears to me to be in bad taste, Biddy,—what do you mean?”\n\n“What do I mean?” asked Biddy, timidly.\n\n“Biddy,” said I, in a virtuously self-asserting manner, “I must request to know what you mean by this?”\n\n“By this?” said Biddy.\n\n“Now, don’t echo,” I retorted. “You used not to echo, Biddy.”\n\n“Used not!” said Biddy. “O Mr. Pip! Used!”\n\nWell! I rather thought I would give up that point too. After another silent turn in the garden, I fell back on the main position.\n\n“Biddy,” said I, “I made a remark respecting my coming down here often, to see Joe, which you received with a marked silence. Have the goodness, Biddy, to tell me why.”\n\n“Are you quite sure, then, that you WILL come to see him often?” asked Biddy, stopping in the narrow garden walk, and looking at me under the stars with a clear and honest eye."
+      },
+      "request_id": "8dd97e2386e9fb5ceab290d6",
+      "request_sha256": "369b01bc0b89c41abf068faf7bd8e0d4f239bf95f08ff8e55533d29b18434861",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fffc41c036edac8b03f8669904bd06b40b81a94ae53a1136bdec0861c4446a83"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "27fa507dd9d87c1f6c194ac9",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_shelley_mathilda_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 27fa507dd9d87c1f6c194ac9\noriginal_word_count: 453\n\nPassage:\nIt was past two o’clock when by a sudden turn I found myself close to the lake near a cove where a little skiff was moored--It was not far from our house and I saw my father and aunt walking on the lawn. I jumped into the boat, and well accustomed to such feats, I pushed it from shore, and exerted all my strength to row swiftly across. As I came, dressed in white, covered only by my tartan _rachan_, my hair streaming on my shoulders, and shooting across with greater speed that it could be supposed I could give to my boat, my father has often told me that I looked more like a spirit than a human maid. I approached the shore, my father held the boat, I leapt lightly out, and in a moment was in his arms.\n\nAnd now I began to live. All around me was changed from a dull uniformity to the brightest scene of joy and delight. The happiness I enjoyed in the company of my father far exceeded my sanguine expectations. We were for ever together; and the subjects of our conversations were inexhaustible. He had passed the sixteen years of absence among nations nearly unknown to Europe; he had wandered through Persia, Arabia and the north of India and had penetrated among the habitations of the natives with a freedom permitted to few Europeans. His relations of their manners, his anecdotes and descriptions of scenery whiled away delicious hours, when we were tired of talking of our own plans of future life.\n\nThe voice of affection was so new to me that I hung with delight upon his words when he told me what he had felt concerning me during these long years of apparent forgetfulness. “At first”--said he, “I could not bear to think of my poor little girl; but afterwards as grief wore off and hope again revisited me I could only turn to her, and amidst cities and desarts her little fairy form, such as I imagined it, for ever flitted before me. The northern breeze as it refreshed me was sweeter and more balmy for it seemed to carry some of your spirit along with it. I often thought that I would instantly return and take you along with me to some fertile island where we should live at peace for ever. As I returned my fervent hopes were dashed by so many fears; my impatience became in the highest degree painful. I dared not think that the sun should shine and the moon rise not on your living form but on your grave. But, no, it is not so; I have my Mathilda, my consolation, and my hope.”--"
+      },
+      "request_id": "27fa507dd9d87c1f6c194ac9",
+      "request_sha256": "48cdaf49fc09655e08043516d51dbdf51d94c4e7f2538440ba9d4015f80980cc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1568a35188b7f3908445ecc9c2f71da61aa1dace2a9078f836bf1e316de1c0c1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c59e1791b60cdb651ca6da48",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_twain_tom_sawyer_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: c59e1791b60cdb651ca6da48\noriginal_word_count: 463\n\nPassage:\n“Stop the stabboard! Ting-a-ling-ling! Stop the labboard! Come ahead on the stabboard! Stop her! Let your outside turn over slow! Ting-a-ling-ling! Chow-ow-ow! Get out that head-line! _lively_ now! Come—out with your spring-line—what’re you about there! Take a turn round that stump with the bight of it! Stand by that stage, now—let her go! Done with the engines, sir! Ting-a-ling-ling! SH’T! S’H’T! SH’T!” (trying the gauge-cocks).\n\nTom went on whitewashing—paid no attention to the steamboat. Ben stared a moment and then said: “_Hi-Yi! You’re_ up a stump, ain’t you!”\n\nNo answer. Tom surveyed his last touch with the eye of an artist, then he gave his brush another gentle sweep and surveyed the result, as before. Ben ranged up alongside of him. Tom’s mouth watered for the apple, but he stuck to his work. Ben said:\n\n“Hello, old chap, you got to work, hey?”\n\nTom wheeled suddenly and said:\n\n“Why, it’s you, Ben! I warn’t noticing.”\n\n“Say—I’m going in a-swimming, I am. Don’t you wish you could? But of course you’d druther _work_—wouldn’t you? Course you would!”\n\nTom contemplated the boy a bit, and said:\n\n“What do you call work?”\n\n“Why, ain’t _that_ work?”\n\nTom resumed his whitewashing, and answered carelessly:\n\n“Well, maybe it is, and maybe it ain’t. All I know, is, it suits Tom Sawyer.”\n\n“Oh come, now, you don’t mean to let on that you _like_ it?”\n\nThe brush continued to move.\n\n“Like it? Well, I don’t see why I oughtn’t to like it. Does a boy get a chance to whitewash a fence every day?”\n\nThat put the thing in a new light. Ben stopped nibbling his apple. Tom swept his brush daintily back and forth—stepped back to note the effect—added a touch here and there—criticised the effect again—Ben watching every move and getting more and more interested, more and more absorbed. Presently he said:\n\n“Say, Tom, let _me_ whitewash a little.”\n\nTom considered, was about to consent; but he altered his mind:\n\n“No—no—I reckon it wouldn’t hardly do, Ben. You see, Aunt Polly’s awful particular about this fence—right here on the street, you know—but if it was the back fence I wouldn’t mind and _she_ wouldn’t. Yes, she’s awful particular about this fence; it’s got to be done very careful; I reckon there ain’t one boy in a thousand, maybe two thousand, that can do it the way it’s got to be done.”\n\n“No—is that so? Oh come, now—lemme just try. Only just a little—I’d let _you_, if you was me, Tom.”\n\n“Ben, I’d like to, honest injun; but Aunt Polly—well, Jim wanted to do it, but she wouldn’t let him; Sid wanted to do it, and she wouldn’t let Sid."
+      },
+      "request_id": "c59e1791b60cdb651ca6da48",
+      "request_sha256": "9c4c7e7f4f1049cd72608bba5f431bb459a2ec88e3816e3a1355a4e0cc500c68",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "667ce8408c687e31a2a65579f909cb506756f4640bd964a769df0a519ef96fde"
+    }
+  ],
+  "session_id": "01a0e86b-c111-7731-bb8d-a8b1262d4d11",
+  "worker_id": "astra_w",
+  "worker_identity_sha256": "02ab474ea794ee28e12552c40deac11a918257ff5dcb600ea6bea9a7ad47fcb2"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "7fc501ac29918f5676eb",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:10:39.649620+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a1b7f9ba2d023f467777410e",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_twain_tom_sawyer_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: a1b7f9ba2d023f467777410e\noriginal_word_count: 455\n\nPassage:\nHe never made a second attempt. The boys lay there counting the dragging moments till it seemed to them that time must be done and eternity growing gray; and then they were grateful to note that at last the sun was setting.\n\nNow one snore ceased. Injun Joe sat up, stared around—smiled grimly upon his comrade, whose head was drooping upon his knees—stirred him up with his foot and said:\n\n“Here! _You’re_ a watchman, ain’t you! All right, though—nothing’s happened.”\n\n“My! have I been asleep?”\n\n“Oh, partly, partly. Nearly time for us to be moving, pard. What’ll we do with what little swag we’ve got left?”\n\n“I don’t know—leave it here as we’ve always done, I reckon. No use to take it away till we start south. Six hundred and fifty in silver’s something to carry.”\n\n“Well—all right—it won’t matter to come here once more.”\n\n“No—but I’d say come in the night as we used to do—it’s better.”\n\n“Yes: but look here; it may be a good while before I get the right chance at that job; accidents might happen; ’tain’t in such a very good place; we’ll just regularly bury it—and bury it deep.”\n\n“Good idea,” said the comrade, who walked across the room, knelt down, raised one of the rearward hearth-stones and took out a bag that jingled pleasantly. He subtracted from it twenty or thirty dollars for himself and as much for Injun Joe, and passed the bag to the latter, who was on his knees in the corner, now, digging with his bowie-knife.\n\nThe boys forgot all their fears, all their miseries in an instant. With gloating eyes they watched every movement. Luck!—the splendor of it was beyond all imagination! Six hundred dollars was money enough to make half a dozen boys rich! Here was treasure-hunting under the happiest auspices—there would not be any bothersome uncertainty as to where to dig. They nudged each other every moment—eloquent nudges and easily understood, for they simply meant—“Oh, but ain’t you glad _now_ we’re here!”\n\nJoe’s knife struck upon something.\n\n“Hello!” said he.\n\n“What is it?” said his comrade.\n\n“Half-rotten plank—no, it’s a box, I believe. Here—bear a hand and we’ll see what it’s here for. Never mind, I’ve broke a hole.”\n\nHe reached his hand in and drew it out—\n\n“Man, it’s money!”\n\nThe two men examined the handful of coins. They were gold. The boys above were as excited as themselves, and as delighted.\n\nJoe’s comrade said:\n\n“We’ll make quick work of this. There’s an old rusty pick over amongst the weeds in the corner the other side of the fireplace—I saw it a minute ago.”"
+      },
+      "request_id": "a1b7f9ba2d023f467777410e",
+      "request_sha256": "d45db5437aea2ed8b36e8b6d5f564b4f3e3782235aaf88257aede50c1d859367",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bc794c14cb042bdd8139b2d62694aaa8902c0bcc9c2015ceb882c682e1e6a33e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "25d360eb716188e96e6df1c0",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_shelley_frankenstein_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 25d360eb716188e96e6df1c0\noriginal_word_count: 451\n\nPassage:\nDuring my youthful days discontent never visited my mind, and if I was ever overcome by _ennui_, the sight of what is beautiful in nature or the study of what is excellent and sublime in the productions of man could always interest my heart and communicate elasticity to my spirits. But I am a blasted tree; the bolt has entered my soul; and I felt then that I should survive to exhibit what I shall soon cease to be—a miserable spectacle of wrecked humanity, pitiable to others and intolerable to myself.\n\nWe passed a considerable period at Oxford, rambling among its environs and endeavouring to identify every spot which might relate to the most animating epoch of English history. Our little voyages of discovery were often prolonged by the successive objects that presented themselves. We visited the tomb of the illustrious Hampden and the field on which that patriot fell. For a moment my soul was elevated from its debasing and miserable fears to contemplate the divine ideas of liberty and self-sacrifice of which these sights were the monuments and the remembrancers. For an instant I dared to shake off my chains and look around me with a free and lofty spirit, but the iron had eaten into my flesh, and I sank again, trembling and hopeless, into my miserable self.\n\nWe left Oxford with regret and proceeded to Matlock, which was our next place of rest. The country in the neighbourhood of this village resembled, to a greater degree, the scenery of Switzerland; but everything is on a lower scale, and the green hills want the crown of distant white Alps which always attend on the piny mountains of my native country. We visited the wondrous cave and the little cabinets of natural history, where the curiosities are disposed in the same manner as in the collections at Servox and Chamounix. The latter name made me tremble when pronounced by Henry, and I hastened to quit Matlock, with which that terrible scene was thus associated.\n\nFrom Derby, still journeying northwards, we passed two months in Cumberland and Westmorland. I could now almost fancy myself among the Swiss mountains. The little patches of snow which yet lingered on the northern sides of the mountains, the lakes, and the dashing of the rocky streams were all familiar and dear sights to me. Here also we made some acquaintances, who almost contrived to cheat me into happiness. The delight of Clerval was proportionably greater than mine; his mind expanded in the company of men of talent, and he found in his own nature greater capacities and resources than he could have imagined himself to have possessed while he associated with his inferiors."
+      },
+      "request_id": "25d360eb716188e96e6df1c0",
+      "request_sha256": "f1788c42bc6e31b62bb2d58186538b566ec7f693fe8e52754456121d2094e04b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9aaee15a1745722f0c72a88f1f84bc0dea489edf7a020b11c3eff72d4c5e833b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "89dfa1944a79bd336fd1ca68",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_persuasion_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 89dfa1944a79bd336fd1ca68\noriginal_word_count: 461\n\nPassage:\nThe young people were all wild to see Lyme. Captain Wentworth talked of going there again himself, it was only seventeen miles from Uppercross; though November, the weather was by no means bad; and, in short, Louisa, who was the most eager of the eager, having formed the resolution to go, and besides the pleasure of doing as she liked, being now armed with the idea of merit in maintaining her own way, bore down all the wishes of her father and mother for putting it off till summer; and to Lyme they were to go—Charles, Mary, Anne, Henrietta, Louisa, and Captain Wentworth.\n\nThe first heedless scheme had been to go in the morning and return at night; but to this Mr Musgrove, for the sake of his horses, would not consent; and when it came to be rationally considered, a day in the middle of November would not leave much time for seeing a new place, after deducting seven hours, as the nature of the country required, for going and returning. They were, consequently, to stay the night there, and not to be expected back till the next day’s dinner. This was felt to be a considerable amendment; and though they all met at the Great House at rather an early breakfast hour, and set off very punctually, it was so much past noon before the two carriages, Mr Musgrove’s coach containing the four ladies, and Charles’s curricle, in which he drove Captain Wentworth, were descending the long hill into Lyme, and entering upon the still steeper street of the town itself, that it was very evident they would not have more than time for looking about them, before the light and warmth of the day were gone.\n\nAfter securing accommodations, and ordering a dinner at one of the inns, the next thing to be done was unquestionably to walk directly down to the sea. They were come too late in the year for any amusement or variety which Lyme, as a public place, might offer. The rooms were shut up, the lodgers almost all gone, scarcely any family but of the residents left; and, as there is nothing to admire in the buildings themselves, the remarkable situation of the town, the principal street almost hurrying into the water, the walk to the Cobb, skirting round the pleasant little bay, which, in the season, is animated with bathing machines and company; the Cobb itself, its old wonders and new improvements, with the very beautiful line of cliffs stretching out to the east of the town, are what the stranger’s eye will seek; and a very strange stranger it must be, who does not see charms in the immediate environs of Lyme, to make him wish to know it better."
+      },
+      "request_id": "89dfa1944a79bd336fd1ca68",
+      "request_sha256": "fde411791fc8282a70a672536fca4dabdb875af943ce1849196ed759d4b54892",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "55dd559a4c72cbfd7e422da7fddeb41a6666aa0a340e303f028f2cc286453497"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

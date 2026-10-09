@@ -1,25 +1,45 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
+# Access credentials and private participant administration.
+.env
+.env.*
+*.env
+!.env.example
+**/private/
+**/returns/
+**/private_join_key.csv
+**/reviewer_registry.json
+**/credentials.json
+**/access.txt
+**/ratings.csv
+**/adjudication_decisions.csv
+**/source_verdicts.csv
+**/participant_methods.json
+**/verified_flags.csv
+
+# The current manuscript and combined author package stay local.
+/output/
+/paper/
+/revision/expanded_v3/manuscript_*/
+*.docx
+Authorship_Separability_Manuscript.pdf
+Authorship_Separability_Supplement.pdf
+*Complete_Author_Package.zip
+REVIEWED_v3_*.zip
+**/manuscript.md
+**/recent_literature.txt
+**/build_documents.py
+**/convert_with_word.ps1
+
+# Disposable reproductions and local tooling.
+/audit_runs/
+/tmp/
 .venv/
 venv/
-env/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# OS/editor
-.DS_Store
-Thumbs.db
+__pycache__/
+*.py[cod]
+*.log
+RUNNING.lock
+STOP_AFTER_CURRENT
 .vscode/
 .idea/
-
-# Local-only temporary work
-/tmp/
-tmp/
-.cache/
-*.log
-
-# Large raw source files should be managed deliberately
-# Keep manifests in Git; use Git LFS for raw PDFs if committed.
+.DS_Store
+Thumbs.db

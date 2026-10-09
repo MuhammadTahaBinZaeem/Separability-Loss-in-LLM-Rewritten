@@ -1,0 +1,68 @@
+{
+  "batch_id": "5852ada41e039e2ffe3c",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:26:29.040480+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8a0663e50e1cb79138670de0",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 474,
+      "passage_id": "V2_twain_connecticut_yankee_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8a0663e50e1cb79138670de0\noriginal_word_count: 474\n\nPassage:\nDear me, she was a master talker. It would not become me to suggest that it was pretty late and that I was a tired man and very sleepy. I wished I had gone off to bed when I had the chance. Now I must stick it out; there was no other way. So she tinkled along and along, in the otherwise profound and ghostly hush of the sleeping castle, until by and by there came, as if from deep down under us, a far-away sound, as of a muffled shriek --with an expression of agony about it that made my flesh crawl. The queen stopped, and her eyes lighted with pleasure; she tilted her graceful head as a bird does when it listens. The sound bored its way up through the stillness again.\n\n“What is it?” I said.\n\n“It is truly a stubborn soul, and endureth long. It is many hours now.”\n\n“Endureth what?”\n\n“The rack. Come--ye shall see a blithe sight. An he yield not his secret now, ye shall see him torn asunder.”\n\nWhat a silky smooth hellion she was; and so composed and serene, when the cords all down my legs were hurting in sympathy with that man's pain. Conducted by mailed guards bearing flaring torches, we tramped along echoing corridors, and down stone stairways dank and dripping, and smelling of mould and ages of imprisoned night --a chill, uncanny journey and a long one, and not made the shorter or the cheerier by the sorceress's talk, which was about this sufferer and his crime. He had been accused by an anonymous informer, of having killed a stag in the royal preserves. I said:\n\n“Anonymous testimony isn't just the right thing, your Highness. It were fairer to confront the accused with the accuser.”\n\n“I had not thought of that, it being but of small consequence. But an I would, I could not, for that the accuser came masked by night, and told the forester, and straightway got him hence again, and so the forester knoweth him not.”\n\n“Then is this Unknown the only person who saw the stag killed?”\n\n“Marry, _no_ man _saw_ the killing, but this Unknown saw this hardy wretch near to the spot where the stag lay, and came with right loyal zeal and betrayed him to the forester.”\n\n“So the Unknown was near the dead stag, too? Isn't it just possible that he did the killing himself? His loyal zeal--in a mask--looks just a shade suspicious. But what is your highness's idea for racking the prisoner? Where is the profit?”\n\n“He will not confess, else; and then were his soul lost. For his crime his life is forfeited by the law--and of a surety will I see that he payeth it!--but it were peril to my own soul to let him die unconfessed and unabsolved."
+      },
+      "request_id": "8a0663e50e1cb79138670de0",
+      "request_sha256": "3a83befe7092022fde853f0f6ea6d83e6e253825cdc11528d55a2d5ebad853ff",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2c8134c130e8f16749b357e80f807ba58b56f9ed200774ed78760eea0da44ba6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "28977c1bf5b68f3aa6f8d51b",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 467,
+      "passage_id": "V2_twain_connecticut_yankee_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 28977c1bf5b68f3aa6f8d51b\noriginal_word_count: 467\n\nPassage:\nIt was in Warwick Castle that I came across the curious stranger whom I am going to talk about. He attracted me by three things: his candid simplicity, his marvelous familiarity with ancient armor, and the restfulness of his company--for he did all the talking. We fell together, as modest people will, in the tail of the herd that was being shown through, and he at once began to say things which interested me. As he talked along, softly, pleasantly, flowingly, he seemed to drift away imperceptibly out of this world and time, and into some remote era and old forgotten country; and so he gradually wove such a spell about me that I seemed to move among the specters and shadows and dust and mold of a gray antiquity, holding speech with a relic of it! Exactly as I would speak of my nearest personal friends or enemies, or my most familiar neighbors, he spoke of Sir Bedivere, Sir Bors de Ganis, Sir Launcelot of the Lake, Sir Galahad, and all the other great names of the Table Round--and how old, old, unspeakably old and faded and dry and musty and ancient he came to look as he went on! Presently he turned to me and said, just as one might speak of the weather, or any other common matter--\n\n“You know about transmigration of souls; do you know about transposition of epochs--and bodies?”\n\nI said I had not heard of it. He was so little interested--just as when people speak of the weather--that he did not notice whether I made him any answer or not. There was half a moment of silence, immediately interrupted by the droning voice of the salaried cicerone:\n\n“Ancient hauberk, date of the sixth century, time of King Arthur and the Round Table; said to have belonged to the knight Sir Sagramor le Desirous; observe the round hole through the chain-mail in the left breast; can't be accounted for; supposed to have been done with a bullet since invention of firearms--perhaps maliciously by Cromwell's soldiers.”\n\nMy acquaintance smiled--not a modern smile, but one that must have gone out of general use many, many centuries ago--and muttered apparently to himself:\n\n“Wit ye well, _I saw it done_.” Then, after a pause, added: “I did it myself.”\n\nBy the time I had recovered from the electric surprise of this remark, he was gone.\n\nAll that evening I sat by my fire at the Warwick Arms, steeped in a dream of the olden time, while the rain beat upon the windows, and the wind roared about the eaves and corners. From time to time I dipped into old Sir Thomas Malory's enchanting book, and fed at its rich feast of prodigies and adventures, breathed in the fragrance of its obsolete names, and dreamed again."
+      },
+      "request_id": "28977c1bf5b68f3aa6f8d51b",
+      "request_sha256": "9568e1163e8e1a61443b77074bf4df8844fcc850a678592ed6f24adf329b034a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0bbe3bb81a88f5214422dd14789e0aa6933b868199b2a7ca1d2c881ac9340fde"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5e0f6065ccb35be2cfe382e6",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 5e0f6065ccb35be2cfe382e6\noriginal_word_count: 465\n\nPassage:\nWhat manner of life would be theirs while Fate still held this fearful fortune in the scales? The marriage must be postponed, at all costs. Of this he was quite resolved. Ardently though he loved the girl, and the mere touch of her fingers, when they sat together, made each nerve of his body thrill with exquisite joy, he recognised none the less clearly where his duty lay, and was fully conscious of the fact that he had no right to marry until he had committed the murder. This done, he could stand before the altar with Sybil Merton, and give his life into her hands without terror of wrongdoing. This done, he could take her to his arms, knowing that she would never have to blush for him, never have to hang her head in shame. But done it must be first; and the sooner the better for both.\n\nMany men in his position would have preferred the primrose path of dalliance to the steep heights of duty; but Lord Arthur was too conscientious to set pleasure above principle. There was more than mere passion in his love; and Sybil was to him a symbol of all that is good and noble. For a moment he had a natural repugnance against what he was asked to do, but it soon passed away. His heart told him that it was not a sin, but a sacrifice; his reason reminded him that there was no other course open. He had to choose between living for himself and living for others, and terrible though the task laid upon him undoubtedly was, yet he knew that he must not suffer selfishness to triumph over love. Sooner or later we are all called upon to decide on the same issue—of us all, the same question is asked. To Lord Arthur it came early in life—before his nature had been spoiled by the calculating cynicism of middle-age, or his heart corroded by the shallow, fashionable egotism of our day, and he felt no hesitation about doing his duty. Fortunately also, for him, he was no mere dreamer, or idle dilettante. Had he been so, he would have hesitated, like Hamlet, and let irresolution mar his purpose. But he was essentially practical. Life to him meant action, rather than thought. He had that rarest of all things, common sense.\n\nThe wild, turbid feelings of the previous night had by this time completely passed away, and it was almost with a sense of shame that he looked back upon his mad wanderings from street to street, his fierce emotional agony. The very sincerity of his sufferings made them seem unreal to him now. He wondered how he could have been so foolish as to rant and rave about the inevitable."
+      },
+      "request_id": "5e0f6065ccb35be2cfe382e6",
+      "request_sha256": "11d06df979d5fdf86d3a2e6eba780efc352bff9ad3d03650a03e9f3012ef1b55",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a283236e7b3b29e92951b58d8090324e42ec41ec1d7ddcf7fa743cd381d43e13"
+    }
+  ],
+  "session_id": "01a0e865-d34a-75c3-a7b9-6054f384d598",
+  "worker_id": "astra_u",
+  "worker_identity_sha256": "a9ccd4d0505883dcc11e3e0b3f2a87cf0163a5c2fb28ec8e4609d8f10a62a24d"
+}

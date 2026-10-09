@@ -1,0 +1,68 @@
+{
+  "batch_id": "dc7c944c14936e47ac4f",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:33:45.321220+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "932eb747fe91fd249fa5dc1a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_poe_the_gold_bug_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 932eb747fe91fd249fa5dc1a\noriginal_word_count: 473\n\nPassage:\nWe, finally, lightened the box by removing two thirds of its contents, when we were enabled, with some trouble, to raise it from the hole. The articles taken out were deposited among the brambles, and the dog left to guard them, with strict orders from Jupiter neither, upon any pretence, to stir from the spot, nor to open his mouth until our return. We then hurriedly made for home with the chest; reaching the hut in safety, but after excessive toil, at one o’clock in the morning. Worn out as we were, it was not in human nature to do more immediately. We rested until two, and had supper; starting for the hills immediately afterwards, armed with three stout sacks, which, by good luck, were upon the premises. A little before four we arrived at the pit, divided the remainder of the booty, as equally as might be, among us, and, leaving the holes unfilled, again set out for the hut, at which, for the second time, we deposited our golden burthens, just as the first faint streaks of the dawn gleamed from over the tree-tops in the East.\n\nWe were now thoroughly broken down; but the intense excitement of the time denied us repose. After an unquiet slumber of some three or four hours’ duration, we arose, as if by preconcert, to make examination of our treasure.\n\nThe chest had been full to the brim, and we spent the whole day, and the greater part of the next night, in a scrutiny of its contents. There had been nothing like order or arrangement. Every thing had been heaped in promiscuously. Having assorted all with care, we found ourselves possessed of even vaster wealth than we had at first supposed. In coin there was rather more than four hundred and fifty thousand dollars—estimating the value of the pieces, as accurately as we could, by the tables of the period. There was not a particle of silver. All was gold of antique date and of great variety—French, Spanish, and German money, with a few English guineas, and some counters, of which we had never seen specimens before. There were several very large and heavy coins, so worn that we could make nothing of their inscriptions. There was no American money. The value of the jewels we found more difficulty in estimating. There were diamonds—some of them exceedingly large and fine—a hundred and ten in all, and not one of them small; eighteen rubies of remarkable brilliancy;—three hundred and ten emeralds, all very beautiful; and twenty-one sapphires, with an opal. These stones had all been broken from their settings and thrown loose in the chest. The settings themselves, which we picked out from among the other gold, appeared to have been beaten up with hammers, as if to prevent identification."
+      },
+      "request_id": "932eb747fe91fd249fa5dc1a",
+      "request_sha256": "87ce0068649f97c92c747d66f8b4029066479aab01c1fe789390d22f9d874362",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9783ce79d055e22efc5fb1613295d5768dcdc90177fa1ae8b9eabfdf5dcc52a7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9a059b99d54b242fa008d95d",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 9a059b99d54b242fa008d95d\noriginal_word_count: 462\n\nPassage:\nIT was Lady Windermere’s last reception before Easter, and Bentinck House was even more crowded than usual. Six Cabinet Ministers had come on from the Speaker’s Levée in their stars and ribands, all the pretty women wore their smartest dresses, and at the end of the picture-gallery stood the Princess Sophia of Carlsrühe, a heavy Tartar-looking lady, with tiny black eyes and wonderful emeralds, talking bad French at the top of her voice, and laughing immoderately at everything that was said to her. It was certainly a wonderful medley of people. Gorgeous peeresses chatted affably to violent Radicals, popular preachers brushed coat-tails with eminent sceptics, a perfect bevy of bishops kept following a stout prima-donna from room to room, on the staircase stood several Royal Academicians, disguised as artists, and it was said that at one time the supper-room was absolutely crammed with geniuses. In fact, it was one of Lady Windermere’s best nights, and the Princess stayed till nearly half-past eleven.\n\nAs soon as she had gone, Lady Windermere returned to the picture-gallery, where a celebrated political economist was solemnly explaining the scientific theory of music to an indignant virtuoso from Hungary, and began to talk to the Duchess of Paisley. She looked wonderfully beautiful with her grand ivory throat, her large blue forget-me-not eyes, and her heavy coils of golden hair. _Or pur_ they were—not that pale straw colour that nowadays usurps the gracious name of gold, but such gold as is woven into sunbeams or hidden in strange amber; and they gave to her face something of the frame of a saint, with not a little of the fascination of a sinner. She was a curious psychological study. Early in life she had discovered the important truth that nothing looks so like innocence as an indiscretion; and by a series of reckless escapades, half of them quite harmless, she had acquired all the privileges of a personality. She had more than once changed her husband; indeed, Debrett credits her with three marriages; but as she had never changed her lover, the world had long ago ceased to talk scandal about her. She was now forty years of age, childless, and with that inordinate passion for pleasure which is the secret of remaining young.\n\nSuddenly she looked eagerly round the room, and said, in her clear contralto voice, ‘Where is my cheiromantist?’\n\n‘Your what, Gladys?’ exclaimed the Duchess, giving an involuntary start.\n\n‘My cheiromantist, Duchess; I can’t live without him at present.’\n\n‘Dear Gladys! you are always so original,’ murmured the Duchess, trying to remember what a cheiromantist really was, and hoping it was not the same as a cheiropodist.\n\n‘He comes to see my hand twice a week regularly,’ continued Lady Windermere, ‘and is most interesting about it.’"
+      },
+      "request_id": "9a059b99d54b242fa008d95d",
+      "request_sha256": "26c3cc497505901547c2bf9aba62c743dafc08834e14566b277a8565e3f8a592",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a401206ae424f3a6d222ca12d3cb2274861f2ae1291f1323e2f885aa524af4ff"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2694f493ae6f35c86dbe181b",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 488,
+      "passage_id": "V2_austen_persuasion_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2694f493ae6f35c86dbe181b\noriginal_word_count: 488\n\nPassage:\nI have not nerves for the sort of thing.”\n\n“But, could you be comfortable yourself, to be spending the whole evening away from the poor boy?”\n\n“Yes; you see his papa can, and why should not I? Jemima is so careful; and she could send us word every hour how he was. I really think Charles might as well have told his father we would all come. I am not more alarmed about little Charles now than he is. I was dreadfully alarmed yesterday, but the case is very different to-day.”\n\n“Well, if you do not think it too late to give notice for yourself, suppose you were to go, as well as your husband. Leave little Charles to my care. Mr and Mrs Musgrove cannot think it wrong while I remain with him.”\n\n“Are you serious?” cried Mary, her eyes brightening. “Dear me! that’s a very good thought, very good, indeed. To be sure, I may just as well go as not, for I am of no use at home—am I? and it only harasses me. You, who have not a mother’s feelings, are a great deal the properest person. You can make little Charles do anything; he always minds you at a word. It will be a great deal better than leaving him only with Jemima. Oh! I shall certainly go; I am sure I ought if I can, quite as much as Charles, for they want me excessively to be acquainted with Captain Wentworth, and I know you do not mind being left alone. An excellent thought of yours, indeed, Anne. I will go and tell Charles, and get ready directly. You can send for us, you know, at a moment’s notice, if anything is the matter; but I dare say there will be nothing to alarm you. I should not go, you may be sure, if I did not feel quite at ease about my dear child.”\n\nThe next moment she was tapping at her husband’s dressing-room door, and as Anne followed her up stairs, she was in time for the whole conversation, which began with Mary’s saying, in a tone of great exultation—\n\n“I mean to go with you, Charles, for I am of no more use at home than you are. If I were to shut myself up for ever with the child, I should not be able to persuade him to do anything he did not like. Anne will stay; Anne undertakes to stay at home and take care of him. It is Anne’s own proposal, and so I shall go with you, which will be a great deal better, for I have not dined at the other house since Tuesday.”\n\n“This is very kind of Anne,” was her husband’s answer, “and I should be very glad to have you go; but it seems rather hard that she should be left at home by herself, to nurse our sick child.”"
+      },
+      "request_id": "2694f493ae6f35c86dbe181b",
+      "request_sha256": "00285fc419efad32a5fee0005a8ad65fd26e111e38cf2a6432a219321b8f734d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a90a16c13e443c3b13b417781de7d11d73588cec1d956d1849409bab34c8fe51"
+    }
+  ],
+  "session_id": "01a0e865-d34a-75c3-a7b9-6054f384d598",
+  "worker_id": "astra_u",
+  "worker_identity_sha256": "a9ccd4d0505883dcc11e3e0b3f2a87cf0163a5c2fb28ec8e4609d8f10a62a24d"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "1815d4b6972a2877dffd",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:50:01.888241+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "fa163d4ddb61a10c8ecf2bb0",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_twain_huckleberry_finn_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: fa163d4ddb61a10c8ecf2bb0\noriginal_word_count: 452\n\nPassage:\nWhat’s the trouble?”\n\nI says:\n\n“Pap, and mam, and sis, and—”\n\nThen I broke down. He says:\n\n“Oh, dang it now, _don’t_ take on so; we all has to have our troubles, and this’n ’ll come out all right. What’s the matter with ’em?”\n\n“They’re—they’re—are you the watchman of the boat?”\n\n“Yes,” he says, kind of pretty-well-satisfied like. “I’m the captain and the owner and the mate and the pilot and watchman and head deck-hand; and sometimes I’m the freight and passengers. I ain’t as rich as old Jim Hornback, and I can’t be so blame’ generous and good to Tom, Dick and Harry as what he is, and slam around money the way he does; but I’ve told him a many a time ’t I wouldn’t trade places with him; for, says I, a sailor’s life’s the life for me, and I’m derned if _I’d_ live two mile out o’ town, where there ain’t nothing ever goin’ on, not for all his spondulicks and as much more on top of it. Says I—”\n\nI broke in and says:\n\n“They’re in an awful peck of trouble, and—”\n\n“_Who_ is?”\n\n“Why, pap and mam and sis and Miss Hooker; and if you’d take your ferry-boat and go up there—”\n\n“Up where? Where are they?”\n\n“On the wreck.”\n\n“What wreck?”\n\n“Why, there ain’t but one.”\n\n“What, you don’t mean the _Walter Scott?_”\n\n“Yes.”\n\n“Good land! what are they doin’ _there_, for gracious sakes?”\n\n“Well, they didn’t go there a-purpose.”\n\n“I bet they didn’t! Why, great goodness, there ain’t no chance for ’em if they don’t git off mighty quick! Why, how in the nation did they ever git into such a scrape?”\n\n“Easy enough. Miss Hooker was a-visiting up there to the town—”\n\n“Yes, Booth’s Landing—go on.”\n\n“She was a-visiting there at Booth’s Landing, and just in the edge of the evening she started over with her nigger woman in the horse-ferry to stay all night at her friend’s house, Miss What-you-may-call-her I disremember her name—and they lost their steering-oar, and swung around and went a-floating down, stern first, about two mile, and saddle-baggsed on the wreck, and the ferryman and the nigger woman and the horses was all lost, but Miss Hooker she made a grab and got aboard the wreck. Well, about an hour after dark we come along down in our trading-scow, and it was so dark we didn’t notice the wreck till we was right on it; and so _we_ saddle-baggsed; but all of us was saved but Bill Whipple—and oh, he _was_ the best cretur!—I most wish’t it had been me, I do.”\n\n“My George! It’s the beatenest thing I ever struck."
+      },
+      "request_id": "fa163d4ddb61a10c8ecf2bb0",
+      "request_sha256": "6ce01e53a1b017e8c751fcc76a551a47c4701b35edf91496fb9a70d4fbc5c8cd",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0507a515b2ece231409428cb096a23a6578848c498179cf69dd39d436af12990"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "57ca1484011d0e801d879f48",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_twain_tom_sawyer_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 57ca1484011d0e801d879f48\noriginal_word_count: 472\n\nPassage:\n“Nothing but a tick.”\n\n“Where’d you get him?”\n\n“Out in the woods.”\n\n“What’ll you take for him?”\n\n“I don’t know. I don’t want to sell him.”\n\n“All right. It’s a mighty small tick, anyway.”\n\n“Oh, anybody can run a tick down that don’t belong to them. I’m satisfied with it. It’s a good enough tick for me.”\n\n“Sho, there’s ticks a plenty. I could have a thousand of ’em if I wanted to.”\n\n“Well, why don’t you? Becuz you know mighty well you can’t. This is a pretty early tick, I reckon. It’s the first one I’ve seen this year.”\n\n“Say, Huck—I’ll give you my tooth for him.”\n\n“Less see it.”\n\nTom got out a bit of paper and carefully unrolled it. Huckleberry viewed it wistfully. The temptation was very strong. At last he said:\n\n“Is it genuwyne?”\n\nTom lifted his lip and showed the vacancy.\n\n“Well, all right,” said Huckleberry, “it’s a trade.”\n\nTom enclosed the tick in the percussion-cap box that had lately been the pinchbug’s prison, and the boys separated, each feeling wealthier than before.\n\nWhen Tom reached the little isolated frame school-house, he strode in briskly, with the manner of one who had come with all honest speed. He hung his hat on a peg and flung himself into his seat with business-like alacrity. The master, throned on high in his great splint-bottom arm-chair, was dozing, lulled by the drowsy hum of study. The interruption roused him.\n\n“Thomas Sawyer!”\n\nTom knew that when his name was pronounced in full, it meant trouble.\n\n“Sir!”\n\n“Come up here. Now, sir, why are you late again, as usual?”\n\nTom was about to take refuge in a lie, when he saw two long tails of yellow hair hanging down a back that he recognized by the electric sympathy of love; and by that form was _the only vacant place_ on the girls’ side of the school-house. He instantly said:\n\n“_I stopped to talk with Huckleberry Finn!_”\n\nThe master’s pulse stood still, and he stared helplessly. The buzz of study ceased. The pupils wondered if this foolhardy boy had lost his mind. The master said:\n\n“You—you did what?”\n\n“Stopped to talk with Huckleberry Finn.”\n\nThere was no mistaking the words.\n\n“Thomas Sawyer, this is the most astounding confession I have ever listened to. No mere ferule will answer for this offence. Take off your jacket.”\n\nThe master’s arm performed until it was tired and the stock of switches notably diminished. Then the order followed:\n\n“Now, sir, go and sit with the girls! And let this be a warning to you.”\n\nThe titter that rippled around the room appeared to abash the boy, but in reality that result was caused rather more by his worshipful awe of his unknown idol and the dread pleasure that lay in his high good fortune."
+      },
+      "request_id": "57ca1484011d0e801d879f48",
+      "request_sha256": "6c23c2abfe75473b18658dc8e1142d27ab0c80dbf2c3efb1229d96b1ad4e6ec4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "323d6acb59fb7860bc2793a84ba6ac977f23c07b4823893b56c6c2d0cfd25ae1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "aa33d3e6858a59bb8c2e3142",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_austen_persuasion_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: aa33d3e6858a59bb8c2e3142\noriginal_word_count: 452\n\nPassage:\nSir Walter had taken a very good house in Camden Place, a lofty dignified situation, such as becomes a man of consequence; and both he and Elizabeth were settled there, much to their satisfaction.\n\nAnne entered it with a sinking heart, anticipating an imprisonment of many months, and anxiously saying to herself, “Oh! when shall I leave you again?” A degree of unexpected cordiality, however, in the welcome she received, did her good. Her father and sister were glad to see her, for the sake of shewing her the house and furniture, and met her with kindness. Her making a fourth, when they sat down to dinner, was noticed as an advantage.\n\nMrs Clay was very pleasant, and very smiling, but her courtesies and smiles were more a matter of course. Anne had always felt that she would pretend what was proper on her arrival, but the complaisance of the others was unlooked for. They were evidently in excellent spirits, and she was soon to listen to the causes. They had no inclination to listen to her. After laying out for some compliments of being deeply regretted in their old neighbourhood, which Anne could not pay, they had only a few faint enquiries to make, before the talk must be all their own. Uppercross excited no interest, Kellynch very little: it was all Bath.\n\nThey had the pleasure of assuring her that Bath more than answered their expectations in every respect. Their house was undoubtedly the best in Camden Place; their drawing-rooms had many decided advantages over all the others which they had either seen or heard of, and the superiority was not less in the style of the fitting-up, or the taste of the furniture. Their acquaintance was exceedingly sought after. Everybody was wanting to visit them. They had drawn back from many introductions, and still were perpetually having cards left by people of whom they knew nothing.\n\nHere were funds of enjoyment. Could Anne wonder that her father and sister were happy? She might not wonder, but she must sigh that her father should feel no degradation in his change, should see nothing to regret in the duties and dignity of the resident landholder, should find so much to be vain of in the littlenesses of a town; and she must sigh, and smile, and wonder too, as Elizabeth threw open the folding-doors and walked with exultation from one drawing-room to the other, boasting of their space; at the possibility of that woman, who had been mistress of Kellynch Hall, finding extent to be proud of between two walls, perhaps thirty feet asunder.\n\nBut this was not all which they had to make them happy. They had Mr Elliot too."
+      },
+      "request_id": "aa33d3e6858a59bb8c2e3142",
+      "request_sha256": "902110498089709bc99b80276c27fdf85ec9bfb3bc466b7d20a12ef7c4557469",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1c0e7e89c60ad7bb2b3a1d0f937bd74178c1d8a3f17636229d8cf024ed322d95"
+    }
+  ],
+  "session_id": "01a0e87b-49a4-73d1-9183-c1526aa2e672",
+  "worker_id": "astra_ab",
+  "worker_identity_sha256": "9f063cc79481da5fa1e91530b35ed3863df2f1d390a463dfb849cb30ea1c9d85"
+}

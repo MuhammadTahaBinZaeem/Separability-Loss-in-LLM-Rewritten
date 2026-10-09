@@ -1,0 +1,68 @@
+{
+  "batch_id": "4ea6b00cbab9af13b640",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:51:47.052279+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d78b4834f16e83b45a2ad3ec",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: d78b4834f16e83b45a2ad3ec\noriginal_word_count: 455\n\nPassage:\n‘Oh, that is nothing! It is a pleasure to me. I do not work for money; I live entirely for my art.’\n\nLord Arthur laid down £4, 2s. 6d. on the table, thanked the little German for his kindness, and, having succeeded in declining an invitation to meet some Anarchists at a meat-tea on the following Saturday, left the house and went off to the Park.\n\nFor the next two days he was in a state of the greatest excitement, and on Friday at twelve o’clock he drove down to the Buckingham to wait for news. All the afternoon the stolid hall-porter kept posting up telegrams from various parts of the country giving the results of horse-races, the verdicts in divorce suits, the state of the weather, and the like, while the tape ticked out wearisome details about an all-night sitting in the House of Commons, and a small panic on the Stock Exchange. At four o’clock the evening papers came in, and Lord Arthur disappeared into the library with the _Pall Mall_, the _St. James’s_, the _Globe_, and the _Echo_, to the immense indignation of Colonel Goodchild, who wanted to read the reports of a speech he had delivered that morning at the Mansion House, on the subject of South African Missions, and the advisability of having black Bishops in every province, and for some reason or other had a strong prejudice against the _Evening News_. None of the papers, however, contained even the slightest allusion to Chichester, and Lord Arthur felt that the attempt must have failed. It was a terrible blow to him, and for a time he was quite unnerved. Herr Winckelkopf, whom he went to see the next day was full of elaborate apologies, and offered to supply him with another clock free of charge, or with a case of nitro-glycerine bombs at cost price. But he had lost all faith in explosives, and Herr Winckelkopf himself acknowledged that everything is so adulterated nowadays, that even dynamite can hardly be got in a pure condition. The little German, however, while admitting that something must have gone wrong with the machinery, was not without hope that the clock might still go off, and instanced the case of a barometer that he had once sent to the military Governor at Odessa, which, though timed to explode in ten days, had not done so for something like three months. It was quite true that when it did go off, it merely succeeded in blowing a housemaid to atoms, the Governor having gone out of town six weeks before, but at least it showed that dynamite, as a destructive force, was, when under the control of machinery, a powerful, though a somewhat unpunctual agent."
+      },
+      "request_id": "d78b4834f16e83b45a2ad3ec",
+      "request_sha256": "0da6afdc553b33e0707c08b0955ec466712b2a54b3f10841c2d476580f101945",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "16234dc867b69cd0fcd43bdeecd6882cf29d99920359053ea67c69567508085a"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "bc71015ccc59d90c8d59ea04",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: bc71015ccc59d90c8d59ea04\noriginal_word_count: 472\n\nPassage:\nCount Rouvaloff looked at him for some moments in amazement, and then seeing that he was quite serious, wrote an address on a piece of paper, initialled it, and handed it to him across the table.\n\n‘Scotland Yard would give a good deal to know this address, my dear fellow.’\n\n‘They shan’t have it,’ cried Lord Arthur, laughing; and after shaking the young Russian warmly by the hand he ran downstairs, examined the paper, and told the coachman to drive to Soho Square.\n\nThere he dismissed him, and strolled down Greek Street, till he came to a place called Bayle’s Court. He passed under the archway, and found himself in a curious _cul-de-sac_, that was apparently occupied by a French Laundry, as a perfect network of clothes-lines was stretched across from house to house, and there was a flutter of white linen in the morning air. He walked right to the end, and knocked at a little green house. After some delay, during which every window in the court became a blurred mass of peering faces, the door was opened by a rather rough-looking foreigner, who asked him in very bad English what his business was. Lord Arthur handed him the paper Count Rouvaloff had given him. When the man saw it he bowed, and invited Lord Arthur into a very shabby front parlour on the ground floor, and in a few moments Herr Winckelkopf, as he was called in England, bustled into the room, with a very wine-stained napkin round his neck, and a fork in his left hand.\n\n‘Count Rouvaloff has given me an introduction to you,’ said Lord Arthur, bowing, ‘and I am anxious to have a short interview with you on a matter of business. My name is Smith, Mr. Robert Smith, and I want you to supply me with an explosive clock.’\n\n‘Charmed to meet you, Lord Arthur,’ said the genial little German, laughing. ‘Don’t look so alarmed, it is my duty to know everybody, and I remember seeing you one evening at Lady Windermere’s. I hope her ladyship is quite well. Do you mind sitting with me while I finish my breakfast? There is an excellent _pâté_, and my friends are kind enough to say that my Rhine wine is better than any they get at the German Embassy,’ and before Lord Arthur had got over his surprise at being recognised, he found himself seated in the back-room, sipping the most delicious Marcobrünner out of a pale yellow hock-glass marked with the Imperial monogram, and chatting in the friendliest manner possible to the famous conspirator.\n\n‘Explosive clocks,’ said Herr Winckelkopf, ‘are not very good things for foreign exportation, as, even if they succeed in passing the Custom House, the train service is so irregular, that they usually go off before they have reached their proper destination."
+      },
+      "request_id": "bc71015ccc59d90c8d59ea04",
+      "request_sha256": "50820a65f556c0da449c58bb47dc1bb84252727bff2a7e6a1a0eee5ec800db7b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "110b0512b5195d5a919e6d67724e50a0cb627d51701ae8063a1a83ff94bca848"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "44d42894c3deedaeb5fecea2",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_shelley_the_last_man_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 44d42894c3deedaeb5fecea2\noriginal_word_count: 463\n\nPassage:\nThe oaks around were the home of a tribe of nightingales—there am I now; Idris, in youth’s dear prime, is by my side —remember, I am just twenty-two, and seventeen summers have scarcely passed over the beloved of my heart. The river swollen by autumnal rains, deluged the low lands, and Adrian in his favourite boat is employed in the dangerous pastime of plucking the topmost bough from a submerged oak. Are you weary of life, O Adrian, that you thus play with danger?—\n\nHe has obtained his prize, and he pilots his boat through the flood; our eyes were fixed on him fearfully, but the stream carried him away from us; he was forced to land far lower down, and to make a considerable circuit before he could join us. “He is safe!” said Idris, as he leapt on shore, and waved the bough over his head in token of success; “we will wait for him here.”\n\nWe were alone together; the sun had set; the song of the nightingales began; the evening star shone distinct in the flood of light, which was yet unfaded in the west. The blue eyes of my angelic girl were fixed on this sweet emblem of herself: “How the light palpitates,” she said, “which is that star’s life. Its vacillating effulgence seems to say that its state, even like ours upon earth, is wavering and inconstant; it fears, methinks, and it loves.”\n\n“Gaze not on the star, dear, generous friend,” I cried, “read not love in _its_ trembling rays; look not upon distant worlds; speak not of the mere imagination of a sentiment. I have long been silent; long even to sickness have I desired to speak to you, and submit my soul, my life, my entire being to you. Look not on the star, dear love, or do, and let that eternal spark plead for me; let it be my witness and my advocate, silent as it shines—love is to me as light to the star; even so long as that is uneclipsed by annihilation, so long shall I love you.”\n\nVeiled for ever to the world’s callous eye must be the transport of that moment. Still do I feel her graceful form press against my full-fraught heart—still does sight, and pulse, and breath sicken and fail, at the remembrance of that first kiss. Slowly and silently we went to meet Adrian, whom we heard approaching.\n\nI entreated Adrian to return to me after he had conducted his sister home. And that same evening, walking among the moon-lit forest paths, I poured forth my whole heart, its transport and its hope, to my friend. For a moment he looked disturbed—“I might have foreseen this,” he said, “what strife will now ensue!"
+      },
+      "request_id": "44d42894c3deedaeb5fecea2",
+      "request_sha256": "25646ade502636e18df841c439a4f48ae340978661719103e36378fc69bdf541",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7af4a611bf0310a1d71f8a605603129ddfc3ffedaa8b1327b56c95ca17b00316"
+    }
+  ],
+  "session_id": "01a0e848-1788-74e3-94b7-8185fb822a0f",
+  "worker_id": "astra_m",
+  "worker_identity_sha256": "a661c68b1db9c5e5d4a06cab3427b000d00cd4134df771893194ef71da9b6fed"
+}

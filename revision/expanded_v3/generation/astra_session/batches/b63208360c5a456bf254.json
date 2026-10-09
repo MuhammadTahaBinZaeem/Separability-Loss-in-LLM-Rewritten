@@ -1,0 +1,68 @@
+{
+  "batch_id": "b63208360c5a456bf254",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:52:31.248138+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f1d8633285e077c94327f33a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: f1d8633285e077c94327f33a\noriginal_word_count: 453\n\nPassage:\nLooking at him, one would have said that Nemesis had stolen the shield of Pallas, and shown him the Gorgon’s head. He seemed turned to stone, and his face was like marble in its melancholy. He had lived the delicate and luxurious life of a young man of birth and fortune, a life exquisite in its freedom from sordid care, its beautiful boyish insouciance; and now for the first time he became conscious of the terrible mystery of Destiny, of the awful meaning of Doom.\n\nHow mad and monstrous it all seemed! Could it be that written on his hand, in characters that he could not read himself, but that another could decipher, was some fearful secret of sin, some blood-red sign of crime? Was there no escape possible? Were we no better than chessmen, moved by an unseen power, vessels the potter fashions at his fancy, for honour or for shame? His reason revolted against it, and yet he felt that some tragedy was hanging over him, and that he had been suddenly called upon to bear an intolerable burden. Actors are so fortunate. They can choose whether they will appear in tragedy or in comedy, whether they will suffer or make merry, laugh or shed tears. But in real life it is different. Most men and women are forced to perform parts for which they have no qualifications. Our Guildensterns play Hamlet for us, and our Hamlets have to jest like Prince Hal. The world is a stage, but the play is badly cast.\n\nSuddenly Mr. Podgers entered the room. When he saw Lord Arthur he started, and his coarse, fat face became a sort of greenish-yellow colour. The two men’s eyes met, and for a moment there was silence.\n\n‘The Duchess has left one of her gloves here, Lord Arthur, and has asked me to bring it to her,’ said Mr. Podgers finally. ‘Ah, I see it on the sofa! Good evening.’\n\n‘Mr. Podgers, I must insist on your giving me a straightforward answer to a question I am going to put to you.’\n\n‘Another time, Lord Arthur, but the Duchess is anxious. I am afraid I must go.’\n\n‘You shall not go. The Duchess is in no hurry.’\n\n‘Ladies should not be kept waiting, Lord Arthur,’ said Mr. Podgers, with his sickly smile. ‘The fair sex is apt to be impatient.’\n\nLord Arthur’s finely-chiselled lips curled in petulant disdain. The poor Duchess seemed to him of very little importance at that moment. He walked across the room to where Mr. Podgers was standing, and held his hand out.\n\n‘Tell me what you saw there,’ he said. ‘Tell me the truth. I must know it. I am not a child.’"
+      },
+      "request_id": "f1d8633285e077c94327f33a",
+      "request_sha256": "5ebb977e0a7d40f383ef539971ce1be0592c748c66fda7fba0205488b8f5bba9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4b1e546a68b1f06f8e2b30c1333fb6ead68eccffd28a4cf11047f4dea7d672b8"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d8f42ee09a180e5a44466e95",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 469,
+      "passage_id": "V2_poe_hans_pfaal_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: d8f42ee09a180e5a44466e95\noriginal_word_count: 469\n\nPassage:\nThe body of the little man was more than proportionately broad, giving to his entire figure a rotundity highly absurd. His feet, of course, could not be seen at all, although a horny substance of suspicious nature was occasionally protruded through a rent in the bottom of the car, or to speak more properly, in the top of the hat. His hands were enormously large. His hair was extremely gray, and collected into a queue behind. His nose was prodigiously long, crooked, and inflammatory; his eyes full, brilliant, and acute; his chin and cheeks, although wrinkled with age, were broad, puffy, and double; but of ears of any kind or character there was not a semblance to be discovered upon any portion of his head. This odd little gentleman was dressed in a loose surtout of sky-blue satin, with tight breeches to match, fastened with silver buckles at the knees. His vest was of some bright yellow material; a white taffety cap was set jauntily on one side of his head; and, to complete his equipment, a blood-red silk handkerchief enveloped his throat, and fell down, in a dainty manner, upon his bosom, in a fantastic bow-knot of super-eminent dimensions.\n\nHaving descended, as I said before, to about one hundred feet from the surface of the earth, the little old gentleman was suddenly seized with a fit of trepidation, and appeared disinclined to make any nearer approach to terra firma. Throwing out, therefore, a quantity of sand from a canvas bag, which, he lifted with great difficulty, he became stationary in an instant. He then proceeded, in a hurried and agitated manner, to extract from a side-pocket in his surtout a large morocco pocket-book. This he poised suspiciously in his hand, then eyed it with an air of extreme surprise, and was evidently astonished at its weight. He at length opened it, and drawing there from a huge letter sealed with red sealing-wax and tied carefully with red tape, let it fall precisely at the feet of the burgomaster, Superbus Von Underduk. His Excellency stooped to take it up. But the aeronaut, still greatly discomposed, and having apparently no farther business to detain him in Rotterdam, began at this moment to make busy preparations for departure; and it being necessary to discharge a portion of ballast to enable him to reascend, the half dozen bags which he threw out, one after another, without taking the trouble to empty their contents, tumbled, every one of them, most unfortunately upon the back of the burgomaster, and rolled him over and over no less than one-and-twenty times, in the face of every man in Rotterdam. It is not to be supposed, however, that the great Underduk suffered this impertinence on the part of the little old man to pass off with impunity."
+      },
+      "request_id": "d8f42ee09a180e5a44466e95",
+      "request_sha256": "6390c9284d4e87f9407d61db2839e0b736e8401cc792c2bbc783c05c86297be8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "661ed9215ebafc911fa051bbaea119eda77f71b9218c490ca0b73c2f194686b9"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a9f4381081ce8121529851f0",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_poe_the_gold_bug_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: a9f4381081ce8121529851f0\noriginal_word_count: 453\n\nPassage:\nMany years ago, I contracted an intimacy with a Mr. William Legrand. He was of an ancient Huguenot family, and had once been wealthy; but a series of misfortunes had reduced him to want. To avoid the mortification consequent upon his disasters, he left New Orleans, the city of his forefathers, and took up his residence at Sullivan’s Island, near Charleston, South Carolina.\n\nThis Island is a very singular one. It consists of little else than the sea sand, and is about three miles long. Its breadth at no point exceeds a quarter of a mile. It is separated from the main land by a scarcely perceptible creek, oozing its way through a wilderness of reeds and slime, a favorite resort of the marsh hen. The vegetation, as might be supposed, is scant, or at least dwarfish. No trees of any magnitude are to be seen. Near the western extremity, where Fort Moultrie stands, and where are some miserable frame buildings, tenanted, during summer, by the fugitives from Charleston dust and fever, may be found, indeed, the bristly palmetto; but the whole island, with the exception of this western point, and a line of hard, white beach on the seacoast, is covered with a dense undergrowth of the sweet myrtle, so much prized by the horticulturists of England. The shrub here often attains the height of fifteen or twenty feet, and forms an almost impenetrable coppice, burthening the air with its fragrance.\n\nIn the inmost recesses of this coppice, not far from the eastern or more remote end of the island, Legrand had built himself a small hut, which he occupied when I first, by mere accident, made his acquaintance. This soon ripened into friendship—for there was much in the recluse to excite interest and esteem. I found him well educated, with unusual powers of mind, but infected with misanthropy, and subject to perverse moods of alternate enthusiasm and melancholy. He had with him many books, but rarely employed them. His chief amusements were gunning and fishing, or sauntering along the beach and through the myrtles, in quest of shells or entomological specimens—his collection of the latter might have been envied by a Swammerdamm. In these excursions he was usually accompanied by an old negro, called Jupiter, who had been manumitted before the reverses of the family, but who could be induced, neither by threats nor by promises, to abandon what he considered his right of attendance upon the footsteps of his young “Massa Will.” It is not improbable that the relatives of Legrand, conceiving him to be somewhat unsettled in intellect, had contrived to instil this obstinacy into Jupiter, with a view to the supervision and guardianship of the wanderer."
+      },
+      "request_id": "a9f4381081ce8121529851f0",
+      "request_sha256": "983310f5868d2f1c10a188da1f57f5d20450c821a1df6a7a0040c6dee0cc1d18",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bf97a4954f73a7ffb8224d5ea3790cacf70ab230b215a9714b053605a4b261eb"
+    }
+  ],
+  "session_id": "01a0e87a-db7a-7303-aca7-ee81da6c50ba",
+  "worker_id": "astra_aa",
+  "worker_identity_sha256": "f89346b92865e535f8532245987e03b9bf1204ea8d86eb06bb80af193eb55d71"
+}

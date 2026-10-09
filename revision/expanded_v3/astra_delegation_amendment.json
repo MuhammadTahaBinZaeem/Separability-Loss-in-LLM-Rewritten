@@ -1,0 +1,16 @@
+{
+  "assignment_rule": "Next unrecorded, unreserved frozen assignment in existing request order; no condition-specialist workers",
+  "batch_size": 3,
+  "comparison_status": "Separate exploratory workflow arm; do not pool as controlled API condition",
+  "context": "Fresh worker conversation per spawn, then persistent within worker; inherited system/tool scaffolding, no study history fork",
+  "delivery": "Codex collaboration subagents; no Astra API requests",
+  "existing_outputs_at_amendment": 9,
+  "first_output_preserved": true,
+  "independent_review_completed": false,
+  "original_provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "reasoning_effort": "xhigh",
+  "recorded_utc": "2026-09-27T07:54:17.022057+00:00",
+  "selected_model": "gpt-6-astra",
+  "user_authorization": "continue n ys u can use subagents for astra rewrites",
+  "verification_scope": "interface/orchestrator model selection, not backend checkpoint attestation"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "a908c255f57f6114da52",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:12:23.579267+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "cfd0b6eac0c72f388e07600b",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_poe_the_gold_bug_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: cfd0b6eac0c72f388e07600b\noriginal_word_count: 464\n\nPassage:\n“I’m gwine, Massa Will—deed I is,” replied the negro very promptly—“mos out to the eend now.”\n\n“_Out to the end!_” here fairly screamed Legrand, “do you say you are out to the end of that limb?”\n\n“Soon be to de eend, massa,—o-o-o-o-oh! Lor-gol-a-marcy! what is dis here pon de tree?”\n\n“Well!” cried Legrand, highly delighted, “what is it?”\n\n“Why taint noffin but a skull—somebody bin lef him head up de tree, and de crows done gobble ebery bit ob de meat off.”\n\n“A skull, you say!—very well—how is it fastened to the limb?—what holds it on?”\n\n“Sure nuff, massa; mus look. Why dis berry curous sarcumstance, pon my word—dare’s a great big nail in de skull, what fastens ob it on to de tree.”\n\n“Well now, Jupiter, do exactly as I tell you—do you hear?”\n\n“Yes, massa.”\n\n“Pay attention, then—find the left eye of the skull.”\n\n“Hum! hoo! dat’s good! why dare aint no eye lef at all.”\n\n“Curse your stupidity! do you know your right hand from your left?”\n\n“Yes, I knows dat—knows all about dat—’tis my lef hand what I chops de wood wid.”\n\n“To be sure! you are left-handed; and your left eye is on the same side as your left hand. Now, I suppose, you can find the left eye of the skull, or the place where the left eye has been. Have you found it?”\n\nHere was a long pause. At length the negro asked,\n\n“Is de lef eye of de skull pon de same side as de lef hand of de skull, too?—cause de skull aint got not a bit ob a hand at all—nebber mind! I got de lef eye now—here de lef eye! what mus do wid it?”\n\n“Let the beetle drop through it, as far as the string will reach—but be careful and not let go your hold of the string.”\n\n“All dat done, Massa Will; mighty easy ting for to put de bug fru de hole—look out for him dare below!”\n\nDuring this colloquy no portion of Jupiter’s person could be seen; but the beetle, which he had suffered to descend, was now visible at the end of the string, and glistened, like a globe of burnished gold, in the last rays of the setting sun, some of which still faintly illumined the eminence upon which we stood. The _scarabæus_ hung quite clear of any branches, and, if allowed to fall, would have fallen at our feet. Legrand immediately took the scythe, and cleared with it a circular space, three or four yards in diameter, just beneath the insect, and, having accomplished this, ordered Jupiter to let go the string and come down from the tree."
+      },
+      "request_id": "cfd0b6eac0c72f388e07600b",
+      "request_sha256": "afc9fcc25d68714b05d671bb7615caee034d477fbb02e3b21887310e524f3923",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a9c87322b99a8fee62d21c511890cbcbaccab1c28ff5bd636cc922646f84a7fd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "922ecf121ffdd5d51b677fd9",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_persuasion_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 922ecf121ffdd5d51b677fd9\noriginal_word_count: 461\n\nPassage:\nThe young people were all wild to see Lyme. Captain Wentworth talked of going there again himself, it was only seventeen miles from Uppercross; though November, the weather was by no means bad; and, in short, Louisa, who was the most eager of the eager, having formed the resolution to go, and besides the pleasure of doing as she liked, being now armed with the idea of merit in maintaining her own way, bore down all the wishes of her father and mother for putting it off till summer; and to Lyme they were to go—Charles, Mary, Anne, Henrietta, Louisa, and Captain Wentworth.\n\nThe first heedless scheme had been to go in the morning and return at night; but to this Mr Musgrove, for the sake of his horses, would not consent; and when it came to be rationally considered, a day in the middle of November would not leave much time for seeing a new place, after deducting seven hours, as the nature of the country required, for going and returning. They were, consequently, to stay the night there, and not to be expected back till the next day’s dinner. This was felt to be a considerable amendment; and though they all met at the Great House at rather an early breakfast hour, and set off very punctually, it was so much past noon before the two carriages, Mr Musgrove’s coach containing the four ladies, and Charles’s curricle, in which he drove Captain Wentworth, were descending the long hill into Lyme, and entering upon the still steeper street of the town itself, that it was very evident they would not have more than time for looking about them, before the light and warmth of the day were gone.\n\nAfter securing accommodations, and ordering a dinner at one of the inns, the next thing to be done was unquestionably to walk directly down to the sea. They were come too late in the year for any amusement or variety which Lyme, as a public place, might offer. The rooms were shut up, the lodgers almost all gone, scarcely any family but of the residents left; and, as there is nothing to admire in the buildings themselves, the remarkable situation of the town, the principal street almost hurrying into the water, the walk to the Cobb, skirting round the pleasant little bay, which, in the season, is animated with bathing machines and company; the Cobb itself, its old wonders and new improvements, with the very beautiful line of cliffs stretching out to the east of the town, are what the stranger’s eye will seek; and a very strange stranger it must be, who does not see charms in the immediate environs of Lyme, to make him wish to know it better."
+      },
+      "request_id": "922ecf121ffdd5d51b677fd9",
+      "request_sha256": "23f61f0eb59ab53cc4fc1f4ae8cc07785a55f8ffc79f033c96028c1bec371c4f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "55dd559a4c72cbfd7e422da7fddeb41a6666aa0a340e303f028f2cc286453497"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "961fa82a63e1f625b75f8c0a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_twain_tom_sawyer_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 961fa82a63e1f625b75f8c0a\noriginal_word_count: 459\n\nPassage:\n“Tom!”\n\nNo answer.\n\n“TOM!”\n\nNo answer.\n\n“What’s gone with that boy, I wonder? You TOM!”\n\nNo answer.\n\nThe old lady pulled her spectacles down and looked over them about the room; then she put them up and looked out under them. She seldom or never looked _through_ them for so small a thing as a boy; they were her state pair, the pride of her heart, and were built for “style,” not service—she could have seen through a pair of stove-lids just as well. She looked perplexed for a moment, and then said, not fiercely, but still loud enough for the furniture to hear:\n\n“Well, I lay if I get hold of you I’ll—”\n\nShe did not finish, for by this time she was bending down and punching under the bed with the broom, and so she needed breath to punctuate the punches with. She resurrected nothing but the cat.\n\n“I never did see the beat of that boy!”\n\nShe went to the open door and stood in it and looked out among the tomato vines and “jimpson” weeds that constituted the garden. No Tom. So she lifted up her voice at an angle calculated for distance and shouted:\n\n“Y-o-u-u TOM!”\n\nThere was a slight noise behind her and she turned just in time to seize a small boy by the slack of his roundabout and arrest his flight.\n\n“There! I might ’a’ thought of that closet. What you been doing in there?”\n\n“Nothing.”\n\n“Nothing! Look at your hands. And look at your mouth. What _is_ that truck?”\n\n“I don’t know, aunt.”\n\n“Well, I know. It’s jam—that’s what it is. Forty times I’ve said if you didn’t let that jam alone I’d skin you. Hand me that switch.”\n\nThe switch hovered in the air—the peril was desperate—\n\n“My! Look behind you, aunt!”\n\nThe old lady whirled round, and snatched her skirts out of danger. The lad fled on the instant, scrambled up the high board-fence, and disappeared over it.\n\nHis aunt Polly stood surprised a moment, and then broke into a gentle laugh.\n\n“Hang the boy, can’t I never learn anything? Ain’t he played me tricks enough like that for me to be looking out for him by this time? But old fools is the biggest fools there is. Can’t learn an old dog new tricks, as the saying is. But my goodness, he never plays them alike, two days, and how is a body to know what’s coming? He ’pears to know just how long he can torment me before I get my dander up, and he knows if he can make out to put me off for a minute or make me laugh, it’s all down again and I can’t hit him a lick."
+      },
+      "request_id": "961fa82a63e1f625b75f8c0a",
+      "request_sha256": "50ba021592fde178fc569d410920baf2a0617103139767e665f02987c9573a5a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1559a7e2f0f2e51578717f1d7fc18a1c5827cd776f1b7eacb7282418293fc6fc"
+    }
+  ],
+  "session_id": "01a0e85b-f4da-78c2-af90-17d8fea0262a",
+  "worker_id": "astra_r",
+  "worker_identity_sha256": "1a9221512f2af9568b0b6124d87657856f97eb8192807e50db5ed5d6fe4cdc4b"
+}

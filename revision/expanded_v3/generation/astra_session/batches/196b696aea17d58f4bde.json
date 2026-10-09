@@ -1,0 +1,68 @@
+{
+  "batch_id": "196b696aea17d58f4bde",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:22:02.181295+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5f240ed308bedab35a4f5e92",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 499,
+      "passage_id": "V2_twain_connecticut_yankee_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 5f240ed308bedab35a4f5e92\noriginal_word_count: 499\n\nPassage:\nYou see I had my handkerchief in my helmet; and some other things; but it was that kind of a helmet that you can't take off by yourself. That hadn't occurred to me when I put it there; and in fact I didn't know it. I supposed it would be particularly convenient there. And so now, the thought of its being there, so handy and close by, and yet not get-at-able, made it all the worse and the harder to bear. Yes, the thing that you can't get is the thing that you want, mainly; every one has noticed that. Well, it took my mind off from everything else; took it clear off, and centered it in my helmet; and mile after mile, there it stayed, imagining the handkerchief, picturing the handkerchief; and it was bitter and aggravating to have the salt sweat keep trickling down into my eyes, and I couldn't get at it. It seems like a little thing, on paper, but it was not a little thing at all; it was the most real kind of misery. I would not say it if it was not so. I made up my mind that I would carry along a reticule next time, let it look how it might, and people say what they would. Of course these iron dudes of the Round Table would think it was scandalous, and maybe raise Sheol about it, but as for me, give me comfort first, and style afterwards. So we jogged along, and now and then we struck a stretch of dust, and it would tumble up in clouds and get into my nose and make me sneeze and cry; and of course I said things I oughtn't to have said, I don't deny that. I am not better than others.\n\nWe couldn't seem to meet anybody in this lonesome Britain, not even an ogre; and, in the mood I was in then, it was well for the ogre; that is, an ogre with a handkerchief. Most knights would have thought of nothing but getting his armor; but so I got his bandanna, he could keep his hardware, for all of me.\n\nMeantime, it was getting hotter and hotter in there. You see, the sun was beating down and warming up the iron more and more all the time. Well, when you are hot, that way, every little thing irritates you. When I trotted, I rattled like a crate of dishes, and that annoyed me; and moreover I couldn't seem to stand that shield slatting and banging, now about my breast, now around my back; and if I dropped into a walk my joints creaked and screeched in that wearisome way that a wheelbarrow does, and as we didn't create any breeze at that gait, I was like to get fried in that stove; and besides, the quieter you went the heavier the iron settled down on you and the more and more tons you seemed to weigh every minute."
+      },
+      "request_id": "5f240ed308bedab35a4f5e92",
+      "request_sha256": "33dd3c25bc4a2143e5aca114fedd1857fd60d8c8c0ad31d84cd1726df7c8159f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9c29071d207a292bd5ac1ba872ac7f228c47f3020a18e7bf30d7f9dc1b10f87c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ca2d71fae45e9ac63618b08f",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_shelley_the_last_man_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: ca2d71fae45e9ac63618b08f\noriginal_word_count: 452\n\nPassage:\nYe spirits of storm, receive me! ye powers of destruction, open wide your arms, and clasp me for ever! if a kinder power have not decreed another end, so that after long endurance I may reap my reward, and again feel my heart beat near the heart of another like to me.\n\nTiber, the road which is spread by nature’s own hand, threading her continent, was at my feet, and many a boat was tethered to the banks. I would with a few books, provisions, and my dog, embark in one of these and float down the current of the stream into the sea; and then, keeping near land, I would coast the beauteous shores and sunny promontories of the blue Mediterranean, pass Naples, along Calabria, and would dare the twin perils of Scylla and Charybdis; then, with fearless aim, (for what had I to lose?) skim ocean’s surface towards Malta and the further Cyclades. I would avoid Constantinople, the sight of whose well-known towers and inlets belonged to another state of existence from my present one; I would coast Asia Minor, and Syria, and, passing the seven-mouthed Nile, steer northward again, till losing sight of forgotten Carthage and deserted Lybia, I should reach the pillars of Hercules. And then—no matter where—the oozy caves, and soundless depths of ocean may be my dwelling, before I accomplish this long-drawn voyage, or the arrow of disease find my heart as I float singly on the weltering Mediterranean; or, in some place I touch at, I may find what I seek—a companion; or if this may not be—to endless time, decrepid and grey headed—youth already in the grave with those I love— the lone wanderer will still unfurl his sail, and clasp the tiller—and, still obeying the breezes of heaven, for ever round another and another promontory, anchoring in another and another bay, still ploughing seedless ocean, leaving behind the verdant land of native Europe, adown the tawny shore of Africa, having weathered the fierce seas of the Cape, I may moor my worn skiff in a creek, shaded by spicy groves of the odorous islands of the far Indian ocean.\n\nThese are wild dreams. Yet since, now a week ago, they came on me, as I stood on the height of St. Peter’s, they have ruled my imagination. I have chosen my boat, and laid in my scant stores. I have selected a few books; the principal are Homer and Shakespeare—But the libraries of the world are thrown open to me—and in any port I can renew my stock. I form no expectation of alteration for the better; but the monotonous present is intolerable to me."
+      },
+      "request_id": "ca2d71fae45e9ac63618b08f",
+      "request_sha256": "37d1475a19d036dbfeeaac595f82ba85c1e8fd16573ff966eb56bc1e43c40e57",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f2e5db312022b55b4e1aa5b553d5e7049138b146d16f0f7ed8e54abac092eada"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "fbccaa1180a3d28fd0f99058",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_wilde_canterville_ghost_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: fbccaa1180a3d28fd0f99058\noriginal_word_count: 485\n\nPassage:\nHe stepped stealthily out of the wainscoting, with an evil smile on his cruel, wrinkled mouth, and the moon hid her face in a cloud as he stole past the great oriel window, where his own arms and those of his murdered wife were blazoned in azure and gold. On and on he glided, like an evil shadow, the very darkness seeming to loathe him as he passed. Once he thought he heard something call, and stopped; but it was only the baying of a dog from the Red Farm, and he went on, muttering strange sixteenth-century curses, and ever and anon brandishing the rusty dagger in the midnight air. Finally he reached the corner of the passage that led to luckless Washington’s room. For a moment he paused there, the wind blowing his long grey locks about his head, and twisting into grotesque and fantastic folds the nameless horror of the dead man’s shroud. Then the clock struck the quarter, and he felt the time was come. He chuckled to himself, and turned the corner; but no sooner had he done so, than, with a piteous wail of terror, he fell back, and hid his blanched face in his long, bony hands. Right in front of him was standing a horrible spectre, motionless as a carven image, and monstrous as a madman’s dream! Its head was bald and burnished; its face round, and fat, and white; and hideous laughter seemed to have writhed its features into an eternal grin. From the eyes streamed rays of scarlet light, the mouth was a wide well of fire, and a hideous garment, like to his own, swathed with its silent snows the Titan form. On its breast was a placard with strange writing in antique characters, some scroll of shame it seemed, some record of wild sins, some awful calendar of crime, and, with its right hand, it bore aloft a falchion of gleaming steel.\n\nNever having seen a ghost before, he naturally was terribly frightened, and, after a second hasty glance at the awful phantom, he fled back to his room, tripping up in his long winding-sheet as he sped down the corridor, and finally dropping the rusty dagger into the Minister’s jack-boots, where it was found in the morning by the butler. Once in the privacy of his own apartment, he flung himself down on a small pallet-bed, and hid his face under the clothes. After a time, however, the brave old Canterville spirit asserted itself, and he determined to go and speak to the other ghost as soon as it was daylight. Accordingly, just as the dawn was touching the hills with silver, he returned towards the spot where he had first laid eyes on the grisly phantom, feeling that, after all, two ghosts were better than one, and that, by the aid of his new friend, he might safely grapple with the twins."
+      },
+      "request_id": "fbccaa1180a3d28fd0f99058",
+      "request_sha256": "1521fb649fd33e61698621170467a13e6c0ae09c68c26f1d4051291d19bd9699",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a4e1341cc39a43e66402427ac7cef8908e07b0261bd77bc340aafec28b040dcc"
+    }
+  ],
+  "session_id": "01a0e861-03f8-7221-8672-8e262e9ebfc7",
+  "worker_id": "astra_t",
+  "worker_identity_sha256": "c223dffc33181152e7b2fea39b5f4b9f77c7ee2ed9647b0e46dbc4f2b2b1711f"
+}

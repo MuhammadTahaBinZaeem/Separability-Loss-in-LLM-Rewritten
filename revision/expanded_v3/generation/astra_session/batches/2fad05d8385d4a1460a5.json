@@ -1,0 +1,68 @@
+{
+  "batch_id": "2fad05d8385d4a1460a5",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:15:34.414851+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e773dd5bf310564563f3ea5d",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_dickens_oliver_twist_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: e773dd5bf310564563f3ea5d\noriginal_word_count: 463\n\nPassage:\n“Well, well, Mr. Bumble,” he said at length, “there’s no denying that, since the new system of feeding has come in, the coffins are something narrower and more shallow than they used to be; but we must have some profit, Mr. Bumble. Well-seasoned timber is an expensive article, sir; and all the iron handles come, by canal, from Birmingham.”\n\n“Well, well,” said Mr. Bumble, “every trade has its drawbacks. A fair profit is, of course, allowable.”\n\n“Of course, of course,” replied the undertaker; “and if I don’t get a profit upon this or that particular article, why, I make it up in the long-run, you see—he! he! he!”\n\n“Just so,” said Mr. Bumble.\n\n“Though I must say,” continued the undertaker, resuming the current of observations which the beadle had interrupted: “though I must say, Mr. Bumble, that I have to contend against one very great disadvantage: which is, that all the stout people go off the quickest. The people who have been better off, and have paid rates for many years, are the first to sink when they come into the house; and let me tell you, Mr. Bumble, that three or four inches over one’s calculation makes a great hole in one’s profits: especially when one has a family to provide for, sir.”\n\nAs Mr. Sowerberry said this, with the becoming indignation of an ill-used man; and as Mr. Bumble felt that it rather tended to convey a reflection on the honour of the parish; the latter gentleman thought it advisable to change the subject. Oliver Twist being uppermost in his mind, he made him his theme.\n\n“By the bye,” said Mr. Bumble, “you don’t know anybody who wants a boy, do you? A porochial ’prentis, who is at present a dead-weight; a millstone, as I may say, round the porochial throat? Liberal terms, Mr. Sowerberry, liberal terms?” As Mr. Bumble spoke, he raised his cane to the bill above him, and gave three distinct raps upon the words “five pounds”: which were printed thereon in Roman capitals of gigantic size.\n\n“Gadso!” said the undertaker: taking Mr. Bumble by the gilt-edged lappel of his official coat; “that’s just the very thing I wanted to speak to you about. You know—dear me, what a very elegant button this is, Mr. Bumble! I never noticed it before.”\n\n“Yes, I think it rather pretty,” said the beadle, glancing proudly downwards at the large brass buttons which embellished his coat. “The die is the same as the porochial seal—the Good Samaritan healing the sick and bruised man. The board presented it to me on Newyear’s morning, Mr. Sowerberry. I put it on, I remember, for the first time, to attend the inquest on that reduced tradesman, who died in a doorway at midnight.”"
+      },
+      "request_id": "e773dd5bf310564563f3ea5d",
+      "request_sha256": "1a7b26c66acadd93ae2836ee17126a65f12f76b0d30c5a21920d6287560a7a1c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6a1abd0a71724b0a31a4848a02a371742e192232b14b5f04b0c9d8c8abfeeaea"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3d940158ab870d0a7b994937",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_austen_pride_and_prejudice_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 3d940158ab870d0a7b994937\noriginal_word_count: 462\n\nPassage:\nWithout allowing herself time for consideration, and scarcely knowing what she felt, Elizabeth, on finishing this letter, instantly seized the other, and opening it with the utmost impatience, read as follows: it had been written a day later than the conclusion of the first.\n\n“By this time, my dearest sister, you have received my hurried letter; I wish this may be more intelligible, but though not confined for time, my head is so bewildered that I cannot answer for being coherent. Dearest Lizzy, I hardly know what I would write, but I have bad news for you, and it cannot be delayed. Imprudent as a marriage between Mr. Wickham and our poor Lydia would be, we are now anxious to be assured it has taken place, for there is but too much reason to fear they are not gone to Scotland. Colonel Forster came yesterday, having left Brighton the day before, not many hours after the express. Though Lydia’s short letter to Mrs. F. gave them to understand that they were going to Gretna Green, something was dropped by Denny expressing his belief that W. never intended to go there, or to marry Lydia at all, which was repeated to Colonel F., who, instantly taking the alarm, set off from B., intending to trace their route. He did trace them easily to Clapham, but no farther; for on entering that place, they removed into a hackney-coach, and dismissed the chaise that brought them from Epsom. All that is known after this is, that they were seen to continue the London road. I know not what to think. After making every possible inquiry on that side of London, Colonel F. came on into Hertfordshire, anxiously renewing them at all the turnpikes, and at the inns in Barnet and Hatfield, but without any success,--no such people had been seen to pass through. With the kindest concern he came on to Longbourn, and broke his apprehensions to us in a manner most creditable to his heart. I am sincerely grieved for him and Mrs. F.; but no one can throw any blame on them. Our distress, my dear Lizzy, is very great. My father and mother believe the worst, but I cannot think so ill of him. Many circumstances might make it more eligible for them to be married privately in town than to pursue their first plan; and even if _he_ could form such a design against a young woman of Lydia’s connections, which is not likely, can I suppose her so lost to everything? Impossible! I grieve to find, however, that Colonel F. is not disposed to depend upon their marriage: he shook his head when I expressed my hopes, and said he feared W. was not a man to be trusted."
+      },
+      "request_id": "3d940158ab870d0a7b994937",
+      "request_sha256": "346f8822491140a5050627334bb815fe97a753fac70cdcd46679b92a1750ac74",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7e8e30e5706e4a0752fc42941b2cdab6927daa08116594923137dabc8f45aed2"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8e33e20f3fa4c1b3cf329399",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 8e33e20f3fa4c1b3cf329399\noriginal_word_count: 466\n\nPassage:\n“‘We have been to your residence,’ said the first, ‘and not being so fortunate as to find you there, and being informed that you were probably walking in this direction, we followed, in the hope of overtaking you. Will you please to enter the carriage?’\n\n“The manner of both was imperious, and they both moved, as these words were spoken, so as to place me between themselves and the carriage door. They were armed. I was not.\n\n“‘Gentlemen,’ said I, ‘pardon me; but I usually inquire who does me the honour to seek my assistance, and what is the nature of the case to which I am summoned.’\n\n“The reply to this was made by him who had spoken second. ‘Doctor, your clients are people of condition. As to the nature of the case, our confidence in your skill assures us that you will ascertain it for yourself better than we can describe it. Enough. Will you please to enter the carriage?’\n\n“I could do nothing but comply, and I entered it in silence. They both entered after me--the last springing in, after putting up the steps. The carriage turned about, and drove on at its former speed.\n\n“I repeat this conversation exactly as it occurred. I have no doubt that it is, word for word, the same. I describe everything exactly as it took place, constraining my mind not to wander from the task. Where I make the broken marks that follow here, I leave off for the time, and put my paper in its hiding-place.\n\n*****\n\n“The carriage left the streets behind, passed the North Barrier, and emerged upon the country road. At two-thirds of a league from the Barrier--I did not estimate the distance at that time, but afterwards when I traversed it--it struck out of the main avenue, and presently stopped at a solitary house, We all three alighted, and walked, by a damp soft footpath in a garden where a neglected fountain had overflowed, to the door of the house. It was not opened immediately, in answer to the ringing of the bell, and one of my two conductors struck the man who opened it, with his heavy riding glove, across the face.\n\n“There was nothing in this action to attract my particular attention, for I had seen common people struck more commonly than dogs. But, the other of the two, being angry likewise, struck the man in like manner with his arm; the look and bearing of the brothers were then so exactly alike, that I then first perceived them to be twin brothers.\n\n“From the time of our alighting at the outer gate (which we found locked, and which one of the brothers had opened to admit us, and had relocked), I had heard cries proceeding from an upper chamber."
+      },
+      "request_id": "8e33e20f3fa4c1b3cf329399",
+      "request_sha256": "b101ecf61552fdac8d9f736240f33f0a58305c48899257ae72a8e650e6fe6dd3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e56c50efaca24628ec38fc710cea0debd4a6206a8fe24b18523b8040b45ad3f2"
+    }
+  ],
+  "session_id": "01a0e85b-f4da-78c2-af90-17d8fea0262a",
+  "worker_id": "astra_r",
+  "worker_identity_sha256": "1a9221512f2af9568b0b6124d87657856f97eb8192807e50db5ed5d6fe4cdc4b"
+}

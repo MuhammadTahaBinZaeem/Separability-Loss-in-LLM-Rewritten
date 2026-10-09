@@ -1,0 +1,68 @@
+{
+  "batch_id": "2e1053bae53a70232a44",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:19:20.863200+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6e7a40862fb26983db41cefb",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V2_poe_hans_pfaal_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 6e7a40862fb26983db41cefb\noriginal_word_count: 458\n\nPassage:\nNo fancy may picture the sublimity which might have been exhibited by a similar phenomenon taking place amid the darkness of the night. Hell itself might have been found a fitting image. Even as it was, my hair stood on end, while I gazed afar down within the yawning abysses, letting imagination descend, as it were, and stalk about in the strange vaulted halls, and ruddy gulfs, and red ghastly chasms of the hideous and unfathomable fire. I had indeed made a narrow escape. Had the balloon remained a very short while longer within the cloud—that is to say—had not the inconvenience of getting wet, determined me to discharge the ballast, inevitable ruin would have been the consequence. Such perils, although little considered, are perhaps the greatest which must be encountered in balloons. I had by this time, however, attained too great an elevation to be any longer uneasy on this head.\n\n“I was now rising rapidly, and by seven o’clock the barometer indicated an altitude of no less than nine miles and a half. I began to find great difficulty in drawing my breath. My head, too, was excessively painful; and, having felt for some time a moisture about my cheeks, I at length discovered it to be blood, which was oozing quite fast from the drums of my ears. My eyes, also, gave me great uneasiness. Upon passing the hand over them they seemed to have protruded from their sockets in no inconsiderable degree; and all objects in the car, and even the balloon itself, appeared distorted to my vision. These symptoms were more than I had expected, and occasioned me some alarm. At this juncture, very imprudently, and without consideration, I threw out from the car three five-pound pieces of ballast. The accelerated rate of ascent thus obtained, carried me too rapidly, and without sufficient gradation, into a highly rarefied stratum of the atmosphere, and the result had nearly proved fatal to my expedition and to myself. I was suddenly seized with a spasm which lasted for more than five minutes, and even when this, in a measure, ceased, I could catch my breath only at long intervals, and in a gasping manner—bleeding all the while copiously at the nose and ears, and even slightly at the eyes. The pigeons appeared distressed in the extreme, and struggled to escape; while the cat mewed piteously, and, with her tongue hanging out of her mouth, staggered to and fro in the car as if under the influence of poison. I now too late discovered the great rashness of which I had been guilty in discharging the ballast, and my agitation was excessive. I anticipated nothing less than death, and death in a few minutes."
+      },
+      "request_id": "6e7a40862fb26983db41cefb",
+      "request_sha256": "4d34b0696874760be38019c94fa93c83a687f3f1af7bee096fb1dc8d71d79c60",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "32ffdf387f12b44cdfe23eeb10af0ed6504cb401871c16ba770079504424fe2c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "573023e6d2b44acbc29661de",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 541,
+      "passage_id": "V2_twain_connecticut_yankee_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 573023e6d2b44acbc29661de\noriginal_word_count: 541\n\nPassage:\nAnd Sir Arnold, and Sir Gauter, knights of the castle, encountered with Sir Brandiles and Sir Kay, and these four knights encountered mightily, and brake their spears to their hands. Then came Sir Pertolope from the castle, and there encountered with him Sir Lionel, and there Sir Pertolope the green knight smote down Sir Lionel, brother to Sir Launcelot. All this was marked by noble heralds, who bare him best, and their names. Then Sir Bleobaris brake his spear upon Sir Gareth, but of that stroke Sir Bleobaris fell to the earth. When Sir Galihodin saw that, he bad Sir Gareth keep him, and Sir Gareth smote him to the earth. Then Sir Galihud gat a spear to avenge his brother, and in the same wise Sir Gareth served him, and Sir Dinadan and his brother La Cote Male Taile, and Sir Sagramore le Disirous, and Sir Dodinas le Savage; all these he bare down with one spear. When King Aswisance of Ireland saw Sir Gareth fare so he marvelled what he might be, that one time seemed green, and another time, at his again coming, he seemed blue. And thus at every course that he rode to and fro he changed his color, so that there might neither king nor knight have ready cognizance of him. Then Sir Agwisance the King of Ireland encountered with Sir Gareth, and there Sir Gareth smote him from his horse, saddle and all. And then came King Carados of Scotland, and Sir Gareth smote him down horse and man. And in the same wise he served King Uriens of the land of Gore. And then there came in Sir Bagdemagus, and Sir Gareth smote him down horse and man to the earth. And Bagdemagus's son Meliganus brake a spear upon Sir Gareth mightily and knightly. And then Sir Galahault the noble prince cried on high, Knight with the many colors, well hast thou justed; now make thee ready that I may just with thee. Sir Gareth heard him, and he gat a great spear, and so they encountered together, and there the prince brake his spear; but Sir Gareth smote him upon the left side of the helm, that he reeled here and there, and he had fallen down had not his men recovered him. Truly, said King Arthur, that knight with the many colors is a good knight. Wherefore the king called unto him Sir Launcelot, and prayed him to encounter with that knight. Sir, said Launcelot, I may as well find in my heart for to forbear him at this time, for he hath had travail enough this day, and when a good knight doth so well upon some day, it is no good knight's part to let him of his worship, and, namely, when he seeth a knight hath done so great labour; for peradventure, said Sir Launcelot, his quarrel is here this day, and peradventure he is best beloved with this lady of all that be here, for I see well he paineth himself and enforceth him to do great deeds, and therefore, said Sir Launcelot, as for me, this day he shall have the honour; though it lay in my power to put him from it, I would not."
+      },
+      "request_id": "573023e6d2b44acbc29661de",
+      "request_sha256": "70956e580de41e2539a48df41f50df9e15edf4911baf30be45da6aa143ba2058",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f0b0481a941e93c198a9af924d6006900932e5d03d056dc284979a25aaf656c8"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "535cafd4f4922fc7787de55f",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_shelley_frankenstein_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 535cafd4f4922fc7787de55f\noriginal_word_count: 452\n\nPassage:\n“Such were the events that preyed on the heart of Felix and rendered him, when I first saw him, the most miserable of his family. He could have endured poverty, and while this distress had been the meed of his virtue, he gloried in it; but the ingratitude of the Turk and the loss of his beloved Safie were misfortunes more bitter and irreparable. The arrival of the Arabian now infused new life into his soul.\n\n“When the news reached Leghorn that Felix was deprived of his wealth and rank, the merchant commanded his daughter to think no more of her lover, but to prepare to return to her native country. The generous nature of Safie was outraged by this command; she attempted to expostulate with her father, but he left her angrily, reiterating his tyrannical mandate.\n\n“A few days after, the Turk entered his daughter’s apartment and told her hastily that he had reason to believe that his residence at Leghorn had been divulged and that he should speedily be delivered up to the French government; he had consequently hired a vessel to convey him to Constantinople, for which city he should sail in a few hours. He intended to leave his daughter under the care of a confidential servant, to follow at her leisure with the greater part of his property, which had not yet arrived at Leghorn.\n\n“When alone, Safie resolved in her own mind the plan of conduct that it would become her to pursue in this emergency. A residence in Turkey was abhorrent to her; her religion and her feelings were alike averse to it. By some papers of her father which fell into her hands she heard of the exile of her lover and learnt the name of the spot where he then resided. She hesitated some time, but at length she formed her determination. Taking with her some jewels that belonged to her and a sum of money, she quitted Italy with an attendant, a native of Leghorn, but who understood the common language of Turkey, and departed for Germany.\n\n“She arrived in safety at a town about twenty leagues from the cottage of De Lacey, when her attendant fell dangerously ill. Safie nursed her with the most devoted affection, but the poor girl died, and the Arabian was left alone, unacquainted with the language of the country and utterly ignorant of the customs of the world. She fell, however, into good hands. The Italian had mentioned the name of the spot for which they were bound, and after her death the woman of the house in which they had lived took care that Safie should arrive in safety at the cottage of her lover.”"
+      },
+      "request_id": "535cafd4f4922fc7787de55f",
+      "request_sha256": "5e2aabab1dbf41ac44c065a1e60d450d04da57791a0bc5762a403c581282a433",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3150a08074fd2ae4682bbfb4ea97c8d48bc397eead5b14dfdbf63fd3a9ce77c6"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

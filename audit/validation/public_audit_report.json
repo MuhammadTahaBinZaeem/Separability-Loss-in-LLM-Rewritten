@@ -1,0 +1,109 @@
+{
+  "completed_utc": "2026-10-08T20:22:03.574197+00:00",
+  "environment": {
+    "locked_distributions": 24,
+    "mismatches": [],
+    "passed": true,
+    "python": "3.12.11"
+  },
+  "generation_check": {
+    "arms": [
+      {
+        "failed": 1,
+        "model_key": "gem31lite",
+        "outcomes": 1080,
+        "passed_technical_qc": 29,
+        "valid": 1079,
+        "warning": 1050
+      },
+      {
+        "failed": 97,
+        "model_key": "azure_replication",
+        "outcomes": 1080,
+        "passed_technical_qc": 981,
+        "valid": 983,
+        "warning": 2
+      },
+      {
+        "failed": 78,
+        "model_key": "codex51",
+        "outcomes": 1080,
+        "passed_technical_qc": 792,
+        "valid": 1002,
+        "warning": 210
+      },
+      {
+        "failed": 94,
+        "model_key": "luna56",
+        "outcomes": 1080,
+        "passed_technical_qc": 951,
+        "valid": 986,
+        "warning": 35
+      },
+      {
+        "failed": 92,
+        "model_key": "terra56",
+        "outcomes": 1080,
+        "passed_technical_qc": 980,
+        "valid": 988,
+        "warning": 8
+      },
+      {
+        "failed": 0,
+        "model_key": "astra_session",
+        "outcomes": 1080,
+        "passed_technical_qc": 985,
+        "valid": 1080,
+        "warning": 95
+      }
+    ],
+    "failed": 362,
+    "outcomes": 6480,
+    "passed": true,
+    "scope": "Recorded first-outcome grid, request hashes, corrected-source lineage and output hashes; no regeneration",
+    "valid": 6118
+  },
+  "mode": "audit",
+  "model_api_calls": 0,
+  "participant_ratings_read": false,
+  "passed": true,
+  "primary_audit": {
+    "classifiers_refitted": false,
+    "holm_adjustment_reconstructed": true,
+    "participant_ratings_replayed": false,
+    "passed": true,
+    "primary_point_estimates": 54,
+    "raw_permutation_pvalues_and_intervals_recomputed": false,
+    "withheld_review_scope": "Individual ratings, pair-level risk decisions and adjudication remain withheld; review-gated results cannot be independently reconstructed from this public snapshot."
+  },
+  "private_inputs_read": false,
+  "public_manifest_sha256": "e88586200746db5c3e8ee3b12c5da106e640b24b38eec29a542f870028217b9a",
+  "published_files_checked": 1931,
+  "replays": [],
+  "repository_evidence_modified": false,
+  "scientific_manifest_check": {
+    "input_hash_references_checked": 546,
+    "original_scientific_manifests": 18,
+    "output_hash_references_checked": 870,
+    "passed": true,
+    "scope": "Primary, transfer and explanatory files linked to unchanged frozen manifests"
+  },
+  "scope_limit": "Computational consistency does not verify reviewer identity, independence, consent, ethics approval or the backend identity of session outputs.",
+  "source_check": {
+    "folds": 3,
+    "participant_source_review_verified": false,
+    "passages": 360,
+    "passed": true,
+    "scope": "Archived spans, hashes, lengths, balance, nonoverlap and held-out-work grouping",
+    "works": 18
+  },
+  "withheld_paths": [
+    "revision/expanded_v3/annotations/validation.json",
+    "revision/expanded_v3/annotations/verified_flags.csv",
+    "revision/expanded_v3/review_release/self_reported_875f34242015cc50/adjudication_decisions.csv",
+    "revision/expanded_v3/review_release/self_reported_875f34242015cc50/flags.csv",
+    "revision/expanded_v3/review_release/self_reported_875f34242015cc50/participant_methods.json",
+    "revision/expanded_v3/review_release/self_reported_875f34242015cc50/ratings.csv",
+    "revision/expanded_v3/review_release/self_reported_875f34242015cc50/source_verdicts.csv"
+  ]
+}

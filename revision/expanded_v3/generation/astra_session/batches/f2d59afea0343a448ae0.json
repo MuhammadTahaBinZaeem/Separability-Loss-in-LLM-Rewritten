@@ -1,0 +1,68 @@
+{
+  "batch_id": "f2d59afea0343a448ae0",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:11:45.235073+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c079b39ca257e19eda4f409e",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_pride_and_prejudice_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: c079b39ca257e19eda4f409e\noriginal_word_count: 465\n\nPassage:\nBut it is of small importance.”\n\n“I might as well inquire,” replied she, “why, with so evident a design of offending and insulting me, you chose to tell me that you liked me against your will, against your reason, and even against your character? Was not this some excuse for incivility, if I _was_ uncivil? But I have other provocations. You know I have. Had not my own feelings decided against you, had they been indifferent, or had they even been favourable, do you think that any consideration would tempt me to accept the man who has been the means of ruining, perhaps for ever, the happiness of a most beloved sister?”\n\nAs she pronounced these words, Mr. Darcy changed colour; but the emotion was short, and he listened without attempting to interrupt her while she continued,--\n\n“I have every reason in the world to think ill of you. No motive can excuse the unjust and ungenerous part you acted _there_. You dare not, you cannot deny that you have been the principal, if not the only means of dividing them from each other, of exposing one to the censure of the world for caprice and instability, the other to its derision for disappointed hopes, and involving them both in misery of the acutest kind.”\n\nShe paused, and saw with no slight indignation that he was listening with an air which proved him wholly unmoved by any feeling of remorse. He even looked at her with a smile of affected incredulity.\n\n“Can you deny that you have done it?” she repeated.\n\nWith assumed tranquillity he then replied, “I have no wish of denying that I did everything in my power to separate my friend from your sister, or that I rejoice in my success. Towards _him_ I have been kinder than towards myself.”\n\nElizabeth disdained the appearance of noticing this civil reflection, but its meaning did not escape, nor was it likely to conciliate her.\n\n“But it is not merely this affair,” she continued, “on which my dislike is founded. Long before it had taken place, my opinion of you was decided. Your character was unfolded in the recital which I received many months ago from Mr. Wickham. On this subject, what can you have to say? In what imaginary act of friendship can you here defend yourself? or under what misrepresentation can you here impose upon others?”\n\n“You take an eager interest in that gentleman’s concerns,” said Darcy, in a less tranquil tone, and with a heightened colour.\n\n“Who that knows what his misfortunes have been can help feeling an interest in him?”\n\n“His misfortunes!” repeated Darcy, contemptuously,--“yes, his misfortunes have been great indeed.”\n\n“And of your infliction,” cried Elizabeth, with energy; “You have reduced him to his present state of poverty--comparative poverty."
+      },
+      "request_id": "c079b39ca257e19eda4f409e",
+      "request_sha256": "b6d2260d9417a609cc42bdd533a8a3d9a14f9e8627936d9d7ba3cade2a01162a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "409d6fafe5614d0db79824448c3a550448fa60fe6247e7de8d5d532052a771b5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c4dda7a5b8545490f742fb32",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_poe_the_gold_bug_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: c4dda7a5b8545490f742fb32\noriginal_word_count: 454\n\nPassage:\nThe winters in the latitude of Sullivan’s Island are seldom very severe, and in the fall of the year it is a rare event indeed when a fire is considered necessary. About the middle of October, 18—, there occurred, however, a day of remarkable chilliness. Just before sunset I scrambled my way through the evergreens to the hut of my friend, whom I had not visited for several weeks—my residence being, at that time, in Charleston, a distance of nine miles from the island, while the facilities of passage and re-passage were very far behind those of the present day. Upon reaching the hut I rapped, as was my custom, and getting no reply, sought for the key where I knew it was secreted, unlocked the door and went in. A fine fire was blazing upon the hearth. It was a novelty, and by no means an ungrateful one. I threw off an overcoat, took an arm-chair by the crackling logs, and awaited patiently the arrival of my hosts.\n\nSoon after dark they arrived, and gave me a most cordial welcome. Jupiter, grinning from ear to ear, bustled about to prepare some marsh-hens for supper. Legrand was in one of his fits—how else shall I term them?—of enthusiasm. He had found an unknown bivalve, forming a new genus, and, more than this, he had hunted down and secured, with Jupiter’s assistance, a _scarabæus_ which he believed to be totally new, but in respect to which he wished to have my opinion on the morrow.\n\n“And why not to-night?” I asked, rubbing my hands over the blaze, and wishing the whole tribe of _scarabæi_ at the devil.\n\n“Ah, if I had only known you were here!” said Legrand, “but it’s so long since I saw you; and how could I foresee that you would pay me a visit this very night of all others? As I was coming home I met Lieutenant G——, from the fort, and, very foolishly, I lent him the bug; so it will be impossible for you to see it until the morning. Stay here to-night, and I will send Jup down for it at sunrise. It is the loveliest thing in creation!”\n\n“What?—sunrise?”\n\n“Nonsense! no!—the bug. It is of a brilliant gold color—about the size of a large hickory-nut—with two jet black spots near one extremity of the back, and another, somewhat longer, at the other. The _antennæ_ are—”\n\n“Dey aint no tin in him, Massa Will, I keep a tellin on you,” here interrupted Jupiter; “de bug is a goole bug, solid, ebery bit of him, inside and all, sep him wing—neber feel half so hebby a bug in my life.”"
+      },
+      "request_id": "c4dda7a5b8545490f742fb32",
+      "request_sha256": "0c7980414e8878d24ad8949dcbe78cc6b91e755e9b6a40a99585ea357f4b99fd",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "007807999ec3acf92d5e502be7d9b76c657b79d9f228dfce475097c4f0e88fd9"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0bc279e066eea40257367476",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 483,
+      "passage_id": "V2_austen_persuasion_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 0bc279e066eea40257367476\noriginal_word_count: 483\n\nPassage:\nMr Elliot looking up with so much respect.”\n\n“Quite delightful!” cried Mrs Clay, not daring, however, to turn her eyes towards Anne. “Exactly like father and son! Dear Miss Elliot, may I not say father and son?”\n\n“Oh! I lay no embargo on any body’s words. If you will have such ideas! But, upon my word, I am scarcely sensible of his attentions being beyond those of other men.”\n\n“My dear Miss Elliot!” exclaimed Mrs Clay, lifting her hands and eyes, and sinking all the rest of her astonishment in a convenient silence.\n\n“Well, my dear Penelope, you need not be so alarmed about him. I did invite him, you know. I sent him away with smiles. When I found he was really going to his friends at Thornberry Park for the whole day to-morrow, I had compassion on him.”\n\nAnne admired the good acting of the friend, in being able to shew such pleasure as she did, in the expectation and in the actual arrival of the very person whose presence must really be interfering with her prime object. It was impossible but that Mrs Clay must hate the sight of Mr Elliot; and yet she could assume a most obliging, placid look, and appear quite satisfied with the curtailed license of devoting herself only half as much to Sir Walter as she would have done otherwise.\n\nTo Anne herself it was most distressing to see Mr Elliot enter the room; and quite painful to have him approach and speak to her. She had been used before to feel that he could not be always quite sincere, but now she saw insincerity in everything. His attentive deference to her father, contrasted with his former language, was odious; and when she thought of his cruel conduct towards Mrs Smith, she could hardly bear the sight of his present smiles and mildness, or the sound of his artificial good sentiments.\n\nShe meant to avoid any such alteration of manners as might provoke a remonstrance on his side. It was a great object to her to escape all enquiry or eclat; but it was her intention to be as decidedly cool to him as might be compatible with their relationship; and to retrace, as quietly as she could, the few steps of unnecessary intimacy she had been gradually led along. She was accordingly more guarded, and more cool, than she had been the night before.\n\nHe wanted to animate her curiosity again as to how and where he could have heard her formerly praised; wanted very much to be gratified by more solicitation; but the charm was broken: he found that the heat and animation of a public room was necessary to kindle his modest cousin’s vanity; he found, at least, that it was not to be done now, by any of those attempts which he could hazard among the too-commanding claims of the others."
+      },
+      "request_id": "0bc279e066eea40257367476",
+      "request_sha256": "56d288c16a74429cc2cc0467e880d8e6cf406921f587d2c6dd9be6bf2aab7075",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "153f6af1e207d7c915659382de181ce442c830d35d402f2f8662c5a2e732fd72"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

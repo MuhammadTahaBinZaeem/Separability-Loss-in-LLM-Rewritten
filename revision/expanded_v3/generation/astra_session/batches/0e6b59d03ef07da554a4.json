@@ -1,0 +1,65 @@
+{
+  "batch_id": "0e6b59d03ef07da554a4",
+  "issued_utc": "2026-09-26T11:14:08.752568+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "18f70dba080fcefd1c257838",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 468,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 18f70dba080fcefd1c257838\noriginal_word_count: 468\n\nPassage:\nSuddenly Mr. Podgers dropped Lord Arthur’s right hand, and seized hold of his left, bending down so low to examine it that the gold rims of his spectacles seemed almost to touch the palm. For a moment his face became a white mask of horror, but he soon recovered his _sang-froid_, and looking up at Lady Windermere, said with a forced smile, ‘It is the hand of a charming young man.\n\n‘Of course it is!’ answered Lady Windermere, ‘but will he be a charming husband? That is what I want to know.’\n\n‘All charming young men are,’ said Mr. Podgers.\n\n‘I don’t think a husband should be too fascinating,’ murmured Lady Jedburgh pensively, ‘it is so dangerous.’\n\n‘My dear child, they never are too fascinating,’ cried Lady Windermere. ‘But what I want are details. Details are the only things that interest. What is going to happen to Lord Arthur?’\n\n‘Well, within the next few months Lord Arthur will go a voyage—’\n\n‘Oh yes, his honeymoon, of course!’\n\n‘And lose a relative.’\n\n‘Not his sister, I hope?’ said Lady Jedburgh, in a piteous tone of voice.\n\n‘Certainly not his sister,’ answered Mr. Podgers, with a deprecating wave of the hand, ‘a distant relative merely.’\n\n‘Well, I am dreadfully disappointed,’ said Lady Windermere. ‘I have absolutely nothing to tell Sybil to-morrow. No one cares about distant relatives nowadays. They went out of fashion years ago. However, I suppose she had better have a black silk by her; it always does for church, you know. And now let us go to supper. They are sure to have eaten everything up, but we may find some hot soup. François used to make excellent soup once, but he is so agitated about politics at present, that I never feel quite certain about him. I do wish General Boulanger would keep quiet. Duchess, I am sure you are tired?’\n\n‘Not at all, dear Gladys,’ answered the Duchess, waddling towards the door. ‘I have enjoyed myself immensely, and the cheiropodist, I mean the cheiromantist, is most interesting. Flora, where can my tortoise-shell fan be? Oh, thank you, Sir Thomas, so much. And my lace shawl, Flora? Oh, thank you, Sir Thomas, very kind, I’m sure’; and the worthy creature finally managed to get downstairs without dropping her scent-bottle more than twice.\n\nAll this time Lord Arthur Savile had remained standing by the fireplace, with the same feeling of dread over him, the same sickening sense of coming evil. He smiled sadly at his sister, as she swept past him on Lord Plymdale’s arm, looking lovely in her pink brocade and pearls, and he hardly heard Lady Windermere when she called to him to follow her. He thought of Sybil Merton, and the idea that anything could come between them made his eyes dim with tears."
+      },
+      "request_id": "18f70dba080fcefd1c257838",
+      "request_sha256": "b353c9957eed5947a5572457d64f428ab43dd15c2c78f03a43b5dbf3d6c74a17",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ed62511bba607353a6247e283771f8bfdbb6b6db1e60a964f520bb6ed0c35dcc"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3179a0420d39f2739a865c6c",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 478,
+      "passage_id": "V2_poe_murders_rue_morgue_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 3179a0420d39f2739a865c6c\noriginal_word_count: 478\n\nPassage:\n“Keeping now steadily in mind the points to which I have drawn your attention—that peculiar voice, that unusual agility, and that startling absence of motive in a murder so singularly atrocious as this—let us glance at the butchery itself. Here is a woman strangled to death by manual strength, and thrust up a chimney, head downward. Ordinary assassins employ no such modes of murder as this. Least of all, do they thus dispose of the murdered. In the manner of thrusting the corpse up the chimney, you will admit that there was something _excessively outré_—something altogether irreconcilable with our common notions of human action, even when we suppose the actors the most depraved of men. Think, too, how great must have been that strength which could have thrust the body _up_ such an aperture so forcibly that the united vigor of several persons was found barely sufficient to drag it _down!_\n\n“Turn, now, to other indications of the employment of a vigor most marvellous. On the hearth were thick tresses—very thick tresses—of grey human hair. These had been torn out by the roots. You are aware of the great force necessary in tearing thus from the head even twenty or thirty hairs together. You saw the locks in question as well as myself. Their roots (a hideous sight!) were clotted with fragments of the flesh of the scalp—sure token of the prodigious power which had been exerted in uprooting perhaps half a million of hairs at a time. The throat of the old lady was not merely cut, but the head absolutely severed from the body: the instrument was a mere razor. I wish you also to look at the _brutal_ ferocity of these deeds. Of the bruises upon the body of Madame L’Espanaye I do not speak. Monsieur Dumas, and his worthy coadjutor Monsieur Etienne, have pronounced that they were inflicted by some obtuse instrument; and so far these gentlemen are very correct. The obtuse instrument was clearly the stone pavement in the yard, upon which the victim had fallen from the window which looked in upon the bed. This idea, however simple it may now seem, escaped the police for the same reason that the breadth of the shutters escaped them—because, by the affair of the nails, their perceptions had been hermetically sealed against the possibility of the windows having ever been opened at all.\n\n“If now, in addition to all these things, you have properly reflected upon the odd disorder of the chamber, we have gone so far as to combine the ideas of an agility astounding, a strength superhuman, a ferocity brutal, a butchery without motive, a _grotesquerie_ in horror absolutely alien from humanity, and a voice foreign in tone to the ears of men of many nations, and devoid of all distinct or intelligible syllabification."
+      },
+      "request_id": "3179a0420d39f2739a865c6c",
+      "request_sha256": "0d0ae992cf72bc65f328074b42e027c8146152638790804090aac88f34137c3c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "82543ec494da6aef74bb9a611af464f653f4099142ed20e8d272af5dacbecd9b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d01ee65b474b59742001f608",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 486,
+      "passage_id": "V2_twain_connecticut_yankee_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: d01ee65b474b59742001f608\noriginal_word_count: 486\n\nPassage:\nSmallpox!\n\nI sprang to the king, and said in his ear:\n\n“Out of the door on the instant, sire! the woman is dying of that disease that wasted the skirts of Camelot two years ago.”\n\nHe did not budge.\n\n“Of a truth I shall remain--and likewise help.”\n\nI whispered again:\n\n“King, it must not be. You must go.”\n\n“Ye mean well, and ye speak not unwisely. But it were shame that a king should know fear, and shame that belted knight should withhold his hand where be such as need succor. Peace, I will not go. It is you who must go. The Church's ban is not upon me, but it forbiddeth you to be here, and she will deal with you with a heavy hand an word come to her of your trespass.”\n\nIt was a desperate place for him to be in, and might cost him his life, but it was no use to argue with him. If he considered his knightly honor at stake here, that was the end of argument; he would stay, and nothing could prevent it; I was aware of that. And so I dropped the subject. The woman spoke:\n\n“Fair sir, of your kindness will ye climb the ladder there, and bring me news of what ye find? Be not afraid to report, for times can come when even a mother's heart is past breaking --being already broke.”\n\n“Abide,” said the king, “and give the woman to eat. I will go.” And he put down the knapsack.\n\nI turned to start, but the king had already started. He halted, and looked down upon a man who lay in a dim light, and had not noticed us thus far, or spoken.\n\n“Is it your husband?” the king asked.\n\n“Yes.”\n\n“Is he asleep?”\n\n“God be thanked for that one charity, yes--these three hours. Where shall I pay to the full, my gratitude! for my heart is bursting with it for that sleep he sleepeth now.”\n\nI said:\n\n“We will be careful. We will not wake him.”\n\n“Ah, no, that ye will not, for he is dead.”\n\n“Dead?”\n\n“Yes, what triumph it is to know it! None can harm him, none insult him more. He is in heaven now, and happy; or if not there, he bides in hell and is content; for in that place he will find neither abbot nor yet bishop. We were boy and girl together; we were man and wife these five and twenty years, and never separated till this day. Think how long that is to love and suffer together. This morning was he out of his mind, and in his fancy we were boy and girl again and wandering in the happy fields; and so in that innocent glad converse wandered he far and farther, still lightly gossiping, and entered into those other fields we know not of, and was shut away from mortal sight."
+      },
+      "request_id": "d01ee65b474b59742001f608",
+      "request_sha256": "1d369942f12504d2018389e2e2597164cf25ce3e1f448db4d333381d957bd6e9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "06c02d17f4b81b6dc7580de916b35c535b89efb3cb53ccd00c6431c003427efd"
+    }
+  ],
+  "session_id": "01a0a569-7a64-7260-a3e1-97dfbb4eaf58"
+}

@@ -1,0 +1,7 @@
+model_key,audited_pairs,ratings,mean_meaning,risk_union_pairs,either_unusable_pairs,meaning_1_ratings,meaning_2_ratings,meaning_3_ratings,meaning_4_ratings,meaning_5_ratings
+astra_session,270,540,4.992592592592593,2,0,0,0,0,4,536
+azure_replication,270,540,4.9,13,10,0,8,11,8,513
+codex51,270,540,4.979629629629629,3,2,0,0,3,5,532
+gem31lite,270,540,4.531481481481482,96,29,0,4,52,137,347
+luna56,270,540,4.983333333333333,3,1,0,0,2,5,533
+terra56,270,540,4.985185185185185,4,0,0,0,0,8,532

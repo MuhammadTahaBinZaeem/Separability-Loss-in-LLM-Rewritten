@@ -1,0 +1,68 @@
+{
+  "batch_id": "8672e94e421f5740cb94",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:46:45.811066+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9ca8c3b6d2bed1bd665a8f4f",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 503,
+      "passage_id": "V2_shelley_mathilda_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 9ca8c3b6d2bed1bd665a8f4f\noriginal_word_count: 503\n\nPassage:\nI have said that he was a poet: when he was three and twenty years of age he first published a poem, and it was hailed by the whole nation with enthusiasm and delight. His good star perpetually shone upon him; a reputation had never before been made so rapidly: it was universal. The multitude extolled the same poems that formed the wonder of the sage in his closet: there was not one dissentient voice.\n\nIt was at this time, in the height of his glory, that he became acquainted with Elinor. She was a young heiress of exquisite beauty who lived under the care of her guardian: from the moment they were seen together they appeared formed for each other. Elinor had not the genius of Woodville but she was generous and noble, and exalted by her youth and the love that she every where excited above the knowledge of aught but virtue and excellence. She was lovely; her manners were frank and simple; her deep blue eyes swam in a lustre which could only be given by sensibility joined to wisdom.\n\nThey were formed for one another and they soon loved. Woodville for the first time felt the delight of love; and Elinor was enraptured in possessing the heart of one so beautiful and glorious among his fellow men. Could any thing but unmixed joy flow from such a union?\n\nWoodville was a Poet--he was sought for by every society and all eyes were turned on him alone when he appeared; but he was the son of a poor clergyman and Elinor was a rich heiress. Her guardian was not displeased with their mutual affection: the merit of Woodville was too eminent to admit of cavil on account of his inferior wealth; but the dying will of her father did not allow her to marry before she was of age and her fortune depended upon her obeying this injunction. She had just entered her twentieth year, and she and her lover were obliged to submit to this delay. But they were ever together and their happiness seemed that of Paradise: they studied together: formed plans of future occupations, and drinking in love and joy from each other’s eyes and words they hardly repined at the delay to their entire union. Woodville for ever rose in glory; and Elinor become more lovely and wise under the lessons of her accomplished lover.\n\nIn two months Elinor would be twenty one: every thing was prepared for their union. How shall I relate the catastrophe to so much joy; but the earth would not be the earth it is covered with blight and sorrow if one such pair as these angelic creatures had been suffered to exist for one another: search through the world and you will not find the perfect happiness which their marriage would have caused them to enjoy; there must have been a revolution in the order of things as established among us miserable earth-dwellers to have admitted of such consummate joy."
+      },
+      "request_id": "9ca8c3b6d2bed1bd665a8f4f",
+      "request_sha256": "8fd27c1ac14ecd6e99b54a9d1f675a89f3669ee6c02e32f10368eb472a281308",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "343f851bf55ebf200431951cd943bd329c5e83269700652c9145211a3c29c3da"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "19d225029d70efb079238895",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 476,
+      "passage_id": "V2_poe_hans_pfaal_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 19d225029d70efb079238895\noriginal_word_count: 476\n\nPassage:\nArising early in the morning, and contriving again to escape the vigilance of my creditors, I repaired eagerly to the bookseller’s stall, and laid out what little ready money I possessed, in the purchase of some volumes of Mechanics and Practical Astronomy. Having arrived at home safely with these, I devoted every spare moment to their perusal, and soon made such proficiency in studies of this nature as I thought sufficient for the execution of my plan. In the intervals of this period, I made every endeavor to conciliate the three creditors who had given me so much annoyance. In this I finally succeeded—partly by selling enough of my household furniture to satisfy a moiety of their claim, and partly by a promise of paying the balance upon completion of a little project which I told them I had in view, and for assistance in which I solicited their services. By these means—for they were ignorant men—I found little difficulty in gaining them over to my purpose.\n\n“Matters being thus arranged, I contrived, by the aid of my wife and with the greatest secrecy and caution, to dispose of what property I had remaining, and to borrow, in small sums, under various pretences, and without paying any attention to my future means of repayment, no inconsiderable quantity of ready money. With the means thus accruing I proceeded to procure at intervals, cambric muslin, very fine, in pieces of twelve yards each; twine; a lot of the varnish of caoutchouc; a large and deep basket of wicker-work, made to order; and several other articles necessary in the construction and equipment of a balloon of extraordinary dimensions. This I directed my wife to make up as soon as possible, and gave her all requisite information as to the particular method of proceeding. In the meantime I worked up the twine into a net-work of sufficient dimensions; rigged it with a hoop and the necessary cords; bought a quadrant, a compass, a spy-glass, a common barometer with some important modifications, and two astronomical instruments not so generally known. I then took opportunities of conveying by night, to a retired situation east of Rotterdam, five iron-bound casks, to contain about fifty gallons each, and one of a larger size; six tinned ware tubes, three inches in diameter, properly shaped, and ten feet in length; a quantity of a particular metallic substance, or semi-metal, which I shall not name, and a dozen demijohns of a very common acid. The gas to be formed from these latter materials is a gas never yet generated by any other person than myself—or at least never applied to any similar purpose. The secret I would make no difficulty in disclosing, but that it of right belongs to a citizen of Nantz, in France, by whom it was conditionally communicated to myself."
+      },
+      "request_id": "19d225029d70efb079238895",
+      "request_sha256": "f465c4b5284083f58c7374a1c09e953bc7d06be8fe61831b8862b6fca0661a39",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ce4309cf1d6bb9addaefb9a3093b4eff2869ef2d950ee9382231a0b44f8a04bb"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "416c7497de2feaf5acade075",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_the_last_man_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 416c7497de2feaf5acade075\noriginal_word_count: 466\n\nPassage:\nI cannot describe the rapturous delight with which I turned from political brawls at home, and the physical evils of distant countries, to my own dear home, to the selected abode of goodness and love; to peace, and the interchange of every sacred sympathy. Had I never quitted Windsor, these emotions would not have been so intense; but I had in Greece been the prey of fear and deplorable change; in Greece, after a period of anxiety and sorrow, I had seen depart two, whose very names were the symbol of greatness and virtue. But such miseries could never intrude upon the domestic circle left to me, while, secluded in our beloved forest, we passed our lives in tranquillity. Some small change indeed the progress of years brought here; and time, as it is wont, stamped the traces of mortality on our pleasures and expectations. Idris, the most affectionate wife, sister and friend, was a tender and loving mother. The feeling was not with her as with many, a pastime; it was a passion. We had had three children; one, the second in age, died while I was in Greece. This had dashed the triumphant and rapturous emotions of maternity with grief and fear. Before this event, the little beings, sprung from herself, the young heirs of her transient life, seemed to have a sure lease of existence; now she dreaded that the pitiless destroyer might snatch her remaining darlings, as it had snatched their brother. The least illness caused throes of terror; she was miserable if she were at all absent from them; her treasure of happiness she had garnered in their fragile being, and kept forever on the watch, lest the insidious thief should as before steal these valued gems. She had fortunately small cause for fear. Alfred, now nine years old, was an upright, manly little fellow, with radiant brow, soft eyes, and gentle, though independent disposition. Our youngest was yet in infancy; but his downy cheek was sprinkled with the roses of health, and his unwearied vivacity filled our halls with innocent laughter.\n\nClara had passed the age which, from its mute ignorance, was the source of the fears of Idris. Clara was dear to her, to all. There was so much intelligence combined with innocence, sensibility with forbearance, and seriousness with perfect good-humour, a beauty so transcendant, united to such endearing simplicity, that she hung like a pearl in the shrine of our possessions, a treasure of wonder and excellence.\n\nAt the beginning of winter our Alfred, now nine years of age, first went to school at Eton. This appeared to him the primary step towards manhood, and he was proportionably pleased. Community of study and amusement developed the best parts of his character, his steady perseverance, generosity, and well-governed firmness."
+      },
+      "request_id": "416c7497de2feaf5acade075",
+      "request_sha256": "13afaf045d26bb95b340a5d7ae2e1288a753f8ce7480af0259f1a20e0093d087",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cb333bda5a408043c0d5a8ece8acec765d0232a2272c50679b95411ac22b2128"
+    }
+  ],
+  "session_id": "01a0e876-83f7-78a1-b9d1-9e5cfb4d9073",
+  "worker_id": "astra_z",
+  "worker_identity_sha256": "3c518323fe65160b33818c8fecefe8b58d18bebfd64f52e04e66f555b7fdddb7"
+}

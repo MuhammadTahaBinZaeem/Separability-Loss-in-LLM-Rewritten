@@ -1,0 +1,16 @@
+{
+  "author_count": 6,
+  "corpus_sha256": "ce6c6a3687b3545460fa014b348cb2ed6dd49a8283006f866a8b9680dc5ca7ef",
+  "generation_conditions": [
+    "paraphrase",
+    "modernize",
+    "simplify"
+  ],
+  "originals_file_sha256": "28d68c82a1bae30cc699e0a068408d1788aed2668813186c03d8e3e63df5defc",
+  "passage_count": 360,
+  "protocol_sha256_at_freeze": "1f433a799a43a9417e5b340dc28e66f5b8ebe4a3f46348f237e2fe41e5d97759",
+  "seed": 20260915,
+  "version": 2,
+  "work_count": 18,
+  "work_specs_sha256": "23f94a417d48421b9eeced224a533a18e0b56caeeba0bcf7e7797e12f1602e2d"
+}

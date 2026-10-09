@@ -1,0 +1,68 @@
+{
+  "batch_id": "f40998cf3d1dd2392f2a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:48:16.378784+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9f14404e5c2f207d77146b9a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_poe_murders_rue_morgue_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 9f14404e5c2f207d77146b9a\noriginal_word_count: 460\n\nPassage:\nThe examination occupied us until dark, when we took our departure. On our way home my companion stepped in for a moment at the office of one of the daily papers.\n\nI have said that the whims of my friend were manifold, and that _Je les ménageais_:—for this phrase there is no English equivalent. It was his humor, now, to decline all conversation on the subject of the murder, until about noon the next day. He then asked me, suddenly, if I had observed any thing _peculiar_ at the scene of the atrocity.\n\nThere was something in his manner of emphasizing the word “peculiar,” which caused me to shudder, without knowing why.\n\n“No, nothing _peculiar_,” I said; “nothing more, at least, than we both saw stated in the paper.”\n\n“The ‘Gazette,’” he replied, “has not entered, I fear, into the unusual horror of the thing. But dismiss the idle opinions of this print. It appears to me that this mystery is considered insoluble, for the very reason which should cause it to be regarded as easy of solution—I mean for the _outré_ character of its features. The police are confounded by the seeming absence of motive—not for the murder itself—but for the atrocity of the murder. They are puzzled, too, by the seeming impossibility of reconciling the voices heard in contention, with the facts that no one was discovered up stairs but the assassinated Mademoiselle L’Espanaye, and that there were no means of egress without the notice of the party ascending. The wild disorder of the room; the corpse thrust, with the head downward, up the chimney; the frightful mutilation of the body of the old lady; these considerations, with those just mentioned, and others which I need not mention, have sufficed to paralyze the powers, by putting completely at fault the boasted _acumen_, of the government agents. They have fallen into the gross but common error of confounding the unusual with the abstruse. But it is by these deviations from the plane of the ordinary, that reason feels its way, if at all, in its search for the true. In investigations such as we are now pursuing, it should not be so much asked ‘what has occurred,’ as ‘what has occurred that has never occurred before.’ In fact, the facility with which I shall arrive, or have arrived, at the solution of this mystery, is in the direct ratio of its apparent insolubility in the eyes of the police.”\n\nI stared at the speaker in mute astonishment.\n\n“I am now awaiting,” continued he, looking toward the door of our apartment—“I am now awaiting a person who, although perhaps not the perpetrator of these butcheries, must have been in some measure implicated in their perpetration."
+      },
+      "request_id": "9f14404e5c2f207d77146b9a",
+      "request_sha256": "3a91cb73aa22e53f1f54bb4bc2e5f51b05942aeaab2324eed81bd96423a7cca6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "515fae9f1fe82b1fc70f51571182aaefe67262cc9768cd5f83109ae825db7d0c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "72c1c5d1645920524ce18a04",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 476,
+      "passage_id": "V2_poe_hans_pfaal_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 72c1c5d1645920524ce18a04\noriginal_word_count: 476\n\nPassage:\nArising early in the morning, and contriving again to escape the vigilance of my creditors, I repaired eagerly to the bookseller’s stall, and laid out what little ready money I possessed, in the purchase of some volumes of Mechanics and Practical Astronomy. Having arrived at home safely with these, I devoted every spare moment to their perusal, and soon made such proficiency in studies of this nature as I thought sufficient for the execution of my plan. In the intervals of this period, I made every endeavor to conciliate the three creditors who had given me so much annoyance. In this I finally succeeded—partly by selling enough of my household furniture to satisfy a moiety of their claim, and partly by a promise of paying the balance upon completion of a little project which I told them I had in view, and for assistance in which I solicited their services. By these means—for they were ignorant men—I found little difficulty in gaining them over to my purpose.\n\n“Matters being thus arranged, I contrived, by the aid of my wife and with the greatest secrecy and caution, to dispose of what property I had remaining, and to borrow, in small sums, under various pretences, and without paying any attention to my future means of repayment, no inconsiderable quantity of ready money. With the means thus accruing I proceeded to procure at intervals, cambric muslin, very fine, in pieces of twelve yards each; twine; a lot of the varnish of caoutchouc; a large and deep basket of wicker-work, made to order; and several other articles necessary in the construction and equipment of a balloon of extraordinary dimensions. This I directed my wife to make up as soon as possible, and gave her all requisite information as to the particular method of proceeding. In the meantime I worked up the twine into a net-work of sufficient dimensions; rigged it with a hoop and the necessary cords; bought a quadrant, a compass, a spy-glass, a common barometer with some important modifications, and two astronomical instruments not so generally known. I then took opportunities of conveying by night, to a retired situation east of Rotterdam, five iron-bound casks, to contain about fifty gallons each, and one of a larger size; six tinned ware tubes, three inches in diameter, properly shaped, and ten feet in length; a quantity of a particular metallic substance, or semi-metal, which I shall not name, and a dozen demijohns of a very common acid. The gas to be formed from these latter materials is a gas never yet generated by any other person than myself—or at least never applied to any similar purpose. The secret I would make no difficulty in disclosing, but that it of right belongs to a citizen of Nantz, in France, by whom it was conditionally communicated to myself."
+      },
+      "request_id": "72c1c5d1645920524ce18a04",
+      "request_sha256": "4f1fc744ac85fab7583f5c6828bdd24fc44f234167e6f9390bd0a1475746beb9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ce4309cf1d6bb9addaefb9a3093b4eff2869ef2d950ee9382231a0b44f8a04bb"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "36f03095a8baaf8bbbba2718",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_austen_persuasion_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 36f03095a8baaf8bbbba2718\noriginal_word_count: 481\n\nPassage:\n“I must take leave to observe, Sir Walter,” said Mr Shepherd one morning at Kellynch Hall, as he laid down the newspaper, “that the present juncture is much in our favour. This peace will be turning all our rich naval officers ashore. They will be all wanting a home. Could not be a better time, Sir Walter, for having a choice of tenants, very responsible tenants. Many a noble fortune has been made during the war. If a rich admiral were to come in our way, Sir Walter—”\n\n“He would be a very lucky man, Shepherd,” replied Sir Walter; “that’s all I have to remark. A prize indeed would Kellynch Hall be to him; rather the greatest prize of all, let him have taken ever so many before; hey, Shepherd?”\n\nMr Shepherd laughed, as he knew he must, at this wit, and then added—\n\n“I presume to observe, Sir Walter, that, in the way of business, gentlemen of the navy are well to deal with. I have had a little knowledge of their methods of doing business; and I am free to confess that they have very liberal notions, and are as likely to make desirable tenants as any set of people one should meet with. Therefore, Sir Walter, what I would take leave to suggest is, that if in consequence of any rumours getting abroad of your intention; which must be contemplated as a possible thing, because we know how difficult it is to keep the actions and designs of one part of the world from the notice and curiosity of the other; consequence has its tax; I, John Shepherd, might conceal any family-matters that I chose, for nobody would think it worth their while to observe me; but Sir Walter Elliot has eyes upon him which it may be very difficult to elude; and therefore, thus much I venture upon, that it will not greatly surprise me if, with all our caution, some rumour of the truth should get abroad; in the supposition of which, as I was going to observe, since applications will unquestionably follow, I should think any from our wealthy naval commanders particularly worth attending to; and beg leave to add, that two hours will bring me over at any time, to save you the trouble of replying.”\n\nSir Walter only nodded. But soon afterwards, rising and pacing the room, he observed sarcastically—\n\n“There are few among the gentlemen of the navy, I imagine, who would not be surprised to find themselves in a house of this description.”\n\n“They would look around them, no doubt, and bless their good fortune,” said Mrs Clay, for Mrs Clay was present: her father had driven her over, nothing being of so much use to Mrs Clay’s health as a drive to Kellynch: “but I quite agree with my father in thinking a sailor might be a very desirable tenant."
+      },
+      "request_id": "36f03095a8baaf8bbbba2718",
+      "request_sha256": "3ed152fa684fcf6a1ef0c3946e33bb656b702857a28b288e6f385c62268ce095",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3122b5c4d163f55f1447d19da1d0cfd0131d944a993ee392d68b2ee57cbd016b"
+    }
+  ],
+  "session_id": "01a0e87a-db7a-7303-aca7-ee81da6c50ba",
+  "worker_id": "astra_aa",
+  "worker_identity_sha256": "f89346b92865e535f8532245987e03b9bf1204ea8d86eb06bb80af193eb55d71"
+}

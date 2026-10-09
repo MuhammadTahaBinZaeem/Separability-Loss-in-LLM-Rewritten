@@ -1,0 +1,68 @@
+{
+  "batch_id": "f4e9cdab5d845e6bbcb4",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:52:26.345462+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "99efd1e4314e4c13e9437138",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_twain_tom_sawyer_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 99efd1e4314e4c13e9437138\noriginal_word_count: 460\n\nPassage:\nThere comes a time in every rightly-constructed boy’s life when he has a raging desire to go somewhere and dig for hidden treasure. This desire suddenly came upon Tom one day. He sallied out to find Joe Harper, but failed of success. Next he sought Ben Rogers; he had gone fishing. Presently he stumbled upon Huck Finn the Red-Handed. Huck would answer. Tom took him to a private place and opened the matter to him confidentially. Huck was willing. Huck was always willing to take a hand in any enterprise that offered entertainment and required no capital, for he had a troublesome superabundance of that sort of time which is not money. “Where’ll we dig?” said Huck.\n\n“Oh, most anywhere.”\n\n“Why, is it hid all around?”\n\n“No, indeed it ain’t. It’s hid in mighty particular places, Huck—sometimes on islands, sometimes in rotten chests under the end of a limb of an old dead tree, just where the shadow falls at midnight; but mostly under the floor in ha’nted houses.”\n\n“Who hides it?”\n\n“Why, robbers, of course—who’d you reckon? Sunday-school sup’rintendents?”\n\n“I don’t know. If ’twas mine I wouldn’t hide it; I’d spend it and have a good time.”\n\n“So would I. But robbers don’t do that way. They always hide it and leave it there.”\n\n“Don’t they come after it any more?”\n\n“No, they think they will, but they generally forget the marks, or else they die. Anyway, it lays there a long time and gets rusty; and by and by somebody finds an old yellow paper that tells how to find the marks—a paper that’s got to be ciphered over about a week because it’s mostly signs and hy’roglyphics.”\n\n“Hyro—which?”\n\n“Hy’roglyphics—pictures and things, you know, that don’t seem to mean anything.”\n\n“Have you got one of them papers, Tom?”\n\n“No.”\n\n“Well then, how you going to find the marks?”\n\n“I don’t want any marks. They always bury it under a ha’nted house or on an island, or under a dead tree that’s got one limb sticking out. Well, we’ve tried Jackson’s Island a little, and we can try it again some time; and there’s the old ha’nted house up the Still-House branch, and there’s lots of dead-limb trees—dead loads of ’em.”\n\n“Is it under all of them?”\n\n“How you talk! No!”\n\n“Then how you going to know which one to go for?”\n\n“Go for all of ’em!”\n\n“Why, Tom, it’ll take all summer.”\n\n“Well, what of that? Suppose you find a brass pot with a hundred dollars in it, all rusty and gray, or rotten chest full of di’monds. How’s that?”\n\nHuck’s eyes glowed.\n\n“That’s bully. Plenty bully enough for me. Just you gimme the hundred dollars and I don’t want no di’monds.”"
+      },
+      "request_id": "99efd1e4314e4c13e9437138",
+      "request_sha256": "ea1dacaa364515dfcd8760d4e88a9d2154179fa30ae2dc93016761ccc9dd30e0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "76458c79095e6352257b5b15d841c063a0b3005065d9814b4e9628f40f43a873"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "cf6ed2b3fd646c6f1f9b06e6",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 534,
+      "passage_id": "V2_twain_tom_sawyer_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: cf6ed2b3fd646c6f1f9b06e6\noriginal_word_count: 534\n\nPassage:\nWhen Tom awoke in the morning, he wondered where he was. He sat up and rubbed his eyes and looked around. Then he comprehended. It was the cool gray dawn, and there was a delicious sense of repose and peace in the deep pervading calm and silence of the woods. Not a leaf stirred; not a sound obtruded upon great Nature’s meditation. Beaded dewdrops stood upon the leaves and grasses. A white layer of ashes covered the fire, and a thin blue breath of smoke rose straight into the air. Joe and Huck still slept.\n\nNow, far away in the woods a bird called; another answered; presently the hammering of a woodpecker was heard. Gradually the cool dim gray of the morning whitened, and as gradually sounds multiplied and life manifested itself. The marvel of Nature shaking off sleep and going to work unfolded itself to the musing boy. A little green worm came crawling over a dewy leaf, lifting two-thirds of his body into the air from time to time and “sniffing around,” then proceeding again—for he was measuring, Tom said; and when the worm approached him, of its own accord, he sat as still as a stone, with his hopes rising and falling, by turns, as the creature still came toward him or seemed inclined to go elsewhere; and when at last it considered a painful moment with its curved body in the air and then came decisively down upon Tom’s leg and began a journey over him, his whole heart was glad—for that meant that he was going to have a new suit of clothes—without the shadow of a doubt a gaudy piratical uniform. Now a procession of ants appeared, from nowhere in particular, and went about their labors; one struggled manfully by with a dead spider five times as big as itself in its arms, and lugged it straight up a tree-trunk. A brown spotted lady-bug climbed the dizzy height of a grass blade, and Tom bent down close to it and said, “Lady-bug, lady-bug, fly away home, your house is on fire, your children’s alone,” and she took wing and went off to see about it—which did not surprise the boy, for he knew of old that this insect was credulous about conflagrations, and he had practised upon its simplicity more than once. A tumblebug came next, heaving sturdily at its ball, and Tom touched the creature, to see it shut its legs against its body and pretend to be dead. The birds were fairly rioting by this time. A catbird, the Northern mocker, lit in a tree over Tom’s head, and trilled out her imitations of her neighbors in a rapture of enjoyment; then a shrill jay swept down, a flash of blue flame, and stopped on a twig almost within the boy’s reach, cocked his head to one side and eyed the strangers with a consuming curiosity; a gray squirrel and a big fellow of the “fox” kind came skurrying along, sitting up at intervals to inspect and chatter at the boys, for the wild things had probably never seen a human being before and scarcely knew whether to be afraid or not."
+      },
+      "request_id": "cf6ed2b3fd646c6f1f9b06e6",
+      "request_sha256": "bbed1681a38e887359261ee106cb161dbffdf822a6ef6e7988c5f197e62af77d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "057991378a116b23483119635ea0d64109d30b449d07ca054c255cd39cd4150a"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "41e2ed44be77ae29fd8e9921",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_mathilda_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 41e2ed44be77ae29fd8e9921\noriginal_word_count: 466\n\nPassage:\n“But when I saw you become the object of another’s love; when I imagined that you might be loved otherwise than as a sacred type and image of loveliness and excellence; or that you might love another with a more ardent affection than that which you bore to me, then the fiend awoke within me; I dismissed your lover; and from that moment I have known no peace. I have sought in vain for sleep and rest; my lids refused to close, and my blood was for ever in a tumult. I awoke to a new life as one who dies in hope might wake in Hell. I will not sully your imagination by recounting my combats, my self-anger and my despair. Let a veil be drawn over the unimaginable sensations of a guilty father; the secrets of so agonized a heart may not be made vulgar. All was uproar, crime, remorse and hate, yet still the tenderest love; and what first awoke me to the firm resolve of conquering my passion and of restoring her father to my child was the sight of your bitter and sympathizing sorrows. It was this that led me here: I thought that if I could again awaken in my heart the grief I had felt at the loss of your mother, and the many associations with her memory which had been laid to sleep for seventeen years, that all love for her child would become extinct. In a fit of heroism I determined to go alone; to quit you, the life of my life, and not to see you again untill I might guiltlessly. But it would not do: I rated my fortitude too high, or my love too low. I should certainly have died if you had not hastened to me. Would that I had been indeed extinguished!\n\n“And now, Mathilda I must make you my last confession. I have been miserably mistaken in imagining that I could conquer my love for you; I never can. The sight of this house, these fields and woods which my first love inhabited seems to have encreased it: in my madness I dared say to myself--Diana died to give her birth; her mother’s spirit was transferred into her frame, and she ought to be as Diana to me. With every effort to cast it off, this love clings closer, this guilty love more unnatural than hate, that withers your hopes and destroys me for ever.\n\nBetter have loved despair, & safer kissed her.\n\nNo time or space can tear from my soul that which makes a part of it. Since my arrival here I have not for a moment ceased to feel the hell of passion which has been implanted in me to burn untill all be cold, and stiff, and dead."
+      },
+      "request_id": "41e2ed44be77ae29fd8e9921",
+      "request_sha256": "8e64ba8b3a7ede84beee88447f81ba956bc99fd3cd665b53b7afd5c23b202223",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "336ed2969d92a38adf9b816b5332b90c10f50539cb58e1d51be9e5fe31354a25"
+    }
+  ],
+  "session_id": "01a0e87b-49a4-73d1-9183-c1526aa2e672",
+  "worker_id": "astra_ab",
+  "worker_identity_sha256": "9f063cc79481da5fa1e91530b35ed3863df2f1d390a463dfb849cb30ea1c9d85"
+}

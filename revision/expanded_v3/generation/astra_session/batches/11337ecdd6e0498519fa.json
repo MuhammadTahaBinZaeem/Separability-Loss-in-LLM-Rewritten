@@ -1,0 +1,68 @@
+{
+  "batch_id": "11337ecdd6e0498519fa",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:42:43.122504+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c281ef867f661e948687ab18",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_wilde_dorian_gray_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: c281ef867f661e948687ab18\noriginal_word_count: 459\n\nPassage:\nEven to read of the luxury of the dead was wonderful.\n\nThen he turned his attention to embroideries and to the tapestries that performed the office of frescoes in the chill rooms of the northern nations of Europe. As he investigated the subject—and he always had an extraordinary faculty of becoming absolutely absorbed for the moment in whatever he took up—he was almost saddened by the reflection of the ruin that time brought on beautiful and wonderful things. He, at any rate, had escaped that. Summer followed summer, and the yellow jonquils bloomed and died many times, and nights of horror repeated the story of their shame, but he was unchanged. No winter marred his face or stained his flowerlike bloom. How different it was with material things! Where had they passed to? Where was the great crocus-coloured robe, on which the gods fought against the giants, that had been worked by brown girls for the pleasure of Athena? Where the huge velarium that Nero had stretched across the Colosseum at Rome, that Titan sail of purple on which was represented the starry sky, and Apollo driving a chariot drawn by white, gilt-reined steeds? He longed to see the curious table-napkins wrought for the Priest of the Sun, on which were displayed all the dainties and viands that could be wanted for a feast; the mortuary cloth of King Chilperic, with its three hundred golden bees; the fantastic robes that excited the indignation of the Bishop of Pontus and were figured with “lions, panthers, bears, dogs, forests, rocks, hunters—all, in fact, that a painter can copy from nature”; and the coat that Charles of Orleans once wore, on the sleeves of which were embroidered the verses of a song beginning “_Madame, je suis tout joyeux_,” the musical accompaniment of the words being wrought in gold thread, and each note, of square shape in those days, formed with four pearls. He read of the room that was prepared at the palace at Rheims for the use of Queen Joan of Burgundy and was decorated with “thirteen hundred and twenty-one parrots, made in broidery, and blazoned with the king’s arms, and five hundred and sixty-one butterflies, whose wings were similarly ornamented with the arms of the queen, the whole worked in gold.” Catherine de Medicis had a mourning-bed made for her of black velvet powdered with crescents and suns. Its curtains were of damask, with leafy wreaths and garlands, figured upon a gold and silver ground, and fringed along the edges with broideries of pearls, and it stood in a room hung with rows of the queen’s devices in cut black velvet upon cloth of silver. Louis XIV. had gold embroidered caryatides fifteen feet high in his apartment."
+      },
+      "request_id": "c281ef867f661e948687ab18",
+      "request_sha256": "127606458ba1effa7fb1f58d5014f101b91fe9fef2b88f87b67deda0e075b30b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d385016af5b03b1f7efe4297eeacceb9c070a296c189b8b8e37dbd9d854348ef"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8bbbcf2adf560b3ae9a756a0",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_austen_emma_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 8bbbcf2adf560b3ae9a756a0\noriginal_word_count: 452\n\nPassage:\nIt is not every body that would have stood out in such a kind way as she did, and refuse to take Jane’s answer; but she positively declared she would _not_ write any such denial yesterday, as Jane wished her; she would wait—and, sure enough, yesterday evening it was all settled that Jane should go. Quite a surprize to me! I had not the least idea!—Jane took Mrs. Elton aside, and told her at once, that upon thinking over the advantages of Mrs. Smallridge’s situation, she had come to the resolution of accepting it.—I did not know a word of it till it was all settled.”\n\n“You spent the evening with Mrs. Elton?”\n\n“Yes, all of us; Mrs. Elton would have us come. It was settled so, upon the hill, while we were walking about with Mr. Knightley. ‘You _must_ _all_ spend your evening with us,’ said she—‘I positively must have you _all_ come.’”\n\n“Mr. Knightley was there too, was he?”\n\n“No, not Mr. Knightley; he declined it from the first; and though I thought he would come, because Mrs. Elton declared she would not let him off, he did not;—but my mother, and Jane, and I, were all there, and a very agreeable evening we had. Such kind friends, you know, Miss Woodhouse, one must always find agreeable, though every body seemed rather fagged after the morning’s party. Even pleasure, you know, is fatiguing—and I cannot say that any of them seemed very much to have enjoyed it. However, _I_ shall always think it a very pleasant party, and feel extremely obliged to the kind friends who included me in it.”\n\n“Miss Fairfax, I suppose, though you were not aware of it, had been making up her mind the whole day?”\n\n“I dare say she had.”\n\n“Whenever the time may come, it must be unwelcome to her and all her friends—but I hope her engagement will have every alleviation that is possible—I mean, as to the character and manners of the family.”\n\n“Thank you, dear Miss Woodhouse. Yes, indeed, there is every thing in the world that can make her happy in it. Except the Sucklings and Bragges, there is not such another nursery establishment, so liberal and elegant, in all Mrs. Elton’s acquaintance. Mrs. Smallridge, a most delightful woman!—A style of living almost equal to Maple Grove—and as to the children, except the little Sucklings and little Bragges, there are not such elegant sweet children anywhere. Jane will be treated with such regard and kindness!—It will be nothing but pleasure, a life of pleasure.—And her salary!—I really cannot venture to name her salary to you, Miss Woodhouse."
+      },
+      "request_id": "8bbbcf2adf560b3ae9a756a0",
+      "request_sha256": "973aa059be831b5e4aa7f2106ac7dcb6b7b5ddf4f8a6715d9d4ee38aa1bf5898",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e9c69e458f9cb1bb6e505434363ac8d3a3dd566cd1f171fa523f0d329bb7c5e4"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "70aae42819b4034bceabc984",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_wilde_dorian_gray_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 70aae42819b4034bceabc984\noriginal_word_count: 459\n\nPassage:\nEven to read of the luxury of the dead was wonderful.\n\nThen he turned his attention to embroideries and to the tapestries that performed the office of frescoes in the chill rooms of the northern nations of Europe. As he investigated the subject—and he always had an extraordinary faculty of becoming absolutely absorbed for the moment in whatever he took up—he was almost saddened by the reflection of the ruin that time brought on beautiful and wonderful things. He, at any rate, had escaped that. Summer followed summer, and the yellow jonquils bloomed and died many times, and nights of horror repeated the story of their shame, but he was unchanged. No winter marred his face or stained his flowerlike bloom. How different it was with material things! Where had they passed to? Where was the great crocus-coloured robe, on which the gods fought against the giants, that had been worked by brown girls for the pleasure of Athena? Where the huge velarium that Nero had stretched across the Colosseum at Rome, that Titan sail of purple on which was represented the starry sky, and Apollo driving a chariot drawn by white, gilt-reined steeds? He longed to see the curious table-napkins wrought for the Priest of the Sun, on which were displayed all the dainties and viands that could be wanted for a feast; the mortuary cloth of King Chilperic, with its three hundred golden bees; the fantastic robes that excited the indignation of the Bishop of Pontus and were figured with “lions, panthers, bears, dogs, forests, rocks, hunters—all, in fact, that a painter can copy from nature”; and the coat that Charles of Orleans once wore, on the sleeves of which were embroidered the verses of a song beginning “_Madame, je suis tout joyeux_,” the musical accompaniment of the words being wrought in gold thread, and each note, of square shape in those days, formed with four pearls. He read of the room that was prepared at the palace at Rheims for the use of Queen Joan of Burgundy and was decorated with “thirteen hundred and twenty-one parrots, made in broidery, and blazoned with the king’s arms, and five hundred and sixty-one butterflies, whose wings were similarly ornamented with the arms of the queen, the whole worked in gold.” Catherine de Medicis had a mourning-bed made for her of black velvet powdered with crescents and suns. Its curtains were of damask, with leafy wreaths and garlands, figured upon a gold and silver ground, and fringed along the edges with broideries of pearls, and it stood in a room hung with rows of the queen’s devices in cut black velvet upon cloth of silver. Louis XIV. had gold embroidered caryatides fifteen feet high in his apartment."
+      },
+      "request_id": "70aae42819b4034bceabc984",
+      "request_sha256": "f7cd73932c6682d208604ab6a4cab973dea047dcf1cf0390710c42f5b01b1520",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d385016af5b03b1f7efe4297eeacceb9c070a296c189b8b8e37dbd9d854348ef"
+    }
+  ],
+  "session_id": "01a0e871-0029-7eb2-b032-b2c22db7d18a",
+  "worker_id": "astra_y",
+  "worker_identity_sha256": "117b62507d566d7e1674868f608b01ea30f8f22336a4d59e5e97eb3a6f4f8842"
+}

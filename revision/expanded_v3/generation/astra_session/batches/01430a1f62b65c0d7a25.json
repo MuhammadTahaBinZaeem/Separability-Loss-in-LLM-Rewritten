@@ -1,0 +1,68 @@
+{
+  "batch_id": "01430a1f62b65c0d7a25",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:59:41.385957+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c4127e9f6befc78ff28a9700",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 484,
+      "passage_id": "V2_wilde_canterville_ghost_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: c4127e9f6befc78ff28a9700\noriginal_word_count: 484\n\nPassage:\nIn fact, he was dressed for the character of ‘Jonas the Graveless, or the Corpse-Snatcher of Chertsey Barn,’ one of his most remarkable impersonations, and one which the Cantervilles had every reason to remember, as it was the real origin of their quarrel with their neighbour, Lord Rufford. It was about a quarter past two o’clock in the morning, and, as far as he could ascertain, no one was stirring. As he was strolling towards the library, however, to see if there were any traces left of the blood-stain, suddenly there leaped out on him from a dark corner two figures, who waved their arms wildly above their heads, and shrieked out ‘BOO!’ in his ear.\n\nSeized with a panic, which, under the circumstances, was only natural, he rushed for the staircase, but found Washington Otis waiting for him there with the big garden-syringe; and being thus hemmed in by his enemies on every side, and driven almost to bay, he vanished into the great iron stove, which, fortunately for him, was not lit, and had to make his way home through the flues and chimneys, arriving at his own room in a terrible state of dirt, disorder, and despair.\n\nAfter this he was not seen again on any nocturnal expedition. The twins lay in wait for him on several occasions, and strewed the passages with nutshells every night to the great annoyance of their parents and the servants, but it was of no avail. It was quite evident that his feelings were so wounded that he would not appear. Mr. Otis consequently resumed his great work on the history of the Democratic Party, on which he had been engaged for some years; Mrs. Otis organised a wonderful clam-bake, which amazed the whole county; the boys took to lacrosse, euchre, poker, and other American national games; and Virginia rode about the lanes on her pony, accompanied by the young Duke of Cheshire, who had come to spend the last week of his holidays at Canterville Chase. It was generally assumed that the ghost had gone away, and, in fact, Mr. Otis wrote a letter to that effect to Lord Canterville, who, in reply, expressed his great pleasure at the news, and sent his best congratulations to the Minister’s worthy wife.\n\nThe Otises, however, were deceived, for the ghost was still in the house, and though now almost an invalid, was by no means ready to let matters rest, particularly as he heard that among the guests was the young Duke of Cheshire, whose grand-uncle, Lord Francis Stilton, had once bet a hundred guineas with Colonel Carbury that he would play dice with the Canterville ghost, and was found the next morning lying on the floor of the card-room in such a helpless paralytic state, that though he lived on to a great age, he was never able to say anything again but ‘Double Sixes.’"
+      },
+      "request_id": "c4127e9f6befc78ff28a9700",
+      "request_sha256": "82c51901e36323cf5a237d331d92945dd9f5f367526388fdec281cce42ef6c5a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "765685425d64dcdb0f1c940f760af69e8a064ca586629e7592a3c4da811f31e1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d2a5b463f31262e26f83138e",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_poe_the_gold_bug_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: d2a5b463f31262e26f83138e\noriginal_word_count: 461\n\nPassage:\nIt was at this moment that his eyes, and mine also, fell upon the scrap of parchment, which I then supposed to be paper. It was lying half buried in the sand, a corner sticking up. Near the spot where we found it, I observed the remnants of the hull of what appeared to have been a ship’s long boat. The wreck seemed to have been there for a very great while; for the resemblance to boat timbers could scarcely be traced.\n\n“Well, Jupiter picked up the parchment, wrapped the beetle in it, and gave it to me. Soon afterwards we turned to go home, and on the way met Lieutenant G——. I showed him the insect, and he begged me to let him take it to the fort. Upon my consenting, he thrust it forthwith into his waistcoat pocket, without the parchment in which it had been wrapped, and which I had continued to hold in my hand during his inspection. Perhaps he dreaded my changing my mind, and thought it best to make sure of the prize at once—you know how enthusiastic he is on all subjects connected with Natural History. At the same time, without being conscious of it, I must have deposited the parchment in my own pocket.\n\n“You remember that when I went to the table, for the purpose of making a sketch of the beetle, I found no paper where it was usually kept. I looked in the drawer, and found none there. I searched my pockets, hoping to find an old letter, when my hand fell upon the parchment. I thus detail the precise mode in which it came into my possession; for the circumstances impressed me with peculiar force.\n\n“No doubt you will think me fanciful—but I had already established a kind of connexion. I had put together two links of a great chain. There was a boat lying upon a sea-coast, and not far from the boat was a parchment—not a paper—with a skull depicted upon it. You will, of course, ask ‘where is the connexion?’ I reply that the skull, or death’s-head, is the well-known emblem of the pirate. The flag of the death’s head is hoisted in all engagements.\n\n“I have said that the scrap was parchment, and not paper. Parchment is durable—almost imperishable. Matters of little moment are rarely consigned to parchment; since, for the mere ordinary purposes of drawing or writing, it is not nearly so well adapted as paper. This reflection suggested some meaning—some relevancy—in the death’s-head. I did not fail to observe, also, the form of the parchment. Although one of its corners had been, by some accident, destroyed, it could be seen that the original form was oblong."
+      },
+      "request_id": "d2a5b463f31262e26f83138e",
+      "request_sha256": "6646f0529c8281ea9110afa3916cfc61c5d339439236e559a4def5ea8060a474",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "27840f656fbe40cde0d845fd65d89fea338193e81f8b2ad02f6c65381a53ee2f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "00bbc7b9cfd8b5d8946b25bc",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 508,
+      "passage_id": "V2_shelley_the_last_man_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 00bbc7b9cfd8b5d8946b25bc\noriginal_word_count: 508\n\nPassage:\nThe mighty voice, inorganic we might call it, for we could in no way associate it with mechanism of pipe or key, stilled its sonorous tone, and the girl, turning to lend her assistance to her aged companion, at length perceived us.\n\nIt was her father; and she, since childhood, had been the guide of his darkened steps. They were Germans from Saxony, and, emigrating thither but a few years before, had formed new ties with the surrounding villagers. About the time that the pestilence had broken out, a young German student had joined them. Their simple history was easily divined. He, a noble, loved the fair daughter of the poor musician, and followed them in their flight from the persecutions of his friends; but soon the mighty leveller came with unblunted scythe to mow, together with the grass, the tall flowers of the field. The youth was an early victim. She preserved herself for her father’s sake. His blindness permitted her to continue a delusion, at first the child of accident—and now solitary beings, sole survivors in the land, he remained unacquainted with the change, nor was aware that when he listened to his child’s music, the mute mountains, senseless lake, and unconscious trees, were, himself excepted, her sole auditors.\n\nThe very day that we arrived she had been attacked by symptomatic illness. She was paralyzed with horror at the idea of leaving her aged, sightless father alone on the empty earth; but she had not courage to disclose the truth, and the very excess of her desperation animated her to surpassing exertions. At the accustomed vesper hour, she led him to the chapel; and, though trembling and weeping on his account, she played, without fault in time, or error in note, the hymn written to celebrate the creation of the adorned earth, soon to be her tomb.\n\nWe came to her like visitors from heaven itself; her high-wrought courage; her hardly sustained firmness, fled with the appearance of relief. With a shriek she rushed towards us, embraced the knees of Adrian, and uttering but the words, “O save my father!” with sobs and hysterical cries, opened the long-shut floodgates of her woe.\n\nPoor girl!—she and her father now lie side by side, beneath the high walnut-tree where her lover reposes, and which in her dying moments she had pointed out to us. Her father, at length aware of his daughter’s danger, unable to see the changes of her dear countenance, obstinately held her hand, till it was chilled and stiffened by death. Nor did he then move or speak, till, twelve hours after, kindly death took him to his breakless repose. They rest beneath the sod, the tree their monument;—the hallowed spot is distinct in my memory, paled in by craggy Jura, and the far, immeasurable Alps; the spire of the church they frequented still points from out the embosoming trees; and though her hand be cold, still methinks the sounds of divine music which they loved wander about, solacing their gentle ghosts."
+      },
+      "request_id": "00bbc7b9cfd8b5d8946b25bc",
+      "request_sha256": "ba5e38d1cd640570e0f28e85321ac34aaee134d138ccbde873aa184b53f16f53",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ed1db793251a7ace6a9b51af60fd326e06681feaf8336d8f27841fecb2ed8ac1"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

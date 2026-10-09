@@ -1,0 +1,68 @@
+{
+  "batch_id": "2b406cf094fc26d19dd5",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:47:47.439570+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ed0be747830c9af334a9b69f",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_frankenstein_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: ed0be747830c9af334a9b69f\noriginal_word_count: 466\n\nPassage:\nBut this thought, which supported me in the commencement of my career, now serves only to plunge me lower in the dust. All my speculations and hopes are as nothing, and like the archangel who aspired to omnipotence, I am chained in an eternal hell. My imagination was vivid, yet my powers of analysis and application were intense; by the union of these qualities I conceived the idea and executed the creation of a man. Even now I cannot recollect without passion my reveries while the work was incomplete. I trod heaven in my thoughts, now exulting in my powers, now burning with the idea of their effects. From my infancy I was imbued with high hopes and a lofty ambition; but how am I sunk! Oh! My friend, if you had known me as I once was, you would not recognise me in this state of degradation. Despondency rarely visited my heart; a high destiny seemed to bear me on, until I fell, never, never again to rise.”\n\nMust I then lose this admirable being? I have longed for a friend; I have sought one who would sympathise with and love me. Behold, on these desert seas I have found such a one, but I fear I have gained him only to know his value and lose him. I would reconcile him to life, but he repulses the idea.\n\n“I thank you, Walton,” he said, “for your kind intentions towards so miserable a wretch; but when you speak of new ties and fresh affections, think you that any can replace those who are gone? Can any man be to me as Clerval was, or any woman another Elizabeth? Even where the affections are not strongly moved by any superior excellence, the companions of our childhood always possess a certain power over our minds which hardly any later friend can obtain. They know our infantine dispositions, which, however they may be afterwards modified, are never eradicated; and they can judge of our actions with more certain conclusions as to the integrity of our motives. A sister or a brother can never, unless indeed such symptoms have been shown early, suspect the other of fraud or false dealing, when another friend, however strongly he may be attached, may, in spite of himself, be contemplated with suspicion. But I enjoyed friends, dear not only through habit and association, but from their own merits; and wherever I am, the soothing voice of my Elizabeth and the conversation of Clerval will be ever whispered in my ear. They are dead, and but one feeling in such a solitude can persuade me to preserve my life. If I were engaged in any high undertaking or design, fraught with extensive utility to my fellow creatures, then could I live to fulfil it."
+      },
+      "request_id": "ed0be747830c9af334a9b69f",
+      "request_sha256": "3e4d581b8d159a813fb463e601bafa5e942b89994bd9775f57f8d7b3cdde45e7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "68da21239c4e9684f161cfdac87e58551b40f36fa4871887c5baa3fa171240e1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3ca0251c74b84fece77b122f",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_dickens_great_expectations_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 3ca0251c74b84fece77b122f\noriginal_word_count: 451\n\nPassage:\nAt the stairs where we had taken him abroad, and ever since, I had looked warily for any token of our being suspected. I had seen none. We certainly had not been, and at that time as certainly we were not either attended or followed by any boat. If we had been waited on by any boat, I should have run in to shore, and have obliged her to go on, or to make her purpose evident. But we held our own without any appearance of molestation.\n\nHe had his boat-cloak on him, and looked, as I have said, a natural part of the scene. It was remarkable (but perhaps the wretched life he had led accounted for it) that he was the least anxious of any of us. He was not indifferent, for he told me that he hoped to live to see his gentleman one of the best of gentlemen in a foreign country; he was not disposed to be passive or resigned, as I understood it; but he had no notion of meeting danger half way. When it came upon him, he confronted it, but it must come before he troubled himself.\n\n“If you knowed, dear boy,” he said to me, “what it is to sit here alonger my dear boy and have my smoke, arter having been day by day betwixt four walls, you’d envy me. But you don’t know what it is.”\n\n“I think I know the delights of freedom,” I answered.\n\n“Ah,” said he, shaking his head gravely. “But you don’t know it equal to me. You must have been under lock and key, dear boy, to know it equal to me,—but I ain’t a-going to be low.”\n\nIt occurred to me as inconsistent, that, for any mastering idea, he should have endangered his freedom, and even his life. But I reflected that perhaps freedom without danger was too much apart from all the habit of his existence to be to him what it would be to another man. I was not far out, since he said, after smoking a little:—\n\n“You see, dear boy, when I was over yonder, t’other side the world, I was always a looking to this side; and it come flat to be there, for all I was a growing rich. Everybody knowed Magwitch, and Magwitch could come, and Magwitch could go, and nobody’s head would be troubled about him. They ain’t so easy concerning me here, dear boy,—wouldn’t be, leastwise, if they knowed where I was.”\n\n“If all goes well,” said I, “you will be perfectly free and safe again within a few hours.”\n\n“Well,” he returned, drawing a long breath, “I hope so.”\n\n“And think so?”"
+      },
+      "request_id": "3ca0251c74b84fece77b122f",
+      "request_sha256": "1d88dc836a2f54c78b4744a84fd0842b4c4d87a5feaac23b11f8bb00c60ba4b2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3bb389137c78333871f12f85cb3172d47e36fab4be984231f83cf053948a10d3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "878efdcce067d49983bfe615",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_wilde_dorian_gray_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 878efdcce067d49983bfe615\noriginal_word_count: 452\n\nPassage:\nAt least he thought so. But who could tell? ... No. There had been nothing more. Through vanity he had spared her. In hypocrisy he had worn the mask of goodness. For curiosity’s sake he had tried the denial of self. He recognized that now.\n\nBut this murder—was it to dog him all his life? Was he always to be burdened by his past? Was he really to confess? Never. There was only one bit of evidence left against him. The picture itself—that was evidence. He would destroy it. Why had he kept it so long? Once it had given him pleasure to watch it changing and growing old. Of late he had felt no such pleasure. It had kept him awake at night. When he had been away, he had been filled with terror lest other eyes should look upon it. It had brought melancholy across his passions. Its mere memory had marred many moments of joy. It had been like conscience to him. Yes, it had been conscience. He would destroy it.\n\nHe looked round and saw the knife that had stabbed Basil Hallward. He had cleaned it many times, till there was no stain left upon it. It was bright, and glistened. As it had killed the painter, so it would kill the painter’s work, and all that that meant. It would kill the past, and when that was dead, he would be free. It would kill this monstrous soul-life, and without its hideous warnings, he would be at peace. He seized the thing, and stabbed the picture with it.\n\nThere was a cry heard, and a crash. The cry was so horrible in its agony that the frightened servants woke and crept out of their rooms. Two gentlemen, who were passing in the square below, stopped and looked up at the great house. They walked on till they met a policeman and brought him back. The man rang the bell several times, but there was no answer. Except for a light in one of the top windows, the house was all dark. After a time, he went away and stood in an adjoining portico and watched.\n\n“Whose house is that, Constable?” asked the elder of the two gentlemen.\n\n“Mr. Dorian Gray’s, sir,” answered the policeman.\n\nThey looked at each other, as they walked away, and sneered. One of them was Sir Henry Ashton’s uncle.\n\nInside, in the servants’ part of the house, the half-clad domestics were talking in low whispers to each other. Old Mrs. Leaf was crying and wringing her hands. Francis was as pale as death.\n\nAfter about a quarter of an hour, he got the coachman and one of the footmen and crept upstairs."
+      },
+      "request_id": "878efdcce067d49983bfe615",
+      "request_sha256": "d6ff0de30bcd7586466f6945b3d9e95d7a80ec559ed21bc3aceda5b835d54098",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "00c5850e6329e38ec66ad8829e08fe02a3c708fdec528a678bd9a119376ed249"
+    }
+  ],
+  "session_id": "01a0e87b-49a4-73d1-9183-c1526aa2e672",
+  "worker_id": "astra_ab",
+  "worker_identity_sha256": "9f063cc79481da5fa1e91530b35ed3863df2f1d390a463dfb849cb30ea1c9d85"
+}

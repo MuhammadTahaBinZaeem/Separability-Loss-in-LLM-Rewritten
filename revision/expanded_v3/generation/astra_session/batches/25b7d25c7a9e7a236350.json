@@ -1,0 +1,68 @@
+{
+  "batch_id": "25b7d25c7a9e7a236350",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:35:21.838186+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "12524277416de2690b550f07",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_wilde_canterville_ghost_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 12524277416de2690b550f07\noriginal_word_count: 466\n\nPassage:\nWHEN Mr. Hiram B. Otis, the American Minister, bought Canterville Chase, every one told him he was doing a very foolish thing, as there was no doubt at all that the place was haunted. Indeed, Lord Canterville himself, who was a man of the most punctilious honour, had felt it his duty to mention the fact to Mr. Otis when they came to discuss terms.\n\n‘We have not cared to live in the place ourselves,’ said Lord Canterville, ‘since my grandaunt, the Dowager Duchess of Bolton, was frightened into a fit, from which she never really recovered, by two skeleton hands being placed on her shoulders as she was dressing for dinner, and I feel bound to tell you, Mr. Otis, that the ghost has been seen by several living members of my family, as well as by the rector of the parish, the Rev. Augustus Dampier, who is a Fellow of King’s College, Cambridge. After the unfortunate accident to the Duchess, none of our younger servants would stay with us, and Lady Canterville often got very little sleep at night, in consequence of the mysterious noises that came from the corridor and the library.’\n\n‘My Lord,’ answered the Minister, ‘I will take the furniture and the ghost at a valuation. I come from a modern country, where we have everything that money can buy; and with all our spry young fellows painting the Old World red, and carrying off your best actresses and prima-donnas, I reckon that if there were such a thing as a ghost in Europe, we’d have it at home in a very short time in one of our public museums, or on the road as a show.’\n\n‘I fear that the ghost exists,’ said Lord Canterville, smiling, ‘though it may have resisted the overtures of your enterprising impresarios. It has been well known for three centuries, since 1584 in fact, and always makes its appearance before the death of any member of our family.’\n\n‘Well, so does the family doctor for that matter, Lord Canterville. But there is no such thing, sir, as a ghost, and I guess the laws of Nature are not going to be suspended for the British aristocracy.’\n\n‘You are certainly very natural in America,’ answered Lord Canterville, who did not quite understand Mr. Otis’s last observation, ‘and if you don’t mind a ghost in the house, it is all right. Only you must remember I warned you.’\n\nA few weeks after this, the purchase was completed, and at the close of the season the Minister and his family went down to Canterville Chase. Mrs. Otis, who, as Miss Lucretia R. Tappan, of West 53rd Street, had been a celebrated New York belle, was now a very handsome, middle-aged woman, with fine eyes, and a superb profile."
+      },
+      "request_id": "12524277416de2690b550f07",
+      "request_sha256": "958e2d80e8463dc1715ef8f4e97918bb53ada2ab8815ae5e2d6be100ab1fc533",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "14e47db24fbf013ec184cf11fa08556d20f41379ca2a141ae47790174044b1b0"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "bf59ef78877ba243065f6775",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_twain_tom_sawyer_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: bf59ef78877ba243065f6775\noriginal_word_count: 460\n\nPassage:\nThere comes a time in every rightly-constructed boy’s life when he has a raging desire to go somewhere and dig for hidden treasure. This desire suddenly came upon Tom one day. He sallied out to find Joe Harper, but failed of success. Next he sought Ben Rogers; he had gone fishing. Presently he stumbled upon Huck Finn the Red-Handed. Huck would answer. Tom took him to a private place and opened the matter to him confidentially. Huck was willing. Huck was always willing to take a hand in any enterprise that offered entertainment and required no capital, for he had a troublesome superabundance of that sort of time which is not money. “Where’ll we dig?” said Huck.\n\n“Oh, most anywhere.”\n\n“Why, is it hid all around?”\n\n“No, indeed it ain’t. It’s hid in mighty particular places, Huck—sometimes on islands, sometimes in rotten chests under the end of a limb of an old dead tree, just where the shadow falls at midnight; but mostly under the floor in ha’nted houses.”\n\n“Who hides it?”\n\n“Why, robbers, of course—who’d you reckon? Sunday-school sup’rintendents?”\n\n“I don’t know. If ’twas mine I wouldn’t hide it; I’d spend it and have a good time.”\n\n“So would I. But robbers don’t do that way. They always hide it and leave it there.”\n\n“Don’t they come after it any more?”\n\n“No, they think they will, but they generally forget the marks, or else they die. Anyway, it lays there a long time and gets rusty; and by and by somebody finds an old yellow paper that tells how to find the marks—a paper that’s got to be ciphered over about a week because it’s mostly signs and hy’roglyphics.”\n\n“Hyro—which?”\n\n“Hy’roglyphics—pictures and things, you know, that don’t seem to mean anything.”\n\n“Have you got one of them papers, Tom?”\n\n“No.”\n\n“Well then, how you going to find the marks?”\n\n“I don’t want any marks. They always bury it under a ha’nted house or on an island, or under a dead tree that’s got one limb sticking out. Well, we’ve tried Jackson’s Island a little, and we can try it again some time; and there’s the old ha’nted house up the Still-House branch, and there’s lots of dead-limb trees—dead loads of ’em.”\n\n“Is it under all of them?”\n\n“How you talk! No!”\n\n“Then how you going to know which one to go for?”\n\n“Go for all of ’em!”\n\n“Why, Tom, it’ll take all summer.”\n\n“Well, what of that? Suppose you find a brass pot with a hundred dollars in it, all rusty and gray, or rotten chest full of di’monds. How’s that?”\n\nHuck’s eyes glowed.\n\n“That’s bully. Plenty bully enough for me. Just you gimme the hundred dollars and I don’t want no di’monds.”"
+      },
+      "request_id": "bf59ef78877ba243065f6775",
+      "request_sha256": "0b14660ef1b9641167fc80844798a76afbb93232570c002cc6f26c289f578357",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "76458c79095e6352257b5b15d841c063a0b3005065d9814b4e9628f40f43a873"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1c623b3ae087d6f55484e4d0",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 1c623b3ae087d6f55484e4d0\noriginal_word_count: 452\n\nPassage:\nBut, he had oppressed no man, he had imprisoned no man; he was so far from having harshly exacted payment of his dues, that he had relinquished them of his own will, thrown himself on a world with no favour in it, won his own private place there, and earned his own bread. Monsieur Gabelle had held the impoverished and involved estate on written instructions, to spare the people, to give them what little there was to give--such fuel as the heavy creditors would let them have in the winter, and such produce as could be saved from the same grip in the summer--and no doubt he had put the fact in plea and proof, for his own safety, so that it could not but appear now.\n\nThis favoured the desperate resolution Charles Darnay had begun to make, that he would go to Paris.\n\nYes. Like the mariner in the old story, the winds and streams had driven him within the influence of the Loadstone Rock, and it was drawing him to itself, and he must go. Everything that arose before his mind drifted him on, faster and faster, more and more steadily, to the terrible attraction. His latent uneasiness had been, that bad aims were being worked out in his own unhappy land by bad instruments, and that he who could not fail to know that he was better than they, was not there, trying to do something to stay bloodshed, and assert the claims of mercy and humanity. With this uneasiness half stifled, and half reproaching him, he had been brought to the pointed comparison of himself with the brave old gentleman in whom duty was so strong; upon that comparison (injurious to himself) had instantly followed the sneers of Monseigneur, which had stung him bitterly, and those of Stryver, which above all were coarse and galling, for old reasons. Upon those, had followed Gabelle’s letter: the appeal of an innocent prisoner, in danger of death, to his justice, honour, and good name.\n\nHis resolution was made. He must go to Paris.\n\nYes. The Loadstone Rock was drawing him, and he must sail on, until he struck. He knew of no rock; he saw hardly any danger. The intention with which he had done what he had done, even although he had left it incomplete, presented it before him in an aspect that would be gratefully acknowledged in France on his presenting himself to assert it. Then, that glorious vision of doing good, which is so often the sanguine mirage of so many good minds, arose before him, and he even saw himself in the illusion with some influence to guide this raging Revolution that was running so fearfully wild."
+      },
+      "request_id": "1c623b3ae087d6f55484e4d0",
+      "request_sha256": "fa4237b59ede0ca9b518743860e06cb413b7aad2ee21ab795857d7e87c4cdab3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5ba705b07997750e718517f70cad79ba079dbc6801c11097f1d858ef9cf3d5cd"
+    }
+  ],
+  "session_id": "01a0e871-0029-7eb2-b032-b2c22db7d18a",
+  "worker_id": "astra_y",
+  "worker_identity_sha256": "117b62507d566d7e1674868f608b01ea30f8f22336a4d59e5e97eb3a6f4f8842"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "ba0f88179318b0bc3a82",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:31:48.149418+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "eb624f2a37ded168e8a88aa7",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V3_twain_connecticut_yankee_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: eb624f2a37ded168e8a88aa7\noriginal_word_count: 458\n\nPassage:\nBut for me, he never would have got out. Morgan le Fay hated him with her whole heart, and she never would have softened toward him. And yet his crime was committed more in thoughtlessness than deliberate depravity. He had said she had red hair. Well, she had; but that was no way to speak of it. When red-headed people are above a certain social grade their hair is auburn.\n\nConsider it: among these forty-seven captives there were five whose names, offenses, and dates of incarceration were no longer known! One woman and four men--all bent, and wrinkled, and mind-extinguished patriarchs. They themselves had long ago forgotten these details; at any rate they had mere vague theories about them, nothing definite and nothing that they repeated twice in the same way. The succession of priests whose office it had been to pray daily with the captives and remind them that God had put them there, for some wise purpose or other, and teach them that patience, humbleness, and submission to oppression was what He loved to see in parties of a subordinate rank, had traditions about these poor old human ruins, but nothing more. These traditions went but little way, for they concerned the length of the incarceration only, and not the names of the offenses. And even by the help of tradition the only thing that could be proven was that none of the five had seen daylight for thirty-five years: how much longer this privation has lasted was not guessable. The king and the queen knew nothing about these poor creatures, except that they were heirlooms, assets inherited, along with the throne, from the former firm. Nothing of their history had been transmitted with their persons, and so the inheriting owners had considered them of no value, and had felt no interest in them. I said to the queen:\n\n“Then why in the world didn't you set them free?”\n\nThe question was a puzzler. She didn't know _why_ she hadn't, the thing had never come up in her mind. So here she was, forecasting the veritable history of future prisoners of the Castle d'If, without knowing it. It seemed plain to me now, that with her training, those inherited prisoners were merely property--nothing more, nothing less. Well, when we inherit property, it does not occur to us to throw it away, even when we do not value it.\n\nWhen I brought my procession of human bats up into the open world and the glare of the afternoon sun--previously blindfolding them, in charity for eyes so long untortured by light--they were a spectacle to look at. Skeletons, scarecrows, goblins, pathetic frights, every one; legitimatest possible children of Monarchy by the Grace of God and the Established Church."
+      },
+      "request_id": "eb624f2a37ded168e8a88aa7",
+      "request_sha256": "d35226914f76776f746f9a9c348c98f31d381c273c74fab16e4431fa25dcd5a7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1011df7bfc547c94bc04d793d11351599b381f057afbf4214f4f904caa7f636f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "24ea4cd907f24553671e89a7",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_shelley_frankenstein_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 24ea4cd907f24553671e89a7\noriginal_word_count: 466\n\nPassage:\nBut this thought, which supported me in the commencement of my career, now serves only to plunge me lower in the dust. All my speculations and hopes are as nothing, and like the archangel who aspired to omnipotence, I am chained in an eternal hell. My imagination was vivid, yet my powers of analysis and application were intense; by the union of these qualities I conceived the idea and executed the creation of a man. Even now I cannot recollect without passion my reveries while the work was incomplete. I trod heaven in my thoughts, now exulting in my powers, now burning with the idea of their effects. From my infancy I was imbued with high hopes and a lofty ambition; but how am I sunk! Oh! My friend, if you had known me as I once was, you would not recognise me in this state of degradation. Despondency rarely visited my heart; a high destiny seemed to bear me on, until I fell, never, never again to rise.”\n\nMust I then lose this admirable being? I have longed for a friend; I have sought one who would sympathise with and love me. Behold, on these desert seas I have found such a one, but I fear I have gained him only to know his value and lose him. I would reconcile him to life, but he repulses the idea.\n\n“I thank you, Walton,” he said, “for your kind intentions towards so miserable a wretch; but when you speak of new ties and fresh affections, think you that any can replace those who are gone? Can any man be to me as Clerval was, or any woman another Elizabeth? Even where the affections are not strongly moved by any superior excellence, the companions of our childhood always possess a certain power over our minds which hardly any later friend can obtain. They know our infantine dispositions, which, however they may be afterwards modified, are never eradicated; and they can judge of our actions with more certain conclusions as to the integrity of our motives. A sister or a brother can never, unless indeed such symptoms have been shown early, suspect the other of fraud or false dealing, when another friend, however strongly he may be attached, may, in spite of himself, be contemplated with suspicion. But I enjoyed friends, dear not only through habit and association, but from their own merits; and wherever I am, the soothing voice of my Elizabeth and the conversation of Clerval will be ever whispered in my ear. They are dead, and but one feeling in such a solitude can persuade me to preserve my life. If I were engaged in any high undertaking or design, fraught with extensive utility to my fellow creatures, then could I live to fulfil it."
+      },
+      "request_id": "24ea4cd907f24553671e89a7",
+      "request_sha256": "70c75ea1ac4fa0c1def05eb2ea34a6a7764c9029a247da4a1e9527af782e201d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "68da21239c4e9684f161cfdac87e58551b40f36fa4871887c5baa3fa171240e1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "46d1bba7f9c54d5e2d2a88d9",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_shelley_the_last_man_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 46d1bba7f9c54d5e2d2a88d9\noriginal_word_count: 452\n\nPassage:\nSummer advanced, and, crowned with the sun’s potent rays, plague shot her unerring shafts over the earth. The nations beneath their influence bowed their heads, and died. The corn that sprung up in plenty, lay in autumn rotting on the ground, while the melancholy wretch who had gone out to gather bread for his children, lay stiff and plague-struck in the furrow. The green woods waved their boughs majestically, while the dying were spread beneath their shade, answering the solemn melody with inharmonious cries. The painted birds flitted through the shades; the careless deer reposed unhurt upon the fern—the oxen and the horses strayed from their unguarded stables, and grazed among the wheat, for death fell on man alone.\n\nWith summer and mortality grew our fears. My poor love and I looked at each other, and our babes.—“We will save them, Idris,” I said, “I will save them. Years hence we shall recount to them our fears, then passed away with their occasion. Though they only should remain on the earth, still they shall live, nor shall their cheeks become pale nor their sweet voices languish.” Our eldest in some degree understood the scenes passing around, and at times, he with serious looks questioned me concerning the reason of so vast a desolation. But he was only ten years old; and the hilarity of youth soon chased unreasonable care from his brow. Evelyn, a laughing cherub, a gamesome infant, without idea of pain or sorrow, would, shaking back his light curls from his eyes, make the halls re-echo with his merriment, and in a thousand artless ways attract our attention to his play. Clara, our lovely gentle Clara, was our stay, our solace, our delight. She made it her task to attend the sick, comfort the sorrowing, assist the aged, and partake the sports and awaken the gaiety of the young. She flitted through the rooms, like a good spirit, dispatched from the celestial kingdom, to illumine our dark hour with alien splendour. Gratitude and praise marked where her footsteps had been. Yet, when she stood in unassuming simplicity before us, playing with our children, or with girlish assiduity performing little kind offices for Idris, one wondered in what fair lineament of her pure loveliness, in what soft tone of her thrilling voice, so much of heroism, sagacity and active goodness resided.\n\nThe summer passed tediously, for we trusted that winter would at least check the disease. That it would vanish altogether was an hope too dear— too heartfelt, to be expressed. When such a thought was heedlessly uttered, the hearers, with a gush of tears and passionate sobs, bore witness how deep their fears were, how small their hopes."
+      },
+      "request_id": "46d1bba7f9c54d5e2d2a88d9",
+      "request_sha256": "26209e2920ef89338f8cb07cc3c1b047e9cccad9378031d39b0a1d5c44b60ae1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9f86a0a94224276006b306244a2dc160fccc7b2b5abc1d46397155cba3a39edd"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

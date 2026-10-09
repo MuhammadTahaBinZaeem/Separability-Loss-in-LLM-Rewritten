@@ -1,0 +1,68 @@
+{
+  "batch_id": "9689573c7044572215b1",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:47:55.114711+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "111ff4323fc69bfa67bd3595",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_wilde_dorian_gray_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 111ff4323fc69bfa67bd3595\noriginal_word_count: 450\n\nPassage:\nThis marriage is quite right. I did not think so at first, but I admit it now. The gods made Sibyl Vane for you. Without her you would have been incomplete.”\n\n“Thanks, Basil,” answered Dorian Gray, pressing his hand. “I knew that you would understand me. Harry is so cynical, he terrifies me. But here is the orchestra. It is quite dreadful, but it only lasts for about five minutes. Then the curtain rises, and you will see the girl to whom I am going to give all my life, to whom I have given everything that is good in me.”\n\nA quarter of an hour afterwards, amidst an extraordinary turmoil of applause, Sibyl Vane stepped on to the stage. Yes, she was certainly lovely to look at—one of the loveliest creatures, Lord Henry thought, that he had ever seen. There was something of the fawn in her shy grace and startled eyes. A faint blush, like the shadow of a rose in a mirror of silver, came to her cheeks as she glanced at the crowded enthusiastic house. She stepped back a few paces and her lips seemed to tremble. Basil Hallward leaped to his feet and began to applaud. Motionless, and as one in a dream, sat Dorian Gray, gazing at her. Lord Henry peered through his glasses, murmuring, “Charming! charming!”\n\nThe scene was the hall of Capulet’s house, and Romeo in his pilgrim’s dress had entered with Mercutio and his other friends. The band, such as it was, struck up a few bars of music, and the dance began. Through the crowd of ungainly, shabbily dressed actors, Sibyl Vane moved like a creature from a finer world. Her body swayed, while she danced, as a plant sways in the water. The curves of her throat were the curves of a white lily. Her hands seemed to be made of cool ivory.\n\nYet she was curiously listless. She showed no sign of joy when her eyes rested on Romeo. The few words she had to speak—\n\nGood pilgrim, you do wrong your hand too much, Which mannerly devotion shows in this; For saints have hands that pilgrims’ hands do touch, And palm to palm is holy palmers’ kiss—\n\nwith the brief dialogue that follows, were spoken in a thoroughly artificial manner. The voice was exquisite, but from the point of view of tone it was absolutely false. It was wrong in colour. It took away all the life from the verse. It made the passion unreal.\n\nDorian Gray grew pale as he watched her. He was puzzled and anxious. Neither of his friends dared to say anything to him. She seemed to them to be absolutely incompetent."
+      },
+      "request_id": "111ff4323fc69bfa67bd3595",
+      "request_sha256": "8db21cdb0d55d28d8589c71a4e024551bea8e23d92d92178c71534a3b44d8ca5",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b947033921d3b810c5a8da5652bcf9048ea6f36521ab4ec345ad59508b45d530"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a4b687f25585cd787c16103f",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_twain_connecticut_yankee_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: a4b687f25585cd787c16103f\noriginal_word_count: 457\n\nPassage:\nSaturday noon I went to the well and looked on a while. Merlin was still burning smoke-powders, and pawing the air, and muttering gibberish as hard as ever, but looking pretty down-hearted, for of course he had not started even a perspiration in that well yet. Finally I said:\n\n“How does the thing promise by this time, partner?”\n\n“Behold, I am even now busied with trial of the powerfulest enchantment known to the princes of the occult arts in the lands of the East; an it fail me, naught can avail. Peace, until I finish.”\n\nHe raised a smoke this time that darkened all the region, and must have made matters uncomfortable for the hermits, for the wind was their way, and it rolled down over their dens in a dense and billowy fog. He poured out volumes of speech to match, and contorted his body and sawed the air with his hands in a most extraordinary way. At the end of twenty minutes he dropped down panting, and about exhausted. Now arrived the abbot and several hundred monks and nuns, and behind them a multitude of pilgrims and a couple of acres of foundlings, all drawn by the prodigious smoke, and all in a grand state of excitement. The abbot inquired anxiously for results. Merlin said:\n\n“If any labor of mortal might break the spell that binds these waters, this which I have but just essayed had done it. It has failed; whereby I do now know that that which I had feared is a truth established; the sign of this failure is, that the most potent spirit known to the magicians of the East, and whose name none may utter and live, has laid his spell upon this well. The mortal does not breathe, nor ever will, who can penetrate the secret of that spell, and without that secret none can break it. The water will flow no more forever, good Father. I have done what man could. Suffer me to go.”\n\nOf course this threw the abbot into a good deal of a consternation. He turned to me with the signs of it in his face, and said:\n\n“Ye have heard him. Is it true?”\n\n“Part of it is.”\n\n“Not all, then, not all! What part is true?”\n\n“That that spirit with the Russian name has put his spell upon the well.”\n\n“God's wounds, then are we ruined!”\n\n“Possibly.”\n\n“But not certainly? Ye mean, not certainly?”\n\n“That is it.”\n\n“Wherefore, ye also mean that when he saith none can break the spell--”\n\n“Yes, when he says that, he says what isn't necessarily true. There are conditions under which an effort to break it may have some chance--that is, some small, some trifling chance--of success.”"
+      },
+      "request_id": "a4b687f25585cd787c16103f",
+      "request_sha256": "2dfbd9131abda4b1cf6521638c64f0d075dfb429cefa1743c2618cd15615d9d0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ad54bda0be32e76b8625005a92102bc08a403d5878015634373dedab521f64b5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f018a3a143edb59ddb6b33dd",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_wilde_canterville_ghost_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: f018a3a143edb59ddb6b33dd\noriginal_word_count: 472\n\nPassage:\n‘Oh, bother my hat! I want Virginia!’ cried the little Duke, laughing, and they galloped on to the railway station. There Mr. Otis inquired of the station-master if any one answering the description of Virginia had been seen on the platform, but could get no news of her. The station-master, however, wired up and down the line, and assured him that a strict watch would be kept for her, and, after having bought a hat for the little Duke from a linen-draper, who was just putting up his shutters, Mr. Otis rode off to Bexley, a village about four miles away, which he was told was a well-known haunt of the gypsies, as there was a large common next to it. Here they roused up the rural policeman, but could get no information from him, and, after riding all over the common, they turned their horses’ heads homewards, and reached the Chase about eleven o’clock, dead-tired and almost heart-broken. They found Washington and the twins waiting for them at the gate-house with lanterns, as the avenue was very dark. Not the slightest trace of Virginia had been discovered. The gypsies had been caught on Brockley meadows, but she was not with them, and they had explained their sudden departure by saying that they had mistaken the date of Chorton Fair, and had gone off in a hurry for fear they might be late. Indeed, they had been quite distressed at hearing of Virginia’s disappearance, as they were very grateful to Mr. Otis for having allowed them to camp in his park, and four of their number had stayed behind to help in the search. The carp-pond had been dragged, and the whole Chase thoroughly gone over, but without any result. It was evident that, for that night at any rate, Virginia was lost to them; and it was in a state of the deepest depression that Mr. Otis and the boys walked up to the house, the groom following behind with the two horses and the pony. In the hall they found a group of frightened servants, and lying on a sofa in the library was poor Mrs. Otis, almost out of her mind with terror and anxiety, and having her forehead bathed with eau-de-cologne by the old housekeeper. Mr. Otis at once insisted on her having something to eat, and ordered up supper for the whole party. It was a melancholy meal, as hardly any one spoke, and even the twins were awestruck and subdued, as they were very fond of their sister. When they had finished, Mr. Otis, in spite of the entreaties of the little Duke, ordered them all to bed, saying that nothing more could be done that night, and that he would telegraph in the morning to Scotland Yard for some detectives to be sent down immediately."
+      },
+      "request_id": "f018a3a143edb59ddb6b33dd",
+      "request_sha256": "64be038dddb047c767f7a287e02345a7923cbf7bd73e3a5b180f3b8f83c9a592",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0ce185bba5a831177cf957e15d1e185774a974800fb50d1c375f86ee1b31a876"
+    }
+  ],
+  "session_id": "01a0e83d-4966-70c1-8c6a-f47c6ab2c73c",
+  "worker_id": "astra_j",
+  "worker_identity_sha256": "379c8d043a28d24c0180a7e1508526a74253a4abdfccf2558222841452c29a32"
+}

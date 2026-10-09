@@ -1,0 +1,68 @@
+{
+  "batch_id": "3ca8a85c8748ffe50d16",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T08:00:12.282525+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6c4cbec1d61a4ee5bcb26cc9",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_dickens_oliver_twist_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 6c4cbec1d61a4ee5bcb26cc9\noriginal_word_count: 461\n\nPassage:\nThe narrow streets and courts, at length, terminated in a large open space; scattered about which, were pens for beasts, and other indications of a cattle-market. Sikes slackened his pace when they reached this spot: the girl being quite unable to support any longer, the rapid rate at which they had hitherto walked. Turning to Oliver, he roughly commanded him to take hold of Nancy’s hand.\n\n“Do you hear?” growled Sikes, as Oliver hesitated, and looked round.\n\nThey were in a dark corner, quite out of the track of passengers.\n\nOliver saw, but too plainly, that resistance would be of no avail. He held out his hand, which Nancy clasped tight in hers.\n\n“Give me the other,” said Sikes, seizing Oliver’s unoccupied hand. “Here, Bull’s-Eye!”\n\nThe dog looked up, and growled.\n\n“See here, boy!” said Sikes, putting his other hand to Oliver’s throat; “if he speaks ever so soft a word, hold him! D’ye mind!”\n\nThe dog growled again; and licking his lips, eyed Oliver as if he were anxious to attach himself to his windpipe without delay.\n\n“He’s as willing as a Christian, strike me blind if he isn’t!” said Sikes, regarding the animal with a kind of grim and ferocious approval. “Now, you know what you’ve got to expect, master, so call away as quick as you like; the dog will soon stop that game. Get on, young ’un!”\n\nBull’s-eye wagged his tail in acknowledgment of this unusually endearing form of speech; and, giving vent to another admonitory growl for the benefit of Oliver, led the way onward.\n\nIt was Smithfield that they were crossing, although it might have been Grosvenor Square, for anything Oliver knew to the contrary. The night was dark and foggy. The lights in the shops could scarecely struggle through the heavy mist, which thickened every moment and shrouded the streets and houses in gloom; rendering the strange place still stranger in Oliver’s eyes; and making his uncertainty the more dismal and depressing.\n\nThey had hurried on a few paces, when a deep church-bell struck the hour. With its first stroke, his two conductors stopped, and turned their heads in the direction whence the sound proceeded.\n\n“Eight o’clock, Bill,” said Nancy, when the bell ceased.\n\n“What’s the good of telling me that; I can hear it, can’t I?” replied Sikes.\n\n“I wonder whether _they_ can hear it,” said Nancy.\n\n“Of course they can,” replied Sikes. “It was Bartlemy time when I was shopped; and there warn’t a penny trumpet in the fair, as I couldn’t hear the squeaking on. Arter I was locked up for the night, the row and din outside made the thundering old jail so silent, that I could almost have beat my brains out against the iron plates of the door.”"
+      },
+      "request_id": "6c4cbec1d61a4ee5bcb26cc9",
+      "request_sha256": "4c5402d852c8a2faa511374abd1f2f7e4430ab584c36e205c326f4efd2737053",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1f85f8b0e54b53084f27f26ade413172e95ca6d5a4d72e31c01b4d3a4ceaedf7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "dba8e3afbf7edebc0e6993e3",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_poe_the_gold_bug_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: dba8e3afbf7edebc0e6993e3\noriginal_word_count: 454\n\nPassage:\n“But,” said I, returning him the slip, “I am as much in the dark as ever. Were all the jewels of Golconda awaiting me upon my solution of this enigma, I am quite sure that I should be unable to earn them.”\n\n“And yet,” said Legrand, “the solution is by no means so difficult as you might be lead to imagine from the first hasty inspection of the characters. These characters, as any one might readily guess, form a cipher—that is to say, they convey a meaning; but then, from what is known of Kidd, I could not suppose him capable of constructing any of the more abstruse cryptographs. I made up my mind, at once, that this was of a simple species—such, however, as would appear, to the crude intellect of the sailor, absolutely insoluble without the key.”\n\n“And you really solved it?”\n\n“Readily; I have solved others of an abstruseness ten thousand times greater. Circumstances, and a certain bias of mind, have led me to take interest in such riddles, and it may well be doubted whether human ingenuity can construct an enigma of the kind which human ingenuity may not, by proper application, resolve. In fact, having once established connected and legible characters, I scarcely gave a thought to the mere difficulty of developing their import.\n\n“In the present case—indeed in all cases of secret writing—the first question regards the language of the cipher; for the principles of solution, so far, especially, as the more simple ciphers are concerned, depend upon, and are varied by, the genius of the particular idiom. In general, there is no alternative but experiment (directed by probabilities) of every tongue known to him who attempts the solution, until the true one be attained. But, with the cipher now before us, all difficulty was removed by the signature. The pun upon the word ‘Kidd’ is appreciable in no other language than the English. But for this consideration I should have begun my attempts with the Spanish and French, as the tongues in which a secret of this kind would most naturally have been written by a pirate of the Spanish main. As it was, I assumed the cryptograph to be English.\n\n“You observe there are no divisions between the words. Had there been divisions, the task would have been comparatively easy. In such case I should have commenced with a collation and analysis of the shorter words, and, had a word of a single letter occurred, as is most likely, (a or I, for example,) I should have considered the solution as assured. But, there being no division, my first step was to ascertain the predominant letters, as well as the least frequent."
+      },
+      "request_id": "dba8e3afbf7edebc0e6993e3",
+      "request_sha256": "5b1aca6a50e0e6b7611d541b8a02f85315ddc82749f3e4050ce77a65bbf057a3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "94a90852fb2727186d2262c4205cbeaa59e39ea8da127c7f7be5e722019bc7da"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0ca74bd5c6bb15dbfb6b19e7",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_shelley_the_last_man_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 0ca74bd5c6bb15dbfb6b19e7\noriginal_word_count: 470\n\nPassage:\nYet even now I had not drunk the bitter potion to the dregs; I was not yet persuaded of my loss; I did not yet feel in every pulsation, in every nerve, in every thought, that I remained alone of my race,—that I was the LAST MAN.\n\nThe day had clouded over, and a drizzling rain set in at sunset. Even the eternal skies weep, I thought; is there any shame then, that mortal man should spend himself in tears? I remembered the ancient fables, in which human beings are described as dissolving away through weeping into ever-gushing fountains. Ah! that so it were; and then my destiny would be in some sort akin to the watery death of Adrian and Clara. Oh! grief is fantastic; it weaves a web on which to trace the history of its woe from every form and change around; it incorporates itself with all living nature; it finds sustenance in every object; as light, it fills all things, and, like light, it gives its own colours to all.\n\nI had wandered in my search to some distance from the spot on which I had been cast, and came to one of those watch-towers, which at stated distances line the Italian shore. I was glad of shelter, glad to find a work of human hands, after I had gazed so long on nature’s drear barrenness; so I entered, and ascended the rough winding staircase into the guard-room. So far was fate kind, that no harrowing vestige remained of its former inhabitants; a few planks laid across two iron tressels, and strewed with the dried leaves of Indian corn, was the bed presented to me; and an open chest, containing some half mouldered biscuit, awakened an appetite, which perhaps existed before, but of which, until now, I was not aware. Thirst also, violent and parching, the result of the sea-water I had drank, and of the exhaustion of my frame, tormented me. Kind nature had gifted the supply of these wants with pleasurable sensations, so that I—even I!—was refreshed and calmed, as I ate of this sorry fare, and drank a little of the sour wine which half filled a flask left in this abandoned dwelling. Then I stretched myself on the bed, not to be disdained by the victim of shipwreck. The earthy smell of the dried leaves was balm to my sense after the hateful odour of sea-weed. I forgot my state of loneliness. I neither looked backward nor forward; my senses were hushed to repose; I fell asleep and dreamed of all dear inland scenes, of hay-makers, of the shepherd’s whistle to his dog, when he demanded his help to drive the flock to fold; of sights and sounds peculiar to my boyhood’s mountain life, which I had long forgotten."
+      },
+      "request_id": "0ca74bd5c6bb15dbfb6b19e7",
+      "request_sha256": "67ca07b8766bf3458179692e762ff686cb7c48d4753371eed7116a6b2058e2b0",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7746ea6396a882c7284f4dcdca09d8d0a394b648e31c809ae8b4d0781faeb4db"
+    }
+  ],
+  "session_id": "01a0e1dc-db77-7ca2-a44b-20de81379df6",
+  "worker_id": "astra_c",
+  "worker_identity_sha256": "85385f96362fb7155bec4ef09a1c5c0d6a7ab633c57687871b698abad7715535"
+}

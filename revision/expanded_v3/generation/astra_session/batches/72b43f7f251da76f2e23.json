@@ -1,0 +1,68 @@
+{
+  "batch_id": "72b43f7f251da76f2e23",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:23:04.581639+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7626bba7edc01e87fac2e4ec",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_dickens_great_expectations_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 7626bba7edc01e87fac2e4ec\noriginal_word_count: 459\n\nPassage:\nDo you often come back?”\n\n“I have never been here since.”\n\n“Nor I.”\n\nThe moon began to rise, and I thought of the placid look at the white ceiling, which had passed away. The moon began to rise, and I thought of the pressure on my hand when I had spoken the last words he had heard on earth.\n\nEstella was the next to break the silence that ensued between us.\n\n“I have very often hoped and intended to come back, but have been prevented by many circumstances. Poor, poor old place!”\n\nThe silvery mist was touched with the first rays of the moonlight, and the same rays touched the tears that dropped from her eyes. Not knowing that I saw them, and setting herself to get the better of them, she said quietly,—\n\n“Were you wondering, as you walked along, how it came to be left in this condition?”\n\n“Yes, Estella.”\n\n“The ground belongs to me. It is the only possession I have not relinquished. Everything else has gone from me, little by little, but I have kept this. It was the subject of the only determined resistance I made in all the wretched years.”\n\n“Is it to be built on?”\n\n“At last, it is. I came here to take leave of it before its change. And you,” she said, in a voice of touching interest to a wanderer,—“you live abroad still?”\n\n“Still.”\n\n“And do well, I am sure?”\n\n“I work pretty hard for a sufficient living, and therefore—yes, I do well.”\n\n“I have often thought of you,” said Estella.\n\n“Have you?”\n\n“Of late, very often. There was a long hard time when I kept far from me the remembrance of what I had thrown away when I was quite ignorant of its worth. But since my duty has not been incompatible with the admission of that remembrance, I have given it a place in my heart.”\n\n“You have always held your place in my heart,” I answered.\n\nAnd we were silent again until she spoke.\n\n“I little thought,” said Estella, “that I should take leave of you in taking leave of this spot. I am very glad to do so.”\n\n“Glad to part again, Estella? To me, parting is a painful thing. To me, the remembrance of our last parting has been ever mournful and painful.”\n\n“But you said to me,” returned Estella, very earnestly, “‘God bless you, God forgive you!’ And if you could say that to me then, you will not hesitate to say that to me now,—now, when suffering has been stronger than all other teaching, and has taught me to understand what your heart used to be. I have been bent and broken, but—I hope—into a better shape."
+      },
+      "request_id": "7626bba7edc01e87fac2e4ec",
+      "request_sha256": "6c604b0241476fe506b89df28c296f4a09691a7cbb655258faae518730f66afe",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5f038a8ffc18e2b73c5dda68984d76b39cb26489c2bd3cf499af7ee10926eac8"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "37b37ba2431bfcb923d587a0",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_wilde_canterville_ghost_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 37b37ba2431bfcb923d587a0\noriginal_word_count: 456\n\nPassage:\nPoor Jack was afterwards shot in a duel by Lord Canterville on Wandsworth Common, and Lady Barbara died of a broken heart at Tunbridge Wells before the year was out, so, in every way, it had been a great success. It was, however, an extremely difficult ‘make-up,’ if I may use such a theatrical expression in connection with one of the greatest mysteries of the supernatural, or, to employ a more scientific term, the higher-natural world, and it took him fully three hours to make his preparations. At last everything was ready, and he was very pleased with his appearance. The big leather riding-boots that went with the dress were just a little too large for him, and he could only find one of the two horse-pistols, but, on the whole, he was quite satisfied, and at a quarter past one he glided out of the wainscoting and crept down the corridor. On reaching the room occupied by the twins, which I should mention was called the Blue Bed Chamber, on account of the colour of its hangings, he found the door just ajar. Wishing to make an effective entrance, he flung it wide open, when a heavy jug of water fell right down on him, wetting him to the skin, and just missing his left shoulder by a couple of inches. At the same moment he heard stifled shrieks of laughter proceeding from the four-post bed. The shock to his nervous system was so great that he fled back to his room as hard as he could go, and the next day he was laid up with a severe cold. The only thing that at all consoled him in the whole affair was the fact that he had not brought his head with him, for, had he done so, the consequences might have been very serious.\n\nHe now gave up all hope of ever frightening this rude American family, and contented himself, as a rule, with creeping about the passages in list slippers, with a thick red muffler round his throat for fear of draughts, and a small arquebuse, in case he should be attacked by the twins. The final blow he received occurred on the 19th of September. He had gone downstairs to the great entrance-hall, feeling sure that there, at any rate, he would be quite unmolested, and was amusing himself by making satirical remarks on the large Saroni photographs of the United States Minister and his wife, which had now taken the place of the Canterville family pictures. He was simply but neatly clad in a long shroud, spotted with churchyard mould, had tied up his jaw with a strip of yellow linen, and carried a small lantern and a sexton’s spade."
+      },
+      "request_id": "37b37ba2431bfcb923d587a0",
+      "request_sha256": "859d76c0f17c0149feb7e91e5aa5ff219606c883ce524a6d3f9ec3ab657fb7f2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0ed275703d9dbc5b33ff2b4d22cc0a17e79381f83ce31e81903ae1498fd93cda"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4c56452479c6505dcd10d429",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 470,
+      "passage_id": "V2_shelley_frankenstein_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 4c56452479c6505dcd10d429\noriginal_word_count: 470\n\nPassage:\nOnce, however, the lieutenant asked why he had come so far upon the ice in so strange a vehicle.\n\nHis countenance instantly assumed an aspect of the deepest gloom, and he replied, “To seek one who fled from me.”\n\n“And did the man whom you pursued travel in the same fashion?”\n\n“Yes.”\n\n“Then I fancy we have seen him, for the day before we picked you up we saw some dogs drawing a sledge, with a man in it, across the ice.”\n\nThis aroused the stranger’s attention, and he asked a multitude of questions concerning the route which the dæmon, as he called him, had pursued. Soon after, when he was alone with me, he said, “I have, doubtless, excited your curiosity, as well as that of these good people; but you are too considerate to make inquiries.”\n\n“Certainly; it would indeed be very impertinent and inhuman in me to trouble you with any inquisitiveness of mine.”\n\n“And yet you rescued me from a strange and perilous situation; you have benevolently restored me to life.”\n\nSoon after this he inquired if I thought that the breaking up of the ice had destroyed the other sledge. I replied that I could not answer with any degree of certainty, for the ice had not broken until near midnight, and the traveller might have arrived at a place of safety before that time; but of this I could not judge.\n\nFrom this time a new spirit of life animated the decaying frame of the stranger. He manifested the greatest eagerness to be upon deck to watch for the sledge which had before appeared; but I have persuaded him to remain in the cabin, for he is far too weak to sustain the rawness of the atmosphere. I have promised that someone should watch for him and give him instant notice if any new object should appear in sight.\n\nSuch is my journal of what relates to this strange occurrence up to the present day. The stranger has gradually improved in health but is very silent and appears uneasy when anyone except myself enters his cabin. Yet his manners are so conciliating and gentle that the sailors are all interested in him, although they have had very little communication with him. For my own part, I begin to love him as a brother, and his constant and deep grief fills me with sympathy and compassion. He must have been a noble creature in his better days, being even now in wreck so attractive and amiable.\n\nI said in one of my letters, my dear Margaret, that I should find no friend on the wide ocean; yet I have found a man who, before his spirit had been broken by misery, I should have been happy to have possessed as the brother of my heart."
+      },
+      "request_id": "4c56452479c6505dcd10d429",
+      "request_sha256": "7fdd2f842f226a0f033cf55367d8585113a06bba09613277bfa15d416d747b8a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7fe6d1075336dc0d118394fdf9d80399a110ee9fad2f68bfd1796d753b8b8830"
+    }
+  ],
+  "session_id": "01a0e861-03f8-7221-8672-8e262e9ebfc7",
+  "worker_id": "astra_t",
+  "worker_identity_sha256": "c223dffc33181152e7b2fea39b5f4b9f77c7ee2ed9647b0e46dbc4f2b2b1711f"
+}

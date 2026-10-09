@@ -1,0 +1,68 @@
+{
+  "batch_id": "df076622bdb9b4855099",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:22:35.202620+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "73c5d984e9cc52d3d55c5b06",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_shelley_frankenstein_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 73c5d984e9cc52d3d55c5b06\noriginal_word_count: 472\n\nPassage:\nOn my return, I found the following letter from my father:—\n\n“My dear Victor,\n\n“You have probably waited impatiently for a letter to fix the date of your return to us; and I was at first tempted to write only a few lines, merely mentioning the day on which I should expect you. But that would be a cruel kindness, and I dare not do it. What would be your surprise, my son, when you expected a happy and glad welcome, to behold, on the contrary, tears and wretchedness? And how, Victor, can I relate our misfortune? Absence cannot have rendered you callous to our joys and griefs; and how shall I inflict pain on my long absent son? I wish to prepare you for the woeful news, but I know it is impossible; even now your eye skims over the page to seek the words which are to convey to you the horrible tidings.\n\n“William is dead!—that sweet child, whose smiles delighted and warmed my heart, who was so gentle, yet so gay! Victor, he is murdered!\n\n“I will not attempt to console you; but will simply relate the circumstances of the transaction.\n\n“Last Thursday (May 7th), I, my niece, and your two brothers, went to walk in Plainpalais. The evening was warm and serene, and we prolonged our walk farther than usual. It was already dusk before we thought of returning; and then we discovered that William and Ernest, who had gone on before, were not to be found. We accordingly rested on a seat until they should return. Presently Ernest came, and enquired if we had seen his brother; he said, that he had been playing with him, that William had run away to hide himself, and that he vainly sought for him, and afterwards waited for a long time, but that he did not return.\n\n“This account rather alarmed us, and we continued to search for him until night fell, when Elizabeth conjectured that he might have returned to the house. He was not there. We returned again, with torches; for I could not rest, when I thought that my sweet boy had lost himself, and was exposed to all the damps and dews of night; Elizabeth also suffered extreme anguish. About five in the morning I discovered my lovely boy, whom the night before I had seen blooming and active in health, stretched on the grass livid and motionless; the print of the murder’s finger was on his neck.\n\n“He was conveyed home, and the anguish that was visible in my countenance betrayed the secret to Elizabeth. She was very earnest to see the corpse. At first I attempted to prevent her but she persisted, and entering the room where it lay, hastily examined the neck of the victim, and clasping her hands exclaimed, ‘O God!"
+      },
+      "request_id": "73c5d984e9cc52d3d55c5b06",
+      "request_sha256": "3626cc6e29887f63c3f1b27973c6f19c6d40a269f240a903ed5f6b3983ddef36",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "88e9fe70212c16ad20f09ea5221e87817d350f2b91ef15fe395b0d210bac1404"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "fdd95dd73e7fd74400c92c23",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: fdd95dd73e7fd74400c92c23\noriginal_word_count: 456\n\nPassage:\nTheir arrival had lighted a kind of fire in the breast of Saint Antoine, fast spreading as they came along, which stirred and flickered in flames of faces at most doors and windows. Yet, no one had followed them, and no man spoke when they entered the wine-shop, though the eyes of every man there were turned upon them.\n\n“Good day, gentlemen!” said Monsieur Defarge.\n\nIt may have been a signal for loosening the general tongue. It elicited an answering chorus of “Good day!”\n\n“It is bad weather, gentlemen,” said Defarge, shaking his head.\n\nUpon which, every man looked at his neighbour, and then all cast down their eyes and sat silent. Except one man, who got up and went out.\n\n“My wife,” said Defarge aloud, addressing Madame Defarge: “I have travelled certain leagues with this good mender of roads, called Jacques. I met him--by accident--a day and half’s journey out of Paris. He is a good child, this mender of roads, called Jacques. Give him to drink, my wife!”\n\nA second man got up and went out. Madame Defarge set wine before the mender of roads called Jacques, who doffed his blue cap to the company, and drank. In the breast of his blouse he carried some coarse dark bread; he ate of this between whiles, and sat munching and drinking near Madame Defarge’s counter. A third man got up and went out.\n\nDefarge refreshed himself with a draught of wine--but, he took less than was given to the stranger, as being himself a man to whom it was no rarity--and stood waiting until the countryman had made his breakfast. He looked at no one present, and no one now looked at him; not even Madame Defarge, who had taken up her knitting, and was at work.\n\n“Have you finished your repast, friend?” he asked, in due season.\n\n“Yes, thank you.”\n\n“Come, then! You shall see the apartment that I told you you could occupy. It will suit you to a marvel.”\n\nOut of the wine-shop into the street, out of the street into a courtyard, out of the courtyard up a steep staircase, out of the staircase into a garret--formerly the garret where a white-haired man sat on a low bench, stooping forward and very busy, making shoes.\n\nNo white-haired man was there now; but, the three men were there who had gone out of the wine-shop singly. And between them and the white-haired man afar off, was the one small link, that they had once looked in at him through the chinks in the wall.\n\nDefarge closed the door carefully, and spoke in a subdued voice:\n\n“Jacques One, Jacques Two, Jacques Three! This is the witness encountered by appointment, by me, Jacques Four."
+      },
+      "request_id": "fdd95dd73e7fd74400c92c23",
+      "request_sha256": "e4eeed9a78fbc984e093f7e618b48e9ade425a3fc688b59a163a904ad9a4efd9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "d9d9d29844963db3d0808705adc2abf396299d478990c38ea11a92fa04324142"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0a1984adeb1e5badf4dafd42",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_shelley_frankenstein_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 0a1984adeb1e5badf4dafd42\noriginal_word_count: 460\n\nPassage:\nHe rose and quitted the room with my nurse, and in a moment my father entered it.\n\nNothing, at this moment, could have given me greater pleasure than the arrival of my father. I stretched out my hand to him and cried,\n\n“Are you then safe—and Elizabeth—and Ernest?”\n\nMy father calmed me with assurances of their welfare and endeavoured, by dwelling on these subjects so interesting to my heart, to raise my desponding spirits; but he soon felt that a prison cannot be the abode of cheerfulness. “What a place is this that you inhabit, my son!” said he, looking mournfully at the barred windows and wretched appearance of the room. “You travelled to seek happiness, but a fatality seems to pursue you. And poor Clerval—”\n\nThe name of my unfortunate and murdered friend was an agitation too great to be endured in my weak state; I shed tears.\n\n“Alas! Yes, my father,” replied I; “some destiny of the most horrible kind hangs over me, and I must live to fulfil it, or surely I should have died on the coffin of Henry.”\n\nWe were not allowed to converse for any length of time, for the precarious state of my health rendered every precaution necessary that could ensure tranquillity. Mr. Kirwin came in and insisted that my strength should not be exhausted by too much exertion. But the appearance of my father was to me like that of my good angel, and I gradually recovered my health.\n\nAs my sickness quitted me, I was absorbed by a gloomy and black melancholy that nothing could dissipate. The image of Clerval was for ever before me, ghastly and murdered. More than once the agitation into which these reflections threw me made my friends dread a dangerous relapse. Alas! Why did they preserve so miserable and detested a life? It was surely that I might fulfil my destiny, which is now drawing to a close. Soon, oh, very soon, will death extinguish these throbbings and relieve me from the mighty weight of anguish that bears me to the dust; and, in executing the award of justice, I shall also sink to rest. Then the appearance of death was distant, although the wish was ever present to my thoughts; and I often sat for hours motionless and speechless, wishing for some mighty revolution that might bury me and my destroyer in its ruins.\n\nThe season of the assizes approached. I had already been three months in prison, and although I was still weak and in continual danger of a relapse, I was obliged to travel nearly a hundred miles to the country town where the court was held. Mr. Kirwin charged himself with every care of collecting witnesses and arranging my defence."
+      },
+      "request_id": "0a1984adeb1e5badf4dafd42",
+      "request_sha256": "4b9fbbc9ca5f5009c52239ab3c0f9dab1ae2bb0f75033d667e30121c201e5851",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "289113b6a24b10cbf8f87ed97192610a1526c60b51f4fdd7eaf9c5f60f2e6634"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

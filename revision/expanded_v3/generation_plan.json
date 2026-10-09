@@ -1,0 +1,18 @@
+{
+  "version": "3.0",
+  "conditions": ["paraphrase", "modernize", "simplify"],
+  "temperature": 0.2,
+  "top_p": 1.0,
+  "max_completion_tokens": 4096,
+  "models": {
+    "gem31lite": {"model": "gemini-3.1-flash-lite", "api": "gemini_native", "key_env": "gemtest", "thinking_level": "minimal", "reuse_v2_model": "gem31lite", "input_usd_per_million": 0.25, "output_usd_per_million": 1.5},
+    "azure_replication": {"model": "gpt-5.4-nano", "api": "azure_responses", "key_env": "open_key", "endpoint_env": "open_url", "reasoning_effort": "none", "accepted_returned_models": ["gpt-5.4-nano", "gpt-5.4-nano-2026-03-17"], "reuse_v2_model": "azure_replication", "input_usd_per_million": 0.5, "output_usd_per_million": 2.5},
+    "codex51": {"model": "gpt-5.1-codex", "api": "azure_responses", "key_env": "open_key", "endpoint_env": "open_url", "reasoning_effort": "low", "omit_sampling_parameters": true, "input_usd_per_million": 1.25, "output_usd_per_million": 10.0},
+    "sol56": {"model": "gpt-5.6-sol", "api": "azure_responses", "key_env": "open_key", "endpoint_env": "open_url", "reasoning_effort": "none", "input_usd_per_million": 4.0, "output_usd_per_million": 20.0},
+    "terra56": {"model": "gpt-5.6-terra", "api": "azure_responses", "key_env": "open_key", "endpoint_env": "open_url", "reasoning_effort": "none", "input_usd_per_million": 2.0, "output_usd_per_million": 12.0},
+    "astra_session": {"model": "GPT-6 Astra via Codex, Extra High", "api": "codex_session", "provenance_record": "revision/expansion/session_arm_provenance.json", "input_usd_per_million": null, "output_usd_per_million": null}
+  },
+  "budget": {"cap_usd": 35.0, "prior_diagnostic_reservations_usd": 0.0470436, "codex_prior_output_reservations": 12140, "codex_output_limit_exclusive": 3000000, "rate_source": "https://developers.openai.com/api/docs/pricing", "azure_account_tariff_verified": false, "input_cache_write_safety_multiplier": 1.25},
+  "selection": "first_received_outcome_primary_retries_separate",
+  "maximum_attempts_per_new_assignment": 3
+}

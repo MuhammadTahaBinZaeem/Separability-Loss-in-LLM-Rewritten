@@ -1,0 +1,68 @@
+{
+  "batch_id": "d1ca4e2ef032eba49ef0",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:14:53.196806+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e066df9f92d606f6fdb03bb5",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_austen_pride_and_prejudice_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e066df9f92d606f6fdb03bb5\noriginal_word_count: 457\n\nPassage:\nI do not at all comprehend her reason for wishing to be intimate with me; but, if the same circumstances were to happen again, I am sure I should be deceived again. Caroline did not return my visit till yesterday; and not a note, not a line, did I receive in the meantime. When she did come, it was very evident that she had no pleasure in it; she made a slight, formal apology for not calling before, said not a word of wishing to see me again, and was, in every respect, so altered a creature, that when she went away I was perfectly resolved to continue the acquaintance no longer. I pity, though I cannot help blaming, her. She was very wrong in singling me out as she did; I can safely say, that every advance to intimacy began on her side. But I pity her, because she must feel that she has been acting wrong, and because I am very sure that anxiety for her brother is the cause of it. I need not explain myself farther; and though _we_ know this anxiety to be quite needless, yet if she feels it, it will easily account for her behaviour to me; and so deservedly dear as he is to his sister, whatever anxiety she may feel on his behalf is natural and amiable. I cannot but wonder, however, at her having any such fears now, because if he had at all cared about me, we must have met long, long ago. He knows of my being in town, I am certain, from something she said herself; and yet it would seem, by her manner of talking, as if she wanted to persuade herself that he is really partial to Miss Darcy. I cannot understand it. If I were not afraid of judging harshly, I should be almost tempted to say, that there is a strong appearance of duplicity in all this. I will endeavour to banish every painful thought, and think only of what will make me happy, your affection, and the invariable kindness of my dear uncle and aunt. Let me hear from you very soon. Miss Bingley said something of his never returning to Netherfield again, of giving up the house, but not with any certainty. We had better not mention it. I am extremely glad that you have such pleasant accounts from our friends at Hunsford. Pray go to see them, with Sir William and Maria. I am sure you will be very comfortable there.\n\n“Yours, etc.”\n\nThis letter gave Elizabeth some pain; but her spirits returned, as she considered that Jane would no longer be duped, by the sister at least. All expectation from the brother was now absolutely over."
+      },
+      "request_id": "e066df9f92d606f6fdb03bb5",
+      "request_sha256": "097f4d503e0dd840ce5ae57aa814d4aa8efe93699ff8512ec056e7adf3c3d63b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2055af95bc528653362223b17660caccfdf3843c23efa6b99c72ca127a74515d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c5cff90b8a41f0bc74eb52ba",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_wilde_canterville_ghost_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: c5cff90b8a41f0bc74eb52ba\noriginal_word_count: 465\n\nPassage:\nTHE next morning when the Otis family met at breakfast, they discussed the ghost at some length. The United States Minister was naturally a little annoyed to find that his present had not been accepted. ‘I have no wish,’ he said, ‘to do the ghost any personal injury, and I must say that, considering the length of time he has been in the house, I don’t think it is at all polite to throw pillows at him’—a very just remark, at which, I am sorry to say, the twins burst into shouts of laughter. ‘Upon the other hand,’ he continued, ‘if he really declines to use the Rising Sun Lubricator, we shall have to take his chains from him. It would be quite impossible to sleep, with such a noise going on outside the bedrooms.’\n\nFor the rest of the week, however, they were undisturbed, the only thing that excited any attention being the continual renewal of the blood-stain on the library floor. This certainly was very strange, as the door was always locked at night by Mr. Otis, and the windows kept closely barred. The chameleon-like colour, also, of the stain excited a good deal of comment. Some mornings it was a dull (almost Indian) red, then it would be vermilion, then a rich purple, and once when they came down for family prayers, according to the simple rites of the Free American Reformed Episcopalian Church, they found it a bright emerald-green. These kaleidoscopic changes naturally amused the party very much, and bets on the subject were freely made every evening. The only person who did not enter into the joke was little Virginia, who, for some unexplained reason, was always a good deal distressed at the sight of the blood-stain, and very nearly cried the morning it was emerald-green.\n\nThe second appearance of the ghost was on Sunday night. Shortly after they had gone to bed they were suddenly alarmed by a fearful crash in the hall. Rushing downstairs, they found that a large suit of old armour had become detached from its stand, and had fallen on the stone floor, while, seated in a high-backed chair, was the Canterville ghost, rubbing his knees with an expression of acute agony on his face. The twins, having brought their pea-shooters with them, at once discharged two pellets on him, with that accuracy of aim which can only be attained by long and careful practice on a writing-master, while the United States Minister covered him with his revolver, and called upon him, in accordance with Californian etiquette, to hold up his hands! The ghost started up with a wild shriek of rage, and swept through them like a mist, extinguishing Washington Otis’s candle as he passed, and so leaving them all in total darkness."
+      },
+      "request_id": "c5cff90b8a41f0bc74eb52ba",
+      "request_sha256": "ce997f528b1a2b9ba136ded797748be748651762c8987d857e764ef1f31641b1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cf87e287b8eb633fdf3128877b9863aceecce881eb0e215caca0e98addcd568d"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "efc0f8b48ddb8b0053bda80c",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 479,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: efc0f8b48ddb8b0053bda80c\noriginal_word_count: 479\n\nPassage:\n“Charles Evrémonde, called Darnay,” was at length arraigned.\n\nHis judges sat upon the Bench in feathered hats; but the rough red cap and tricoloured cockade was the head-dress otherwise prevailing. Looking at the Jury and the turbulent audience, he might have thought that the usual order of things was reversed, and that the felons were trying the honest men. The lowest, cruelest, and worst populace of a city, never without its quantity of low, cruel, and bad, were the directing spirits of the scene: noisily commenting, applauding, disapproving, anticipating, and precipitating the result, without a check. Of the men, the greater part were armed in various ways; of the women, some wore knives, some daggers, some ate and drank as they looked on, many knitted. Among these last, was one, with a spare piece of knitting under her arm as she worked. She was in a front row, by the side of a man whom he had never seen since his arrival at the Barrier, but whom he directly remembered as Defarge. He noticed that she once or twice whispered in his ear, and that she seemed to be his wife; but, what he most noticed in the two figures was, that although they were posted as close to himself as they could be, they never looked towards him. They seemed to be waiting for something with a dogged determination, and they looked at the Jury, but at nothing else. Under the President sat Doctor Manette, in his usual quiet dress. As well as the prisoner could see, he and Mr. Lorry were the only men there, unconnected with the Tribunal, who wore their usual clothes, and had not assumed the coarse garb of the Carmagnole.\n\nCharles Evrémonde, called Darnay, was accused by the public prosecutor as an emigrant, whose life was forfeit to the Republic, under the decree which banished all emigrants on pain of Death. It was nothing that the decree bore date since his return to France. There he was, and there was the decree; he had been taken in France, and his head was demanded.\n\n“Take off his head!” cried the audience. “An enemy to the Republic!”\n\nThe President rang his bell to silence those cries, and asked the prisoner whether it was not true that he had lived many years in England?\n\nUndoubtedly it was.\n\nWas he not an emigrant then? What did he call himself?\n\nNot an emigrant, he hoped, within the sense and spirit of the law.\n\nWhy not? the President desired to know.\n\nBecause he had voluntarily relinquished a title that was distasteful to him, and a station that was distasteful to him, and had left his country--he submitted before the word emigrant in the present acceptation by the Tribunal was in use--to live by his own industry in England, rather than on the industry of the overladen people of France."
+      },
+      "request_id": "efc0f8b48ddb8b0053bda80c",
+      "request_sha256": "8176baae67af9a9e321635a06439ff3f90f37da5d8da86bfd56e6f860730aa2c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5670489206bfbe8dd2caf772e568aae7e34cfbf70cb9a8c860dac6008e8d7cb9"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

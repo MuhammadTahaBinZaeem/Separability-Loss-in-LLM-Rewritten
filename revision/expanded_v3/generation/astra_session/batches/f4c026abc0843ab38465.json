@@ -1,0 +1,68 @@
+{
+  "batch_id": "f4c026abc0843ab38465",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:28:26.559682+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "17e328bcf18354a67cc3582b",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 17e328bcf18354a67cc3582b\noriginal_word_count: 457\n\nPassage:\nOf course, he was very amusing, and all that, but I was awfully disappointed; and when I asked him about the coat of mail, he only laughed, and said it was far too cold to wear in England. Ah, here is Mr. Podgers! Now, Mr. Podgers, I want you to tell the Duchess of Paisley’s hand. Duchess, you must take your glove off. No, not the left hand, the other.’\n\n‘Dear Gladys, I really don’t think it is quite right,’ said the Duchess, feebly unbuttoning a rather soiled kid glove.\n\n‘Nothing interesting ever is,’ said Lady Windermere: ‘_on a fait le monde ainsi_. But I must introduce you. Duchess, this is Mr. Podgers, my pet cheiromantist. Mr. Podgers, this is the Duchess of Paisley, and if you say that she has a larger mountain of the moon than I have, I will never believe in you again.’\n\n‘I am sure, Gladys, there is nothing of the kind in my hand,’ said the Duchess gravely.\n\n‘Your Grace is quite right,’ said Mr. Podgers, glancing at the little fat hand with its short square fingers, ‘the mountain of the moon is not developed. The line of life, however, is excellent. Kindly bend the wrist. Thank you. Three distinct lines on the _rascette_! You will live to a great age, Duchess, and be extremely happy. Ambition—very moderate, line of intellect not exaggerated, line of heart—’\n\n‘Now, do be indiscreet, Mr. Podgers,’ cried Lady Windermere.\n\n‘Nothing would give me greater pleasure,’ said Mr. Podgers, bowing, ‘if the Duchess ever had been, but I am sorry to say that I see great permanence of affection, combined with a strong sense of duty.’\n\n‘Pray go on, Mr. Podgers,’ said the Duchess, looking quite pleased.\n\n‘Economy is not the least of your Grace’s virtues,’ continued Mr. Podgers, and Lady Windermere went off into fits of laughter.\n\n‘Economy is a very good thing,’ remarked the Duchess complacently; ‘when I married Paisley he had eleven castles, and not a single house fit to live in.’\n\n‘And now he has twelve houses, and not a single castle,’ cried Lady Windermere.\n\n‘Well, my dear,’ said the Duchess, ‘I like—’\n\n‘Comfort,’ said Mr. Podgers, ‘and modern improvements, and hot water laid on in every bedroom. Your Grace is quite right. Comfort is the only thing our civilisation can give us.\n\n‘You have told the Duchess’s character admirably, Mr. Podgers, and now you must tell Lady Flora’s’; and in answer to a nod from the smiling hostess, a tall girl, with sandy Scotch hair, and high shoulder-blades, stepped awkwardly from behind the sofa, and held out a long, bony hand with spatulate fingers.\n\n‘Ah, a pianist! I see,’ said Mr. Podgers, ‘an excellent pianist, but perhaps hardly a musician."
+      },
+      "request_id": "17e328bcf18354a67cc3582b",
+      "request_sha256": "21371f8b1431df620ac10866401537deaf7072622dd84f0ca6335180e12e2b0d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0450e834d223c50a8b5db2d34afa165b0f2bb58d1d9c2e375fe3c13b4317cb8c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8dc02a5de4e20cc6b8f04c3a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_shelley_frankenstein_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 8dc02a5de4e20cc6b8f04c3a\noriginal_word_count: 472\n\nPassage:\nOn my return, I found the following letter from my father:—\n\n“My dear Victor,\n\n“You have probably waited impatiently for a letter to fix the date of your return to us; and I was at first tempted to write only a few lines, merely mentioning the day on which I should expect you. But that would be a cruel kindness, and I dare not do it. What would be your surprise, my son, when you expected a happy and glad welcome, to behold, on the contrary, tears and wretchedness? And how, Victor, can I relate our misfortune? Absence cannot have rendered you callous to our joys and griefs; and how shall I inflict pain on my long absent son? I wish to prepare you for the woeful news, but I know it is impossible; even now your eye skims over the page to seek the words which are to convey to you the horrible tidings.\n\n“William is dead!—that sweet child, whose smiles delighted and warmed my heart, who was so gentle, yet so gay! Victor, he is murdered!\n\n“I will not attempt to console you; but will simply relate the circumstances of the transaction.\n\n“Last Thursday (May 7th), I, my niece, and your two brothers, went to walk in Plainpalais. The evening was warm and serene, and we prolonged our walk farther than usual. It was already dusk before we thought of returning; and then we discovered that William and Ernest, who had gone on before, were not to be found. We accordingly rested on a seat until they should return. Presently Ernest came, and enquired if we had seen his brother; he said, that he had been playing with him, that William had run away to hide himself, and that he vainly sought for him, and afterwards waited for a long time, but that he did not return.\n\n“This account rather alarmed us, and we continued to search for him until night fell, when Elizabeth conjectured that he might have returned to the house. He was not there. We returned again, with torches; for I could not rest, when I thought that my sweet boy had lost himself, and was exposed to all the damps and dews of night; Elizabeth also suffered extreme anguish. About five in the morning I discovered my lovely boy, whom the night before I had seen blooming and active in health, stretched on the grass livid and motionless; the print of the murder’s finger was on his neck.\n\n“He was conveyed home, and the anguish that was visible in my countenance betrayed the secret to Elizabeth. She was very earnest to see the corpse. At first I attempted to prevent her but she persisted, and entering the room where it lay, hastily examined the neck of the victim, and clasping her hands exclaimed, ‘O God!"
+      },
+      "request_id": "8dc02a5de4e20cc6b8f04c3a",
+      "request_sha256": "9ab233f08ebcbcde05aa0f6fc66b642e40d023ace964cea26ed7b3b31d0df288",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "88e9fe70212c16ad20f09ea5221e87817d350f2b91ef15fe395b0d210bac1404"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2165e95fdeaf4196db0f63dc",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 515,
+      "passage_id": "V2_twain_huckleberry_finn_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 2165e95fdeaf4196db0f63dc\noriginal_word_count: 515\n\nPassage:\nThey was fetching a very nice-looking old gentleman along, and a nice-looking younger one, with his right arm in a sling. And, my souls, how the people yelled and laughed, and kept it up. But I didn’t see no joke about it, and I judged it would strain the duke and the king some to see any. I reckoned they’d turn pale. But no, nary a pale did _they_ turn. The duke he never let on he suspicioned what was up, but just went a goo-gooing around, happy and satisfied, like a jug that’s googling out buttermilk; and as for the king, he just gazed and gazed down sorrowful on them new-comers like it give him the stomach-ache in his very heart to think there could be such frauds and rascals in the world. Oh, he done it admirable. Lots of the principal people gethered around the king, to let him see they was on his side. That old gentleman that had just come looked all puzzled to death. Pretty soon he begun to speak, and I see straight off he pronounced _like_ an Englishman—not the king’s way, though the king’s _was_ pretty good for an imitation. I can’t give the old gent’s words, nor I can’t imitate him; but he turned around to the crowd, and says, about like this:\n\n“This is a surprise to me which I wasn’t looking for; and I’ll acknowledge, candid and frank, I ain’t very well fixed to meet it and answer it; for my brother and me has had misfortunes; he’s broke his arm, and our baggage got put off at a town above here last night in the night by a mistake. I am Peter Wilks’ brother Harvey, and this is his brother William, which can’t hear nor speak—and can’t even make signs to amount to much, now’t he’s only got one hand to work them with. We are who we say we are; and in a day or two, when I get the baggage, I can prove it. But up till then I won’t say nothing more, but go to the hotel and wait.”\n\nSo him and the new dummy started off; and the king he laughs, and blethers out:\n\n“Broke his arm—_very_ likely, _ain’t_ it?—and very convenient, too, for a fraud that’s got to make signs, and ain’t learnt how. Lost their baggage! That’s _mighty_ good!—and mighty ingenious—under the _circumstances!_”\n\nSo he laughed again; and so did everybody else, except three or four, or maybe half a dozen. One of these was that doctor; another one was a sharp-looking gentleman, with a carpet-bag of the old-fashioned kind made out of carpet-stuff, that had just come off of the steamboat and was talking to him in a low voice, and glancing towards the king now and then and nodding their heads—it was Levi Bell, the lawyer that was gone up to Louisville; and another one was a big rough husky that come along and listened to all the old gentleman said, and was listening to the king now."
+      },
+      "request_id": "2165e95fdeaf4196db0f63dc",
+      "request_sha256": "f362b3e065a8589b4b68af786cfde32781afbdd48d9780b717dac0c61e457e2c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "4a1bfb992082ab15545fe3ca8d14aabd15cb98324e8268b141284bd2eecbbffd"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

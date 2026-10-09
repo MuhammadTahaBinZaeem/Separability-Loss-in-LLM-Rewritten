@@ -1,0 +1,68 @@
+{
+  "batch_id": "d1c926bf5bad2d0c63b6",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T12:59:43.336670+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7694cbc6c51ae59f81490387",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_twain_tom_sawyer_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 7694cbc6c51ae59f81490387\noriginal_word_count: 450\n\nPassage:\n“I’m agreed. It’s the best thing. Would you just hold hands and swear that we—”\n\n“Oh no, that wouldn’t do for this. That’s good enough for little rubbishy common things—specially with gals, cuz _they_ go back on you anyway, and blab if they get in a huff—but there orter be writing ’bout a big thing like this. And blood.”\n\nTom’s whole being applauded this idea. It was deep, and dark, and awful; the hour, the circumstances, the surroundings, were in keeping with it. He picked up a clean pine shingle that lay in the moon-light, took a little fragment of “red keel” out of his pocket, got the moon on his work, and painfully scrawled these lines, emphasizing each slow down-stroke by clamping his tongue between his teeth, and letting up the pressure on the up-strokes.\n\n“Huck Finn and Tom Sawyer swears they will keep mum about This and They wish They may Drop down dead in Their Tracks if They ever Tell and Rot.”\n\nHuckleberry was filled with admiration of Tom’s facility in writing, and the sublimity of his language. He at once took a pin from his lapel and was going to prick his flesh, but Tom said:\n\n“Hold on! Don’t do that. A pin’s brass. It might have verdigrease on it.”\n\n“What’s verdigrease?”\n\n“It’s p’ison. That’s what it is. You just swaller some of it once—you’ll see.”\n\nSo Tom unwound the thread from one of his needles, and each boy pricked the ball of his thumb and squeezed out a drop of blood. In time, after many squeezes, Tom managed to sign his initials, using the ball of his little finger for a pen. Then he showed Huckleberry how to make an H and an F, and the oath was complete. They buried the shingle close to the wall, with some dismal ceremonies and incantations, and the fetters that bound their tongues were considered to be locked and the key thrown away.\n\nA figure crept stealthily through a break in the other end of the ruined building, now, but they did not notice it.\n\n“Tom,” whispered Huckleberry, “does this keep us from _ever_ telling—_always_?”\n\n“Of course it does. It don’t make any difference _what_ happens, we got to keep mum. We’d drop down dead—don’t _you_ know that?”\n\n“Yes, I reckon that’s so.”\n\nThey continued to whisper for some little time. Presently a dog set up a long, lugubrious howl just outside—within ten feet of them. The boys clasped each other suddenly, in an agony of fright.\n\n“Which of us does he mean?” gasped Huckleberry.\n\n“I dono—peep through the crack. Quick!”\n\n“No, _you_, Tom!”\n\n“I can’t—I can’t _do_ it, Huck!”"
+      },
+      "request_id": "7694cbc6c51ae59f81490387",
+      "request_sha256": "84b5c0047fb85151f0fcd04d7ac3315cb1f1c9d50095a2ff639b4112773256d8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c95dd4eeb6ebf770d9795544a1d48598b77aa87c0f1e6f5f2c6959187544c72c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6eb155c47be64d6b15a1e6e2",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_pride_and_prejudice_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 6eb155c47be64d6b15a1e6e2\noriginal_word_count: 465\n\nPassage:\nBut it is of small importance.”\n\n“I might as well inquire,” replied she, “why, with so evident a design of offending and insulting me, you chose to tell me that you liked me against your will, against your reason, and even against your character? Was not this some excuse for incivility, if I _was_ uncivil? But I have other provocations. You know I have. Had not my own feelings decided against you, had they been indifferent, or had they even been favourable, do you think that any consideration would tempt me to accept the man who has been the means of ruining, perhaps for ever, the happiness of a most beloved sister?”\n\nAs she pronounced these words, Mr. Darcy changed colour; but the emotion was short, and he listened without attempting to interrupt her while she continued,--\n\n“I have every reason in the world to think ill of you. No motive can excuse the unjust and ungenerous part you acted _there_. You dare not, you cannot deny that you have been the principal, if not the only means of dividing them from each other, of exposing one to the censure of the world for caprice and instability, the other to its derision for disappointed hopes, and involving them both in misery of the acutest kind.”\n\nShe paused, and saw with no slight indignation that he was listening with an air which proved him wholly unmoved by any feeling of remorse. He even looked at her with a smile of affected incredulity.\n\n“Can you deny that you have done it?” she repeated.\n\nWith assumed tranquillity he then replied, “I have no wish of denying that I did everything in my power to separate my friend from your sister, or that I rejoice in my success. Towards _him_ I have been kinder than towards myself.”\n\nElizabeth disdained the appearance of noticing this civil reflection, but its meaning did not escape, nor was it likely to conciliate her.\n\n“But it is not merely this affair,” she continued, “on which my dislike is founded. Long before it had taken place, my opinion of you was decided. Your character was unfolded in the recital which I received many months ago from Mr. Wickham. On this subject, what can you have to say? In what imaginary act of friendship can you here defend yourself? or under what misrepresentation can you here impose upon others?”\n\n“You take an eager interest in that gentleman’s concerns,” said Darcy, in a less tranquil tone, and with a heightened colour.\n\n“Who that knows what his misfortunes have been can help feeling an interest in him?”\n\n“His misfortunes!” repeated Darcy, contemptuously,--“yes, his misfortunes have been great indeed.”\n\n“And of your infliction,” cried Elizabeth, with energy; “You have reduced him to his present state of poverty--comparative poverty."
+      },
+      "request_id": "6eb155c47be64d6b15a1e6e2",
+      "request_sha256": "2a7f0c5e6654d81aecbdcd7d235aad14cae74b57e70f6053af75b7fd23cea73a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "409d6fafe5614d0db79824448c3a550448fa60fe6247e7de8d5d532052a771b5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e182590c6bde8c7f9c1edbe3",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 480,
+      "passage_id": "V2_poe_murders_rue_morgue_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e182590c6bde8c7f9c1edbe3\noriginal_word_count: 480\n\nPassage:\nUpon sight of it, the Ourang-Outang sprang at once through the door of the chamber, down the stairs, and thence, through a window, unfortunately open, into the street.\n\nThe Frenchman followed in despair; the ape, razor still in hand, occasionally stopping to look back and gesticulate at its pursuer, until the latter had nearly come up with it. It then again made off. In this manner the chase continued for a long time. The streets were profoundly quiet, as it was nearly three o’clock in the morning. In passing down an alley in the rear of the Rue Morgue, the fugitive’s attention was arrested by a light gleaming from the open window of Madame L’Espanaye’s chamber, in the fourth story of her house. Rushing to the building, it perceived the lightning rod, clambered up with inconceivable agility, grasped the shutter, which was thrown fully back against the wall, and, by its means, swung itself directly upon the headboard of the bed. The whole feat did not occupy a minute. The shutter was kicked open again by the Ourang-Outang as it entered the room.\n\nThe sailor, in the meantime, was both rejoiced and perplexed. He had strong hopes of now recapturing the brute, as it could scarcely escape from the trap into which it had ventured, except by the rod, where it might be intercepted as it came down. On the other hand, there was much cause for anxiety as to what it might do in the house. This latter reflection urged the man still to follow the fugitive. A lightning rod is ascended without difficulty, especially by a sailor; but, when he had arrived as high as the window, which lay far to his left, his career was stopped; the most that he could accomplish was to reach over so as to obtain a glimpse of the interior of the room. At this glimpse he nearly fell from his hold through excess of horror. Now it was that those hideous shrieks arose upon the night, which had startled from slumber the inmates of the Rue Morgue. Madame L’Espanaye and her daughter, habited in their night clothes, had apparently been occupied in arranging some papers in the iron chest already mentioned, which had been wheeled into the middle of the room. It was open, and its contents lay beside it on the floor. The victims must have been sitting with their backs toward the window; and, from the time elapsing between the ingress of the beast and the screams, it seems probable that it was not immediately perceived. The flapping-to of the shutter would naturally have been attributed to the wind.\n\nAs the sailor looked in, the gigantic animal had seized Madame L’Espanaye by the hair, (which was loose, as she had been combing it,) and was flourishing the razor about her face, in imitation of the motions of a barber."
+      },
+      "request_id": "e182590c6bde8c7f9c1edbe3",
+      "request_sha256": "277397978a027e431ce17741a07d6ec70a2d119462b510143d3461bc282e0d46",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3c4ccf67e6f9324c2b7cdb89b16b8bd6ef4342011b1f7ed4e29687ec157afa04"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "d316a230e14b96e1b4e9",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T08:03:26.047241+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d9f360a51f97e4888080e9e7",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_shelley_the_last_man_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: d9f360a51f97e4888080e9e7\noriginal_word_count: 462\n\nPassage:\nWere our proud dreams thus to fade? Our name was written “a little lower than the angels;” and, behold, we were no better than ephemera. We had called ourselves the “paragon of animals,” and, lo! we were a “quint-essence of dust.” We repined that the pyramids had outlasted the embalmed body of their builder. Alas! the mere shepherd’s hut of straw we passed on the road, contained in its structure the principle of greater longevity than the whole race of man. How reconcile this sad change to our past aspirations, to our apparent powers!\n\nSudden an internal voice, articulate and clear, seemed to say:—Thus from eternity, it was decreed: the steeds that bear Time onwards had this hour and this fulfilment enchained to them, since the void brought forth its burthen. Would you read backwards the unchangeable laws of Necessity?\n\nMother of the world! Servant of the Omnipotent! eternal, changeless Necessity! who with busy fingers sittest ever weaving the indissoluble chain of events!—I will not murmur at thy acts. If my human mind cannot acknowledge that all that is, is right; yet since what is, must be, I will sit amidst the ruins and smile. Truly we were not born to enjoy, but to submit, and to hope.\n\nWill not the reader tire, if I should minutely describe our long-drawn journey from Paris to Geneva? If, day by day, I should record, in the form of a journal, the thronging miseries of our lot, could my hand write, or language afford words to express, the variety of our woe; the hustling and crowding of one deplorable event upon another? Patience, oh reader! whoever thou art, wherever thou dwellest, whether of race spiritual, or, sprung from some surviving pair, thy nature will be human, thy habitation the earth; thou wilt here read of the acts of the extinct race, and wilt ask wonderingly, if they, who suffered what thou findest recorded, were of frail flesh and soft organization like thyself. Most true, they were— weep therefore; for surely, solitary being, thou wilt be of gentle disposition; shed compassionate tears; but the while lend thy attention to the tale, and learn the deeds and sufferings of thy predecessors.\n\nYet the last events that marked our progress through France were so full of strange horror and gloomy misery, that I dare not pause too long in the narration. If I were to dissect each incident, every small fragment of a second would contain an harrowing tale, whose minutest word would curdle the blood in thy young veins. It is right that I should erect for thy instruction this monument of the foregone race; but not that I should drag thee through the wards of an hospital, nor the secret chambers of the charnel-house."
+      },
+      "request_id": "d9f360a51f97e4888080e9e7",
+      "request_sha256": "ebcabd8577708172052e31aed9917518028fda04950b54f7520426580b8e6a08",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e0a42da3cbb1ce5f6da523a2603a5b2acf1831bbc23fe0150cbca67b958db6b7"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "815a4fe90e3cf1d6d26c68bc",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_twain_tom_sawyer_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 815a4fe90e3cf1d6d26c68bc\noriginal_word_count: 456\n\nPassage:\n“Yes, burglar’s tools. That appears to relieve you a good deal. But what did give you that turn? What were _you_ expecting we’d found?”\n\nHuck was in a close place—the inquiring eye was upon him—he would have given anything for material for a plausible answer—nothing suggested itself—the inquiring eye was boring deeper and deeper—a senseless reply offered—there was no time to weigh it, so at a venture he uttered it—feebly:\n\n“Sunday-school books, maybe.”\n\nPoor Huck was too distressed to smile, but the old man laughed loud and joyously, shook up the details of his anatomy from head to foot, and ended by saying that such a laugh was money in a man’s pocket, because it cut down the doctor’s bill like everything. Then he added:\n\n“Poor old chap, you’re white and jaded—you ain’t well a bit—no wonder you’re a little flighty and off your balance. But you’ll come out of it. Rest and sleep will fetch you out all right, I hope.”\n\nHuck was irritated to think he had been such a goose and betrayed such a suspicious excitement, for he had dropped the idea that the parcel brought from the tavern was the treasure, as soon as he had heard the talk at the widow’s stile. He had only thought it was not the treasure, however—he had not known that it wasn’t—and so the suggestion of a captured bundle was too much for his self-possession. But on the whole he felt glad the little episode had happened, for now he knew beyond all question that that bundle was not _the_ bundle, and so his mind was at rest and exceedingly comfortable. In fact, everything seemed to be drifting just in the right direction, now; the treasure must be still in No. 2, the men would be captured and jailed that day, and he and Tom could seize the gold that night without any trouble or any fear of interruption.\n\nJust as breakfast was completed there was a knock at the door. Huck jumped for a hiding-place, for he had no mind to be connected even remotely with the late event. The Welshman admitted several ladies and gentlemen, among them the Widow Douglas, and noticed that groups of citizens were climbing up the hill—to stare at the stile. So the news had spread. The Welshman had to tell the story of the night to the visitors. The widow’s gratitude for her preservation was outspoken.\n\n“Don’t say a word about it, madam. There’s another that you’re more beholden to than you are to me and my boys, maybe, but he don’t allow me to tell his name. We wouldn’t have been there but for him.”"
+      },
+      "request_id": "815a4fe90e3cf1d6d26c68bc",
+      "request_sha256": "e9a9e67ef6e08caa74c28dbf3dc92aae78ebb984b7bc2598c6c8362cad53f5e4",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "644eed05f74710ece4bb051d330ab24febbeb08bd8df93aa824125c151169900"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "346ee94e196f91ad841f3443",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_poe_murders_rue_morgue_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 346ee94e196f91ad841f3443\noriginal_word_count: 457\n\nPassage:\nEach likens it—not to the voice of an individual of any nation with whose language he is conversant—but the converse. The Frenchman supposes it the voice of a Spaniard, and ‘might have distinguished some words _had he been acquainted with the Spanish._’ The Dutchman maintains it to have been that of a Frenchman; but we find it stated that ‘_not understanding French this witness was examined through an interpreter._’ The Englishman thinks it the voice of a German, and ‘_does not understand German._’ The Spaniard ‘is sure’ that it was that of an Englishman, but ‘judges by the intonation’ altogether, ‘_as he has no knowledge of the English._’ The Italian believes it the voice of a Russian, but ‘_has never conversed with a native of Russia._’ A second Frenchman differs, moreover, with the first, and is positive that the voice was that of an Italian; but, _not being cognizant of that tongue_, is, like the Spaniard, ‘convinced by the intonation.’ Now, how strangely unusual must that voice have really been, about which such testimony as this _could_ have been elicited!—in whose _tones_, even, denizens of the five great divisions of Europe could recognise nothing familiar! You will say that it might have been the voice of an Asiatic—of an African. Neither Asiatics nor Africans abound in Paris; but, without denying the inference, I will now merely call your attention to three points. The voice is termed by one witness ‘harsh rather than shrill.’ It is represented by two others to have been ‘quick and _unequal._’ No words—no sounds resembling words—were by any witness mentioned as distinguishable.\n\n“I know not,” continued Dupin, “what impression I may have made, so far, upon your own understanding; but I do not hesitate to say that legitimate deductions even from this portion of the testimony—the portion respecting the gruff and shrill voices—are in themselves sufficient to engender a suspicion which should give direction to all farther progress in the investigation of the mystery. I said ‘legitimate deductions;’ but my meaning is not thus fully expressed. I designed to imply that the deductions are the _sole_ proper ones, and that the suspicion arises _inevitably_ from them as the single result. What the suspicion is, however, I will not say just yet. I merely wish you to bear in mind that, with myself, it was sufficiently forcible to give a definite form—a certain tendency—to my inquiries in the chamber.\n\n“Let us now transport ourselves, in fancy, to this chamber. What shall we first seek here? The means of egress employed by the murderers. It is not too much to say that neither of us believe in præternatural events."
+      },
+      "request_id": "346ee94e196f91ad841f3443",
+      "request_sha256": "02353fb33d551daa64967642277d15aee6590876fff79c06c7d7d98a170e51db",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0f88da859568460fece1b1ef3d9b70d7a3a03b8bc47868b3e3fcb85a8014928a"
+    }
+  ],
+  "session_id": "01a0e1dc-98ec-7c60-82e0-33192a6dbb6d",
+  "worker_id": "astra_b",
+  "worker_identity_sha256": "63e655afad929d2df43c7a786df30c2f77ef9616368896382b0782c5fc9c466d"
+}

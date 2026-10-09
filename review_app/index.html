@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <title>Research Review Desk · Local</title>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/" aria-label="Research Review Desk home"><span class="brand-mark">R</span><span>Research Review Desk<small>Separability study · private workspace</small></span></a>
+    <div class="header-actions"><span class="local-badge">LOCAL ONLY</span><button id="logout" class="quiet" hidden>Lock workspace</button></div>
+  </header>
+  <div id="notice" class="notice" role="status" aria-live="polite" hidden></div>
+
+  <main id="login" class="login-card" hidden>
+    <p class="eyebrow">A focused place to review</p>
+    <h1>Read carefully.<br>Keep the evidence.</h1>
+    <p>Use your private assignment link to continue. Your answers are saved in your workspace on this computer.</p>
+    <form id="login-form"><label for="access-token">Private access token</label><input id="access-token" type="password" autocomplete="off" required><button class="primary" type="submit">Open workspace</button></form>
+    <p class="muted small">Study administrator? Run <code>.\.venv\Scripts\python.exe -m research_v2.review_app open</code> to open your local administrator workspace without copying a token.</p>
+  </main>
+
+  <main id="admin" class="admin-shell" hidden>
+    <section class="intro"><div><p class="eyebrow">Study administration</p><h1>One review. One traceable return.</h1><p>Assign review packets, check progress, and collect completed responses.</p></div><button id="refresh-admin" class="secondary">Refresh availability</button></section>
+    <div class="callout">Give each reviewer their own private assignment link. Reviewers complete their responses independently.</div>
+    <section><div class="section-head"><h2>Required review packets</h2><button id="prepare" class="quiet">Prepare / check canonical forms</button></div><div id="packet-cards" class="packet-grid"></div></section>
+    <section class="panel create-panel"><div><h2>Create an assignment</h2><p class="muted">Use pseudonyms rather than personal contact details. For remote reviewers, this localhost link only works on the computer running the app.</p></div>
+      <form id="create-form" class="create-form">
+        <label>Review packet<select id="kind"><option value="source">Source integrity · original passages</option><option value="semantic_A">Semantic reviewer A</option><option value="semantic_B">Semantic reviewer B</option></select></label>
+        <label>Reviewer pseudonym<input id="reviewer-id" maxlength="120" placeholder="e.g. reviewer-01" required></label>
+        <button class="primary" type="submit">Create workspace</button>
+      </form>
+    </section>
+    <section><div class="section-head"><h2>Your assignments</h2><span class="muted small">No answers are shared between reviewer workspaces.</span></div><div id="assignments" class="assignments"></div></section>
+    <section id="independence" class="panel" hidden>
+      <h2>Independent provenance check</h2><p>Both returned rating sets were identical. A separate checker should document how the reviews were completed and the evidence of independence.</p>
+      <form id="independence-form" class="stacked">
+        <label>Checker pseudonym<input id="checker-id" required maxlength="120"></label>
+        <label>How you checked independence<textarea id="check-method" rows="3" required></textarea></label>
+        <label>Findings and privately retained evidence<textarea id="check-notes" rows="3" required></textarea></label>
+        <p class="muted small">Selecting <strong>Save provenance record</strong> confirms you personally performed the check described above.</p>
+        <button class="primary" type="submit">Save provenance record</button>
+      </form>
+    </section>
+  </main>
+
+  <main id="waiting" class="login-card" hidden>
+    <p class="eyebrow">Reviewer account · reserved</p>
+    <h1>Waiting for your review packet</h1>
+    <h2 id="waiting-title"></h2><p id="waiting-reviewer" class="muted"></p>
+    <p id="waiting-reason"></p>
+    <div class="callout">Keep this login private. Once your packet is available, read each passage and record your own independent judgments.</div>
+    <p>Your account is ready. You can begin reviewing when your packet is attached.</p>
+    <button id="refresh-packet" class="primary" type="button">Check packet availability</button>
+  </main>
+
+  <main id="review" class="review-shell" hidden>
+    <aside class="sidebar">
+      <p class="eyebrow">Your assignment</p><h2 id="assignment-title"></h2><p id="reviewer-label" class="muted small"></p>
+      <label id="packet-choice-label" class="small" for="packet-choice" hidden>Review packet</label><select id="packet-choice" hidden></select>
+      <div class="progress-head"><strong id="progress-count"></strong><span id="progress-percent" class="muted"></span></div><progress id="progress" value="0" max="1"></progress><p id="saved-count" class="small muted"></p>
+      <label class="small" for="item-filter">Show items</label><select id="item-filter"><option value="all">All items</option><option value="incomplete">Incomplete</option><option value="flagged">Flagged</option><option value="saved">Saved</option></select>
+      <label class="small" for="item-search">Find an item ID</label><input id="item-search" placeholder="Search ID…" autocomplete="off">
+      <nav id="item-list" class="item-list" aria-label="Review items"></nav>
+      <button id="download" class="secondary wide">Download current return</button><button id="validate" class="quiet wide">Check missing responses</button><button id="finish" class="primary wide">Finish review</button><button id="register-again" class="secondary wide" hidden>Retry study registration</button>
+      <p class="small muted">Ctrl/Cmd + S saves.<br>Alt + ← / → changes item.<br>No ratings are filled automatically.</p>
+    </aside>
+    <section class="review-main">
+      <div class="callout">Read each passage carefully and record your own judgments. Save your progress as you go.</div>
+      <div class="review-title"><div><p class="eyebrow" id="item-counter"></p><h1 id="item-heading">Review passage</h1><code id="item-id"></code></div><span id="save-state" class="save-state" role="status">Not yet saved</span></div>
+      <details class="instructions"><summary>Review guidance and rating definitions</summary><div id="guidance"></div></details>
+      <div id="source-details" class="source-details" hidden></div>
+      <div class="text-grid" id="text-grid"><article class="text-card"><h2 id="original-heading">Original passage</h2><div id="original-text" class="passage"></div></article><article class="text-card" id="rewrite-card"><h2>Rewritten passage</h2><div id="rewritten-text" class="passage"></div></article></div>
+      <details id="context-panel" class="context-panel" hidden><summary>Inspect archived source context</summary><p id="work-boundary" class="small muted"></p><button id="full-source" class="secondary" type="button">Download full archived source</button><h3>Before the selected passage</h3><pre id="context-before"></pre><h3>Selected raw source span</h3><pre id="context-selected" class="selected-source"></pre><h3>After the selected passage</h3><pre id="context-after"></pre><p class="muted small">Context includes up to 2,500 characters on each side. The raw span may contain line wrapping or note callouts removed by the corpus cleaner. Do not edit either source text.</p></details>
+      <form id="rating-form" class="panel rating-panel"><div class="section-head"><h2>Your review</h2><span class="muted small">Choose deliberately · blanks stay blank</span></div><div id="rating-fields" class="rating-fields"></div><label for="notes">Evidence / review notes<span id="notes-hint" class="muted small"></span></label><textarea id="notes" rows="5" maxlength="20000" placeholder="Describe what you checked. For changes, identify the exact fact, event, speaker or relationship."></textarea><div id="item-errors" class="field-errors" hidden></div></form>
+      <div class="savebar"><button id="previous" class="secondary">← Previous</button><div class="savebar-info"><span id="disk-status">Your saved answers persist across restarts.</span><span class="muted small" id="revision-label"></span></div><button id="save" class="secondary">Save</button><button id="save-next" class="primary">Save & next →</button><button id="next" class="quiet">Next →</button></div>
+    </section>
+  </main>
+
+  <dialog id="finish-dialog"><form id="finish-form"><p class="eyebrow">Finish review</p><h2 id="finish-title">Submit this review?</h2><p id="finish-explanation"></p><p class="muted small">Selecting <strong>Submit my review</strong> confirms these are your own independent judgments. Your submission time is recorded; any later correction must be documented separately.</p><div class="dialog-actions"><button id="cancel-finish" class="secondary" type="button">Keep reviewing</button><button id="confirm-finish" class="primary" type="submit">Submit my review</button></div></form></dialog>
+  <footer>Research Review Desk · private local workspace</footer>
+</body>
+</html>

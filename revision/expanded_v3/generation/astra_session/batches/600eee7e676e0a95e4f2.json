@@ -1,0 +1,68 @@
+{
+  "batch_id": "600eee7e676e0a95e4f2",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:01:55.565323+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a15038a8aa46f889206db335",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_twain_connecticut_yankee_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: a15038a8aa46f889206db335\noriginal_word_count: 452\n\nPassage:\nIn my day, in my own country, this money was collected from imposts, and the citizen imagined that the foreign importer paid it, and it made him comfortable to think so; whereas, in fact, it was paid by the American people, and was so equally and exactly distributed among them that the annual cost to the 100-millionaire and the annual cost to the sucking child of the day-laborer was precisely the same--each paid $6. Nothing could be equaler than that, I reckon. Well, Scotland and Ireland were tributary to Arthur, and the united populations of the British Islands amounted to something less than 1,000,000. A mechanic's average wage was 3 cents a day, when he paid his own keep. By this rule the national government's expenses were $90,000 a year, or about $250 a day. Thus, by the substitution of nickels for gold on a king's-evil day, I not only injured no one, dissatisfied no one, but pleased all concerned and saved four-fifths of that day's national expense into the bargain--a saving which would have been the equivalent of $800,000 in my day in America. In making this substitution I had drawn upon the wisdom of a very remote source--the wisdom of my boyhood--for the true statesman does not despise any wisdom, howsoever lowly may be its origin: in my boyhood I had always saved my pennies and contributed buttons to the foreign missionary cause. The buttons would answer the ignorant savage as well as the coin, the coin would answer me better than the buttons; all hands were happy and nobody hurt.\n\nMarinel took the patients as they came. He examined the candidate; if he couldn't qualify he was warned off; if he could he was passed along to the king. A priest pronounced the words, “They shall lay their hands on the sick, and they shall recover.” Then the king stroked the ulcers, while the reading continued; finally, the patient graduated and got his nickel--the king hanging it around his neck himself--and was dismissed. Would you think that that would cure? It certainly did. Any mummery will cure if the patient's faith is strong in it. Up by Astolat there was a chapel where the Virgin had once appeared to a girl who used to herd geese around there--the girl said so herself--and they built the chapel upon that spot and hung a picture in it representing the occurrence--a picture which you would think it dangerous for a sick person to approach; whereas, on the contrary, thousands of the lame and the sick came and prayed before it every year and went away whole and sound; and even the well could look upon it and live."
+      },
+      "request_id": "a15038a8aa46f889206db335",
+      "request_sha256": "ae9e5ca2002fab12fdfaefdd5f027c1a8c45d7555aae3b4fd30e4d3c9e757294",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "07a5ab8fa167227463ef0c26d858e32d149ee2bb4d6ca667b280928fbbd3ec63"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "98f91759f8c749a3122c224d",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_emma_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 98f91759f8c749a3122c224d\noriginal_word_count: 461\n\nPassage:\nShe would be placed in the midst of those who loved her, and who had better sense than herself; retired enough for safety, and occupied enough for cheerfulness. She would be never led into temptation, nor left for it to find her out. She would be respectable and happy; and Emma admitted her to be the luckiest creature in the world, to have created so steady and persevering an affection in such a man;—or, if not quite the luckiest, to yield only to herself.\n\nHarriet, necessarily drawn away by her engagements with the Martins, was less and less at Hartfield; which was not to be regretted.—The intimacy between her and Emma must sink; their friendship must change into a calmer sort of goodwill; and, fortunately, what ought to be, and must be, seemed already beginning, and in the most gradual, natural manner.\n\nBefore the end of September, Emma attended Harriet to church, and saw her hand bestowed on Robert Martin with so complete a satisfaction, as no remembrances, even connected with Mr. Elton as he stood before them, could impair.—Perhaps, indeed, at that time she scarcely saw Mr. Elton, but as the clergyman whose blessing at the altar might next fall on herself.—Robert Martin and Harriet Smith, the latest couple engaged of the three, were the first to be married.\n\nJane Fairfax had already quitted Highbury, and was restored to the comforts of her beloved home with the Campbells.—The Mr. Churchills were also in town; and they were only waiting for November.\n\nThe intermediate month was the one fixed on, as far as they dared, by Emma and Mr. Knightley.—They had determined that their marriage ought to be concluded while John and Isabella were still at Hartfield, to allow them the fortnight’s absence in a tour to the seaside, which was the plan.—John and Isabella, and every other friend, were agreed in approving it. But Mr. Woodhouse—how was Mr. Woodhouse to be induced to consent?—he, who had never yet alluded to their marriage but as a distant event.\n\nWhen first sounded on the subject, he was so miserable, that they were almost hopeless.—A second allusion, indeed, gave less pain.—He began to think it was to be, and that he could not prevent it—a very promising step of the mind on its way to resignation. Still, however, he was not happy. Nay, he appeared so much otherwise, that his daughter’s courage failed. She could not bear to see him suffering, to know him fancying himself neglected; and though her understanding almost acquiesced in the assurance of both the Mr. Knightleys, that when once the event were over, his distress would be soon over too, she hesitated—she could not proceed."
+      },
+      "request_id": "98f91759f8c749a3122c224d",
+      "request_sha256": "9d270f36922dc9517709a0bdb50799fbb78dad142535d9fbc34efc7760916a2d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3cfb39f0c48bc397c187ab85b68c7194b97124b1d127c3756726775614f659b5"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b919ff492da65d359c48454d",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 482,
+      "passage_id": "V2_austen_persuasion_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: b919ff492da65d359c48454d\noriginal_word_count: 482\n\nPassage:\nSir Walter Elliot, of Kellynch Hall, in Somersetshire, was a man who, for his own amusement, never took up any book but the Baronetage; there he found occupation for an idle hour, and consolation in a distressed one; there his faculties were roused into admiration and respect, by contemplating the limited remnant of the earliest patents; there any unwelcome sensations, arising from domestic affairs changed naturally into pity and contempt as he turned over the almost endless creations of the last century; and there, if every other leaf were powerless, he could read his own history with an interest which never failed. This was the page at which the favourite volume always opened:\n\n“ELLIOT OF KELLYNCH HALL.\n\n“Walter Elliot, born March 1, 1760, married, July 15, 1784, Elizabeth, daughter of James Stevenson, Esq. of South Park, in the county of Gloucester, by which lady (who died 1800) he has issue Elizabeth, born June 1, 1785; Anne, born August 9, 1787; a still-born son, November 5, 1789; Mary, born November 20, 1791.”\n\nPrecisely such had the paragraph originally stood from the printer’s hands; but Sir Walter had improved it by adding, for the information of himself and his family, these words, after the date of Mary’s birth—“Married, December 16, 1810, Charles, son and heir of Charles Musgrove, Esq. of Uppercross, in the county of Somerset,” and by inserting most accurately the day of the month on which he had lost his wife.\n\nThen followed the history and rise of the ancient and respectable family, in the usual terms; how it had been first settled in Cheshire; how mentioned in Dugdale, serving the office of high sheriff, representing a borough in three successive parliaments, exertions of loyalty, and dignity of baronet, in the first year of Charles II, with all the Marys and Elizabeths they had married; forming altogether two handsome duodecimo pages, and concluding with the arms and motto:—“Principal seat, Kellynch Hall, in the county of Somerset,” and Sir Walter’s handwriting again in this finale:—\n\n“Heir presumptive, William Walter Elliot, Esq., great grandson of the second Sir Walter.”\n\nVanity was the beginning and the end of Sir Walter Elliot’s character; vanity of person and of situation. He had been remarkably handsome in his youth; and, at fifty-four, was still a very fine man. Few women could think more of their personal appearance than he did, nor could the valet of any new made lord be more delighted with the place he held in society. He considered the blessing of beauty as inferior only to the blessing of a baronetcy; and the Sir Walter Elliot, who united these gifts, was the constant object of his warmest respect and devotion.\n\nHis good looks and his rank had one fair claim on his attachment; since to them he must have owed a wife of very superior character to any thing deserved by his own."
+      },
+      "request_id": "b919ff492da65d359c48454d",
+      "request_sha256": "90fc1377ac4b025fb94fe8e8355389fe1a6cb7d80763105b8312c367771cdfa6",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "dab79f23ee11bc5f28302d947acbfdcd7a05b6af70f825069ef2b7c7af631d6f"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

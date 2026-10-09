@@ -1,0 +1,68 @@
+{
+  "batch_id": "38c11efe42bfe3d18b3c",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:41:40.148971+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b1adaf674579105dc57ede64",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: b1adaf674579105dc57ede64\noriginal_word_count: 460\n\nPassage:\n“Now,” said Mr. Lorry, gently laying his hand on the Doctor’s arm again, after a short silence on both sides, “to what would you refer this attack?”\n\n“I believe,” returned Doctor Manette, “that there had been a strong and extraordinary revival of the train of thought and remembrance that was the first cause of the malady. Some intense associations of a most distressing nature were vividly recalled, I think. It is probable that there had long been a dread lurking in his mind, that those associations would be recalled--say, under certain circumstances--say, on a particular occasion. He tried to prepare himself in vain; perhaps the effort to prepare himself made him less able to bear it.”\n\n“Would he remember what took place in the relapse?” asked Mr. Lorry, with natural hesitation.\n\nThe Doctor looked desolately round the room, shook his head, and answered, in a low voice, “Not at all.”\n\n“Now, as to the future,” hinted Mr. Lorry.\n\n“As to the future,” said the Doctor, recovering firmness, “I should have great hope. As it pleased Heaven in its mercy to restore him so soon, I should have great hope. He, yielding under the pressure of a complicated something, long dreaded and long vaguely foreseen and contended against, and recovering after the cloud had burst and passed, I should hope that the worst was over.”\n\n“Well, well! That’s good comfort. I am thankful!” said Mr. Lorry.\n\n“I am thankful!” repeated the Doctor, bending his head with reverence.\n\n“There are two other points,” said Mr. Lorry, “on which I am anxious to be instructed. I may go on?”\n\n“You cannot do your friend a better service.” The Doctor gave him his hand.\n\n“To the first, then. He is of a studious habit, and unusually energetic; he applies himself with great ardour to the acquisition of professional knowledge, to the conducting of experiments, to many things. Now, does he do too much?”\n\n“I think not. It may be the character of his mind, to be always in singular need of occupation. That may be, in part, natural to it; in part, the result of affliction. The less it was occupied with healthy things, the more it would be in danger of turning in the unhealthy direction. He may have observed himself, and made the discovery.”\n\n“You are sure that he is not under too great a strain?”\n\n“I think I am quite sure of it.”\n\n“My dear Manette, if he were overworked now--”\n\n“My dear Lorry, I doubt if that could easily be. There has been a violent stress in one direction, and it needs a counterweight.”\n\n“Excuse me, as a persistent man of business. Assuming for a moment, that he _was_ overworked; it would show itself in some renewal of this disorder?”"
+      },
+      "request_id": "b1adaf674579105dc57ede64",
+      "request_sha256": "7a88a5bb7069213032e896d76a45a9d57351888a4824f5b2f1d7d3d76dc7ebe9",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "608018a6d9efdd720579fbc463cbf51541a05f1910d275f0fbb1bb57698d13b3"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "ac4afa3be4891b564d495ada",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 480,
+      "passage_id": "V2_poe_murders_rue_morgue_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: ac4afa3be4891b564d495ada\noriginal_word_count: 480\n\nPassage:\nUpon sight of it, the Ourang-Outang sprang at once through the door of the chamber, down the stairs, and thence, through a window, unfortunately open, into the street.\n\nThe Frenchman followed in despair; the ape, razor still in hand, occasionally stopping to look back and gesticulate at its pursuer, until the latter had nearly come up with it. It then again made off. In this manner the chase continued for a long time. The streets were profoundly quiet, as it was nearly three o’clock in the morning. In passing down an alley in the rear of the Rue Morgue, the fugitive’s attention was arrested by a light gleaming from the open window of Madame L’Espanaye’s chamber, in the fourth story of her house. Rushing to the building, it perceived the lightning rod, clambered up with inconceivable agility, grasped the shutter, which was thrown fully back against the wall, and, by its means, swung itself directly upon the headboard of the bed. The whole feat did not occupy a minute. The shutter was kicked open again by the Ourang-Outang as it entered the room.\n\nThe sailor, in the meantime, was both rejoiced and perplexed. He had strong hopes of now recapturing the brute, as it could scarcely escape from the trap into which it had ventured, except by the rod, where it might be intercepted as it came down. On the other hand, there was much cause for anxiety as to what it might do in the house. This latter reflection urged the man still to follow the fugitive. A lightning rod is ascended without difficulty, especially by a sailor; but, when he had arrived as high as the window, which lay far to his left, his career was stopped; the most that he could accomplish was to reach over so as to obtain a glimpse of the interior of the room. At this glimpse he nearly fell from his hold through excess of horror. Now it was that those hideous shrieks arose upon the night, which had startled from slumber the inmates of the Rue Morgue. Madame L’Espanaye and her daughter, habited in their night clothes, had apparently been occupied in arranging some papers in the iron chest already mentioned, which had been wheeled into the middle of the room. It was open, and its contents lay beside it on the floor. The victims must have been sitting with their backs toward the window; and, from the time elapsing between the ingress of the beast and the screams, it seems probable that it was not immediately perceived. The flapping-to of the shutter would naturally have been attributed to the wind.\n\nAs the sailor looked in, the gigantic animal had seized Madame L’Espanaye by the hair, (which was loose, as she had been combing it,) and was flourishing the razor about her face, in imitation of the motions of a barber."
+      },
+      "request_id": "ac4afa3be4891b564d495ada",
+      "request_sha256": "f98075ac4d383ac61c8a9873162191a25441e8da1eeb14254d111774b0c42006",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3c4ccf67e6f9324c2b7cdb89b16b8bd6ef4342011b1f7ed4e29687ec157afa04"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "55309544e3e00ac0abb70204",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_poe_the_gold_bug_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 55309544e3e00ac0abb70204\noriginal_word_count: 461\n\nPassage:\nIt was at this moment that his eyes, and mine also, fell upon the scrap of parchment, which I then supposed to be paper. It was lying half buried in the sand, a corner sticking up. Near the spot where we found it, I observed the remnants of the hull of what appeared to have been a ship’s long boat. The wreck seemed to have been there for a very great while; for the resemblance to boat timbers could scarcely be traced.\n\n“Well, Jupiter picked up the parchment, wrapped the beetle in it, and gave it to me. Soon afterwards we turned to go home, and on the way met Lieutenant G——. I showed him the insect, and he begged me to let him take it to the fort. Upon my consenting, he thrust it forthwith into his waistcoat pocket, without the parchment in which it had been wrapped, and which I had continued to hold in my hand during his inspection. Perhaps he dreaded my changing my mind, and thought it best to make sure of the prize at once—you know how enthusiastic he is on all subjects connected with Natural History. At the same time, without being conscious of it, I must have deposited the parchment in my own pocket.\n\n“You remember that when I went to the table, for the purpose of making a sketch of the beetle, I found no paper where it was usually kept. I looked in the drawer, and found none there. I searched my pockets, hoping to find an old letter, when my hand fell upon the parchment. I thus detail the precise mode in which it came into my possession; for the circumstances impressed me with peculiar force.\n\n“No doubt you will think me fanciful—but I had already established a kind of connexion. I had put together two links of a great chain. There was a boat lying upon a sea-coast, and not far from the boat was a parchment—not a paper—with a skull depicted upon it. You will, of course, ask ‘where is the connexion?’ I reply that the skull, or death’s-head, is the well-known emblem of the pirate. The flag of the death’s head is hoisted in all engagements.\n\n“I have said that the scrap was parchment, and not paper. Parchment is durable—almost imperishable. Matters of little moment are rarely consigned to parchment; since, for the mere ordinary purposes of drawing or writing, it is not nearly so well adapted as paper. This reflection suggested some meaning—some relevancy—in the death’s-head. I did not fail to observe, also, the form of the parchment. Although one of its corners had been, by some accident, destroyed, it could be seen that the original form was oblong."
+      },
+      "request_id": "55309544e3e00ac0abb70204",
+      "request_sha256": "2ac3730a1490be1947f012de05308b2f9df9f3a5f9be7fc432e45a6274b24fa1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "27840f656fbe40cde0d845fd65d89fea338193e81f8b2ad02f6c65381a53ee2f"
+    }
+  ],
+  "session_id": "01a0e871-0029-7eb2-b032-b2c22db7d18a",
+  "worker_id": "astra_y",
+  "worker_identity_sha256": "117b62507d566d7e1674868f608b01ea30f8f22336a4d59e5e97eb3a6f4f8842"
+}

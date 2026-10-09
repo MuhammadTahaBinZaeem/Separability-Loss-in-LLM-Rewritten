@@ -1,0 +1,68 @@
+{
+  "batch_id": "d6a5e34c48a1c73ea737",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:05:44.389111+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1c0c114b3e145b44e6d4b98a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 489,
+      "passage_id": "V2_shelley_the_last_man_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 1c0c114b3e145b44e6d4b98a\noriginal_word_count: 489\n\nPassage:\nWe both agreed in loving Adrian: although she not having yet escaped from childhood could not appreciate as I did the extent of his merits, or feel the same sympathy in his pursuits and opinions. I was for ever with him. There was a sensibility and sweetness in his disposition, that gave a tender and unearthly tone to our converse. Then he was gay as a lark carolling from its skiey tower, soaring in thought as an eagle, innocent as the mild-eyed dove. He could dispel the seriousness of Perdita, and take the sting from the torturing activity of my nature. I looked back to my restless desires and painful struggles with my fellow beings as to a troubled dream, and felt myself as much changed as if I had transmigrated into another form, whose fresh sensorium and mechanism of nerves had altered the reflection of the apparent universe in the mirror of mind. But it was not so; I was the same in strength, in earnest craving for sympathy, in my yearning for active exertion. My manly virtues did not desert me, for the witch Urania spared the locks of Sampson, while he reposed at her feet; but all was softened and humanized. Nor did Adrian instruct me only in the cold truths of history and philosophy. At the same time that he taught me by their means to subdue my own reckless and uncultured spirit, he opened to my view the living page of his own heart, and gave me to feel and understand its wondrous character.\n\nThe ex-queen of England had, even during infancy, endeavoured to implant daring and ambitious designs in the mind of her son. She saw that he was endowed with genius and surpassing talent; these she cultivated for the sake of afterwards using them for the furtherance of her own views. She encouraged his craving for knowledge and his impetuous courage; she even tolerated his tameless love of freedom, under the hope that this would, as is too often the case, lead to a passion for command. She endeavoured to bring him up in a sense of resentment towards, and a desire to revenge himself upon, those who had been instrumental in bringing about his father’s abdication. In this she did not succeed. The accounts furnished him, however distorted, of a great and wise nation asserting its right to govern itself, excited his admiration: in early days he became a republican from principle. Still his mother did not despair. To the love of rule and haughty pride of birth she added determined ambition, patience, and self-control. She devoted herself to the study of her son’s disposition. By the application of praise, censure, and exhortation, she tried to seek and strike the fitting chords; and though the melody that followed her touch seemed discord to her, she built her hopes on his talents, and felt sure that she would at last win him."
+      },
+      "request_id": "1c0c114b3e145b44e6d4b98a",
+      "request_sha256": "893fa73d9f631946ffa9f3ee76d64d0154b4a55962bfe655b73128f32391805c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "59819b277ba52e4e76a3235c0758df0a0908a73bdd0a72e2b95d94d472b6a0d6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "60d3c9c7c5ca7a904d187e83",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_great_expectations_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 60d3c9c7c5ca7a904d187e83\noriginal_word_count: 450\n\nPassage:\nFor this reason, I resolved to alight as soon as we touched the town, and put myself out of his hearing. This device I executed successfully. My little portmanteau was in the boot under my feet; I had but to turn a hinge to get it out; I threw it down before me, got down after it, and was left at the first lamp on the first stones of the town pavement. As to the convicts, they went their way with the coach, and I knew at what point they would be spirited off to the river. In my fancy, I saw the boat with its convict crew waiting for them at the slime-washed stairs,—again heard the gruff “Give way, you!” like an order to dogs,—again saw the wicked Noah’s Ark lying out on the black water.\n\nI could not have said what I was afraid of, for my fear was altogether undefined and vague, but there was great fear upon me. As I walked on to the hotel, I felt that a dread, much exceeding the mere apprehension of a painful or disagreeable recognition, made me tremble. I am confident that it took no distinctness of shape, and that it was the revival for a few minutes of the terror of childhood.\n\nThe coffee-room at the Blue Boar was empty, and I had not only ordered my dinner there, but had sat down to it, before the waiter knew me. As soon as he had apologised for the remissness of his memory, he asked me if he should send Boots for Mr. Pumblechook?\n\n“No,” said I, “certainly not.”\n\nThe waiter (it was he who had brought up the Great Remonstrance from the Commercials, on the day when I was bound) appeared surprised, and took the earliest opportunity of putting a dirty old copy of a local newspaper so directly in my way, that I took it up and read this paragraph:—\n\nOur readers will learn, not altogether without interest, in reference to the recent romantic rise in fortune of a young artificer in iron of this neighbourhood (what a theme, by the way, for the magic pen of our as yet not universally acknowledged townsman TOOBY, the poet of our columns!) that the youth’s earliest patron, companion, and friend, was a highly respected individual not entirely unconnected with the corn and seed trade, and whose eminently convenient and commodious business premises are situate within a hundred miles of the High Street. It is not wholly irrespective of our personal feelings that we record HIM as the Mentor of our young Telemachus, for it is good to know that our town produced the founder of the latter’s fortunes."
+      },
+      "request_id": "60d3c9c7c5ca7a904d187e83",
+      "request_sha256": "01e51b9d00ea6f923ffa04367f50a31495a01b10fb5b5a749aa888cbd90ee93d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cf0a60c57b023d7edfc790cf3c921f9dac7578ab4ae94203b39d4ee1295d9c8b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e56660866db125009c030546",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_shelley_frankenstein_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: e56660866db125009c030546\noriginal_word_count: 471\n\nPassage:\nAnd I call on you, spirits of the dead, and on you, wandering ministers of vengeance, to aid and conduct me in my work. Let the cursed and hellish monster drink deep of agony; let him feel the despair that now torments me.”\n\nI had begun my adjuration with solemnity and an awe which almost assured me that the shades of my murdered friends heard and approved my devotion, but the furies possessed me as I concluded, and rage choked my utterance.\n\nI was answered through the stillness of night by a loud and fiendish laugh. It rang on my ears long and heavily; the mountains re-echoed it, and I felt as if all hell surrounded me with mockery and laughter. Surely in that moment I should have been possessed by frenzy and have destroyed my miserable existence but that my vow was heard and that I was reserved for vengeance. The laughter died away, when a well-known and abhorred voice, apparently close to my ear, addressed me in an audible whisper, “I am satisfied, miserable wretch! You have determined to live, and I am satisfied.”\n\nI darted towards the spot from which the sound proceeded, but the devil eluded my grasp. Suddenly the broad disk of the moon arose and shone full upon his ghastly and distorted shape as he fled with more than mortal speed.\n\nI pursued him, and for many months this has been my task. Guided by a slight clue, I followed the windings of the Rhone, but vainly. The blue Mediterranean appeared, and by a strange chance, I saw the fiend enter by night and hide himself in a vessel bound for the Black Sea. I took my passage in the same ship, but he escaped, I know not how.\n\nAmidst the wilds of Tartary and Russia, although he still evaded me, I have ever followed in his track. Sometimes the peasants, scared by this horrid apparition, informed me of his path; sometimes he himself, who feared that if I lost all trace of him I should despair and die, left some mark to guide me. The snows descended on my head, and I saw the print of his huge step on the white plain. To you first entering on life, to whom care is new and agony unknown, how can you understand what I have felt and still feel? Cold, want, and fatigue were the least pains which I was destined to endure; I was cursed by some devil and carried about with me my eternal hell; yet still a spirit of good followed and directed my steps and when I most murmured would suddenly extricate me from seemingly insurmountable difficulties. Sometimes, when nature, overcome by hunger, sank under the exhaustion, a repast was prepared for me in the desert that restored and inspirited me."
+      },
+      "request_id": "e56660866db125009c030546",
+      "request_sha256": "49be1513b6c1e9d22535059c51bebfdf7654084ef6082504fdf16149bef2257c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fa44fa6f1db8d2c0b2856e21c88d588089564ee95fe9469a2311834db2884203"
+    }
+  ],
+  "session_id": "01a0e852-0aa6-7ae2-9bb7-b4f8a3387e53",
+  "worker_id": "astra_p",
+  "worker_identity_sha256": "afd3aba6357fe2ec9c9b6492844a9baccd6099faafc29ba8f935f467e4f98adf"
+}

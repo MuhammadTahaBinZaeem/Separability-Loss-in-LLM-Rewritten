@@ -1,0 +1,68 @@
+{
+  "batch_id": "518e8d3cd393ab50df64",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T08:04:06.170644+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "465788cd2bd58f9597157205",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_twain_huckleberry_finn_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 465788cd2bd58f9597157205\noriginal_word_count: 454\n\nPassage:\nSo, then, the ring-master he made a little speech, and said he hoped there wouldn’t be no disturbance, and if the man would promise he wouldn’t make no more trouble he would let him ride if he thought he could stay on the horse. So everybody laughed and said all right, and the man got on. The minute he was on, the horse begun to rip and tear and jump and cavort around, with two circus men hanging on to his bridle trying to hold him, and the drunk man hanging on to his neck, and his heels flying in the air every jump, and the whole crowd of people standing up shouting and laughing till tears rolled down. And at last, sure enough, all the circus men could do, the horse broke loose, and away he went like the very nation, round and round the ring, with that sot laying down on him and hanging to his neck, with first one leg hanging most to the ground on one side, and then t’other one on t’other side, and the people just crazy. It warn’t funny to me, though; I was all of a tremble to see his danger. But pretty soon he struggled up astraddle and grabbed the bridle, a-reeling this way and that; and the next minute he sprung up and dropped the bridle and stood! and the horse a-going like a house afire too. He just stood up there, a-sailing around as easy and comfortable as if he warn’t ever drunk in his life—and then he begun to pull off his clothes and sling them. He shed them so thick they kind of clogged up the air, and altogether he shed seventeen suits. And, then, there he was, slim and handsome, and dressed the gaudiest and prettiest you ever saw, and he lit into that horse with his whip and made him fairly hum—and finally skipped off, and made his bow and danced off to the dressing-room, and everybody just a-howling with pleasure and astonishment.\n\nThen the ring-master he see how he had been fooled, and he _was_ the sickest ring-master you ever see, I reckon. Why, it was one of his own men! He had got up that joke all out of his own head, and never let on to nobody. Well, I felt sheepish enough to be took in so, but I wouldn’t a been in that ring-master’s place, not for a thousand dollars. I don’t know; there may be bullier circuses than what that one was, but I never struck them yet. Anyways, it was plenty good enough for _me;_ and wherever I run across it, it can have all of _my_ custom every time."
+      },
+      "request_id": "465788cd2bd58f9597157205",
+      "request_sha256": "19dfe782ffcce3fa5216961c5c2cf73b6a6eed43b0df51eac3b15264abed05b8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ee5229b469ac64cf2638746b26a3d4c56a683241d52a1203073563a6e7cc2e81"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "d299be0881b4a6a0f6339c24",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_twain_connecticut_yankee_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: d299be0881b4a6a0f6339c24\noriginal_word_count: 454\n\nPassage:\n“Next, we built a wire fence.”\n\n“Wire fence?”\n\n“Yes. You dropped the hint of it yourself, two or three years ago.”\n\n“Oh, I remember--the time the Church tried her strength against us the first time, and presently thought it wise to wait for a hopefuler season. Well, how have you arranged the fence?”\n\n“I start twelve immensely strong wires--naked, not insulated --from a big dynamo in the cave--dynamo with no brushes except a positive and a negative one--”\n\n“Yes, that's right.”\n\n“The wires go out from the cave and fence in a circle of level ground a hundred yards in diameter; they make twelve independent fences, ten feet apart--that is to say, twelve circles within circles--and their ends come into the cave again.”\n\n“Right; go on.”\n\n“The fences are fastened to heavy oaken posts only three feet apart, and these posts are sunk five feet in the ground.”\n\n“That is good and strong.”\n\n“Yes. The wires have no ground-connection outside of the cave. They go out from the positive brush of the dynamo; there is a ground-connection through the negative brush; the other ends of the wire return to the cave, and each is grounded independently.”\n\n“No, no, that won't do!”\n\n“Why?”\n\n“It's too expensive--uses up force for nothing. You don't want any ground-connection except the one through the negative brush. The other end of every wire must be brought back into the cave and fastened independently, and _without_ any ground-connection. Now, then, observe the economy of it. A cavalry charge hurls itself against the fence; you are using no power, you are spending no money, for there is only one ground-connection till those horses come against the wire; the moment they touch it they form a connection with the negative brush _through the ground_, and drop dead. Don't you see?--you are using no energy until it is needed; your lightning is there, and ready, like the load in a gun; but it isn't costing you a cent till you touch it off. Oh, yes, the single ground-connection--”\n\n“Of course! I don't know how I overlooked that. It's not only cheaper, but it's more effectual than the other way, for if wires break or get tangled, no harm is done.”\n\n“No, especially if we have a tell-tale in the cave and disconnect the broken wire. Well, go on. The gatlings?”\n\n“Yes--that's arranged. In the center of the inner circle, on a spacious platform six feet high, I've grouped a battery of thirteen gatling guns, and provided plenty of ammunition.”\n\n“That's it. They command every approach, and when the Church's knights arrive, there's going to be music. The brow of the precipice over the cave--”\n\n“I've got a wire fence there, and a gatling."
+      },
+      "request_id": "d299be0881b4a6a0f6339c24",
+      "request_sha256": "235db045258c670ee9078840ea7fc2e3691dc6ea52a4012d072152391c2b57ef",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c61ab8633e5e7bb6d0ef1d5cf7ceff316cf1f96eb357b415c94d36a7a0f787bb"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "93b5f63d4ed4367593498ae2",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V2_poe_hans_pfaal_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 93b5f63d4ed4367593498ae2\noriginal_word_count: 458\n\nPassage:\n“The stupor and surprise produced in my mind by this extraordinary change in the posture of affairs was perhaps, after all, that part of the adventure least susceptible of explanation. For the bouleversement in itself was not only natural and inevitable, but had been long actually anticipated as a circumstance to be expected whenever I should arrive at that exact point of my voyage where the attraction of the planet should be superseded by the attraction of the satellite—or, more precisely, where the gravitation of the balloon toward the earth should be less powerful than its gravitation toward the moon. To be sure I arose from a sound slumber, with all my senses in confusion, to the contemplation of a very startling phenomenon, and one which, although expected, was not expected at the moment. The revolution itself must, of course, have taken place in an easy and gradual manner, and it is by no means clear that, had I even been awake at the time of the occurrence, I should have been made aware of it by any internal evidence of an inversion—that is to say, by any inconvenience or disarrangement, either about my person or about my apparatus.\n\n“It is almost needless to say that, upon coming to a due sense of my situation, and emerging from the terror which had absorbed every faculty of my soul, my attention was, in the first place, wholly directed to the contemplation of the general physical appearance of the moon. It lay beneath me like a chart—and although I judged it to be still at no inconsiderable distance, the indentures of its surface were defined to my vision with a most striking and altogether unaccountable distinctness. The entire absence of ocean or sea, and indeed of any lake or river, or body of water whatsoever, struck me, at first glance, as the most extraordinary feature in its geological condition. Yet, strange to say, I beheld vast level regions of a character decidedly alluvial, although by far the greater portion of the hemisphere in sight was covered with innumerable volcanic mountains, conical in shape, and having more the appearance of artificial than of natural protuberance. The highest among them does not exceed three and three-quarter miles in perpendicular elevation; but a map of the volcanic districts of the Campi Phlegraei would afford to your Excellencies a better idea of their general surface than any unworthy description I might think proper to attempt. The greater part of them were in a state of evident eruption, and gave me fearfully to understand their fury and their power, by the repeated thunders of the miscalled meteoric stones, which now rushed upward by the balloon with a frequency more and more appalling."
+      },
+      "request_id": "93b5f63d4ed4367593498ae2",
+      "request_sha256": "dd7f056e4677a79ce9d3c94d45802d812f4e2277e8a00ffe0acc8bc3de6a33bf",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1101340f377b1e69c5a156249c47fd36e31d0fb679c69e765c6d8294da853de1"
+    }
+  ],
+  "session_id": "01a0e1dc-5c35-7b31-a9b6-a38e1d6af01b",
+  "worker_id": "astra_a",
+  "worker_identity_sha256": "1dbcb4b943cd599b768ad84fa4e0ccc355a69f663720cc130c5d030c1b9e8505"
+}

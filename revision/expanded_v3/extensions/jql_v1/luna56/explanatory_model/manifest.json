@@ -1,0 +1,61 @@
+{
+  "analysis_kind": "exploratory_restricted_mapping_held_out_work_validation",
+  "completed_utc": "2026-09-29T17:14:13.193384+00:00",
+  "estimable_panels": [
+    "valid_full",
+    "w200_middle",
+    "w300_middle"
+  ],
+  "fits": 162,
+  "held_out_work_prediction_rows": 972,
+  "human_review_complete": false,
+  "inputs": {
+    "requirements-v2.lock": "8396f22f2d90ab5c355f7db0fde3d979e1c242c9e75afcb98bc4da22db4d0701",
+    "research_v2/analysis.py": "a970f901e215d005bd80f108991e6e3e320c34d6e20ff138840cc9972703b99d",
+    "research_v2/corpus.py": "7c95c924a8210b390e044928a9f47e52eaf1188582ab9f694730ec58cc2b2f1a",
+    "research_v2/expanded_analysis.py": "777e2d500ffb569f68923a8cf7a251cb4efe975d8de5ef09f6e2365979a00e00",
+    "research_v2/expanded_generation.py": "18c0962d53bc2ce6d5d22818e526c36b2f00b88c44aa74ac9287fd66e239f4cf",
+    "research_v2/expanded_study.py": "89f4eef0c4fbb86b8a02053d64ab90cfe2cf9a5b556816026d86bc93201cc2f2",
+    "research_v2/features.py": "b71b92f10a8b819529f39e0ef4ebc4312a7db036944e7374e66ae7ae45bcfab7",
+    "research_v2/generation.py": "098a06c2bf732b8ecab51eb20e5e0249f228140ac384a55ec151d805ea948d8a",
+    "research_v2/inference.py": "ea5c3f9c528913ae94cb1b318e2e4f073af5b88e6b647601dbac9d17491891c3",
+    "research_v2/io.py": "87bd1528755cb2c09709cc4de5f120911f3d53ba5ef50a20666a74d84d7b24d2",
+    "research_v2/providers.py": "3fa2cf7888d2797e207899fd92af53122c827135e8ffc405c0e27bbd8dc9ec5e",
+    "research_v2/session_generation.py": "b9975f4184afa21f97a9c3489b222ff5d4cb5dfb1ee88ba3a4fe18b28e72966d",
+    "research_v2/shift_contraction.py": "687bff1cdd09c933f8b06be0d7ea476e9ffe4d4390de9497f52b3b3c24ecbcd6",
+    "research_v2/transfer_extension.py": "2496bf0b78f005d56d165752ea56d1562ef6edbf7d3096fc4cd1b7ff35b69259",
+    "revision/expanded_v3/PROTOCOL.md": "c618117f43dc7d27cf38ffe3a5c41bf4e19f125ff3266924108e1c96ca5667b9",
+    "revision/expanded_v3/corpus/freeze.json": "693ffc158690122a3e1e9923975788d2a27a5f42a84bdca3bcb4a7e682a86c22",
+    "revision/expanded_v3/corpus/lineage.csv": "30ee8dea56000d5d2a30db9600f1dfc3d700217812f3d88fbb0ae7cf554e79a6",
+    "revision/expanded_v3/corpus/originals.csv": "6d29a22c905fc8bedd31e74684fa4e9370b7af768a0d5727ed82df66340844f5",
+    "revision/expanded_v3/extensions/jql_v1/EXPLANATORY_MODEL_PLAN.md": "326c02b5aba4ed5ff361ed5f4a512ec489c06892d2bc86de046c730bcd8a967a",
+    "revision/expanded_v3/extensions/jql_v1/PLAN.md": "9860e15795b8b7375261a4c3f44e95fff416c4868678a4a5b63901e7df182492",
+    "revision/expanded_v3/extensions/jql_v1/luna56/manifest.json": "1609ebaab810b31a0ba4f587ac82b86294324ea69d753ed95315d3703b9f39c2",
+    "revision/expanded_v3/generation/luna56/assignments.jsonl": "ba91b6f5a9e9055d82da4e8d2a10c0d211ad06029e720b0c8f530c49d6461cef",
+    "revision/expanded_v3/generation/luna56/completion.json": "62762f354382bc7771836bb5bac4532265091c7b344c04f52ed456fc00ce6973",
+    "revision/expanded_v3/generation/luna56/outcomes.jsonl": "8696422e4bbb4409d80b5d9ea54ae4073c7bac7640a161aa51506bc004d7e6a3",
+    "revision/expanded_v3/generation/luna56/request_manifest.json": "b9cf57614362c2827d9b7b398df77e1088100e41bd4e8912049e2fb55b483812",
+    "revision/expanded_v3/generation/luna56/requests.jsonl": "fc87de0d5b3f4d971ce498d3468091a8ce4434419f2f50fd47759e0a48ea9c03",
+    "revision/expanded_v3/generation/luna56/rewrites.csv": "2297a3fb1a196a34f3482af06d52d3892caf409c65ff57e372300a23c6d82bf9",
+    "revision/expanded_v3/generation_plan.json": "0de3eff73e707e13a5ccf84b0f29066359ccd9a0bcfb373a4eb10574918a0867",
+    "revision/expanded_v3/scope_amendment.json": "d9e54c0d1d9ff1b26910f1524329718186297382c8cbcb33967cce9b76e8a913",
+    "scripts/13_extract_stylometric_features.py": "a6999b04f715bdfdb20d9c56f7dc72525c937513ec24362ae27af668223b6504"
+  },
+  "max_absolute_dispersion_identity_error": 8.326672684688674e-17,
+  "model_key": "luna56",
+  "not_estimable_panels": [],
+  "output_hashes": {
+    "REPORT.md": "b43d84a2f5f8caacd3608812e37029a4331a36d1b14d6e535ce25f50acd299b2",
+    "contrasts.csv": "f1feac671a56c0a49f82c111f757da2241febe0189003c9152f08361f0762854",
+    "dispersion_components.csv": "64b6dc765e1f4c7484c53d37ac1a9bf377a4a46ef9ce11cc6dfe8ca9d56f9ada",
+    "parameters.jsonl": "41eba77e4c7e82ec9be84b480f29a834fd6acb239671ee6055ff3dbb447b65ab",
+    "summary.csv": "9221577b8f68faddf53d7784b7dfb06f2ecf5cea912ff5f5433baf2fb9805916",
+    "work_predictions.jsonl": "d4946dd3c7a5cfc8eb8e6badaa90b6da09e341d9757891d7aea4239da5000b2a"
+  },
+  "planned_panels": [
+    "valid_full",
+    "w200_middle",
+    "w300_middle"
+  ],
+  "submission_ready": false
+}

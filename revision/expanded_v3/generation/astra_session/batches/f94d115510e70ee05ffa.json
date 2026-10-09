@@ -1,0 +1,68 @@
+{
+  "batch_id": "f94d115510e70ee05ffa",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:55:56.459799+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "7e402c4b76f26b8dd3f89074",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_poe_the_gold_bug_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 7e402c4b76f26b8dd3f89074\noriginal_word_count: 464\n\nPassage:\n“I now scrutinized the death’s-head with care. Its outer edges—the edges of the drawing nearest the edge of the vellum—were far more distinct than the others. It was clear that the action of the caloric had been imperfect or unequal. I immediately kindled a fire, and subjected every portion of the parchment to a glowing heat. At first, the only effect was the strengthening of the faint lines in the skull; but, upon persevering in the experiment, there became visible, at the corner of the slip, diagonally opposite to the spot in which the death’s-head was delineated, the figure of what I at first supposed to be a goat. A closer scrutiny, however, satisfied me that it was intended for a kid.”\n\n“Ha! ha!” said I, “to be sure I have no right to laugh at you—a million and a half of money is too serious a matter for mirth—but you are not about to establish a third link in your chain—you will not find any especial connexion between your pirates and a goat—pirates, you know, have nothing to do with goats; they appertain to the farming interest.”\n\n“But I have just said that the figure was not that of a goat.”\n\n“Well, a kid then—pretty much the same thing.”\n\n“Pretty much, but not altogether,” said Legrand. “You may have heard of one Captain Kidd. I at once looked upon the figure of the animal as a kind of punning or hieroglyphical signature. I say signature; because its position upon the vellum suggested this idea. The death’s-head at the corner diagonally opposite, had, in the same manner, the air of a stamp, or seal. But I was sorely put out by the absence of all else—of the body to my imagined instrument—of the text for my context.”\n\n“I presume you expected to find a letter between the stamp and the signature.”\n\n“Something of that kind. The fact is, I felt irresistibly impressed with a presentiment of some vast good fortune impending. I can scarcely say why. Perhaps, after all, it was rather a desire than an actual belief;—but do you know that Jupiter’s silly words, about the bug being of solid gold, had a remarkable effect upon my fancy? And then the series of accidents and coincidences—these were so very extraordinary. Do you observe how mere an accident it was that these events should have occurred upon the sole day of all the year in which it has been, or may be, sufficiently cool for fire, and that without the fire, or without the intervention of the dog at the precise moment in which he appeared, I should never have become aware of the death’s-head, and so never the possessor of the treasure?”"
+      },
+      "request_id": "7e402c4b76f26b8dd3f89074",
+      "request_sha256": "32b2871a34d2a4bd39993643942811b15434d58f06a19517f95ea9a205ff4209",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0eae799f5d9e78bce82d7644c8ebf9ad72cf2a2086abaef7e1519e537ee48d94"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8b273ff13dadd43f9b1ef023",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8b273ff13dadd43f9b1ef023\noriginal_word_count: 452\n\nPassage:\nIn the morning she was found dead in her bed, having apparently suffered no pain. Sir Mathew Reid had been sent for at once, but, of course, there was nothing to be done, and she was to be buried on the 22nd at Beauchamp Chalcote. A few days before she died she had made her will, and left Lord Arthur her little house in Curzon Street, and all her furniture, personal effects, and pictures, with the exception of her collection of miniatures, which was to go to her sister, Lady Margaret Rufford, and her amethyst necklace, which Sybil Merton was to have. The property was not of much value; but Mr. Mansfield, the solicitor, was extremely anxious for Lord Arthur to return at once, if possible, as there were a great many bills to be paid, and Lady Clementina had never kept any regular accounts.\n\nLord Arthur was very much touched by Lady Clementina’s kind remembrance of him, and felt that Mr. Podgers had a great deal to answer for. His love of Sybil, however, dominated every other emotion, and the consciousness that he had done his duty gave him peace and comfort. When he arrived at Charing Cross, he felt perfectly happy.\n\nThe Mertons received him very kindly. Sybil made him promise that he would never again allow anything to come between them, and the marriage was fixed for the 7th June. Life seemed to him once more bright and beautiful, and all his old gladness came back to him again.\n\nOne day, however, as he was going over the house in Curzon Street, in company with Lady Clementina’s solicitor and Sybil herself, burning packages of faded letters, and turning out drawers of odd rubbish, the young girl suddenly gave a little cry of delight.\n\n‘What have you found, Sybil?’ said Lord Arthur, looking up from his work, and smiling.\n\n‘This lovely little silver _bonbonnière_, Arthur. Isn’t it quaint and Dutch? Do give it to me! I know amethysts won’t become me till I am over eighty.’\n\nIt was the box that had held the aconitine.\n\nLord Arthur started, and a faint blush came into his cheek. He had almost entirely forgotten what he had done, and it seemed to him a curious coincidence that Sybil, for whose sake he had gone through all that terrible anxiety, should have been the first to remind him of it.\n\n‘Of course you can have it, Sybil. I gave it to poor Lady Clem myself.’\n\n‘Oh! thank you, Arthur; and may I have the _bonbon_ too? I had no notion that Lady Clementina liked sweets. I thought she was far too intellectual.’\n\nLord Arthur grew deadly pale, and a horrible idea crossed his mind."
+      },
+      "request_id": "8b273ff13dadd43f9b1ef023",
+      "request_sha256": "b4db00236852a17d8434a4aca579853aed231a83bf5cda9a86764f4f4721e2fb",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fa2b8382a00e77cfd839514f424ba969361d2242c4db10e0c0b6d8060d062a1c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a0a9025d679cc99b748776bb",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_twain_tom_sawyer_006",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: a0a9025d679cc99b748776bb\noriginal_word_count: 450\n\nPassage:\nBut no, there was something gaudier even than this. He would be a pirate! That was it! _now_ his future lay plain before him, and glowing with unimaginable splendor. How his name would fill the world, and make people shudder! How gloriously he would go plowing the dancing seas, in his long, low, black-hulled racer, the Spirit of the Storm, with his grisly flag flying at the fore! And at the zenith of his fame, how he would suddenly appear at the old village and stalk into church, brown and weather-beaten, in his black velvet doublet and trunks, his great jack-boots, his crimson sash, his belt bristling with horse-pistols, his crime-rusted cutlass at his side, his slouch hat with waving plumes, his black flag unfurled, with the skull and crossbones on it, and hear with swelling ecstasy the whisperings, “It’s Tom Sawyer the Pirate!—the Black Avenger of the Spanish Main!”\n\nYes, it was settled; his career was determined. He would run away from home and enter upon it. He would start the very next morning. Therefore he must now begin to get ready. He would collect his resources together. He went to a rotten log near at hand and began to dig under one end of it with his Barlow knife. He soon struck wood that sounded hollow. He put his hand there and uttered this incantation impressively:\n\n“What hasn’t come here, come! What’s here, stay here!”\n\nThen he scraped away the dirt, and exposed a pine shingle. He took it up and disclosed a shapely little treasure-house whose bottom and sides were of shingles. In it lay a marble. Tom’s astonishment was boundless! He scratched his head with a perplexed air, and said:\n\n“Well, that beats anything!”\n\nThen he tossed the marble away pettishly, and stood cogitating. The truth was, that a superstition of his had failed, here, which he and all his comrades had always looked upon as infallible. If you buried a marble with certain necessary incantations, and left it alone a fortnight, and then opened the place with the incantation he had just used, you would find that all the marbles you had ever lost had gathered themselves together there, meantime, no matter how widely they had been separated. But now, this thing had actually and unquestionably failed. Tom’s whole structure of faith was shaken to its foundations. He had many a time heard of this thing succeeding but never of its failing before. It did not occur to him that he had tried it several times before, himself, but could never find the hiding-places afterward. He puzzled over the matter some time, and finally decided that some witch had interfered and broken the charm."
+      },
+      "request_id": "a0a9025d679cc99b748776bb",
+      "request_sha256": "2eb9467399bf6b57ebb3fa3a5ae202c01cb5160b7687382faf830aa64475910e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2fa1ad0d27b12ee18a3e3b443b99386a68f6eec8231482507be9e80e2d272551"
+    }
+  ],
+  "session_id": "01a0e848-1788-74e3-94b7-8185fb822a0f",
+  "worker_id": "astra_m",
+  "worker_identity_sha256": "a661c68b1db9c5e5d4a06cab3427b000d00cd4134df771893194ef71da9b6fed"
+}

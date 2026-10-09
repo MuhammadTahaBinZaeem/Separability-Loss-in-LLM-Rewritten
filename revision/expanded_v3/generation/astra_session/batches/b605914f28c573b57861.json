@@ -1,0 +1,68 @@
+{
+  "batch_id": "b605914f28c573b57861",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:41:13.249735+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a862041e6d6da57f9c2c8827",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_wilde_dorian_gray_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: a862041e6d6da57f9c2c8827\noriginal_word_count: 450\n\nPassage:\nIt was long past noon when he awoke. His valet had crept several times on tiptoe into the room to see if he was stirring, and had wondered what made his young master sleep so late. Finally his bell sounded, and Victor came in softly with a cup of tea, and a pile of letters, on a small tray of old Sevres china, and drew back the olive-satin curtains, with their shimmering blue lining, that hung in front of the three tall windows.\n\n“Monsieur has well slept this morning,” he said, smiling.\n\n“What o’clock is it, Victor?” asked Dorian Gray drowsily.\n\n“One hour and a quarter, Monsieur.”\n\nHow late it was! He sat up, and having sipped some tea, turned over his letters. One of them was from Lord Henry, and had been brought by hand that morning. He hesitated for a moment, and then put it aside. The others he opened listlessly. They contained the usual collection of cards, invitations to dinner, tickets for private views, programmes of charity concerts, and the like that are showered on fashionable young men every morning during the season. There was a rather heavy bill for a chased silver Louis-Quinze toilet-set that he had not yet had the courage to send on to his guardians, who were extremely old-fashioned people and did not realize that we live in an age when unnecessary things are our only necessities; and there were several very courteously worded communications from Jermyn Street money-lenders offering to advance any sum of money at a moment’s notice and at the most reasonable rates of interest.\n\nAfter about ten minutes he got up, and throwing on an elaborate dressing-gown of silk-embroidered cashmere wool, passed into the onyx-paved bathroom. The cool water refreshed him after his long sleep. He seemed to have forgotten all that he had gone through. A dim sense of having taken part in some strange tragedy came to him once or twice, but there was the unreality of a dream about it.\n\nAs soon as he was dressed, he went into the library and sat down to a light French breakfast that had been laid out for him on a small round table close to the open window. It was an exquisite day. The warm air seemed laden with spices. A bee flew in and buzzed round the blue-dragon bowl that, filled with sulphur-yellow roses, stood before him. He felt perfectly happy.\n\nSuddenly his eye fell on the screen that he had placed in front of the portrait, and he started.\n\n“Too cold for Monsieur?” asked his valet, putting an omelette on the table. “I shut the window?”\n\nDorian shook his head. “I am not cold,” he murmured."
+      },
+      "request_id": "a862041e6d6da57f9c2c8827",
+      "request_sha256": "d7a000312c9627597a60e0b1c1ac87cfe1895bd22ee8bc62ff57733f2e61eb39",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "661547539c4d062225a1c0277228d1dcfbe471eee63a86bc33d4f1a5ce43dd47"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a27eb7a5d61d53a4bca96fdc",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 476,
+      "passage_id": "V2_twain_huckleberry_finn_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: a27eb7a5d61d53a4bca96fdc\noriginal_word_count: 476\n\nPassage:\nThe doctor was an old man; a very nice, kind-looking old man when I got him up. I told him me and my brother was over on Spanish Island hunting yesterday afternoon, and camped on a piece of a raft we found, and about midnight he must a kicked his gun in his dreams, for it went off and shot him in the leg, and we wanted him to go over there and fix it and not say nothing about it, nor let anybody know, because we wanted to come home this evening and surprise the folks.\n\n“Who is your folks?” he says.\n\n“The Phelpses, down yonder.”\n\n“Oh,” he says. And after a minute, he says:\n\n“How’d you say he got shot?”\n\n“He had a dream,” I says, “and it shot him.”\n\n“Singular dream,” he says.\n\nSo he lit up his lantern, and got his saddle-bags, and we started. But when he sees the canoe he didn’t like the look of her—said she was big enough for one, but didn’t look pretty safe for two. I says:\n\n“Oh, you needn’t be afeard, sir, she carried the three of us easy enough.”\n\n“What three?”\n\n“Why, me and Sid, and—and—and _the guns;_ that’s what I mean.”\n\n“Oh,” he says.\n\nBut he put his foot on the gunnel and rocked her, and shook his head, and said he reckoned he’d look around for a bigger one. But they was all locked and chained; so he took my canoe, and said for me to wait till he come back, or I could hunt around further, or maybe I better go down home and get them ready for the surprise if I wanted to. But I said I didn’t; so I told him just how to find the raft, and then he started.\n\nI struck an idea pretty soon. I says to myself, spos’n he can’t fix that leg just in three shakes of a sheep’s tail, as the saying is? spos’n it takes him three or four days? What are we going to do?—lay around there till he lets the cat out of the bag? No, sir; I know what _I’ll_ do. I’ll wait, and when he comes back if he says he’s got to go any more I’ll get down there, too, if I swim; and we’ll take and tie him, and keep him, and shove out down the river; and when Tom’s done with him we’ll give him what it’s worth, or all we got, and then let him get ashore.\n\nSo then I crept into a lumber-pile to get some sleep; and next time I waked up the sun was away up over my head! I shot out and went for the doctor’s house, but they told me he’d gone away in the night some time or other, and warn’t back yet."
+      },
+      "request_id": "a27eb7a5d61d53a4bca96fdc",
+      "request_sha256": "24146e580a3ce8e1258014fe759236f82de8c6b42d0e54e1bc4aa59cdc208123",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3d536e1bbfc46e07c3710e2f8a1c70ec8d714a5cf4e607c47df3113bf79bfd5e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b673214489f1f577440e5e79",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 472,
+      "passage_id": "V2_shelley_frankenstein_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: b673214489f1f577440e5e79\noriginal_word_count: 472\n\nPassage:\nI walked with a quick pace, and we soon arrived at my college. I then reflected, and the thought made me shiver, that the creature whom I had left in my apartment might still be there, alive and walking about. I dreaded to behold this monster, but I feared still more that Henry should see him. Entreating him, therefore, to remain a few minutes at the bottom of the stairs, I darted up towards my own room. My hand was already on the lock of the door before I recollected myself. I then paused, and a cold shivering came over me. I threw the door forcibly open, as children are accustomed to do when they expect a spectre to stand in waiting for them on the other side; but nothing appeared. I stepped fearfully in: the apartment was empty, and my bedroom was also freed from its hideous guest. I could hardly believe that so great a good fortune could have befallen me, but when I became assured that my enemy had indeed fled, I clapped my hands for joy and ran down to Clerval.\n\nWe ascended into my room, and the servant presently brought breakfast; but I was unable to contain myself. It was not joy only that possessed me; I felt my flesh tingle with excess of sensitiveness, and my pulse beat rapidly. I was unable to remain for a single instant in the same place; I jumped over the chairs, clapped my hands, and laughed aloud. Clerval at first attributed my unusual spirits to joy on his arrival, but when he observed me more attentively, he saw a wildness in my eyes for which he could not account, and my loud, unrestrained, heartless laughter frightened and astonished him.\n\n“My dear Victor,” cried he, “what, for God’s sake, is the matter? Do not laugh in that manner. How ill you are! What is the cause of all this?”\n\n“Do not ask me,” cried I, putting my hands before my eyes, for I thought I saw the dreaded spectre glide into the room; “_he_ can tell. Oh, save me! Save me!” I imagined that the monster seized me; I struggled furiously and fell down in a fit.\n\nPoor Clerval! What must have been his feelings? A meeting, which he anticipated with such joy, so strangely turned to bitterness. But I was not the witness of his grief, for I was lifeless and did not recover my senses for a long, long time.\n\nThis was the commencement of a nervous fever which confined me for several months. During all that time Henry was my only nurse. I afterwards learned that, knowing my father’s advanced age and unfitness for so long a journey, and how wretched my sickness would make Elizabeth, he spared them this grief by concealing the extent of my disorder."
+      },
+      "request_id": "b673214489f1f577440e5e79",
+      "request_sha256": "89640627c1cdcd69d99720c5f4ad3418c110f0890a3610aa74d8dd5354ae2557",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "70549ac9d5321f233a4c1679b49fa978be1e88ea060ed62b35b2b5325eee2be0"
+    }
+  ],
+  "session_id": "01a0e83d-4966-70c1-8c6a-f47c6ab2c73c",
+  "worker_id": "astra_j",
+  "worker_identity_sha256": "379c8d043a28d24c0180a7e1508526a74253a4abdfccf2558222841452c29a32"
+}

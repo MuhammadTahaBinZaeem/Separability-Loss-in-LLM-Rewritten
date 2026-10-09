@@ -1,0 +1,108 @@
+{
+  "adjudicated_cases": 19,
+  "adjudication_record_sha256": "262315c509b779be43915138fe2ec2f2a5708e89629535123ff52eec86bd6129",
+  "analysis_code_sha256": {
+    "annotations.py": "34b60ec7c102e8915edb5f19ee9766364e46247b2fbbe84110c744d50b770ae1",
+    "expanded_review.py": "ab9bfc76f9e9ee670be544eb5ec54c2439b308341b4ca207ed189a57cce3b64e",
+    "expanded_semantic.py": "46311ed153a17ac2745547fa7a03b7a9d0d6278defbf0a7d98a222eeebf71397",
+    "io.py": "87bd1528755cb2c09709cc4de5f120911f3d53ba5ef50a20666a74d84d7b24d2",
+    "markdown_review.py": "22ffe76ad29b2076a29a928f4956efe4e98153c86e5ad95b3c80d91e38c43d9b",
+    "review_app.py": "947277110c0e9b4b82341ca63c0b646c76cc31a03d0d867633aa45757c33cd9a",
+    "review_chronology.py": "106bab3f745849d151897205f2c08c834590756749cd6d1d88ed1c0b3cc094e4",
+    "review_finalize.py": "b972563f6099feaac074addba1fa599c5d2ab5912f8857373f7f10e851f83015",
+    "review_return_audit.py": "890c7b8ce43d192165a41fe8099449be7398f841c21a1c438bf0c98c3b77da55"
+  },
+  "assignment_key_sha256": "c321e0a4c7e86c81946ad9fac8559c0e82c7e398e9df9fc0672f6712bb327cb8",
+  "disputed_fields": 24,
+  "format_version": 1,
+  "independence_objectively_verified": false,
+  "initial_ratings_overwritten": false,
+  "investigator_statement_sha256": "875f34242015cc50664e8bdbf9a7d0449d5106bc59d2e84db7d9079f2d606b9b",
+  "issued_manifest_sha256": "7b1f81b2d1fabf7cb6a62bb5750f33e4f72bffc6633cde9417e1adb992d7f442",
+  "output_hashes": {
+    "adjudication_decisions.csv": "2d4f5048438fce483cfdf29c63db40bda5445adf0af539342cc29c2b0134bab3",
+    "agreement.csv": "4b2884d1f2d79ec40190f179dc14040fd7368cf12e77c46335bd44ec52cad418",
+    "comparisons.csv": "b53087badc2846198f749a46b815a3c72f5ad7f6db345fc87d2a188fce7455cd",
+    "flags.csv": "7d1db5ed09e620db4148c0c0c1394f8faac22e7845684a18a875aba20f9a3be9",
+    "participant_methods.json": "c666e99c12a41bb8f095522dc3d3074e94cc40105581681fa06d2a6d6977c4df",
+    "rating_summary.csv": "6f2742220d6af2a1139a9e15db7113fd2573230fc1254f0bbd07a09a5a3f0fea",
+    "ratings.csv": "290fe32d5e6103e2a8f0d018e3a6efa2cd0879f07c8df1ad0b025299b07594a1",
+    "source_verdicts.csv": "8c19b6fcb798427a305b5c7f2a5a82cf757b8c9c0f9b122aa139c9040df4a751"
+  },
+  "primary_evidence": {
+    "astra_session": {
+      "manifest_sha256": "f2a11ce6528ef00ac7b5914ab5a08add7a85b55b191f84bb68639493ba8cce41",
+      "predictions_sha256": "83e82832b9e091760bfd3c9954eba7d94b52c4f40e25f48ce72e12ced809b2f5"
+    },
+    "azure_replication": {
+      "manifest_sha256": "c894bd17990af5d1889b4f3b314150a32a4b23635bc9fb92007dbdf84b558f6a",
+      "predictions_sha256": "4d0544778fe19dddd58bd7f9da11d181012a3590d45cd7902a2e986840da9591"
+    },
+    "codex51": {
+      "manifest_sha256": "9a07b23d50104bc8882d891af2eaf3bc4a20e513296effd47e15d29eb1c07e4a",
+      "predictions_sha256": "888b0825ea5d4561a1278fe0bdae553f2696229377fad57e9b02ef0782edcf70"
+    },
+    "gem31lite": {
+      "manifest_sha256": "cd00613f2caa93edadfff7c43469a6ff38ca812e4a953d53f8f240e75aaa2ff2",
+      "predictions_sha256": "274b1f2ffb5716b23b13c06372fdd3bd0f337d040c831be462eec26abff5aa45"
+    },
+    "luna56": {
+      "manifest_sha256": "db00a3ec91409c55170bff1f4033f8eb3d4198988afb97e9d201cd6b2d8f211c",
+      "predictions_sha256": "75c063134e5f34813d7345cbb7b5b49f41e17053921138ab95110cf89ac98842"
+    },
+    "terra56": {
+      "manifest_sha256": "9b89031583131b88db282838214d6a1bcba7c9a353d192f0a888b583368b0d54",
+      "predictions_sha256": "7d7cd761bff761b955758a2b5a40800869ea55d2f121afb512dc63e1b8217efd"
+    }
+  },
+  "public_ratings_replay_passed": true,
+  "ratings": 3240,
+  "registered_return_record_sha256": {
+    "reviewer_01": "a5169f3b05c13fd00ed0263b90a4898a2eaf4274b4230abc454569245947a2f8",
+    "reviewer_02": "b08d1dc9b07fac24bb57580379ead18f340f762735450a8e51818053f3622a66",
+    "reviewer_03": "0c16890a25ce818508384188b10ebd48685bf711335a19c35e6f90be0440a3f3",
+    "reviewer_04": "b77c59015d3c33601b23e90a61e1c856d8e3e33fff495d90fa15e7fe61d686e0",
+    "reviewer_05": "397d8bef56d270383148ec23355e30dbe10805b4da2ebd012adac02cc89e90ba",
+    "reviewer_06": "442e7a436a73a7103c1e452054aaa73f1442745432a64361708aec5e61dabf23",
+    "reviewer_07": "74429ba0574696fb04c52f540a77db2bfaebc9dcc04a748058b0f70f7e78d7a8",
+    "reviewer_08": "6a84de1a4ccbb5d9dbc1ea6c33dc829280865f4933e8e24cb399749d5eb622c3",
+    "reviewer_09": "2df595bc55c496c2a302154a101503b6397960fc4dcd494735f4a47e603798cc"
+  },
+  "remaining": [
+    "Document the actual applicable institutional ethics approval/exemption basis and any consent documentation required for submission/deposit",
+    "Investigator rights/license, authorship/contribution and assistance disclosures",
+    "Actual archival deposit/DOI and journal submission checks",
+    "Manuscript writing, explicitly deferred"
+  ],
+  "result_replay_passed": true,
+  "review_complete": true,
+  "risk_union_pairs": 121,
+  "same_results_as_preserved_provisional_audit": true,
+  "scope": "Descriptive paired audited-subset sensitivity only; unreviewed pairs are not certified clean.",
+  "semantic_pairs": 1620,
+  "semantic_validation_sha256": "2dd836eae8e5b4739334960f85a0935297656c93f0dde9502d0e6eea3a149466",
+  "source_member_sha256": {
+    "reviewer_01.md": "b94210d252e7f37af99d9910f4413fbb98b3775f49148ca75fe7ba77b2ef248c",
+    "reviewer_02.md": "6f7b6059e686ee08fe0abe709c4cac510b28f1584164bf4d9eb12c29e20c9e52",
+    "reviewer_03.md": "ee1b5a6918bc816d30ae660f858de9ac2bcf802730f4e05382c711828431fb66",
+    "reviewer_04.md": "dd7c4fb6bfb943b180425cd4bfc100d848d272eb044f525a94541ab59b651a56",
+    "reviewer_05.md": "9f6aa1f6a89677c7f7e09c95241c88f34443551f49bfe1803224e0643d8188f4",
+    "reviewer_06.md": "c95e2c70327c70275ce5e33dbdf860d13435063e94e701b9e9001c608af26422",
+    "reviewer_07.md": "60b4adae9fdfcfc66930fd7feaef83bf2dcfb7a46477428bdf75d45c6152a491",
+    "reviewer_08.md": "347d6e46f1ca0148077df879d6bcea409681b32dbc922162c31a0a56fcaa4449",
+    "reviewer_09.md": "5f47df2ff76aecc7441425e77ea84ed64d944a35e7b194f48ed1dbf1bb0386f5",
+    "reviewer_10.md": "a27aafec0a6ad9510017473e6135ff9561dda569efe3cefe3270e2276e23d900"
+  },
+  "source_validation": {
+    "passed": true,
+    "previous_review_sha256": "bc0528a9b7029eb9c6b31198687a64c8b338881f7180f778049bb2d1f29eb0c9",
+    "previously_reviewed_unchanged": 356,
+    "replacement_flagged": 0,
+    "replacement_return_sha256": "1596b8153f7dab8a6916b4ab25fff2783a1e54737f9986f4beca3547a2c0fb44",
+    "replacement_reviewed": 4
+  },
+  "source_zip_sha256": "e7270f8a5f732a885d8e8ce3c6a5095979937280264c70672d44e50cb3fe8a83",
+  "stage": "registered_investigator_reported_reviews",
+  "submission_ethics_gate_satisfied": false,
+  "submission_ready": false
+}

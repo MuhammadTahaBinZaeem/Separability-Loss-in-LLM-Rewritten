@@ -1,0 +1,9 @@
+{
+  "corpus_sha256": "ce6c6a3687b3545460fa014b348cb2ed6dd49a8283006f866a8b9680dc5ca7ef",
+  "model": "gemini-3.1-flash-lite",
+  "model_config_sha256": "1be13dedfc78b44890237d09b054b9d068fa202ded984560c938d5a78b751982",
+  "model_key": "gem31lite",
+  "plan_sha256_at_freeze": "512784d3546db484dde1fb8ed86f6a3b2de8a6dc2dea1e47503b93bf88fc6f71",
+  "request_count": 1080,
+  "requests_sha256": "a549d8c679ddcf946ed5f51923fffc80d5a35dee902e0202b7de440543a0a1c2"
+}

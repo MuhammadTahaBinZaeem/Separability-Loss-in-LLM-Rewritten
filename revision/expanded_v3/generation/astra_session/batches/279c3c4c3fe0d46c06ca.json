@@ -1,0 +1,68 @@
+{
+  "batch_id": "279c3c4c3fe0d46c06ca",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:14:26.971994+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "29eb9d992d62dcb8ba4caa67",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 29eb9d992d62dcb8ba4caa67\noriginal_word_count: 450\n\nPassage:\n‘Well, _monsieur le mauvais sujet_,’ cried the old lady, as he entered the room, ‘why haven’t you been to see me all this time?’\n\n‘My dear Lady Clem, I never have a moment to myself,’ said Lord Arthur, smiling.\n\n‘I suppose you mean that you go about all day long with Miss Sybil Merton, buying _chiffons_ and talking nonsense? I cannot understand why people make such a fuss about being married. In my day we never dreamed of billing and cooing in public, or in private for that matter.’\n\n‘I assure you I have not seen Sybil for twenty-four hours, Lady Clem. As far as I can make out, she belongs entirely to her milliners.’\n\n‘Of course; that is the only reason you come to see an ugly old woman like myself. I wonder you men don’t take warning. _On a fait des folies pour moi_, and here I am, a poor rheumatic creature, with a false front and a bad temper. Why, if it were not for dear Lady Jansen, who sends me all the worst French novels she can find, I don’t think I could get through the day. Doctors are no use at all, except to get fees out of one. They can’t even cure my heartburn.’\n\n‘I have brought you a cure for that, Lady Clem,’ said Lord Arthur gravely. ‘It is a wonderful thing, invented by an American.’\n\n‘I don’t think I like American inventions, Arthur. I am quite sure I don’t. I read some American novels lately, and they were quite nonsensical.’\n\n‘Oh, but there is no nonsense at all about this, Lady Clem! I assure you it is a perfect cure. You must promise to try it’; and Lord Arthur brought the little box out of his pocket, and handed it to her.\n\n‘Well, the box is charming, Arthur. Is it really a present? That is very sweet of you. And is this the wonderful medicine? It looks like a _bonbon_. I’ll take it at once.’\n\n‘Good heavens! Lady Clem,’ cried Lord Arthur, catching hold of her hand, ‘you mustn’t do anything of the kind. It is a homoeopathic medicine, and if you take it without having heartburn, it might do you no end of harm. Wait till you have an attack, and take it then. You will be astonished at the result.’\n\n‘I should like to take it now,’ said Lady Clementina, holding up to the light the little transparent capsule, with its floating bubble of liquid aconitine. I am sure it is delicious. The fact is that, though I hate doctors, I love medicines. However, I’ll keep it till my next attack.’\n\n‘And when will that be?’ asked Lord Arthur eagerly."
+      },
+      "request_id": "29eb9d992d62dcb8ba4caa67",
+      "request_sha256": "45f6e9f420ab63e72a6bc70176122e31a55d343ea621b452c7c78295ea284b30",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f1ccb87c3d62f86805b9501b8bd7b5daad314314e862d37254fd3c46b35e64a2"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "69c1a0afa5e44b7cf2dcbd3f",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_austen_pride_and_prejudice_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 69c1a0afa5e44b7cf2dcbd3f\noriginal_word_count: 453\n\nPassage:\nJane confessed herself a little surprised at the match: but she said less of her astonishment than of her earnest desire for their happiness; nor could Elizabeth persuade her to consider it as improbable. Kitty and Lydia were far from envying Miss Lucas, for Mr. Collins was only a clergyman; and it affected them in no other way than as a piece of news to spread at Meryton.\n\nLady Lucas could not be insensible of triumph on being able to retort on Mrs. Bennet the comfort of having a daughter well married; and she called at Longbourn rather oftener than usual to say how happy she was, though Mrs. Bennet’s sour looks and ill-natured remarks might have been enough to drive happiness away.\n\nBetween Elizabeth and Charlotte there was a restraint which kept them mutually silent on the subject; and Elizabeth felt persuaded that no real confidence could ever subsist between them again. Her disappointment in Charlotte made her turn with fonder regard to her sister, of whose rectitude and delicacy she was sure her opinion could never be shaken, and for whose happiness she grew daily more anxious, as Bingley had now been gone a week, and nothing was heard of his return.\n\nJane had sent Caroline an early answer to her letter, and was counting the days till she might reasonably hope to hear again. The promised letter of thanks from Mr. Collins arrived on Tuesday, addressed to their father, and written with all the solemnity of gratitude which a twelve-month’s abode in the family might have prompted. After discharging his conscience on that head, he proceeded to inform them, with many rapturous expressions, of his happiness in having obtained the affection of their amiable neighbour, Miss Lucas, and then explained that it was merely with the view of enjoying her society that he had been so ready to close with their kind wish of seeing him again at Longbourn, whither he hoped to be able to return on Monday fortnight; for Lady Catherine, he added, so heartily approved his marriage, that she wished it to take place as soon as possible, which he trusted would be an unanswerable argument with his amiable Charlotte to name an early day for making him the happiest of men.\n\nMr. Collins’s return into Hertfordshire was no longer a matter of pleasure to Mrs. Bennet. On the contrary, she was as much disposed to complain of it as her husband. It was very strange that he should come to Longbourn instead of to Lucas Lodge; it was also very inconvenient and exceedingly troublesome. She hated having visitors in the house while her health was so indifferent, and lovers were of all people the most disagreeable."
+      },
+      "request_id": "69c1a0afa5e44b7cf2dcbd3f",
+      "request_sha256": "590d682fdffd7d8f31a67ccbb690e85c37d9d7279c305623d68c5da3f7e9117b",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "43fb06a7d0238249cbaa4e7ae5d62ea0153c66fa80d62bf9c0370d37c85b595e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "a64dd0d903dc288d3379fefd",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 466,
+      "passage_id": "V2_twain_huckleberry_finn_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: a64dd0d903dc288d3379fefd\noriginal_word_count: 466\n\nPassage:\nI was sorry to hear Jim say that, it was such a lowering of him. My conscience got to stirring me up hotter than ever, until at last I says to it, “Let up on me—it ain’t too late yet—I’ll paddle ashore at the first light and tell.” I felt easy and happy and light as a feather right off. All my troubles was gone. I went to looking out sharp for a light, and sort of singing to myself. By-and-by one showed. Jim sings out:\n\n“We’s safe, Huck, we’s safe! Jump up and crack yo’ heels! Dat’s de good ole Cairo at las’, I jis knows it!”\n\nI says:\n\n“I’ll take the canoe and go and see, Jim. It mightn’t be, you know.”\n\nHe jumped and got the canoe ready, and put his old coat in the bottom for me to set on, and give me the paddle; and as I shoved off, he says:\n\n“Pooty soon I’ll be a-shout’n’ for joy, en I’ll say, it’s all on accounts o’ Huck; I’s a free man, en I couldn’t ever ben free ef it hadn’ ben for Huck; Huck done it. Jim won’t ever forgit you, Huck; you’s de bes’ fren’ Jim’s ever had; en you’s de _only_ fren’ ole Jim’s got now.”\n\nI was paddling off, all in a sweat to tell on him; but when he says this, it seemed to kind of take the tuck all out of me. I went along slow then, and I warn’t right down certain whether I was glad I started or whether I warn’t. When I was fifty yards off, Jim says:\n\n“Dah you goes, de ole true Huck; de on’y white genlman dat ever kep’ his promise to ole Jim.”\n\nWell, I just felt sick. But I says, I _got_ to do it—I can’t get _out_ of it. Right then along comes a skiff with two men in it with guns, and they stopped and I stopped. One of them says:\n\n“What’s that yonder?”\n\n“A piece of a raft,” I says.\n\n“Do you belong on it?”\n\n“Yes, sir.”\n\n“Any men on it?”\n\n“Only one, sir.”\n\n“Well, there’s five niggers run off to-night up yonder, above the head of the bend. Is your man white or black?”\n\nI didn’t answer up prompt. I tried to, but the words wouldn’t come. I tried for a second or two to brace up and out with it, but I warn’t man enough—hadn’t the spunk of a rabbit. I see I was weakening; so I just give up trying, and up and says:\n\n“He’s white.”\n\n“I reckon we’ll go and see for ourselves.”\n\n“I wish you would,” says I, “because it’s pap that’s there, and maybe you’d help me tow the raft ashore where the light is."
+      },
+      "request_id": "a64dd0d903dc288d3379fefd",
+      "request_sha256": "3941a3d0df696be45fbd6c331c36f5d16428ceef10df48832069fcb86d228a49",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1a21f278b419b4bc66cd0377a7f223f2772e582bf37a4153335707789048be33"
+    }
+  ],
+  "session_id": "01a0e85b-f4da-78c2-af90-17d8fea0262a",
+  "worker_id": "astra_r",
+  "worker_identity_sha256": "1a9221512f2af9568b0b6124d87657856f97eb8192807e50db5ed5d6fe4cdc4b"
+}

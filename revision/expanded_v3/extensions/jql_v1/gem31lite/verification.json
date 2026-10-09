@@ -1,0 +1,14 @@
+{
+  "contrast_rows": 135,
+  "manifest_sha256": "48e34afd6cdd015f6d317ff90421ccce368ca5064a603abe53e290032684fb59",
+  "matrix_cells": 240,
+  "model_key": "gem31lite",
+  "not_independent_human_review": true,
+  "passed": true,
+  "prediction_rows": 82320,
+  "submission_ready": false,
+  "transforms_refitted": 75,
+  "verified_scope": "hashes_cohorts_views_fold_alignment_transform_refits_scores_and_paired_CIs",
+  "verified_utc": "2026-09-26T11:21:47.367493+00:00",
+  "verifier_sha256": "48ee1cd6bbff6aaaf062f6333846a3f701c38d453dc867aceb501678b859d973"
+}

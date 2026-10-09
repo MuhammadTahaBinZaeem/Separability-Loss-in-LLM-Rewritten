@@ -1,0 +1,68 @@
+{
+  "batch_id": "6fdc89fde44d3afa06d9",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:20:58.244282+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2406d92a8648ce7c9be74f95",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 483,
+      "passage_id": "V2_austen_persuasion_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2406d92a8648ce7c9be74f95\noriginal_word_count: 483\n\nPassage:\nMr Elliot looking up with so much respect.”\n\n“Quite delightful!” cried Mrs Clay, not daring, however, to turn her eyes towards Anne. “Exactly like father and son! Dear Miss Elliot, may I not say father and son?”\n\n“Oh! I lay no embargo on any body’s words. If you will have such ideas! But, upon my word, I am scarcely sensible of his attentions being beyond those of other men.”\n\n“My dear Miss Elliot!” exclaimed Mrs Clay, lifting her hands and eyes, and sinking all the rest of her astonishment in a convenient silence.\n\n“Well, my dear Penelope, you need not be so alarmed about him. I did invite him, you know. I sent him away with smiles. When I found he was really going to his friends at Thornberry Park for the whole day to-morrow, I had compassion on him.”\n\nAnne admired the good acting of the friend, in being able to shew such pleasure as she did, in the expectation and in the actual arrival of the very person whose presence must really be interfering with her prime object. It was impossible but that Mrs Clay must hate the sight of Mr Elliot; and yet she could assume a most obliging, placid look, and appear quite satisfied with the curtailed license of devoting herself only half as much to Sir Walter as she would have done otherwise.\n\nTo Anne herself it was most distressing to see Mr Elliot enter the room; and quite painful to have him approach and speak to her. She had been used before to feel that he could not be always quite sincere, but now she saw insincerity in everything. His attentive deference to her father, contrasted with his former language, was odious; and when she thought of his cruel conduct towards Mrs Smith, she could hardly bear the sight of his present smiles and mildness, or the sound of his artificial good sentiments.\n\nShe meant to avoid any such alteration of manners as might provoke a remonstrance on his side. It was a great object to her to escape all enquiry or eclat; but it was her intention to be as decidedly cool to him as might be compatible with their relationship; and to retrace, as quietly as she could, the few steps of unnecessary intimacy she had been gradually led along. She was accordingly more guarded, and more cool, than she had been the night before.\n\nHe wanted to animate her curiosity again as to how and where he could have heard her formerly praised; wanted very much to be gratified by more solicitation; but the charm was broken: he found that the heat and animation of a public room was necessary to kindle his modest cousin’s vanity; he found, at least, that it was not to be done now, by any of those attempts which he could hazard among the too-commanding claims of the others."
+      },
+      "request_id": "2406d92a8648ce7c9be74f95",
+      "request_sha256": "edc5ef79fca6fadf2534ecfc6b0d54dbbd82cc29990bc732a4e92e17f367882e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "153f6af1e207d7c915659382de181ce442c830d35d402f2f8662c5a2e732fd72"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6eeb9b6386c95da1d475691a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 476,
+      "passage_id": "V2_shelley_mathilda_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 6eeb9b6386c95da1d475691a\noriginal_word_count: 476\n\nPassage:\nWith a beating heart and fearful, I knew not why, I dismissed the servant and locking my door, sat down to read my father’s letter. These are the words that it contained.\n\n“My dear Child\n\n“I have betrayed your confidence; I have endeavoured to pollute your mind, and have made your innocent heart acquainted with the looks and language of unlawful and monstrous passion. I must expiate these crimes, and must endeavour in some degree to proportionate my punishment to my guilt. You are I doubt not prepared for what I am about to announce; we must seperate and be divided for ever.\n\n“I deprive you of your parent and only friend. You are cast out shelterless on the world: your hopes are blasted; the peace and security of your pure mind destroyed; memory will bring to you frightful images of guilt, and the anguish of innocent love betrayed. Yet I who draw down all this misery upon you; I who cast you forth and remorselessly have set the seal of distrust and agony on the heart and brow of my own child, who with devilish levity have endeavoured to steal away her loveliness to place in its stead the foul deformity of sin; I, in the overflowing anguish of my heart, supplicate you to forgive me.\n\n“I do not ask your pity; you must and do abhor me: but pardon me, Mathilda, and let not your thoughts follow me in my banishment with unrelenting anger. I must never more behold you; never more hear your voice; but the soft whisperings of your forgiveness will reach me and cool the burning of my disordered brain and heart; I am sure I should feel it even in my grave. And I dare enforce this request by relating how miserably I was betrayed into this net of fiery anguish and all my struggles to release myself: indeed if your soul were less pure and bright I would not attempt to exculpate myself to you; I should fear that if I led you to regard me with less abhorrence you might hate vice less: but in addressing you I feel as if I appealed to an angelic judge. I cannot depart without your forgiveness and I must endeavour to gain it, or I must despair. I conjure you therefore to listen to my words, and if with the good guilt may be in any degree extenuated by sharp agony, and remorse that rends the brain as madness perhaps you may think, though I dare not, that I have some claim to your compassion.\n\n“I entreat you to call to your remembrance our first happy life on the shores of Loch Lomond. I had arrived from a weary wandering of sixteen years, during which, although I had gone through many dangers and misfortunes, my affections had been an entire blank."
+      },
+      "request_id": "6eeb9b6386c95da1d475691a",
+      "request_sha256": "8c47bf3b91accc8f32eccfac2e49c11ea772f4c0cc9467e5193e8cf7fb8f1718",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2f1c9c116a265707bad98e655cef5de017a66a485b872774c1cec2f3b775baaf"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e56564f1f342414f25b2e278",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 509,
+      "passage_id": "V2_poe_hans_pfaal_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e56564f1f342414f25b2e278\noriginal_word_count: 509\n\nPassage:\n“April 19th. This morning, to my great joy, about nine o’clock, the surface of the moon being frightfully near, and my apprehensions excited to the utmost, the pump of my condenser at length gave evident tokens of an alteration in the atmosphere. By ten, I had reason to believe its density considerably increased. By eleven, very little labor was necessary at the apparatus; and at twelve o’clock, with some hesitation, I ventured to unscrew the tourniquet, when, finding no inconvenience from having done so, I finally threw open the gum-elastic chamber, and unrigged it from around the car. As might have been expected, spasms and violent headache were the immediate consequences of an experiment so precipitate and full of danger. But these and other difficulties attending respiration, as they were by no means so great as to put me in peril of my life, I determined to endure as I best could, in consideration of my leaving them behind me momently in my approach to the denser strata near the moon. This approach, however, was still impetuous in the extreme; and it soon became alarmingly certain that, although I had probably not been deceived in the expectation of an atmosphere dense in proportion to the mass of the satellite, still I had been wrong in supposing this density, even at the surface, at all adequate to the support of the great weight contained in the car of my balloon. Yet this should have been the case, and in an equal degree as at the surface of the earth, the actual gravity of bodies at either planet supposed in the ratio of the atmospheric condensation. That it was not the case, however, my precipitous downfall gave testimony enough; why it was not so, can only be explained by a reference to those possible geological disturbances to which I have formerly alluded. At all events I was now close upon the planet, and coming down with the most terrible impetuosity. I lost not a moment, accordingly, in throwing overboard first my ballast, then my water-kegs, then my condensing apparatus and gum-elastic chamber, and finally every article within the car. But it was all to no purpose. I still fell with horrible rapidity, and was now not more than half a mile from the surface. As a last resource, therefore, having got rid of my coat, hat, and boots, I cut loose from the balloon the car itself, which was of no inconsiderable weight, and thus, clinging with both hands to the net-work, I had barely time to observe that the whole country, as far as the eye could reach, was thickly interspersed with diminutive habitations, ere I tumbled headlong into the very heart of a fantastical-looking city, and into the middle of a vast crowd of ugly little people, who none of them uttered a single syllable, or gave themselves the least trouble to render me assistance, but stood, like a parcel of idiots, grinning in a ludicrous manner, and eyeing me and my balloon askant, with their arms set a-kimbo."
+      },
+      "request_id": "e56564f1f342414f25b2e278",
+      "request_sha256": "17c43f08584957d67bdafc1a525fa97691e4c40ab9eecc5d6c0136762bf1b9c7",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7c2d571d1c70481157ecbc4d3bce0914cf7d5099ff96a0ec4638dd0bfd9fe7b7"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

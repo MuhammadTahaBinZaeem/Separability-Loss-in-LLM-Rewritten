@@ -1,0 +1,68 @@
+{
+  "batch_id": "401bd087508a90035c72",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:31:43.525748+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "48391dc449b8f5241995de8f",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 48391dc449b8f5241995de8f\noriginal_word_count: 452\n\nPassage:\nIn the morning she was found dead in her bed, having apparently suffered no pain. Sir Mathew Reid had been sent for at once, but, of course, there was nothing to be done, and she was to be buried on the 22nd at Beauchamp Chalcote. A few days before she died she had made her will, and left Lord Arthur her little house in Curzon Street, and all her furniture, personal effects, and pictures, with the exception of her collection of miniatures, which was to go to her sister, Lady Margaret Rufford, and her amethyst necklace, which Sybil Merton was to have. The property was not of much value; but Mr. Mansfield, the solicitor, was extremely anxious for Lord Arthur to return at once, if possible, as there were a great many bills to be paid, and Lady Clementina had never kept any regular accounts.\n\nLord Arthur was very much touched by Lady Clementina’s kind remembrance of him, and felt that Mr. Podgers had a great deal to answer for. His love of Sybil, however, dominated every other emotion, and the consciousness that he had done his duty gave him peace and comfort. When he arrived at Charing Cross, he felt perfectly happy.\n\nThe Mertons received him very kindly. Sybil made him promise that he would never again allow anything to come between them, and the marriage was fixed for the 7th June. Life seemed to him once more bright and beautiful, and all his old gladness came back to him again.\n\nOne day, however, as he was going over the house in Curzon Street, in company with Lady Clementina’s solicitor and Sybil herself, burning packages of faded letters, and turning out drawers of odd rubbish, the young girl suddenly gave a little cry of delight.\n\n‘What have you found, Sybil?’ said Lord Arthur, looking up from his work, and smiling.\n\n‘This lovely little silver _bonbonnière_, Arthur. Isn’t it quaint and Dutch? Do give it to me! I know amethysts won’t become me till I am over eighty.’\n\nIt was the box that had held the aconitine.\n\nLord Arthur started, and a faint blush came into his cheek. He had almost entirely forgotten what he had done, and it seemed to him a curious coincidence that Sybil, for whose sake he had gone through all that terrible anxiety, should have been the first to remind him of it.\n\n‘Of course you can have it, Sybil. I gave it to poor Lady Clem myself.’\n\n‘Oh! thank you, Arthur; and may I have the _bonbon_ too? I had no notion that Lady Clementina liked sweets. I thought she was far too intellectual.’\n\nLord Arthur grew deadly pale, and a horrible idea crossed his mind."
+      },
+      "request_id": "48391dc449b8f5241995de8f",
+      "request_sha256": "d304d486cf0e4e974e44693b23319fc6b766a918d62db650ea61c29a13afdb8d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fa2b8382a00e77cfd839514f424ba969361d2242c4db10e0c0b6d8060d062a1c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "25206fa36999ea2c58b91225",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 458,
+      "passage_id": "V2_austen_emma_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 25206fa36999ea2c58b91225\noriginal_word_count: 458\n\nPassage:\nDuring his present short stay, Emma had barely seen him; but just enough to feel that the first meeting was over, and to give her the impression of his not being improved by the mixture of pique and pretension, now spread over his air. She was, in fact, beginning very much to wonder that she had ever thought him pleasing at all; and his sight was so inseparably connected with some very disagreeable feelings, that, except in a moral light, as a penance, a lesson, a source of profitable humiliation to her own mind, she would have been thankful to be assured of never seeing him again. She wished him very well; but he gave her pain, and his welfare twenty miles off would administer most satisfaction.\n\nThe pain of his continued residence in Highbury, however, must certainly be lessened by his marriage. Many vain solicitudes would be prevented—many awkwardnesses smoothed by it. A _Mrs._ _Elton_ would be an excuse for any change of intercourse; former intimacy might sink without remark. It would be almost beginning their life of civility again.\n\nOf the lady, individually, Emma thought very little. She was good enough for Mr. Elton, no doubt; accomplished enough for Highbury—handsome enough—to look plain, probably, by Harriet’s side. As to connexion, there Emma was perfectly easy; persuaded, that after all his own vaunted claims and disdain of Harriet, he had done nothing. On that article, truth seemed attainable. _What_ she was, must be uncertain; but _who_ she was, might be found out; and setting aside the 10,000 l., it did not appear that she was at all Harriet’s superior. She brought no name, no blood, no alliance. Miss Hawkins was the youngest of the two daughters of a Bristol—merchant, of course, he must be called; but, as the whole of the profits of his mercantile life appeared so very moderate, it was not unfair to guess the dignity of his line of trade had been very moderate also. Part of every winter she had been used to spend in Bath; but Bristol was her home, the very heart of Bristol; for though the father and mother had died some years ago, an uncle remained—in the law line—nothing more distinctly honourable was hazarded of him, than that he was in the law line; and with him the daughter had lived. Emma guessed him to be the drudge of some attorney, and too stupid to rise. And all the grandeur of the connexion seemed dependent on the elder sister, who was _very_ _well_ _married_, to a gentleman in a _great_ _way_, near Bristol, who kept two carriages! That was the wind-up of the history; that was the glory of Miss Hawkins."
+      },
+      "request_id": "25206fa36999ea2c58b91225",
+      "request_sha256": "75507aa7c192e2845aaa2f7299fcbae39c782f71373ac4e9ce0d9622abc121d1",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "db77ea49bb690ae9a8cdcbf7d6aa033b89c8521ed7bc2c5f10ec13f68624d5b0"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "de81fd86fb49261e46bac2d3",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 483,
+      "passage_id": "V2_austen_persuasion_017",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: de81fd86fb49261e46bac2d3\noriginal_word_count: 483\n\nPassage:\nMr Elliot looking up with so much respect.”\n\n“Quite delightful!” cried Mrs Clay, not daring, however, to turn her eyes towards Anne. “Exactly like father and son! Dear Miss Elliot, may I not say father and son?”\n\n“Oh! I lay no embargo on any body’s words. If you will have such ideas! But, upon my word, I am scarcely sensible of his attentions being beyond those of other men.”\n\n“My dear Miss Elliot!” exclaimed Mrs Clay, lifting her hands and eyes, and sinking all the rest of her astonishment in a convenient silence.\n\n“Well, my dear Penelope, you need not be so alarmed about him. I did invite him, you know. I sent him away with smiles. When I found he was really going to his friends at Thornberry Park for the whole day to-morrow, I had compassion on him.”\n\nAnne admired the good acting of the friend, in being able to shew such pleasure as she did, in the expectation and in the actual arrival of the very person whose presence must really be interfering with her prime object. It was impossible but that Mrs Clay must hate the sight of Mr Elliot; and yet she could assume a most obliging, placid look, and appear quite satisfied with the curtailed license of devoting herself only half as much to Sir Walter as she would have done otherwise.\n\nTo Anne herself it was most distressing to see Mr Elliot enter the room; and quite painful to have him approach and speak to her. She had been used before to feel that he could not be always quite sincere, but now she saw insincerity in everything. His attentive deference to her father, contrasted with his former language, was odious; and when she thought of his cruel conduct towards Mrs Smith, she could hardly bear the sight of his present smiles and mildness, or the sound of his artificial good sentiments.\n\nShe meant to avoid any such alteration of manners as might provoke a remonstrance on his side. It was a great object to her to escape all enquiry or eclat; but it was her intention to be as decidedly cool to him as might be compatible with their relationship; and to retrace, as quietly as she could, the few steps of unnecessary intimacy she had been gradually led along. She was accordingly more guarded, and more cool, than she had been the night before.\n\nHe wanted to animate her curiosity again as to how and where he could have heard her formerly praised; wanted very much to be gratified by more solicitation; but the charm was broken: he found that the heat and animation of a public room was necessary to kindle his modest cousin’s vanity; he found, at least, that it was not to be done now, by any of those attempts which he could hazard among the too-commanding claims of the others."
+      },
+      "request_id": "de81fd86fb49261e46bac2d3",
+      "request_sha256": "5dcb28ba97d85603ad8b61694d042bdc8018af6368d01a056bea6916c1de8513",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "153f6af1e207d7c915659382de181ce442c830d35d402f2f8662c5a2e732fd72"
+    }
+  ],
+  "session_id": "01a0e30c-4c57-7d42-8a5b-552475b979db",
+  "worker_id": "astra_d",
+  "worker_identity_sha256": "eb64fa28df048da360ccadb632274663ddef6a5ea680edeef0e51177dd1c0af7"
+}

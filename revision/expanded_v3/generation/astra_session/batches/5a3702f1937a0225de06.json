@@ -1,0 +1,68 @@
+{
+  "batch_id": "5a3702f1937a0225de06",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:10:22.389803+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4bbccb4026a278b4d50cbd30",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_wilde_dorian_gray_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 4bbccb4026a278b4d50cbd30\noriginal_word_count: 451\n\nPassage:\nSuddenly the painter appeared at the door of the studio and made staccato signs for them to come in. They turned to each other and smiled.\n\n“I am waiting,” he cried. “Do come in. The light is quite perfect, and you can bring your drinks.”\n\nThey rose up and sauntered down the walk together. Two green-and-white butterflies fluttered past them, and in the pear-tree at the corner of the garden a thrush began to sing.\n\n“You are glad you have met me, Mr. Gray,” said Lord Henry, looking at him.\n\n“Yes, I am glad now. I wonder shall I always be glad?”\n\n“Always! That is a dreadful word. It makes me shudder when I hear it. Women are so fond of using it. They spoil every romance by trying to make it last for ever. It is a meaningless word, too. The only difference between a caprice and a lifelong passion is that the caprice lasts a little longer.”\n\nAs they entered the studio, Dorian Gray put his hand upon Lord Henry’s arm. “In that case, let our friendship be a caprice,” he murmured, flushing at his own boldness, then stepped up on the platform and resumed his pose.\n\nLord Henry flung himself into a large wicker arm-chair and watched him. The sweep and dash of the brush on the canvas made the only sound that broke the stillness, except when, now and then, Hallward stepped back to look at his work from a distance. In the slanting beams that streamed through the open doorway the dust danced and was golden. The heavy scent of the roses seemed to brood over everything.\n\nAfter about a quarter of an hour Hallward stopped painting, looked for a long time at Dorian Gray, and then for a long time at the picture, biting the end of one of his huge brushes and frowning. “It is quite finished,” he cried at last, and stooping down he wrote his name in long vermilion letters on the left-hand corner of the canvas.\n\nLord Henry came over and examined the picture. It was certainly a wonderful work of art, and a wonderful likeness as well.\n\n“My dear fellow, I congratulate you most warmly,” he said. “It is the finest portrait of modern times. Mr. Gray, come over and look at yourself.”\n\nThe lad started, as if awakened from some dream.\n\n“Is it really finished?” he murmured, stepping down from the platform.\n\n“Quite finished,” said the painter. “And you have sat splendidly to-day. I am awfully obliged to you.”\n\n“That is entirely due to me,” broke in Lord Henry. “Isn’t it, Mr. Gray?”\n\nDorian made no answer, but passed listlessly in front of his picture and turned towards it."
+      },
+      "request_id": "4bbccb4026a278b4d50cbd30",
+      "request_sha256": "18fc57692f618cb3825fd62b1a199d0a3d51261e013b10d4d6a92459f35b4722",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "b71da560146bcaa89167bd035d6762793f6d400315be2a39a786219f513a08ef"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "0adb7204bd55f5ea1e0d4b31",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 457,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 0adb7204bd55f5ea1e0d4b31\noriginal_word_count: 457\n\nPassage:\nOf course, he was very amusing, and all that, but I was awfully disappointed; and when I asked him about the coat of mail, he only laughed, and said it was far too cold to wear in England. Ah, here is Mr. Podgers! Now, Mr. Podgers, I want you to tell the Duchess of Paisley’s hand. Duchess, you must take your glove off. No, not the left hand, the other.’\n\n‘Dear Gladys, I really don’t think it is quite right,’ said the Duchess, feebly unbuttoning a rather soiled kid glove.\n\n‘Nothing interesting ever is,’ said Lady Windermere: ‘_on a fait le monde ainsi_. But I must introduce you. Duchess, this is Mr. Podgers, my pet cheiromantist. Mr. Podgers, this is the Duchess of Paisley, and if you say that she has a larger mountain of the moon than I have, I will never believe in you again.’\n\n‘I am sure, Gladys, there is nothing of the kind in my hand,’ said the Duchess gravely.\n\n‘Your Grace is quite right,’ said Mr. Podgers, glancing at the little fat hand with its short square fingers, ‘the mountain of the moon is not developed. The line of life, however, is excellent. Kindly bend the wrist. Thank you. Three distinct lines on the _rascette_! You will live to a great age, Duchess, and be extremely happy. Ambition—very moderate, line of intellect not exaggerated, line of heart—’\n\n‘Now, do be indiscreet, Mr. Podgers,’ cried Lady Windermere.\n\n‘Nothing would give me greater pleasure,’ said Mr. Podgers, bowing, ‘if the Duchess ever had been, but I am sorry to say that I see great permanence of affection, combined with a strong sense of duty.’\n\n‘Pray go on, Mr. Podgers,’ said the Duchess, looking quite pleased.\n\n‘Economy is not the least of your Grace’s virtues,’ continued Mr. Podgers, and Lady Windermere went off into fits of laughter.\n\n‘Economy is a very good thing,’ remarked the Duchess complacently; ‘when I married Paisley he had eleven castles, and not a single house fit to live in.’\n\n‘And now he has twelve houses, and not a single castle,’ cried Lady Windermere.\n\n‘Well, my dear,’ said the Duchess, ‘I like—’\n\n‘Comfort,’ said Mr. Podgers, ‘and modern improvements, and hot water laid on in every bedroom. Your Grace is quite right. Comfort is the only thing our civilisation can give us.\n\n‘You have told the Duchess’s character admirably, Mr. Podgers, and now you must tell Lady Flora’s’; and in answer to a nod from the smiling hostess, a tall girl, with sandy Scotch hair, and high shoulder-blades, stepped awkwardly from behind the sofa, and held out a long, bony hand with spatulate fingers.\n\n‘Ah, a pianist! I see,’ said Mr. Podgers, ‘an excellent pianist, but perhaps hardly a musician."
+      },
+      "request_id": "0adb7204bd55f5ea1e0d4b31",
+      "request_sha256": "b2945674f91c51af69928ce45a482c59ef5b5171dc5b66446d5623c0fd93599c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0450e834d223c50a8b5db2d34afa165b0f2bb58d1d9c2e375fe3c13b4317cb8c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8ffcfe6de007dae7f27b9e71",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_austen_emma_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8ffcfe6de007dae7f27b9e71\noriginal_word_count: 465\n\nPassage:\nEmma did not repent her condescension in going to the Coles. The visit afforded her many pleasant recollections the next day; and all that she might be supposed to have lost on the side of dignified seclusion, must be amply repaid in the splendour of popularity. She must have delighted the Coles—worthy people, who deserved to be made happy!—And left a name behind her that would not soon die away.\n\nPerfect happiness, even in memory, is not common; and there were two points on which she was not quite easy. She doubted whether she had not transgressed the duty of woman by woman, in betraying her suspicions of Jane Fairfax’s feelings to Frank Churchill. It was hardly right; but it had been so strong an idea, that it would escape her, and his submission to all that she told, was a compliment to her penetration, which made it difficult for her to be quite certain that she ought to have held her tongue.\n\nThe other circumstance of regret related also to Jane Fairfax; and there she had no doubt. She did unfeignedly and unequivocally regret the inferiority of her own playing and singing. She did most heartily grieve over the idleness of her childhood—and sat down and practised vigorously an hour and a half.\n\nShe was then interrupted by Harriet’s coming in; and if Harriet’s praise could have satisfied her, she might soon have been comforted.\n\n“Oh! if I could but play as well as you and Miss Fairfax!”\n\n“Don’t class us together, Harriet. My playing is no more like her’s, than a lamp is like sunshine.”\n\n“Oh! dear—I think you play the best of the two. I think you play quite as well as she does. I am sure I had much rather hear you. Every body last night said how well you played.”\n\n“Those who knew any thing about it, must have felt the difference. The truth is, Harriet, that my playing is just good enough to be praised, but Jane Fairfax’s is much beyond it.”\n\n“Well, I always shall think that you play quite as well as she does, or that if there is any difference nobody would ever find it out. Mr. Cole said how much taste you had; and Mr. Frank Churchill talked a great deal about your taste, and that he valued taste much more than execution.”\n\n“Ah! but Jane Fairfax has them both, Harriet.”\n\n“Are you sure? I saw she had execution, but I did not know she had any taste. Nobody talked about it. And I hate Italian singing.—There is no understanding a word of it. Besides, if she does play so very well, you know, it is no more than she is obliged to do, because she will have to teach."
+      },
+      "request_id": "8ffcfe6de007dae7f27b9e71",
+      "request_sha256": "7678f8a1b2c9cd762e0c127de2f9cfa458f48bfc2f7239c8acb97c83bccfcd0a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "cc2038ca78e34bff730c9efe80f711727ab8dc28aaac0b2b91dfd7357e1559e5"
+    }
+  ],
+  "session_id": "01a0e851-893e-7833-9978-6adbfb804215",
+  "worker_id": "astra_o",
+  "worker_identity_sha256": "57a742b9cc10271bcec81121c331ed211baefa86bd40e11991144b051b260799"
+}

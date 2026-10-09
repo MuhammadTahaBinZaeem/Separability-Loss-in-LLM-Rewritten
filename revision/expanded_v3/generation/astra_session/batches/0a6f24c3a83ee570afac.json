@@ -1,0 +1,68 @@
+{
+  "batch_id": "0a6f24c3a83ee570afac",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:45:56.629471+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5c7f8caf5a4c311b98680afc",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_dickens_oliver_twist_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 5c7f8caf5a4c311b98680afc\noriginal_word_count: 460\n\nPassage:\nIf not, and you appeal to my forbearance, and the mercy of those you have deeply injured, seat yourself, without a word, in that chair. It has waited for you two whole days.”\n\nMonks muttered some unintelligible words, but wavered still.\n\n“You will be prompt,” said Mr. Brownlow. “A word from me, and the alternative has gone for ever.”\n\nStill the man hesitated.\n\n“I have not the inclination to parley,” said Mr. Brownlow, “and, as I advocate the dearest interests of others, I have not the right.”\n\n“Is there—” demanded Monks with a faltering tongue,—“is there—no middle course?”\n\n“None.”\n\nMonks looked at the old gentleman, with an anxious eye; but, reading in his countenance nothing but severity and determination, walked into the room, and, shrugging his shoulders, sat down.\n\n“Lock the door on the outside,” said Mr. Brownlow to the attendants, “and come when I ring.”\n\nThe men obeyed, and the two were left alone together.\n\n“This is pretty treatment, sir,” said Monks, throwing down his hat and cloak, “from my father’s oldest friend.”\n\n“It is because I was your father’s oldest friend, young man,” returned Mr. Brownlow; “it is because the hopes and wishes of young and happy years were bound up with him, and that fair creature of his blood and kindred who rejoined her God in youth, and left me here a solitary, lonely man: it is because he knelt with me beside his only sisters’s death-bed when he was yet a boy, on the morning that would—but Heaven willed otherwise—have made her my young wife; it is because my seared heart clung to him, from that time forth, through all his trials and errors, till he died; it is because old recollections and associations filled my heart, and even the sight of you brings with it old thoughts of him; it is because of all these things that I am moved to treat you gently now—yes, Edward Leeford, even now—and blush for your unworthiness who bear the name.”\n\n“What has the name to do with it?” asked the other, after contemplating, half in silence, and half in dogged wonder, the agitation of his companion. “What is the name to me?”\n\n“Nothing,” replied Mr. Brownlow, “nothing to you. But it was _hers_, and even at this distance of time brings back to me, an old man, the glow and thrill which I once felt, only to hear it repeated by a stranger. I am very glad you have changed it—very—very.”\n\n“This is all mighty fine,” said Monks (to retain his assumed designation) after a long silence, during which he had jerked himself in sullen defiance to and fro, and Mr. Brownlow had sat, shading his face with his hand."
+      },
+      "request_id": "5c7f8caf5a4c311b98680afc",
+      "request_sha256": "f8d713da6a766cd078f6a4e17e392e66bd886921f82788f251f3e5e11c1ebe04",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7bda9030d71e18d1faf13b7c08d788da60da5445399413b8d20d75fa7910d89c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "cd855957d83854a0caf61382",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_poe_hans_pfaal_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: cd855957d83854a0caf61382\noriginal_word_count: 455\n\nPassage:\nAll this, and more—much more—would I most willingly detail. But, to be brief, I must have my reward. I am pining for a return to my family and to my home; and as the price of any farther communication on my part—in consideration of the light which I have it in my power to throw upon many very important branches of physical and metaphysical science—I must solicit, through the influence of your honorable body, a pardon for the crime of which I have been guilty in the death of the creditors upon my departure from Rotterdam. This, then, is the object of the present paper. Its bearer, an inhabitant of the moon, whom I have prevailed upon, and properly instructed, to be my messenger to the earth, will await your Excellencies’ pleasure, and return to me with the pardon in question, if it can, in any manner, be obtained.\n\n“I have the honor to be, etc., your Excellencies’ very humble servant,\n\n“HANS PFAALL.”\n\nUpon finishing the perusal of this very extraordinary document, Professor Rub-a-dub, it is said, dropped his pipe upon the ground in the extremity of his surprise, and Mynheer Superbus Von Underduk having taken off his spectacles, wiped them, and deposited them in his pocket, so far forgot both himself and his dignity, as to turn round three times upon his heel in the quintessence of astonishment and admiration. There was no doubt about the matter—the pardon should be obtained. So at least swore, with a round oath, Professor Rub-a-dub, and so finally thought the illustrious Von Underduk, as he took the arm of his brother in science, and without saying a word, began to make the best of his way home to deliberate upon the measures to be adopted. Having reached the door, however, of the burgomaster’s dwelling, the professor ventured to suggest that as the messenger had thought proper to disappear—no doubt frightened to death by the savage appearance of the burghers of Rotterdam—the pardon would be of little use, as no one but a man of the moon would undertake a voyage to so vast a distance. To the truth of this observation the burgomaster assented, and the matter was therefore at an end. Not so, however, rumors and speculations. The letter, having been published, gave rise to a variety of gossip and opinion. Some of the over-wise even made themselves ridiculous by decrying the whole business; as nothing better than a hoax. But hoax, with these sort of people, is, I believe, a general term for all matters above their comprehension. For my part, I cannot conceive upon what data they have founded such an accusation. Let us see what they say:"
+      },
+      "request_id": "cd855957d83854a0caf61382",
+      "request_sha256": "60d2a6ada72108e9ac069323390baba578d7f80172f2eb3a1711652585383314",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c6f7a83dc7dc788444634d94d292b8075ec2730d27029a4f043116ba56dcad79"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "4f28f8cc7aa3dbc6d42af953",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 488,
+      "passage_id": "V2_dickens_a_tale_of_two_cities_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 4f28f8cc7aa3dbc6d42af953\noriginal_word_count: 488\n\nPassage:\nWith these cries, numbers of the women, lashed into blind frenzy, whirled about, striking and tearing at their own friends until they dropped into a passionate swoon, and were only saved by the men belonging to them from being trampled under foot.\n\nNevertheless, not a moment was lost; not a moment! This Foulon was at the Hotel de Ville, and might be loosed. Never, if Saint Antoine knew his own sufferings, insults, and wrongs! Armed men and women flocked out of the Quarter so fast, and drew even these last dregs after them with such a force of suction, that within a quarter of an hour there was not a human creature in Saint Antoine’s bosom but a few old crones and the wailing children.\n\nNo. They were all by that time choking the Hall of Examination where this old man, ugly and wicked, was, and overflowing into the adjacent open space and streets. The Defarges, husband and wife, The Vengeance, and Jacques Three, were in the first press, and at no great distance from him in the Hall.\n\n“See!” cried madame, pointing with her knife. “See the old villain bound with ropes. That was well done to tie a bunch of grass upon his back. Ha, ha! That was well done. Let him eat it now!” Madame put her knife under her arm, and clapped her hands as at a play.\n\nThe people immediately behind Madame Defarge, explaining the cause of her satisfaction to those behind them, and those again explaining to others, and those to others, the neighbouring streets resounded with the clapping of hands. Similarly, during two or three hours of drawl, and the winnowing of many bushels of words, Madame Defarge’s frequent expressions of impatience were taken up, with marvellous quickness, at a distance: the more readily, because certain men who had by some wonderful exercise of agility climbed up the external architecture to look in from the windows, knew Madame Defarge well, and acted as a telegraph between her and the crowd outside the building.\n\nAt length the sun rose so high that it struck a kindly ray as of hope or protection, directly down upon the old prisoner’s head. The favour was too much to bear; in an instant the barrier of dust and chaff that had stood surprisingly long, went to the winds, and Saint Antoine had got him!\n\nIt was known directly, to the furthest confines of the crowd. Defarge had but sprung over a railing and a table, and folded the miserable wretch in a deadly embrace--Madame Defarge had but followed and turned her hand in one of the ropes with which he was tied--The Vengeance and Jacques Three were not yet up with them, and the men at the windows had not yet swooped into the Hall, like birds of prey from their high perches--when the cry seemed to go up, all over the city, “Bring him out!"
+      },
+      "request_id": "4f28f8cc7aa3dbc6d42af953",
+      "request_sha256": "275a03e595b02e447c9a35b6b7916192ef25d04a80f6f107a8bca2aec1314ebe",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "73a1d3bf958642209cec91cd935c19a1b5b5053f7354b9b8320b6d119a0e83b6"
+    }
+  ],
+  "session_id": "01a0e83d-ac82-75d0-a392-9c53b7dc0442",
+  "worker_id": "astra_k",
+  "worker_identity_sha256": "422750a9fc253bc1ace58d43156fd122722e4dcc870654c7f3796645edd88607"
+}

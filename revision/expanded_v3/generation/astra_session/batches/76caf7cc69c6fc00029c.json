@@ -1,0 +1,68 @@
+{
+  "batch_id": "76caf7cc69c6fc00029c",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:19:54.505133+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e8131fb8dae4319461303226",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 482,
+      "passage_id": "V2_poe_hans_pfaal_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e8131fb8dae4319461303226\noriginal_word_count: 482\n\nPassage:\n“But, in point of fact, an ascension being made to any given altitude, the ponderable quantity of air surmounted in any farther ascension is by no means in proportion to the additional height ascended (as may be plainly seen from what has been stated before), but in a ratio constantly decreasing. It is therefore evident that, ascend as high as we may, we cannot, literally speaking, arrive at a limit beyond which no atmosphere is to be found. It must exist, I argued; although it may exist in a state of infinite rarefaction.\n\n“On the other hand, I was aware that arguments have not been wanting to prove the existence of a real and definite limit to the atmosphere, beyond which there is absolutely no air whatsoever. But a circumstance which has been left out of view by those who contend for such a limit seemed to me, although no positive refutation of their creed, still a point worthy very serious investigation. On comparing the intervals between the successive arrivals of Encke’s comet at its perihelion, after giving credit, in the most exact manner, for all the disturbances due to the attractions of the planets, it appears that the periods are gradually diminishing; that is to say, the major axis of the comet’s ellipse is growing shorter, in a slow but perfectly regular decrease. Now, this is precisely what ought to be the case, if we suppose a resistance experienced from the comet from an extremely rare ethereal medium pervading the regions of its orbit. For it is evident that such a medium must, in retarding the comet’s velocity, increase its centripetal, by weakening its centrifugal force. In other words, the sun’s attraction would be constantly attaining greater power, and the comet would be drawn nearer at every revolution. Indeed, there is no other way of accounting for the variation in question. But again:—The real diameter of the same comet’s nebulosity is observed to contract rapidly as it approaches the sun, and dilate with equal rapidity in its departure towards its aphelion. Was I not justifiable in supposing with M. Valz, that this apparent condensation of volume has its origin in the compression of the same ethereal medium I have spoken of before, and which is only denser in proportion to its solar vicinity? The lenticular-shaped phenomenon, also called the zodiacal light, was a matter worthy of attention. This radiance, so apparent in the tropics, and which cannot be mistaken for any meteoric lustre, extends from the horizon obliquely upward, and follows generally the direction of the sun’s equator. It appeared to me evidently in the nature of a rare atmosphere extending from the sun outward, beyond the orbit of Venus at least, and I believed indefinitely farther. Indeed, this medium I could not suppose confined to the path of the comet’s ellipse, or to the immediate neighborhood of the sun."
+      },
+      "request_id": "e8131fb8dae4319461303226",
+      "request_sha256": "d2671d0917132fe5098b0f426b48a9cbe2dad4be5b4132f90dc3af19a1b8b439",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "11f3243440b10484f4f26c44d85e87fe545bfd36f6a98b7e12c0868ed60e657c"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "8d11e9c27ee48cf9e47dfb43",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_dickens_great_expectations_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 8d11e9c27ee48cf9e47dfb43\noriginal_word_count: 454\n\nPassage:\nAnd after I had sent them in, I could not keep away from the places where they were, but felt as if they were more hopeful and less desperate when I was near them. In this unreasonable restlessness and pain of mind I would roam the streets of an evening, wandering by those offices and houses where I had left the petitions. To the present hour, the weary western streets of London on a cold, dusty spring night, with their ranges of stern, shut-up mansions, and their long rows of lamps, are melancholy to me from this association.\n\nThe daily visits I could make him were shortened now, and he was more strictly kept. Seeing, or fancying, that I was suspected of an intention of carrying poison to him, I asked to be searched before I sat down at his bedside, and told the officer who was always there, that I was willing to do anything that would assure him of the singleness of my designs. Nobody was hard with him or with me. There was duty to be done, and it was done, but not harshly. The officer always gave me the assurance that he was worse, and some other sick prisoners in the room, and some other prisoners who attended on them as sick nurses, (malefactors, but not incapable of kindness, God be thanked!) always joined in the same report.\n\nAs the days went on, I noticed more and more that he would lie placidly looking at the white ceiling, with an absence of light in his face until some word of mine brightened it for an instant, and then it would subside again. Sometimes he was almost or quite unable to speak, then he would answer me with slight pressures on my hand, and I grew to understand his meaning very well.\n\nThe number of the days had risen to ten, when I saw a greater change in him than I had seen yet. His eyes were turned towards the door, and lighted up as I entered.\n\n“Dear boy,” he said, as I sat down by his bed: “I thought you was late. But I knowed you couldn’t be that.”\n\n“It is just the time,” said I. “I waited for it at the gate.”\n\n“You always waits at the gate; don’t you, dear boy?”\n\n“Yes. Not to lose a moment of the time.”\n\n“Thank’ee dear boy, thank’ee. God bless you! You’ve never deserted me, dear boy.”\n\nI pressed his hand in silence, for I could not forget that I had once meant to desert him.\n\n“And what’s the best of all,” he said, “you’ve been more comfortable alonger me, since I was under a dark cloud, than when the sun shone."
+      },
+      "request_id": "8d11e9c27ee48cf9e47dfb43",
+      "request_sha256": "8dd8fc3dc27b8001299c67abee4ab7268e77f3f85796891b9d83ac9be0f18e43",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ff16fc93815cfb1528d60eb7842faf11d12abd97126c185472ec12443ded53e8"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "74199aac1023a4f02eda4127",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 74199aac1023a4f02eda4127\noriginal_word_count: 454\n\nPassage:\nIf, however, you want one for home use, I can supply you with an excellent article, and guarantee that you will he satisfied with the result. May I ask for whom it is intended? If it is for the police, or for any one connected with Scotland Yard, I am afraid I cannot do anything for you. The English detectives are really our best friends, and I have always found that by relying on their stupidity, we can do exactly what we like. I could not spare one of them.’\n\n‘I assure you,’ said Lord Arthur, ‘that it has nothing to do with the police at all. In fact, the clock is intended for the Dean of Chichester.’\n\n‘Dear me! I had no idea that you felt so strongly about religion, Lord Arthur. Few young men do nowadays.’\n\n‘I am afraid you overrate me, Herr Winckelkopf,’ said Lord Arthur, blushing. ‘The fact is, I really know nothing about theology.’\n\n‘It is a purely private matter then?’\n\n‘Purely private.’\n\nHerr Winckelkopf shrugged his shoulders, and left the room, returning in a few minutes with a round cake of dynamite about the size of a penny, and a pretty little French clock, surmounted by an ormolu figure of Liberty trampling on the hydra of Despotism.\n\nLord Arthur’s face brightened up when he saw it. ‘That is just what I want,’ he cried, ‘and now tell me how it goes off.’\n\n‘Ah! there is my secret,’ answered Herr Winckelkopf, contemplating his invention with a justifiable look of pride; ‘let me know when you wish it to explode, and I will set the machine to the moment.’\n\n‘Well, to-day is Tuesday, and if you could send it off at once—’\n\n‘That is impossible; I have a great deal of important work on hand for some friends of mine in Moscow. Still, I might send it off to-morrow.’\n\n‘Oh, it will be quite time enough!’ said Lord Arthur politely, ‘if it is delivered to-morrow night or Thursday morning. For the moment of the explosion, say Friday at noon exactly. The Dean is always at home at that hour.’\n\n‘Friday, at noon,’ repeated Herr Winckelkopf, and he made a note to that effect in a large ledger that was lying on a bureau near the fireplace.\n\n‘And now,’ said Lord Arthur, rising from his seat, ‘pray let me know how much I am in your debt.’\n\n‘It is such a small matter, Lord Arthur, that I do not care to make any charge. The dynamite comes to seven and sixpence, the clock will be three pounds ten, and the carriage about five shillings. I am only too pleased to oblige any friend of Count Rouvaloff’s.’\n\n‘But your trouble, Herr Winckelkopf?’"
+      },
+      "request_id": "74199aac1023a4f02eda4127",
+      "request_sha256": "d1eceea80383aae5cf33561dda7e6330cc6f1217ac6b06ba1c38005b1bdbaf10",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "20ddb375329305b47d960aa9e9dafc7300acad38407a60623dcfa08452a3fcc6"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

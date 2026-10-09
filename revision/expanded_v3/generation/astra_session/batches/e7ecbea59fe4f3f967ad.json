@@ -1,0 +1,68 @@
+{
+  "batch_id": "e7ecbea59fe4f3f967ad",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:47:01.654870+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "35f0848f891cf248e8f3ccef",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 476,
+      "passage_id": "V2_twain_huckleberry_finn_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 35f0848f891cf248e8f3ccef\noriginal_word_count: 476\n\nPassage:\nThe doctor was an old man; a very nice, kind-looking old man when I got him up. I told him me and my brother was over on Spanish Island hunting yesterday afternoon, and camped on a piece of a raft we found, and about midnight he must a kicked his gun in his dreams, for it went off and shot him in the leg, and we wanted him to go over there and fix it and not say nothing about it, nor let anybody know, because we wanted to come home this evening and surprise the folks.\n\n“Who is your folks?” he says.\n\n“The Phelpses, down yonder.”\n\n“Oh,” he says. And after a minute, he says:\n\n“How’d you say he got shot?”\n\n“He had a dream,” I says, “and it shot him.”\n\n“Singular dream,” he says.\n\nSo he lit up his lantern, and got his saddle-bags, and we started. But when he sees the canoe he didn’t like the look of her—said she was big enough for one, but didn’t look pretty safe for two. I says:\n\n“Oh, you needn’t be afeard, sir, she carried the three of us easy enough.”\n\n“What three?”\n\n“Why, me and Sid, and—and—and _the guns;_ that’s what I mean.”\n\n“Oh,” he says.\n\nBut he put his foot on the gunnel and rocked her, and shook his head, and said he reckoned he’d look around for a bigger one. But they was all locked and chained; so he took my canoe, and said for me to wait till he come back, or I could hunt around further, or maybe I better go down home and get them ready for the surprise if I wanted to. But I said I didn’t; so I told him just how to find the raft, and then he started.\n\nI struck an idea pretty soon. I says to myself, spos’n he can’t fix that leg just in three shakes of a sheep’s tail, as the saying is? spos’n it takes him three or four days? What are we going to do?—lay around there till he lets the cat out of the bag? No, sir; I know what _I’ll_ do. I’ll wait, and when he comes back if he says he’s got to go any more I’ll get down there, too, if I swim; and we’ll take and tie him, and keep him, and shove out down the river; and when Tom’s done with him we’ll give him what it’s worth, or all we got, and then let him get ashore.\n\nSo then I crept into a lumber-pile to get some sleep; and next time I waked up the sun was away up over my head! I shot out and went for the doctor’s house, but they told me he’d gone away in the night some time or other, and warn’t back yet."
+      },
+      "request_id": "35f0848f891cf248e8f3ccef",
+      "request_sha256": "cdfd565c1f4c8a9a55cee934b716aa5ef807f09b7fcc2db14db854770d1fed7f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3d536e1bbfc46e07c3710e2f8a1c70ec8d714a5cf4e607c47df3113bf79bfd5e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e9535c4427b1a435459b3789",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_wilde_canterville_ghost_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: e9535c4427b1a435459b3789\noriginal_word_count: 454\n\nPassage:\n‘Starve you to death? Oh, Mr. Ghost, I mean Sir Simon, are you hungry? I have a sandwich in my case. Would you like it?’\n\n‘No, thank you, I never eat anything now; but it is very kind of you, all the same, and you are much nicer than the rest of your horrid, rude, vulgar, dishonest family.’\n\n‘Stop!’ cried Virginia, stamping her foot, ‘it is you who are rude, and horrid, and vulgar, and as for dishonesty, you know you stole the paints out of my box to try and furbish up that ridiculous blood-stain in the library. First you took all my reds, including the vermilion, and I couldn’t do any more sunsets, then you took the emerald-green and the chrome-yellow, and finally I had nothing left but indigo and Chinese white, and could only do moonlight scenes, which are always depressing to look at, and not at all easy to paint. I never told on you, though I was very much annoyed, and it was most ridiculous, the whole thing; for who ever heard of emerald-green blood?’\n\n‘Well, really,’ said the Ghost, rather meekly, ‘what was I to do? It is a very difficult thing to get real blood nowadays, and, as your brother began it all with his Paragon Detergent, I certainly saw no reason why I should not have your paints. As for colour, that is always a matter of taste: the Cantervilles have blue blood, for instance, the very bluest in England; but I know you Americans don’t care for things of this kind.’\n\n‘You know nothing about it, and the best thing you can do is to emigrate and improve your mind. My father will be only too happy to give you a free passage, and though there is a heavy duty on spirits of every kind, there will be no difficulty about the Custom House, as the officers are all Democrats. Once in New York, you are sure to be a great success. I know lots of people there who would give a hundred thousand dollars to have a grandfather, and much more than that to have a family Ghost.’\n\n‘I don’t think I should like America.’\n\n‘I suppose because we have no ruins and no curiosities,’ said Virginia satirically.\n\n‘No ruins! no curiosities!’ answered the Ghost; ‘you have your navy and your manners.’\n\n‘Good evening; I will go and ask papa to get the twins an extra week’s holiday.’\n\n‘Please don’t go, Miss Virginia,’ he cried; ‘I am so lonely and so unhappy, and I really don’t know what to do. I want to go to sleep and I cannot.’\n\n‘That’s quite absurd! You have merely to go to bed and blow out the candle."
+      },
+      "request_id": "e9535c4427b1a435459b3789",
+      "request_sha256": "e442df7af19b0da2f6413fea6b1abe0fc6ee0931a2ee747bd20c31bbd8545f5d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6fed1e47343466e911f3819776196152f9cdf3a4f862a180009a9a3d9dd76c27"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "f5ae0e2fed7ce52617066805",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_shelley_the_last_man_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: f5ae0e2fed7ce52617066805\noriginal_word_count: 461\n\nPassage:\nThey were her life; dearer than a spot consecrated to love, dearer than all else the earth contained. The boys heard with childish glee of our removal: Clara asked if we were to go to Athens. “It is possible,” I replied; and her countenance became radiant with pleasure. There she would behold the tomb of her parents, and the territory filled with recollections of her father’s glory. In silence, but without respite, she had brooded over these scenes. It was the recollection of them that had turned her infant gaiety to seriousness, and had impressed her with high and restless thoughts.\n\nThere were many dear friends whom we must not leave behind, humble though they were. There was the spirited and obedient steed which Lord Raymond had given his daughter; there was Alfred’s dog and a pet eagle, whose sight was dimmed through age. But this catalogue of favourites to be taken with us, could not be made without grief to think of our heavy losses, and a deep sigh for the many things we must leave behind. The tears rushed into the eyes of Idris, while Alfred and Evelyn brought now a favourite rose tree, now a marble vase beautifully carved, insisting that these must go, and exclaiming on the pity that we could not take the castle and the forest, the deer and the birds, and all accustomed and cherished objects along with us. “Fond and foolish ones,” I said, “we have lost for ever treasures far more precious than these; and we desert them, to preserve treasures to which in comparison they are nothing. Let us not for a moment forget our object and our hope; and they will form a resistless mound to stop the overflowing of our regret for trifles.”\n\nThe children were easily distracted, and again returned to their prospect of future amusement. Idris had disappeared. She had gone to hide her weakness; escaping from the castle, she had descended to the little park, and sought solitude, that she might there indulge her tears; I found her clinging round an old oak, pressing its rough trunk with her roseate lips, as her tears fell plenteously, and her sobs and broken exclamations could not be suppressed; with surpassing grief I beheld this loved one of my heart thus lost in sorrow! I drew her towards me; and, as she felt my kisses on her eyelids, as she felt my arms press her, she revived to the knowledge of what remained to her. “You are very kind not to reproach me,” she said: “I weep, and a bitter pang of intolerable sorrow tears my heart. And yet I am happy; mothers lament their children, wives lose their husbands, while you and my children are left to me."
+      },
+      "request_id": "f5ae0e2fed7ce52617066805",
+      "request_sha256": "6fa0c25f20bfe78ef0ef1a4c96b37bc77946590240c1b2f0179e138aa03ea377",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0e3a3d6efce004cc4b42a26bb1f0249198ade86e6cdbf8957336add38c515662"
+    }
+  ],
+  "session_id": "01a0e83d-ac82-75d0-a392-9c53b7dc0442",
+  "worker_id": "astra_k",
+  "worker_identity_sha256": "422750a9fc253bc1ace58d43156fd122722e4dcc870654c7f3796645edd88607"
+}

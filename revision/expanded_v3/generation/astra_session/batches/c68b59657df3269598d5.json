@@ -1,0 +1,68 @@
+{
+  "batch_id": "c68b59657df3269598d5",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:42:21.874545+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "fdfcb3fc93352a6b04d8300b",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 481,
+      "passage_id": "V2_austen_persuasion_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: fdfcb3fc93352a6b04d8300b\noriginal_word_count: 481\n\nPassage:\n“I must take leave to observe, Sir Walter,” said Mr Shepherd one morning at Kellynch Hall, as he laid down the newspaper, “that the present juncture is much in our favour. This peace will be turning all our rich naval officers ashore. They will be all wanting a home. Could not be a better time, Sir Walter, for having a choice of tenants, very responsible tenants. Many a noble fortune has been made during the war. If a rich admiral were to come in our way, Sir Walter—”\n\n“He would be a very lucky man, Shepherd,” replied Sir Walter; “that’s all I have to remark. A prize indeed would Kellynch Hall be to him; rather the greatest prize of all, let him have taken ever so many before; hey, Shepherd?”\n\nMr Shepherd laughed, as he knew he must, at this wit, and then added—\n\n“I presume to observe, Sir Walter, that, in the way of business, gentlemen of the navy are well to deal with. I have had a little knowledge of their methods of doing business; and I am free to confess that they have very liberal notions, and are as likely to make desirable tenants as any set of people one should meet with. Therefore, Sir Walter, what I would take leave to suggest is, that if in consequence of any rumours getting abroad of your intention; which must be contemplated as a possible thing, because we know how difficult it is to keep the actions and designs of one part of the world from the notice and curiosity of the other; consequence has its tax; I, John Shepherd, might conceal any family-matters that I chose, for nobody would think it worth their while to observe me; but Sir Walter Elliot has eyes upon him which it may be very difficult to elude; and therefore, thus much I venture upon, that it will not greatly surprise me if, with all our caution, some rumour of the truth should get abroad; in the supposition of which, as I was going to observe, since applications will unquestionably follow, I should think any from our wealthy naval commanders particularly worth attending to; and beg leave to add, that two hours will bring me over at any time, to save you the trouble of replying.”\n\nSir Walter only nodded. But soon afterwards, rising and pacing the room, he observed sarcastically—\n\n“There are few among the gentlemen of the navy, I imagine, who would not be surprised to find themselves in a house of this description.”\n\n“They would look around them, no doubt, and bless their good fortune,” said Mrs Clay, for Mrs Clay was present: her father had driven her over, nothing being of so much use to Mrs Clay’s health as a drive to Kellynch: “but I quite agree with my father in thinking a sailor might be a very desirable tenant."
+      },
+      "request_id": "fdfcb3fc93352a6b04d8300b",
+      "request_sha256": "db0fe28fe1c1df6c0ffc8e31c495268980a6d7402bed1ea31ad64527a3355ab2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "3122b5c4d163f55f1447d19da1d0cfd0131d944a993ee392d68b2ee57cbd016b"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "40b8e78b08d2332a50ca32ff",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_shelley_the_last_man_004",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 40b8e78b08d2332a50ca32ff\noriginal_word_count: 463\n\nPassage:\nThe oaks around were the home of a tribe of nightingales—there am I now; Idris, in youth’s dear prime, is by my side —remember, I am just twenty-two, and seventeen summers have scarcely passed over the beloved of my heart. The river swollen by autumnal rains, deluged the low lands, and Adrian in his favourite boat is employed in the dangerous pastime of plucking the topmost bough from a submerged oak. Are you weary of life, O Adrian, that you thus play with danger?—\n\nHe has obtained his prize, and he pilots his boat through the flood; our eyes were fixed on him fearfully, but the stream carried him away from us; he was forced to land far lower down, and to make a considerable circuit before he could join us. “He is safe!” said Idris, as he leapt on shore, and waved the bough over his head in token of success; “we will wait for him here.”\n\nWe were alone together; the sun had set; the song of the nightingales began; the evening star shone distinct in the flood of light, which was yet unfaded in the west. The blue eyes of my angelic girl were fixed on this sweet emblem of herself: “How the light palpitates,” she said, “which is that star’s life. Its vacillating effulgence seems to say that its state, even like ours upon earth, is wavering and inconstant; it fears, methinks, and it loves.”\n\n“Gaze not on the star, dear, generous friend,” I cried, “read not love in _its_ trembling rays; look not upon distant worlds; speak not of the mere imagination of a sentiment. I have long been silent; long even to sickness have I desired to speak to you, and submit my soul, my life, my entire being to you. Look not on the star, dear love, or do, and let that eternal spark plead for me; let it be my witness and my advocate, silent as it shines—love is to me as light to the star; even so long as that is uneclipsed by annihilation, so long shall I love you.”\n\nVeiled for ever to the world’s callous eye must be the transport of that moment. Still do I feel her graceful form press against my full-fraught heart—still does sight, and pulse, and breath sicken and fail, at the remembrance of that first kiss. Slowly and silently we went to meet Adrian, whom we heard approaching.\n\nI entreated Adrian to return to me after he had conducted his sister home. And that same evening, walking among the moon-lit forest paths, I poured forth my whole heart, its transport and its hope, to my friend. For a moment he looked disturbed—“I might have foreseen this,” he said, “what strife will now ensue!"
+      },
+      "request_id": "40b8e78b08d2332a50ca32ff",
+      "request_sha256": "0d33ce99c88e777d8bf3d1213ce7ff1d5ba51bafaf94224233d817c8b1974fbd",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7af4a611bf0310a1d71f8a605603129ddfc3ffedaa8b1327b56c95ca17b00316"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "df5908a2c624c544f6e170a3",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 465,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: df5908a2c624c544f6e170a3\noriginal_word_count: 465\n\nPassage:\nWhat manner of life would be theirs while Fate still held this fearful fortune in the scales? The marriage must be postponed, at all costs. Of this he was quite resolved. Ardently though he loved the girl, and the mere touch of her fingers, when they sat together, made each nerve of his body thrill with exquisite joy, he recognised none the less clearly where his duty lay, and was fully conscious of the fact that he had no right to marry until he had committed the murder. This done, he could stand before the altar with Sybil Merton, and give his life into her hands without terror of wrongdoing. This done, he could take her to his arms, knowing that she would never have to blush for him, never have to hang her head in shame. But done it must be first; and the sooner the better for both.\n\nMany men in his position would have preferred the primrose path of dalliance to the steep heights of duty; but Lord Arthur was too conscientious to set pleasure above principle. There was more than mere passion in his love; and Sybil was to him a symbol of all that is good and noble. For a moment he had a natural repugnance against what he was asked to do, but it soon passed away. His heart told him that it was not a sin, but a sacrifice; his reason reminded him that there was no other course open. He had to choose between living for himself and living for others, and terrible though the task laid upon him undoubtedly was, yet he knew that he must not suffer selfishness to triumph over love. Sooner or later we are all called upon to decide on the same issue—of us all, the same question is asked. To Lord Arthur it came early in life—before his nature had been spoiled by the calculating cynicism of middle-age, or his heart corroded by the shallow, fashionable egotism of our day, and he felt no hesitation about doing his duty. Fortunately also, for him, he was no mere dreamer, or idle dilettante. Had he been so, he would have hesitated, like Hamlet, and let irresolution mar his purpose. But he was essentially practical. Life to him meant action, rather than thought. He had that rarest of all things, common sense.\n\nThe wild, turbid feelings of the previous night had by this time completely passed away, and it was almost with a sense of shame that he looked back upon his mad wanderings from street to street, his fierce emotional agony. The very sincerity of his sufferings made them seem unreal to him now. He wondered how he could have been so foolish as to rant and rave about the inevitable."
+      },
+      "request_id": "df5908a2c624c544f6e170a3",
+      "request_sha256": "f438b469a7d79994c1952bf4921180d93f03e81f406103b555bde2e8296bc7f3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "a283236e7b3b29e92951b58d8090324e42ec41ec1d7ddcf7fa743cd381d43e13"
+    }
+  ],
+  "session_id": "01a0e83d-4966-70c1-8c6a-f47c6ab2c73c",
+  "worker_id": "astra_j",
+  "worker_identity_sha256": "379c8d043a28d24c0180a7e1508526a74253a4abdfccf2558222841452c29a32"
+}

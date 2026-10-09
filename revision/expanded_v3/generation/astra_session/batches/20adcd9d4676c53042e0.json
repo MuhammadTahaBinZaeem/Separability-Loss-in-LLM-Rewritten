@@ -1,0 +1,68 @@
+{
+  "batch_id": "20adcd9d4676c53042e0",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:41:23.985631+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c216ba9cda7550e7d7f258fe",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 467,
+      "passage_id": "V2_twain_connecticut_yankee_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: c216ba9cda7550e7d7f258fe\noriginal_word_count: 467\n\nPassage:\nIt was in Warwick Castle that I came across the curious stranger whom I am going to talk about. He attracted me by three things: his candid simplicity, his marvelous familiarity with ancient armor, and the restfulness of his company--for he did all the talking. We fell together, as modest people will, in the tail of the herd that was being shown through, and he at once began to say things which interested me. As he talked along, softly, pleasantly, flowingly, he seemed to drift away imperceptibly out of this world and time, and into some remote era and old forgotten country; and so he gradually wove such a spell about me that I seemed to move among the specters and shadows and dust and mold of a gray antiquity, holding speech with a relic of it! Exactly as I would speak of my nearest personal friends or enemies, or my most familiar neighbors, he spoke of Sir Bedivere, Sir Bors de Ganis, Sir Launcelot of the Lake, Sir Galahad, and all the other great names of the Table Round--and how old, old, unspeakably old and faded and dry and musty and ancient he came to look as he went on! Presently he turned to me and said, just as one might speak of the weather, or any other common matter--\n\n“You know about transmigration of souls; do you know about transposition of epochs--and bodies?”\n\nI said I had not heard of it. He was so little interested--just as when people speak of the weather--that he did not notice whether I made him any answer or not. There was half a moment of silence, immediately interrupted by the droning voice of the salaried cicerone:\n\n“Ancient hauberk, date of the sixth century, time of King Arthur and the Round Table; said to have belonged to the knight Sir Sagramor le Desirous; observe the round hole through the chain-mail in the left breast; can't be accounted for; supposed to have been done with a bullet since invention of firearms--perhaps maliciously by Cromwell's soldiers.”\n\nMy acquaintance smiled--not a modern smile, but one that must have gone out of general use many, many centuries ago--and muttered apparently to himself:\n\n“Wit ye well, _I saw it done_.” Then, after a pause, added: “I did it myself.”\n\nBy the time I had recovered from the electric surprise of this remark, he was gone.\n\nAll that evening I sat by my fire at the Warwick Arms, steeped in a dream of the olden time, while the rain beat upon the windows, and the wind roared about the eaves and corners. From time to time I dipped into old Sir Thomas Malory's enchanting book, and fed at its rich feast of prodigies and adventures, breathed in the fragrance of its obsolete names, and dreamed again."
+      },
+      "request_id": "c216ba9cda7550e7d7f258fe",
+      "request_sha256": "d2fa406256e43a86b671c03d696984be6167320c72622b08eb623ac9657b1690",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0bbe3bb81a88f5214422dd14789e0aa6933b868199b2a7ca1d2c881ac9340fde"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b0b0c8c08fc30003bc8f5941",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 471,
+      "passage_id": "V2_shelley_frankenstein_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: b0b0c8c08fc30003bc8f5941\noriginal_word_count: 471\n\nPassage:\nWe passed a few sad hours until eleven o’clock, when the trial was to commence. My father and the rest of the family being obliged to attend as witnesses, I accompanied them to the court. During the whole of this wretched mockery of justice I suffered living torture. It was to be decided whether the result of my curiosity and lawless devices would cause the death of two of my fellow beings: one a smiling babe full of innocence and joy, the other far more dreadfully murdered, with every aggravation of infamy that could make the murder memorable in horror. Justine also was a girl of merit and possessed qualities which promised to render her life happy; now all was to be obliterated in an ignominious grave, and I the cause! A thousand times rather would I have confessed myself guilty of the crime ascribed to Justine, but I was absent when it was committed, and such a declaration would have been considered as the ravings of a madman and would not have exculpated her who suffered through me.\n\nThe appearance of Justine was calm. She was dressed in mourning, and her countenance, always engaging, was rendered, by the solemnity of her feelings, exquisitely beautiful. Yet she appeared confident in innocence and did not tremble, although gazed on and execrated by thousands, for all the kindness which her beauty might otherwise have excited was obliterated in the minds of the spectators by the imagination of the enormity she was supposed to have committed. She was tranquil, yet her tranquillity was evidently constrained; and as her confusion had before been adduced as a proof of her guilt, she worked up her mind to an appearance of courage. When she entered the court she threw her eyes round it and quickly discovered where we were seated. A tear seemed to dim her eye when she saw us, but she quickly recovered herself, and a look of sorrowful affection seemed to attest her utter guiltlessness.\n\nThe trial began, and after the advocate against her had stated the charge, several witnesses were called. Several strange facts combined against her, which might have staggered anyone who had not such proof of her innocence as I had. She had been out the whole of the night on which the murder had been committed and towards morning had been perceived by a market-woman not far from the spot where the body of the murdered child had been afterwards found. The woman asked her what she did there, but she looked very strangely and only returned a confused and unintelligible answer. She returned to the house about eight o’clock, and when one inquired where she had passed the night, she replied that she had been looking for the child and demanded earnestly if anything had been heard concerning him."
+      },
+      "request_id": "b0b0c8c08fc30003bc8f5941",
+      "request_sha256": "9dfa58a524b01b39ebac8761d4559c4e1237178200f4c90bdc6356026d96718a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "394e291328ebba817ea449a10a2bbe14c27c16fe498ac6c49094de32e0745e30"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "78ccca28c995d0d79e54fa7a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_pride_and_prejudice_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 78ccca28c995d0d79e54fa7a\noriginal_word_count: 461\n\nPassage:\nThe day passed much as the day before had done. Mrs. Hurst and Miss Bingley had spent some hours of the morning with the invalid, who continued, though slowly, to mend; and, in the evening, Elizabeth joined their party in the drawing-room. The loo table, however, did not appear. Mr. Darcy was writing, and Miss Bingley, seated near him, was watching the progress of his letter, and repeatedly calling off his attention by messages to his sister. Mr. Hurst and Mr. Bingley were at piquet, and Mrs. Hurst was observing their game.\n\nElizabeth took up some needlework, and was sufficiently amused in attending to what passed between Darcy and his companion. The perpetual commendations of the lady either on his hand-writing, or on the evenness of his lines, or on the length of his letter, with the perfect unconcern with which her praises were received, formed a curious dialogue, and was exactly in unison with her opinion of each.\n\n“How delighted Miss Darcy will be to receive such a letter!”\n\nHe made no answer.\n\n“You write uncommonly fast.”\n\n“You are mistaken. I write rather slowly.”\n\n“How many letters you must have occasion to write in the course of a year! Letters of business, too! How odious I should think them!”\n\n“It is fortunate, then, that they fall to my lot instead of to yours.”\n\n“Pray tell your sister that I long to see her.”\n\n“I have already told her so once, by your desire.”\n\n“I am afraid you do not like your pen. Let me mend it for you. I mend pens remarkably well.”\n\n“Thank you--but I always mend my own.”\n\n“How can you contrive to write so even?”\n\nHe was silent.\n\n“Tell your sister I am delighted to hear of her improvement on the harp, and pray let her know that I am quite in raptures with her beautiful little design for a table, and I think it infinitely superior to Miss Grantley’s.”\n\n“Will you give me leave to defer your raptures till I write again? At present I have not room to do them justice.”\n\n“Oh, it is of no consequence. I shall see her in January. But do you always write such charming long letters to her, Mr. Darcy?”\n\n“They are generally long; but whether always charming, it is not for me to determine.”\n\n“It is a rule with me, that a person who can write a long letter with ease cannot write ill.”\n\n“That will not do for a compliment to Darcy, Caroline,” cried her brother, “because he does _not_ write with ease. He studies too much for words of four syllables. Do not you, Darcy?”\n\n“My style of writing is very different from yours.”\n\n“Oh,” cried Miss Bingley, “Charles writes in the most careless way imaginable."
+      },
+      "request_id": "78ccca28c995d0d79e54fa7a",
+      "request_sha256": "279aa661ffcff0596b9cdcc7a847582181c031272839b6a2148fbe7a852cdafc",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "e40142ba403dc0639ceee577aac2bc03cb980d3cc99be7e4e8356bc32dd31724"
+    }
+  ],
+  "session_id": "01a0e812-fdbc-7b32-970c-635e200a5463",
+  "worker_id": "astra_g",
+  "worker_identity_sha256": "cc5766c8e7fe90be649be0fec9acc18366daeb0bf1f52b8f7d75c87cae584f09"
+}

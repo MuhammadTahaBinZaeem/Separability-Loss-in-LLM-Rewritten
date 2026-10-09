@@ -1,0 +1,68 @@
+{
+  "batch_id": "4445b10e9cc3423dcd4e",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:26:46.595220+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6383f423413881015835fc4d",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 484,
+      "passage_id": "V2_wilde_canterville_ghost_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 6383f423413881015835fc4d\noriginal_word_count: 484\n\nPassage:\nIn fact, he was dressed for the character of ‘Jonas the Graveless, or the Corpse-Snatcher of Chertsey Barn,’ one of his most remarkable impersonations, and one which the Cantervilles had every reason to remember, as it was the real origin of their quarrel with their neighbour, Lord Rufford. It was about a quarter past two o’clock in the morning, and, as far as he could ascertain, no one was stirring. As he was strolling towards the library, however, to see if there were any traces left of the blood-stain, suddenly there leaped out on him from a dark corner two figures, who waved their arms wildly above their heads, and shrieked out ‘BOO!’ in his ear.\n\nSeized with a panic, which, under the circumstances, was only natural, he rushed for the staircase, but found Washington Otis waiting for him there with the big garden-syringe; and being thus hemmed in by his enemies on every side, and driven almost to bay, he vanished into the great iron stove, which, fortunately for him, was not lit, and had to make his way home through the flues and chimneys, arriving at his own room in a terrible state of dirt, disorder, and despair.\n\nAfter this he was not seen again on any nocturnal expedition. The twins lay in wait for him on several occasions, and strewed the passages with nutshells every night to the great annoyance of their parents and the servants, but it was of no avail. It was quite evident that his feelings were so wounded that he would not appear. Mr. Otis consequently resumed his great work on the history of the Democratic Party, on which he had been engaged for some years; Mrs. Otis organised a wonderful clam-bake, which amazed the whole county; the boys took to lacrosse, euchre, poker, and other American national games; and Virginia rode about the lanes on her pony, accompanied by the young Duke of Cheshire, who had come to spend the last week of his holidays at Canterville Chase. It was generally assumed that the ghost had gone away, and, in fact, Mr. Otis wrote a letter to that effect to Lord Canterville, who, in reply, expressed his great pleasure at the news, and sent his best congratulations to the Minister’s worthy wife.\n\nThe Otises, however, were deceived, for the ghost was still in the house, and though now almost an invalid, was by no means ready to let matters rest, particularly as he heard that among the guests was the young Duke of Cheshire, whose grand-uncle, Lord Francis Stilton, had once bet a hundred guineas with Colonel Carbury that he would play dice with the Canterville ghost, and was found the next morning lying on the floor of the card-room in such a helpless paralytic state, that though he lived on to a great age, he was never able to say anything again but ‘Double Sixes.’"
+      },
+      "request_id": "6383f423413881015835fc4d",
+      "request_sha256": "ef2b552c929547d1cadc6500c8bdc74c706960f406f3d16e21275414fd7de39f",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "765685425d64dcdb0f1c940f760af69e8a064ca586629e7592a3c4da811f31e1"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9e2e8acb4c00f8c79615d6a9",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 478,
+      "passage_id": "V3_austen_pride_and_prejudice_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 9e2e8acb4c00f8c79615d6a9\noriginal_word_count: 478\n\nPassage:\nBut I wonder how long you _would_ have gone on, if you had been left to yourself. I wonder when you _would_ have spoken if I had not asked you! My resolution of thanking you for your kindness to Lydia had certainly great effect. _Too much_, I am afraid; for what becomes of the moral, if our comfort springs from a breach of promise, for I ought not to have mentioned the subject? This will never do.”\n\n“You need not distress yourself. The moral will be perfectly fair. Lady Catherine’s unjustifiable endeavours to separate us were the means of removing all my doubts. I am not indebted for my present happiness to your eager desire of expressing your gratitude. I was not in a humour to wait for an opening of yours. My aunt’s intelligence had given me hope, and I was determined at once to know everything.”\n\n“Lady Catherine has been of infinite use, which ought to make her happy, for she loves to be of use. But tell me, what did you come down to Netherfield for? Was it merely to ride to Longbourn and be embarrassed? or had you intended any more serious consequences?”\n\n“My real purpose was to see _you_, and to judge, if I could, whether I might ever hope to make you love me. My avowed one, or what I avowed to myself, was to see whether your sister was still partial to Bingley, and if she were, to make the confession to him which I have since made.”\n\n“Shall you ever have courage to announce to Lady Catherine what is to befall her?”\n\n“I am more likely to want time than courage, Elizabeth. But it ought to be done; and if you will give me a sheet of paper it shall be done directly.”\n\n“And if I had not a letter to write myself, I might sit by you, and admire the evenness of your writing, as another young lady once did. But I have an aunt, too, who must not be longer neglected.”\n\nFrom an unwillingness to confess how much her intimacy with Mr. Darcy had been overrated, Elizabeth had never yet answered Mrs. Gardiner’s long letter; but now, having _that_ to communicate which she knew would be most welcome, she was almost ashamed to find that her uncle and aunt had already lost three days of happiness, and immediately wrote as follows:--\n\n“I would have thanked you before, my dear aunt, as I ought to have done, for your long, kind, satisfactory detail of particulars; but, to say the truth, I was too cross to write. You supposed more than really existed. But _now_ suppose as much as you choose; give a loose to your fancy, indulge your imagination in every possible flight which the subject will afford, and unless you believe me actually married, you cannot greatly err."
+      },
+      "request_id": "9e2e8acb4c00f8c79615d6a9",
+      "request_sha256": "3f5fc395ee2826ea1e015b745d09f6cae723456295358c8ed02f8fea939490e3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "615fb123270ccf5d3b686df79dd64997d05eb83a381fb2d883dbac0099525e99"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2674d12f2ec79b361d50234d",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_poe_murders_rue_morgue_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2674d12f2ec79b361d50234d\noriginal_word_count: 460\n\nPassage:\nDoes not understand the English language, but judges by the intonation.\n\n“_Alberto Montani_, confectioner, deposes that he was among the first to ascend the stairs. Heard the voices in question. The gruff voice was that of a Frenchman. Distinguished several words. The speaker appeared to be expostulating. Could not make out the words of the shrill voice. Spoke quick and unevenly. Thinks it the voice of a Russian. Corroborates the general testimony. Is an Italian. Never conversed with a native of Russia.\n\n“Several witnesses, recalled, here testified that the chimneys of all the rooms on the fourth story were too narrow to admit the passage of a human being. By ‘sweeps’ were meant cylindrical sweeping brushes, such as are employed by those who clean chimneys. These brushes were passed up and down every flue in the house. There is no back passage by which any one could have descended while the party proceeded up stairs. The body of Mademoiselle L’Espanaye was so firmly wedged in the chimney that it could not be got down until four or five of the party united their strength.\n\n“_Paul Dumas_, physician, deposes that he was called to view the bodies about day-break. They were both then lying on the sacking of the bedstead in the chamber where Mademoiselle L. was found. The corpse of the young lady was much bruised and excoriated. The fact that it had been thrust up the chimney would sufficiently account for these appearances. The throat was greatly chafed. There were several deep scratches just below the chin, together with a series of livid spots which were evidently the impression of fingers. The face was fearfully discolored, and the eye-balls protruded. The tongue had been partially bitten through. A large bruise was discovered upon the pit of the stomach, produced, apparently, by the pressure of a knee. In the opinion of M. Dumas, Mademoiselle L’Espanaye had been throttled to death by some person or persons unknown. The corpse of the mother was horribly mutilated. All the bones of the right leg and arm were more or less shattered. The left _tibia_ much splintered, as well as all the ribs of the left side. Whole body dreadfully bruised and discolored. It was not possible to say how the injuries had been inflicted. A heavy club of wood, or a broad bar of iron—a chair—any large, heavy, and obtuse weapon would have produced such results, if wielded by the hands of a very powerful man. No woman could have inflicted the blows with any weapon. The head of the deceased, when seen by witness, was entirely separated from the body, and was also greatly shattered. The throat had evidently been cut with some very sharp instrument—probably with a razor."
+      },
+      "request_id": "2674d12f2ec79b361d50234d",
+      "request_sha256": "ee9fe052c4986d9101bdc26141d69963618f555a4402829c68f686b169b4def8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1ba2b2c8ec6dd4e7b01f0aacc829532c1ffa914886ca569bd240bf032cc4891e"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

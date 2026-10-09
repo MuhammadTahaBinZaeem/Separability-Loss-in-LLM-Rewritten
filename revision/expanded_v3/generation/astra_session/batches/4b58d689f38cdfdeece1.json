@@ -1,0 +1,68 @@
+{
+  "batch_id": "4b58d689f38cdfdeece1",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:03:05.482833+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1087b5131896646c3d395837",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 459,
+      "passage_id": "V2_wilde_canterville_ghost_013",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 1087b5131896646c3d395837\noriginal_word_count: 459\n\nPassage:\nA FEW days after this, Virginia and her curly-haired cavalier went out riding on Brockley meadows, where she tore her habit so badly in getting through a hedge, that, on her return home, she made up her mind to go up by the back staircase so as not to be seen. As she was running past the Tapestry Chamber, the door of which happened to be open, she fancied she saw some one inside, and thinking it was her mother’s maid, who sometimes used to bring her work there, looked in to ask her to mend her habit. To her immense surprise, however, it was the Canterville Ghost himself! He was sitting by the window, watching the ruined gold of the yellowing trees fly through the air, and the red leaves dancing madly down the long avenue. His head was leaning on his hand, and his whole attitude was one of extreme depression. Indeed, so forlorn, and so much out of repair did he look, that little Virginia, whose first idea had been to run away and lock herself in her room, was filled with pity, and determined to try and comfort him. So light was her footfall, and so deep his melancholy, that he was not aware of her presence till she spoke to him.\n\n‘I am so sorry for you,’ she said, ‘but my brothers are going back to Eton to-morrow, and then, if you behave yourself, no one will annoy you.’\n\n‘It is absurd asking me to behave myself,’ he answered, looking round in astonishment at the pretty little girl who had ventured to address him, ‘quite absurd. I must rattle my chains, and groan through keyholes, and walk about at night, if that is what you mean. It is my only reason for existing.’\n\n‘It is no reason at all for existing, and you know you have been very wicked. Mrs. Umney told us, the first day we arrived here, that you had killed your wife.’\n\n‘Well, I quite admit it,’ said the Ghost petulantly, ‘but it was a purely family matter, and concerned no one else.’\n\n‘It is very wrong to kill any one,’ said Virginia, who at times had a sweet Puritan gravity, caught from some old New England ancestor.\n\n‘Oh, I hate the cheap severity of abstract ethics! My wife was very plain, never had my ruffs properly starched, and knew nothing about cookery. Why, there was a buck I had shot in Hogley Woods, a magnificent pricket, and do you know how she had it sent up to table? However, it is no matter now, for it is all over, and I don’t think it was very nice of her brothers to starve me to death, though I did kill her.’"
+      },
+      "request_id": "1087b5131896646c3d395837",
+      "request_sha256": "0d2143f4c5e552dee4909a6aa4d7d5156e231210adf3a12c205980098a8e2f1d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "24e8c85196f6dc968c7398d1708868291330edf0851a924c89ad57201dea4c2e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "09c7c24548e42fb23f664043",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 455,
+      "passage_id": "V2_wilde_dorian_gray_015",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 09c7c24548e42fb23f664043\noriginal_word_count: 455\n\nPassage:\nHe shivered and went back, closing the window behind him.\n\nHaving reached the door, he turned the key and opened it. He did not even glance at the murdered man. He felt that the secret of the whole thing was not to realize the situation. The friend who had painted the fatal portrait to which all his misery had been due had gone out of his life. That was enough.\n\nThen he remembered the lamp. It was a rather curious one of Moorish workmanship, made of dull silver inlaid with arabesques of burnished steel, and studded with coarse turquoises. Perhaps it might be missed by his servant, and questions would be asked. He hesitated for a moment, then he turned back and took it from the table. He could not help seeing the dead thing. How still it was! How horribly white the long hands looked! It was like a dreadful wax image.\n\nHaving locked the door behind him, he crept quietly downstairs. The woodwork creaked and seemed to cry out as if in pain. He stopped several times and waited. No: everything was still. It was merely the sound of his own footsteps.\n\nWhen he reached the library, he saw the bag and coat in the corner. They must be hidden away somewhere. He unlocked a secret press that was in the wainscoting, a press in which he kept his own curious disguises, and put them into it. He could easily burn them afterwards. Then he pulled out his watch. It was twenty minutes to two.\n\nHe sat down and began to think. Every year—every month, almost—men were strangled in England for what he had done. There had been a madness of murder in the air. Some red star had come too close to the earth.... And yet, what evidence was there against him? Basil Hallward had left the house at eleven. No one had seen him come in again. Most of the servants were at Selby Royal. His valet had gone to bed.... Paris! Yes. It was to Paris that Basil had gone, and by the midnight train, as he had intended. With his curious reserved habits, it would be months before any suspicions would be roused. Months! Everything could be destroyed long before then.\n\nA sudden thought struck him. He put on his fur coat and hat and went out into the hall. There he paused, hearing the slow heavy tread of the policeman on the pavement outside and seeing the flash of the bull’s-eye reflected in the window. He waited and held his breath.\n\nAfter a few moments he drew back the latch and slipped out, shutting the door very gently behind him. Then he began ringing the bell."
+      },
+      "request_id": "09c7c24548e42fb23f664043",
+      "request_sha256": "b445a054c8f035537156348030988b70616c4661442fe715e9b86ebdf4da6b92",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "39da1a280f19cb2dab7cf7dcdf80f25667c963d9090d9cac8546d16028022b40"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "5c5bbefa3e1a82dc229c994c",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 484,
+      "passage_id": "V2_wilde_canterville_ghost_012",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 5c5bbefa3e1a82dc229c994c\noriginal_word_count: 484\n\nPassage:\nIn fact, he was dressed for the character of ‘Jonas the Graveless, or the Corpse-Snatcher of Chertsey Barn,’ one of his most remarkable impersonations, and one which the Cantervilles had every reason to remember, as it was the real origin of their quarrel with their neighbour, Lord Rufford. It was about a quarter past two o’clock in the morning, and, as far as he could ascertain, no one was stirring. As he was strolling towards the library, however, to see if there were any traces left of the blood-stain, suddenly there leaped out on him from a dark corner two figures, who waved their arms wildly above their heads, and shrieked out ‘BOO!’ in his ear.\n\nSeized with a panic, which, under the circumstances, was only natural, he rushed for the staircase, but found Washington Otis waiting for him there with the big garden-syringe; and being thus hemmed in by his enemies on every side, and driven almost to bay, he vanished into the great iron stove, which, fortunately for him, was not lit, and had to make his way home through the flues and chimneys, arriving at his own room in a terrible state of dirt, disorder, and despair.\n\nAfter this he was not seen again on any nocturnal expedition. The twins lay in wait for him on several occasions, and strewed the passages with nutshells every night to the great annoyance of their parents and the servants, but it was of no avail. It was quite evident that his feelings were so wounded that he would not appear. Mr. Otis consequently resumed his great work on the history of the Democratic Party, on which he had been engaged for some years; Mrs. Otis organised a wonderful clam-bake, which amazed the whole county; the boys took to lacrosse, euchre, poker, and other American national games; and Virginia rode about the lanes on her pony, accompanied by the young Duke of Cheshire, who had come to spend the last week of his holidays at Canterville Chase. It was generally assumed that the ghost had gone away, and, in fact, Mr. Otis wrote a letter to that effect to Lord Canterville, who, in reply, expressed his great pleasure at the news, and sent his best congratulations to the Minister’s worthy wife.\n\nThe Otises, however, were deceived, for the ghost was still in the house, and though now almost an invalid, was by no means ready to let matters rest, particularly as he heard that among the guests was the young Duke of Cheshire, whose grand-uncle, Lord Francis Stilton, had once bet a hundred guineas with Colonel Carbury that he would play dice with the Canterville ghost, and was found the next morning lying on the floor of the card-room in such a helpless paralytic state, that though he lived on to a great age, he was never able to say anything again but ‘Double Sixes.’"
+      },
+      "request_id": "5c5bbefa3e1a82dc229c994c",
+      "request_sha256": "c02a0551410e9f532ef86d7dd1060dd8ba3125a29a89a8bc75fac7d2021852ad",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "765685425d64dcdb0f1c940f760af69e8a064ca586629e7592a3c4da811f31e1"
+    }
+  ],
+  "session_id": "01a0e813-c883-7a70-90ee-34d44c39cbb3",
+  "worker_id": "astra_i",
+  "worker_identity_sha256": "6c802cf8cfe99efd755391e17c8d336008b6d7090dd835dff65ad295b1caae73"
+}

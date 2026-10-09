@@ -1,0 +1,68 @@
+{
+  "batch_id": "88d78f4aad98723f74c3",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:29:25.410986+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "052719425ac822c7d1c62245",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 486,
+      "passage_id": "V2_dickens_great_expectations_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 052719425ac822c7d1c62245\noriginal_word_count: 486\n\nPassage:\nThere was something so remarkable in the increasing glare of Mr. Wopsle’s eye, and he seemed to be turning so many things over in his mind and to grow so confused, that I could not make it out. I sat thinking of it long after he had ascended to the clouds in a large watch-case, and still I could not make it out. I was still thinking of it when I came out of the theatre an hour afterwards, and found him waiting for me near the door.\n\n“How do you do?” said I, shaking hands with him as we turned down the street together. “I saw that you saw me.”\n\n“Saw you, Mr. Pip!” he returned. “Yes, of course I saw you. But who else was there?”\n\n“Who else?”\n\n“It is the strangest thing,” said Mr. Wopsle, drifting into his lost look again; “and yet I could swear to him.”\n\nBecoming alarmed, I entreated Mr. Wopsle to explain his meaning.\n\n“Whether I should have noticed him at first but for your being there,” said Mr. Wopsle, going on in the same lost way, “I can’t be positive; yet I think I should.”\n\nInvoluntarily I looked round me, as I was accustomed to look round me when I went home; for these mysterious words gave me a chill.\n\n“Oh! He can’t be in sight,” said Mr. Wopsle. “He went out before I went off. I saw him go.”\n\nHaving the reason that I had for being suspicious, I even suspected this poor actor. I mistrusted a design to entrap me into some admission. Therefore I glanced at him as we walked on together, but said nothing.\n\n“I had a ridiculous fancy that he must be with you, Mr. Pip, till I saw that you were quite unconscious of him, sitting behind you there like a ghost.”\n\nMy former chill crept over me again, but I was resolved not to speak yet, for it was quite consistent with his words that he might be set on to induce me to connect these references with Provis. Of course, I was perfectly sure and safe that Provis had not been there.\n\n“I dare say you wonder at me, Mr. Pip; indeed, I see you do. But it is so very strange! You’ll hardly believe what I am going to tell you. I could hardly believe it myself, if you told me.”\n\n“Indeed?” said I.\n\n“No, indeed. Mr. Pip, you remember in old times a certain Christmas Day, when you were quite a child, and I dined at Gargery’s, and some soldiers came to the door to get a pair of handcuffs mended?”\n\n“I remember it very well.”\n\n“And you remember that there was a chase after two convicts, and that we joined in it, and that Gargery took you on his back, and that I took the lead, and you kept up with me as well as you could?”"
+      },
+      "request_id": "052719425ac822c7d1c62245",
+      "request_sha256": "9a373fb233e5006c50e737cf126edcf211337061bf42333037b56d848c94b972",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "f0648423419afd0f864c71bd77b9c917df03049c99e3e0d1935a18258da491e2"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "c0598f9dcf8c02053d725d42",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_poe_murders_rue_morgue_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: c0598f9dcf8c02053d725d42\noriginal_word_count: 450\n\nPassage:\nBut in that bitter _tirade_ upon Chantilly, which appeared in yesterday’s ‘_Musée_,’ the satirist, making some disgraceful allusions to the cobbler’s change of name upon assuming the buskin, quoted a Latin line about which we have often conversed. I mean the line\n\nPerdidit antiquum litera prima sonum.\n\n“I had told you that this was in reference to Orion, formerly written Urion; and, from certain pungencies connected with this explanation, I was aware that you could not have forgotten it. It was clear, therefore, that you would not fail to combine the two ideas of Orion and Chantilly. That you did combine them I saw by the character of the smile which passed over your lips. You thought of the poor cobbler’s immolation. So far, you had been stooping in your gait; but now I saw you draw yourself up to your full height. I was then sure that you reflected upon the diminutive figure of Chantilly. At this point I interrupted your meditations to remark that as, in fact, he was a very little fellow—that Chantilly—he would do better at the _Théâtre des Variétés_.”\n\nNot long after this, we were looking over an evening edition of the “Gazette des Tribunaux,” when the following paragraphs arrested our attention.\n\n“_Extraordinary Murders_.—This morning, about three o’clock, the inhabitants of the Quartier St. Roch were aroused from sleep by a succession of terrific shrieks, issuing, apparently, from the fourth story of a house in the Rue Morgue, known to be in the sole occupancy of one Madame L’Espanaye, and her daughter, Mademoiselle Camille L’Espanaye. After some delay, occasioned by a fruitless attempt to procure admission in the usual manner, the gateway was broken in with a crowbar, and eight or ten of the neighbors entered accompanied by two _gendarmes_. By this time the cries had ceased; but, as the party rushed up the first flight of stairs, two or more rough voices in angry contention were distinguished and seemed to proceed from the upper part of the house. As the second landing was reached, these sounds, also, had ceased and everything remained perfectly quiet. The party spread themselves and hurried from room to room. Upon arriving at a large back chamber in the fourth story, (the door of which, being found locked, with the key inside, was forced open,) a spectacle presented itself which struck every one present not less with horror than with astonishment.\n\n“The apartment was in the wildest disorder—the furniture broken and thrown about in all directions. There was only one bedstead; and from this the bed had been removed, and thrown into the middle of the floor. On a chair lay a razor, besmeared with blood."
+      },
+      "request_id": "c0598f9dcf8c02053d725d42",
+      "request_sha256": "e83a8afbfccb072eec9eedde3dddef3d5a2c1798f55174c12e0f81fc822608a8",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "5d1eabbc908de907f44ae635448b02b7f371e8f23de5067656b3cc8bb5303174"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "597dd2202ac2c0e265e78c9a",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 476,
+      "passage_id": "V2_poe_the_gold_bug_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 597dd2202ac2c0e265e78c9a\noriginal_word_count: 476\n\nPassage:\nPresently his voice was heard in a sort of halloo.\n\n“How much fudder is got for go?”\n\n“How high up are you?” asked Legrand.\n\n“Ebber so fur,” replied the negro; “can see de sky fru de top ob de tree.”\n\n“Never mind the sky, but attend to what I say. Look down the trunk and count the limbs below you on this side. How many limbs have you passed?”\n\n“One, two, tree, four, fibe—I done pass fibe big limb, massa, pon dis side.”\n\n“Then go one limb higher.”\n\nIn a few minutes the voice was heard again, announcing that the seventh limb was attained.\n\n“Now, Jup,” cried Legrand, evidently much excited, “I want you to work your way out upon that limb as far as you can. If you see anything strange, let me know.” By this time what little doubt I might have entertained of my poor friend’s insanity, was put finally at rest. I had no alternative but to conclude him stricken with lunacy, and I became seriously anxious about getting him home. While I was pondering upon what was best to be done, Jupiter’s voice was again heard.\n\n“Mos feerd for to ventur pon dis limb berry far—’tis dead limb putty much all de way.”\n\n“Did you say it was a dead limb, Jupiter?” cried Legrand in a quavering voice.\n\n“Yes, massa, him dead as de door-nail—done up for sartain—done departed dis here life.”\n\n“What in the name heaven shall I do?” asked Legrand, seemingly in the greatest distress.\n\n“Do!” said I, glad of an opportunity to interpose a word, “why come home and go to bed. Come now!—that’s a fine fellow. It’s getting late, and, besides, you remember your promise.”\n\n“Jupiter,” cried he, without heeding me in the least, “do you hear me?”\n\n“Yes, Massa Will, hear you ebber so plain.”\n\n“Try the wood well, then, with your knife, and see if you think it very rotten.”\n\n“Him rotten, massa, sure nuff,” replied the negro in a few moments, “but not so berry rotten as mought be. Mought ventur out leetle way pon de limb by myself, dat’s true.”\n\n“By yourself!—what do you mean?”\n\n“Why I mean de bug. ’Tis _berry_ hebby bug. Spose I drop him down fuss, and den de limb won’t break wid just de weight ob one nigger.”\n\n“You infernal scoundrel!” cried Legrand, apparently much relieved, “what do you mean by telling me such nonsense as that? As sure as you drop that beetle I’ll break your neck. Look here, Jupiter, do you hear me?”\n\n“Yes, massa, needn’t hollo at poor nigger dat style.”\n\n“Well! now listen!—if you will venture out on the limb as far as you think safe, and not let go the beetle, I’ll make you a present of a silver dollar as soon as you get down.”"
+      },
+      "request_id": "597dd2202ac2c0e265e78c9a",
+      "request_sha256": "f76513d6a849be6a6c01126d935aeb937a6e6fea2d5a3078537cd27c4545519a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "2c28c6108ab2f22c4d879375d4ebbf8f803d0ac5824cfde1bffa1d18430e6c52"
+    }
+  ],
+  "session_id": "01a0e866-9bf1-7e03-8d89-34a75a5436e8",
+  "worker_id": "astra_v",
+  "worker_identity_sha256": "0b2b5de575a91a248a2d744e77077f7abb92d61d159b0293192af3288b1ff4f6"
+}

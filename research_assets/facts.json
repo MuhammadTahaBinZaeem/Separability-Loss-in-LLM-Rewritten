@@ -1,0 +1,761 @@
+{
+  "availability": [
+    {
+      "model_key": "gem31lite",
+      "label": "Gemini 3.1 Flash Lite",
+      "requests": 1080,
+      "valid": 1079,
+      "warning": 1050,
+      "failed": 1
+    },
+    {
+      "model_key": "azure_replication",
+      "label": "GPT-5.4 Nano",
+      "requests": 1080,
+      "valid": 983,
+      "warning": 2,
+      "failed": 97
+    },
+    {
+      "model_key": "codex51",
+      "label": "GPT-5.1 Codex",
+      "requests": 1080,
+      "valid": 1002,
+      "warning": 210,
+      "failed": 78
+    },
+    {
+      "model_key": "luna56",
+      "label": "GPT-5.6 Luna",
+      "requests": 1080,
+      "valid": 986,
+      "warning": 35,
+      "failed": 94
+    },
+    {
+      "model_key": "terra56",
+      "label": "GPT-5.6 Terra",
+      "requests": 1080,
+      "valid": 988,
+      "warning": 8,
+      "failed": 92
+    },
+    {
+      "model_key": "astra_session",
+      "label": "Codex session (Astra label)",
+      "requests": 1080,
+      "valid": 1080,
+      "warning": 95,
+      "failed": 0
+    }
+  ],
+  "length": [
+    {
+      "model_key": "gem31lite",
+      "condition": "paraphrase",
+      "valid": 360,
+      "median_length_ratio": 0.61800274,
+      "q25": 0.54321957,
+      "q75": 0.70170827
+    },
+    {
+      "model_key": "gem31lite",
+      "condition": "modernize",
+      "valid": 360,
+      "median_length_ratio": 0.62392435,
+      "q25": 0.5434180075,
+      "q75": 0.7024518024999999
+    },
+    {
+      "model_key": "gem31lite",
+      "condition": "simplify",
+      "valid": 359,
+      "median_length_ratio": 0.60606061,
+      "q25": 0.52759075,
+      "q75": 0.6659593500000001
+    },
+    {
+      "model_key": "azure_replication",
+      "condition": "paraphrase",
+      "valid": 327,
+      "median_length_ratio": 1.00591716,
+      "q25": 0.979777535,
+      "q75": 1.02625833
+    },
+    {
+      "model_key": "azure_replication",
+      "condition": "modernize",
+      "valid": 331,
+      "median_length_ratio": 0.98672566,
+      "q25": 0.96731964,
+      "q75": 1.002219755
+    },
+    {
+      "model_key": "azure_replication",
+      "condition": "simplify",
+      "valid": 325,
+      "median_length_ratio": 0.97835498,
+      "q25": 0.94628099,
+      "q75": 1.00657895
+    },
+    {
+      "model_key": "codex51",
+      "condition": "paraphrase",
+      "valid": 332,
+      "median_length_ratio": 0.903702515,
+      "q25": 0.8744108374999999,
+      "q75": 0.9293344725
+    },
+    {
+      "model_key": "codex51",
+      "condition": "modernize",
+      "valid": 335,
+      "median_length_ratio": 0.89978214,
+      "q25": 0.8681079549999999,
+      "q75": 0.93246187
+    },
+    {
+      "model_key": "codex51",
+      "condition": "simplify",
+      "valid": 335,
+      "median_length_ratio": 0.87363834,
+      "q25": 0.837207495,
+      "q75": 0.90959195
+    },
+    {
+      "model_key": "luna56",
+      "condition": "paraphrase",
+      "valid": 326,
+      "median_length_ratio": 0.94764134,
+      "q25": 0.9196736449999999,
+      "q75": 0.9667221024999999
+    },
+    {
+      "model_key": "luna56",
+      "condition": "modernize",
+      "valid": 328,
+      "median_length_ratio": 0.94911504,
+      "q25": 0.92371134,
+      "q75": 0.9712048
+    },
+    {
+      "model_key": "luna56",
+      "condition": "simplify",
+      "valid": 332,
+      "median_length_ratio": 0.9269064149999999,
+      "q25": 0.8953919475,
+      "q75": 0.9516537924999999
+    },
+    {
+      "model_key": "terra56",
+      "condition": "paraphrase",
+      "valid": 331,
+      "median_length_ratio": 0.9580574,
+      "q25": 0.938965825,
+      "q75": 0.97569058
+    },
+    {
+      "model_key": "terra56",
+      "condition": "modernize",
+      "valid": 331,
+      "median_length_ratio": 0.9470339,
+      "q25": 0.925396135,
+      "q75": 0.9690947750000001
+    },
+    {
+      "model_key": "terra56",
+      "condition": "simplify",
+      "valid": 326,
+      "median_length_ratio": 0.93555325,
+      "q25": 0.913486195,
+      "q75": 0.9599577175
+    },
+    {
+      "model_key": "astra_session",
+      "condition": "paraphrase",
+      "valid": 360,
+      "median_length_ratio": 0.906252905,
+      "q25": 0.8824496850000001,
+      "q75": 0.9315490825
+    },
+    {
+      "model_key": "astra_session",
+      "condition": "modernize",
+      "valid": 360,
+      "median_length_ratio": 0.90212384,
+      "q25": 0.8770512675,
+      "q75": 0.9296256724999999
+    },
+    {
+      "model_key": "astra_session",
+      "condition": "simplify",
+      "valid": 360,
+      "median_length_ratio": 0.908998895,
+      "q25": 0.87997671,
+      "q75": 0.9292025024999999
+    }
+  ],
+  "primary_positive_losses": 54,
+  "primary_holm_significant": [
+    {
+      "model_key": "gem31lite",
+      "classifier": "lda_ledoit_wolf_shrinkage",
+      "condition": "paraphrase",
+      "estimand": "paired_loss_conditional_on_valid_first_output",
+      "excluded_failed_outputs": "0",
+      "status": "estimable",
+      "missing_works": "[]",
+      "paired_passages": "360",
+      "work_blocks": "18",
+      "original_macro_f1": "0.72218054102773",
+      "rewrite_macro_f1": "0.29057084902889385",
+      "macro_f1_loss": "0.43160969199883614",
+      "loss_ci_low": "0.34976225411664985",
+      "loss_ci_high": "0.5166349429027349",
+      "p_work_swap_two_sided": "0.0006",
+      "bootstrap_replicates": "5000",
+      "permutation_replicates": "9999",
+      "seed": "20260915",
+      "inference_scope": "fixed_authors_conditional_on_fitted_models",
+      "p_holm": "0.031799999999999995"
+    },
+    {
+      "model_key": "gem31lite",
+      "classifier": "lda_ledoit_wolf_shrinkage",
+      "condition": "modernize",
+      "estimand": "paired_loss_conditional_on_valid_first_output",
+      "excluded_failed_outputs": "0",
+      "status": "estimable",
+      "missing_works": "[]",
+      "paired_passages": "360",
+      "work_blocks": "18",
+      "original_macro_f1": "0.72218054102773",
+      "rewrite_macro_f1": "0.30708969250236984",
+      "macro_f1_loss": "0.41509084852536016",
+      "loss_ci_low": "0.3321389571298837",
+      "loss_ci_high": "0.4962473334027539",
+      "p_work_swap_two_sided": "0.0008",
+      "bootstrap_replicates": "5000",
+      "permutation_replicates": "9999",
+      "seed": "20260915",
+      "inference_scope": "fixed_authors_conditional_on_fitted_models",
+      "p_holm": "0.041600000000000005"
+    },
+    {
+      "model_key": "gem31lite",
+      "classifier": "lda_ledoit_wolf_shrinkage",
+      "condition": "simplify",
+      "estimand": "paired_loss_conditional_on_valid_first_output",
+      "excluded_failed_outputs": "1",
+      "status": "estimable",
+      "missing_works": "[]",
+      "paired_passages": "359",
+      "work_blocks": "18",
+      "original_macro_f1": "0.7216480966450183",
+      "rewrite_macro_f1": "0.2651432119079178",
+      "macro_f1_loss": "0.4565048847371005",
+      "loss_ci_low": "0.3796533439918827",
+      "loss_ci_high": "0.5360085207598136",
+      "p_work_swap_two_sided": "0.0005",
+      "bootstrap_replicates": "5000",
+      "permutation_replicates": "9999",
+      "seed": "20260915",
+      "inference_scope": "fixed_authors_conditional_on_fitted_models",
+      "p_holm": "0.027"
+    }
+  ],
+  "semantic_filtered_positive": 54,
+  "semantic_filtered_loss_range": [
+    0.0010237317751172759,
+    0.45124770110064233
+  ],
+  "affine_full_comparisons": 36,
+  "affine_relative_reduction_range": [
+    0.14592023475433719,
+    0.38046168273533815
+  ],
+  "rating_summary": [
+    {
+      "model_key": "astra_session",
+      "audited_pairs": "270",
+      "ratings": "540",
+      "mean_meaning": "4.992592592592593",
+      "risk_union_pairs": "2",
+      "either_unusable_pairs": "0",
+      "meaning_1_ratings": "0",
+      "meaning_2_ratings": "0",
+      "meaning_3_ratings": "0",
+      "meaning_4_ratings": "4",
+      "meaning_5_ratings": "536"
+    },
+    {
+      "model_key": "azure_replication",
+      "audited_pairs": "270",
+      "ratings": "540",
+      "mean_meaning": "4.9",
+      "risk_union_pairs": "13",
+      "either_unusable_pairs": "10",
+      "meaning_1_ratings": "0",
+      "meaning_2_ratings": "8",
+      "meaning_3_ratings": "11",
+      "meaning_4_ratings": "8",
+      "meaning_5_ratings": "513"
+    },
+    {
+      "model_key": "codex51",
+      "audited_pairs": "270",
+      "ratings": "540",
+      "mean_meaning": "4.979629629629629",
+      "risk_union_pairs": "3",
+      "either_unusable_pairs": "2",
+      "meaning_1_ratings": "0",
+      "meaning_2_ratings": "0",
+      "meaning_3_ratings": "3",
+      "meaning_4_ratings": "5",
+      "meaning_5_ratings": "532"
+    },
+    {
+      "model_key": "gem31lite",
+      "audited_pairs": "270",
+      "ratings": "540",
+      "mean_meaning": "4.531481481481482",
+      "risk_union_pairs": "96",
+      "either_unusable_pairs": "29",
+      "meaning_1_ratings": "0",
+      "meaning_2_ratings": "4",
+      "meaning_3_ratings": "52",
+      "meaning_4_ratings": "137",
+      "meaning_5_ratings": "347"
+    },
+    {
+      "model_key": "luna56",
+      "audited_pairs": "270",
+      "ratings": "540",
+      "mean_meaning": "4.983333333333333",
+      "risk_union_pairs": "3",
+      "either_unusable_pairs": "1",
+      "meaning_1_ratings": "0",
+      "meaning_2_ratings": "0",
+      "meaning_3_ratings": "2",
+      "meaning_4_ratings": "5",
+      "meaning_5_ratings": "533"
+    },
+    {
+      "model_key": "terra56",
+      "audited_pairs": "270",
+      "ratings": "540",
+      "mean_meaning": "4.985185185185185",
+      "risk_union_pairs": "4",
+      "either_unusable_pairs": "0",
+      "meaning_1_ratings": "0",
+      "meaning_2_ratings": "0",
+      "meaning_3_ratings": "0",
+      "meaning_4_ratings": "8",
+      "meaning_5_ratings": "532"
+    }
+  ],
+  "panels": [
+    {
+      "model_key": "gem31lite",
+      "panel": "valid_full",
+      "status": "estimable",
+      "eligible_passages": 359,
+      "minimum_words": 0,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "gem31lite",
+      "panel": "matched200_full",
+      "status": "estimable",
+      "eligible_passages": 339,
+      "minimum_words": 200,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "gem31lite",
+      "panel": "w200_prefix",
+      "status": "estimable",
+      "eligible_passages": 339,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "gem31lite",
+      "panel": "w200_middle",
+      "status": "estimable",
+      "eligible_passages": 339,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "gem31lite",
+      "panel": "w200_suffix",
+      "status": "estimable",
+      "eligible_passages": 339,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "gem31lite",
+      "panel": "matched300_full",
+      "status": "not_estimable",
+      "eligible_passages": 70,
+      "minimum_words": 300,
+      "crop_size": 0,
+      "missing_works": "[[\"poe\", \"hans_pfaal\"], [\"shelley\", \"the_last_man\"]]"
+    },
+    {
+      "model_key": "gem31lite",
+      "panel": "w300_middle",
+      "status": "not_estimable",
+      "eligible_passages": 70,
+      "minimum_words": 300,
+      "crop_size": 300,
+      "missing_works": "[[\"poe\", \"hans_pfaal\"], [\"shelley\", \"the_last_man\"]]"
+    },
+    {
+      "model_key": "azure_replication",
+      "panel": "valid_full",
+      "status": "estimable",
+      "eligible_passages": 315,
+      "minimum_words": 0,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "azure_replication",
+      "panel": "matched200_full",
+      "status": "estimable",
+      "eligible_passages": 315,
+      "minimum_words": 200,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "azure_replication",
+      "panel": "w200_prefix",
+      "status": "estimable",
+      "eligible_passages": 315,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "azure_replication",
+      "panel": "w200_middle",
+      "status": "estimable",
+      "eligible_passages": 315,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "azure_replication",
+      "panel": "w200_suffix",
+      "status": "estimable",
+      "eligible_passages": 315,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "azure_replication",
+      "panel": "matched300_full",
+      "status": "estimable",
+      "eligible_passages": 315,
+      "minimum_words": 300,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "azure_replication",
+      "panel": "w300_middle",
+      "status": "estimable",
+      "eligible_passages": 315,
+      "minimum_words": 300,
+      "crop_size": 300,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "codex51",
+      "panel": "valid_full",
+      "status": "estimable",
+      "eligible_passages": 321,
+      "minimum_words": 0,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "codex51",
+      "panel": "matched200_full",
+      "status": "estimable",
+      "eligible_passages": 321,
+      "minimum_words": 200,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "codex51",
+      "panel": "w200_prefix",
+      "status": "estimable",
+      "eligible_passages": 321,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "codex51",
+      "panel": "w200_middle",
+      "status": "estimable",
+      "eligible_passages": 321,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "codex51",
+      "panel": "w200_suffix",
+      "status": "estimable",
+      "eligible_passages": 321,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "codex51",
+      "panel": "matched300_full",
+      "status": "estimable",
+      "eligible_passages": 321,
+      "minimum_words": 300,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "codex51",
+      "panel": "w300_middle",
+      "status": "estimable",
+      "eligible_passages": 321,
+      "minimum_words": 300,
+      "crop_size": 300,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "luna56",
+      "panel": "valid_full",
+      "status": "estimable",
+      "eligible_passages": 317,
+      "minimum_words": 0,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "luna56",
+      "panel": "matched200_full",
+      "status": "estimable",
+      "eligible_passages": 317,
+      "minimum_words": 200,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "luna56",
+      "panel": "w200_prefix",
+      "status": "estimable",
+      "eligible_passages": 317,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "luna56",
+      "panel": "w200_middle",
+      "status": "estimable",
+      "eligible_passages": 317,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "luna56",
+      "panel": "w200_suffix",
+      "status": "estimable",
+      "eligible_passages": 317,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "luna56",
+      "panel": "matched300_full",
+      "status": "estimable",
+      "eligible_passages": 317,
+      "minimum_words": 300,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "luna56",
+      "panel": "w300_middle",
+      "status": "estimable",
+      "eligible_passages": 317,
+      "minimum_words": 300,
+      "crop_size": 300,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "terra56",
+      "panel": "valid_full",
+      "status": "estimable",
+      "eligible_passages": 318,
+      "minimum_words": 0,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "terra56",
+      "panel": "matched200_full",
+      "status": "estimable",
+      "eligible_passages": 318,
+      "minimum_words": 200,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "terra56",
+      "panel": "w200_prefix",
+      "status": "estimable",
+      "eligible_passages": 318,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "terra56",
+      "panel": "w200_middle",
+      "status": "estimable",
+      "eligible_passages": 318,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "terra56",
+      "panel": "w200_suffix",
+      "status": "estimable",
+      "eligible_passages": 318,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "terra56",
+      "panel": "matched300_full",
+      "status": "estimable",
+      "eligible_passages": 318,
+      "minimum_words": 300,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "terra56",
+      "panel": "w300_middle",
+      "status": "estimable",
+      "eligible_passages": 318,
+      "minimum_words": 300,
+      "crop_size": 300,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "astra_session",
+      "panel": "valid_full",
+      "status": "estimable",
+      "eligible_passages": 360,
+      "minimum_words": 0,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "astra_session",
+      "panel": "matched200_full",
+      "status": "estimable",
+      "eligible_passages": 360,
+      "minimum_words": 200,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "astra_session",
+      "panel": "w200_prefix",
+      "status": "estimable",
+      "eligible_passages": 360,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "astra_session",
+      "panel": "w200_middle",
+      "status": "estimable",
+      "eligible_passages": 360,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "astra_session",
+      "panel": "w200_suffix",
+      "status": "estimable",
+      "eligible_passages": 360,
+      "minimum_words": 200,
+      "crop_size": 200,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "astra_session",
+      "panel": "matched300_full",
+      "status": "estimable",
+      "eligible_passages": 360,
+      "minimum_words": 300,
+      "crop_size": 0,
+      "missing_works": "[]"
+    },
+    {
+      "model_key": "astra_session",
+      "panel": "w300_middle",
+      "status": "estimable",
+      "eligible_passages": 360,
+      "minimum_words": 300,
+      "crop_size": 300,
+      "missing_works": "[]"
+    }
+  ],
+  "returned_model_labels": {
+    "gem31lite": {
+      "gemini-3.1-flash-lite": 1080
+    },
+    "azure_replication": {
+      "": 26,
+      "gpt-5.4-nano": 1054
+    },
+    "codex51": {
+      "gpt-5.1-codex": 1053,
+      "": 27
+    },
+    "luna56": {
+      "gpt-5.6-luna": 1054,
+      "": 26
+    },
+    "terra56": {
+      "gpt-5.6-terra": 1053,
+      "": 27
+    },
+    "astra_session": {
+      "": 1080
+    }
+  }
+}

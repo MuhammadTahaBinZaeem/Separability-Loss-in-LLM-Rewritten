@@ -1,0 +1,68 @@
+{
+  "batch_id": "eb137519c23a28f520c7",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:07:48.110765+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6e495f8cc6ceefbd5c145dfb",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 454,
+      "passage_id": "V2_dickens_oliver_twist_016",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 6e495f8cc6ceefbd5c145dfb\noriginal_word_count: 454\n\nPassage:\nThey know what a clever lad he is; he’ll be a lifer. They’ll make the Artful nothing less than a lifer.”\n\n“What do you mean by lagging and a lifer?” demanded Mr. Bolter. “What’s the good of talking in that way to me; why don’t yer speak so as I can understand yer?”\n\nFagin was about to translate these mysterious expressions into the vulgar tongue; and, being interpreted, Mr. Bolter would have been informed that they represented that combination of words, “transportation for life,” when the dialogue was cut short by the entry of Master Bates, with his hands in his breeches-pockets, and his face twisted into a look of semi-comical woe.\n\n“It’s all up, Fagin,” said Charley, when he and his new companion had been made known to each other.\n\n“What do you mean?”\n\n“They’ve found the gentleman as owns the box; two or three more’s a coming to ’dentify him; and the Artful’s booked for a passage out,” replied Master Bates. “I must have a full suit of mourning, Fagin, and a hatband, to wisit him in, afore he sets out upon his travels. To think of Jack Dawkins—lummy Jack—the Dodger—the Artful Dodger—going abroad for a common twopenny-halfpenny sneeze-box! I never thought he’d a done it under a gold watch, chain, and seals, at the lowest. Oh, why didn’t he rob some rich old gentleman of all his walables, and go out as a gentleman, and not like a common prig, without no honour nor glory!”\n\nWith this expression of feeling for his unfortunate friend, Master Bates sat himself on the nearest chair with an aspect of chagrin and despondency.\n\n“What do you talk about his having neither honour nor glory for!” exclaimed Fagin, darting an angry look at his pupil. “Wasn’t he always the top-sawyer among you all! Is there one of you that could touch him or come near him on any scent! Eh?”\n\n“Not one,” replied Master Bates, in a voice rendered husky by regret; “not one.”\n\n“Then what do you talk of?” replied Fagin angrily; “what are you blubbering for?”\n\n“’Cause it isn’t on the rec-ord, is it?” said Charley, chafed into perfect defiance of his venerable friend by the current of his regrets; “’cause it can’t come out in the ’dictment; ’cause nobody will never know half of what he was. How will he stand in the Newgate Calendar? P’raps not be there at all. Oh, my eye, my eye, wot a blow it is!”\n\n“Ha! ha!” cried Fagin, extending his right hand, and turning to Mr. Bolter in a fit of chuckling which shook him as though he had the palsy; “see what a pride they take in their profession, my dear."
+      },
+      "request_id": "6e495f8cc6ceefbd5c145dfb",
+      "request_sha256": "c46ff2389e8ae8c2e3332a9de0019d60aad2be0694824e4ece477ad35af7c2ce",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "7d90d478780b060191792edb33420377adf972bc11d50273c0d5e293a806149e"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "b32a83d56e3491678e9a4361",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 461,
+      "passage_id": "V2_austen_persuasion_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: b32a83d56e3491678e9a4361\noriginal_word_count: 461\n\nPassage:\n“I must go, uncertain of my fate; but I shall return hither, or follow your party, as soon as possible. A word, a look, will be enough to decide whether I enter your father’s house this evening or never.”\n\nSuch a letter was not to be soon recovered from. Half an hour’s solitude and reflection might have tranquillized her; but the ten minutes only which now passed before she was interrupted, with all the restraints of her situation, could do nothing towards tranquillity. Every moment rather brought fresh agitation. It was overpowering happiness. And before she was beyond the first stage of full sensation, Charles, Mary, and Henrietta all came in.\n\nThe absolute necessity of seeming like herself produced then an immediate struggle; but after a while she could do no more. She began not to understand a word they said, and was obliged to plead indisposition and excuse herself. They could then see that she looked very ill, were shocked and concerned, and would not stir without her for the world. This was dreadful. Would they only have gone away, and left her in the quiet possession of that room it would have been her cure; but to have them all standing or waiting around her was distracting, and in desperation, she said she would go home.\n\n“By all means, my dear,” cried Mrs Musgrove, “go home directly, and take care of yourself, that you may be fit for the evening. I wish Sarah was here to doctor you, but I am no doctor myself. Charles, ring and order a chair. She must not walk.”\n\nBut the chair would never do. Worse than all! To lose the possibility of speaking two words to Captain Wentworth in the course of her quiet, solitary progress up the town (and she felt almost certain of meeting him) could not be borne. The chair was earnestly protested against, and Mrs Musgrove, who thought only of one sort of illness, having assured herself with some anxiety, that there had been no fall in the case; that Anne had not at any time lately slipped down, and got a blow on her head; that she was perfectly convinced of having had no fall; could part with her cheerfully, and depend on finding her better at night.\n\nAnxious to omit no possible precaution, Anne struggled, and said—\n\n“I am afraid, ma’am, that it is not perfectly understood. Pray be so good as to mention to the other gentlemen that we hope to see your whole party this evening. I am afraid there had been some mistake; and I wish you particularly to assure Captain Harville and Captain Wentworth, that we hope to see them both.”\n\n“Oh! my dear, it is quite understood, I give you my word."
+      },
+      "request_id": "b32a83d56e3491678e9a4361",
+      "request_sha256": "41ec031d5378198e0935d5930dc2c7ea18968456c22abb157991a0d414e4cb26",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "9b8a6b29a879f4f3117e06929fa43c268ac9c4cef1d703fbd4f391380db75821"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "bf62fc04d9c47fd16e3acb1d",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 534,
+      "passage_id": "V2_twain_tom_sawyer_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: bf62fc04d9c47fd16e3acb1d\noriginal_word_count: 534\n\nPassage:\nWhen Tom awoke in the morning, he wondered where he was. He sat up and rubbed his eyes and looked around. Then he comprehended. It was the cool gray dawn, and there was a delicious sense of repose and peace in the deep pervading calm and silence of the woods. Not a leaf stirred; not a sound obtruded upon great Nature’s meditation. Beaded dewdrops stood upon the leaves and grasses. A white layer of ashes covered the fire, and a thin blue breath of smoke rose straight into the air. Joe and Huck still slept.\n\nNow, far away in the woods a bird called; another answered; presently the hammering of a woodpecker was heard. Gradually the cool dim gray of the morning whitened, and as gradually sounds multiplied and life manifested itself. The marvel of Nature shaking off sleep and going to work unfolded itself to the musing boy. A little green worm came crawling over a dewy leaf, lifting two-thirds of his body into the air from time to time and “sniffing around,” then proceeding again—for he was measuring, Tom said; and when the worm approached him, of its own accord, he sat as still as a stone, with his hopes rising and falling, by turns, as the creature still came toward him or seemed inclined to go elsewhere; and when at last it considered a painful moment with its curved body in the air and then came decisively down upon Tom’s leg and began a journey over him, his whole heart was glad—for that meant that he was going to have a new suit of clothes—without the shadow of a doubt a gaudy piratical uniform. Now a procession of ants appeared, from nowhere in particular, and went about their labors; one struggled manfully by with a dead spider five times as big as itself in its arms, and lugged it straight up a tree-trunk. A brown spotted lady-bug climbed the dizzy height of a grass blade, and Tom bent down close to it and said, “Lady-bug, lady-bug, fly away home, your house is on fire, your children’s alone,” and she took wing and went off to see about it—which did not surprise the boy, for he knew of old that this insect was credulous about conflagrations, and he had practised upon its simplicity more than once. A tumblebug came next, heaving sturdily at its ball, and Tom touched the creature, to see it shut its legs against its body and pretend to be dead. The birds were fairly rioting by this time. A catbird, the Northern mocker, lit in a tree over Tom’s head, and trilled out her imitations of her neighbors in a rapture of enjoyment; then a shrill jay swept down, a flash of blue flame, and stopped on a twig almost within the boy’s reach, cocked his head to one side and eyed the strangers with a consuming curiosity; a gray squirrel and a big fellow of the “fox” kind came skurrying along, sitting up at intervals to inspect and chatter at the boys, for the wild things had probably never seen a human being before and scarcely knew whether to be afraid or not."
+      },
+      "request_id": "bf62fc04d9c47fd16e3acb1d",
+      "request_sha256": "fc15b06536cd52f3aa34a7fb68267a4dfad5cb80498188ccb4eeb31d0f051ae2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "057991378a116b23483119635ea0d64109d30b449d07ca054c255cd39cd4150a"
+    }
+  ],
+  "session_id": "01a0e852-0aa6-7ae2-9bb7-b4f8a3387e53",
+  "worker_id": "astra_p",
+  "worker_identity_sha256": "afd3aba6357fe2ec9c9b6492844a9baccd6099faafc29ba8f935f467e4f98adf"
+}

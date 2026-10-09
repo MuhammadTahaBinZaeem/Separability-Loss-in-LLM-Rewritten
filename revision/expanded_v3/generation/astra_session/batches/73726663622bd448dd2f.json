@@ -1,0 +1,68 @@
+{
+  "batch_id": "73726663622bd448dd2f",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:26:20.581126+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "cbe79a7f9fbcda1d7832c61a",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: cbe79a7f9fbcda1d7832c61a\noriginal_word_count: 450\n\nPassage:\nThe only question that seemed to trouble him was, whom to make away with; for he was not blind to the fact that murder, like the religions of the Pagan world, requires a victim as well as a priest. Not being a genius, he had no enemies, and indeed he felt that this was not the time for the gratification of any personal pique or dislike, the mission in which he was engaged being one of great and grave solemnity. He accordingly made out a list of his friends and relatives on a sheet of notepaper, and after careful consideration, decided in favour of Lady Clementina Beauchamp, a dear old lady who lived in Curzon Street, and was his own second cousin by his mother’s side. He had always been very fond of Lady Clem, as every one called her, and as he was very wealthy himself, having come into all Lord Rugby’s property when he came of age, there was no possibility of his deriving any vulgar monetary advantage by her death. In fact, the more he thought over the matter, the more she seemed to him to be just the right person, and, feeling that any delay would be unfair to Sybil, he determined to make his arrangements at once.\n\nThe first thing to be done was, of course, to settle with the cheiromantist; so he sat down at a small Sheraton writing-table that stood near the window, drew a cheque for £105, payable to the order of Mr. Septimus Podgers, and, enclosing it in an envelope, told his valet to take it to West Moon Street. He then telephoned to the stables for his hansom, and dressed to go out. As he was leaving the room he looked back at Sybil Merton’s photograph, and swore that, come what may, he would never let her know what he was doing for her sake, but would keep the secret of his self-sacrifice hidden always in his heart.\n\nOn his way to the Buckingham, he stopped at a florist’s, and sent Sybil a beautiful basket of narcissus, with lovely white petals and staring pheasants’ eyes, and on arriving at the club, went straight to the library, rang the bell, and ordered the waiter to bring him a lemon-and-soda, and a book on Toxicology. He had fully decided that poison was the best means to adopt in this troublesome business. Anything like personal violence was extremely distasteful to him, and besides, he was very anxious not to murder Lady Clementina in any way that might attract public attention, as he hated the idea of being lionised at Lady Windermere’s, or seeing his name figuring in the paragraphs of vulgar society—newspapers."
+      },
+      "request_id": "cbe79a7f9fbcda1d7832c61a",
+      "request_sha256": "c2e4574cc52465c596dd9759df6f1d1ef13a9f805ac99c0f693a35cc02040749",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "db9e810f4b196a4b183d9754ade2db81cfa8ff8229513a885878bdc67d3f68e2"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "fefe1233f08184f0025ef070",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 473,
+      "passage_id": "V2_poe_the_gold_bug_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: fefe1233f08184f0025ef070\noriginal_word_count: 473\n\nPassage:\nI accordingly went over to the plantation, and re-instituted my inquiries among the older negroes of the place. At length one of the most aged of the women said that she had heard of such a place as Bessop’s Castle, and thought that she could guide me to it, but that it was not a castle nor a tavern, but a high rock.\n\n“I offered to pay her well for her trouble, and, after some demur, she consented to accompany me to the spot. We found it without much difficulty, when, dismissing her, I proceeded to examine the place. The ‘castle’ consisted of an irregular assemblage of cliffs and rocks—one of the latter being quite remarkable for its height as well as for its insulated and artificial appearance. I clambered to its apex, and then felt much at a loss as to what should be next done.\n\n“While I was busied in reflection, my eyes fell upon a narrow ledge in the eastern face of the rock, perhaps a yard below the summit upon which I stood. This ledge projected about eighteen inches, and was not more than a foot wide, while a niche in the cliff just above it gave it a rude resemblance to one of the hollow-backed chairs used by our ancestors. I made no doubt that here was the ‘devil’s seat’ alluded to in the MS., and now I seemed to grasp the full secret of the riddle.\n\n“The ‘good glass,’ I knew, could have reference to nothing but a telescope; for the word ‘glass’ is rarely employed in any other sense by seamen. Now here, I at once saw, was a telescope to be used, and a definite point of view, admitting no variation, from which to use it. Nor did I hesitate to believe that the phrases, ‘forty-one degrees and thirteen minutes,’ and ‘northeast and by north,’ were intended as directions for the levelling of the glass. Greatly excited by these discoveries, I hurried home, procured a telescope, and returned to the rock.\n\n“I let myself down to the ledge, and found that it was impossible to retain a seat upon it except in one particular position. This fact confirmed my preconceived idea. I proceeded to use the glass. Of course, the ‘forty-one degrees and thirteen minutes’ could allude to nothing but elevation above the visible horizon, since the horizontal direction was clearly indicated by the words, ‘northeast and by north.’ This latter direction I at once established by means of a pocket-compass; then, pointing the glass as nearly at an angle of forty-one degrees of elevation as I could do it by guess, I moved it cautiously up or down, until my attention was arrested by a circular rift or opening in the foliage of a large tree that overtopped its fellows in the distance."
+      },
+      "request_id": "fefe1233f08184f0025ef070",
+      "request_sha256": "b452512f9527623e3b7636c57fd5a77693f1392f1a4c602990fdf4ff07532306",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "44802a46931f96f9d0a021d554d2f0327761510774bfd27c6c20f0c71b514aa4"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "aa2479fd6f918966d1f725c7",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_shelley_frankenstein_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: aa2479fd6f918966d1f725c7\noriginal_word_count: 463\n\nPassage:\nI uncovered it, and a gentle breeze quickly fanned it into a flame. I observed this also and contrived a fan of branches, which roused the embers when they were nearly extinguished. When night came again I found, with pleasure, that the fire gave light as well as heat and that the discovery of this element was useful to me in my food, for I found some of the offals that the travellers had left had been roasted, and tasted much more savoury than the berries I gathered from the trees. I tried, therefore, to dress my food in the same manner, placing it on the live embers. I found that the berries were spoiled by this operation, and the nuts and roots much improved.\n\n“Food, however, became scarce, and I often spent the whole day searching in vain for a few acorns to assuage the pangs of hunger. When I found this, I resolved to quit the place that I had hitherto inhabited, to seek for one where the few wants I experienced would be more easily satisfied. In this emigration I exceedingly lamented the loss of the fire which I had obtained through accident and knew not how to reproduce it. I gave several hours to the serious consideration of this difficulty, but I was obliged to relinquish all attempt to supply it, and wrapping myself up in my cloak, I struck across the wood towards the setting sun. I passed three days in these rambles and at length discovered the open country. A great fall of snow had taken place the night before, and the fields were of one uniform white; the appearance was disconsolate, and I found my feet chilled by the cold damp substance that covered the ground.\n\n“It was about seven in the morning, and I longed to obtain food and shelter; at length I perceived a small hut, on a rising ground, which had doubtless been built for the convenience of some shepherd. This was a new sight to me, and I examined the structure with great curiosity. Finding the door open, I entered. An old man sat in it, near a fire, over which he was preparing his breakfast. He turned on hearing a noise, and perceiving me, shrieked loudly, and quitting the hut, ran across the fields with a speed of which his debilitated form hardly appeared capable. His appearance, different from any I had ever before seen, and his flight somewhat surprised me. But I was enchanted by the appearance of the hut; here the snow and rain could not penetrate; the ground was dry; and it presented to me then as exquisite and divine a retreat as Pandæmonium appeared to the dæmons of hell after their sufferings in the lake of fire."
+      },
+      "request_id": "aa2479fd6f918966d1f725c7",
+      "request_sha256": "de59b4579f840f4c355bea8b6e855a6dad1f0d471fce29a6af5f32a06329e5db",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "564dfd66eaed502f09568997b7f92462318be6fcceeca96602fcf1ce52809da8"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

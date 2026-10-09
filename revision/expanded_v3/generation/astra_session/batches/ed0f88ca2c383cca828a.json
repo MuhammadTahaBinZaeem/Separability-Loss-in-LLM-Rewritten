@@ -1,0 +1,68 @@
+{
+  "batch_id": "ed0f88ca2c383cca828a",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:28:16.686791+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "55b952b71d94737be243fee8",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_twain_tom_sawyer_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 55b952b71d94737be243fee8\noriginal_word_count: 453\n\nPassage:\n“Well, everybody does that way, Huck.”\n\n“Tom, it don’t make no difference. I ain’t everybody, and I can’t _stand_ it. It’s awful to be tied up so. And grub comes too easy—I don’t take no interest in vittles, that way. I got to ask to go a-fishing; I got to ask to go in a-swimming—dern’d if I hain’t got to ask to do everything. Well, I’d got to talk so nice it wasn’t no comfort—I’d got to go up in the attic and rip out awhile, every day, to git a taste in my mouth, or I’d a died, Tom. The widder wouldn’t let me smoke; she wouldn’t let me yell, she wouldn’t let me gape, nor stretch, nor scratch, before folks—” [Then with a spasm of special irritation and injury]—“And dad fetch it, she prayed all the time! I never see such a woman! I _had_ to shove, Tom—I just had to. And besides, that school’s going to open, and I’d a had to go to it—well, I wouldn’t stand _that_, Tom. Looky-here, Tom, being rich ain’t what it’s cracked up to be. It’s just worry and worry, and sweat and sweat, and a-wishing you was dead all the time. Now these clothes suits me, and this bar’l suits me, and I ain’t ever going to shake ’em any more. Tom, I wouldn’t ever got into all this trouble if it hadn’t ’a’ been for that money; now you just take my sheer of it along with your’n, and gimme a ten-center sometimes—not many times, becuz I don’t give a dern for a thing ’thout it’s tollable hard to git—and you go and beg off for me with the widder.”\n\n“Oh, Huck, you know I can’t do that. ’Tain’t fair; and besides if you’ll try this thing just a while longer you’ll come to like it.”\n\n“Like it! Yes—the way I’d like a hot stove if I was to set on it long enough. No, Tom, I won’t be rich, and I won’t live in them cussed smothery houses. I like the woods, and the river, and hogsheads, and I’ll stick to ’em, too. Blame it all! just as we’d got guns, and a cave, and all just fixed to rob, here this dern foolishness has got to come up and spile it all!”\n\nTom saw his opportunity—\n\n“Lookyhere, Huck, being rich ain’t going to keep me back from turning robber.”\n\n“No! Oh, good-licks; are you in real dead-wood earnest, Tom?”\n\n“Just as dead earnest as I’m sitting here. But Huck, we can’t let you into the gang if you ain’t respectable, you know.”\n\nHuck’s joy was quenched.\n\n“Can’t let me in, Tom?"
+      },
+      "request_id": "55b952b71d94737be243fee8",
+      "request_sha256": "3b14221151b8825ccde1f541127f911009988dad368c0678692c1590d603b735",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "fdc9700da4979429dbc48dbeae4ffef2205957464698097fcb1f908448527fa6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "62270716ad1fbb7bfb746229",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_wilde_dorian_gray_014",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 62270716ad1fbb7bfb746229\noriginal_word_count: 453\n\nPassage:\n“They must interest you, Dorian. Every gentleman is interested in his good name. You don’t want people to talk of you as something vile and degraded. Of course, you have your position, and your wealth, and all that kind of thing. But position and wealth are not everything. Mind you, I don’t believe these rumours at all. At least, I can’t believe them when I see you. Sin is a thing that writes itself across a man’s face. It cannot be concealed. People talk sometimes of secret vices. There are no such things. If a wretched man has a vice, it shows itself in the lines of his mouth, the droop of his eyelids, the moulding of his hands even. Somebody—I won’t mention his name, but you know him—came to me last year to have his portrait done. I had never seen him before, and had never heard anything about him at the time, though I have heard a good deal since. He offered an extravagant price. I refused him. There was something in the shape of his fingers that I hated. I know now that I was quite right in what I fancied about him. His life is dreadful. But you, Dorian, with your pure, bright, innocent face, and your marvellous untroubled youth—I can’t believe anything against you. And yet I see you very seldom, and you never come down to the studio now, and when I am away from you, and I hear all these hideous things that people are whispering about you, I don’t know what to say. Why is it, Dorian, that a man like the Duke of Berwick leaves the room of a club when you enter it? Why is it that so many gentlemen in London will neither go to your house or invite you to theirs? You used to be a friend of Lord Staveley. I met him at dinner last week. Your name happened to come up in conversation, in connection with the miniatures you have lent to the exhibition at the Dudley. Staveley curled his lip and said that you might have the most artistic tastes, but that you were a man whom no pure-minded girl should be allowed to know, and whom no chaste woman should sit in the same room with. I reminded him that I was a friend of yours, and asked him what he meant. He told me. He told me right out before everybody. It was horrible! Why is your friendship so fatal to young men? There was that wretched boy in the Guards who committed suicide. You were his great friend. There was Sir Henry Ashton, who had to leave England with a tarnished name."
+      },
+      "request_id": "62270716ad1fbb7bfb746229",
+      "request_sha256": "44d8baedbf75effb498e85ba40a06149d4345ca4356c25b07cef2fdd01a19a5d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ebfe5d2c013c956bc041c1b70936a88e1a500f1e67d372520efdf7574ca8b6fe"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "e0ea6e25f046f49ca4d72881",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 469,
+      "passage_id": "V2_shelley_frankenstein_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: e0ea6e25f046f49ca4d72881\noriginal_word_count: 469\n\nPassage:\n“I now hasten to the more moving part of my story. I shall relate events that impressed me with feelings which, from what I had been, have made me what I am.\n\n“Spring advanced rapidly; the weather became fine and the skies cloudless. It surprised me that what before was desert and gloomy should now bloom with the most beautiful flowers and verdure. My senses were gratified and refreshed by a thousand scents of delight and a thousand sights of beauty.\n\n“It was on one of these days, when my cottagers periodically rested from labour—the old man played on his guitar, and the children listened to him—that I observed the countenance of Felix was melancholy beyond expression; he sighed frequently, and once his father paused in his music, and I conjectured by his manner that he inquired the cause of his son’s sorrow. Felix replied in a cheerful accent, and the old man was recommencing his music when someone tapped at the door.\n\n“It was a lady on horseback, accompanied by a country-man as a guide. The lady was dressed in a dark suit and covered with a thick black veil. Agatha asked a question, to which the stranger only replied by pronouncing, in a sweet accent, the name of Felix. Her voice was musical but unlike that of either of my friends. On hearing this word, Felix came up hastily to the lady, who, when she saw him, threw up her veil, and I beheld a countenance of angelic beauty and expression. Her hair of a shining raven black, and curiously braided; her eyes were dark, but gentle, although animated; her features of a regular proportion, and her complexion wondrously fair, each cheek tinged with a lovely pink.\n\n“Felix seemed ravished with delight when he saw her, every trait of sorrow vanished from his face, and it instantly expressed a degree of ecstatic joy, of which I could hardly have believed it capable; his eyes sparkled, as his cheek flushed with pleasure; and at that moment I thought him as beautiful as the stranger. She appeared affected by different feelings; wiping a few tears from her lovely eyes, she held out her hand to Felix, who kissed it rapturously and called her, as well as I could distinguish, his sweet Arabian. She did not appear to understand him, but smiled. He assisted her to dismount, and dismissing her guide, conducted her into the cottage. Some conversation took place between him and his father, and the young stranger knelt at the old man’s feet and would have kissed his hand, but he raised her and embraced her affectionately.\n\n“I soon perceived that although the stranger uttered articulate sounds and appeared to have a language of her own, she was neither understood by nor herself understood the cottagers."
+      },
+      "request_id": "e0ea6e25f046f49ca4d72881",
+      "request_sha256": "8fa9f04f48666a129feed6773a44f6a907cbab6dfecc6df11cc71429d17cceaf",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "58deb4cbcac77c708041a2714960328477f1d07ed88c431ce1b0941a9036e68c"
+    }
+  ],
+  "session_id": "01a0e861-03f8-7221-8672-8e262e9ebfc7",
+  "worker_id": "astra_t",
+  "worker_identity_sha256": "c223dffc33181152e7b2fea39b5f4b9f77c7ee2ed9647b0e46dbc4f2b2b1711f"
+}

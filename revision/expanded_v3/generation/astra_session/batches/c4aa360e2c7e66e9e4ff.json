@@ -1,0 +1,68 @@
+{
+  "batch_id": "c4aa360e2c7e66e9e4ff",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T13:29:49.690948+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "63f7a2076b92591dfd10aa24",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 63f7a2076b92591dfd10aa24\noriginal_word_count: 460\n\nPassage:\nTEN minutes later, with face blanched by terror, and eyes wild with grief, Lord Arthur Savile rushed from Bentinck House, crushing his way through the crowd of fur-coated footmen that stood round the large striped awning, and seeming not to see or hear anything. The night was bitter cold, and the gas-lamps round the square flared and flickered in the keen wind; but his hands were hot with fever, and his forehead burned like fire. On and on he went, almost with the gait of a drunken man. A policeman looked curiously at him as he passed, and a beggar, who slouched from an archway to ask for alms, grew frightened, seeing misery greater than his own. Once he stopped under a lamp, and looked at his hands. He thought he could detect the stain of blood already upon them, and a faint cry broke from his trembling lips.\n\nMurder! that is what the cheiromantist had seen there. Murder! The very night seemed to know it, and the desolate wind to howl it in his ear. The dark corners of the streets were full of it. It grinned at him from the roofs of the houses.\n\nFirst he came to the Park, whose sombre woodland seemed to fascinate him. He leaned wearily up against the railings, cooling his brow against the wet metal, and listening to the tremulous silence of the trees. ‘Murder! murder!’ he kept repeating, as though iteration could dim the horror of the word. The sound of his own voice made him shudder, yet he almost hoped that Echo might hear him, and wake the slumbering city from its dreams. He felt a mad desire to stop the casual passer-by, and tell him everything.\n\nThen he wandered across Oxford Street into narrow, shameful alleys. Two women with painted faces mocked at him as he went by. From a dark courtyard came a sound of oaths and blows, followed by shrill screams, and, huddled upon a damp door-step, he saw the crook-backed forms of poverty and eld. A strange pity came over him. Were these children of sin and misery predestined to their end, as he to his? Were they, like him, merely the puppets of a monstrous show?\n\nAnd yet it was not the mystery, but the comedy of suffering that struck him; its absolute uselessness, its grotesque want of meaning. How incoherent everything seemed! How lacking in all harmony! He was amazed at the discord between the shallow optimism of the day, and the real facts of existence. He was still very young.\n\nAfter a time he found himself in front of Marylebone Church. The silent roadway looked like a long riband of polished silver, flecked here and there by the dark arabesques of waving shadows."
+      },
+      "request_id": "63f7a2076b92591dfd10aa24",
+      "request_sha256": "cd88d343171f7858de336d91169c898a0d0e39c3600e33bd30e7e4a17de31a34",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bb1d07c00dc77bd63a554488c064feef14dc3361bf707d3654cc76cc7342481f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "be9b65275a901fc300d3ba8e",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 450,
+      "passage_id": "V2_dickens_great_expectations_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: be9b65275a901fc300d3ba8e\noriginal_word_count: 450\n\nPassage:\nOne day when I was busy with my books and Mr. Pocket, I received a note by the post, the mere outside of which threw me into a great flutter; for, though I had never seen the handwriting in which it was addressed, I divined whose hand it was. It had no set beginning, as Dear Mr. Pip, or Dear Pip, or Dear Sir, or Dear Anything, but ran thus:—\n\n“I am to come to London the day after to-morrow by the midday coach. I believe it was settled you should meet me? At all events Miss Havisham has that impression, and I write in obedience to it. She sends you her regard.\n\n“Yours, ESTELLA.”\n\nIf there had been time, I should probably have ordered several suits of clothes for this occasion; but as there was not, I was fain to be content with those I had. My appetite vanished instantly, and I knew no peace or rest until the day arrived. Not that its arrival brought me either; for, then I was worse than ever, and began haunting the coach-office in Wood Street, Cheapside, before the coach had left the Blue Boar in our town. For all that I knew this perfectly well, I still felt as if it were not safe to let the coach-office be out of my sight longer than five minutes at a time; and in this condition of unreason I had performed the first half-hour of a watch of four or five hours, when Wemmick ran against me.\n\n“Halloa, Mr. Pip,” said he; “how do you do? I should hardly have thought this was _your_ beat.”\n\nI explained that I was waiting to meet somebody who was coming up by coach, and I inquired after the Castle and the Aged.\n\n“Both flourishing thankye,” said Wemmick, “and particularly the Aged. He’s in wonderful feather. He’ll be eighty-two next birthday. I have a notion of firing eighty-two times, if the neighbourhood shouldn’t complain, and that cannon of mine should prove equal to the pressure. However, this is not London talk. Where do you think I am going to?”\n\n“To the office?” said I, for he was tending in that direction.\n\n“Next thing to it,” returned Wemmick, “I am going to Newgate. We are in a banker’s-parcel case just at present, and I have been down the road taking a squint at the scene of action, and thereupon must have a word or two with our client.”\n\n“Did your client commit the robbery?” I asked.\n\n“Bless your soul and body, no,” answered Wemmick, very drily. “But he is accused of it. So might you or I be. Either of us might be accused of it, you know.”"
+      },
+      "request_id": "be9b65275a901fc300d3ba8e",
+      "request_sha256": "50837e1bcac0eba283a57bb5c0204b35ba55e39cea579c6ae548f1ca6fe1068a",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "75e8dbf7fdc6ae15b69803db1f8281aec79b863c959608505d2127095ae041ab"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "37b529ce6a9dd9975c2c354a",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_wilde_canterville_ghost_011",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 37b529ce6a9dd9975c2c354a\noriginal_word_count: 456\n\nPassage:\nPoor Jack was afterwards shot in a duel by Lord Canterville on Wandsworth Common, and Lady Barbara died of a broken heart at Tunbridge Wells before the year was out, so, in every way, it had been a great success. It was, however, an extremely difficult ‘make-up,’ if I may use such a theatrical expression in connection with one of the greatest mysteries of the supernatural, or, to employ a more scientific term, the higher-natural world, and it took him fully three hours to make his preparations. At last everything was ready, and he was very pleased with his appearance. The big leather riding-boots that went with the dress were just a little too large for him, and he could only find one of the two horse-pistols, but, on the whole, he was quite satisfied, and at a quarter past one he glided out of the wainscoting and crept down the corridor. On reaching the room occupied by the twins, which I should mention was called the Blue Bed Chamber, on account of the colour of its hangings, he found the door just ajar. Wishing to make an effective entrance, he flung it wide open, when a heavy jug of water fell right down on him, wetting him to the skin, and just missing his left shoulder by a couple of inches. At the same moment he heard stifled shrieks of laughter proceeding from the four-post bed. The shock to his nervous system was so great that he fled back to his room as hard as he could go, and the next day he was laid up with a severe cold. The only thing that at all consoled him in the whole affair was the fact that he had not brought his head with him, for, had he done so, the consequences might have been very serious.\n\nHe now gave up all hope of ever frightening this rude American family, and contented himself, as a rule, with creeping about the passages in list slippers, with a thick red muffler round his throat for fear of draughts, and a small arquebuse, in case he should be attacked by the twins. The final blow he received occurred on the 19th of September. He had gone downstairs to the great entrance-hall, feeling sure that there, at any rate, he would be quite unmolested, and was amusing himself by making satirical remarks on the large Saroni photographs of the United States Minister and his wife, which had now taken the place of the Canterville family pictures. He was simply but neatly clad in a long shroud, spotted with churchyard mould, had tied up his jaw with a strip of yellow linen, and carried a small lantern and a sexton’s spade."
+      },
+      "request_id": "37b529ce6a9dd9975c2c354a",
+      "request_sha256": "7b7d76d56a992038f894851f10770c04fb3a2ac63a02f3b246707fedf114342c",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0ed275703d9dbc5b33ff2b4d22cc0a17e79381f83ce31e81903ae1498fd93cda"
+    }
+  ],
+  "session_id": "01a0e30c-832e-7091-82d9-9a1c50247dd2",
+  "worker_id": "astra_e",
+  "worker_identity_sha256": "fe64415c9c767776a8e298c2de728f21bcc0f3109b7370a076e3e422966eefd2"
+}

@@ -1,0 +1,306 @@
+{
+  "archive_files_checked": 1906,
+  "archive_sha256": "823ce5e20483e133eb3c49a9c9982d80ca2c49f9c8b9c9301e95e8486a820f98",
+  "completed_utc": "2026-10-08T18:41:48.032903+00:00",
+  "environment": {
+    "locked_distributions": 24,
+    "mismatches": [],
+    "passed": true,
+    "python": "3.12.11"
+  },
+  "mode": "transfer",
+  "model_api_calls": 0,
+  "numeric_audit": {
+    "classifiers_refitted": false,
+    "holm_adjustment_reconstructed": true,
+    "passed": true,
+    "primary_point_estimates": 54,
+    "ratings": 3240,
+    "raw_permutation_pvalues_and_intervals_recomputed": false,
+    "semantic_comparisons": 108,
+    "semantic_pairs": 1620
+  },
+  "passed": true,
+  "private_inputs_read": false,
+  "replays": [
+    {
+      "classifier_predictions_refitted": false,
+      "contrast_rows": 189,
+      "idf_comparison": "all metadata exact; finite IDF values within eight ULPs",
+      "idf_roundoff_records": [
+        {
+          "different_idf_values": 6,
+          "domain": "original",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "valid_full"
+        },
+        {
+          "different_idf_values": 7,
+          "domain": "paraphrase",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "valid_full"
+        },
+        {
+          "different_idf_values": 4,
+          "domain": "modernize",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "valid_full"
+        },
+        {
+          "different_idf_values": 7,
+          "domain": "simplify",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "valid_full"
+        },
+        {
+          "different_idf_values": 6,
+          "domain": "original",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "matched200_full"
+        },
+        {
+          "different_idf_values": 7,
+          "domain": "paraphrase",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "matched200_full"
+        },
+        {
+          "different_idf_values": 4,
+          "domain": "modernize",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "matched200_full"
+        },
+        {
+          "different_idf_values": 7,
+          "domain": "simplify",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "matched200_full"
+        },
+        {
+          "different_idf_values": 1,
+          "domain": "original",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w200_prefix"
+        },
+        {
+          "different_idf_values": 5,
+          "domain": "paraphrase",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w200_prefix"
+        },
+        {
+          "different_idf_values": 3,
+          "domain": "modernize",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w200_prefix"
+        },
+        {
+          "different_idf_values": 7,
+          "domain": "simplify",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w200_prefix"
+        },
+        {
+          "different_idf_values": 2,
+          "domain": "original",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w200_middle"
+        },
+        {
+          "different_idf_values": 4,
+          "domain": "paraphrase",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w200_middle"
+        },
+        {
+          "different_idf_values": 3,
+          "domain": "simplify",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w200_middle"
+        },
+        {
+          "different_idf_values": 3,
+          "domain": "original",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w200_suffix"
+        },
+        {
+          "different_idf_values": 5,
+          "domain": "paraphrase",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w200_suffix"
+        },
+        {
+          "different_idf_values": 2,
+          "domain": "modernize",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w200_suffix"
+        },
+        {
+          "different_idf_values": 4,
+          "domain": "simplify",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w200_suffix"
+        },
+        {
+          "different_idf_values": 6,
+          "domain": "original",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "matched300_full"
+        },
+        {
+          "different_idf_values": 7,
+          "domain": "paraphrase",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "matched300_full"
+        },
+        {
+          "different_idf_values": 4,
+          "domain": "modernize",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "matched300_full"
+        },
+        {
+          "different_idf_values": 7,
+          "domain": "simplify",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "matched300_full"
+        },
+        {
+          "different_idf_values": 7,
+          "domain": "original",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w300_middle"
+        },
+        {
+          "different_idf_values": 6,
+          "domain": "paraphrase",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w300_middle"
+        },
+        {
+          "different_idf_values": 3,
+          "domain": "modernize",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w300_middle"
+        },
+        {
+          "different_idf_values": 3,
+          "domain": "simplify",
+          "fold": 2,
+          "max_absolute_difference": 2.220446049250313e-16,
+          "max_ulps": 1.0,
+          "panel": "w300_middle"
+        }
+      ],
+      "manifest_sha256": "5a4969137e5c4214c39f385bf637770e12ea7db1a61927b7ac6b440777cf2857",
+      "matrix_cells": 336,
+      "model_key": "codex51",
+      "not_independent_human_review": true,
+      "passed": true,
+      "prediction_rows": 107856,
+      "scope_note": "Refits transforms and reconstructs scores/intervals from archived predictions; does not refit classifier predictions.",
+      "submission_ready": false,
+      "transforms_refitted": 105,
+      "verified_scope": "hashes_cohorts_views_fold_alignment_transform_refits_scores_and_paired_CIs",
+      "verified_utc": "2026-10-08T18:37:12.820863+00:00",
+      "verifier_sha256": "bdc6c87712755eb8b749129b40a1b537c81ffb3b7da273fb13bab7d811cfe6cb"
+    },
+    {
+      "classifier_predictions_refitted": false,
+      "contrast_rows": 189,
+      "idf_comparison": "all metadata exact; finite IDF values within eight ULPs",
+      "idf_roundoff_records": [],
+      "manifest_sha256": "1609ebaab810b31a0ba4f587ac82b86294324ea69d753ed95315d3703b9f39c2",
+      "matrix_cells": 336,
+      "model_key": "luna56",
+      "not_independent_human_review": true,
+      "passed": true,
+      "prediction_rows": 106512,
+      "scope_note": "Refits transforms and reconstructs scores/intervals from archived predictions; does not refit classifier predictions.",
+      "submission_ready": false,
+      "transforms_refitted": 105,
+      "verified_scope": "hashes_cohorts_views_fold_alignment_transform_refits_scores_and_paired_CIs",
+      "verified_utc": "2026-10-08T18:39:20.915170+00:00",
+      "verifier_sha256": "bdc6c87712755eb8b749129b40a1b537c81ffb3b7da273fb13bab7d811cfe6cb"
+    },
+    {
+      "classifier_predictions_refitted": false,
+      "contrast_rows": 189,
+      "idf_comparison": "all metadata exact; finite IDF values within eight ULPs",
+      "idf_roundoff_records": [],
+      "manifest_sha256": "26c444d583b3702584a3db2854593804aee4ab9d97522ad9613898d96ab2a56d",
+      "matrix_cells": 336,
+      "model_key": "astra_session",
+      "not_independent_human_review": true,
+      "passed": true,
+      "prediction_rows": 120960,
+      "scope_note": "Refits transforms and reconstructs scores/intervals from archived predictions; does not refit classifier predictions.",
+      "submission_ready": false,
+      "transforms_refitted": 105,
+      "verified_scope": "hashes_cohorts_views_fold_alignment_transform_refits_scores_and_paired_CIs",
+      "verified_utc": "2026-10-08T18:41:47.926726+00:00",
+      "verifier_sha256": "bdc6c87712755eb8b749129b40a1b537c81ffb3b7da273fb13bab7d811cfe6cb"
+    }
+  ],
+  "scope_limit": "Computational consistency does not verify reviewer identity, independence, consent, ethics approval or model backend identity.",
+  "source_check": {
+    "passages": 360,
+    "passed": true,
+    "private_review_provenance_checked": false,
+    "scope": "Public hashes, archived source spans, lengths, nonoverlap, balance and work folds",
+    "works": 18
+  }
+}

@@ -1,0 +1,19 @@
+author_id,work_id,title,outer_fold,source_id,selected_count
+austen,emma,Emma,2,158,20
+austen,pride_and_prejudice,Pride and Prejudice,0,1342,20
+austen,persuasion,Persuasion,1,105,20
+dickens,great_expectations,Great Expectations,0,1400,20
+dickens,oliver_twist,Oliver Twist,2,730,20
+dickens,a_tale_of_two_cities,A Tale of Two Cities,1,98,20
+poe,hans_pfaal,The Unparalleled Adventures of One Hans Pfaal,2,2147,20
+poe,the_gold_bug,The Gold-Bug,0,2147,20
+poe,murders_rue_morgue,The Murders in the Rue Morgue,1,2147,20
+shelley,frankenstein,Frankenstein,2,84,20
+shelley,the_last_man,The Last Man,0,18247,20
+shelley,mathilda,Mathilda,1,15238,20
+twain,huckleberry_finn,Adventures of Huckleberry Finn,0,76,20
+twain,tom_sawyer,The Adventures of Tom Sawyer,1,74,20
+twain,connecticut_yankee,A Connecticut Yankee in King Arthur's Court,2,86,20
+wilde,dorian_gray,The Picture of Dorian Gray,0,174,20
+wilde,lord_arthur_saviles_crime,Lord Arthur Savile’s Crime,1,773,20
+wilde,canterville_ghost,The Canterville Ghost,2,773,20

@@ -1,0 +1,68 @@
+{
+  "batch_id": "c2329e39bdb4af4c06c3",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T14:28:26.181792+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "2a1ae320913d64982a925148",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 462,
+      "passage_id": "V2_shelley_the_last_man_008",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 2a1ae320913d64982a925148\noriginal_word_count: 462\n\nPassage:\nRaymond was inspirited by the intense sensations of recovered health; he felt that in being general of the Athenians, he filled a post worthy of his ambition; and, in his hope of the conquest of Constantinople, he counted on an event which would be as a landmark in the waste of ages, an exploit unequalled in the annals of man; when a city of grand historic association, the beauty of whose site was the wonder of the world, which for many hundred years had been the strong hold of the Moslems, should be rescued from slavery and barbarism, and restored to a people illustrious for genius, civilization, and a spirit of liberty. Perdita rested on his restored society, on his love, his hopes and fame, even as a Sybarite on a luxurious couch; every thought was transport, each emotion bathed as it were in a congenial and balmy element.\n\nWe arrived at Kishan on the 7th of July. The weather during our journey had been serene. Each day, before dawn, we left our night’s encampment, and watched the shadows as they retreated from hill and valley, and the golden splendour of the sun’s approach. The accompanying soldiers received, with national vivacity, enthusiastic pleasure from the sight of beautiful nature. The uprising of the star of day was hailed by triumphant strains, while the birds, heard by snatches, filled up the intervals of the music. At noon, we pitched our tents in some shady valley, or embowering wood among the mountains, while a stream prattling over pebbles induced grateful sleep. Our evening march, more calm, was yet more delightful than the morning restlessness of spirit. If the band played, involuntarily they chose airs of moderated passion; the farewell of love, or lament at absence, was followed and closed by some solemn hymn, which harmonized with the tranquil loveliness of evening, and elevated the soul to grand and religious thought. Often all sounds were suspended, that we might listen to the nightingale, while the fire-flies danced in bright measure, and the soft cooing of the aziolo spoke of fair weather to the travellers. Did we pass a valley? Soft shades encompassed us, and rocks tinged with beauteous hues. If we traversed a mountain, Greece, a living map, was spread beneath, her renowned pinnacles cleaving the ether; her rivers threading in silver line the fertile land. Afraid almost to breathe, we English travellers surveyed with extasy this splendid landscape, so different from the sober hues and melancholy graces of our native scenery. When we quitted Macedonia, the fertile but low plains of Thrace afforded fewer beauties; yet our journey continued to be interesting. An advanced guard gave information of our approach, and the country people were quickly in motion to do honour to Lord Raymond."
+      },
+      "request_id": "2a1ae320913d64982a925148",
+      "request_sha256": "eb96bbd941770ab92c26a58eb5ea3fe546c0988f5fc60fee0069ccdf92c69c13",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "09a1cc0ff1347f820b7adbd52ca1d73be0068b302d8986543ec0e92e432357af"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "519f9b9517ec8e3c1e80b72b",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 452,
+      "passage_id": "V2_wilde_canterville_ghost_002",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 519f9b9517ec8e3c1e80b72b\noriginal_word_count: 452\n\nPassage:\nMany American ladies on leaving their native land adopt an appearance of chronic ill-health, under the impression that it is a form of European refinement, but Mrs. Otis had never fallen into this error. She had a magnificent constitution, and a really wonderful amount of animal spirits. Indeed, in many respects, she was quite English, and was an excellent example of the fact that we have really everything in common with America nowadays, except, of course, language. Her eldest son, christened Washington by his parents in a moment of patriotism, which he never ceased to regret, was a fair-haired, rather good-looking young man, who had qualified himself for American diplomacy by leading the German at the Newport Casino for three successive seasons, and even in London was well known as an excellent dancer. Gardenias and the peerage were his only weaknesses. Otherwise he was extremely sensible. Miss Virginia E. Otis was a little girl of fifteen, lithe and lovely as a fawn, and with a fine freedom in her large blue eyes. She was a wonderful amazon, and had once raced old Lord Bilton on her pony twice round the park, winning by a length and a half, just in front of the Achilles statue, to the huge delight of the young Duke of Cheshire, who proposed for her on the spot, and was sent back to Eton that very night by his guardians, in floods of tears. After Virginia came the twins, who were usually called ‘The Stars and Stripes,’ as they were always getting swished. They were delightful boys, and with the exception of the worthy Minister the only true republicans of the family.\n\nAs Canterville Chase is seven miles from Ascot, the nearest railway station, Mr. Otis had telegraphed for a waggonette to meet them, and they started on their drive in high spirits. It was a lovely July evening, and the air was delicate with the scent of the pine-woods. Now and then they heard a wood pigeon brooding over its own sweet voice, or saw, deep in the rustling fern, the burnished breast of the pheasant. Little squirrels peered at them from the beech-trees as they went by, and the rabbits scudded away through the brushwood and over the mossy knolls, with their white tails in the air. As they entered the avenue of Canterville Chase, however, the sky became suddenly overcast with clouds, a curious stillness seemed to hold the atmosphere, a great flight of rooks passed silently over their heads, and, before they reached the house, some big drops of rain had fallen.\n\nStanding on the steps to receive them was an old woman, neatly dressed in black silk, with a white cap and apron."
+      },
+      "request_id": "519f9b9517ec8e3c1e80b72b",
+      "request_sha256": "9dba61c81795cada5e8317e4d0a2624fdad5ffe436a3a4bde528d83d87c91256",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "6837fead73c95d837c3af7d786fbacafb433408c3e1cf713bf2bd4cc87965d05"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "454298f9f019c93b8834d424",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 453,
+      "passage_id": "V2_dickens_oliver_twist_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 454298f9f019c93b8834d424\noriginal_word_count: 453\n\nPassage:\nMaster Charles Bates, appalled by Sikes’s crime, fell into a train of reflection whether an honest life was not, after all, the best. Arriving at the conclusion that it certainly was, he turned his back upon the scenes of the past, resolved to amend it in some new sphere of action. He struggled hard, and suffered much, for some time; but, having a contented disposition, and a good purpose, succeeded in the end; and, from being a farmer’s drudge, and a carrier’s lad, he is now the merriest young grazier in all Northamptonshire.\n\nAnd now, the hand that traces these words, falters, as it approaches the conclusion of its task; and would weave, for a little longer space, the thread of these adventures.\n\nI would fain linger yet with a few of those among whom I have so long moved, and share their happiness by endeavouring to depict it. I would show Rose Maylie in all the bloom and grace of early womanhood, shedding on her secluded path in life soft and gentle light, that fell on all who trod it with her, and shone into their hearts. I would paint her the life and joy of the fire-side circle and the lively summer group; I would follow her through the sultry fields at noon, and hear the low tones of her sweet voice in the moonlit evening walk; I would watch her in all her goodness and charity abroad, and the smiling untiring discharge of domestic duties at home; I would paint her and her dead sister’s child happy in their love for one another, and passing whole hours together in picturing the friends whom they had so sadly lost; I would summon before me, once again, those joyous little faces that clustered round her knee, and listen to their merry prattle; I would recall the tones of that clear laugh, and conjure up the sympathising tear that glistened in the soft blue eye. These, and a thousand looks and smiles, and turns of thought and speech—I would fain recall them every one.\n\nHow Mr. Brownlow went on, from day to day, filling the mind of his adopted child with stores of knowledge, and becoming attached to him, more and more, as his nature developed itself, and showed the thriving seeds of all he wished him to become—how he traced in him new traits of his early friend, that awakened in his own bosom old remembrances, melancholy and yet sweet and soothing—how the two orphans, tried by adversity, remembered its lessons in mercy to others, and mutual love, and fervent thanks to Him who had protected and preserved them—these are all matters which need not to be told."
+      },
+      "request_id": "454298f9f019c93b8834d424",
+      "request_sha256": "ebb8f3c50e4332880afbeb7fbcc1df747644037b1c75822872d65b64244f002e",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1cd1cb7f07d128f484d0f84b1e93dfd2759e7e81f2bd388b80a85a881d34bfbb"
+    }
+  ],
+  "session_id": "01a0e866-9bf1-7e03-8d89-34a75a5436e8",
+  "worker_id": "astra_v",
+  "worker_identity_sha256": "0b2b5de575a91a248a2d744e77077f7abb92d61d159b0293192af3288b1ff4f6"
+}

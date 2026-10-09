@@ -1,0 +1,68 @@
+{
+  "batch_id": "ba7c71aedf41da47bdbe",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-28T13:08:16.994277+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "3beb84a36173a6068bf6a7a5",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_twain_tom_sawyer_003",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 3beb84a36173a6068bf6a7a5\noriginal_word_count: 451\n\nPassage:\nTom contrived to scarify the cupboard with it, and was arranging to begin on the bureau, when he was called off to dress for Sunday-school.\n\nMary gave him a tin basin of water and a piece of soap, and he went outside the door and set the basin on a little bench there; then he dipped the soap in the water and laid it down; turned up his sleeves; poured out the water on the ground, gently, and then entered the kitchen and began to wipe his face diligently on the towel behind the door. But Mary removed the towel and said:\n\n“Now ain’t you ashamed, Tom. You mustn’t be so bad. Water won’t hurt you.”\n\nTom was a trifle disconcerted. The basin was refilled, and this time he stood over it a little while, gathering resolution; took in a big breath and began. When he entered the kitchen presently, with both eyes shut and groping for the towel with his hands, an honorable testimony of suds and water was dripping from his face. But when he emerged from the towel, he was not yet satisfactory, for the clean territory stopped short at his chin and his jaws, like a mask; below and beyond this line there was a dark expanse of unirrigated soil that spread downward in front and backward around his neck. Mary took him in hand, and when she was done with him he was a man and a brother, without distinction of color, and his saturated hair was neatly brushed, and its short curls wrought into a dainty and symmetrical general effect. [He privately smoothed out the curls, with labor and difficulty, and plastered his hair close down to his head; for he held curls to be effeminate, and his own filled his life with bitterness.] Then Mary got out a suit of his clothing that had been used only on Sundays during two years—they were simply called his “other clothes”—and so by that we know the size of his wardrobe. The girl “put him to rights” after he had dressed himself; she buttoned his neat roundabout up to his chin, turned his vast shirt collar down over his shoulders, brushed him off and crowned him with his speckled straw hat. He now looked exceedingly improved and uncomfortable. He was fully as uncomfortable as he looked; for there was a restraint about whole clothes and cleanliness that galled him. He hoped that Mary would forget his shoes, but the hope was blighted; she coated them thoroughly with tallow, as was the custom, and brought them out. He lost his temper and said he was always being made to do everything he didn’t want to do."
+      },
+      "request_id": "3beb84a36173a6068bf6a7a5",
+      "request_sha256": "eac3fa026da8f96b7b592b8a990f1df14a4ebdef319f2e0c7b710ab7a16750db",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "45250231ab826c36d64975ba0bced481692d681aafc07b120616226fee0750e6"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "190c172b05c294b345ef802e",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 485,
+      "passage_id": "V2_shelley_frankenstein_001",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 190c172b05c294b345ef802e\noriginal_word_count: 485\n\nPassage:\nYou will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings. I arrived here yesterday, and my first task is to assure my dear sister of my welfare and increasing confidence in the success of my undertaking.\n\nI am already far north of London, and as I walk in the streets of Petersburgh, I feel a cold northern breeze play upon my cheeks, which braces my nerves and fills me with delight. Do you understand this feeling? This breeze, which has travelled from the regions towards which I am advancing, gives me a foretaste of those icy climes. Inspirited by this wind of promise, my daydreams become more fervent and vivid. I try in vain to be persuaded that the pole is the seat of frost and desolation; it ever presents itself to my imagination as the region of beauty and delight. There, Margaret, the sun is for ever visible, its broad disk just skirting the horizon and diffusing a perpetual splendour. There—for with your leave, my sister, I will put some trust in preceding navigators—there snow and frost are banished; and, sailing over a calm sea, we may be wafted to a land surpassing in wonders and in beauty every region hitherto discovered on the habitable globe. Its productions and features may be without example, as the phenomena of the heavenly bodies undoubtedly are in those undiscovered solitudes. What may not be expected in a country of eternal light? I may there discover the wondrous power which attracts the needle and may regulate a thousand celestial observations that require only this voyage to render their seeming eccentricities consistent for ever. I shall satiate my ardent curiosity with the sight of a part of the world never before visited, and may tread a land never before imprinted by the foot of man. These are my enticements, and they are sufficient to conquer all fear of danger or death and to induce me to commence this laborious voyage with the joy a child feels when he embarks in a little boat, with his holiday mates, on an expedition of discovery up his native river. But supposing all these conjectures to be false, you cannot contest the inestimable benefit which I shall confer on all mankind, to the last generation, by discovering a passage near the pole to those countries, to reach which at present so many months are requisite; or by ascertaining the secret of the magnet, which, if at all possible, can only be effected by an undertaking such as mine.\n\nThese reflections have dispelled the agitation with which I began my letter, and I feel my heart glow with an enthusiasm which elevates me to heaven, for nothing contributes so much to tranquillise the mind as a steady purpose—a point on which the soul may fix its intellectual eye."
+      },
+      "request_id": "190c172b05c294b345ef802e",
+      "request_sha256": "a406be1764df4c1a0270f7515d79346d92e3e5fd76405741574078e6601bb0d2",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "323db304ef1240228a6a7a8acc5e31aaf7d34aff0beb42a71bb899faefb0a9da"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "6732831c474924cc92d1adf5",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 456,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_020",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 6732831c474924cc92d1adf5\noriginal_word_count: 456\n\nPassage:\nWHEN the wedding took place, some three weeks later, St. Peter’s was crowded with a perfect mob of smart people. The service was read in the most impressive manner by the Dean of Chichester, and everybody agreed that they had never seen a handsomer couple than the bride and bridegroom. They were more than handsome, however—they were happy. Never for a single moment did Lord Arthur regret all that he had suffered for Sybil’s sake, while she, on her side, gave him the best things a woman can give to any man—worship, tenderness, and love. For them romance was not killed by reality. They always felt young.\n\nSome years afterwards, when two beautiful children had been born to them, Lady Windermere came down on a visit to Alton Priory, a lovely old place, that had been the Duke’s wedding present to his son; and one afternoon as she was sitting with Lady Arthur under a lime-tree in the garden, watching the little boy and girl as they played up and down the rose-walk, like fitful sunbeams, she suddenly took her hostess’s hand in hers, and said, ‘Are you happy, Sybil?’\n\n‘Dear Lady Windermere, of course I am happy. Aren’t you?’\n\n‘I have no time to be happy, Sybil. I always like the last person who is introduced to me; but, as a rule, as soon as I know people I get tired of them.’\n\n‘Don’t your lions satisfy you, Lady Windermere?’\n\n‘Oh dear, no! lions are only good for one season. As soon as their manes are cut, they are the dullest creatures going. Besides, they behave very badly, if you are really nice to them. Do you remember that horrid Mr. Podgers? He was a dreadful impostor. Of course, I didn’t mind that at all, and even when he wanted to borrow money I forgave him, but I could not stand his making love to me. He has really made me hate cheiromancy. I go in for telepathy now. It is much more amusing.’\n\n‘You mustn’t say anything against cheiromancy here, Lady Windermere; it is the only subject that Arthur does not like people to chaff about. I assure you he is quite serious over it.’\n\n‘You don’t mean to say that he believes in it, Sybil?’\n\n‘Ask him, Lady Windermere, here he is’; and Lord Arthur came up the garden with a large bunch of yellow roses in his hand, and his two children dancing round him.\n\n‘Lord Arthur?’\n\n‘Yes, Lady Windermere.’\n\n‘You don’t mean to say that you believe in cheiromancy?’\n\n‘Of course I do,’ said the young man, smiling.\n\n‘But why?’\n\n‘Because I owe to it all the happiness of my life,’ he murmured, throwing himself into a wicker chair."
+      },
+      "request_id": "6732831c474924cc92d1adf5",
+      "request_sha256": "3aa93bfbb227ea71182bfdf9cc9062a9ef155a7a5195e11de32b4c77a6495c06",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "98844643caba2ed20ebffe0028634a4943921effdf2000551c63c666be47e2e8"
+    }
+  ],
+  "session_id": "01a0e813-61f4-7cb0-8d6f-e903ea01576e",
+  "worker_id": "astra_h",
+  "worker_identity_sha256": "ac97228b8b65fbcdc5ef0e29695ffeb7bf2a380a8a17bc087560571680b1567d"
+}

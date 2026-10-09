@@ -1,0 +1,68 @@
+{
+  "batch_id": "e234c763e3b45df040b4",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T07:55:52.952020+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "18ad6a23883520b627f34511",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 451,
+      "passage_id": "V2_twain_tom_sawyer_018",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 18ad6a23883520b627f34511\noriginal_word_count: 451\n\nPassage:\nThere was abundance of cold water to finish the feast with. By-and-by Becky suggested that they move on again. Tom was silent a moment. Then he said:\n\n“Becky, can you bear it if I tell you something?”\n\nBecky’s face paled, but she thought she could.\n\n“Well, then, Becky, we must stay here, where there’s water to drink. That little piece is our last candle!”\n\nBecky gave loose to tears and wailings. Tom did what he could to comfort her, but with little effect. At length Becky said:\n\n“Tom!”\n\n“Well, Becky?”\n\n“They’ll miss us and hunt for us!”\n\n“Yes, they will! Certainly they will!”\n\n“Maybe they’re hunting for us now, Tom.”\n\n“Why, I reckon maybe they are. I hope they are.”\n\n“When would they miss us, Tom?”\n\n“When they get back to the boat, I reckon.”\n\n“Tom, it might be dark then—would they notice we hadn’t come?”\n\n“I don’t know. But anyway, your mother would miss you as soon as they got home.”\n\nA frightened look in Becky’s face brought Tom to his senses and he saw that he had made a blunder. Becky was not to have gone home that night! The children became silent and thoughtful. In a moment a new burst of grief from Becky showed Tom that the thing in his mind had struck hers also—that the Sabbath morning might be half spent before Mrs. Thatcher discovered that Becky was not at Mrs. Harper’s.\n\nThe children fastened their eyes upon their bit of candle and watched it melt slowly and pitilessly away; saw the half inch of wick stand alone at last; saw the feeble flame rise and fall, climb the thin column of smoke, linger at its top a moment, and then—the horror of utter darkness reigned!\n\nHow long afterward it was that Becky came to a slow consciousness that she was crying in Tom’s arms, neither could tell. All that they knew was, that after what seemed a mighty stretch of time, both awoke out of a dead stupor of sleep and resumed their miseries once more. Tom said it might be Sunday, now—maybe Monday. He tried to get Becky to talk, but her sorrows were too oppressive, all her hopes were gone. Tom said that they must have been missed long ago, and no doubt the search was going on. He would shout and maybe some one would come. He tried it; but in the darkness the distant echoes sounded so hideously that he tried it no more.\n\nThe hours wasted away, and hunger came to torment the captives again. A portion of Tom’s half of the cake was left; they divided and ate it. But they seemed hungrier than before."
+      },
+      "request_id": "18ad6a23883520b627f34511",
+      "request_sha256": "a26cb42265922a1901d9cdf78b49836e72158f2fb8222f8a259acce7546dc2e3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "c4be87da3702e4382a3663e5148375a53e337d072ac2d5888a731dd363480caa"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "379b8e5567a9831852d7d010",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 467,
+      "passage_id": "V2_dickens_oliver_twist_005",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 379b8e5567a9831852d7d010\noriginal_word_count: 467\n\nPassage:\nIt is due to the young lady to say that she did not positively affirm that she would not, but that she merely expressed an emphatic and earnest desire to be “blessed” if she would; a polite and delicate evasion of the request, which shows the young lady to have been possessed of that natural good breeding which cannot bear to inflict upon a fellow-creature, the pain of a direct and pointed refusal.\n\nThe Jew’s countenance fell. He turned from this young lady, who was gaily, not to say gorgeously attired, in a red gown, green boots, and yellow curl-papers, to the other female.\n\n“Nancy, my dear,” said the Jew in a soothing manner, “what do _you_ say?”\n\n“That it won’t do; so it’s no use a-trying it on, Fagin,” replied Nancy.\n\n“What do you mean by that?” said Mr. Sikes, looking up in a surly manner.\n\n“What I say, Bill,” replied the lady collectedly.\n\n“Why, you’re just the very person for it,” reasoned Mr. Sikes: “nobody about here knows anything of you.”\n\n“And as I don’t want ’em to, neither,” replied Nancy in the same composed manner, “it’s rather more no than yes with me, Bill.”\n\n“She’ll go, Fagin,” said Sikes.\n\n“No, she won’t, Fagin,” said Nancy.\n\n“Yes, she will, Fagin,” said Sikes.\n\nAnd Mr. Sikes was right. By dint of alternate threats, promises, and bribes, the lady in question was ultimately prevailed upon to undertake the commission. She was not, indeed, withheld by the same considerations as her agreeable friend; for, having recently removed into the neighborhood of Field Lane from the remote but genteel suburb of Ratcliffe, she was not under the same apprehension of being recognised by any of her numerous acquaintances.\n\nAccordingly, with a clean white apron tied over her gown, and her curl-papers tucked up under a straw bonnet,—both articles of dress being provided from the Jew’s inexhaustible stock,—Miss Nancy prepared to issue forth on her errand.\n\n“Stop a minute, my dear,” said the Jew, producing, a little covered basket. “Carry that in one hand. It looks more respectable, my dear.”\n\n“Give her a door-key to carry in her t’other one, Fagin,” said Sikes; “it looks real and genivine like.”\n\n“Yes, yes, my dear, so it does,” said the Jew, hanging a large street-door key on the forefinger of the young lady’s right hand. “There; very good! Very good indeed, my dear!” said the Jew, rubbing his hands.\n\n“Oh, my brother! My poor, dear, sweet, innocent little brother!” exclaimed Nancy, bursting into tears, and wringing the little basket and the street-door key in an agony of distress. “What has become of him! Where have they taken him to! Oh, do have pity, and tell me what’s been done with the dear boy, gentlemen; do, gentlemen, if you please, gentlemen!”"
+      },
+      "request_id": "379b8e5567a9831852d7d010",
+      "request_sha256": "3efebb78f5be1e2d9ff3a93c3c8479b675e22e88b342716ab60e72f33c9e38b3",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "0deed6e5da86005bff9912a4a3781dd43e1891602b24e661418ffeaf0a742afd"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "1eb49f6ba726459f4bfdfdf8",
+      "condition": "simplify",
+      "model_key": "astra_session",
+      "original_words": 463,
+      "passage_id": "V2_poe_murders_rue_morgue_010",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make the passage easier for a general modern reader. Simplify difficult wording and sentence structures. Preserve the narrative and tone; do not use bullet points or make it childish.\n\nrequest_id: 1eb49f6ba726459f4bfdfdf8\noriginal_word_count: 463\n\nPassage:\nTo look at a star by glances—to view it in a side-long way, by turning toward it the exterior portions of the _retina_ (more susceptible of feeble impressions of light than the interior), is to behold the star distinctly—is to have the best appreciation of its lustre—a lustre which grows dim just in proportion as we turn our vision _fully_ upon it. A greater number of rays actually fall upon the eye in the latter case, but, in the former, there is the more refined capacity for comprehension. By undue profundity we perplex and enfeeble thought; and it is possible to make even Venus herself vanish from the firmament by a scrutiny too sustained, too concentrated, or too direct.\n\n“As for these murders, let us enter into some examinations for ourselves, before we make up an opinion respecting them. An inquiry will afford us amusement,” [I thought this an odd term, so applied, but said nothing] “and, besides, Le Bon once rendered me a service for which I am not ungrateful. We will go and see the premises with our own eyes. I know G——, the Prefect of Police, and shall have no difficulty in obtaining the necessary permission.”\n\nThe permission was obtained, and we proceeded at once to the Rue Morgue. This is one of those miserable thoroughfares which intervene between the Rue Richelieu and the Rue St. Roch. It was late in the afternoon when we reached it, as this quarter is at a great distance from that in which we resided. The house was readily found; for there were still many persons gazing up at the closed shutters, with an objectless curiosity, from the opposite side of the way. It was an ordinary Parisian house, with a gateway, on one side of which was a glazed watch-box, with a sliding panel in the window, indicating a _loge de concierge._ Before going in we walked up the street, turned down an alley, and then, again turning, passed in the rear of the building—Dupin, meanwhile examining the whole neighborhood, as well as the house, with a minuteness of attention for which I could see no possible object.\n\nRetracing our steps, we came again to the front of the dwelling, rang, and, having shown our credentials, were admitted by the agents in charge. We went up stairs—into the chamber where the body of Mademoiselle L’Espanaye had been found, and where both the deceased still lay. The disorders of the room had, as usual, been suffered to exist. I saw nothing beyond what had been stated in the “Gazette des Tribunaux.” Dupin scrutinized every thing—not excepting the bodies of the victims. We then went into the other rooms, and into the yard; a _gendarme_ accompanying us throughout."
+      },
+      "request_id": "1eb49f6ba726459f4bfdfdf8",
+      "request_sha256": "7cdc53047bd723890fbf4a4a4bb546d286b86a80af67c8038dbcc897ba912c62",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "97ba71bd15a53280c53ea4571335a07d577c9bf2576f7c1d1eca6ddf67cd9466"
+    }
+  ],
+  "session_id": "01a0e1dc-db77-7ca2-a44b-20de81379df6",
+  "worker_id": "astra_c",
+  "worker_identity_sha256": "85385f96362fb7155bec4ef09a1c5c0d6a7ab633c57687871b698abad7715535"
+}

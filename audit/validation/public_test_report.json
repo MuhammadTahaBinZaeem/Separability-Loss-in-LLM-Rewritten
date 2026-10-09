@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "collected_test_cases": 158,
+  "passed_test_cases": 157,
+  "skipped": [
+    "test_relocated_paths_reject_traversal_and_symlink_escape"
+  ],
+  "explicit_deselection": {
+    "test": "test_pending_manuscript_has_no_invented_results",
+    "reason": "Its historical manuscript template is held locally under the author's no-manuscript-upload instruction."
+  },
+  "command": "python -m pytest -q tests -k 'not test_pending_manuscript_has_no_invented_results'",
+  "initial_failed_tests": [
+    "test_pending_manuscript_has_no_invented_results",
+    "test_current_reviewer_materials_use_neutral_labels"
+  ],
+  "resolution": "Added current neutral recruitment guidance; explicitly scoped out the historical manuscript-template test. Scientific code and frozen test files unchanged.",
+  "completed_utc": "2026-10-08T20:20:05.012037+00:00"
+}

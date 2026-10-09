@@ -1,0 +1,2 @@
+# Preserve the original Git blob bytes after relocation.
+* -text

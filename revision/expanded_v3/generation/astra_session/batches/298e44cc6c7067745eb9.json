@@ -1,0 +1,68 @@
+{
+  "batch_id": "298e44cc6c7067745eb9",
+  "delegation_sha256": "63531672478d91771e10ece6aa6a8624f583405a2cccd9bdefd2599cd929ff49",
+  "issued_utc": "2026-09-27T07:59:59.974426+00:00",
+  "provenance_sha256": "4729b3f70e2e2850112e792c9286b4f5218f39e51bf484f515ca0b024a65514f",
+  "requests": [
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9559887898f818bfe039a0ba",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 494,
+      "passage_id": "V2_austen_persuasion_009",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 9559887898f818bfe039a0ba\noriginal_word_count: 494\n\nPassage:\nMary never wrote to Bath herself; all the toil of keeping up a slow and unsatisfactory correspondence with Elizabeth fell on Anne.\n\nBreakfast had not been long over, when they were joined by Captain and Mrs Harville and Captain Benwick; with whom they had appointed to take their last walk about Lyme. They ought to be setting off for Uppercross by one, and in the meanwhile were to be all together, and out of doors as long as they could.\n\nAnne found Captain Benwick getting near her, as soon as they were all fairly in the street. Their conversation the preceding evening did not disincline him to seek her again; and they walked together some time, talking as before of Mr Scott and Lord Byron, and still as unable as before, and as unable as any other two readers, to think exactly alike of the merits of either, till something occasioned an almost general change amongst their party, and instead of Captain Benwick, she had Captain Harville by her side.\n\n“Miss Elliot,” said he, speaking rather low, “you have done a good deed in making that poor fellow talk so much. I wish he could have such company oftener. It is bad for him, I know, to be shut up as he is; but what can we do? We cannot part.”\n\n“No,” said Anne, “that I can easily believe to be impossible; but in time, perhaps—we know what time does in every case of affliction, and you must remember, Captain Harville, that your friend may yet be called a young mourner—only last summer, I understand.”\n\n“Ay, true enough,” (with a deep sigh) “only June.”\n\n“And not known to him, perhaps, so soon.”\n\n“Not till the first week of August, when he came home from the Cape, just made into the Grappler. I was at Plymouth dreading to hear of him; he sent in letters, but the Grappler was under orders for Portsmouth. There the news must follow him, but who was to tell it? not I. I would as soon have been run up to the yard-arm. Nobody could do it, but that good fellow” (pointing to Captain Wentworth). “The Laconia had come into Plymouth the week before; no danger of her being sent to sea again. He stood his chance for the rest; wrote up for leave of absence, but without waiting the return, travelled night and day till he got to Portsmouth, rowed off to the Grappler that instant, and never left the poor fellow for a week. That’s what he did, and nobody else could have saved poor James. You may think, Miss Elliot, whether he is dear to us!”\n\nAnne did think on the question with perfect decision, and said as much in reply as her own feeling could accomplish, or as his seemed able to bear, for he was too much affected to renew the subject, and when he spoke again, it was of something totally different."
+      },
+      "request_id": "9559887898f818bfe039a0ba",
+      "request_sha256": "e17d554fbe412d8352d4ae30870a4907e9d703b0db2f34cc47873099138fcd68",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "ac2e2a33caf81ea8285b6a7501bf5218db7df334a3d104c780c3d2b56e4c4466"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "26136afc50e0f792d72743f2",
+      "condition": "paraphrase",
+      "model_key": "astra_session",
+      "original_words": 460,
+      "passage_id": "V2_wilde_lord_arthur_saviles_crime_007",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Make a light paraphrase. Change wording and local phrasing without making modernization or simplification the main goal.\n\nrequest_id: 26136afc50e0f792d72743f2\noriginal_word_count: 460\n\nPassage:\nTEN minutes later, with face blanched by terror, and eyes wild with grief, Lord Arthur Savile rushed from Bentinck House, crushing his way through the crowd of fur-coated footmen that stood round the large striped awning, and seeming not to see or hear anything. The night was bitter cold, and the gas-lamps round the square flared and flickered in the keen wind; but his hands were hot with fever, and his forehead burned like fire. On and on he went, almost with the gait of a drunken man. A policeman looked curiously at him as he passed, and a beggar, who slouched from an archway to ask for alms, grew frightened, seeing misery greater than his own. Once he stopped under a lamp, and looked at his hands. He thought he could detect the stain of blood already upon them, and a faint cry broke from his trembling lips.\n\nMurder! that is what the cheiromantist had seen there. Murder! The very night seemed to know it, and the desolate wind to howl it in his ear. The dark corners of the streets were full of it. It grinned at him from the roofs of the houses.\n\nFirst he came to the Park, whose sombre woodland seemed to fascinate him. He leaned wearily up against the railings, cooling his brow against the wet metal, and listening to the tremulous silence of the trees. ‘Murder! murder!’ he kept repeating, as though iteration could dim the horror of the word. The sound of his own voice made him shudder, yet he almost hoped that Echo might hear him, and wake the slumbering city from its dreams. He felt a mad desire to stop the casual passer-by, and tell him everything.\n\nThen he wandered across Oxford Street into narrow, shameful alleys. Two women with painted faces mocked at him as he went by. From a dark courtyard came a sound of oaths and blows, followed by shrill screams, and, huddled upon a damp door-step, he saw the crook-backed forms of poverty and eld. A strange pity came over him. Were these children of sin and misery predestined to their end, as he to his? Were they, like him, merely the puppets of a monstrous show?\n\nAnd yet it was not the mystery, but the comedy of suffering that struck him; its absolute uselessness, its grotesque want of meaning. How incoherent everything seemed! How lacking in all harmony! He was amazed at the discord between the shallow optimism of the day, and the real facts of existence. He was still very young.\n\nAfter a time he found himself in front of Marylebone Church. The silent roadway looked like a long riband of polished silver, flecked here and there by the dark arabesques of waving shadows."
+      },
+      "request_id": "26136afc50e0f792d72743f2",
+      "request_sha256": "41f5738984a45eba23ebef051fb0ec01455bbf0d224010b3385f9601f74b4165",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "bb1d07c00dc77bd63a554488c064feef14dc3361bf707d3654cc76cc7342481f"
+    },
+    {
+      "accepted_returned_models": [
+        "GPT-6 Astra via Codex, Extra High"
+      ],
+      "api": "codex_session",
+      "assignment_id": "9cfa5ec8a73b80920a8e41bf",
+      "condition": "modernize",
+      "model_key": "astra_session",
+      "original_words": 464,
+      "passage_id": "V2_wilde_dorian_gray_019",
+      "payload": {
+        "system": "You are performing a controlled rewrite of a fiction passage.\nPreserve the same meaning, events, characters, objects, speaker relationships,\nand narrative sequence. Do not add or omit material facts. Do not summarize.\nKeep the rewritten passage within approximately 15 percent of the original\nword count. Preserve paragraph structure where reasonably possible.\nReturn only a JSON object with exactly two keys: request_id and rewritten_text.\nThe rewritten_text value must contain only prose, without headings or commentary.\nDo not identify the source author, title, archive, or experiment.\n",
+        "user": "Rewrite in contemporary English. Update archaic phrasing while preserving seriousness, emotion, and narrative situation. Do not simplify more than necessary.\n\nrequest_id: 9cfa5ec8a73b80920a8e41bf\noriginal_word_count: 464\n\nPassage:\nIt is an odd thing, but every one who disappears is said to be seen at San Francisco. It must be a delightful city, and possess all the attractions of the next world.”\n\n“What do you think has happened to Basil?” asked Dorian, holding up his Burgundy against the light and wondering how it was that he could discuss the matter so calmly.\n\n“I have not the slightest idea. If Basil chooses to hide himself, it is no business of mine. If he is dead, I don’t want to think about him. Death is the only thing that ever terrifies me. I hate it.”\n\n“Why?” said the younger man wearily.\n\n“Because,” said Lord Henry, passing beneath his nostrils the gilt trellis of an open vinaigrette box, “one can survive everything nowadays except that. Death and vulgarity are the only two facts in the nineteenth century that one cannot explain away. Let us have our coffee in the music-room, Dorian. You must play Chopin to me. The man with whom my wife ran away played Chopin exquisitely. Poor Victoria! I was very fond of her. The house is rather lonely without her. Of course, married life is merely a habit, a bad habit. But then one regrets the loss even of one’s worst habits. Perhaps one regrets them the most. They are such an essential part of one’s personality.”\n\nDorian said nothing, but rose from the table, and passing into the next room, sat down to the piano and let his fingers stray across the white and black ivory of the keys. After the coffee had been brought in, he stopped, and looking over at Lord Henry, said, “Harry, did it ever occur to you that Basil was murdered?”\n\nLord Henry yawned. “Basil was very popular, and always wore a Waterbury watch. Why should he have been murdered? He was not clever enough to have enemies. Of course, he had a wonderful genius for painting. But a man can paint like Velasquez and yet be as dull as possible. Basil was really rather dull. He only interested me once, and that was when he told me, years ago, that he had a wild adoration for you and that you were the dominant motive of his art.”\n\n“I was very fond of Basil,” said Dorian with a note of sadness in his voice. “But don’t people say that he was murdered?”\n\n“Oh, some of the papers do. It does not seem to me to be at all probable. I know there are dreadful places in Paris, but Basil was not the sort of man to have gone to them. He had no curiosity. It was his chief defect.”\n\n“What would you say, Harry, if I told you that I had murdered Basil?” said the younger man."
+      },
+      "request_id": "9cfa5ec8a73b80920a8e41bf",
+      "request_sha256": "da02aa48958fc43f15833a626cb07dda514e86d3e0ff24f1b24742ae11943f1d",
+      "requested_model": "GPT-6 Astra via Codex, Extra High",
+      "source_sha256": "1c7bd5c22ce27dc8b7479414202730a7e3d68308be8e77e033e7193fb97fe87f"
+    }
+  ],
+  "session_id": "01a0e1dc-98ec-7c60-82e0-33192a6dbb6d",
+  "worker_id": "astra_b",
+  "worker_identity_sha256": "63e655afad929d2df43c7a786df30c2f77ef9616368896382b0782c5fc9c466d"
+}
