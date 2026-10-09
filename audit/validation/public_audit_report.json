@@ -1,5 +1,5 @@
 {
-  "completed_utc": "2026-10-08T20:22:03.574197+00:00",
+  "completed_utc": "2026-10-09T12:39:33.703839+00:00",
   "environment": {
     "locked_distributions": 24,
     "mismatches": [],
@@ -77,8 +77,8 @@
     "withheld_review_scope": "Individual ratings, pair-level risk decisions and adjudication remain withheld; review-gated results cannot be independently reconstructed from this public snapshot."
   },
   "private_inputs_read": false,
-  "public_manifest_sha256": "e88586200746db5c3e8ee3b12c5da106e640b24b38eec29a542f870028217b9a",
-  "published_files_checked": 1931,
+  "public_manifest_sha256": "119878f7702523b930a5e0cd5f6122064a5b166a60bfc060f7961b45e446abee",
+  "published_files_checked": 1934,
   "replays": [],
   "repository_evidence_modified": false,
   "scientific_manifest_check": {

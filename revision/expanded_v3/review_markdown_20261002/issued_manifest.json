@@ -1,0 +1,71 @@
+{
+  "assignments": {
+    "reviewer_01": {
+      "items": 405,
+      "kind": "semantic",
+      "packet": "reviewer_01.md"
+    },
+    "reviewer_02": {
+      "items": 405,
+      "kind": "semantic",
+      "packet": "reviewer_02.md"
+    },
+    "reviewer_03": {
+      "items": 405,
+      "kind": "semantic",
+      "packet": "reviewer_03.md"
+    },
+    "reviewer_04": {
+      "items": 405,
+      "kind": "semantic",
+      "packet": "reviewer_04.md"
+    },
+    "reviewer_05": {
+      "items": 405,
+      "kind": "semantic",
+      "packet": "reviewer_05.md"
+    },
+    "reviewer_06": {
+      "items": 405,
+      "kind": "semantic",
+      "packet": "reviewer_06.md"
+    },
+    "reviewer_07": {
+      "items": 405,
+      "kind": "semantic",
+      "packet": "reviewer_07.md"
+    },
+    "reviewer_08": {
+      "items": 405,
+      "kind": "semantic",
+      "packet": "reviewer_08.md"
+    },
+    "reviewer_09": {
+      "items": 4,
+      "kind": "source",
+      "packet": "reviewer_09.md"
+    }
+  },
+  "files_sha256": {
+    "START_HERE.md": "75878a7f136c1302f448216acb8b1292ad143f7d18f18b145aa1c1b7ddf4b14f",
+    "reviewer_01.md": "775356ba4543332928334f36074875c591096a20e19eb38406b5f00d04894b99",
+    "reviewer_02.md": "ac103d44decc8e8cbcaa398f1bf54944fd67635469aeb8a70379c0fb5fb6f737",
+    "reviewer_03.md": "e4a325a9d6be550997faa182d8c0886609248c65f65c874ddf5a8e3eaed0491d",
+    "reviewer_04.md": "a8bbc9200217969ce865ab5ac7d2a5d9d664e2372ed14b23be00e4a25dc9c0e8",
+    "reviewer_05.md": "22682feaefa2dc72b9ab84bb12be5fc082f2dd32af44d3830b5856d2428ebb48",
+    "reviewer_06.md": "9461b9232838ad697964c919d479697dddf69dfffe962b13f391e585ccce58a9",
+    "reviewer_07.md": "a3f618e9f8e2f1d701499124c4af27c04feff8da90fb6a97a47a96deac4d4dcc",
+    "reviewer_08.md": "c7757d82e8c8b3f9bf22acea147ea14bd4ea93e600f51a9df4873ededa642a61",
+    "reviewer_09.md": "51018baaa2f560430516c57c09133085357a96457b43727c86c0dbda03408089",
+    "reviewer_10.md": "b3fb2607e17b34f3175ba819890e4fe27d8d445d09fdfae74d7ef525bc8e0d94"
+  },
+  "format_version": 1,
+  "issued_utc": "2026-10-02T19:02:16.199858+00:00",
+  "original_semantic_manifest_sha256": "8cfefb1b548c707914d505701a0eb37bdedc345c1c90a1d25738dbd1065fa856",
+  "original_source_manifest_sha256": "244f009a54767df08644588030a99ecfdfb325561869644cbd2d19a658423e2e",
+  "ratings_per_pair": 2,
+  "reserved_reviewers": 1,
+  "semantic_pairs": 1620,
+  "semantic_reviewers": 8,
+  "source_reviewers": 1
+}

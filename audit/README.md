@@ -4,13 +4,15 @@ This guide describes the current public evidence package. Begin at the repositor
 
 ## Evidence chain
 
-1. **Design and amendments.** Read `revision/expanded_v3/PROTOCOL.md`, `PRIMARY_ANALYSIS_PLAN.md`, `generation_plan.json`, `scope_amendment.json` and `astra_delegation_amendment.json`. The expanded analysis was developed after the earlier study; it is exploratory, not a retrospective preregistration. Amendments and dated generation records preserve changes to scope and workflow.
+1. **Design and amendments.** Read `revision/expanded_v3/PROTOCOL.md`, `PRIMARY_ANALYSIS_PLAN.md`, `generation_plan.json`, `scope_amendment.json`, `astra_delegation_amendment.json` and [the offline review allocation amendment](../revision/expanded_v3/MARKDOWN_REVIEW_AMENDMENT.md). The expanded analysis was developed after the earlier study; it is exploratory, not a retrospective preregistration. Amendments and dated generation records preserve changes to scope and workflow.
 2. **Source selection.** Join the corrected `corpus/originals.csv` to `lineage.csv`, the earlier corpus freeze, the work register and archived text editions. Each of the eighteen works contributes twenty passages. Of the 360 passages, 356 retain the earlier text and four are replacements. Exact text spans, hashes, length bounds, overlap and fixed work folds are computationally checkable. The withheld source-review returns cannot be independently inspected in this release.
 3. **Generation.** Inspect each active arm's request manifest, requests, stored outcomes, rewrite table, completion record and attempt logs. Link records by `request_id`; check source/request/rewrite hashes. Separate the first planned outcome from subsequent attempts and legacy records. A valid parsed output can still carry mechanical QC warnings. Such warnings are not proof of semantic error.
 4. **Primary analysis.** Inspect per-fold feature selection/scaling evidence, predictions, coverage, per-work summaries, confusion counts and comparisons. Vocabulary selection and preprocessing must use only training works. Each valid rewrite is paired with its own original. Failed first outcomes remain in availability accounting and are excluded from the valid-output estimand.
 5. **Transfer and controls.** Inspect common-cohort membership, view hashes, crop eligibility, training-domain transforms and all transfer cells. Cohorts are common across the three rewrite conditions within each arm; they are not a single common cohort shared by all arms. Retain panels marked not estimable and adverse or near-zero results.
 6. **Explanatory geometry.** Inspect training-work mapping parameters, held-out-work predictions, dispersion components and contrasts. These describe the fitted representation; contraction does not by itself establish irreversible destruction of author information.
 7. **Exported assets.** Join the fifteen CSV tables and five figures in `research_assets/` back to their recorded analysis files. `build_figures.py` rebuilds the assets from the archived results. References are source metadata, not a copy of the current manuscript.
+
+The 2 October delivery amendment documents eight initial raters with 405 pairs each, in four fixed dyads, plus a source follow-up and later adjudication role. Its [issued assignment manifest](../revision/expanded_v3/review_markdown_20261002/issued_manifest.json) records the original issuance timestamp and template hashes. Earlier two-account guides are preserved as issued historical instructions; they do not describe the final eight-rater allocation. Completed responses remain withheld.
 
 ## Active generation keys
 
@@ -58,6 +60,10 @@ This narrowly documented exception follows an actual failed exact comparison: si
 Successful runs write receipts in their output directories; failures exit nonzero and may leave diagnostic files. Consult `validation/` for completed release checks and their dates, selected arms, tolerances and output comparisons. Saved receipts can contain local execution paths; these paths describe that run and are not dependencies needed by a new clone.
 
 The scientific unit tests run with `python -m pytest -q tests -k 'not test_pending_manuscript_has_no_invented_results'`. One historical manuscript-builder test is explicitly deselected because its manuscript template is intentionally held locally. The unchanged test file remains available for inspection. The same command is used by the offline GitHub workflow; no live generation workflow is active in the current layout.
+
+The saved numerical replay receipts initially checked snapshot `9e2a5b4`. Its exact public file manifest is preserved as `validation/source_snapshot_9e2a5b4_manifest.json`, so their recorded manifest hash remains inspectable. The later navigation/assignment-metadata update adds this guide's review-allocation links and original assignment metadata; frozen scientific code, generation records and numerical results are unchanged.
+
+To rebuild the fifteen tables and five figures from a working copy, run `python research_assets/build_figures.py` from the repository root using the locked research environment. Rebuilding rewrites the derived assets and their figure manifest; it does not refit models or change the frozen numerical results. The delivered public file manifest verifies the delivered snapshot, so perform optional asset rebuilding in a separate working copy.
 
 ## Statistical and evidential limits
 

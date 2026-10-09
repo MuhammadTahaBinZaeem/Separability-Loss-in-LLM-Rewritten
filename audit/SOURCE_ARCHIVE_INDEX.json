@@ -7498,13 +7498,17 @@
     "revision/generation/gem31lite/rewrites.csv": {
       "sha256": "18ca8a59e9c4a03256e27a0bc236eb5d6d1216b62737aa495e8f90cb1b56ff52",
       "bytes": 2350329
-    }
-  },
-  "omitted_archive_members": {
+    },
     "revision/expanded_v3/MARKDOWN_REVIEW_AMENDMENT.md": {
       "sha256": "54ee97dfb7ee57e9814d18a967101aef4e173009854b521476b0baed4daa264b",
       "bytes": 2436
     },
+    "revision/expanded_v3/review_markdown_20261002/issued_manifest.json": {
+      "sha256": "7b1f81b2d1fabf7cb6a62bb5750f33e4f72bffc6633cde9417e1adb992d7f442",
+      "bytes": 2415
+    }
+  },
+  "omitted_archive_members": {
     "revision/expanded_v3/MARKDOWN_REVIEW_HANDOFF.md": {
       "sha256": "c752d9ba0c39f78a42ac13eb754bb37fabef2732ed458c0a2acef2e8131e741a",
       "bytes": 3817
@@ -7540,10 +7544,6 @@
     "revision/expanded_v3/review_markdown_20261002/START_HERE.md": {
       "sha256": "75878a7f136c1302f448216acb8b1292ad143f7d18f18b145aa1c1b7ddf4b14f",
       "bytes": 635
-    },
-    "revision/expanded_v3/review_markdown_20261002/issued_manifest.json": {
-      "sha256": "7b1f81b2d1fabf7cb6a62bb5750f33e4f72bffc6633cde9417e1adb992d7f442",
-      "bytes": 2415
     },
     "revision/expanded_v3/review_markdown_20261002/reviewer_01.md": {
       "sha256": "775356ba4543332928334f36074875c591096a20e19eb38406b5f00d04894b99",

@@ -38,12 +38,12 @@
       "role": "audit_documentation"
     },
     "audit/README.md": {
-      "sha256": "1b3dd259aba1eb6d8c27d4761c6183703ccf07b221215488c65071044964cb3b",
-      "bytes": 10357,
+      "sha256": "8f9f80942821ebc7508a5326cbcc3f00f3798565952db66157fbf034d6d5fe47",
+      "bytes": 8893,
       "role": "audit_documentation"
     },
     "audit/SOURCE_ARCHIVE_INDEX.json": {
-      "sha256": "2b2425fc08577c13df705f32fefce458fc6475bd09f073c4d3d8d5c0ac27e882",
+      "sha256": "9edb33d1f547ec0c4e8817451d5bae87a7df5647e99f74a275989f8500c1e60c",
       "bytes": 397093,
       "role": "audit_documentation"
     },
@@ -60,11 +60,6 @@
     "audit/validation/primary_terra56_receipt.json": {
       "sha256": "be9cc1d863604b1a9ff4894e00632324eb2ee682ed6efd56bf75f0fcbd9af147",
       "bytes": 1366,
-      "role": "audit_documentation"
-    },
-    "audit/validation/source_snapshot_9e2a5b4_manifest.json": {
-      "sha256": "e88586200746db5c3e8ee3b12c5da106e640b24b38eec29a542f870028217b9a",
-      "bytes": 484275,
       "role": "audit_documentation"
     },
     "audit/validation/transfer_gem31lite_strict_receipt.json": {
@@ -113,8 +108,8 @@
       "role": "additive_public_replay_companion"
     },
     "README.md": {
-      "sha256": "cb8b722a82c57de9374009f8ddf745a133a62fbe75f9d1c5b64847ebec76675c",
-      "bytes": 4749,
+      "sha256": "a96bfa23c6ad2fb24837185d5c156f7fc4dbb2a9525fbf1b3d585d6ecea7cf5c",
+      "bytes": 4582,
       "role": "audit_documentation"
     },
     "requirements-v2.in": {
@@ -8327,11 +8322,6 @@
       "bytes": 2029,
       "role": "frozen_research_evidence"
     },
-    "revision/expanded_v3/MARKDOWN_REVIEW_AMENDMENT.md": {
-      "sha256": "54ee97dfb7ee57e9814d18a967101aef4e173009854b521476b0baed4daa264b",
-      "bytes": 2436,
-      "role": "frozen_research_evidence"
-    },
     "revision/expanded_v3/primary_analysis/all_models_comparisons.csv": {
       "sha256": "5f1c035f7a74833e792fdd9e2d05812ea2e9a27e2bd5dde36b90f5d3bcd00217",
       "bytes": 15564,
@@ -9282,11 +9272,6 @@
       "bytes": 4907,
       "role": "frozen_research_evidence"
     },
-    "revision/expanded_v3/review_markdown_20261002/issued_manifest.json": {
-      "sha256": "7b1f81b2d1fabf7cb6a62bb5750f33e4f72bffc6633cde9417e1adb992d7f442",
-      "bytes": 2415,
-      "role": "frozen_research_evidence"
-    },
     "revision/expanded_v3/review_release/self_reported_875f34242015cc50/agreement.csv": {
       "sha256": "4b2884d1f2d79ec40190f179dc14040fd7368cf12e77c46335bd44ec52cad418",
       "bytes": 25691,
@@ -9693,5 +9678,5 @@
     "audit/validation/*current public replay receipts*"
   ],
   "legacy_manifest": "audit/LEGACY_FILES_MANIFEST.json",
-  "scope": "Current public code/evidence/assets/navigation, historical receipt copies and preserved initial public snapshot manifest; current replay receipts are separate to avoid recursive hashes."
+  "scope": "All current public code/evidence/assets/navigation and historical receipt copies; current replay receipts are separate to avoid recursive hashes."
 }

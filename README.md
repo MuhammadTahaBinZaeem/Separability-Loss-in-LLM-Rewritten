@@ -11,6 +11,7 @@ The current study uses **360 passages from six authors and eighteen works**, thr
 - [Access and exclusions](audit/ACCESS_AND_EXCLUSIONS.md): material intentionally withheld from this public tree and release permissions still to resolve.
 - [Public file manifest](audit/PUBLIC_FILE_MANIFEST.json): SHA-256 and role of the files in this audit release.
 - [Validation records](audit/validation/): completed checks and their exact scope.
+- [Review allocation amendment](revision/expanded_v3/MARKDOWN_REVIEW_AMENDMENT.md): the change from the earlier two-account route to eight raters in four fixed dyads.
 
 | Location | Role |
 | --- | --- |
